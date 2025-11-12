@@ -1,4 +1,4 @@
-# RSS Feed Aggregator
+# ***Vibe Coded*** - RSS Feed Aggregator
 
 A simple, automated RSS feed aggregator that fetches content from multiple sources and displays them on a clean, static website. Stay informed without the social media noise.
 
