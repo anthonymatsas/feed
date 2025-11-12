@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS Feed Aggregator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>RSS Feed Aggregator</h1>
+            <div class="header-info">
+                <span id="last-updated">Loading...</span>
+                <span id="item-count"></span>
+            </div>
+        </header>
+
+        <div class="controls">
+            <div class="search-container">
+                <input
+                    type="text"
+                    id="search"
+                    placeholder="Search articles..."
+                    autocomplete="off"
+                >
+            </div>
+
+            <div class="filter-container">
+                <label for="category-filter">Filter by:</label>
+                <select id="category-filter">
+                    <option value="all">All Sources</option>
+                </select>
+            </div>
+
+            <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
+                <span class="theme-icon">🌙</span>
+            </button>
+        </div>
+
+        <div id="feed-container" class="feed-container">
+            <div class="loading">Loading feeds...</div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

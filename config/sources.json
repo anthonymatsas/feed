@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss",
+      "category": "tech"
+    },
+    {
+      "name": "r/programming",
+      "url": "https://www.reddit.com/r/programming/.rss",
+      "category": "reddit"
+    },
+    {
+      "name": "r/technology",
+      "url": "https://www.reddit.com/r/technology/.rss",
+      "category": "reddit"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "category": "news"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "category": "news"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "category": "news"
+    }
+  ]
+}
