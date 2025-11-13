@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-13T04:29:31.686384Z",
+  "last_updated": "2025-11-13T05:24:19.917456Z",
   "items": [
+    {
+      "title": "[Highlight] AJ Brown on times he was open and Jalen Hurts didn't throw to him: \"Certain plays have different reads, despite what it looks like when someone takes a screenshot, you can't go off that. He has certain reads, he has a lot going on in his head that he's trying to process and then [...]",
+      "link": "https://www.reddit.com/r/nfl/comments/1ovrtv1/highlight_aj_brown_on_times_he_was_open_and_jalen/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-13T04:31:38Z",
+      "id": "1183118c0bfd27ce1594002d7b5c8136"
+    },
     {
       "title": "CollectWise (YC F24) Is Hiring",
       "link": "https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer",
@@ -34,12 +42,28 @@
       "id": "fced670eb79f8714ced6b0f9f79c23cc"
     },
     {
-      "title": "A67z",
-      "link": "https://www.a67z.com/",
+      "title": "Android 16 QPR1 is being pushed to the Android Open Source Project",
+      "link": "https://grapheneos.social/@GrapheneOS/115533432439509433",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-13T03:48:15Z",
-      "id": "e46723b325e81a9fd8db0ce8fe277b3a"
+      "published": "2025-11-13T03:49:23Z",
+      "id": "20b891abac3da36a7de0295c6007934d"
+    },
+    {
+      "title": "Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle",
+      "link": "https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-13T03:44:37Z",
+      "id": "94eb8487164b4c6242cc6be04aa5c5cc"
+    },
+    {
+      "title": "Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon",
+      "link": "https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-13T03:39:56Z",
+      "id": "33a3e35db087fb015a4435c63fedd443"
     },
     {
       "title": "2024 LLVM Dev Mtg - Floating Point in LLVM: the Good, the Bad, and the Absent",
@@ -50,12 +74,36 @@
       "id": "a850036288e52a0ad6716761cef133ec"
     },
     {
+      "title": "Large integer precision error in Bash command output rendering",
+      "link": "https://github.com/anthropics/claude-code/issues/11506",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-13T03:34:02Z",
+      "id": "84005d891ff4a642d79af031d7c0d1c1"
+    },
+    {
       "title": "NALTH.JS The Security\u2011First Web Framework You Should Be Using",
       "link": "https://www.reddit.com/r/programming/comments/1ovq9yw/nalthjs_the_securityfirst_web_framework_you/",
       "source": "r/programming",
       "category": "tech",
       "published": "2025-11-13T03:14:56Z",
       "id": "4b59dfd0830339bdc359587061a7e85b"
+    },
+    {
+      "title": "A Commentary on the Sixth Edition Unix Operating System",
+      "link": "https://warsus.github.io/lions-/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-13T03:01:47Z",
+      "id": "fd60f1ad63f914e680260034bb831150"
+    },
+    {
+      "title": "Jaguars HC Liam Coen: 'Very premature' to decide whether Travis Hunter will remain two-way player",
+      "link": "https://www.reddit.com/r/nfl/comments/1ovpzjl/jaguars_hc_liam_coen_very_premature_to_decide/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-13T03:01:20Z",
+      "id": "49f4c2e18a60abaed48df01b4854dc92"
     },
     {
       "title": "Current mood as a Chicago sports fan",
@@ -202,6 +250,14 @@
       "id": "0677d9bf43233a8e0532aa460c04cd14"
     },
     {
+      "title": "This Is The Version of Caleb Williams The NFL Never Wanted",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1ovlhuv/this_is_the_version_of_caleb_williams_the_nfl/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-12T23:41:53Z",
+      "id": "26c0c221782106faedd19364edccdc56"
+    },
+    {
       "title": "Voyager 1 is a light-day away by November 2026",
       "link": "https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432",
       "source": "Hacker News",
@@ -264,14 +320,6 @@
       "category": "sports",
       "published": "2025-11-12T22:38:21Z",
       "id": "32ddda317aeb1ce27e2f7a2d595101ab"
-    },
-    {
-      "title": "Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase",
-      "link": "https://arxiv.org/abs/2510.27002",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T22:35:29Z",
-      "id": "2852b6aaedb229e3b847c0462a64185c"
     },
     {
       "title": "Day 15: Gradients and Gradient Descent",
@@ -362,12 +410,12 @@
       "id": "401c312333855e8fd7f91de4e7fd7df4"
     },
     {
-      "title": "Making the Clang AST Leaner and Faster",
-      "link": "https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html",
+      "title": "GLP-1 drugs linked to lower death rates in colon cancer patients",
+      "link": "https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-12T20:02:58Z",
-      "id": "b0afaf55f6ae49d849f750a81dbc87ed"
+      "published": "2025-11-12T19:50:32Z",
+      "id": "a3dd231ef7cce691d713ae62f4773474"
     },
     {
       "title": "[Highlight] Falcons Quarterback Michael Penix Jr. says he has nobody to rely on on the sidelines, says most of the advice given to him is from old high school and college coaches.",
@@ -386,14 +434,6 @@
       "id": "7ff2482ddea082c138fd70efce92daa1"
     },
     {
-      "title": "[Schefter] Source: Broncos are signing WR Lil'Jordan Humphrey off the Giants\u2019 practice squad. Humphrey now is returning to Denver, and he is likely to play Sunday vs. the Chiefs.",
-      "link": "https://www.reddit.com/r/nfl/comments/1ovf35b/schefter_source_broncos_are_signing_wr_liljordan/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-11-12T19:37:17Z",
-      "id": "d44cbb9ae9c6644c1a56b224ac16a981"
-    },
-    {
       "title": "SWT Evolve: Drop-in Modern Renderer for SWT -- No Migrations, Web-Ready",
       "link": "https://www.reddit.com/r/programming/comments/1ovenf6/swt_evolve_dropin_modern_renderer_for_swt_no/",
       "source": "r/programming",
@@ -410,6 +450,14 @@
       "id": "c3eb5bc59f0e3d241010cca2f17c32cf"
     },
     {
+      "title": "GPT-5.1: A smarter, more conversational ChatGPT",
+      "link": "https://openai.com/index/gpt-5-1/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-12T19:05:41Z",
+      "id": "49558d4c9bab9ee6ec2f286ef54f5c2c"
+    },
+    {
       "title": "Advice please, I have been working too hard towards a goal that I am not even sure exists",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ovdu02/advice_please_i_have_been_working_too_hard/",
       "source": "r/ExperiencedDevs",
@@ -424,14 +472,6 @@
       "category": "tech",
       "published": "2025-11-12T18:51:04Z",
       "id": "4ca9f3220771120390729b0dc2649da6"
-    },
-    {
-      "title": "Blasting Yeast with UV Light",
-      "link": "https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T18:46:40Z",
-      "id": "fb1f336510c768bf990fd67acb948ad2"
     },
     {
       "title": "[Highlight] Mike McDaniel on what Dan Quinn has meant to his life and career: \u201cDan holds a special place in my heart. He was there at ground zero when I became sober and supported me and gave me the opportunity to continue what I love to do. So for that, I\u2019ll be forever indebted to him.\u201d",
@@ -466,28 +506,12 @@
       "id": "038e05910957b1e05d0fadf37104d962"
     },
     {
-      "title": "Cj Gardner-Johnson",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1ovdezs/cj_gardnerjohnson/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-12T18:36:57Z",
-      "id": "7255be0c4e046b5b674892370832bf5a"
-    },
-    {
       "title": "How Tube Amplifiers Work",
       "link": "https://robrobinette.com/How_Amps_Work.htm",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-12T18:35:59Z",
       "id": "b88c52e941197f5a6945f3ac6af3924c"
-    },
-    {
-      "title": "Valve Announces New Steam Machine, Steam Controller and Steam Frame",
-      "link": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T18:26:25Z",
-      "id": "06c191454eb29eed8df9f414eee4d5b8"
     },
     {
       "title": "Comparing Integers and Doubles",
@@ -594,14 +618,6 @@
       "id": "c16d272ef48f5c0ba10ff162ddeaece2"
     },
     {
-      "title": "Jonathan Taylor wins AFC Offensive Player of the Week",
-      "link": "https://www.reddit.com/r/nfl/comments/1ovbggs/jonathan_taylor_wins_afc_offensive_player_of_the/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-11-12T17:27:17Z",
-      "id": "acdaf8f6b868e54f32eae8b24a3b7198"
-    },
-    {
       "title": "Project Euler",
       "link": "https://projecteuler.net",
       "source": "Hacker News",
@@ -616,6 +632,14 @@
       "category": "sports",
       "published": "2025-11-12T17:20:50Z",
       "id": "02caa305d927620d5142634d7e827a19"
+    },
+    {
+      "title": "Helm 4.0",
+      "link": "https://github.com/helm/helm/releases/tag/v4.0.0",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-12T17:02:38Z",
+      "id": "65d4facd3e3a669f4f099a57001b49a1"
     },
     {
       "title": "[Highlight] Jets HC Aaron Glenn didn\u2019t want to discuss injuries today ESPN\u2019s Rich Cimini reported that Garrett Wilson would miss at least 3\u20134 weeks with a knee injury: \u201cRich has all the answers. You can get it from him.\u201d",
@@ -640,6 +664,14 @@
       "category": "tech",
       "published": "2025-11-12T16:44:44Z",
       "id": "f24321eb44345105be8ca8ab0c619daa"
+    },
+    {
+      "title": "Digital\u00a0ID, a\u00a0new way to create and present an ID in Apple\u00a0Wallet",
+      "link": "https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-12T16:40:17Z",
+      "id": "8d42ced99266e1bc2af92e73b40122f5"
     },
     {
       "title": "D.J. Moore still has more TD passes than Jordan Love for the last two games. Caleb still has more TD receptions than Golden for the entire season.",
@@ -746,14 +778,6 @@
       "id": "6c6b0cc3187b1484aebf958be8a743a4"
     },
     {
-      "title": "Learn Prolog Now",
-      "link": "https://lpn.swi-prolog.org/lpnpage.php?pageid=top",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T14:54:27Z",
-      "id": "d7c483a33e0217fcb03388afc4ffa83b"
-    },
-    {
       "title": "\u201cHello Alice!\u201d - A Production-Ready scaffold in NPL",
       "link": "https://www.reddit.com/r/programming/comments/1ov75ry/hello_alice_a_productionready_scaffold_in_npl/",
       "source": "r/programming",
@@ -826,14 +850,6 @@
       "id": "0247f17698270471cfc80e0449dab9e4"
     },
     {
-      "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
-      "link": "https://github.com/yt-dlp/yt-dlp/issues/15012",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T10:12:53Z",
-      "id": "aa783ebf580f60dc951b5d598262a9b9"
-    },
-    {
       "title": "Tips for interviewing for Staff/Lead Engineer roles in backend?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ov15bd/tips_for_interviewing_for_stafflead_engineer/",
       "source": "r/ExperiencedDevs",
@@ -864,14 +880,6 @@
       "category": "sports",
       "published": "2025-11-12T07:58:40Z",
       "id": "083494ca89272feb95a43e0c5feacf24"
-    },
-    {
-      "title": "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
-      "link": "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T05:36:41Z",
-      "id": "7fb094c8f86e739df53b84796c5eb2d5"
     },
     {
       "title": "This used to be us",
@@ -1242,12 +1250,12 @@
       "id": "4450f83f0f52de702eb196e51c36cd1c"
     },
     {
-      "title": "Disassembling terabytes of random data with Zig and Capstone to prove a point",
-      "link": "https://jstrieb.github.io/posts/random-instructions/",
+      "title": "Comparing the Latitude of Europe and America",
+      "link": "https://vividmaps.com/comparing-latitude-of-europe-and-america/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-08T11:49:36Z",
-      "id": "fa9042dcd68b6fce60b81d5a513d065d"
+      "published": "2025-11-09T01:44:26Z",
+      "id": "9f88cff152877b3b40736387f5d7092a"
     },
     {
       "title": "\ud835\ude82\ud835\ude8e\ud835\ude8c\ud835\ude9b\ud835\ude8e\ud835\ude9d \ud835\ude73\ud835\ude92\ud835\ude9d\ud835\ude94\ud835\ude8a #\ud835\udff7\ud835\udff9",
@@ -1258,28 +1266,20 @@
       "id": "cc93eed3a8109df2d5c46daaf5d8e5cd"
     },
     {
-      "title": "Benzene at 200",
-      "link": "https://www.rigb.org/explore-science/explore/blog/tiny-vial-changed-world-benzene-200",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-06T16:33:42Z",
-      "id": "555aa419e8cf5b7e0226f3f93082b351"
-    },
-    {
-      "title": "Tetrahedral Analog of the Pythagorean Theorem",
-      "link": "https://www.johndcook.com/blog/2025/11/03/de-gua/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-05T10:01:03Z",
-      "id": "dd5b53c197c503e2b0db16e06ab90592"
-    },
-    {
       "title": "Max Number of Simultaneous Key-Press (N-Key Rollover, NKRO, Ghosting) (2010)",
       "link": "http://xahlee.info/kbd/keyboard_n-key_rollover_key_ghosting.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-03T19:36:27Z",
       "id": "eb6d1d76d317fc6da7715ecb2a591fd2"
+    },
+    {
+      "title": "Software development in the time of strange new angels",
+      "link": "https://davegriffith.substack.com/p/software-development-in-the-time",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-03T19:10:36Z",
+      "id": "a9befac0a2d0bc917128468e986739b3"
     },
     {
       "title": "Mergiraf: Syntax-Aware Merging for Git",
