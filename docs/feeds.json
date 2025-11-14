@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-14T10:26:45.050854Z",
+  "last_updated": "2025-11-14T11:20:14.856495Z",
   "items": [
+    {
+      "title": "What I Learned Building a Tiny Terminal Browser in Go",
+      "link": "https://www.reddit.com/r/programming/comments/1owtksl/what_i_learned_building_a_tiny_terminal_browser/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-14T11:04:42Z",
+      "id": "9138b06b266b567255bb5765b0289d18"
+    },
+    {
+      "title": "Build an Image Classifier with Vision Transformer",
+      "link": "https://www.reddit.com/r/programming/comments/1owti39/build_an_image_classifier_with_vision_transformer/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-14T11:00:38Z",
+      "id": "cd1372202d4a3bdc4bed845531b4dd20"
+    },
+    {
+      "title": "Ace Your JavaScript Interview! Developer Podcast with Real Q&A Examples",
+      "link": "https://www.reddit.com/r/programming/comments/1owt528/ace_your_javascript_interview_developer_podcast/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-14T10:39:19Z",
+      "id": "5c0562f8918fc1199f5fe33442a1e4cf"
+    },
     {
       "title": "Pulse 1.0.4: deterministic concurrency, CLI tools and full templates",
       "link": "https://www.reddit.com/r/programming/comments/1owss92/pulse_104_deterministic_concurrency_cli_tools_and/",
@@ -24,14 +48,6 @@
       "category": "tech",
       "published": "2025-11-14T10:08:30Z",
       "id": "12058d0e6b5d5a40b6c14154f3fb0f85"
-    },
-    {
-      "title": "I Don\u2019t know what to choose",
-      "link": "https://www.reddit.com/r/programming/comments/1owsfjn/i_dont_know_what_to_choose/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-14T09:56:49Z",
-      "id": "3f4e758ea517d2c5e893b1121bc03662"
     },
     {
       "title": "V8 Garbage Collector",
@@ -458,14 +474,6 @@
       "id": "965f5ae7917bb180ac741dad0056d7aa"
     },
     {
-      "title": "Piramidal (YC W24) Hiring: Front End Engineer",
-      "link": "https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-13T21:00:27Z",
-      "id": "17014c1a36299384690759208a6972e9"
-    },
-    {
       "title": "Rust in Android: move fast and fix things",
       "link": "https://www.reddit.com/r/programming/comments/1owcbc7/rust_in_android_move_fast_and_fix_things/",
       "source": "r/programming",
@@ -826,14 +834,6 @@
       "id": "ec460cde2dcf819ec72baf1fc2ef9ae3"
     },
     {
-      "title": "Day 13: Implement TLS Encryption for Secure Log Transmission",
-      "link": "https://www.reddit.com/r/programming/comments/1ow0nhs/day_13_implement_tls_encryption_for_secure_log/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-13T13:10:13Z",
-      "id": "675341cdc791a76735912339d3885a72"
-    },
-    {
       "title": "Raft Consensus in 2,000 words",
       "link": "https://www.reddit.com/r/programming/comments/1ow0czt/raft_consensus_in_2000_words/",
       "source": "r/programming",
@@ -848,6 +848,14 @@
       "category": "tech",
       "published": "2025-11-13T11:33:04Z",
       "id": "6c76e102e9226968cf1d2ad02a7e3801"
+    },
+    {
+      "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
+      "link": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-13T09:23:30Z",
+      "id": "57bc4494a913c6d185da9996a9fcbdcd"
     },
     {
       "title": "Do you have a documentation strategy",
@@ -1024,14 +1032,6 @@
       "category": "tech",
       "published": "2025-11-12T17:36:46Z",
       "id": "c16d272ef48f5c0ba10ff162ddeaece2"
-    },
-    {
-      "title": "Async and Finaliser Deadlocks",
-      "link": "https://www.reddit.com/r/programming/comments/1ova8wi/async_and_finaliser_deadlocks/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-12T16:44:44Z",
-      "id": "f24321eb44345105be8ca8ab0c619daa"
     },
     {
       "title": "Rockets fan here",
@@ -1218,20 +1218,20 @@
       "id": "11174d70fe895b634e7e21449db020e1"
     },
     {
-      "title": "Sarah Mason, inventor of the continuity script, first script supervisor",
-      "link": "https://wfpp.columbia.edu/pioneer/ccp-sarah-y-mason/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-04T22:23:36Z",
-      "id": "f5a6772345526bb17681cf1645bf5f56"
-    },
-    {
       "title": "Why do we need dithering?",
       "link": "https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-04T19:27:55Z",
       "id": "49a34a24417e23baafeb72feccd1a819"
+    },
+    {
+      "title": "Show HN: An easy-to-use online curve fitting tool",
+      "link": "https://byx2000.github.io/curve-fit/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-04T12:23:01Z",
+      "id": "754882c4b882b52a3014fce2e5048398"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
