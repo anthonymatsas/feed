@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-15T08:27:40.488083Z",
+  "last_updated": "2025-11-15T09:21:22.558902Z",
   "items": [
     {
       "title": "Tingus Trade",
@@ -24,6 +24,14 @@
       "category": "tech",
       "published": "2025-11-15T07:48:23Z",
       "id": "98d009f644c316718fc6e1a051999eb1"
+    },
+    {
+      "title": "Messing with Scraper Bots",
+      "link": "https://herman.bearblog.dev/messing-with-bots/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-15T07:38:18Z",
+      "id": "42a2496d9d417922290936f4e198d504"
     },
     {
       "title": "The Internet Is Cool. Thank You, TCP",
@@ -58,20 +66,20 @@
       "id": "25d1e6f61577c7ad2a0a6d01c2bbfb34"
     },
     {
-      "title": "I can't recommend Grafana anymore",
-      "link": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T03:58:01Z",
-      "id": "7c6ee9e411e4106597102838cf33daea"
-    },
-    {
       "title": "Meet Reservoir \u2013 The World's Smartest Water Heater",
       "link": "https://www.reservoirhome.com/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-15T03:50:04Z",
       "id": "9169a167ad2cf50607123b5368f21300"
+    },
+    {
+      "title": "Behind Vance Joseph's Denver Broncos comeback story",
+      "link": "https://www.reddit.com/r/nfl/comments/1oxhjb4/behind_vance_josephs_denver_broncos_comeback_story/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-15T03:42:59Z",
+      "id": "b8c52720d72ca25df978e553fbb1e5ad"
     },
     {
       "title": "How realistic is it to find remote employers that are supportive to parents?",
@@ -450,14 +458,6 @@
       "id": "ab2b6fac9db359577223165b8bd90d90"
     },
     {
-      "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
-      "link": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-14T18:42:55Z",
-      "id": "d9615a4a202b73dbedbaf209fee71f72"
-    },
-    {
       "title": "AI World Clocks",
       "link": "https://clocks.brianmoore.com/",
       "source": "Hacker News",
@@ -680,14 +680,6 @@
       "category": "sports",
       "published": "2025-11-14T16:00:59Z",
       "id": "8d86b8318effe6f4ac090bec028f6541"
-    },
-    {
-      "title": "Aaron Glenn: Jets don't want to put QB Justin Fields in 'harm's way' like he's a running back",
-      "link": "https://www.reddit.com/r/nfl/comments/1ox0agi/aaron_glenn_jets_dont_want_to_put_qb_justin/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-11-14T15:56:47Z",
-      "id": "28d5ff7c767be51b4b75d75e74a17fa1"
     },
     {
       "title": "Joined a new project as a Lead-Being pushed toward Microfrontends",
@@ -1144,6 +1136,14 @@
       "category": "sports",
       "published": "2025-11-11T11:00:56Z",
       "id": "0e2e77f7b8c6795d30f419dc328e2b62"
+    },
+    {
+      "title": "Blending SQL and Python with Sqlorm",
+      "link": "https://hyperflask.dev/blog/2025/11/11/blending-sql-and-python-with-sqlorm/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-11T09:53:27Z",
+      "id": "450996cd3c578b499eed3a8a89df19b3"
     },
     {
       "title": "Show HN: Tiny Diffusion \u2013 A character-level text diffusion model from scratch",
