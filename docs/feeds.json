@@ -1,14 +1,6 @@
 {
-  "last_updated": "2025-11-15T05:22:07.747378Z",
+  "last_updated": "2025-11-15T06:32:32.862742Z",
   "items": [
-    {
-      "title": "Scientists reverse kidney damage in mice, hope for humans next",
-      "link": "https://www.sciencedaily.com/releases/2025/11/251114094525.htm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T03:59:35Z",
-      "id": "5c007a2676e11e6cbab10155c794735b"
-    },
     {
       "title": "I can't recommend Grafana anymore",
       "link": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
@@ -50,12 +42,12 @@
       "id": "dea546617c30d25567aeab9d3d6e1c46"
     },
     {
-      "title": "AI note-taking startup Fireflies was really two guys typing notes by hand",
-      "link": "https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/",
+      "title": "AMD GPUs Go Brrr",
+      "link": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-15T02:11:43Z",
-      "id": "2d532e71ec25829b4b275012f17dffc7"
+      "published": "2025-11-15T02:06:16Z",
+      "id": "4e3e1115d74021cf26ab232df1e80d18"
     },
     {
       "title": "How many of us are working overtime to avoid being considered for layoffs?",
@@ -410,6 +402,14 @@
       "id": "ab2b6fac9db359577223165b8bd90d90"
     },
     {
+      "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
+      "link": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-14T18:42:55Z",
+      "id": "d9615a4a202b73dbedbaf209fee71f72"
+    },
+    {
       "title": "AI World Clocks",
       "link": "https://clocks.brianmoore.com/",
       "source": "Hacker News",
@@ -560,14 +560,6 @@
       "category": "tech",
       "published": "2025-11-14T17:08:15Z",
       "id": "73ef6058df6abcdf291da58f49e706e1"
-    },
-    {
-      "title": "Moving Back to a Tiling WM \u2013 XMonad",
-      "link": "https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-14T17:04:49Z",
-      "id": "c7c467bd2c2c65827acb67eda7d2ec82"
     },
     {
       "title": "Manganese is Lyme disease's double-edge sword",
@@ -816,6 +808,14 @@
       "category": "tech",
       "published": "2025-11-14T08:42:20Z",
       "id": "b8c61b2b65b7a61fd24d8ea3dc062b03"
+    },
+    {
+      "title": "Lawmakers want to ban VPNs and have no idea what they're doing",
+      "link": "https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-14T06:39:13Z",
+      "id": "883a75c440d0a2e9c5ab34948862e783"
     },
     {
       "title": "Recently joined a project that is obviously careening towards a wall",
@@ -1130,12 +1130,12 @@
       "id": "484181ac910cedc2de8f3cf880dd014a"
     },
     {
-      "title": "Has Google solved two of AI\u2019s oldest problems?",
+      "title": "A new Google model is nearly perfect on automated handwriting recognition",
       "link": "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-11T13:52:15Z",
-      "id": "70d45624c44346196fa94f0f89004169"
+      "id": "dc0c7714f6eaf849aed4dec06ce8d6a5"
     },
     {
       "title": "Weekly Self-Promo and Tickets/Merch Sale Thread",
@@ -1162,28 +1162,12 @@
       "id": "a0983723b9d470f647d5d4a5b844eed1"
     },
     {
-      "title": "Raycore: GPU accelerated and modular ray intersections",
-      "link": "https://makie.org/website/blogposts/raycore/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-10T14:42:35Z",
-      "id": "1328d31327184c4cde2931d4f6c1c9a7"
-    },
-    {
       "title": "Weekly Discussion Thread - November 10, 2025",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1otejnz/weekly_discussion_thread_november_10_2025/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2025-11-10T14:01:38Z",
       "id": "2913589629c0f242369332e5463227ae"
-    },
-    {
-      "title": "Honda: 2 years of ml vs 1 month of prompting - heres what we learned",
-      "link": "https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-10T13:11:49Z",
-      "id": "7355cb8a29d8656ff193fb106c70b9f2"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
@@ -1218,12 +1202,28 @@
       "id": "4b56700b4f31b0cc4996b2807ff7edd1"
     },
     {
+      "title": "Ucs-Detect",
+      "link": "https://ucs-detect.readthedocs.io/intro.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-04T16:58:00Z",
+      "id": "3e8200b2f5aaa6712c81c9ea8a57b2aa"
+    },
+    {
       "title": "Async Mutexes",
       "link": "https://matklad.github.io/2025/11/04/on-async-mutexes.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-04T12:02:24Z",
       "id": "d04a851558d0b80fa06306fa492f44a1"
+    },
+    {
+      "title": "Unofficial Microsoft Teams client for Linux",
+      "link": "https://github.com/IsmaelMartinez/teams-for-linux",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-04T07:41:58Z",
+      "id": "dc67a45598bf92f292334e0141ca28ad"
     },
     {
       "title": "Awk Technical Notes (2023)",
