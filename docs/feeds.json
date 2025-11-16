@@ -1,13 +1,85 @@
 {
-  "last_updated": "2025-11-16T11:17:37.731200Z",
+  "last_updated": "2025-11-16T12:42:49.082728Z",
   "items": [
     {
-      "title": "Multi-Modal RAG systems are way better. Traditional RAGs feel blind when compared to them.",
-      "link": "https://www.reddit.com/r/programming/comments/1oyil1f/multimodal_rag_systems_are_way_better_traditional/",
+      "title": "Why are you (still) using OpenBSD?",
+      "link": "https://www.tumfatig.net/2025/why-are-you-still-using-openbsd/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T12:25:01Z",
+      "id": "817377acf961155a133baa7bd415e021"
+    },
+    {
+      "title": "Chicago Squares Week 11: Vikings Swedish Meatball Pizza",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1oykf4s/chicago_squares_week_11_vikings_swedish_meatball/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-16T12:23:45Z",
+      "id": "a8010024b3eccc4bf71502ac6f38065c"
+    },
+    {
+      "title": "BEAR DOWN!",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1oyka1o/bear_down/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-16T12:16:14Z",
+      "id": "b7ed5f23015323b0ddeb8e1ac7387acf"
+    },
+    {
+      "title": "Sunday Brunch",
+      "link": "https://www.reddit.com/r/nfl/comments/1oyjxrj/sunday_brunch/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-16T11:58:17Z",
+      "id": "3a941dde1cc9a1749e6ad26ec52deb4e"
+    },
+    {
+      "title": "Jaguars plan to continue utilizing Travis Hunter as two-way player during 2026 season",
+      "link": "https://www.reddit.com/r/nfl/comments/1oyjugm/jaguars_plan_to_continue_utilizing_travis_hunter/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-16T11:53:03Z",
+      "id": "0c25e677a1a1561063d60e48f24ddad2"
+    },
+    {
+      "title": "Anthropic's report smells a lot like bullshit",
+      "link": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T11:32:39Z",
+      "id": "a75d114e988023a94a9eb3444815f77d"
+    },
+    {
+      "title": "Giants urging Dart to modify running approach",
+      "link": "https://www.reddit.com/r/nfl/comments/1oyjf70/giants_urging_dart_to_modify_running_approach/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-16T11:28:44Z",
+      "id": "8f5ec3255391701028bd4a1f68d84f8c"
+    },
+    {
+      "title": "How to run a background service in WSL",
+      "link": "https://www.reddit.com/r/programming/comments/1oyjbis/how_to_run_a_background_service_in_wsl/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2025-11-16T10:39:46Z",
-      "id": "701141fb9475838784d2db0daddb4041"
+      "published": "2025-11-16T11:22:38Z",
+      "id": "dc2a62ed430830ba845b3d6697e35c5c"
+    },
+    {
+      "title": "Google releases CodeWiki for AI-based code documentation",
+      "link": "https://www.reddit.com/r/programming/comments/1oyjaf7/google_releases_codewiki_for_aibased_code/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-16T11:20:48Z",
+      "id": "ec3c959926572a59d9e883199d328629"
+    },
+    {
+      "title": "UK's first small nuclear power station to be built in north Wales",
+      "link": "https://www.bbc.com/news/articles/c051y3d7myzo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T10:38:41Z",
+      "id": "6d267cff848ef3e262a46ea7c930fb4f"
     },
     {
       "title": "Speedrunning a CPU: RISC-V in a Week",
@@ -24,6 +96,14 @@
       "category": "tech",
       "published": "2025-11-16T10:21:07Z",
       "id": "ec64a4a5d5583729c046dd313a29f762"
+    },
+    {
+      "title": "Maybe You're Not Actually Trying",
+      "link": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T10:14:25Z",
+      "id": "cd377a7242ab5167ef5f1ad83ab52192"
     },
     {
       "title": "An exposed .git folder let us dox a phishing campaign",
@@ -64,22 +144,6 @@
       "category": "tech",
       "published": "2025-11-16T07:36:56Z",
       "id": "20ebcc8d7986b88910c491f02d927f19"
-    },
-    {
-      "title": "Lazy Skills: A Token-Efficient Approach to Dynamic Agent Capabilities",
-      "link": "https://www.reddit.com/r/programming/comments/1oyf9h5/lazy_skills_a_tokenefficient_approach_to_dynamic/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-16T07:12:38Z",
-      "id": "2645eb9f9e7ccb416f91538866cab757"
-    },
-    {
-      "title": "Ubiquiti Flex Mini 2.5G Review Ubiquiti Does a Cheap 5-Port 2.5GbE Switch",
-      "link": "https://www.servethehome.com/ubiquiti-flex-mini-2-5g-review-ubiquiti-does-a-cheap-5-port-2-5gbe-switch/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-16T06:55:50Z",
-      "id": "2d72a199df0487295817373c9ac587bb"
     },
     {
       "title": "Bypassing the Branch Predictor",
@@ -136,6 +200,14 @@
       "category": "sports",
       "published": "2025-11-16T04:15:07Z",
       "id": "aca5543310f864b6516d59564aee527e"
+    },
+    {
+      "title": "Is our death from a hydrogen sulfide event inevitable in climate warming? (2005)",
+      "link": "https://www.psu.edu/news/research/story/global-warming-led-climatic-hydrogen-sulfide-and-permian-extinction",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T04:02:26Z",
+      "id": "12dee9233c3eb7c15f092e51bd436c76"
     },
     {
       "title": "[Fowler] Titans WR Calvin Ridley (questionable, hamstring) is expected to play Sunday vs. Houston",
@@ -410,12 +482,12 @@
       "id": "2357d0f38e9cb65f0a5fa7d9b9fec398"
     },
     {
-      "title": "libwifi: an 802.11 frame parsing and generation library written in C",
+      "title": "libwifi: an 802.11 frame parsing and generation library written in C (2023)",
       "link": "https://libwifi.so/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-15T22:16:33Z",
-      "id": "a6b9ba0dd6db6a6fe656fac97a5306a2"
+      "id": "0c27b1d868bb591531a6d5c06e296d1f"
     },
     {
       "title": "AsciiMath",
@@ -424,14 +496,6 @@
       "category": "tech",
       "published": "2025-11-15T21:22:57Z",
       "id": "35ffffe6b204c40ed1beb773d82eb725"
-    },
-    {
-      "title": "Report: Tim Cook could step down as Apple CEO 'as soon as next year'",
-      "link": "https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T21:18:55Z",
-      "id": "7ce8351a7a6223cf40241fe6a6406c64"
     },
     {
       "title": "[Schefter] Patriots placed DT Milton Williams on injured reserve due to a high ankle sprain, sidelining him for a minimum of four games",
@@ -528,14 +592,6 @@
       "category": "sports",
       "published": "2025-11-15T20:06:45Z",
       "id": "cb80b26905c07bff0a2c6561a2263501"
-    },
-    {
-      "title": "[Schefter] Lions downgraded Marcus Davenport, D.J. Reed, Malcolm Rodriguez and Miles Frazier to out for Sunday night\u2019s game vs. the Eagles. They also added WR Isaac TeSlaa to the injury report as questionable for Sunday night due to an oblique injury.",
-      "link": "https://www.reddit.com/r/nfl/comments/1oy1e4h/schefter_lions_downgraded_marcus_davenport_dj/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-11-15T20:02:17Z",
-      "id": "990ab1b404145508600bacf56ef260db"
     },
     {
       "title": "Refactoring Legacy: Part 1 - DTO's & Value Objects",
@@ -714,14 +770,6 @@
       "id": "512acbba0cb5fc85174d30e887c2a08b"
     },
     {
-      "title": "Shitpost Saturday",
-      "link": "https://www.reddit.com/r/nfl/comments/1oxtte5/shitpost_saturday/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-11-15T15:00:34Z",
-      "id": "92c6795614eb086f326ddbc8b464203f"
-    },
-    {
       "title": "I'd pay money to hear Stacey and Adam calling this",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1oxtcen/id_pay_money_to_hear_stacey_and_adam_calling_this/",
       "source": "r/chicagobulls",
@@ -736,14 +784,6 @@
       "category": "sports",
       "published": "2025-11-15T13:50:39Z",
       "id": "48c668e1de580c2a2a0f561b05a07dfd"
-    },
-    {
-      "title": "The Commanders' injury numbers tell a grim story of a season gone wrong",
-      "link": "https://www.reddit.com/r/nfl/comments/1oxs40p/the_commanders_injury_numbers_tell_a_grim_story/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-11-15T13:46:30Z",
-      "id": "43a3322c8c72e328b5f6c9ac7b0e439d"
     },
     {
       "title": "Our investigation into the suspicious pressure on Archive.today",
@@ -768,14 +808,6 @@
       "category": "sports",
       "published": "2025-11-15T09:20:58Z",
       "id": "6c51f3dbc590f8ebd56f301948612304"
-    },
-    {
-      "title": "EyesOff: How I built a screen contact detection model",
-      "link": "https://ym2132.github.io/building_EyesOff_part2_model_training",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T08:42:33Z",
-      "id": "0b5a1bb1c1ef264871b258c4a162f930"
     },
     {
       "title": "Tingus Trade",
@@ -858,14 +890,6 @@
       "id": "533f12e6fd4dca9d258c2437e594e4f3"
     },
     {
-      "title": "Caleb Williams\u2019 journey to 4,000 yards - Week 10",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1oxbfu5/caleb_williams_journey_to_4000_yards_week_10/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-14T23:01:29Z",
-      "id": "3f9a953053900c5ed0951f8b291f34d8"
-    },
-    {
       "title": "What to do if someone on your team just doesn't like you?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oxai2i/what_to_do_if_someone_on_your_team_just_doesnt/",
       "source": "r/ExperiencedDevs",
@@ -880,14 +904,6 @@
       "category": "sports",
       "published": "2025-11-14T22:03:54Z",
       "id": "c4e09b08ea073e7be8264d68f814a943"
-    },
-    {
-      "title": "Aged like milk",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1ox9kq1/aged_like_milk/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-14T21:46:20Z",
-      "id": "f82dcb9da7d79eab64937cb147ee4a0e"
     },
     {
       "title": "We have some awesome tradeable contracts",
@@ -1138,6 +1154,14 @@
       "id": "ab19d51a4d7ff9438d269482f8daffb8"
     },
     {
+      "title": "Show HN: Real-time 4D Julia set navigation via gamepad",
+      "link": "https://banditcat.github.io/Atlas/Atlas.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-12T02:46:39Z",
+      "id": "f8bf0593285c9d6d42b09f15e2ec957f"
+    },
+    {
       "title": "Official r/NFL Week 10 Power Rankings",
       "link": "https://www.reddit.com/r/nfl/comments/1ouldpp/official_rnfl_week_10_power_rankings/",
       "source": "r/nfl",
@@ -1200,30 +1224,6 @@
       "category": "tech",
       "published": "2025-11-06T06:15:43Z",
       "id": "1523dd347bf4ca3ef4af51a94c902f66"
-    },
-    {
-      "title": "Computing Across America (1983-1985)",
-      "link": "https://microship.com/winnebiko/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-05T21:14:12Z",
-      "id": "636844fcc01d5c7f320a19057d6665e0"
-    },
-    {
-      "title": "JVM exceptions are weird: a decompiler perspective",
-      "link": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-05T10:11:43Z",
-      "id": "f2841a55325632a165d36a61060b64e4"
-    },
-    {
-      "title": "Writing a book with Quarto",
-      "link": "https://blog.stephenturner.us/p/quarto-books",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-04T10:03:40Z",
-      "id": "2adb2fb2d117719fc721628b1156a379"
     },
     {
       "title": "Writing a DOS Clone in 2019",
