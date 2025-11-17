@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-11-17T09:29:25.160430Z",
+  "last_updated": "2025-11-17T10:27:46.998348Z",
   "items": [
+    {
+      "title": "Status meetings used as information broadcast instead of progress reports",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ozcsxn/status_meetings_used_as_information_broadcast/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-17T10:26:11Z",
+      "id": "0cb73f0aa9251ce2d2a933ea3ef2f4c2"
+    },
+    {
+      "title": "\ud83e\udd80 Rust-Proofing Android",
+      "link": "https://www.reddit.com/r/programming/comments/1ozclw7/rustproofing_android/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T10:13:57Z",
+      "id": "4b54fc855bad15424c5b2b8e1a125fff"
+    },
     {
       "title": "FFM - Java's new approach to interop with native code",
       "link": "https://www.reddit.com/r/programming/comments/1ozbr1m/ffm_javas_new_approach_to_interop_with_native_code/",
@@ -154,14 +170,6 @@
       "id": "d14208dfe632f1b92da7b213d1cb0931"
     },
     {
-      "title": "Exploring Vibe Coding - Early Impressions and Practical Framework",
-      "link": "https://www.reddit.com/r/programming/comments/1oz5ye0/exploring_vibe_coding_early_impressions_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T03:36:08Z",
-      "id": "6f3a273954f682db195f048d402fea3d"
-    },
-    {
       "title": "[Highlight] Seahawks LB Ernest Jones on Sam Darnold\u2019s 4 INT game: \u201cSam has had us in every f***ing game. For him to sit there and say it\u2019s his fault, no it\u2019s not. \u2026 If you got anything to say quite frankly f*** you.\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1oz5ljf/highlight_seahawks_lb_ernest_jones_on_sam/",
       "source": "r/nba",
@@ -232,6 +240,14 @@
       "category": "sports",
       "published": "2025-11-17T00:52:16Z",
       "id": "a747f247685b18077f0073a251762389"
+    },
+    {
+      "title": "Cheifs lose giving Broncoes a 4 win lead in the division while being tied for 8th with Ravens and Texans",
+      "link": "https://www.reddit.com/r/nfl/comments/1oz2er6/cheifs_lose_giving_broncoes_a_4_win_lead_in_the/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-11-17T00:48:53Z",
+      "id": "1f86cab1df6f9c1b15266a2ff6b7f307"
     },
     {
       "title": "The Bears have the top 3 interception leaders so far this season",
@@ -674,14 +690,6 @@
       "id": "1590d03785dde0b0b42090bfce38c046"
     },
     {
-      "title": "[Highlight] Aaron Rodgers observes tush push from backfield",
-      "link": "https://www.reddit.com/r/nfl/comments/1oyt7rq/highlight_aaron_rodgers_observes_tush_push_from/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-11-16T18:31:11Z",
-      "id": "63b92a7bea9f6d39f02940b2a3f73687"
-    },
-    {
       "title": "His Legal Name Is One Letter\u2014A reminder that bad validation rules hurt people",
       "link": "https://www.reddit.com/r/programming/comments/1oysdqb/his_legal_name_is_one_lettera_reminder_that_bad/",
       "source": "r/programming",
@@ -874,6 +882,14 @@
       "id": "dc3296257fb60dbbe2e2dab021bdb1a2"
     },
     {
+      "title": "AirPods libreated from Apple's ecosystem",
+      "link": "https://github.com/kavishdevar/librepods",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T00:01:25Z",
+      "id": "386986858d6057b0f64725cb9faa6a38"
+    },
+    {
       "title": "Bill Cartwright was the final piece needed to start the Chicago Bulls dynasty in the 1990s",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1oy640g/bill_cartwright_was_the_final_piece_needed_to/",
       "source": "r/chicagobulls",
@@ -992,14 +1008,6 @@
       "category": "sports",
       "published": "2025-11-15T08:25:47Z",
       "id": "36e17b6a8bce12ba447218c1ef0a5f0d"
-    },
-    {
-      "title": "How realistic is it to find remote employers that are supportive to parents?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oxgig0/how_realistic_is_it_to_find_remote_employers_that/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-15T02:52:30Z",
-      "id": "5194dcaf9c7b7c64b3ad7983d72b683e"
     },
     {
       "title": "It's harder to get out of a bad job than it is of a good job.",
@@ -1210,12 +1218,12 @@
       "id": "cc93eed3a8109df2d5c46daaf5d8e5cd"
     },
     {
-      "title": "A Man Who Rescued Faulkner",
-      "link": "https://www.theatlantic.com/magazine/2025/12/malcolm-cowley-american-literature/684606/",
+      "title": "Craft Chrome Devtools Protocol (CDP) commands with the new command editor",
+      "link": "https://developer.chrome.com/blog/cdp-command-editor",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-06T18:57:29Z",
-      "id": "33747df65891e8c736d177c00ec4e26f"
+      "published": "2025-11-07T10:11:08Z",
+      "id": "a3e878bec02a6d4f026e2e81fa308785"
     },
     {
       "title": "A file format uncracked for 20 years",
@@ -1224,14 +1232,6 @@
       "category": "tech",
       "published": "2025-11-06T16:52:19Z",
       "id": "c8deb1f200cdc42856576ea925cb4b7c"
-    },
-    {
-      "title": "Origin and Evolution of the Globstar",
-      "link": "https://mergify.com/blog/origin-and-evolution-of-the-globstar",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-06T16:20:06Z",
-      "id": "d09c424b092f4ab4b4726de42573cf15"
     },
     {
       "title": "Fourier Transforms",
