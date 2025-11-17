@@ -1,6 +1,134 @@
 {
-  "last_updated": "2025-11-17T19:18:58.074600Z",
+  "last_updated": "2025-11-17T20:27:31.495945Z",
   "items": [
+    {
+      "title": "The Programming of Algebra",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr5kr/the_programming_of_algebra/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:20:32Z",
+      "id": "fab4bde75388e7ab8385ab179c8f0d37"
+    },
+    {
+      "title": "Linus Torvalds Speaks On the Rust and C Linux Divide",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr59o/linus_torvalds_speaks_on_the_rust_and_c_linux/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:20:12Z",
+      "id": "3bae398e0d4ba14e92525d1ab79aecf7"
+    },
+    {
+      "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr4ya/z3_api_in_python_from_sudoku_to_nqueens_in_under/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:19:55Z",
+      "id": "6c62f444c302c6bca930b2e386fcf8b9"
+    },
+    {
+      "title": "GCC 16 considering changing default to C++20",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr4ax/gcc_16_considering_changing_default_to_c20/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:19:16Z",
+      "id": "14d97f3a4ea81a98c0b53058efb3303a"
+    },
+    {
+      "title": "Building a Simple Search Engine That Works",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr3ey/building_a_simple_search_engine_that_works/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:18:21Z",
+      "id": "7b0b2e428656d55a5c9d1e7fd6ff01fb"
+    },
+    {
+      "title": "k-anonymity, the parent of all privacy definitions",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr2xy/kanonymity_the_parent_of_all_privacy_definitions/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:17:54Z",
+      "id": "da513c919c541bd9908cee5bba01afe5"
+    },
+    {
+      "title": "Think in Math. Write in Code",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr2ob/think_in_math_write_in_code/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:17:36Z",
+      "id": "099f0a2b16a81ff971695d1d7b0dc4a1"
+    },
+    {
+      "title": "What if everything was \"Async\", but nothing needed \"Await\"?",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr1ua/what_if_everything_was_async_but_nothing_needed/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:16:44Z",
+      "id": "6a6fb10536d37212ff3966de158f2302"
+    },
+    {
+      "title": "Typechecking is undecideable when 'type' is a type (1989)",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr1of/typechecking_is_undecideable_when_type_is_a_type/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:16:34Z",
+      "id": "3ea6a440d0bb90c8de334e7924e0c828"
+    },
+    {
+      "title": "Pre-PEP: Rust for CPython",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr1mo/prepep_rust_for_cpython/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:16:30Z",
+      "id": "5412b99c83179d5dcbf3d2c0db339932"
+    },
+    {
+      "title": "Implementing Rust newtype for errors in axum",
+      "link": "https://www.reddit.com/r/programming/comments/1ozr0i2/implementing_rust_newtype_for_errors_in_axum/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T20:15:22Z",
+      "id": "62dc37f9cf8b274912e36474b7aac44a"
+    },
+    {
+      "title": "How do we suck when literally all out games against top teams were close and we were missing Coby?",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1ozqkkw/how_do_we_suck_when_literally_all_out_games/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2025-11-17T19:59:21Z",
+      "id": "73f126a661820569382e00beec9f4a1c"
+    },
+    {
+      "title": "[CHGO Bears] Tyrique Stevenson on late-game comebacks: \u201cI was saying earlier we can\u2019t even celebrate, this is becoming normal.\u201d When asked if he wants an easy one at some point he said: \u201cThat\u2019s the NFL. We could win by .5 and I\u2019m happy.\u201d",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1ozqfti/chgo_bears_tyrique_stevenson_on_lategame/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-17T19:54:38Z",
+      "id": "9d9d5becd413fea94c7fe9470d43cd94"
+    },
+    {
+      "title": "Show HN: PrinceJS \u2013 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)",
+      "link": "https://princejs.vercel.app",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T19:45:00Z",
+      "id": "ee3f15c4ff964e6430b0f1d928e9ad0d"
+    },
+    {
+      "title": "Implementing Rust newtype for errors in axum",
+      "link": "https://rup12.net/posts/learning-rust-custom-errors/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T19:22:06Z",
+      "id": "b42d4ca81b116bfa9b89a857b4b449e5"
+    },
+    {
+      "title": "Going to a Bulls game",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1ozphsm/going_to_a_bulls_game/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2025-11-17T19:19:10Z",
+      "id": "03805d1d1ad569553ec7f5e324319242"
+    },
     {
       "title": "Is it time to give up on programming as a hobby?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ozpgox/is_it_time_to_give_up_on_programming_as_a_hobby/",
@@ -8,30 +136,6 @@
       "category": "tech",
       "published": "2025-11-17T19:17:59Z",
       "id": "c0b94dc64ae88dd7671703e8926df7fd"
-    },
-    {
-      "title": "Making GitHub PR comments useful again",
-      "link": "https://www.reddit.com/r/programming/comments/1ozpew7/making_github_pr_comments_useful_again/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T19:16:04Z",
-      "id": "d03600cf32e5ee4a45ae23fe8c92eb8b"
-    },
-    {
-      "title": "Why Your Code Patterns Are Secretly Killing Performance and Security",
-      "link": "https://www.reddit.com/r/programming/comments/1ozp407/why_your_code_patterns_are_secretly_killing/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T19:04:54Z",
-      "id": "76ad423d37a4f6d171aeec059b55f595"
-    },
-    {
-      "title": "The 1,000 Token Wall: Why AI\u2019s Speed Limit Is About to Shatter",
-      "link": "https://www.reddit.com/r/programming/comments/1ozp1nb/the_1000_token_wall_why_ais_speed_limit_is_about/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T19:02:35Z",
-      "id": "3a592a4d944cf9ad914135cfa501fd50"
     },
     {
       "title": "Memory-corrupting Pong",
@@ -90,6 +194,14 @@
       "id": "d533d747c8f1467f25957da089d3b234"
     },
     {
+      "title": "Show HN: Kalendis \u2013 Scheduling API (keep your UI, we handle timezones/DST)",
+      "link": "https://kalendis.dev",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T18:05:29Z",
+      "id": "f9c28f4bb3f8d46b9863a2d9a62a3206"
+    },
+    {
       "title": "[BearsShowYo] The Caleb Williams segment on Fox is amazing.",
       "link": "https://www.reddit.com/r/CHIBears/comments/1oznf2n/bearsshowyo_the_caleb_williams_segment_on_fox_is/",
       "source": "r/CHIBears",
@@ -138,22 +250,6 @@
       "id": "a1cac918fe05ab19f8c4f415274523ca"
     },
     {
-      "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
-      "link": "https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T17:39:15Z",
-      "id": "55cf2744c70f952353d159aaf5b6fb2c"
-    },
-    {
-      "title": "A new book about the origins of Effective Altruism",
-      "link": "https://newrepublic.com/article/202433/happened-effective-altruism",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T17:37:42Z",
-      "id": "75bf1b6fe0e8e5eaa8fbc24f6b3c19f8"
-    },
-    {
       "title": "Well boys it was a good run",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ozmht0/well_boys_it_was_a_good_run/",
       "source": "r/chicagobulls",
@@ -180,18 +276,18 @@
     {
       "title": "NFL reviewing apparent spit from Ja\u2019Marr Chase in dust-up with Jalen Ramsey: Source",
       "link": "https://www.reddit.com/r/nfl/comments/1ozme50/nfl_reviewing_apparent_spit_from_jamarr_chase_in/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T17:27:02Z",
       "id": "5b533508d0ca52dc2020b7a90a8de459"
     },
     {
-      "title": "Cities panic over having to release mass surveillance recordings",
-      "link": "https://neuburger.substack.com/p/cities-panic-over-having-to-release",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T17:23:35Z",
-      "id": "3e82616e3970aa518d62e4ac5b4dd3f5"
+      "title": "VICTORY MONDAY",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1ozm9is/victory_monday/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-17T17:22:21Z",
+      "id": "b5498685de510fba47293eb934d5e52f"
     },
     {
       "title": "How when AWS was down, we were not",
@@ -212,10 +308,18 @@
     {
       "title": "[Russini] The Jets are making a quarterback change, benching Justin Fields in favor of veteran Tyrod Taylor, per source.",
       "link": "https://www.reddit.com/r/nfl/comments/1ozlu2t/russini_the_jets_are_making_a_quarterback_change/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T17:06:31Z",
       "id": "e86a864e4303da16e92e5ba2f20376ff"
+    },
+    {
+      "title": "[Klein] Falcons QB Michael Penix Jr. had a partially torn ACL, per an NFL league source. While he\u2019s seeking a 2nd medical opinion, the feeling is he\u2019s done for the season.",
+      "link": "https://www.reddit.com/r/nfl/comments/1ozlryu/klein_falcons_qb_michael_penix_jr_had_a_partially/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-17T17:04:24Z",
+      "id": "bba617a4902f4a8763cf4589cb76ccbd"
     },
     {
       "title": "Caleb's elusiveness vs the Vikings",
@@ -268,23 +372,23 @@
     {
       "title": "[Duggan] Sources: Giants rookie LB Abdul Carter was benched for the opening drive of yesterday's loss to the Packers for missing a walk-through. Carter was asleep in the team facility at the time of the walk-through:",
       "link": "https://www.reddit.com/r/nfl/comments/1ozkccg/duggan_sources_giants_rookie_lb_abdul_carter_was/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T16:11:22Z",
       "id": "8d5a08eafbcdbad8a66eb2929bbfd696"
     },
     {
-      "title": "Creating a real-time ray traced physics sandbox with Microsoft Copilot",
-      "link": "https://www.reddit.com/r/programming/comments/1ozjzhh/creating_a_realtime_ray_traced_physics_sandbox/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T15:57:52Z",
-      "id": "bf22b08981360392c0e97b081f7f19e5"
+      "title": "[Schefter] Michael Penix suffered season-ending ACL tears to his left knee in both 2018 and 2020 in college. He also missed a game this season in Week 8 after sustaining a bone bruise to that same knee in Week 7. And now this latest injury could sideline him for the rest of the 2025 season.",
+      "link": "https://www.reddit.com/r/nfl/comments/1ozk4yk/schefter_michael_penix_suffered_seasonending_acl/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-17T16:03:29Z",
+      "id": "2530e60ff639e45835d633a2f0593b26"
     },
     {
       "title": "[Schefter] Falcons QB Michael Penix suffered a potentially season-ending knee injury during Sunday\u2019s loss to the Panthers. Penix will be seeking a second opinion, but it is not encouraging.",
       "link": "https://www.reddit.com/r/nfl/comments/1ozjtw5/schefter_falcons_qb_michael_penix_suffered_a/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T15:51:53Z",
       "id": "e34a5ad73cb02c3be4bce51a06b7970a"
@@ -316,10 +420,18 @@
     {
       "title": "JJ McCarthy is currently 45th in completion percentage this year and is second to last all-time in Pro Football Reference's on-target throw rate (tracking began in 2019). Is he trending toward being the type of quarterback a franchise moves on from after one season?",
       "link": "https://www.reddit.com/r/nfl/comments/1ozjf06/jj_mccarthy_is_currently_45th_in_completion/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T15:35:51Z",
       "id": "352431dd9d6aec085a5ce9a7a8cada04"
+    },
+    {
+      "title": "Show HN: Bsub.io \u2013 zero-setup batch execution for command-line tools",
+      "link": "https://news.ycombinator.com/item?id=45954472",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T15:34:38Z",
+      "id": "b3f18465df8aaa298442e624741706ac"
     },
     {
       "title": "Is it normal to feel like interviews have gotten harder even as you\u2019ve gotten better at the job?",
@@ -356,10 +468,18 @@
     {
       "title": "Ben Johnson, 11 games into his HC career, has exceeded the number of road wins with four (4) that Matt Eberflus had in his 2.5 year tenure (3)",
       "link": "https://www.reddit.com/r/nfl/comments/1ozix52/ben_johnson_11_games_into_his_hc_career_has/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T15:16:33Z",
       "id": "47de488798781d2b014d990067201b7d"
+    },
+    {
+      "title": "Browns QB Shedeur Sanders on 'rough' NFL debut: 'I don't think I played good at all'",
+      "link": "https://www.reddit.com/r/nfl/comments/1oziv9l/browns_qb_shedeur_sanders_on_rough_nfl_debut_i/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-17T15:14:33Z",
+      "id": "db97e37ac077bbe26599dad0487d2e31"
     },
     {
       "title": "WeatherNext 2: Our most advanced weather forecasting model",
@@ -372,7 +492,7 @@
     {
       "title": "Weekend Wrapup",
       "link": "https://www.reddit.com/r/nfl/comments/1ozij2r/weekend_wrapup/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T15:01:08Z",
       "id": "2bf0fa8f9480387fd291ec99d3c9d1ce"
@@ -386,6 +506,14 @@
       "id": "f5389bae28b2effc9d1043d340fbaa25"
     },
     {
+      "title": "Aldous Huxley predicts Adderall and champions alternative therapies",
+      "link": "https://angadh.com/inkhaven-7",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T14:57:33Z",
+      "id": "4bbeabefa5bc403de314a8587c5eb49b"
+    },
+    {
       "title": "PRE GAME: Chicago Bulls (6-6) vs Denver Nuggets (10-2) (November 17, 2025)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ozicve/pre_game_chicago_bulls_66_vs_denver_nuggets_102/",
       "source": "r/chicagobulls",
@@ -396,7 +524,7 @@
     {
       "title": "Rams made a great deal when they traded for the Falcons' 2026 first-round pick",
       "link": "https://www.reddit.com/r/nfl/comments/1ozibxj/rams_made_a_great_deal_when_they_traded_for_the/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T14:53:27Z",
       "id": "32730580a9881b6fb04814b182da8da5"
@@ -436,7 +564,7 @@
     {
       "title": "[Highlight] Jordan Davis gets 3 of the Eagle's 5 batted balls at the line. Postgame, players said they saw something in Goff\u2019s arm angle on film and spent extra time batting balls in practice this week",
       "link": "https://www.reddit.com/r/nfl/comments/1ozhxkh/highlight_jordan_davis_gets_3_of_the_eagles_5/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T14:37:47Z",
       "id": "d673d406aa88b4c5c2da1bb2ad508f6c"
@@ -444,7 +572,7 @@
     {
       "title": "Both of Last Year's 1 Seeds (KC, DET) are Currently Outside of the Playoffs",
       "link": "https://www.reddit.com/r/nfl/comments/1ozhdji/both_of_last_years_1_seeds_kc_det_are_currently/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T14:14:58Z",
       "id": "851b60a45ed983fef3d9d75b41982712"
@@ -458,14 +586,6 @@
       "id": "78ea27b6d483a67f69c84d2eca32adf7"
     },
     {
-      "title": "Open-source AI models surge past closed-source frontier in November 2025",
-      "link": "https://www.reddit.com/r/programming/comments/1ozh9zc/opensource_ai_models_surge_past_closedsource/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T14:10:42Z",
-      "id": "6f3a680b61b583cadab824f79313b608"
-    },
-    {
       "title": "Weekly Discussion Thread - November 17, 2025",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ozh1xy/weekly_discussion_thread_november_17_2025/",
       "source": "r/chicagobulls",
@@ -476,7 +596,7 @@
     {
       "title": "[Highlight] Dion Dawkins in the postgame locker room on Keon Coleman being a healthy scratch due to being late for a Bills team meeting: \"Pats on the back are over with and it's time for him to grow up and he knows it.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1ozgz7t/highlight_dion_dawkins_in_the_postgame_locker/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T13:58:36Z",
       "id": "31e7117a580c02866f3c41c59b481621"
@@ -538,14 +658,6 @@
       "id": "d273cababb5aec10990fd92b59110dcf"
     },
     {
-      "title": "What happens when you type a url in your browser?",
-      "link": "https://www.reddit.com/r/programming/comments/1ozf2xo/what_happens_when_you_type_a_url_in_your_browser/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T12:33:57Z",
-      "id": "41dcff62c8ecc191c0282ae1e8aa988b"
-    },
-    {
       "title": "What's going to happen to our alliance Nov 28?",
       "link": "https://www.reddit.com/r/CHIBears/comments/1ozez3j/whats_going_to_happen_to_our_alliance_nov_28/",
       "source": "r/CHIBears",
@@ -578,14 +690,6 @@
       "id": "3f6341cb364636f9199dc3391b86e5ed"
     },
     {
-      "title": "Ned: ImGui Text Editor with GL Shaders",
-      "link": "https://github.com/nealmick/ned",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T11:53:00Z",
-      "id": "ae435601761c5771a843c33c4b7c3cdb"
-    },
-    {
       "title": "Finding duplicated code with tools from your CS course",
       "link": "https://www.reddit.com/r/programming/comments/1ozdnhl/finding_duplicated_code_with_tools_from_your_cs/",
       "source": "r/programming",
@@ -608,14 +712,6 @@
       "category": "sports",
       "published": "2025-11-17T11:10:51Z",
       "id": "880404cff3f3b59972a69ff30a15af62"
-    },
-    {
-      "title": "Why your mock breaks later",
-      "link": "https://www.reddit.com/r/programming/comments/1ozdah0/why_your_mock_breaks_later/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T10:55:49Z",
-      "id": "ef7f9590b083c425846ba5f3d1892f6e"
     },
     {
       "title": "Giving C a superpower: custom header file (safe_c.h)",
@@ -642,14 +738,6 @@
       "id": "2b32c63a525ee4a50437387312801b42"
     },
     {
-      "title": "Open-source Zig book to Learn Zig from scratch",
-      "link": "https://www.reddit.com/r/programming/comments/1ozb8jj/opensource_zig_book_to_learn_zig_from_scratch/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T08:43:39Z",
-      "id": "f4a54c1e0816c70f6a38e72474d45bd5"
-    },
-    {
       "title": "People working in a startup, how is learning curve?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oz9o7b/people_working_in_a_startup_how_is_learning_curve/",
       "source": "r/ExperiencedDevs",
@@ -666,14 +754,6 @@
       "id": "f4ee928891db2f470a022dbddf275e86"
     },
     {
-      "title": "Jacoby Brissett seems to have quietly amassed the lowest int rate of all time for qualified QBs. In his career 1917 attempts (not counting todays game) he only has a career 25 INTs which is good for a 1.3% int rate, lowest of all time.",
-      "link": "https://www.reddit.com/r/nfl/comments/1oz7mav/jacoby_brissett_seems_to_have_quietly_amassed_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-11-17T05:02:30Z",
-      "id": "9537c921e7eb141d0d291a32cb68f626"
-    },
-    {
       "title": "First place in the North",
       "link": "https://www.reddit.com/r/CHIBears/comments/1oz7m7b/first_place_in_the_north/",
       "source": "r/CHIBears",
@@ -684,7 +764,7 @@
     {
       "title": "[Highlight] Cris Collinsworth was not happy with game-deciding PI call: \"Oh, come on! Come on! That is terrible! That is an absolutely terrible call that's going to decide this football game! If anything, it's an offensive push!\"",
       "link": "https://www.reddit.com/r/nfl/comments/1oz76dx/highlight_cris_collinsworth_was_not_happy_with/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T04:39:02Z",
       "id": "14baa07bfa9a83fd5f369cd0fb91911f"
@@ -700,18 +780,10 @@
     {
       "title": "Post Game Thread: Detroit Lions at Philadelphia Eagles",
       "link": "https://www.reddit.com/r/nfl/comments/1oz72di/post_game_thread_detroit_lions_at_philadelphia/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T04:33:16Z",
       "id": "1ba8de177bf6d83cde0dbefc7d103690"
-    },
-    {
-      "title": "MFW Bears are in first place",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1oz7269/mfw_bears_are_in_first_place/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-17T04:32:57Z",
-      "id": "d94d91f0dc7cfab49756ca605cdb86bc"
     },
     {
       "title": "Congrats on first place Chicago, see y\u2019all on Black Friday.",
@@ -724,7 +796,7 @@
     {
       "title": "[Highlight] DET vs PHI - Rock Ya-Sin called for pass interference",
       "link": "https://www.reddit.com/r/nfl/comments/1oz6zru/highlight_det_vs_phi_rock_yasin_called_for_pass/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T04:29:34Z",
       "id": "ab77b586fc311ca97793380c6eee9131"
@@ -738,44 +810,12 @@
       "id": "09b07f27e99f25cdc4499cf095db0e32"
     },
     {
-      "title": "[Highlight] Broncos TE Adam Trautman when asked about online criticism of QB Bo Nix: \"We know what\u2019s he made of, and we don\u2019t really care what people have to say. So, DragonSlayer69 with his 7-Eleven Slurpee in his mom\u2019s basement, I don\u2019t give a shit what he has to say, right? Bo doesn\u2019t, either.\"",
-      "link": "https://www.reddit.com/r/nfl/comments/1oz6rqc/highlight_broncos_te_adam_trautman_when_asked/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-11-17T04:17:52Z",
-      "id": "0a1d30cee8d1fa6d16d97ac19321198b"
-    },
-    {
-      "title": "Made me smile",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1oz6iu3/made_me_smile/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-17T04:05:17Z",
-      "id": "3cd4cf8f49dc44923e1952f2193106a4"
-    },
-    {
       "title": "[Highlight] Seahawks LB Ernest Jones on Sam Darnold\u2019s 4 INT game: \u201cSam has had us in every f***ing game. For him to sit there and say it\u2019s his fault, no it\u2019s not. \u2026 If you got anything to say quite frankly f*** you.\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1oz5ljf/highlight_seahawks_lb_ernest_jones_on_sam/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T03:18:38Z",
       "id": "8ebbebc95938a5594d24e37c03e68ed3"
-    },
-    {
-      "title": "[Highlight] False start called on Steen for pointing out the defender is in the neutral zone",
-      "link": "https://www.reddit.com/r/nfl/comments/1oz5jmb/highlight_false_start_called_on_steen_for/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-11-17T03:16:01Z",
-      "id": "c89b6800952c9e9192e99b8cfc456192"
-    },
-    {
-      "title": "People are using iPad OS features on their iPhones",
-      "link": "https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T02:39:28Z",
-      "id": "4252ac0ff189ffa3737f22b67f2dbdbd"
     },
     {
       "title": "How many times do you check things?",
@@ -784,14 +824,6 @@
       "category": "tech",
       "published": "2025-11-17T02:01:33Z",
       "id": "079dbf90038c301f11a5458f5640044f"
-    },
-    {
-      "title": "Previous colleague in new job?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oz2zez/previous_colleague_in_new_job/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-17T01:14:49Z",
-      "id": "f37e2c540ecc75d713f5ccdaa2c184f4"
     },
     {
       "title": "Is it possible to succeed when working under a narcissistic micromanager?",
@@ -804,7 +836,7 @@
     {
       "title": "The Chiefs are 0-5 in one possession games this season. Last season they were 11-0",
       "link": "https://www.reddit.com/r/nfl/comments/1oz27ah/the_chiefs_are_05_in_one_possession_games_this/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T00:39:36Z",
       "id": "e04ef43b4e8a2d5df600868b484f820c"
@@ -812,7 +844,7 @@
     {
       "title": "Shedeur Sanders regular season debut: 4/16, 47 yards, 0 TD, 1 INT, 2 sacks, 1 intentional grounding, 13.5 passer rating",
       "link": "https://www.reddit.com/r/nfl/comments/1oz223i/shedeur_sanders_regular_season_debut_416_47_yards/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T00:32:58Z",
       "id": "e70940f449659764aa53cba68de9c831"
@@ -820,7 +852,7 @@
     {
       "title": "[Highlight] Mark Andrews turns fake tush push into long TD run",
       "link": "https://www.reddit.com/r/nfl/comments/1oz1lt4/highlight_mark_andrews_turns_fake_tush_push_into/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T00:12:35Z",
       "id": "ca6105a1ec7e9b3dad2eb5dd0966e65b"
@@ -828,7 +860,7 @@
     {
       "title": "[Schefter] Cardinals QB Jacoby Brissett completed an NFL record 47 passes today.",
       "link": "https://www.reddit.com/r/nfl/comments/1oz1hdz/schefter_cardinals_qb_jacoby_brissett_completed/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-17T00:06:58Z",
       "id": "f5016d1ea4e13947dcec322cbfac1420"
@@ -852,7 +884,7 @@
     {
       "title": "[Highlight] Shedeur Sanders throws his first career interception",
       "link": "https://www.reddit.com/r/nfl/comments/1oz0kyu/highlight_shedeur_sanders_throws_his_first_career/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-16T23:25:50Z",
       "id": "532cafcc77f08c9ae07e329739692e64"
@@ -860,7 +892,7 @@
     {
       "title": "[Highlight] Sean Payton gets hit with an unsportsmanlike penalty for being in the way of a ref",
       "link": "https://www.reddit.com/r/nfl/comments/1oz0is3/highlight_sean_payton_gets_hit_with_an/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-16T23:23:16Z",
       "id": "8509fbd7673952e49c9da253d58be132"
@@ -882,14 +914,6 @@
       "id": "22d80e3f797f2c04c6407be997764056"
     },
     {
-      "title": "An overly aggressive mock can work fine, but break much later",
-      "link": "https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-16T22:36:56Z",
-      "id": "6a220f840c1e7146e937f3d1a7c0ffb3"
-    },
-    {
       "title": "[Dave] Caleb Williams insisted Cairo Santos join him for the post game interview. Love seeing this",
       "link": "https://www.reddit.com/r/CHIBears/comments/1oyzda5/dave_caleb_williams_insisted_cairo_santos_join/",
       "source": "r/CHIBears",
@@ -900,7 +924,7 @@
     {
       "title": "[Highlight] Dolphins QB Tua Tagovailoa was asked where else he\u2019d like to play after experiencing Frankfurt and Madrid: \u201cShoot, it\u2019d be pretty cool to go play in Jerusalem\u2026 That\u2019d be sick.\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1oyxkpd/highlight_dolphins_qb_tua_tagovailoa_was_asked/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-16T21:22:07Z",
       "id": "2c77797f74b77756c3f4648050a08a1f"
@@ -962,28 +986,12 @@
       "id": "02de40a6f9a76f3a66287be3cec00ed4"
     },
     {
-      "title": "Running Java on iOS",
-      "link": "https://www.reddit.com/r/programming/comments/1oyot0l/running_java_on_ios/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-16T15:39:16Z",
-      "id": "4d3a52aef2a1e3a99a212a0e43f018ac"
-    },
-    {
       "title": "PRE GAME: Chicago Bulls (6-5) vs Utah Jazz (4-8) (November 16, 2025)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1oyo3mr/pre_game_chicago_bulls_65_vs_utah_jazz_48/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2025-11-16T15:10:22Z",
       "id": "bbc4c35b6499ea71a4fc278b78514815"
-    },
-    {
-      "title": "ELI5 explanation of the CAP Theorem",
-      "link": "https://www.reddit.com/r/programming/comments/1oynd1w/eli5_explanation_of_the_cap_theorem/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-16T14:39:55Z",
-      "id": "fb0c4d0069af072f4d91278a5696fb9e"
     },
     {
       "title": "Where do the children play?",
@@ -1008,14 +1016,6 @@
       "category": "tech",
       "published": "2025-11-16T13:01:08Z",
       "id": "6ea5164ab4c93e497a22f691cd0118f6"
-    },
-    {
-      "title": "Google releases CodeWiki for AI-based code documentation",
-      "link": "https://www.reddit.com/r/programming/comments/1oyjaf7/google_releases_codewiki_for_aibased_code/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-16T11:20:48Z",
-      "id": "ec3c959926572a59d9e883199d328629"
     },
     {
       "title": "Astrophotographer snaps skydiver falling in front of the sun",
@@ -1090,6 +1090,14 @@
       "id": "8afbca34ad369331b762ba2aca7d446e"
     },
     {
+      "title": "Show HN: Continuous Claude \u2013 run Claude Code in a loop",
+      "link": "https://github.com/AnandChowdhary/continuous-claude",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-15T16:27:49Z",
+      "id": "62c3c339443d7f99c043d717450fea33"
+    },
+    {
       "title": "I'd pay money to hear Stacey and Adam calling this",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1oxtcen/id_pay_money_to_hear_stacey_and_adam_calling_this/",
       "source": "r/chicagobulls",
@@ -1112,6 +1120,14 @@
       "category": "tech",
       "published": "2025-11-15T07:27:21Z",
       "id": "fb071f7d029919038f0692d8d17fe3a0"
+    },
+    {
+      "title": "It's harder to get out of a bad job than it is of a good job.",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oxg6bv/its_harder_to_get_out_of_a_bad_job_than_it_is_of/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-15T02:36:15Z",
+      "id": "b6cc9ff2445e37667c22c791ce63b75f"
     },
     {
       "title": "How many of us are working overtime to avoid being considered for layoffs?",
@@ -1146,28 +1162,12 @@
       "id": "c4e09b08ea073e7be8264d68f814a943"
     },
     {
-      "title": "We have some awesome tradeable contracts",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1ox8e0m/we_have_some_awesome_tradeable_contracts/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2025-11-14T20:59:43Z",
-      "id": "e65bf2d17ac9258b1fa8c4dfc9faeb4c"
-    },
-    {
       "title": "Question: What's up with Patrick Williams?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ox73gf/question_whats_up_with_patrick_williams/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2025-11-14T20:08:57Z",
       "id": "efa0ee18902d3fa82d9644df98bc1e8d"
-    },
-    {
-      "title": "restock on matas city edition jersey?",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1ox5tft/restock_on_matas_city_edition_jersey/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2025-11-14T19:20:06Z",
-      "id": "b70e954e5f0f584660cd05892fab0b68"
     },
     {
       "title": "[K.C. Johnson] Donovan said Zach Collins has been cleared to ditch split and start building up strength in wrist and hand.",
@@ -1184,14 +1184,6 @@
       "category": "sports",
       "published": "2025-11-14T19:02:25Z",
       "id": "ea4fd34e9bcbf3f752411429fb17239d"
-    },
-    {
-      "title": "Raccoons are showing early signs of domestication",
-      "link": "https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-14T18:53:27Z",
-      "id": "9194d80951babfeef63efc45caa5c5cc"
     },
     {
       "title": "The Bulls need a center but it's not gonna be Anthony Davis.",
@@ -1216,6 +1208,14 @@
       "category": "tech",
       "published": "2025-11-14T01:57:57Z",
       "id": "5333042e7b07bb3d450b45822b27849a"
+    },
+    {
+      "title": "\"One Student One Chip\" Course Homepage",
+      "link": "https://ysyx.oscc.cc/docs/en/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-12T15:28:54Z",
+      "id": "1c8789b2b3c885780b84ff6f21154b12"
     },
     {
       "title": "Show HN: I built a synth for my daughter",
