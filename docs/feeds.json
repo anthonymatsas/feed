@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-17T08:34:09.906441Z",
+  "last_updated": "2025-11-17T09:29:25.160430Z",
   "items": [
+    {
+      "title": "FFM - Java's new approach to interop with native code",
+      "link": "https://www.reddit.com/r/programming/comments/1ozbr1m/ffm_javas_new_approach_to_interop_with_native_code/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T09:17:58Z",
+      "id": "2b32c63a525ee4a50437387312801b42"
+    },
+    {
+      "title": "AI is Like Your Dog, It Needs a Firm Master \ud83d\udc36",
+      "link": "https://www.reddit.com/r/programming/comments/1ozbpy2/ai_is_like_your_dog_it_needs_a_firm_master/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T09:15:55Z",
+      "id": "e62438e4f5957e6936986475811caf9a"
+    },
+    {
+      "title": "Open-source Zig book to Learn Zig from scratch",
+      "link": "https://www.reddit.com/r/programming/comments/1ozb8jj/opensource_zig_book_to_learn_zig_from_scratch/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-17T08:43:39Z",
+      "id": "f4a54c1e0816c70f6a38e72474d45bd5"
+    },
     {
       "title": "People working in a startup, how is learning curve?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oz9o7b/people_working_in_a_startup_how_is_learning_curve/",
@@ -160,14 +184,6 @@
       "category": "tech",
       "published": "2025-11-17T03:09:58Z",
       "id": "9ed5eebd8bff1b14a90fd749f4f6f761"
-    },
-    {
-      "title": "People are using iPad OS features on their iPhones",
-      "link": "https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T02:39:28Z",
-      "id": "4252ac0ff189ffa3737f22b67f2dbdbd"
     },
     {
       "title": "A 1961 Relay Computer Running in the Browser",
@@ -530,20 +546,20 @@
       "id": "bf77bd6623b7d5c2d897e44f899f68ad"
     },
     {
+      "title": "Why Castrol Honda Superbike crashes on (most) modern systems",
+      "link": "https://seri.tools/blog/castrol-honda-superbike/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T20:54:14Z",
+      "id": "e812bc67a98dffe4b88659757611f4f8"
+    },
+    {
       "title": "The Pragmatic Programmer: 20th Anniversary Edition (2023)",
       "link": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-16T20:46:30Z",
       "id": "6c7bda2cfa00329aa902ebc0c8841533"
-    },
-    {
-      "title": "EHTML \u2014 Extended HTML for Real Apps. Sharing it in case it helps someone.",
-      "link": "https://www.reddit.com/r/programming/comments/1oyw9g3/ehtml_extended_html_for_real_apps_sharing_it_in/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-16T20:29:43Z",
-      "id": "57e83a2b086e59315ac199cddaf15549"
     },
     {
       "title": "I have recordings proving Coinbase knew about breach months before disclosure",
@@ -898,28 +914,12 @@
       "id": "426c40b0c34587ca097b86dbdc530a2a"
     },
     {
-      "title": "Driving TFEL with RP2040: Offloading the CPU step by step",
-      "link": "https://www.reddit.com/r/programming/comments/1oy5yud/driving_tfel_with_rp2040_offloading_the_cpu_step/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-15T23:17:31Z",
-      "id": "d4610a9fd0c124f90ac6d61201ff3dc5"
-    },
-    {
       "title": "Compiler Options Hardening Guide for C and C++",
       "link": "https://www.reddit.com/r/programming/comments/1oy5tei/compiler_options_hardening_guide_for_c_and_c/",
       "source": "r/programming",
       "category": "tech",
       "published": "2025-11-15T23:10:53Z",
       "id": "6aff8906c8d5d6a932f5d39570e4fb0a"
-    },
-    {
-      "title": "Designing a Language",
-      "link": "https://www.reddit.com/r/programming/comments/1oy5spw/designing_a_language/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-15T23:10:03Z",
-      "id": "007fd6d686a489da017adcf13d8b8854"
     },
     {
       "title": "JVM exceptions are weird: a decompiler perspective",
@@ -1162,12 +1162,12 @@
       "id": "339686b420365c92c8a27708d0d2f565"
     },
     {
-      "title": "runit Linux: Guide to Unix Init Scheme with Service Supervision",
+      "title": "Runit Linux: Complete Guide to Unix Init Scheme with Service Supervision",
       "link": "https://codelucky.com/runit-linux-init-service-supervision/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-11T21:59:34Z",
-      "id": "10615f41898d6c183896ee51ee4dff7a"
+      "id": "d398b67d60675a3d2ea5094d64528831"
     },
     {
       "title": "Listen to Database Changes Through the Postgres WAL",
@@ -1178,12 +1178,12 @@
       "id": "2441d514e6233f3c3aa1d252416cd91d"
     },
     {
-      "title": "Help My LocalDate Isn't Flattened",
-      "link": "https://horstmann.com/unblog/2025-11-08/index.html",
+      "title": "\"Snarky\"; \"Snark\"",
+      "link": "https://notoneoffbritishisms.com/2025/10/13/snarky-snark/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-10T14:54:01Z",
-      "id": "65b48922633d50e4845c6a9f76e10410"
+      "published": "2025-11-10T20:39:34Z",
+      "id": "f92c50e327274413c454929f901ee7c8"
     },
     {
       "title": "Weekly Discussion Thread - November 10, 2025",
