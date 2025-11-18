@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-11-18T12:50:30.926831Z",
+  "last_updated": "2025-11-18T13:34:52.210226Z",
   "items": [
+    {
+      "title": "Real-time 3D renderer in terminal",
+      "link": "https://www.reddit.com/r/programming/comments/1p0bv4q/realtime_3d_renderer_in_terminal/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T13:25:42Z",
+      "id": "96e1f9421d7786bcf4947668b95585f3"
+    },
+    {
+      "title": "Need backend intern",
+      "link": "https://www.reddit.com/r/programming/comments/1p0br6a/need_backend_intern/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T13:20:54Z",
+      "id": "c8c1092f3ef21f8ebbaf9295c96b2f02"
+    },
+    {
+      "title": "LLMs and creation outside of time",
+      "link": "https://www.reddit.com/r/programming/comments/1p0bmv1/llms_and_creation_outside_of_time/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T13:15:40Z",
+      "id": "0c0cbc3ffcb3f4c9267e19eb67730a3d"
+    },
+    {
+      "title": "64-bit Misalignment",
+      "link": "https://www.reddit.com/r/programming/comments/1p0bae1/64bit_misalignment/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T13:00:16Z",
+      "id": "db04f9afc12d2182277c0a5856329c14"
+    },
+    {
+      "title": "Time for a career shift?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p0b3e1/time_for_a_career_shift/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-18T12:51:09Z",
+      "id": "76a335b9b23bf033f3326f284e4a5af6"
+    },
+    {
+      "title": "Multiple Digital Ocean services down",
+      "link": "https://status.digitalocean.com/incidents/lgt5xs2843rx",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-18T12:48:45Z",
+      "id": "a5f0b2794a013ca23024e23600a0f7cf"
+    },
     {
       "title": "GoSign Desktop RCE flaws affecting users in Italy",
       "link": "https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/",
@@ -170,6 +218,14 @@
       "id": "853f6bcbe2405a20ac53c7c31f0d120a"
     },
     {
+      "title": "An Epiphany about Ben Johnson\u2019s Offense and Caleb\u2019s \u201cStruggles\u201d",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1p076o1/an_epiphany_about_ben_johnsons_offense_and_calebs/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-18T09:04:07Z",
+      "id": "2ce93154023c32eec23f2a9b1bbabddd"
+    },
+    {
       "title": "GitHub Project Search and Discovery",
       "link": "https://www.reddit.com/r/programming/comments/1p06zq7/github_project_search_and_discovery/",
       "source": "r/programming",
@@ -202,22 +258,6 @@
       "id": "a37b68c92fec810dfc5e335fc2ec8e47"
     },
     {
-      "title": "Giving C a Superpower: custom header file (safe_c.h)",
-      "link": "https://www.reddit.com/r/programming/comments/1p05zfq/giving_c_a_superpower_custom_header_file_safe_ch/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-18T07:46:12Z",
-      "id": "5f8bd103a7650c25728b81277fdda915"
-    },
-    {
-      "title": "[Python] Orchestro CLI \u2013 Testing framework for CLI/TUI applications with parallel execution and AI-powered test generation",
-      "link": "https://www.reddit.com/r/programming/comments/1p05io9/python_orchestro_cli_testing_framework_for_clitui/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-18T07:15:37Z",
-      "id": "5f064bf8e1d000650b1373eb56f306d0"
-    },
-    {
       "title": "Would you work on a person tracker project for your employer?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p05h24/would_you_work_on_a_person_tracker_project_for/",
       "source": "r/ExperiencedDevs",
@@ -232,14 +272,6 @@
       "category": "sports",
       "published": "2025-11-18T07:02:56Z",
       "id": "0dd6edb859f56ab7b1de296e9df22eb9"
-    },
-    {
-      "title": "An Elm Primer: The missing chapter on JavaScript interop",
-      "link": "https://www.reddit.com/r/programming/comments/1p05b0u/an_elm_primer_the_missing_chapter_on_javascript/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-18T07:02:15Z",
-      "id": "9aaea57fc6c50f21c2bc9cc3ceaee507"
     },
     {
       "title": "Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF",
@@ -268,7 +300,7 @@
     {
       "title": "[Postgame] Dak Prescott's powerful message following MNF win",
       "link": "https://www.reddit.com/r/nfl/comments/1p042t5/postgame_dak_prescotts_powerful_message_following/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T05:49:50Z",
       "id": "464aa5ed7c2b8c341c97c82cd6a535bd"
@@ -332,15 +364,23 @@
     {
       "title": "[Highlight] Ryan Flournoy holds up Marshawn Kneeland jersey following MNF win",
       "link": "https://www.reddit.com/r/nfl/comments/1p02boi/highlight_ryan_flournoy_holds_up_marshawn/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T04:15:02Z",
       "id": "bb7426711de1fe53f1d554a7b52f683b"
     },
     {
+      "title": "With today\u2019s win, the Cowboys have held an opponent to under 20 points for the first time all year.",
+      "link": "https://www.reddit.com/r/nfl/comments/1p02alq/with_todays_win_the_cowboys_have_held_an_opponent/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-11-18T04:13:30Z",
+      "id": "fdaf45824239639a4cdd5ebe60728d80"
+    },
+    {
       "title": "Post Game Thread: Dallas Cowboys at Las Vegas Raiders",
       "link": "https://www.reddit.com/r/nfl/comments/1p029zz/post_game_thread_dallas_cowboys_at_las_vegas/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T04:12:36Z",
       "id": "63f4e2c232cb5c1072053cce9b3c9c48"
@@ -372,7 +412,7 @@
     {
       "title": "[Highlight] Cowboys defense swarms Ashton Jeanty for a safety",
       "link": "https://www.reddit.com/r/nfl/comments/1p01qk6/highlight_cowboys_defense_swarms_ashton_jeanty/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T03:46:02Z",
       "id": "3ff787f70ec2a921a5e23e2f1ce9e3c0"
@@ -388,7 +428,7 @@
     {
       "title": "[Highlight] George Pickens breaking tackle after tackle",
       "link": "https://www.reddit.com/r/nfl/comments/1p01118/highlight_george_pickens_breaking_tackle_after/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T03:12:12Z",
       "id": "3d222fc7f44b8507ad27d582ecb80c2b"
@@ -412,7 +452,7 @@
     {
       "title": "[Highlight] CeeDee Lamb waved bye right when George Pickens passed the first down marker",
       "link": "https://www.reddit.com/r/nfl/comments/1p00pyo/highlight_ceedee_lamb_waved_bye_right_when_george/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T02:57:50Z",
       "id": "bcccb3ef6fd0ee99341ae05a1276f583"
@@ -428,7 +468,7 @@
     {
       "title": "[Highlight] Cam Skattebo getting into a fight on Monday Night Raw",
       "link": "https://www.reddit.com/r/nfl/comments/1p00j47/highlight_cam_skattebo_getting_into_a_fight_on/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T02:49:08Z",
       "id": "f11b22e40d0865ce756095916560f07a"
@@ -444,7 +484,7 @@
     {
       "title": "[Highlight] George Pickens catch and run for touchdown",
       "link": "https://www.reddit.com/r/nfl/comments/1p0080g/highlight_george_pickens_catch_and_run_for/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T02:34:56Z",
       "id": "880d3c9b66027a998150f23dee97828a"
@@ -452,7 +492,7 @@
     {
       "title": "[Highlight] Tyler Guyton with a legendary flop!",
       "link": "https://www.reddit.com/r/nfl/comments/1p007a9/highlight_tyler_guyton_with_a_legendary_flop/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T02:34:02Z",
       "id": "7ef3c8a18487fcaf63572e9731e06a3c"
@@ -460,7 +500,7 @@
     {
       "title": "[Dubow] #Raiders Geno Smith is now tied with Tua Tagovailoa for most INTs in NFL with 13",
       "link": "https://www.reddit.com/r/nfl/comments/1p001ch/dubow_raiders_geno_smith_is_now_tied_with_tua/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T02:26:26Z",
       "id": "7a94da8442349e0269eebe14e33a1715"
@@ -484,7 +524,7 @@
     {
       "title": "[Schefter] Cowboys WRs CeeDee Lamb and George Pickens spent Dallas\u2019 opening series on the bench.",
       "link": "https://www.reddit.com/r/nfl/comments/1ozyrep/schefter_cowboys_wrs_ceedee_lamb_and_george/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T01:27:56Z",
       "id": "48ce24481e040ddf042b6e92c3426970"
@@ -516,7 +556,7 @@
     {
       "title": "Nick Sirianni is a combined 11-0 against Sean McVay (4-0), Matt LaFleur (4-0) and Dan Campbell (3-0) as a head coach.",
       "link": "https://www.reddit.com/r/nfl/comments/1ozy29k/nick_sirianni_is_a_combined_110_against_sean/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T00:56:28Z",
       "id": "a5d204972df69651d9e05477d072c34e"
@@ -524,7 +564,7 @@
     {
       "title": "[Rapoport] Ja'Marr Chase to argue in appeal of 1-game suspension that if he would have spit on Jalen Ramsey, he would have spit in his face instead of on ground or on jersey.",
       "link": "https://www.reddit.com/r/nfl/comments/1ozxzgr/rapoport_jamarr_chase_to_argue_in_appeal_of_1game/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T00:52:56Z",
       "id": "8c82d8f0e2b73b80c326e23aa156589e"
@@ -556,7 +596,7 @@
     {
       "title": "ManningCast Game Thread: Dallas Cowboys at Las Vegas Raiders",
       "link": "https://www.reddit.com/r/nfl/comments/1ozww6r/manningcast_game_thread_dallas_cowboys_at_las/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-18T00:05:31Z",
       "id": "4046b35826559477d8e2d606871004ba"
@@ -588,7 +628,7 @@
     {
       "title": "Browns Shedeur Sanders is expected to start Sunday's game in Las Vegas with Dillon Gabriel in the concussion protocol. Barring something unexpected, Sanders will make his starting debut, becoming the 42nd Browns starter since 1999",
       "link": "https://www.reddit.com/r/nfl/comments/1ozw9w7/browns_shedeur_sanders_is_expected_to_start/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T23:39:36Z",
       "id": "c2ab2f47e2b578d007f18dd6ff6e2fad"
@@ -596,7 +636,7 @@
     {
       "title": "[Highlight] LA Rams HC Sean Mcvay's electric post victory breakdown: \"How bout that f****** win!!\"",
       "link": "https://www.reddit.com/r/nfl/comments/1ozvzgk/highlight_la_rams_hc_sean_mcvays_electric_post/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T23:27:04Z",
       "id": "1f7856e3f4d1d6866efa468fa9e7d0dd"
@@ -666,14 +706,6 @@
       "id": "40d19f26c0e7ccd486bdc0772242af2f"
     },
     {
-      "title": "[Tom Grossi] The NFC North After Week 11",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1ozto38/tom_grossi_the_nfc_north_after_week_11/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-17T21:55:03Z",
-      "id": "d97f210f4752258cdc53e01cb5a2888b"
-    },
-    {
       "title": "Run ancient UNIX on modern hardware",
       "link": "https://github.com/felipenlunkes/run-ancient-unix",
       "source": "Hacker News",
@@ -684,7 +716,7 @@
     {
       "title": "[Schefter] Chase\u2019s one-game suspension will cost him his a weekly paycheck of $448,333 along with a $58,823 per game active bonus he now will be forfeiting.",
       "link": "https://www.reddit.com/r/nfl/comments/1oztb1g/schefter_chases_onegame_suspension_will_cost_him/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T21:41:08Z",
       "id": "f8c9350a14b7b881a53a0a73c1c85236"
@@ -692,7 +724,7 @@
     {
       "title": "[Pelissero] The NFL is suspending Bengals star WR Ja\u2019Marr Chase one game for unsportsmanlike conduct after he was caught on video spitting on Steelers DB Jalen Ramsey. Barring a successful appeal, Chase is now set to miss Sunday\u2019s game vs. the Patriots.",
       "link": "https://www.reddit.com/r/nfl/comments/1ozt4dj/pelissero_the_nfl_is_suspending_bengals_star_wr/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T21:34:09Z",
       "id": "a2a22564f101f079f0ad1946fe4d9b78"
@@ -700,7 +732,7 @@
     {
       "title": "[PFT] There was a break-in at Shedeur Sanders's house during Sunday's game",
       "link": "https://www.reddit.com/r/nfl/comments/1ozs9yk/pft_there_was_a_breakin_at_shedeur_sanderss_house/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T21:02:45Z",
       "id": "890237c5d3fb355ba962a544348e363a"
@@ -732,7 +764,7 @@
     {
       "title": "Myles Garrett now has more sacks (15) than the Bengals (14) and 49ers (12) have as a team",
       "link": "https://www.reddit.com/r/nfl/comments/1ozrao7/myles_garrett_now_has_more_sacks_15_than_the/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T20:25:45Z",
       "id": "9759f2699b487019e01831c0424b09bb"
@@ -752,14 +784,6 @@
       "category": "tech",
       "published": "2025-11-17T20:19:16Z",
       "id": "14d97f3a4ea81a98c0b53058efb3303a"
-    },
-    {
-      "title": "Think in Math. Write in Code",
-      "link": "https://www.reddit.com/r/programming/comments/1ozr2ob/think_in_math_write_in_code/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T20:17:36Z",
-      "id": "099f0a2b16a81ff971695d1d7b0dc4a1"
     },
     {
       "title": "Pre-PEP: Rust for CPython",
@@ -796,7 +820,7 @@
     {
       "title": "If Falcons' QB Michael Penix Jr. is out for the remainder of the season, it will be the 5th Season Ending Injury in 8 Years of College and Pro Football",
       "link": "https://www.reddit.com/r/nfl/comments/1ozqjml/if_falcons_qb_michael_penix_jr_is_out_for_the/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T19:58:25Z",
       "id": "b1e65399094a46e33e50452c3b1b2415"
@@ -890,14 +914,6 @@
       "id": "76dfa04271a56bc77d6762d884681d8a"
     },
     {
-      "title": "How when AWS was down, we were not",
-      "link": "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T17:07:17Z",
-      "id": "5d88b0d1cc363a6a74e92842fe2d2569"
-    },
-    {
       "title": "Welp that was quick",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ozluli/welp_that_was_quick/",
       "source": "r/chicagobulls",
@@ -916,7 +932,7 @@
     {
       "title": "[Duggan] Sources: Giants rookie LB Abdul Carter was benched for the opening drive of yesterday's loss to the Packers for missing a walk-through. Carter was asleep in the team facility at the time of the walk-through:",
       "link": "https://www.reddit.com/r/nfl/comments/1ozkccg/duggan_sources_giants_rookie_lb_abdul_carter_was/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T16:11:22Z",
       "id": "8d5a08eafbcdbad8a66eb2929bbfd696"
@@ -970,28 +986,12 @@
       "id": "9c2611fa0c752c2913dd41cd8db245d2"
     },
     {
-      "title": "Show HN: ESPectre \u2013 Motion detection based on Wi-Fi spectre analysis",
-      "link": "https://github.com/francescopace/espectre",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T14:40:54Z",
-      "id": "58cd650c39938bd90cb17928ea67d9db"
-    },
-    {
       "title": "[Highlight] Jordan Davis gets 3 of the Eagle's 5 batted balls at the line. Postgame, players said they saw something in Goff\u2019s arm angle on film and spent extra time batting balls in practice this week",
       "link": "https://www.reddit.com/r/nfl/comments/1ozhxkh/highlight_jordan_davis_gets_3_of_the_eagles_5/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T14:37:47Z",
       "id": "d673d406aa88b4c5c2da1bb2ad508f6c"
-    },
-    {
-      "title": "Both of Last Year's 1 Seeds (KC, DET) are Currently Outside of the Playoffs",
-      "link": "https://www.reddit.com/r/nfl/comments/1ozhdji/both_of_last_years_1_seeds_kc_det_are_currently/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-11-17T14:14:58Z",
-      "id": "851b60a45ed983fef3d9d75b41982712"
     },
     {
       "title": "Weekly Discussion Thread - November 17, 2025",
@@ -1004,7 +1004,7 @@
     {
       "title": "[Highlight] Dion Dawkins in the postgame locker room on Keon Coleman being a healthy scratch due to being late for a Bills team meeting: \"Pats on the back are over with and it's time for him to grow up and he knows it.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1ozgz7t/highlight_dion_dawkins_in_the_postgame_locker/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-17T13:58:36Z",
       "id": "31e7117a580c02866f3c41c59b481621"
@@ -1146,22 +1146,6 @@
       "id": "87d09db75118eb1ff0ac3a1313e1ba92"
     },
     {
-      "title": "Regarding software craftsmanship, code quality, and long term view",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oyfnlm/regarding_software_craftsmanship_code_quality_and/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-16T07:36:56Z",
-      "id": "20ebcc8d7986b88910c491f02d927f19"
-    },
-    {
-      "title": "Show HN: Continuous Claude \u2013 run Claude Code in a loop",
-      "link": "https://github.com/AnandChowdhary/continuous-claude",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T16:27:49Z",
-      "id": "62c3c339443d7f99c043d717450fea33"
-    },
-    {
       "title": "My stages of learning to be a socially normal person",
       "link": "https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a",
       "source": "Hacker News",
@@ -1176,6 +1160,14 @@
       "category": "tech",
       "published": "2025-11-14T18:53:27Z",
       "id": "9194d80951babfeef63efc45caa5c5cc"
+    },
+    {
+      "title": "A/B Tests over Evals",
+      "link": "https://www.raindrop.ai/blog/thoughts-on-evals/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-14T07:30:55Z",
+      "id": "43381cf4fc0f2607f19ebfdd55c7be07"
     },
     {
       "title": "How many video games include a marriage proposal? At least one",
@@ -1216,6 +1208,14 @@
       "category": "tech",
       "published": "2025-11-12T01:41:07Z",
       "id": "8bbca043224fca4019029ddb485d1e58"
+    },
+    {
+      "title": "Ditch your (mut)ex, you deserve better",
+      "link": "https://chrispenner.ca/posts/mutexes",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-11T22:11:43Z",
+      "id": "96ccd939c81bfcefcceb72cdbc6f6fcf"
     },
     {
       "title": "Practice answers with yourself. I made a thing that I didn't want to pay for",
