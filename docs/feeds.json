@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-11-18T09:26:55.966978Z",
+  "last_updated": "2025-11-18T10:27:38.599819Z",
   "items": [
+    {
+      "title": "An exploration of a schema-first, JSON-compatible format I\u2019ve been refining since 2017",
+      "link": "https://www.reddit.com/r/programming/comments/1p08dwc/an_exploration_of_a_schemafirst_jsoncompatible/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T10:22:14Z",
+      "id": "4aef913f018ff5cb3897009a6c1e6426"
+    },
+    {
+      "title": "How you deal with context loss/Handoffs ?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p085nh/how_you_deal_with_context_losshandoffs/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-18T10:07:24Z",
+      "id": "7b05edc5ed776779ee8510bf73fa61e5"
+    },
+    {
+      "title": "Conversational x86 ASM: Learning to Appreciate Your Compiler \u2022 Matt Godbolt",
+      "link": "https://www.reddit.com/r/programming/comments/1p082i5/conversational_x86_asm_learning_to_appreciate/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T10:01:53Z",
+      "id": "9f72285b06b7b7b8e00e2e06140f44a7"
+    },
+    {
+      "title": "Josh giddey",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1p07wf8/josh_giddey/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2025-11-18T09:51:18Z",
+      "id": "71d3c436983550bf2757fb29772ac183"
+    },
+    {
+      "title": "Running Clojure in Wasm",
+      "link": "https://www.reddit.com/r/programming/comments/1p07mr1/running_clojure_in_wasm/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T09:33:44Z",
+      "id": "c475e2d648fa9e8aafbef2e9c183a328"
+    },
+    {
+      "title": "Navigating the culture of forced AI use",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p07mhj/navigating_the_culture_of_forced_ai_use/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-18T09:33:15Z",
+      "id": "853f6bcbe2405a20ac53c7c31f0d120a"
+    },
     {
       "title": "AI Coding Agents reality check",
       "link": "https://www.reddit.com/r/programming/comments/1p07eka/ai_coding_agents_reality_check/",
@@ -634,36 +682,12 @@
       "id": "464ef2156b489ff27ff8d81d391f5987"
     },
     {
-      "title": "The Programming of Algebra",
-      "link": "https://www.reddit.com/r/programming/comments/1ozr5kr/the_programming_of_algebra/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T20:20:32Z",
-      "id": "fab4bde75388e7ab8385ab179c8f0d37"
-    },
-    {
-      "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
-      "link": "https://www.reddit.com/r/programming/comments/1ozr4ya/z3_api_in_python_from_sudoku_to_nqueens_in_under/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T20:19:55Z",
-      "id": "6c62f444c302c6bca930b2e386fcf8b9"
-    },
-    {
       "title": "GCC 16 considering changing default to C++20",
       "link": "https://www.reddit.com/r/programming/comments/1ozr4ax/gcc_16_considering_changing_default_to_c20/",
       "source": "r/programming",
       "category": "tech",
       "published": "2025-11-17T20:19:16Z",
       "id": "14d97f3a4ea81a98c0b53058efb3303a"
-    },
-    {
-      "title": "Building a Simple Search Engine That Works",
-      "link": "https://www.reddit.com/r/programming/comments/1ozr3ey/building_a_simple_search_engine_that_works/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-17T20:18:21Z",
-      "id": "7b0b2e428656d55a5c9d1e7fd6ff01fb"
     },
     {
       "title": "Think in Math. Write in Code",
@@ -1002,14 +1026,6 @@
       "id": "0cb73f0aa9251ce2d2a933ea3ef2f4c2"
     },
     {
-      "title": "People working in a startup, how is learning curve?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oz9o7b/people_working_in_a_startup_how_is_learning_curve/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-17T07:01:53Z",
-      "id": "6464d0ea131f177224bab61434eb0a16"
-    },
-    {
       "title": "I\u2019m pissed off Coby played 30 mins.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1oz9d8q/im_pissed_off_coby_played_30_mins/",
       "source": "r/chicagobulls",
@@ -1114,28 +1130,12 @@
       "id": "87d09db75118eb1ff0ac3a1313e1ba92"
     },
     {
-      "title": "I want whatever I was on 5 years ago",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1oyhoob/i_want_whatever_i_was_on_5_years_ago/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2025-11-16T09:44:34Z",
-      "id": "b6b55177abeb78e71eaa69d358ea0dee"
-    },
-    {
       "title": "Regarding software craftsmanship, code quality, and long term view",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oyfnlm/regarding_software_craftsmanship_code_quality_and/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2025-11-16T07:36:56Z",
       "id": "20ebcc8d7986b88910c491f02d927f19"
-    },
-    {
-      "title": "Implementing a workflow for a small team",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1oy2jqo/implementing_a_workflow_for_a_small_team/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-15T20:50:33Z",
-      "id": "473e563294287e316fe4481a9d0e631f"
     },
     {
       "title": "Feedback at new job: my tone is too negative",
@@ -1202,12 +1202,12 @@
       "id": "f27c5128ee67cd8f44587df0e3974b65"
     },
     {
-      "title": "Implementing Wordle in LibreOffice with JavaScript Macros",
-      "link": "https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/",
+      "title": "Ruby Symbols",
+      "link": "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-12T01:52:13Z",
-      "id": "9bf2c3c76ec524231ee58ad764ea5fb2"
+      "published": "2025-11-12T14:00:52Z",
+      "id": "98d0b6d5f0e2d1fd3d80dc3efb2bb928"
     },
     {
       "title": "Ditch your (mut)ex, you deserve better",
