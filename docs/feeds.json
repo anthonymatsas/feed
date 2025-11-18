@@ -1,13 +1,61 @@
 {
-  "last_updated": "2025-11-18T11:22:03.129400Z",
+  "last_updated": "2025-11-18T12:50:30.926831Z",
   "items": [
     {
-      "title": "Anyone else sending claude a random message at 7am just so the limit resets during work hours ?",
-      "link": "https://www.reddit.com/r/programming/comments/1p09ce9/anyone_else_sending_claude_a_random_message_at/",
+      "title": "GoSign Desktop RCE flaws affecting users in Italy",
+      "link": "https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-18T12:36:54Z",
+      "id": "9927b43c57826855292ba94f328b3822"
+    },
+    {
+      "title": "All the possessions in the 4th quarter - Denver Nuggets vs. Chicago Bulls - 11/17/25 Bulls commentary. HD version",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1p0anvx/all_the_possessions_in_the_4th_quarter_denver/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2025-11-18T12:30:09Z",
+      "id": "75e380388b433e89eebd7e25d0f9a198"
+    },
+    {
+      "title": "Roster composition",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1p0a0jz/roster_composition/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2025-11-18T11:57:21Z",
+      "id": "ac4d4dfd71c03606fd30a9fb4ecc2558"
+    },
+    {
+      "title": "VMScape: Exposing and Exploiting Incomplete Branch Predictor Isolation in Cloud Environments",
+      "link": "https://www.reddit.com/r/programming/comments/1p09zve/vmscape_exposing_and_exploiting_incomplete_branch/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2025-11-18T11:19:41Z",
-      "id": "88ad4d64efbe2c845cfdc8a6d194460f"
+      "published": "2025-11-18T11:56:19Z",
+      "id": "5415737b7175cf5735126cc914d80b63"
+    },
+    {
+      "title": "Cloudflare is down. How does this affect you?",
+      "link": "https://www.reddit.com/r/programming/comments/1p09ziy/cloudflare_is_down_how_does_this_affect_you/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T11:55:46Z",
+      "id": "f06b77ca21dd3eca592e28a88afa62fd"
+    },
+    {
+      "title": "Gemini 3 Pro Model Card",
+      "link": "https://pixeldrain.com/u/hwgaNKeH",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-18T11:40:01Z",
+      "id": "382bbff10e3aad91901ee0ea09b56d23"
+    },
+    {
+      "title": "Cloudflare Global Network experiencing issues",
+      "link": "https://www.cloudflarestatus.com/?t=1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-18T11:35:10Z",
+      "id": "084b06a60cbc37906c9474b6af094442"
     },
     {
       "title": "I compared the activity of programming communities here on Reddit",
@@ -40,6 +88,14 @@
       "category": "sports",
       "published": "2025-11-18T11:01:00Z",
       "id": "35e3c1920038d63c70b971b137db0ffe"
+    },
+    {
+      "title": "The Miracle of W\u00f6rgl",
+      "link": "https://scf.green/story-of-worgl-and-others/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-18T10:59:54Z",
+      "id": "6521c45a58bca04fbd733f3f70214e01"
     },
     {
       "title": "PicoCode - AI self-hosted Local Codebase Assistant (RAG)",
@@ -90,6 +146,14 @@
       "id": "71d3c436983550bf2757fb29772ac183"
     },
     {
+      "title": "So you're telling me the Bears have the best OL in the league, according to PFN?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1p07q7e/so_youre_telling_me_the_bears_have_the_best_ol_in/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-18T09:40:13Z",
+      "id": "6c788d541637e87489f7bbd959e9d9ed"
+    },
+    {
       "title": "Running Clojure in Wasm",
       "link": "https://www.reddit.com/r/programming/comments/1p07mr1/running_clojure_in_wasm/",
       "source": "r/programming",
@@ -104,30 +168,6 @@
       "category": "tech",
       "published": "2025-11-18T09:33:15Z",
       "id": "853f6bcbe2405a20ac53c7c31f0d120a"
-    },
-    {
-      "title": "AI Coding Agents reality check",
-      "link": "https://www.reddit.com/r/programming/comments/1p07eka/ai_coding_agents_reality_check/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-18T09:18:37Z",
-      "id": "676eefafff877f56f8e24a187021a0a5"
-    },
-    {
-      "title": "6 years after too much crypto",
-      "link": "https://www.reddit.com/r/programming/comments/1p07aza/6_years_after_too_much_crypto/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-18T09:12:08Z",
-      "id": "72a8368759fe0fb6f4eae55493a6ae8c"
-    },
-    {
-      "title": "Postgres is not a silver bullet for your data stack",
-      "link": "https://www.reddit.com/r/programming/comments/1p079ox/postgres_is_not_a_silver_bullet_for_your_data/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-18T09:09:39Z",
-      "id": "a0211f723927c22326006c11b5fc2deb"
     },
     {
       "title": "GitHub Project Search and Discovery",
@@ -154,20 +194,20 @@
       "id": "8397002ebfa7b808d2a72543076835f8"
     },
     {
-      "title": "Vucevic Apology Forum",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1p069yp/vucevic_apology_forum/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2025-11-18T08:05:00Z",
-      "id": "64cabe962fa869da331126d9b0db985e"
-    },
-    {
       "title": "I'm a deskilled zombie Senior. How can I ressurect my career?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p0671j/im_a_deskilled_zombie_senior_how_can_i_ressurect/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2025-11-18T08:00:08Z",
       "id": "a37b68c92fec810dfc5e335fc2ec8e47"
+    },
+    {
+      "title": "Giving C a Superpower: custom header file (safe_c.h)",
+      "link": "https://www.reddit.com/r/programming/comments/1p05zfq/giving_c_a_superpower_custom_header_file_safe_ch/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T07:46:12Z",
+      "id": "5f8bd103a7650c25728b81277fdda915"
     },
     {
       "title": "[Python] Orchestro CLI \u2013 Testing framework for CLI/TUI applications with parallel execution and AI-powered test generation",
@@ -192,6 +232,14 @@
       "category": "sports",
       "published": "2025-11-18T07:02:56Z",
       "id": "0dd6edb859f56ab7b1de296e9df22eb9"
+    },
+    {
+      "title": "An Elm Primer: The missing chapter on JavaScript interop",
+      "link": "https://www.reddit.com/r/programming/comments/1p05b0u/an_elm_primer_the_missing_chapter_on_javascript/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T07:02:15Z",
+      "id": "9aaea57fc6c50f21c2bc9cc3ceaee507"
     },
     {
       "title": "Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF",
@@ -354,12 +402,12 @@
       "id": "349196686fb6312f89d3aee854590f07"
     },
     {
-      "title": "LeJEPA",
+      "title": "LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics",
       "link": "https://arxiv.org/abs/2511.08544",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-18T02:58:31Z",
-      "id": "5f548b9ef6db5e24448ab9846e8f1c42"
+      "id": "cdbced36bdd45dbdf8eaaa21728c7a37"
     },
     {
       "title": "[Highlight] CeeDee Lamb waved bye right when George Pickens passed the first down marker",
@@ -368,14 +416,6 @@
       "category": "sports",
       "published": "2025-11-18T02:57:50Z",
       "id": "bcccb3ef6fd0ee99341ae05a1276f583"
-    },
-    {
-      "title": "Core Devices keeps stealing our work",
-      "link": "https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T02:53:28Z",
-      "id": "7289015ab3ef5f37f48949845d832b21"
     },
     {
       "title": "Breaking: Corey Wooten signs a 1 week contract",
@@ -834,14 +874,6 @@
       "id": "5361547354d2d5b1a855faaf88c88193"
     },
     {
-      "title": "A new book about the origins of Effective Altruism",
-      "link": "https://newrepublic.com/article/202433/happened-effective-altruism",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T17:37:42Z",
-      "id": "75bf1b6fe0e8e5eaa8fbc24f6b3c19f8"
-    },
-    {
       "title": "Well boys it was a good run",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ozmht0/well_boys_it_was_a_good_run/",
       "source": "r/chicagobulls",
@@ -920,14 +952,6 @@
       "category": "tech",
       "published": "2025-11-17T15:04:26Z",
       "id": "2b98dbd0ecbdc4a28dd91cad825acfc0"
-    },
-    {
-      "title": "Aldous Huxley predicts Adderall and champions alternative therapies",
-      "link": "https://angadh.com/inkhaven-7",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T14:57:33Z",
-      "id": "4bbeabefa5bc403de314a8587c5eb49b"
     },
     {
       "title": "PRE GAME: Chicago Bulls (6-6) vs Denver Nuggets (10-2) (November 17, 2025)",
@@ -1042,14 +1066,6 @@
       "id": "f4ee928891db2f470a022dbddf275e86"
     },
     {
-      "title": "NUMBER 1",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1oz74l4/number_1/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-17T04:36:20Z",
-      "id": "0931bf0248730b248967b87b56c4e781"
-    },
-    {
       "title": "Post Game Thread - NBA: The Jazz defeat the Bulls on Nov 16, 2025, the final score is 150-147.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1oz6tv2/post_game_thread_nba_the_jazz_defeat_the_bulls_on/",
       "source": "r/chicagobulls",
@@ -1080,14 +1096,6 @@
       "category": "tech",
       "published": "2025-11-17T00:00:42Z",
       "id": "970f3d8cadca931f9a12655d7213fa1e"
-    },
-    {
-      "title": "Game Thread: Utah Jazz vs Chicago Bulls Live Score | NBA | Nov 16, 2025",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1oz1bqu/game_thread_utah_jazz_vs_chicago_bulls_live_score/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2025-11-17T00:00:03Z",
-      "id": "f28afd6eb1d8dfed57fec6cb1e77d5a7"
     },
     {
       "title": "AI has made me realize that I\u2019m not a mature engineer. An I\u2019m ok with that",
@@ -1210,20 +1218,12 @@
       "id": "8bbca043224fca4019029ddb485d1e58"
     },
     {
-      "title": "Ditch your (mut)ex, you deserve better",
-      "link": "https://chrispenner.ca/posts/mutexes",
+      "title": "Practice answers with yourself. I made a thing that I didn't want to pay for",
+      "link": "https://look.imwithstupid.fun",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-11T22:11:43Z",
-      "id": "96ccd939c81bfcefcceb72cdbc6f6fcf"
-    },
-    {
-      "title": "Show HN: Reversing a Cinema Camera's Peripherals Port",
-      "link": "https://3nt3.de/blog/reversing-fs7-comms",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-11T15:57:48Z",
-      "id": "87534d891155fc4d3a50a7cc8b33e374"
+      "published": "2025-11-11T17:25:44Z",
+      "id": "e06d7bc8251ca4d51a2b1611d27e3b98"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
