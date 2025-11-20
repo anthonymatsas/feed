@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-11-20T09:25:32.150949Z",
+  "last_updated": "2025-11-20T10:26:26.577763Z",
   "items": [
+    {
+      "title": "How we make a Reactive Database Fast, Deterministic, and Still Safe",
+      "link": "https://www.reddit.com/r/programming/comments/1p1zasd/how_we_make_a_reactive_database_fast/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-20T09:58:41Z",
+      "id": "07deebc9fef35b51426f39024e062c90"
+    },
+    {
+      "title": "Interactive World History Atlas Since 3000 BC",
+      "link": "http://geacron.com/home-en/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-20T09:52:11Z",
+      "id": "dcd8e468615760f5f481ffbdb00ed07a"
+    },
     {
       "title": "\ud83d\ude80 New Article: Real-Time Updates in Go with Server-Sent Events (SSE) Just published a quick deep dive into using SSE in Golang \u2014 a lightweight, HTTP-native alternative to WebSockets for real-time updates.",
       "link": "https://www.reddit.com/r/programming/comments/1p1yqxm/new_article_realtime_updates_in_go_with/",
@@ -32,14 +48,6 @@
       "category": "tech",
       "published": "2025-11-20T09:01:06Z",
       "id": "63fb860f7d794f35f682dbdd897cab47"
-    },
-    {
-      "title": "How to Write Code That AI Agents Can Understand (and Refactor)",
-      "link": "https://www.reddit.com/r/programming/comments/1p1ycb0/how_to_write_code_that_ai_agents_can_understand/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-20T08:56:09Z",
-      "id": "a9573c5a716aaac60b2b043def8429f7"
     },
     {
       "title": "OpenMicrofrontends - First Major Release",
@@ -352,14 +360,6 @@
       "category": "sports",
       "published": "2025-11-20T00:32:27Z",
       "id": "10e80b0da33a7ec8d0c26e5a3e5d2043"
-    },
-    {
-      "title": "Verifying your Matrix devices is becoming mandatory",
-      "link": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T00:22:03Z",
-      "id": "67f7b2b98221cb1466b1399697c284f8"
     },
     {
       "title": "[Brasky] Bills' WR Keon Coleman expected to be benched for second straight game vs. Texans",
@@ -866,6 +866,14 @@
       "id": "d15c20f7e174657fc472beb40b29135d"
     },
     {
+      "title": "How to stay sane in a world that rewards insanity",
+      "link": "https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T14:40:38Z",
+      "id": "e26b11d47629a5353ec8fd56a16bf0ea"
+    },
+    {
       "title": "Ayo Dosunmu",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1p199ld/ayo_dosunmu/",
       "source": "r/chicagobulls",
@@ -1074,14 +1082,6 @@
       "id": "89aa378c7c6fc4f1bec6d46323f63a53"
     },
     {
-      "title": "A surprise with how '#!' handles its program argument in practice",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T19:32:27Z",
-      "id": "9ddca08dd385595a1cfd00045d4edd17"
-    },
-    {
       "title": "Hi I\u2019m Maurice Jones-Drew, former NFL running back and current NFL Network analyst \u2014 Ask Me Anything!",
       "link": "https://www.reddit.com/r/nfl/comments/1p0kzca/hi_im_maurice_jonesdrew_former_nfl_running_back/",
       "source": "r/nfl",
@@ -1154,14 +1154,6 @@
       "id": "1c5463bb86182dc48fe5577642c802cf"
     },
     {
-      "title": "What influence has the BBC had on history?",
-      "link": "https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T21:35:04Z",
-      "id": "47fddb59fea9eb35a90fe7e6087eb4c3"
-    },
-    {
       "title": "Weekly Discussion Thread - November 17, 2025",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ozh1xy/weekly_discussion_thread_november_17_2025/",
       "source": "r/chicagobulls",
@@ -1216,6 +1208,14 @@
       "category": "tech",
       "published": "2025-11-13T14:10:43Z",
       "id": "0a270d8770fa0aa0acc9fac46b5af75f"
+    },
+    {
+      "title": "New Proofs Probe Soap-Film Singularities",
+      "link": "https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-13T00:18:21Z",
+      "id": "0b6aee8cfe3122bef87dff8487d6dcab"
     },
     {
       "title": "The Lucas-Lehmer Prime Number Test",
