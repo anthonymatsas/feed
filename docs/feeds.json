@@ -1,21 +1,53 @@
 {
-  "last_updated": "2025-11-20T08:33:18.627456Z",
+  "last_updated": "2025-11-20T09:25:32.150949Z",
   "items": [
     {
-      "title": "What's the single best programming tutorial you've ever followed?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p1xwez/whats_the_single_best_programming_tutorial_youve/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-20T08:26:05Z",
-      "id": "854fa88942e12d25117083f944e09ad3"
-    },
-    {
-      "title": "How do you practice for programming interviews without burning out?",
-      "link": "https://www.reddit.com/r/programming/comments/1p1xvo0/how_do_you_practice_for_programming_interviews/",
+      "title": "\ud83d\ude80 New Article: Real-Time Updates in Go with Server-Sent Events (SSE) Just published a quick deep dive into using SSE in Golang \u2014 a lightweight, HTTP-native alternative to WebSockets for real-time updates.",
+      "link": "https://www.reddit.com/r/programming/comments/1p1yqxm/new_article_realtime_updates_in_go_with/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2025-11-20T08:24:39Z",
-      "id": "3e8133da54a996fa9cb63fbfa90970a2"
+      "published": "2025-11-20T09:22:36Z",
+      "id": "87cc44a0b98091add0b35a25ee3c0314"
+    },
+    {
+      "title": "What Killed Perl?",
+      "link": "https://www.reddit.com/r/programming/comments/1p1yjb4/what_killed_perl/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-20T09:08:40Z",
+      "id": "e64fc8b0aba30eaeb03509a5d3b3ebfb"
+    },
+    {
+      "title": "The $1 Million Dollars Portfolio Design",
+      "link": "https://www.reddit.com/r/programming/comments/1p1yfd6/the_1_million_dollars_portfolio_design/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-20T09:01:37Z",
+      "id": "2348ca826b79e586c1104c4d3fa77d1b"
+    },
+    {
+      "title": "I'm over vibecoding, it just pisses me off. I tried my hardest. If you wanna build a SaaS scam, it's great. For the rest of us building real things, it sucks. Anyone else?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p1yf0e/im_over_vibecoding_it_just_pisses_me_off_i_tried/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-20T09:01:06Z",
+      "id": "63fb860f7d794f35f682dbdd897cab47"
+    },
+    {
+      "title": "How to Write Code That AI Agents Can Understand (and Refactor)",
+      "link": "https://www.reddit.com/r/programming/comments/1p1ycb0/how_to_write_code_that_ai_agents_can_understand/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-20T08:56:09Z",
+      "id": "a9573c5a716aaac60b2b043def8429f7"
+    },
+    {
+      "title": "OpenMicrofrontends - First Major Release",
+      "link": "https://www.reddit.com/r/programming/comments/1p1yagf/openmicrofrontends_first_major_release/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-20T08:52:39Z",
+      "id": "4c30c69cd8f5469c43e26b6792ea36ba"
     },
     {
       "title": "Lens Loop: The World\u2019s First Power Tool for LLM Application Developers",
@@ -24,14 +56,6 @@
       "category": "tech",
       "published": "2025-11-20T08:09:42Z",
       "id": "b145ea12c13aafe3e75f6c0df097d3ab"
-    },
-    {
-      "title": "I built Anomalog \u2013 a browser-based tool to diff two log files (client-side, no install)",
-      "link": "https://www.reddit.com/r/programming/comments/1p1x9ww/i_built_anomalog_a_browserbased_tool_to_diff_two/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-20T07:44:42Z",
-      "id": "1e703673fc80f6bdda5ec6e7b5f98695"
     },
     {
       "title": "How to effectively job search? First time post-college?",
@@ -220,7 +244,7 @@
     {
       "title": "[Highlights] A very remorseful Keon Coleman dancing on the sidelines while serving his suspension this past sunday. He is now suspended again for undisclosed reasons",
       "link": "https://www.reddit.com/r/nfl/comments/1p1tmax/highlights_a_very_remorseful_keon_coleman_dancing/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-20T04:13:29Z",
       "id": "f5c2d44950ce4cb412bef656eea2ffad"
@@ -236,7 +260,7 @@
     {
       "title": "[Highlight] Drake Maye on leading the NFL in passing yards, completion percentage, and more: \u201cProbably the reason I am is we haven\u2019t had a bye yet.\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1p1srhh/highlight_drake_maye_on_leading_the_nfl_in/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-20T03:30:30Z",
       "id": "fac8955a03ed8df6229c43f5565ee5e7"
@@ -292,7 +316,7 @@
     {
       "title": "The league average time in pocket is 2.3 seconds. Shedeur Sanders on Sunday averaged 2.5 seconds in the pocket",
       "link": "https://www.reddit.com/r/nfl/comments/1p1q29z/the_league_average_time_in_pocket_is_23_seconds/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-20T01:23:52Z",
       "id": "aec179709e5eef77ba1cd05d7bbbb734"
@@ -300,7 +324,7 @@
     {
       "title": "[Dave] The Steelers have added QB/WR John Rhys Plumlee to their practice squad this week to mimic Caleb Williams escape ability.",
       "link": "https://www.reddit.com/r/nfl/comments/1p1poc3/dave_the_steelers_have_added_qbwr_john_rhys/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-20T01:05:59Z",
       "id": "cbfede105cedb9f216120fe07b826de3"
@@ -340,7 +364,7 @@
     {
       "title": "[Brasky] Bills' WR Keon Coleman expected to be benched for second straight game vs. Texans",
       "link": "https://www.reddit.com/r/nfl/comments/1p1olit/brasky_bills_wr_keon_coleman_expected_to_be/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-20T00:17:56Z",
       "id": "d0207cc73cf0e957579bb4e8751dedb6"
@@ -388,7 +412,7 @@
     {
       "title": "[Pelissero] The 49ers are signing kicker Matt Gay San Francisco worked out a bunch of kickers over the past two days and decided to go with Gay, who was just cut by Washington on Monday.",
       "link": "https://www.reddit.com/r/nfl/comments/1p1m9z8/pelissero_the_49ers_are_signing_kicker_matt_gay/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T22:39:44Z",
       "id": "5f732a413f4116512e752b40ba99106e"
@@ -404,7 +428,7 @@
     {
       "title": "The Browns have not won on the West Coast or Pacific Standard Time Zone since 2012.",
       "link": "https://www.reddit.com/r/nfl/comments/1p1ltsy/the_browns_have_not_won_on_the_west_coast_or/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T22:21:37Z",
       "id": "d82101ec2e66525ec7ea9dfbd1bab476"
@@ -412,7 +436,7 @@
     {
       "title": "Ranking Kyler Murray's Most Likely 2026 Spots",
       "link": "https://www.reddit.com/r/nfl/comments/1p1ltkd/ranking_kyler_murrays_most_likely_2026_spots/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T22:21:22Z",
       "id": "7085524f58308b0f4007973ed8784d06"
@@ -492,7 +516,7 @@
     {
       "title": "[Schefter] Bengals listed QB Joe Burrow as a full participant in today\u2019s practice.",
       "link": "https://www.reddit.com/r/nfl/comments/1p1jysj/schefter_bengals_listed_qb_joe_burrow_as_a_full/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T21:10:36Z",
       "id": "4bc0595e83061deaac10bb367a47a793"
@@ -532,7 +556,7 @@
     {
       "title": "[Highlight] Steelers TE Darnell Washington admits he weighs 311 pounds",
       "link": "https://www.reddit.com/r/nfl/comments/1p1j2kf/highlight_steelers_te_darnell_washington_admits/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T20:36:33Z",
       "id": "76f0a251f0c9c2e1d1bb1b3463767ca0"
@@ -564,7 +588,7 @@
     {
       "title": "[Highlight] Throwback to this Ed Reed & Ray Lewis interaction",
       "link": "https://www.reddit.com/r/nfl/comments/1p1i8p1/highlight_throwback_to_this_ed_reed_ray_lewis/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T20:05:37Z",
       "id": "6ac421fd32add294496e9494ef713ae2"
@@ -586,9 +610,17 @@
       "id": "d76c3af49a69152f11448765ce35abd2"
     },
     {
+      "title": "Measuring political bias in Claude",
+      "link": "https://www.anthropic.com/news/political-even-handedness",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T19:42:38Z",
+      "id": "bbc34b805866d870588f91001c86cfd0"
+    },
+    {
       "title": "Drake Maye ignores Cam Newton's skepticism: I don't even know what show he's on",
       "link": "https://www.reddit.com/r/nfl/comments/1p1hj8n/drake_maye_ignores_cam_newtons_skepticism_i_dont/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T19:39:22Z",
       "id": "71bee3564b07c78d0be032df2f82ef89"
@@ -620,7 +652,7 @@
     {
       "title": "[Highlight] Panthers running back Rico Dowdle speaks to offensive coordinator Brad Idzik and Head Coach Dave Canales about a particular play call that he believed would work, and it set up the game winner for Carolina",
       "link": "https://www.reddit.com/r/nfl/comments/1p1g9g5/highlight_panthers_running_back_rico_dowdle/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T18:52:28Z",
       "id": "0b6a6797497115a96f1bab84ee4ff1d7"
@@ -628,7 +660,7 @@
     {
       "title": "[Highlight] Browns QB Shedeur Sanders speaks on the Robbery that occurred at his home: \"I'm in a mental space now to where not too much can phase me. And none of my jewelry got taken anyway.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1p1g59p/highlight_browns_qb_shedeur_sanders_speaks_on_the/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T18:48:22Z",
       "id": "c25f4f6fe05e398e7e909fedfac95297"
@@ -700,7 +732,7 @@
     {
       "title": "Chiefs went from 17-game winning streak to 0-5 in close games. What happened?",
       "link": "https://www.reddit.com/r/nfl/comments/1p1e0qi/chiefs_went_from_17game_winning_streak_to_05_in/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T17:32:15Z",
       "id": "0e4266b03d1ca0cb19df0652714a5aa0"
@@ -708,7 +740,7 @@
     {
       "title": "An actual playoff scenario is here for the first time this season!",
       "link": "https://www.reddit.com/r/nfl/comments/1p1dwlo/an_actual_playoff_scenario_is_here_for_the_first/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T17:28:06Z",
       "id": "0d59b7c97eb8e952687e5c83717f9347"
@@ -746,14 +778,6 @@
       "id": "af7a1595f7bac1f4dc9401df0a222272"
     },
     {
-      "title": "Let's make a game! 353: Creating settings",
-      "link": "https://www.reddit.com/r/programming/comments/1p1cvyg/lets_make_a_game_353_creating_settings/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-19T16:50:54Z",
-      "id": "c859b21e842df672ff35f6cd5f9232b5"
-    },
-    {
       "title": "Building with Distributed Actors: What and Why",
       "link": "https://www.reddit.com/r/programming/comments/1p1cae3/building_with_distributed_actors_what_and_why/",
       "source": "r/programming",
@@ -764,7 +788,7 @@
     {
       "title": "[Rapoport] #Falcons QB Michael Penix Jr does, in fact, need surgery to repair his ACL, with 9 months of recovery, at least, coming.",
       "link": "https://www.reddit.com/r/nfl/comments/1p1bybu/rapoport_falcons_qb_michael_penix_jr_does_in_fact/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T16:16:52Z",
       "id": "ae527cd028cd6ede6573450b9db00c28"
@@ -772,7 +796,7 @@
     {
       "title": "[Schefter] Browns QB Shedeur Sanders will start Sunday vs the Raiders.",
       "link": "https://www.reddit.com/r/nfl/comments/1p1bfz7/schefter_browns_qb_shedeur_sanders_will_start/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T15:57:58Z",
       "id": "f00f4a5ea9c7dc85c4752bf92c40b108"
@@ -780,7 +804,7 @@
     {
       "title": "[Eisen] Steelers insider Gerry Dulac: \u2018The steelers absolutely do not miss George Pickens. They aren\u2019t surprised he\u2019s having success but the entire team and staff was fed up\u2019",
       "link": "https://www.reddit.com/r/nfl/comments/1p1b17f/eisen_steelers_insider_gerry_dulac_the_steelers/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T15:42:34Z",
       "id": "4189219295f0d57eac7d50d98705b7b2"
@@ -804,7 +828,7 @@
     {
       "title": "The NFL says Jameis Winston is a \u2018national treasure\u2019. The NFL is very wrong | The Guardian",
       "link": "https://www.reddit.com/r/nfl/comments/1p1a5r4/the_nfl_says_jameis_winston_is_a_national/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T15:09:27Z",
       "id": "870ab9d610c5f14bd51c4a18410630a7"
@@ -812,7 +836,7 @@
     {
       "title": "Water Cooler Wednesday",
       "link": "https://www.reddit.com/r/nfl/comments/1p1a1yv/water_cooler_wednesday/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T15:05:29Z",
       "id": "b87ab1f503662afd9e7fa4a91932baf5"
@@ -828,18 +852,10 @@
     {
       "title": "[Highlight] Bengals QB Joe Flacco on the late hit from TJ Watt: \"That's football. He did a good job, he buried me in the turf.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1p19vmh/highlight_bengals_qb_joe_flacco_on_the_late_hit/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T14:58:44Z",
       "id": "c015af5020d60b37b7dab3d14b8798bb"
-    },
-    {
-      "title": "Build Your Own Key-Value Storage Engine\u2014Week 2",
-      "link": "https://www.reddit.com/r/programming/comments/1p19vbw/build_your_own_keyvalue_storage_engineweek_2/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-19T14:58:23Z",
-      "id": "2bc4e94d8577e672b539a8f8e1fc1174"
     },
     {
       "title": "Europe is scaling back GDPR and relaxing AI laws",
@@ -890,14 +906,6 @@
       "id": "db0aac198dce617fc29d5f154c1258a4"
     },
     {
-      "title": "Gaudry-Schost Collision Search Algorithm for Discrete Logarithms",
-      "link": "https://www.reddit.com/r/programming/comments/1p18j6d/gaudryschost_collision_search_algorithm_for/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-19T14:04:24Z",
-      "id": "e07cad4f01c8f9a80feb15d23b5650e9"
-    },
-    {
       "title": "Bring me the Ayahuasca Man",
       "link": "https://www.reddit.com/r/CHIBears/comments/1p18dwu/bring_me_the_ayahuasca_man/",
       "source": "r/CHIBears",
@@ -908,7 +916,7 @@
     {
       "title": "[BetMGM] The most expensive defenses in 2025",
       "link": "https://www.reddit.com/r/nfl/comments/1p17zwz/betmgm_the_most_expensive_defenses_in_2025/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T13:41:53Z",
       "id": "bc2dad2063c996f5adbf57e1462a8f80"
@@ -924,7 +932,7 @@
     {
       "title": "In 1983, at age 47 (and 18 years retired) Jim Brown said he would make an attempt to come back from retirement if Franco Harris beat his rushing record. \u201cWho's to say a 47-year-old can't do it? If Franco Harris is gonna creep to my record, I might as well come back and creep, too.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1p17t5o/in_1983_at_age_47_and_18_years_retired_jim_brown/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-19T13:33:50Z",
       "id": "f1dbdb061278dceb45bc3a50d52e7b6d"
@@ -944,14 +952,6 @@
       "category": "tech",
       "published": "2025-11-19T12:34:55Z",
       "id": "3ba1518959954fe84bc937999cbfd72a"
-    },
-    {
-      "title": "Thunderbird adds native Microsoft Exchange email support",
-      "link": "https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T11:45:51Z",
-      "id": "4d19a4214395c851f401e2a39a09d44c"
     },
     {
       "title": "UV and Ruff",
@@ -1084,7 +1084,7 @@
     {
       "title": "Hi I\u2019m Maurice Jones-Drew, former NFL running back and current NFL Network analyst \u2014 Ask Me Anything!",
       "link": "https://www.reddit.com/r/nfl/comments/1p0kzca/hi_im_maurice_jonesdrew_former_nfl_running_back/",
-      "source": "r/nba",
+      "source": "r/nfl",
       "category": "sports",
       "published": "2025-11-18T19:14:03Z",
       "id": "d2128dfbf46f7029f3606e62442d221c"
