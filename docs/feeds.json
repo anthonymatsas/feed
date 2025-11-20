@@ -1,29 +1,13 @@
 {
-  "last_updated": "2025-11-20T03:13:13.378943Z",
+  "last_updated": "2025-11-20T04:27:36.657039Z",
   "items": [
     {
-      "title": "Crypto got everything it wanted. Now it's sinking",
-      "link": "https://www.economist.com/finance-and-economics/2025/11/18/crypto-got-everything-it-wanted-now-its-sinking",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T01:42:50Z",
-      "id": "f8e180923cce908531d907793f6a54e2"
-    },
-    {
-      "title": "Jailbreaking AI Models to Phish Elderly Victims",
+      "title": "Measuring the impact of AI scams on the elderly",
       "link": "https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-20T00:32:17Z",
-      "id": "36ce8cee4b66fb9785ec80c792fb95f2"
-    },
-    {
-      "title": "Workday to acquire Pipedream",
-      "link": "https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T00:27:22Z",
-      "id": "a02d58b548668839081f985ed74543fb"
+      "id": "d62ce1702aa156820868ec8a32fb6dfe"
     },
     {
       "title": "Verifying your Matrix devices is becoming mandatory",
@@ -32,6 +16,30 @@
       "category": "tech",
       "published": "2025-11-20T00:22:03Z",
       "id": "67f7b2b98221cb1466b1399697c284f8"
+    },
+    {
+      "title": "CornHub",
+      "link": "https://cornhub.website/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T23:50:08Z",
+      "id": "b7add3afe67db1a83907fc76926e37ca"
+    },
+    {
+      "title": "What is AI Fungus?",
+      "link": "https://www.reddit.com/r/programming/comments/1p1mijp/what_is_ai_fungus/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T22:49:28Z",
+      "id": "f4af52e5ec108d34f7cdd2485aae13b4"
+    },
+    {
+      "title": "Basic Rust FFI Tutorial",
+      "link": "https://www.reddit.com/r/programming/comments/1p1lmd4/basic_rust_ffi_tutorial/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T22:13:29Z",
+      "id": "1dd12f01fcfcfb19909ffce1865379e2"
     },
     {
       "title": "The patent office is about to make bad patents untouchable",
@@ -48,6 +56,30 @@
       "category": "tech",
       "published": "2025-11-19T21:58:47Z",
       "id": "122bcbe07ea02ab1e06a7d2da3e0e0e1"
+    },
+    {
+      "title": "The Impact of AI on the Performance of Software and Systems",
+      "link": "https://www.reddit.com/r/programming/comments/1p1l7ar/the_impact_of_ai_on_the_performance_of_software/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T21:57:23Z",
+      "id": "96a756faa7bec264f94d9172b7f720f9"
+    },
+    {
+      "title": "Introducing the pgEdge Control Plane, a declarative 100% open-source API for multi-region Postgres management",
+      "link": "https://www.reddit.com/r/programming/comments/1p1l0gf/introducing_the_pgedge_control_plane_a/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T21:50:07Z",
+      "id": "16ae50b6b7d80712a265a63943db5d23"
+    },
+    {
+      "title": "A breakdown of all OAuth 2.0 authorization flows (Server-side, PKCE, Device Code, Client Credentials)",
+      "link": "https://www.reddit.com/r/programming/comments/1p1kplp/a_breakdown_of_all_oauth_20_authorization_flows/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T21:38:36Z",
+      "id": "bb1f315d3785d02a8173a16e0ad84c9b"
     },
     {
       "title": "Gaming on Linux has never been more approachable",
@@ -106,12 +138,12 @@
       "id": "b5a9d8b7f57c8944e02dc12283b307e1"
     },
     {
-      "title": "The Death of Arduino?",
-      "link": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H",
+      "title": "Robert Louis Stevenson's Art of Living (and Dying)",
+      "link": "https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-19T19:44:46Z",
-      "id": "8c6e03cd6d33182ab2e28bdebed90f61"
+      "published": "2025-11-19T19:55:49Z",
+      "id": "8717a1d53d7c0ddfe202a59726b66cc7"
     },
     {
       "title": "Measuring political bias in Claude",
@@ -122,20 +154,20 @@
       "id": "bbc34b805866d870588f91001c86cfd0"
     },
     {
-      "title": "Pozsar's Bretton Woods III: The Framework",
-      "link": "https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T19:39:09Z",
-      "id": "3d61fc416fd8924e100020976d020ff4"
-    },
-    {
       "title": "AI is a front for consolidation of resources and power",
       "link": "https://www.chrbutler.com/what-ai-is-really-for",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-19T19:09:27Z",
       "id": "98853cbe6f08cc6e6953d0be95c312b3"
+    },
+    {
+      "title": "Linus Torvalds: Vibe coding is fine, but not for production",
+      "link": "https://www.reddit.com/r/programming/comments/1p1g9ni/linus_torvalds_vibe_coding_is_fine_but_not_for/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T18:52:41Z",
+      "id": "e45f7ad439fc47ca3d1b3e77cc6af51b"
     },
     {
       "title": "Building more with GPT-5.1-Codex-Max",
@@ -162,6 +194,38 @@
       "id": "4aa7185a311060aa8822081c6e6c67fd"
     },
     {
+      "title": "Being Gullible About User Feedback Can Hurt UX",
+      "link": "https://www.reddit.com/r/programming/comments/1p1dexs/being_gullible_about_user_feedback_can_hurt_ux/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T17:10:12Z",
+      "id": "7feb09a024ebea36885c27fd53ff75d3"
+    },
+    {
+      "title": "Let's make a game! 353: Creating settings",
+      "link": "https://www.reddit.com/r/programming/comments/1p1cvyg/lets_make_a_game_353_creating_settings/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T16:50:54Z",
+      "id": "c859b21e842df672ff35f6cd5f9232b5"
+    },
+    {
+      "title": "Building with Distributed Actors: What and Why",
+      "link": "https://www.reddit.com/r/programming/comments/1p1cae3/building_with_distributed_actors_what_and_why/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T16:29:07Z",
+      "id": "4f88cdaf4b7ca1b7f3fb9a719f604522"
+    },
+    {
+      "title": "Linus \"my first, and hopefully last flamefest\" Torvalds [1992]",
+      "link": "https://www.reddit.com/r/programming/comments/1p1aywt/linus_my_first_and_hopefully_last_flamefest/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T15:40:16Z",
+      "id": "a1d7a2821f96e9e0268a1040c6fb7295"
+    },
+    {
       "title": "Launch HN: Mosaic (YC W25) \u2013 Agentic Video Editing",
       "link": "https://mosaic.so",
       "source": "Hacker News",
@@ -170,12 +234,52 @@
       "id": "6c494c6f2ea0082b21fea0985f0d6272"
     },
     {
+      "title": "Build Your Own Key-Value Storage Engine\u2014Week 2",
+      "link": "https://www.reddit.com/r/programming/comments/1p19vbw/build_your_own_keyvalue_storage_engineweek_2/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T14:58:23Z",
+      "id": "2bc4e94d8577e672b539a8f8e1fc1174"
+    },
+    {
       "title": "Europe is scaling back GDPR and relaxing AI laws",
       "link": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-19T14:41:30Z",
       "id": "d15c20f7e174657fc472beb40b29135d"
+    },
+    {
+      "title": "How to stay sane in a world that rewards insanity",
+      "link": "https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T14:40:38Z",
+      "id": "e26b11d47629a5353ec8fd56a16bf0ea"
+    },
+    {
+      "title": "What Makes the Intro to Crafting Interpreters so Good?",
+      "link": "https://www.reddit.com/r/programming/comments/1p1922e/what_makes_the_intro_to_crafting_interpreters_so/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T14:25:54Z",
+      "id": "3229c2f3da19cacd555146bf1571fd0f"
+    },
+    {
+      "title": "Gaudry-Schost Collision Search Algorithm for Discrete Logarithms",
+      "link": "https://www.reddit.com/r/programming/comments/1p18j6d/gaudryschost_collision_search_algorithm_for/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T14:04:24Z",
+      "id": "e07cad4f01c8f9a80feb15d23b5650e9"
+    },
+    {
+      "title": "Beyond Chat: Bringing Models to The Canvas \u2022 Lu Wilson",
+      "link": "https://www.reddit.com/r/programming/comments/1p17gu0/beyond_chat_bringing_models_to_the_canvas_lu/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T13:18:55Z",
+      "id": "c31d9e583a9d0a001b4ba62f21995f60"
     },
     {
       "title": "Larry Summers resigns from OpenAI board",
@@ -194,6 +298,22 @@
       "id": "4d19a4214395c851f401e2a39a09d44c"
     },
     {
+      "title": "UV and Ruff",
+      "link": "https://www.reddit.com/r/programming/comments/1p14w4a/uv_and_ruff/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T11:12:23Z",
+      "id": "411a619d0c0d48d691074ba162a196db"
+    },
+    {
+      "title": "When high availability brings downtime",
+      "link": "https://www.reddit.com/r/programming/comments/1p14bhc/when_high_availability_brings_downtime/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T10:42:21Z",
+      "id": "7c4f6f5c9ef46732145c2a5f4154d6cf"
+    },
+    {
       "title": "A $1k AWS mistake",
       "link": "https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/",
       "source": "Hacker News",
@@ -202,20 +322,100 @@
       "id": "07d04371f433656fd48d2ee7efea96a4"
     },
     {
+      "title": "2-Tier to 3-Tier Architecture: Migration Journey With Modular Monolith and GraphQL",
+      "link": "https://www.reddit.com/r/programming/comments/1p0zuwn/2tier_to_3tier_architecture_migration_journey/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T06:09:09Z",
+      "id": "f2163c03920c3ea3412112e0e77142ff"
+    },
+    {
+      "title": "Cloudflare outage on November 18, 2025 - official response",
+      "link": "https://www.reddit.com/r/programming/comments/1p0srgs/cloudflare_outage_on_november_18_2025_official/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-19T00:20:20Z",
+      "id": "7c19b02e8e2f4147196db1d57eda7b89"
+    },
+    {
+      "title": "Android Blog: \"Based on this feedback and our ongoing conversations with the community, we are building a new advanced flow that allows experienced users to accept the risks of installing software that isn't verified.\"",
+      "link": "https://www.reddit.com/r/programming/comments/1p0qxc9/android_blog_based_on_this_feedback_and_our/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T23:02:06Z",
+      "id": "443e74b77015c0dc5b734524740382fb"
+    },
+    {
+      "title": "Don't Refactor Like Uncle Bob (Second Edition)",
+      "link": "https://www.reddit.com/r/programming/comments/1p0qu12/dont_refactor_like_uncle_bob_second_edition/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T22:58:29Z",
+      "id": "feedffb2fadfad876d54671305fa763a"
+    },
+    {
+      "title": "Inside Rust's std and parking_lot mutexes - who wins?",
+      "link": "https://www.reddit.com/r/programming/comments/1p0lff9/inside_rusts_std_and_parking_lot_mutexes_who_wins/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T19:30:53Z",
+      "id": "665e837b41a8f64d3eaacf68165eee8d"
+    },
+    {
+      "title": "Gemini 3 was released minutes ago",
+      "link": "https://www.reddit.com/r/programming/comments/1p0h78i/gemini_3_was_released_minutes_ago/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T16:55:52Z",
+      "id": "8d878f6a2b4bf9fbc6f0c59e7ae5c632"
+    },
+    {
+      "title": "What if everything was \"Async\", but nothing needed \"Await\"? -- Automatic Concurrency in Par",
+      "link": "https://www.reddit.com/r/programming/comments/1p0goii/what_if_everything_was_async_but_nothing_needed/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T16:36:29Z",
+      "id": "0ac3c33225150ccfd938edbca8875646"
+    },
+    {
+      "title": "Cloudflare global outage halts major AI and web services",
+      "link": "https://www.reddit.com/r/programming/comments/1p0e2l6/cloudflare_global_outage_halts_major_ai_and_web/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T14:57:24Z",
+      "id": "638b44cb77ded8699b478da43c5a9dc7"
+    },
+    {
+      "title": "6 years after too much crypto",
+      "link": "https://www.reddit.com/r/programming/comments/1p0313p/6_years_after_too_much_crypto/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-18T04:52:25Z",
+      "id": "27216970fdba3b6378ca5a9e891bac03"
+    },
+    {
+      "title": "Three Hapsburgs and a Reporter Walk into a Canadian Vault",
+      "link": "https://www.nytimes.com/2025/11/16/insider/florentine-diamond-hapsburgs.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T23:19:11Z",
+      "id": "5c942c201158aeade2d251f8671ff358"
+    },
+    {
+      "title": "What Influence Has the BBC Had on History?",
+      "link": "https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T21:35:04Z",
+      "id": "959690536deb5778c2e70de4d7fefeaf"
+    },
+    {
       "title": "Vortex: An extensible, state of the art columnar file format",
       "link": "https://github.com/vortex-data/vortex",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-15T02:55:06Z",
       "id": "cc34293d9dcd71cc71b1b38c0e72c7d1"
-    },
-    {
-      "title": "Why CUDA translation wont unlock AMD",
-      "link": "https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T18:47:15Z",
-      "id": "6ea9271378618219cc8ca0abe9890e58"
     },
     {
       "title": "Blame as a Service",
