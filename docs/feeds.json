@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-21T21:20:43.436104Z",
+  "last_updated": "2025-11-21T22:23:21.931968Z",
   "items": [
+    {
+      "title": "LAPD Helicopter Tracker with Real-Time Operating Costs",
+      "link": "https://lapdhelicoptertracker.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T22:11:07Z",
+      "id": "b133025622118561c79af9438f772667"
+    },
+    {
+      "title": "The Untold History of Arduino",
+      "link": "https://arduinohistory.github.io/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T21:29:28Z",
+      "id": "a03738f13497e4288c714a61544b6385"
+    },
+    {
+      "title": "The senior population is booming. Caregiving is struggling to keep up",
+      "link": "https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T21:05:09Z",
+      "id": "05bd861c19d8594b501c29d236d24c15"
+    },
     {
       "title": "We Remain Alive Also in a Dead Internet",
       "link": "https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954",
@@ -10,12 +34,28 @@
       "id": "ff8f003f47316106250476aab20937d5"
     },
     {
-      "title": "Brazil charges 31 people in major carbon credit fraud investigation",
-      "link": "https://news.mongabay.com/short-article/2025/11/brazil-charges-31-people-in-major-carbon-credit-fraud-investigation/",
+      "title": "Pixar: The Early Days A never-before-seen 1996 interview",
+      "link": "https://stevejobsarchive.com/stories/pixar-early-days",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-21T18:30:52Z",
-      "id": "83348dd733a7a00abe1e1dc3eca95892"
+      "published": "2025-11-21T20:45:06Z",
+      "id": "4b61baa5d2c4e2b8f1b100b14198df81"
+    },
+    {
+      "title": "We remember the internet bubble. This mania looks and feels the same",
+      "link": "https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T20:30:51Z",
+      "id": "c7951bbfc217540aaa86e5419c643523"
+    },
+    {
+      "title": "Tuxedo Computers Cancels Snapdragon X1 Linux Laptop",
+      "link": "https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T19:46:34Z",
+      "id": "bd2c5f4e8c5c89d630558c624363693a"
     },
     {
       "title": "How/why to sweep async tasks under a Postgres table",
@@ -74,14 +114,6 @@
       "id": "a842b02323c8e85efd324024adf5eebe"
     },
     {
-      "title": "The New AI Consciousness Paper",
-      "link": "https://www.astralcodexten.com/p/the-new-ai-consciousness-paper",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T16:25:48Z",
-      "id": "49ddbf1680a1f83acb890baa47f187fb"
-    },
-    {
       "title": "Arduino published updated terms and conditions: no longer an open commons",
       "link": "https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html",
       "source": "Hacker News",
@@ -104,14 +136,6 @@
       "category": "tech",
       "published": "2025-11-21T14:50:36Z",
       "id": "494af3d8ccf33fea651cd533e8f9ead5"
-    },
-    {
-      "title": "More tales about outages and numeric limits",
-      "link": "https://rachelbythebay.com/w/2025/11/18/down/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T13:44:12Z",
-      "id": "7e994ecb2c776c9f8276d17c638cf2eb"
     },
     {
       "title": "EXIF orientation info in PNGs isn't used for image-orientation: from-image",
@@ -178,36 +202,12 @@
       "id": "621e4a9b264decaf21363212a117a604"
     },
     {
-      "title": "My Favorite Math Problem",
-      "link": "https://bytesauna.com/post/my-favorite-math-problem",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T11:22:54Z",
-      "id": "d79cb9e08be222165501a463b1369f2a"
-    },
-    {
-      "title": "Solving the Whole Year Puzzle with Z3",
-      "link": "https://jcrowell.net/posts/whole-year-sat",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T01:42:20Z",
-      "id": "7bf080f9ee1c0c29c7e6744247e3b193"
-    },
-    {
       "title": "Scientists now know that bees can process time, a first in insects",
       "link": "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-15T13:32:12Z",
       "id": "9109780dae011603f70be199e25baa79"
-    },
-    {
-      "title": "WebAssembly from the Ground Up",
-      "link": "https://wasmgroundup.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T13:06:38Z",
-      "id": "ffcf4f5b8e3dc8f7e64c61855c1e3473"
     },
     {
       "title": "Samsung's 60% DRAM Price Hike Signals a New Phase of Global Memory Tightening",
@@ -218,12 +218,12 @@
       "id": "9bb69cde36d9dd632c91c9f55ad03f1f"
     },
     {
-      "title": "FEX-emu \u2013 Run x86 applications on ARM64 Linux devices",
-      "link": "https://fex-emu.com/",
+      "title": "Childhood Friends, Not Moms, Shape Attachment Styles Most",
+      "link": "https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-12T20:15:51Z",
-      "id": "6f6eec0cc9066a11e5af56ef9fd31228"
+      "published": "2025-11-14T15:11:13Z",
+      "id": "3e9c36ae8805307e0fb20145d2156aac"
     },
     {
       "title": "Shop Sans is a typeface for curved text paths",
