@@ -1,13 +1,37 @@
 {
-  "last_updated": "2025-11-21T11:19:40.323511Z",
+  "last_updated": "2025-11-21T12:48:42.968832Z",
   "items": [
     {
-      "title": "Germany: States Pass Porn Filters for Operating Systems",
-      "link": "https://www.heise.de/en/news/Youth-Protection-States-Pass-Porn-Filters-for-Operating-Systems-11086768.html",
+      "title": "Abuse of the nullish coalescing operator in JS/TS",
+      "link": "https://www.reddit.com/r/programming/comments/1p2xcof/abuse_of_the_nullish_coalescing_operator_in_jsts/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-21T12:29:45Z",
+      "id": "5451341234df3d4bc2268588693e4b4a"
+    },
+    {
+      "title": "A Technical Insight About Modern Compilation",
+      "link": "https://www.reddit.com/r/programming/comments/1p2x8ex/a_technical_insight_about_modern_compilation/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-21T12:23:36Z",
+      "id": "173a78720502d94237fa6af0e6bb0530"
+    },
+    {
+      "title": "Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)",
+      "link": "https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-21T10:52:52Z",
-      "id": "5c4ddb99ae47a500282f205aefd58e3e"
+      "published": "2025-11-21T12:00:02Z",
+      "id": "25589bb6e2e2038276017b3fc3bfaad1"
+    },
+    {
+      "title": "Future of Scala",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p2wov2/future_of_scala/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-21T11:55:52Z",
+      "id": "9d68b78f56aa3c046251fab91f601d99"
     },
     {
       "title": "Developers being given story points as targets for each sprint.",
@@ -58,14 +82,6 @@
       "id": "061bc0d28d936dca49371245620e7cda"
     },
     {
-      "title": "How do you find clients?",
-      "link": "https://www.reddit.com/r/programming/comments/1p2ut6h/how_do_you_find_clients/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-21T10:04:43Z",
-      "id": "c142d7c38da1e9d0f1238f696ec93376"
-    },
-    {
       "title": "HP and Dell disable HEVC support built into their laptops' CPUs",
       "link": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/",
       "source": "Hacker News",
@@ -88,14 +104,6 @@
       "category": "tech",
       "published": "2025-11-21T09:52:55Z",
       "id": "1fb809332e1caa20011fea54ad76bbdc"
-    },
-    {
-      "title": "What are buffers \u2014 and why do they show up everywhere?",
-      "link": "https://www.reddit.com/r/programming/comments/1p2tyc4/what_are_buffers_and_why_do_they_show_up/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-21T09:09:53Z",
-      "id": "3f6560dddeb2942d13c31eb697f24b74"
     },
     {
       "title": "gis and sam 2",
@@ -122,12 +130,12 @@
       "id": "e4932ff8a123117e7fbd069944bfa10f"
     },
     {
-      "title": "It's Hard to Build an Oscillator",
+      "title": "It's hard to build an oscillator",
       "link": "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-21T07:45:53Z",
-      "id": "6dbc152c238900e491ffa2272c01b784"
+      "id": "5c81f6fe0bb60185bd4fdeebb56fbad6"
     },
     {
       "title": "The Qtile Window Manager: A Python-Powered Tiling Experience",
@@ -186,6 +194,14 @@
       "id": "3a77abc294444842aacda362bd68cd8a"
     },
     {
+      "title": "[Siciliano] Josh Allen says his left shoulder \"went a little numb on me\", but \"we're good\".",
+      "link": "https://www.reddit.com/r/nfl/comments/1p2plev/siciliano_josh_allen_says_his_left_shoulder_went/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-11-21T04:45:13Z",
+      "id": "12215f07813ce1cb473e9373194fe539"
+    },
+    {
       "title": "Interested in architecture but I\u2019m a pretty average programmer",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p2pisb/interested_in_architecture_but_im_a_pretty/",
       "source": "r/ExperiencedDevs",
@@ -204,7 +220,7 @@
     {
       "title": "[Benne] Davis Mills went 3-0 in relief of Stroud, which probably bought him another five years in the league.",
       "link": "https://www.reddit.com/r/nfl/comments/1p2pfhj/benne_davis_mills_went_30_in_relief_of_stroud/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:36:25Z",
       "id": "4033c6088bfe3459ef348ea849210c49"
@@ -212,7 +228,7 @@
     {
       "title": "[Highlight] All eight sacks from the Texans defense in their win over the Bills",
       "link": "https://www.reddit.com/r/nfl/comments/1p2pe9p/highlight_all_eight_sacks_from_the_texans_defense/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:34:39Z",
       "id": "7d5a3a6f52fb73bfeadabd8a885c4516"
@@ -220,7 +236,7 @@
     {
       "title": "Josh Allen (93 career INTs in 122 games, 0.762 per game) passes Tua (57 in 75 games, 0.76 per game) in career interceptions per game",
       "link": "https://www.reddit.com/r/nfl/comments/1p2pd2f/josh_allen_93_career_ints_in_122_games_0762_per/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:32:48Z",
       "id": "56939a58c7204bda529ae92bacdece2c"
@@ -228,7 +244,7 @@
     {
       "title": "The Houston Texans sacked Josh Allen 8 times tonight, setting a new record for most sacks of him in a game. This is just his 4th career game with more than 5 sacks taken, and the first since 2020",
       "link": "https://www.reddit.com/r/nfl/comments/1p2pc7w/the_houston_texans_sacked_josh_allen_8_times/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:31:29Z",
       "id": "03801a77815ad58ca0e6f6662f7c0935"
@@ -236,7 +252,7 @@
     {
       "title": "The Texans and Panthers now have a better record than the Chiefs.",
       "link": "https://www.reddit.com/r/nfl/comments/1p2pb38/the_texans_and_panthers_now_have_a_better_record/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:29:50Z",
       "id": "e4a2556690de4d1de6a36ea86455fb06"
@@ -244,7 +260,7 @@
     {
       "title": "Josh Allen falls to 0-4 lifetime in Houston",
       "link": "https://www.reddit.com/r/nfl/comments/1p2pake/josh_allen_falls_to_04_lifetime_in_houston/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:28:59Z",
       "id": "54a1319dc5a6a3af66ab7ce54ea15a21"
@@ -252,7 +268,7 @@
     {
       "title": "Post Game Thread: Buffalo Bills at Houston Texans",
       "link": "https://www.reddit.com/r/nfl/comments/1p2p9xh/post_game_thread_buffalo_bills_at_houston_texans/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:28:01Z",
       "id": "776eb8cec06c1018e9ff2fdaca2fe005"
@@ -260,7 +276,7 @@
     {
       "title": "[Highlight] Josh Allen gets picked off to end the game",
       "link": "https://www.reddit.com/r/nfl/comments/1p2p9iz/highlight_josh_allen_gets_picked_off_to_end_the/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:27:25Z",
       "id": "608a78f10dcdf5b899a0998355f7a4d6"
@@ -268,7 +284,7 @@
     {
       "title": "[Highlight] Bills convert on 4th and 27",
       "link": "https://www.reddit.com/r/nfl/comments/1p2p65i/highlight_bills_convert_on_4th_and_27/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:22:25Z",
       "id": "d0fcacab5ee6c892a3c0e30f4573287f"
@@ -276,7 +292,7 @@
     {
       "title": "[Dubow] Josh Allen has now been sacked a career high 8 times and lost a career high 70 yards on those sacks",
       "link": "https://www.reddit.com/r/nfl/comments/1p2p63u/dubow_josh_allen_has_now_been_sacked_a_career/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T04:22:21Z",
       "id": "fe537e2624f850fa8ebd77e170ffaf3b"
@@ -284,7 +300,7 @@
     {
       "title": "[Highlight] Khalil Shakir fumbles and the Texans recover",
       "link": "https://www.reddit.com/r/nfl/comments/1p2o64e/highlight_khalil_shakir_fumbles_and_the_texans/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T03:35:51Z",
       "id": "e4e55f9cbba80b20a7b637e42826a935"
@@ -300,7 +316,7 @@
     {
       "title": "[Highlight] Will Anderson Jr. with a relentless pursuit to sack Josh Allen",
       "link": "https://www.reddit.com/r/nfl/comments/1p2nmfy/highlight_will_anderson_jr_with_a_relentless/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T03:10:02Z",
       "id": "f8bf5f4655dc52e380f53277cc534b9a"
@@ -308,7 +324,7 @@
     {
       "title": "[Highlight] Will Anderson Jr. chases Josh Allen down for an eternity before finally earning the 18 yard sack to end Buffalo's drive",
       "link": "https://www.reddit.com/r/nfl/comments/1p2nkjq/highlight_will_anderson_jr_chases_josh_allen_down/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T03:07:29Z",
       "id": "e348c5a549807d16dc4be822dc06cf4d"
@@ -316,7 +332,7 @@
     {
       "title": "[Highlight] Mills finds Higgins for a TD before halftime!",
       "link": "https://www.reddit.com/r/nfl/comments/1p2n3x5/highlight_mills_finds_higgins_for_a_td_before/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T02:45:48Z",
       "id": "382f9015b6cb5018006b304833154d98"
@@ -324,7 +340,7 @@
     {
       "title": "[Highlight] Ray Davis runs it all the way back for a 98-yard kickoff return TD",
       "link": "https://www.reddit.com/r/nfl/comments/1p2mw9r/highlight_ray_davis_runs_it_all_the_way_back_for/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T02:35:51Z",
       "id": "80f7ba984b2bfa418814a7762998bc18"
@@ -340,7 +356,7 @@
     {
       "title": "[Highlight] Josh Allen's pass tipped and intercepted!",
       "link": "https://www.reddit.com/r/nfl/comments/1p2mq5x/highlight_josh_allens_pass_tipped_and_intercepted/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T02:28:04Z",
       "id": "d93673f7c5fd41769b54087303c50a43"
@@ -356,7 +372,7 @@
     {
       "title": "[Highlight] Will Anderson Jr. gets home on Josh Allen after Dion Dawkins gives up on his assignment",
       "link": "https://www.reddit.com/r/nfl/comments/1p2maur/highlight_will_anderson_jr_gets_home_on_josh/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T02:08:17Z",
       "id": "1db3ab3d38c3cd59e4ed8f63ea9ecffc"
@@ -372,7 +388,7 @@
     {
       "title": "[Highlight] Will Anderson Jr. hunts down and tackles Josh Allen from behind; Allen writhing in pain holding his wrist",
       "link": "https://www.reddit.com/r/nfl/comments/1p2lxh3/highlight_will_anderson_jr_hunts_down_and_tackles/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T01:50:59Z",
       "id": "1284395c6f0e790fbb6bfdacdac3dc1d"
@@ -404,7 +420,7 @@
     {
       "title": "CeeDee Lamb says he and George Pickens were disciplined for missing curfew",
       "link": "https://www.reddit.com/r/nfl/comments/1p2jsjm/ceedee_lamb_says_he_and_george_pickens_were/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-21T00:15:16Z",
       "id": "70ec32bcd19fc177a463eada9dced2cc"
@@ -436,7 +452,7 @@
     {
       "title": "[Highlight] AJ Brown on a reporter asking him if he's washed: \"I guess Saquon isn't the same player either then...but even y'all don't believe that\"",
       "link": "https://www.reddit.com/r/nfl/comments/1p2hway/highlight_aj_brown_on_a_reporter_asking_him_if/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-20T22:54:11Z",
       "id": "347164d5bb1afb45d63ccfe1262a2856"
@@ -480,14 +496,6 @@
       "category": "tech",
       "published": "2025-11-20T21:27:43Z",
       "id": "9be99283c05d520babaf9cf03962e466"
-    },
-    {
-      "title": "New Glenn Update",
-      "link": "https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T21:21:08Z",
-      "id": "bf1cb05e72af11813bd256efe27adca1"
     },
     {
       "title": "How revenue decisions shape technical debt",
@@ -620,7 +628,7 @@
     {
       "title": "[Highlight] ESPN's First Take crew is upset that Drake Maye does not know about their show",
       "link": "https://www.reddit.com/r/nfl/comments/1p2cdje/highlight_espns_first_take_crew_is_upset_that/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-20T19:22:45Z",
       "id": "8520571fb9e4e843f93f352e73c7954f"
@@ -716,7 +724,7 @@
     {
       "title": "[Highlight] Aaron Rodgers on if there\u2019s added incentive to play this week since it\u2019s the Bears in Chicago - a team he\u2019s said he \u201cowns\u201d: \"There's incentive for every opponent, but I have enjoyed many a Sunday and Monday and Thursdays in that city.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1p29um1/highlight_aaron_rodgers_on_if_theres_added/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-20T17:51:32Z",
       "id": "7f8660fc238c8d2c6973bab5005fa4a1"
@@ -732,7 +740,7 @@
     {
       "title": "[Highlight] Patriots QB Drake Maye on Stefon Diggs playing through an injury: \u201cStef\u2019s probably dramatic. Every time he gets hit, he lies on the ground and acts like he just got hit by an 18-wheeler or something.\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1p28ba6/highlight_patriots_qb_drake_maye_on_stefon_diggs/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-20T16:53:54Z",
       "id": "1bd269a4b990a30a97c57b85484baf4c"
@@ -764,18 +772,10 @@
     {
       "title": "Thursday Talk Thread... Yes That's The Thread Name",
       "link": "https://www.reddit.com/r/nfl/comments/1p25d66/thursday_talk_thread_yes_thats_the_thread_name/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-20T15:01:25Z",
       "id": "8c20fc25e5384529d352b447596260fc"
-    },
-    {
-      "title": "[Highlight] Bears HC Ben Johnson was asked Tomlin\u2019s comments on Ja\u2019Marr Chase in his answer: \u201cHe\u2019s 100% right as far as I\u2019m concerned. He hit the nail on the head. He just keeps it real and authentic at all times.\u201d",
-      "link": "https://www.reddit.com/r/nfl/comments/1p255f8/highlight_bears_hc_ben_johnson_was_asked_tomlins/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-11-20T14:52:29Z",
-      "id": "2f4c5d038c79180d7d75500a4d9287df"
     },
     {
       "title": "All the possessions in the 4th quarter - Portland Trail Blazers vs. Chicago Bulls - 11/19/25. Bulls commentary. HD version",
@@ -1106,14 +1106,6 @@
       "id": "08e6f9b01fc75fea9e54dfd4ca46b600"
     },
     {
-      "title": "Are We All Just Drowning in DevOps Tools Now?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p16iri/are_we_all_just_drowning_in_devops_tools_now/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-19T12:34:55Z",
-      "id": "3ba1518959954fe84bc937999cbfd72a"
-    },
-    {
       "title": "Free interactive tool that shows you how PCIe lanes work on motherboards",
       "link": "https://mobomaps.com",
       "source": "Hacker News",
@@ -1184,6 +1176,14 @@
       "category": "tech",
       "published": "2025-11-17T00:00:42Z",
       "id": "970f3d8cadca931f9a12655d7213fa1e"
+    },
+    {
+      "title": "Terranova is lifting land out of flood zones using terraforming robots",
+      "link": "https://www.terranova.inc/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T00:20:38Z",
+      "id": "a901ae846110304adcc9f93757333866"
     },
     {
       "title": "Scientists now know that bees can process time, a first in insects",
