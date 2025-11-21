@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-11-21T16:29:14.392068Z",
+  "last_updated": "2025-11-21T17:20:57.930052Z",
   "items": [
+    {
+      "title": "Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer",
+      "link": "https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T17:00:00Z",
+      "id": "c1c4a085210e51bee1ac0e8d8be92aec"
+    },
+    {
+      "title": "Private Equity's New Venture: Youth Sports",
+      "link": "https://jacobin.com/2025/11/youth-sports-hockey-private-equity",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T16:52:48Z",
+      "id": "66fc8da97b28e277a7aef11c2490170f"
+    },
+    {
+      "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
+      "link": "https://wealthfolio.app/?v=2.0",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T16:34:52Z",
+      "id": "54d11ba048f08f454486bf2198dd5ac1"
+    },
+    {
+      "title": "Command Lines \u2013 AI Coding's Control Spectrum",
+      "link": "https://www.wreflection.com/p/command-lines-ai-coding",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T16:33:28Z",
+      "id": "c1de190e956b1d5720e7615ae62e1921"
+    },
+    {
+      "title": "The New AI Consciousness Paper \u2013 By Scott Alexander",
+      "link": "https://www.astralcodexten.com/p/the-new-ai-consciousness-paper",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T16:25:48Z",
+      "id": "fc63f2f4602cf469e12df07d6ce6c089"
+    },
+    {
+      "title": "XBMC 4.0 for the Original Xbox",
+      "link": "https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T15:18:05Z",
+      "id": "bcfeb280dda5df5dc9d3cb2fad1fff58"
+    },
     {
       "title": "Is C++26 getting destructive move semantics?",
       "link": "https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics",
@@ -8,6 +56,14 @@
       "category": "tech",
       "published": "2025-11-21T14:52:36Z",
       "id": "435ee8bd82ef6443ce88de396923df15"
+    },
+    {
+      "title": "We should all be using dependency cooldowns",
+      "link": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T14:50:36Z",
+      "id": "494af3d8ccf33fea651cd533e8f9ead5"
     },
     {
       "title": "Building a Minimal Viable Armv7 Emulator from Scratch",
@@ -42,28 +98,12 @@
       "id": "a5db9e5db4ce8820386b2a66d2eac8be"
     },
     {
-      "title": "Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)",
-      "link": "https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T12:00:02Z",
-      "id": "25589bb6e2e2038276017b3fc3bfaad1"
-    },
-    {
       "title": "FAWK: LLMs can write a language interpreter",
       "link": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-21T10:28:49Z",
       "id": "cde5462ec9c12ac7f9df31f9c1a29044"
-    },
-    {
-      "title": "HP and Dell disable HEVC support built into their laptops' CPUs",
-      "link": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T10:01:37Z",
-      "id": "1f98cc5f7b7a4febbb677a85d76c409c"
     },
     {
       "title": "It's hard to build an oscillator",
@@ -106,38 +146,6 @@
       "id": "2ed29b88c1abfefb67ffcef5ad5af6b0"
     },
     {
-      "title": "Data-at-Rest Encryption in DuckDB",
-      "link": "https://duckdb.org/2025/11/19/encryption-in-duckdb",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T19:26:12Z",
-      "id": "cd3933e78d4e5bf25e684a1def637b67"
-    },
-    {
-      "title": "Show HN: Search London StreetView panoramas by text",
-      "link": "https://london.publicinsights.uk",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T18:27:51Z",
-      "id": "aac0aca412a5fd2a8ef8fb70d5f2a6e7"
-    },
-    {
-      "title": "NTSB Preliminary Report \u2013 UPS Boeing MD-11F Crash [pdf]",
-      "link": "https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T18:20:59Z",
-      "id": "e19b530dce4500c5bbf282a1838ea053"
-    },
-    {
-      "title": "The Lions Operating System",
-      "link": "https://lionsos.org",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T18:19:31Z",
-      "id": "1157c968a518956f5b53ce1e3cddf7e8"
-    },
-    {
       "title": "Android and iPhone users can now share files, starting with the Pixel 10",
       "link": "https://blog.google/products/android/quick-share-airdrop/",
       "source": "Hacker News",
@@ -152,22 +160,6 @@
       "category": "tech",
       "published": "2025-11-20T15:04:23Z",
       "id": "bce49cc4bbe2e6f9de402413126883a9"
-    },
-    {
-      "title": "Free interactive tool that shows you how PCIe lanes work on motherboards",
-      "link": "https://mobomaps.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T07:13:00Z",
-      "id": "c6c57f93e76de191477713f39470bb0f"
-    },
-    {
-      "title": "Okta's NextJS-0auth troubles",
-      "link": "https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T10:17:20Z",
-      "id": "a49ca29cad6635c71f0348560a767a60"
     },
     {
       "title": "Show HN: 32V TENS device from built from scratch under $100",
@@ -240,6 +232,14 @@
       "category": "tech",
       "published": "2025-11-12T09:37:41Z",
       "id": "ad9867920bd1357d153d34835293cc3b"
+    },
+    {
+      "title": "A Whale-Surfing Fish",
+      "link": "https://apnews.com/article/sucker-fish-riding-whale-remoras-humpback-australia-69db9878c42b7d11e3755ecca4132588",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-11T23:59:23Z",
+      "id": "25835b9636e3185a9f8ae1d4a4bdb771"
     }
   ]
 }
