@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-11-21T22:23:21.931968Z",
+  "last_updated": "2025-11-21T23:21:24.606470Z",
   "items": [
+    {
+      "title": "Personal blogs are back, should niche blogs be next?",
+      "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T22:40:28Z",
+      "id": "dcfefd36547d37421aa3cb164011025b"
+    },
+    {
+      "title": "Is Matrix Multiplication Ugly?",
+      "link": "https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T22:17:11Z",
+      "id": "1542c43b8b5b7c08323e5572aa62fb79"
+    },
     {
       "title": "LAPD Helicopter Tracker with Real-Time Operating Costs",
       "link": "https://lapdhelicoptertracker.com/",
@@ -26,12 +42,12 @@
       "id": "05bd861c19d8594b501c29d236d24c15"
     },
     {
-      "title": "We Remain Alive Also in a Dead Internet",
+      "title": "We remain alive also in a dead internet",
       "link": "https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-21T20:46:36Z",
-      "id": "ff8f003f47316106250476aab20937d5"
+      "id": "6d927ca1ced23cadf9145ed6ff7a59be"
     },
     {
       "title": "Pixar: The Early Days A never-before-seen 1996 interview",
@@ -42,28 +58,12 @@
       "id": "4b61baa5d2c4e2b8f1b100b14198df81"
     },
     {
-      "title": "We remember the internet bubble. This mania looks and feels the same",
-      "link": "https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T20:30:51Z",
-      "id": "c7951bbfc217540aaa86e5419c643523"
-    },
-    {
       "title": "Tuxedo Computers Cancels Snapdragon X1 Linux Laptop",
       "link": "https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-21T19:46:34Z",
       "id": "bd2c5f4e8c5c89d630558c624363693a"
-    },
-    {
-      "title": "How/why to sweep async tasks under a Postgres table",
-      "link": "https://taylor.town/pg-task",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T18:28:31Z",
-      "id": "d1a9c4515bfc6950d83ed478a1b134bb"
     },
     {
       "title": "Helping Valve to power up Steam devices",
@@ -202,6 +202,14 @@
       "id": "621e4a9b264decaf21363212a117a604"
     },
     {
+      "title": "You only live once, self host a NAT Gateway",
+      "link": "https://www.awsistoohard.com/blog/self-hosting-nat-gateway",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T17:31:41Z",
+      "id": "02accc5bd701e6c1e26761870f8879e6"
+    },
+    {
       "title": "Scientists now know that bees can process time, a first in insects",
       "link": "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl",
       "source": "Hacker News",
@@ -232,14 +240,6 @@
       "category": "tech",
       "published": "2025-11-12T15:40:11Z",
       "id": "d108bc6fe3785e4dff843ce42a049606"
-    },
-    {
-      "title": "I converted a rotary phone into a meeting handset",
-      "link": "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T09:37:41Z",
-      "id": "ad9867920bd1357d153d34835293cc3b"
     }
   ]
 }
