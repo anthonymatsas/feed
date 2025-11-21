@@ -1,13 +1,21 @@
 {
-  "last_updated": "2025-11-21T18:31:02.027535Z",
+  "last_updated": "2025-11-21T19:19:47.731575Z",
   "items": [
     {
-      "title": "McDonald's is losing its low-income customers: a symptom of the wealth divide",
-      "link": "https://www.latimes.com/business/story/2025-11-16/mcdonalds-is-losing-its-low-income-customers",
+      "title": "How/why to sweep async tasks under a Postgres table",
+      "link": "https://taylor.town/pg-task",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-21T17:52:37Z",
-      "id": "e80ccf70f68ee0a61d9b4042bab2e57c"
+      "published": "2025-11-21T18:28:31Z",
+      "id": "d1a9c4515bfc6950d83ed478a1b134bb"
+    },
+    {
+      "title": "Helping Valve to Power Up Steam Devices",
+      "link": "https://www.igalia.com/2025/11/helpingvalve.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T17:29:59Z",
+      "id": "f17bd2e6ec5c2f00fc0614b217f1fc10"
     },
     {
       "title": "FizzBuzz with Cosines",
@@ -74,6 +82,14 @@
       "id": "c7d56ee7a98647d806176931007ec08d"
     },
     {
+      "title": "Make product worse, get money",
+      "link": "https://dynomight.net/worse/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T15:23:20Z",
+      "id": "5e9b6039909695bf0add9d9437197fd4"
+    },
+    {
       "title": "XBMC 4.0 for the Original Xbox",
       "link": "https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/",
       "source": "Hacker News",
@@ -96,14 +112,6 @@
       "category": "tech",
       "published": "2025-11-21T13:44:12Z",
       "id": "7e994ecb2c776c9f8276d17c638cf2eb"
-    },
-    {
-      "title": "Building a Minimal Viable Armv7 Emulator from Scratch",
-      "link": "https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T13:30:36Z",
-      "id": "3807676efe29cee02461e9e697a2bfd1"
     },
     {
       "title": "Making a Small RPG",
@@ -162,22 +170,6 @@
       "id": "aac0aca412a5fd2a8ef8fb70d5f2a6e7"
     },
     {
-      "title": "Android and iPhone users can now share files, starting with the Pixel 10",
-      "link": "https://blog.google/products/android/quick-share-airdrop/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T17:04:34Z",
-      "id": "d15eb5ad16f5dbc8d2326cac3d633c53"
-    },
-    {
-      "title": "Nano Banana Pro",
-      "link": "https://blog.google/technology/ai/nano-banana-pro/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T15:04:23Z",
-      "id": "bce49cc4bbe2e6f9de402413126883a9"
-    },
-    {
       "title": "Building a Durable Execution Engine with SQLite",
       "link": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
       "source": "Hacker News",
@@ -208,6 +200,14 @@
       "category": "tech",
       "published": "2025-11-15T13:06:38Z",
       "id": "ffcf4f5b8e3dc8f7e64c61855c1e3473"
+    },
+    {
+      "title": "The Anatomy of the Least Squares Method, Part Two",
+      "link": "https://thepalindrome.org/p/the-anatomy-of-the-least-squares-ab5",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-14T04:10:22Z",
+      "id": "8a1ccc91dfee595db65d6f816fc61fad"
     },
     {
       "title": "Open Source and Local Code Mode MCP in Deno Sandboxes",
