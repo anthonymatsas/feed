@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22T12:41:47.873151Z",
+  "last_updated": "2025-11-22T13:26:27.550405Z",
   "items": [
     {
       "title": "ADHD and Monotropism (2023)",
@@ -10,6 +10,22 @@
       "id": "44e25b1823ee1dccba4d85315a4e9e76"
     },
     {
+      "title": "Agent Design Is Still Hard",
+      "link": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T11:27:24Z",
+      "id": "17632fbf3bd8f42f431623dc82f31323"
+    },
+    {
+      "title": "Why DETRs are replacing YOLOs for real-time object detection",
+      "link": "https://blog.datameister.ai/detection-transformers-real-time-object-detection",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T11:21:27Z",
+      "id": "3a7179e6a6662fb7c43714cbff2e9663"
+    },
+    {
       "title": "My private information is worth $30",
       "link": "https://blog.melashri.net/micro/privacy-price/",
       "source": "Hacker News",
@@ -18,28 +34,12 @@
       "id": "c17502980b6c2e0795a1032479c71cae"
     },
     {
-      "title": "Jack Ma's family shifted wealth to UK after years-long 'disappearance'",
-      "link": "https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T10:19:27Z",
-      "id": "7e2a2a06617bca6e47ba0acff1acf17a"
-    },
-    {
-      "title": "Libpng 1.6.51: Four buffer overflow vulnerabilities fixed",
-      "link": "https://www.openwall.com/lists/oss-security/2025/11/22/1",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T10:08:31Z",
-      "id": "88b9559ae5c1300ab4251a10755bad74"
-    },
-    {
-      "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
+      "title": "Superman copy found in attic is most valuable comic ever",
       "link": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-22T05:21:53Z",
-      "id": "30f7fb0639975000b483718bef95bfc7"
+      "id": "6eaca5d03971d42742fd4428e6ebee9d"
     },
     {
       "title": "Moss Survives 9 Months in Space Vacuum",
@@ -104,14 +104,6 @@
       "category": "tech",
       "published": "2025-11-21T17:29:59Z",
       "id": "cfc45e3ddea1ae591822c271a9c581da"
-    },
-    {
-      "title": "Solving Fizz Buzz with Cosines",
-      "link": "https://susam.net/fizz-buzz-with-cosines.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T17:28:25Z",
-      "id": "5139567bb318d03022a4565416275893"
     },
     {
       "title": "You can make PS2 games in JavaScript",
@@ -184,6 +176,14 @@
       "category": "tech",
       "published": "2025-11-15T15:21:52Z",
       "id": "e43400f21f1c9be9445a71636d8f8d8f"
+    },
+    {
+      "title": "The twin probes just launched toward Mars have an Easter egg on board",
+      "link": "https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-15T11:49:24Z",
+      "id": "a41fd4dc56a874709e4d165c05b2e786"
     },
     {
       "title": "Automating rootless Docker host updates with Ansible",
