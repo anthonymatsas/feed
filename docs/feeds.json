@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-11-22T05:21:57.758253Z",
+  "last_updated": "2025-11-22T06:32:22.234418Z",
   "items": [
+    {
+      "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
+      "link": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T05:21:53Z",
+      "id": "30f7fb0639975000b483718bef95bfc7"
+    },
+    {
+      "title": "Openring-rs: a webring for static site generators written in Rust",
+      "link": "https://github.com/lukehsiao/openring-rs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T04:12:48Z",
+      "id": "4915d62945993374248b3a041b67e85f"
+    },
     {
       "title": "Moss Survives 9 Months in Space Vacuum",
       "link": "https://scienceclock.com/moss-survives-9-months-in-space-vacuum/",
@@ -114,14 +130,6 @@
       "id": "5139567bb318d03022a4565416275893"
     },
     {
-      "title": "Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer",
-      "link": "https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T17:00:00Z",
-      "id": "c1c4a085210e51bee1ac0e8d8be92aec"
-    },
-    {
       "title": "You can make PS2 games in JavaScript",
       "link": "https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript",
       "source": "Hacker News",
@@ -144,14 +152,6 @@
       "category": "tech",
       "published": "2025-11-21T15:23:20Z",
       "id": "5e9b6039909695bf0add9d9437197fd4"
-    },
-    {
-      "title": "XBMC 4.0 for the Original Xbox",
-      "link": "https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T15:18:05Z",
-      "id": "bcfeb280dda5df5dc9d3cb2fad1fff58"
     },
     {
       "title": "We should all be using dependency cooldowns",
@@ -186,6 +186,14 @@
       "id": "621e4a9b264decaf21363212a117a604"
     },
     {
+      "title": "The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi",
+      "link": "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-18T17:35:31Z",
+      "id": "6710780b9880d764c59490ef544f67a8"
+    },
+    {
       "title": "Self-hosting a NAT Gateway",
       "link": "https://www.awsistoohard.com/blog/self-hosting-nat-gateway",
       "source": "Hacker News",
@@ -194,20 +202,20 @@
       "id": "322d2d4b8474834287ecddf325b39e90"
     },
     {
-      "title": "The Strange Afterlife of Hilma af Klint, Painting\u2019s Posthumous Star",
-      "link": "https://www.newyorker.com/magazine/2025/11/24/the-strange-afterlife-of-hilma-af-klint-paintings-posthumous-star",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T12:12:37Z",
-      "id": "0ddc10940477965ac539f58a50f445cb"
-    },
-    {
       "title": "When functions dissolve (2020)",
       "link": "https://rubber-duck-typing.com/posts/2020-12-12-when-functions-dissolve.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-15T23:42:55Z",
       "id": "1be28d591098a98f9e62bde5ac324321"
+    },
+    {
+      "title": "Automating rootless Docker host updates with Ansible",
+      "link": "https://du.nkel.dev/blog/2025-11-15_docker-rootless-ansible/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-15T06:27:22Z",
+      "id": "6fe5edad4a7f21dac00a60c7b610be8f"
     },
     {
       "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
@@ -224,14 +232,6 @@
       "category": "tech",
       "published": "2025-11-14T15:11:13Z",
       "id": "3e9c36ae8805307e0fb20145d2156aac"
-    },
-    {
-      "title": "RRules (yes handling RSCALE) using only PL/pgSQL",
-      "link": "https://github.com/sirrodgepodge/rrule_plpgsql",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-13T14:33:35Z",
-      "id": "ef86b68adca7cc8a091d1e5ba6cace89"
     },
     {
       "title": "Shop Sans is a typeface for curved text paths",
