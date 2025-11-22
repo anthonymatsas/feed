@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-22T22:21:48.217377Z",
+  "last_updated": "2025-11-22T23:21:40.770491Z",
   "items": [
+    {
+      "title": "Windows ARM64 Internals: Deconstructing Pointer Authentication",
+      "link": "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T22:03:29Z",
+      "id": "21934430a0464815ec580786d58282b0"
+    },
     {
       "title": "WorldGen \u2013 Text to Immersive 3D Worlds",
       "link": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
@@ -8,6 +16,14 @@
       "category": "tech",
       "published": "2025-11-22T21:20:24Z",
       "id": "a963e4e25231aa7a0408064bed166ce9"
+    },
+    {
+      "title": "Kids who own smartphones before age 13 have worse mental health outcomes: Study",
+      "link": "https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T21:11:15Z",
+      "id": "932a8f35ee3f3687cee3e17d9e2883e7"
     },
     {
       "title": "Show HN: I built a wizard to turn ideas into AI coding agent-ready specs",
@@ -26,12 +42,12 @@
       "id": "ae322789159fa9c22247921f91901270"
     },
     {
-      "title": "Show HN: RealDeed \u2013 Tokenize Real Estate into Digital Assets",
-      "link": "https://www.realdeed.co/",
+      "title": "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
+      "link": "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-22T20:46:43Z",
-      "id": "c21d392418de76d6d6e2f2026c7226f9"
+      "published": "2025-11-22T20:54:02Z",
+      "id": "368abf481d7089a3691ea80b0f591eef"
     },
     {
       "title": "The Go-Between",
@@ -122,14 +138,6 @@
       "id": "5a4374801fa649f1fad6a7b72d177b66"
     },
     {
-      "title": "Moss Survives 9 Months in Space Vacuum",
-      "link": "https://scienceclock.com/moss-survives-9-months-in-space-vacuum/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T03:57:29Z",
-      "id": "fa735d7f3073703f4d7b72da5862516a"
-    },
-    {
       "title": "Personal blogs are back, should niche blogs be next?",
       "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
       "source": "Hacker News",
@@ -160,14 +168,6 @@
       "category": "tech",
       "published": "2025-11-21T16:34:52Z",
       "id": "54d11ba048f08f454486bf2198dd5ac1"
-    },
-    {
-      "title": "We should all be using dependency cooldowns",
-      "link": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T14:50:36Z",
-      "id": "494af3d8ccf33fea651cd533e8f9ead5"
     },
     {
       "title": "The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi",
@@ -226,20 +226,20 @@
       "id": "c253444368097ebfa7a0c0ce685c96e3"
     },
     {
+      "title": "Anukari on the CPU (part 2: CPU optimization)",
+      "link": "https://anukari.com/blog/devlog/anukari-on-the-cpu-part-2-cpu-optimization",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-15T13:15:56Z",
+      "id": "4b09730f2cd041e312052ffda302ec24"
+    },
+    {
       "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
       "link": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-15T02:45:44Z",
       "id": "b48171e0c47e4fe6d2d37f17f66a3267"
-    },
-    {
-      "title": "As 'Dorian Gray' ages, its relevance only grows",
-      "link": "https://www.washingtonpost.com/books/2025/11/08/dorian-gray-oscar-wilde-history/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T19:21:37Z",
-      "id": "fcc70df474e824481ed583bad7f2cdd3"
     }
   ]
 }
