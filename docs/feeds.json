@@ -1,13 +1,29 @@
 {
-  "last_updated": "2025-11-22T01:47:46.900839Z",
+  "last_updated": "2025-11-22T03:07:52.116037Z",
   "items": [
     {
-      "title": "I learned Vulkan and wrote a small game engine with it",
+      "title": "On the Death of Tech Idealism (and Rise of the Homeless) in Northern California",
+      "link": "https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T02:28:28Z",
+      "id": "d32ce9fe67f79037548b4b7fd220f81f"
+    },
+    {
+      "title": "Sharper MRI scans may be on horizon thanks to new physics-based model",
+      "link": "https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T00:30:26Z",
+      "id": "712be62947665338818c46d7843136fe"
+    },
+    {
+      "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
       "link": "https://edw.is/learning-vulkan/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-21T23:28:40Z",
-      "id": "6e1ef15883f86f11d5b902fd59aeda09"
+      "id": "cfef8da294122d263c6d9e92c6a5c4e3"
     },
     {
       "title": "3D printing with unconventional vase mode",
@@ -50,12 +66,12 @@
       "id": "4f16e2aa46029aabcc3b96d9bdfbd297"
     },
     {
-      "title": "We remain alive also in a dead internet",
-      "link": "https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954",
+      "title": "Arduino Terms of Service and Privacy Policy update: setting the record straight",
+      "link": "https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-21T20:46:36Z",
-      "id": "6d927ca1ced23cadf9145ed6ff7a59be"
+      "published": "2025-11-21T21:13:11Z",
+      "id": "ac03972a676475ae2abd65d0a0e51b10"
     },
     {
       "title": "Pixar: The Early Days A never-before-seen 1996 interview",
@@ -66,20 +82,12 @@
       "id": "4b61baa5d2c4e2b8f1b100b14198df81"
     },
     {
-      "title": "Boom, bubble, bust, boom. Why should AI be different?",
-      "link": "https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T20:30:51Z",
-      "id": "1ff4463d99ff221401ff887706d96565"
-    },
-    {
-      "title": "Tuxedo Computers Cancels Snapdragon X1 Linux Laptop",
+      "title": "Discontinuation of ARM Notebook with Snapdragon X Elite SoC",
       "link": "https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-21T19:46:34Z",
-      "id": "bd2c5f4e8c5c89d630558c624363693a"
+      "id": "50258428c656c9385207cbb18bcdfc91"
     },
     {
       "title": "Helping Valve to power up Steam devices",
@@ -120,22 +128,6 @@
       "category": "tech",
       "published": "2025-11-21T16:34:52Z",
       "id": "54d11ba048f08f454486bf2198dd5ac1"
-    },
-    {
-      "title": "Arduino published updated terms and conditions: no longer an open commons",
-      "link": "https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T15:44:16Z",
-      "id": "c7d56ee7a98647d806176931007ec08d"
-    },
-    {
-      "title": "XBMC 4.0 for the Original Xbox",
-      "link": "https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T15:18:05Z",
-      "id": "bcfeb280dda5df5dc9d3cb2fad1fff58"
     },
     {
       "title": "We should all be using dependency cooldowns",
@@ -192,6 +184,14 @@
       "category": "tech",
       "published": "2025-11-20T13:26:08Z",
       "id": "621e4a9b264decaf21363212a117a604"
+    },
+    {
+      "title": "Show HN: Vibe Prolog",
+      "link": "https://github.com/nlothian/Vibe-Prolog",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T15:24:52Z",
+      "id": "fc228991d9220ced6eb19c73cc33d44b"
     },
     {
       "title": "You only live once, self host a NAT Gateway",
