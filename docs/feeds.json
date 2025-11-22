@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-21T23:21:24.606470Z",
+  "last_updated": "2025-11-22T01:47:46.900839Z",
   "items": [
+    {
+      "title": "I learned Vulkan and wrote a small game engine with it",
+      "link": "https://edw.is/learning-vulkan/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T23:28:40Z",
+      "id": "6e1ef15883f86f11d5b902fd59aeda09"
+    },
+    {
+      "title": "3D printing with unconventional vase mode",
+      "link": "https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T23:10:17Z",
+      "id": "a555c9b24801e4e939176f704e6ff532"
+    },
+    {
+      "title": "California DMV approves map increase in Waymo driverless operations",
+      "link": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T22:52:13Z",
+      "id": "c39329a095b0e679fc15604843419892"
+    },
     {
       "title": "Personal blogs are back, should niche blogs be next?",
       "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
@@ -18,28 +42,12 @@
       "id": "1542c43b8b5b7c08323e5572aa62fb79"
     },
     {
-      "title": "LAPD Helicopter Tracker with Real-Time Operating Costs",
-      "link": "https://lapdhelicoptertracker.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T22:11:07Z",
-      "id": "b133025622118561c79af9438f772667"
-    },
-    {
-      "title": "The Untold History of Arduino",
+      "title": "The Untold History of Arduino (2016)",
       "link": "https://arduinohistory.github.io/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-21T21:29:28Z",
-      "id": "a03738f13497e4288c714a61544b6385"
-    },
-    {
-      "title": "The senior population is booming. Caregiving is struggling to keep up",
-      "link": "https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T21:05:09Z",
-      "id": "05bd861c19d8594b501c29d236d24c15"
+      "id": "4f16e2aa46029aabcc3b96d9bdfbd297"
     },
     {
       "title": "We remain alive also in a dead internet",
@@ -56,6 +64,14 @@
       "category": "tech",
       "published": "2025-11-21T20:45:06Z",
       "id": "4b61baa5d2c4e2b8f1b100b14198df81"
+    },
+    {
+      "title": "Boom, bubble, bust, boom. Why should AI be different?",
+      "link": "https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T20:30:51Z",
+      "id": "1ff4463d99ff221401ff887706d96565"
     },
     {
       "title": "Tuxedo Computers Cancels Snapdragon X1 Linux Laptop",
@@ -106,14 +122,6 @@
       "id": "54d11ba048f08f454486bf2198dd5ac1"
     },
     {
-      "title": "Command Lines",
-      "link": "https://www.wreflection.com/p/command-lines-ai-coding",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T16:33:28Z",
-      "id": "a842b02323c8e85efd324024adf5eebe"
-    },
-    {
       "title": "Arduino published updated terms and conditions: no longer an open commons",
       "link": "https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html",
       "source": "Hacker News",
@@ -138,14 +146,6 @@
       "id": "494af3d8ccf33fea651cd533e8f9ead5"
     },
     {
-      "title": "EXIF orientation info in PNGs isn't used for image-orientation: from-image",
-      "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=1627423",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T13:29:14Z",
-      "id": "e955e2dc4c5fefc5eda0e9786fd4034b"
-    },
-    {
       "title": "Making a Small RPG",
       "link": "https://jslegenddev.substack.com/p/making-a-small-rpg",
       "source": "Hacker News",
@@ -160,14 +160,6 @@
       "category": "tech",
       "published": "2025-11-21T10:28:49Z",
       "id": "cde5462ec9c12ac7f9df31f9c1a29044"
-    },
-    {
-      "title": "It's hard to build an oscillator",
-      "link": "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T07:45:53Z",
-      "id": "5c81f6fe0bb60185bd4fdeebb56fbad6"
     },
     {
       "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
@@ -210,20 +202,20 @@
       "id": "02accc5bd701e6c1e26761870f8879e6"
     },
     {
-      "title": "Scientists now know that bees can process time, a first in insects",
-      "link": "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl",
+      "title": "The Afterlife of Hilma Af Klint, Painting's Posthumous Star",
+      "link": "https://www.newyorker.com/magazine/2025/11/24/the-strange-afterlife-of-hilma-af-klint-paintings-posthumous-star",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-15T13:32:12Z",
-      "id": "9109780dae011603f70be199e25baa79"
+      "published": "2025-11-17T12:12:37Z",
+      "id": "9f941df2fc6b71d4c18e250a161b4e24"
     },
     {
-      "title": "Samsung's 60% DRAM Price Hike Signals a New Phase of Global Memory Tightening",
+      "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
       "link": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-15T02:45:44Z",
-      "id": "9bb69cde36d9dd632c91c9f55ad03f1f"
+      "id": "b48171e0c47e4fe6d2d37f17f66a3267"
     },
     {
       "title": "Childhood Friends, Not Moms, Shape Attachment Styles Most",
@@ -232,6 +224,14 @@
       "category": "tech",
       "published": "2025-11-14T15:11:13Z",
       "id": "3e9c36ae8805307e0fb20145d2156aac"
+    },
+    {
+      "title": "RRules (yes handling RSCALE) using only PL/pgSQL",
+      "link": "https://github.com/sirrodgepodge/rrule_plpgsql",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-13T14:33:35Z",
+      "id": "ef86b68adca7cc8a091d1e5ba6cace89"
     },
     {
       "title": "Shop Sans is a typeface for curved text paths",
