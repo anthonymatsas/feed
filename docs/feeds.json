@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-22T06:32:22.234418Z",
+  "last_updated": "2025-11-22T07:21:02.181653Z",
   "items": [
+    {
+      "title": "Building a deep-space logistics startup",
+      "link": "https://ionmicrosys.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T06:13:05Z",
+      "id": "8e375cb11a9f07eba91d51febe4ad286"
+    },
     {
       "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
       "link": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
@@ -8,14 +16,6 @@
       "category": "tech",
       "published": "2025-11-22T05:21:53Z",
       "id": "30f7fb0639975000b483718bef95bfc7"
-    },
-    {
-      "title": "Openring-rs: a webring for static site generators written in Rust",
-      "link": "https://github.com/lukehsiao/openring-rs",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T04:12:48Z",
-      "id": "4915d62945993374248b3a041b67e85f"
     },
     {
       "title": "Moss Survives 9 Months in Space Vacuum",
@@ -48,14 +48,6 @@
       "category": "tech",
       "published": "2025-11-21T23:28:40Z",
       "id": "cfef8da294122d263c6d9e92c6a5c4e3"
-    },
-    {
-      "title": "Apple's Problem with Bodies",
-      "link": "https://drobinin.com/posts/apples-problem-with-bodies/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T23:16:25Z",
-      "id": "03c3111cd7295206d15e209a8804ead4"
     },
     {
       "title": "3D printing with unconventional vase mode",
@@ -154,12 +146,28 @@
       "id": "5e9b6039909695bf0add9d9437197fd4"
     },
     {
+      "title": "XBMC 4.0 for the Original Xbox",
+      "link": "https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T15:18:05Z",
+      "id": "bcfeb280dda5df5dc9d3cb2fad1fff58"
+    },
+    {
       "title": "We should all be using dependency cooldowns",
       "link": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-21T14:50:36Z",
       "id": "494af3d8ccf33fea651cd533e8f9ead5"
+    },
+    {
+      "title": "Making a Small RPG",
+      "link": "https://jslegenddev.substack.com/p/making-a-small-rpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T13:23:16Z",
+      "id": "ce7d144b88e90df88df8e8bbbf8c3c68"
     },
     {
       "title": "Homeschooling hits record numbers",
@@ -200,14 +208,6 @@
       "category": "tech",
       "published": "2025-11-17T17:31:41Z",
       "id": "322d2d4b8474834287ecddf325b39e90"
-    },
-    {
-      "title": "When functions dissolve (2020)",
-      "link": "https://rubber-duck-typing.com/posts/2020-12-12-when-functions-dissolve.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T23:42:55Z",
-      "id": "1be28d591098a98f9e62bde5ac324321"
     },
     {
       "title": "Automating rootless Docker host updates with Ansible",
