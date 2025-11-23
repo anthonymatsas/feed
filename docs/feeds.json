@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-11-23T12:41:33.959188Z",
+  "last_updated": "2025-11-23T13:26:10.468956Z",
   "items": [
+    {
+      "title": "Maybe that's not liquid water on Mars after all",
+      "link": "https://phys.org/news/2025-11-liquid-mars.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T12:58:54Z",
+      "id": "db09742e2d5ec774e041a3dd22ebcac8"
+    },
+    {
+      "title": "X.com Is Gonna Snitch You Out to the Public If You Use a VPN",
+      "link": "https://www.vice.com/en/article/x-show-vpn-warning/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T12:46:11Z",
+      "id": "c09c8ba6043d070f0c9f8d5c08e23300"
+    },
     {
       "title": "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
       "link": "https://deepnote.com/join-us",
@@ -8,14 +24,6 @@
       "category": "tech",
       "published": "2025-11-23T12:03:06Z",
       "id": "59c002f09a8bdc8b50c23373f95496c1"
-    },
-    {
-      "title": "Signal knows who you're talking to",
-      "link": "https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T10:22:24Z",
-      "id": "19b0cd2e4742a153d0e0ae469c490bb9"
     },
     {
       "title": "After my dad died, we found the love letters",
@@ -80,14 +88,6 @@
       "category": "tech",
       "published": "2025-11-23T00:35:27Z",
       "id": "d0843d90a33463f547dd5b9185ad8ecb"
-    },
-    {
-      "title": "Windows ARM64 Internals: Deconstructing Pointer Authentication",
-      "link": "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T22:03:29Z",
-      "id": "21934430a0464815ec580786d58282b0"
     },
     {
       "title": "WorldGen \u2013 Text to Immersive 3D Worlds",
@@ -194,12 +194,12 @@
       "id": "6d7104bc251b4932c5fc5f419a36dd53"
     },
     {
-      "title": "Simplifying Cluster-Wide PostgreSQL Execution with Exec_node() and Spock OSS",
-      "link": "https://www.pgedge.com/blog/simplifying-cluster-wide-sql-execution-in-pgedge-with-exec_node",
+      "title": "sit: Create StuffIt archives on Unix systems",
+      "link": "https://github.com/thecloudexpanse/sit",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-17T09:35:51Z",
-      "id": "97daf602c8dd55fe3842cd13a6829e35"
+      "published": "2025-11-17T02:28:57Z",
+      "id": "df2f05c8a27154f1a0d6fc4ce8dcc46f"
     },
     {
       "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
