@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-23T03:58:03.839327Z",
+  "last_updated": "2025-11-23T04:38:17.230605Z",
   "items": [
+    {
+      "title": "Cryptographers Held an Election. They Can't Decrypt the Results",
+      "link": "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T03:47:17Z",
+      "id": "2fac9fc4821bf3ff0975cec936f629d9"
+    },
     {
       "title": "Unusual circuits in the Intel 386's standard cell logic",
       "link": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
@@ -138,14 +146,6 @@
       "id": "39f9b33ed91b26e16825a07e05fb8ab1"
     },
     {
-      "title": "Gwern's \"Stem Humor\" Directory",
-      "link": "https://gwern.net/doc/math/humor/index",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T17:49:05Z",
-      "id": "ca24b99d4cfc3afa8f7d63dced35f122"
-    },
-    {
       "title": "The privacy nightmare of browser fingerprinting",
       "link": "https://kevinboone.me/fingerprinting.html",
       "source": "Hacker News",
@@ -176,6 +176,14 @@
       "category": "tech",
       "published": "2025-11-21T13:25:59Z",
       "id": "d679a5a4e44b487e7f9f188d9961329a"
+    },
+    {
+      "title": "Ubuntu LTS releases to 15 years with Legacy add-on",
+      "link": "https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-20T12:47:41Z",
+      "id": "7268407c23a5782b5d716a0de411c7b4"
     },
     {
       "title": "The Boring Part of Bell Labs",
@@ -232,14 +240,6 @@
       "category": "tech",
       "published": "2025-11-15T22:08:28Z",
       "id": "0c68629c5d530051e5431a2ad2e811f4"
-    },
-    {
-      "title": "Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner",
-      "link": "https://github.com/fchimpan/gh-slimify",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T10:53:03Z",
-      "id": "129239a98d4416debc3a0bc4f085bd7e"
     }
   ]
 }
