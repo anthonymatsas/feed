@@ -1,13 +1,13 @@
 {
-  "last_updated": "2025-11-23T05:22:55.422818Z",
+  "last_updated": "2025-11-23T06:33:45.130435Z",
   "items": [
     {
-      "title": "Cryptographers Held an Election. They Can't Decrypt the Results",
+      "title": "A cryptography research body held an election and they can't decrypt the results",
       "link": "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-23T03:47:17Z",
-      "id": "2fac9fc4821bf3ff0975cec936f629d9"
+      "id": "eb76cf8595f315d8fd37d5e4ae8b42b9"
     },
     {
       "title": "Unusual circuits in the Intel 386's standard cell logic",
@@ -42,20 +42,12 @@
       "id": "2745df60109577f15f2519d9d46133f2"
     },
     {
-      "title": "Germany to classify date rape drugs as weapons to ensure justice for survivors",
-      "link": "https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T01:00:04Z",
-      "id": "8391088eaf9bc19b488f2b25f25f52ba"
-    },
-    {
-      "title": "A Year Without Caffeine (2013)",
+      "title": "A year without caffeine (2013)",
       "link": "https://bryanalexander.org/personal/a-year-without-caffeine/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-23T00:50:49Z",
-      "id": "92c09b507015d8baf56728a8975984be"
+      "id": "200b227f07815596f3bf4f726c8e3dff"
     },
     {
       "title": "A monopoly ISP refuses to fix upstream infrastructure",
@@ -66,12 +58,12 @@
       "id": "a5c6543d1f20c06ef38bc33edddea214"
     },
     {
-      "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf]",
+      "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)",
       "link": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-23T00:35:27Z",
-      "id": "89087929798c02da8eac517240a09863"
+      "id": "d0843d90a33463f547dd5b9185ad8ecb"
     },
     {
       "title": "How to Spot a Counterfeit Lithium-Ion Battery",
@@ -98,14 +90,6 @@
       "id": "a963e4e25231aa7a0408064bed166ce9"
     },
     {
-      "title": "Kids who own smartphones before age 13 have worse mental health outcomes: Study",
-      "link": "https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T21:11:15Z",
-      "id": "932a8f35ee3f3687cee3e17d9e2883e7"
-    },
-    {
       "title": "Show HN: I built a wizard to turn ideas into AI coding agent-ready specs",
       "link": "https://vibescaffold.dev/",
       "source": "Hacker News",
@@ -114,12 +98,28 @@
       "id": "43bb538e6819a402ba8aa38700c6379f"
     },
     {
+      "title": "Show HN: Build the habit of writing meaningful commit messages",
+      "link": "https://github.com/arpxspace/smartcommit",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T20:54:35Z",
+      "id": "ae322789159fa9c22247921f91901270"
+    },
+    {
       "title": "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
       "link": "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-22T20:54:02Z",
       "id": "368abf481d7089a3691ea80b0f591eef"
+    },
+    {
+      "title": "Markdown is holding you back",
+      "link": "https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T20:03:14Z",
+      "id": "fb505b94b9237d46df6b4e5fa3932e68"
     },
     {
       "title": "Show HN: Forty.News \u2013 Daily news, but on a 40-year delay",
@@ -144,6 +144,14 @@
       "category": "tech",
       "published": "2025-11-22T17:49:27Z",
       "id": "39f9b33ed91b26e16825a07e05fb8ab1"
+    },
+    {
+      "title": "The realities of being a pop star",
+      "link": "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T17:47:23Z",
+      "id": "ee6c394f17a445de39aead9aa3fc4757"
     },
     {
       "title": "The privacy nightmare of browser fingerprinting",
@@ -194,28 +202,12 @@
       "id": "bd1c808420bca77c9a1b0263c1b2ab86"
     },
     {
-      "title": "TIL: `satisfies` is my favorite TypeScript keyword",
+      "title": "`satisfies` is my favorite TypeScript keyword (2024)",
       "link": "https://sjer.red/blog/2024-12-21/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-18T16:23:57Z",
-      "id": "6e54029fab72f2ce94807c30c8fae4b5"
-    },
-    {
-      "title": "SimpleMMO \u2013 How I made a hole a home (2021)",
-      "link": "https://blog.galahadcreative.com/simplemmo-how-i-made-a-hole-a-home/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T04:12:51Z",
-      "id": "4331ceb5c85839b11bb22129f707fc06"
-    },
-    {
-      "title": "Digital echoes: open bus behavior on the compact Macintosh",
-      "link": "https://thomasw.dev/post/compact-mac-openbus/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T03:46:19Z",
-      "id": "dba6cafa9c1819ade0b913121226f585"
+      "id": "53d884cd9037750c522bdcd8962b91d2"
     },
     {
       "title": "Tektronix equipment has been used in many movies and shows",
@@ -240,6 +232,14 @@
       "category": "tech",
       "published": "2025-11-15T22:08:28Z",
       "id": "0c68629c5d530051e5431a2ad2e811f4"
+    },
+    {
+      "title": "The 1957 \u201cSpaghetti-Grows-on-Trees\u201d Hoax",
+      "link": "https://www.openculture.com/2025/11/the-1957-spaghetti-grows-on-trees-hoax.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-11T18:53:45Z",
+      "id": "b4a976cf53d361c3a8596e94ee27f1fd"
     }
   ]
 }
