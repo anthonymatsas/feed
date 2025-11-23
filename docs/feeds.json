@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-23T19:18:26.773679Z",
+  "last_updated": "2025-11-23T20:26:00.227499Z",
   "items": [
+    {
+      "title": "\"Good engineering management\" is a fad",
+      "link": "https://lethain.com/good-eng-mgmt-is-a-fad/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T20:16:04Z",
+      "id": "7433bab7fb7b049b80d0c08c7035975e"
+    },
     {
       "title": "Fran Sans \u2013 font inspired by San Francisco light rail displays",
       "link": "https://emilysneddon.com/fran-sans-essay",
@@ -130,6 +138,14 @@
       "id": "dfb65202dfb944a086fcadd4b29f495f"
     },
     {
+      "title": "MCP Apps: Extending servers with interactive user interfaces",
+      "link": "http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T03:27:04Z",
+      "id": "e7f0fdfbd84bad7c583eb1b2d74540c6"
+    },
+    {
       "title": "GCC SC approves inclusion of Algol 68 Front End",
       "link": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
       "source": "Hacker News",
@@ -154,14 +170,6 @@
       "id": "d0843d90a33463f547dd5b9185ad8ecb"
     },
     {
-      "title": "WorldGen \u2013 Text to Immersive 3D Worlds",
-      "link": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T21:20:24Z",
-      "id": "a963e4e25231aa7a0408064bed166ce9"
-    },
-    {
       "title": "Show HN: Forty.News \u2013 Daily news, but on a 40-year delay",
       "link": "https://forty.news",
       "source": "Hacker News",
@@ -170,28 +178,12 @@
       "id": "cd2fc43e4533ff4a51cac9f74534daf2"
     },
     {
-      "title": "The privacy nightmare of browser fingerprinting",
-      "link": "https://kevinboone.me/fingerprinting.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T17:08:36Z",
-      "id": "c908a580236bf418ff135f4dc9907b59"
-    },
-    {
       "title": "We Induced Smells With Ultrasound",
       "link": "https://writetobrain.com/olfactory",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-21T20:02:45Z",
       "id": "870e4ce10baf34fb69e3450ad75005c4"
-    },
-    {
-      "title": "Ubuntu LTS releases to 15 years with Legacy add-on",
-      "link": "https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T12:47:41Z",
-      "id": "7268407c23a5782b5d716a0de411c7b4"
     },
     {
       "title": "Typechecking is undecideable when 'type' is a type (1989) [pdf]",
@@ -218,14 +210,6 @@
       "id": "341617257f34c8b2d2f8ecf885d9a340"
     },
     {
-      "title": "Darts, Dice, and Coins: Sampling from a Discrete Distribution (2011)",
-      "link": "https://www.keithschwarz.com/darts-dice-coins/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-17T13:53:16Z",
-      "id": "c74cf6279906c854e533a64c7fdcc6e0"
-    },
-    {
       "title": "sit: Create StuffIt archives on Unix systems",
       "link": "https://github.com/thecloudexpanse/sit",
       "source": "Hacker News",
@@ -234,12 +218,28 @@
       "id": "df2f05c8a27154f1a0d6fc4ce8dcc46f"
     },
     {
+      "title": "Garibaldi, history's sexiest revolutionary?",
+      "link": "https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T00:38:51Z",
+      "id": "a61a0fda8d676989e19e1b2e3b43b6df"
+    },
+    {
       "title": "Spectral rendering, part 2: Real-time rendering",
       "link": "https://momentsingraphics.de/SpectralRendering2Rendering.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-14T00:32:40Z",
       "id": "e9b616cab9251fe3f7d0d06b3b21887d"
+    },
+    {
+      "title": "The Inference Economy: Why demand matters more than supply",
+      "link": "https://frontierai.substack.com/p/the-inference-economy-part-ii",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-13T19:02:30Z",
+      "id": "79cf406492c6cffebf50011281150419"
     }
   ]
 }
