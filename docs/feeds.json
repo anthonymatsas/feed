@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-23T13:26:10.468956Z",
+  "last_updated": "2025-11-23T14:19:42.353758Z",
   "items": [
+    {
+      "title": "Demand for UK Food Bank Up 15% Year on Year",
+      "link": "https://www.theguardian.com/society/2025/nov/23/food-banks-demand-prices-frontline-cost-of-living-crisis",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T13:51:51Z",
+      "id": "05a2d21ebf5130afcf9d005da811f581"
+    },
+    {
+      "title": "Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library",
+      "link": "https://www.npmjs.com/package/tosijs-schema",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T13:43:24Z",
+      "id": "7141f9f83eece2bcdfc9fa2f11d38657"
+    },
+    {
+      "title": "Claude Code Is Down",
+      "link": "https://status.claude.com/incidents/538r2y9cjmhk",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T13:24:01Z",
+      "id": "27203aa3ac81397283a6151b9f364931"
+    },
     {
       "title": "Maybe that's not liquid water on Mars after all",
       "link": "https://phys.org/news/2025-11-liquid-mars.html",
@@ -10,12 +34,12 @@
       "id": "db09742e2d5ec774e041a3dd22ebcac8"
     },
     {
-      "title": "X.com Is Gonna Snitch You Out to the Public If You Use a VPN",
-      "link": "https://www.vice.com/en/article/x-show-vpn-warning/",
+      "title": "Shaders: How to draw high fidelity graphics with just x and y coordinates",
+      "link": "https://www.makingsoftware.com/chapters/shaders",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-23T12:46:11Z",
-      "id": "c09c8ba6043d070f0c9f8d5c08e23300"
+      "published": "2025-11-23T12:26:30Z",
+      "id": "686906c0574838c6b67019e400843aed"
     },
     {
       "title": "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
@@ -26,20 +50,20 @@
       "id": "59c002f09a8bdc8b50c23373f95496c1"
     },
     {
+      "title": "Silicon Valley startups: being evil, again and again",
+      "link": "https://notesfrombelow.org/article/silicon-valley-startups-doing-evil-again-and-again",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T11:32:15Z",
+      "id": "5b297942c94f3fe024d456b7567d7964"
+    },
+    {
       "title": "After my dad died, we found the love letters",
       "link": "https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-23T08:40:41Z",
       "id": "34de8d1fd54c77f8b11bf55ad1356fb3"
-    },
-    {
-      "title": "Google Revisits JPEG XL in Chromium After Earlier Removal",
-      "link": "https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T06:05:51Z",
-      "id": "f3781acd085be47142a8a6283b7aa9db"
     },
     {
       "title": "Unusual circuits in the Intel 386's standard cell logic",
@@ -106,36 +130,12 @@
       "id": "ae322789159fa9c22247921f91901270"
     },
     {
-      "title": "Markdown is holding you back",
-      "link": "https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T20:03:14Z",
-      "id": "fb505b94b9237d46df6b4e5fa3932e68"
-    },
-    {
       "title": "Show HN: Forty.News \u2013 Daily news, but on a 40-year delay",
       "link": "https://forty.news",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-22T18:47:08Z",
       "id": "cd2fc43e4533ff4a51cac9f74534daf2"
-    },
-    {
-      "title": "China reaches energy milestone by \"breeding\" uranium from thorium",
-      "link": "https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T17:49:27Z",
-      "id": "39f9b33ed91b26e16825a07e05fb8ab1"
-    },
-    {
-      "title": "The realities of being a pop star",
-      "link": "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T17:47:23Z",
-      "id": "ee6c394f17a445de39aead9aa3fc4757"
     },
     {
       "title": "The privacy nightmare of browser fingerprinting",
@@ -178,6 +178,14 @@
       "id": "bd1c808420bca77c9a1b0263c1b2ab86"
     },
     {
+      "title": "First kiss dates back 21M years",
+      "link": "https://www.bbc.com/news/articles/cr43gq61g2qo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T01:57:37Z",
+      "id": "b1e040c1ced0e22f32f253593ea027fe"
+    },
+    {
       "title": "`satisfies` is my favorite TypeScript keyword (2024)",
       "link": "https://sjer.red/blog/2024-12-21/",
       "source": "Hacker News",
@@ -208,14 +216,6 @@
       "category": "tech",
       "published": "2025-11-15T22:08:28Z",
       "id": "0c68629c5d530051e5431a2ad2e811f4"
-    },
-    {
-      "title": "Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner",
-      "link": "https://github.com/fchimpan/gh-slimify",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T10:53:03Z",
-      "id": "129239a98d4416debc3a0bc4f085bd7e"
     },
     {
       "title": "CERN Council reviews feasibility study for a next-generation collider",
