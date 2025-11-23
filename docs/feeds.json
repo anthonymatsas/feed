@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-23T17:19:13.680272Z",
+  "last_updated": "2025-11-23T18:31:51.383405Z",
   "items": [
+    {
+      "title": "Native Secure Enclave backed SSH keys on macOS",
+      "link": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T17:55:11Z",
+      "id": "aea21a18445ccab7122e4e8d4e12cc65"
+    },
+    {
+      "title": "SVG.js v3.2",
+      "link": "https://svgjs.dev/docs/3.2/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T17:38:28Z",
+      "id": "75d39996db16a6eedcb7d125754649d8"
+    },
+    {
+      "title": "Are consumers just tech debt to Microsoft?",
+      "link": "https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T17:14:41Z",
+      "id": "248dd983a123f2cb8838afa97f2cb253"
+    },
     {
       "title": "HumanLayer (YC F24) Is Hiring Founding Engineers",
       "link": "https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer",
@@ -16,14 +40,6 @@
       "category": "tech",
       "published": "2025-11-23T16:31:50Z",
       "id": "15c59dc67fc662ea2b36c64f9ea1f052"
-    },
-    {
-      "title": "Raycast for Windows Is Here",
-      "link": "https://www.raycast.com/blog/raycast-for-windows",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T16:30:16Z",
-      "id": "f297d77770e8d8d893869be1405496f9"
     },
     {
       "title": "Ask HN: Good resources to learn financial systems engineering?",
@@ -42,6 +58,14 @@
       "id": "b45f659806993fcba141965272f82fcb"
     },
     {
+      "title": "Mount Proton Drive on Linux using rclone and systemd",
+      "link": "https://github.com/dadtronics/protondrive-linux",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T16:12:06Z",
+      "id": "cbc2a81a6ad1d8499ed451ca1f488b77"
+    },
+    {
       "title": "Court filings allege Meta downplayed risks to children and misled the public",
       "link": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
       "source": "Hacker News",
@@ -50,20 +74,12 @@
       "id": "e422f4783d7a28d26a6391dd8064740e"
     },
     {
-      "title": "UK minister ducks cost questions on nationwide digital ID scheme",
-      "link": "https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/",
+      "title": "Editing Code in Emacs",
+      "link": "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-23T15:02:39Z",
-      "id": "7140d65d9a25fba251040a56d2058796"
-    },
-    {
-      "title": "Gnome is better macOS than macOS",
-      "link": "https://andreyor.st/posts/2025-11-23-gnome-is-better-macos-than-macos/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T14:58:29Z",
-      "id": "d8fa16a3daa93386eb5d2b45a60a5e0f"
+      "published": "2025-11-23T14:59:38Z",
+      "id": "73c7d68ec230233b62cabc5b6e551041"
     },
     {
       "title": "Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library",
@@ -122,14 +138,6 @@
       "id": "6148952c5f61ad006d7155f2be62ed49"
     },
     {
-      "title": "Meta buried 'causal' evidence of social media harm, US court filings allege",
-      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T01:09:47Z",
-      "id": "2745df60109577f15f2519d9d46133f2"
-    },
-    {
       "title": "A monopoly ISP refuses to fix upstream infrastructure",
       "link": "https://sacbear.com/xfinity-wont-fix-internet/",
       "source": "Hacker News",
@@ -186,22 +194,6 @@
       "id": "7268407c23a5782b5d716a0de411c7b4"
     },
     {
-      "title": "The Boring Part of Bell Labs",
-      "link": "https://elizabethvannostrand.substack.com/p/the-boring-part-of-bell-labs",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T19:47:31Z",
-      "id": "bd1c808420bca77c9a1b0263c1b2ab86"
-    },
-    {
-      "title": "Asymptotically optimal approximate Hadamard matrices",
-      "link": "https://arxiv.org/abs/2511.14653",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T08:06:15Z",
-      "id": "2c48ac39758326c5b15d963d17bd1c08"
-    },
-    {
       "title": "First kiss dates back 21M years",
       "link": "https://www.bbc.com/news/articles/cr43gq61g2qo",
       "source": "Hacker News",
@@ -224,6 +216,14 @@
       "category": "tech",
       "published": "2025-11-17T20:28:32Z",
       "id": "6d7104bc251b4932c5fc5f419a36dd53"
+    },
+    {
+      "title": "Pyrotechnic Display Design Software",
+      "link": "https://github.com/giuseppe-coco/FireShow",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T18:41:35Z",
+      "id": "341617257f34c8b2d2f8ecf885d9a340"
     },
     {
       "title": "sit: Create StuffIt archives on Unix systems",
