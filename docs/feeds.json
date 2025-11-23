@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-23T18:31:51.383405Z",
+  "last_updated": "2025-11-23T19:18:26.773679Z",
   "items": [
+    {
+      "title": "Fran Sans \u2013 font inspired by San Francisco light rail displays",
+      "link": "https://emilysneddon.com/fran-sans-essay",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T18:20:27Z",
+      "id": "58f1685c4c20a82a780dad606cddf6d3"
+    },
     {
       "title": "Native Secure Enclave backed SSH keys on macOS",
       "link": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
@@ -48,14 +56,6 @@
       "category": "tech",
       "published": "2025-11-23T16:30:08Z",
       "id": "a79cf07cda93763de0420b3893389990"
-    },
-    {
-      "title": "73% of AI startups are just prompt engineering",
-      "link": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T16:17:57Z",
-      "id": "b45f659806993fcba141965272f82fcb"
     },
     {
       "title": "Mount Proton Drive on Linux using rclone and systemd",
@@ -194,14 +194,6 @@
       "id": "7268407c23a5782b5d716a0de411c7b4"
     },
     {
-      "title": "First kiss dates back 21M years",
-      "link": "https://www.bbc.com/news/articles/cr43gq61g2qo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T01:57:37Z",
-      "id": "b1e040c1ced0e22f32f253593ea027fe"
-    },
-    {
       "title": "Typechecking is undecideable when 'type' is a type (1989) [pdf]",
       "link": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf",
       "source": "Hacker News",
@@ -224,6 +216,14 @@
       "category": "tech",
       "published": "2025-11-17T18:41:35Z",
       "id": "341617257f34c8b2d2f8ecf885d9a340"
+    },
+    {
+      "title": "Darts, Dice, and Coins: Sampling from a Discrete Distribution (2011)",
+      "link": "https://www.keithschwarz.com/darts-dice-coins/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-17T13:53:16Z",
+      "id": "c74cf6279906c854e533a64c7fdcc6e0"
     },
     {
       "title": "sit: Create StuffIt archives on Unix systems",
