@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-23T02:06:12.229738Z",
+  "last_updated": "2025-11-23T03:58:03.839327Z",
   "items": [
+    {
+      "title": "Unusual circuits in the Intel 386's standard cell logic",
+      "link": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T03:33:42Z",
+      "id": "dfb65202dfb944a086fcadd4b29f495f"
+    },
+    {
+      "title": "GCC SC approves inclusion of Algol 68 Front End",
+      "link": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T02:18:03Z",
+      "id": "6148952c5f61ad006d7155f2be62ed49"
+    },
+    {
+      "title": "An Economy of AI Agents",
+      "link": "https://arxiv.org/abs/2509.01063",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T02:08:00Z",
+      "id": "dea2a2748bebe6ff49cc4ee6484f86d0"
+    },
     {
       "title": "Meta buried 'causal' evidence of social media harm, US court filings allege",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/",
@@ -16,6 +40,22 @@
       "category": "tech",
       "published": "2025-11-23T01:00:04Z",
       "id": "8391088eaf9bc19b488f2b25f25f52ba"
+    },
+    {
+      "title": "A Year Without Caffeine (2013)",
+      "link": "https://bryanalexander.org/personal/a-year-without-caffeine/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T00:50:49Z",
+      "id": "92c09b507015d8baf56728a8975984be"
+    },
+    {
+      "title": "A monopoly ISP refuses to fix upstream infrastructure",
+      "link": "https://sacbear.com/xfinity-wont-fix-internet/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T00:46:53Z",
+      "id": "a5c6543d1f20c06ef38bc33edddea214"
     },
     {
       "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf]",
@@ -66,36 +106,12 @@
       "id": "43bb538e6819a402ba8aa38700c6379f"
     },
     {
-      "title": "Show HN: Build the habit of writing meaningful commit messages",
-      "link": "https://github.com/arpxspace/smartcommit",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T20:54:35Z",
-      "id": "ae322789159fa9c22247921f91901270"
-    },
-    {
       "title": "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
       "link": "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-22T20:54:02Z",
       "id": "368abf481d7089a3691ea80b0f591eef"
-    },
-    {
-      "title": "The Mozilla Cycle, Part III: Mozilla Dies in Ignominy",
-      "link": "https://taggart-tech.com/mozilla-cycle-pt3/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T20:21:56Z",
-      "id": "f748a68249bd8ca4ec9e39917af917b3"
-    },
-    {
-      "title": "Data General History by Foster",
-      "link": "http://www.teamfoster.com/billteamfostercom",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T20:09:48Z",
-      "id": "c647d4390a1405057310085cece966d2"
     },
     {
       "title": "Show HN: Forty.News \u2013 Daily news, but on a 40-year delay",
@@ -128,14 +144,6 @@
       "category": "tech",
       "published": "2025-11-22T17:49:05Z",
       "id": "ca24b99d4cfc3afa8f7d63dced35f122"
-    },
-    {
-      "title": "The realities of being a pop star",
-      "link": "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T17:47:23Z",
-      "id": "ee6c394f17a445de39aead9aa3fc4757"
     },
     {
       "title": "The privacy nightmare of browser fingerprinting",
@@ -178,14 +186,6 @@
       "id": "bd1c808420bca77c9a1b0263c1b2ab86"
     },
     {
-      "title": "The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi",
-      "link": "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T17:35:31Z",
-      "id": "6710780b9880d764c59490ef544f67a8"
-    },
-    {
       "title": "TIL: `satisfies` is my favorite TypeScript keyword",
       "link": "https://sjer.red/blog/2024-12-21/",
       "source": "Hacker News",
@@ -194,12 +194,12 @@
       "id": "6e54029fab72f2ce94807c30c8fae4b5"
     },
     {
-      "title": "How to see the dead",
-      "link": "https://www.asimov.press/p/see-the-dead",
+      "title": "SimpleMMO \u2013 How I made a hole a home (2021)",
+      "link": "https://blog.galahadcreative.com/simplemmo-how-i-made-a-hole-a-home/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-17T16:17:09Z",
-      "id": "c4e642ffa6c2d6ada5dfb5ec65c58c37"
+      "published": "2025-11-18T04:12:51Z",
+      "id": "4331ceb5c85839b11bb22129f707fc06"
     },
     {
       "title": "Digital echoes: open bus behavior on the compact Macintosh",
@@ -218,20 +218,20 @@
       "id": "b050c4a6603b65bbb349d2a97f8736ac"
     },
     {
+      "title": "Garibaldi, History's Sexiest Revolutionary?",
+      "link": "https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-16T00:38:51Z",
+      "id": "175a53bc54f93853ca0ec24d7a75b57d"
+    },
+    {
       "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
       "link": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-15T22:08:28Z",
       "id": "0c68629c5d530051e5431a2ad2e811f4"
-    },
-    {
-      "title": "TiDAR: Think in Diffusion, Talk in Autoregression",
-      "link": "https://arxiv.org/abs/2511.08923",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-15T17:32:35Z",
-      "id": "c253444368097ebfa7a0c0ce685c96e3"
     },
     {
       "title": "Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner",
