@@ -1,6 +1,38 @@
 {
-  "last_updated": "2025-11-23T15:21:29.452740Z",
+  "last_updated": "2025-11-23T16:27:17.755072Z",
   "items": [
+    {
+      "title": "Inmates at a Mississippi jail were ordered to do the guards' bidding",
+      "link": "https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T15:37:04Z",
+      "id": "19cb4a428287db3498e58e38ed18dc28"
+    },
+    {
+      "title": "Court filings allege Meta downplayed risks to children and misled the public",
+      "link": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T15:18:00Z",
+      "id": "e422f4783d7a28d26a6391dd8064740e"
+    },
+    {
+      "title": "UK minister ducks cost questions on nationwide digital ID scheme",
+      "link": "https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T15:02:39Z",
+      "id": "7140d65d9a25fba251040a56d2058796"
+    },
+    {
+      "title": "Debian Extended Long Term Support",
+      "link": "https://wiki.debian.org/LTS/Extended",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T14:57:47Z",
+      "id": "896d614beca28083e96b7e2a49ab539c"
+    },
     {
       "title": "Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library",
       "link": "https://www.npmjs.com/package/tosijs-schema",
@@ -16,14 +48,6 @@
       "category": "tech",
       "published": "2025-11-23T13:35:27Z",
       "id": "9921bc5f2a754ccfbb8e1de659ce6cbb"
-    },
-    {
-      "title": "Claude Code Is Down",
-      "link": "https://status.claude.com/incidents/538r2y9cjmhk",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T13:24:01Z",
-      "id": "27203aa3ac81397283a6151b9f364931"
     },
     {
       "title": "Maybe that's not liquid water on Mars after all",
@@ -48,6 +72,14 @@
       "category": "tech",
       "published": "2025-11-23T12:03:06Z",
       "id": "59c002f09a8bdc8b50c23373f95496c1"
+    },
+    {
+      "title": "Silicon Valley startups: being evil, again and again",
+      "link": "https://notesfrombelow.org/article/silicon-valley-startups-doing-evil-again-and-again",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T11:32:15Z",
+      "id": "5b297942c94f3fe024d456b7567d7964"
     },
     {
       "title": "After my dad died, we found the love letters",
@@ -106,22 +138,6 @@
       "id": "a963e4e25231aa7a0408064bed166ce9"
     },
     {
-      "title": "Show HN: Build the habit of writing meaningful commit messages",
-      "link": "https://github.com/arpxspace/smartcommit",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T20:54:35Z",
-      "id": "ae322789159fa9c22247921f91901270"
-    },
-    {
-      "title": "Markdown is holding you back",
-      "link": "https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T20:03:14Z",
-      "id": "fb505b94b9237d46df6b4e5fa3932e68"
-    },
-    {
       "title": "Show HN: Forty.News \u2013 Daily news, but on a 40-year delay",
       "link": "https://forty.news",
       "source": "Hacker News",
@@ -146,14 +162,6 @@
       "id": "870e4ce10baf34fb69e3450ad75005c4"
     },
     {
-      "title": "Pixel Art Tips for Programmers",
-      "link": "https://jslegenddev.substack.com/p/5-pixel-art-tips-for-programmers-3d6",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T13:25:59Z",
-      "id": "d679a5a4e44b487e7f9f188d9961329a"
-    },
-    {
       "title": "Ubuntu LTS releases to 15 years with Legacy add-on",
       "link": "https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on",
       "source": "Hacker News",
@@ -168,6 +176,14 @@
       "category": "tech",
       "published": "2025-11-19T19:47:31Z",
       "id": "bd1c808420bca77c9a1b0263c1b2ab86"
+    },
+    {
+      "title": "Asymptotically optimal approximate Hadamard matrices",
+      "link": "https://arxiv.org/abs/2511.14653",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T08:06:15Z",
+      "id": "2c48ac39758326c5b15d963d17bd1c08"
     },
     {
       "title": "First kiss dates back 21M years",
@@ -218,28 +234,12 @@
       "id": "0c68629c5d530051e5431a2ad2e811f4"
     },
     {
-      "title": "CERN Council reviews feasibility study for a next-generation collider",
-      "link": "https://home.cern/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-12T00:31:46Z",
-      "id": "0fdc47e503797c4d6f8804e764eca79a"
-    },
-    {
       "title": "Antic Magazine Interviews Alan Reeve, the Creator of the Diamond OS (1990)",
       "link": "https://computeradsfromthepast.substack.com/p/antic-magazine-interviews-alan-reeve",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-11T19:52:26Z",
       "id": "957ada8575817fe7a677a159b19bfe8b"
-    },
-    {
-      "title": "The 1957 \u201cSpaghetti-Grows-on-Trees\u201d Hoax",
-      "link": "https://www.openculture.com/2025/11/the-1957-spaghetti-grows-on-trees-hoax.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-11T18:53:45Z",
-      "id": "b4a976cf53d361c3a8596e94ee27f1fd"
     }
   ]
 }
