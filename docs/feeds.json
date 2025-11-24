@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-11-24T12:51:49.601889Z",
+  "last_updated": "2025-11-24T13:36:00.043177Z",
   "items": [
+    {
+      "title": "Trade Chaos Causes Businesses to Rethink Their Relationship with the U.S.",
+      "link": "https://www.nytimes.com/2025/11/24/business/tariffs-trade-small-business.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T12:47:38Z",
+      "id": "8b526341bcbce8986d537606c79dc049"
+    },
+    {
+      "title": "Bureau of Meteorology asked to examine $96.5M bill for website redesign",
+      "link": "https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T12:35:15Z",
+      "id": "b2653e143efdb1b77a43a4ef831bbbb7"
+    },
     {
       "title": "NSA and IETF, part 3: Dodging the issues at hand",
       "link": "https://blog.cr.yp.to/20251123-dodging.html",
@@ -106,22 +122,6 @@
       "id": "7abf1e8789ffbc6d987a7cd2a8eea579"
     },
     {
-      "title": "A desktop app for isolated, parallel agentic development",
-      "link": "https://github.com/coder/mux",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T22:24:23Z",
-      "id": "5e5cd4931142d5b3d7c81cdc21325128"
-    },
-    {
-      "title": "Iowa City made its buses free. Traffic cleared, and so did the air",
-      "link": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T22:06:44Z",
-      "id": "95437e71082597034ade08a486b0c80d"
-    },
-    {
       "title": "\u00b5cad: New open source programming language that can generate 2D sketches and 3D",
       "link": "https://microcad.xyz/",
       "source": "Hacker News",
@@ -162,14 +162,6 @@
       "id": "6e66ca6155b270124a40018a92ef78ed"
     },
     {
-      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
-      "link": "https://mathstodon.xyz/@tao/115591487350860999",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T20:27:41Z",
-      "id": "b3c6d0e899f19d494f5ee0b0bbca3207"
-    },
-    {
       "title": "Set theory with types",
       "link": "https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html",
       "source": "Hacker News",
@@ -194,6 +186,14 @@
       "id": "094e2a9dce9b9565ea026a322990322a"
     },
     {
+      "title": "I built an faster Notion in Rust",
+      "link": "https://imedadel.com/outcrop/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T21:15:45Z",
+      "id": "f7227626047d6a6d7afbcb4ef3c95136"
+    },
+    {
       "title": "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
       "link": "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html",
       "source": "Hacker News",
@@ -210,12 +210,12 @@
       "id": "5d9ceeecceb349800cf6585f49ee132b"
     },
     {
-      "title": "The Only GM EV1 Ever Publicly Sold, and Where It's Going Next",
+      "title": "The only GM ev1 ever publicly sold, and where it's going next",
       "link": "https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-19T15:17:19Z",
-      "id": "faa8ec8441a4611c04d451a0c8b85914"
+      "id": "4c56c0d08e46247675ace5c823733e2e"
     },
     {
       "title": "The Rust Performance Book (2020)",
