@@ -1,13 +1,37 @@
 {
-  "last_updated": "2025-11-24T06:36:59.923966Z",
+  "last_updated": "2025-11-24T07:23:44.750677Z",
   "items": [
     {
-      "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
-      "link": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
+      "title": "Git 3.0 will use main as the default branch",
+      "link": "https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-24T04:22:12Z",
-      "id": "f12bc84833de24611654bcc0b2de4aae"
+      "published": "2025-11-24T06:37:20Z",
+      "id": "2078595509dbf93144e0de9c3e9f7862"
+    },
+    {
+      "title": "The Feds Want to Make It Illegal to Even Possess an Anarchist Zine",
+      "link": "https://theintercept.com/2025/11/23/prairieland-ice-antifa-zines-criminalize-protest-journalism/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T05:46:14Z",
+      "id": "fa78e111934485aed645de621b528dd1"
+    },
+    {
+      "title": "Lambda Calculus \u2013 Animated Beta Reduction of Lambda Diagrams",
+      "link": "https://cruzgodar.com/applets/lambda-calculus",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T05:17:15Z",
+      "id": "72cf94ac9dddfe11c3fa005b5e18ae8e"
+    },
+    {
+      "title": "Build desktop applications using Go and Web Technologies",
+      "link": "https://github.com/wailsapp/wails",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T04:33:57Z",
+      "id": "abc3393502a65debdd0efa32493a9f61"
     },
     {
       "title": "RuBee",
@@ -16,14 +40,6 @@
       "category": "tech",
       "published": "2025-11-24T03:08:10Z",
       "id": "6bfe89742504e0e764fa497e2adf75c8"
-    },
-    {
-      "title": "Japan's gamble to turn island of Hokkaido into global chip hub",
-      "link": "https://www.bbc.com/news/articles/c8676qpxgnqo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T03:07:07Z",
-      "id": "cfb4a580ea78d61b7ccae9d9b1580214"
     },
     {
       "title": "The Cloudflare outage was a good thing",
@@ -40,6 +56,14 @@
       "category": "tech",
       "published": "2025-11-24T03:00:31Z",
       "id": "3a4f24a29313afb4c16bc23c1b00b853"
+    },
+    {
+      "title": "McMaster Carr \u2013 The Smartest Website You Haven't Heard Of",
+      "link": "https://www.bedelstein.com/post/mcmaster-carr",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T02:57:34Z",
+      "id": "20f2bf4f9f3a3ce119b88c503ee2ec7c"
     },
     {
       "title": "We stopped roadmap work for a week and fixed 189 bugs",
@@ -66,12 +90,12 @@
       "id": "0941d471f51dee60d2c12e7bf14bb614"
     },
     {
-      "title": "A Unified Theory of Ego, Empathy, and Humility at Work",
+      "title": "Ego, empathy, and humility at work",
       "link": "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T02:01:02Z",
-      "id": "5c8fd442e945cfef4682f5e787645402"
+      "id": "1a0a1e281a5e843b471db29992ddd9b6"
     },
     {
       "title": "Liva AI (YC S25) Is Hiring",
@@ -80,14 +104,6 @@
       "category": "tech",
       "published": "2025-11-23T22:36:07Z",
       "id": "94137481d6a6d0531c20ef315217ca2e"
-    },
-    {
-      "title": "Sunsetting Supermaven",
-      "link": "https://supermaven.com/blog/sunsetting-supermaven",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T22:33:34Z",
-      "id": "5bdd11f841852b8c7254cdc81a82ffd6"
     },
     {
       "title": "Show HN: I wrote a minimal memory allocator in C",
@@ -154,30 +170,6 @@
       "id": "15c59dc67fc662ea2b36c64f9ea1f052"
     },
     {
-      "title": "Mount Proton Drive on Linux using rclone and systemd",
-      "link": "https://github.com/dadtronics/protondrive-linux",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T16:12:06Z",
-      "id": "cbc2a81a6ad1d8499ed451ca1f488b77"
-    },
-    {
-      "title": "Racket v9.0",
-      "link": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T13:35:27Z",
-      "id": "9921bc5f2a754ccfbb8e1de659ce6cbb"
-    },
-    {
-      "title": "An Economy of AI Agents",
-      "link": "https://arxiv.org/abs/2509.01063",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T02:08:00Z",
-      "id": "dea2a2748bebe6ff49cc4ee6484f86d0"
-    },
-    {
       "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
       "link": "https://mathstodon.xyz/@tao/115591487350860999",
       "source": "Hacker News",
@@ -218,12 +210,20 @@
       "id": "1329b6aa48495bfcc88bcc286997f658"
     },
     {
-      "title": "Having Fun with Complex Numbers: A Real-Life Journey for Upper Elementary Studen",
+      "title": "Having Fun with Complex Numbers",
       "link": "https://mathwonder.org/Having-Fun-with-Complex-Numbers/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-18T22:52:57Z",
-      "id": "d61b202ca79baa2433d72415c3562a52"
+      "id": "df93d84ea61c8cff4c34b2a7b4cd264f"
+    },
+    {
+      "title": "Hyperoptic: IPv6 and Out-of-Order Packets",
+      "link": "https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-18T18:47:45Z",
+      "id": "6f4e2ad2fb4968b834aa5ef2c749bcaa"
     },
     {
       "title": "Disney Lost Roger Rabbit",
