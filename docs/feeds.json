@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-24T14:25:17.690326Z",
+  "last_updated": "2025-11-24T15:28:05.819400Z",
   "items": [
+    {
+      "title": "Booking.com cancels $4K hotel reservation, offers same rooms again for $17K",
+      "link": "https://www.cbc.ca/news/gopublic/go-public-booking-com-hotel-rates-9.6985480",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T14:43:01Z",
+      "id": "765c481291ad83488361f0e16bce6af1"
+    },
     {
       "title": "Show HN: Cynthia \u2013 Reliably play MIDI music files \u2013 MIT / Portable / Windows",
       "link": "https://www.blaizenterprises.com/cynthia.html",
@@ -24,6 +32,14 @@
       "category": "tech",
       "published": "2025-11-24T12:35:15Z",
       "id": "1e646b67acac1e9f8f4e433b79cec08a"
+    },
+    {
+      "title": "Chrome Jpegxl Issue Reopened",
+      "link": "https://issues.chromium.org/issues/40168998",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T12:23:02Z",
+      "id": "82ebdb47cecaa96693f0802e04294ec7"
     },
     {
       "title": "NSA and IETF, part 3: Dodging the issues at hand",
@@ -106,22 +122,6 @@
       "id": "1a0a1e281a5e843b471db29992ddd9b6"
     },
     {
-      "title": "Liva AI (YC S25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T22:36:07Z",
-      "id": "94137481d6a6d0531c20ef315217ca2e"
-    },
-    {
-      "title": "Show HN: I wrote a minimal memory allocator in C",
-      "link": "https://github.com/t9nzin/memory",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T22:25:36Z",
-      "id": "7abf1e8789ffbc6d987a7cd2a8eea579"
-    },
-    {
       "title": "\u00b5cad: New open source programming language that can generate 2D sketches and 3D",
       "link": "https://microcad.xyz/",
       "source": "Hacker News",
@@ -186,14 +186,6 @@
       "id": "607285ef5ff7b4eb665727a07bc78c02"
     },
     {
-      "title": "Moss survived outside of the International Space Station for 9 months",
-      "link": "https://www.livescience.com/space/scientists-put-moss-on-the-outside-of-the-international-space-station-for-9-months-then-kept-it-growing-back-on-earth",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T00:03:14Z",
-      "id": "094e2a9dce9b9565ea026a322990322a"
-    },
-    {
       "title": "I built an faster Notion in Rust",
       "link": "https://imedadel.com/outcrop/",
       "source": "Hacker News",
@@ -208,6 +200,14 @@
       "category": "tech",
       "published": "2025-11-19T20:53:42Z",
       "id": "e282a2879e35148ba63af7d1292d5644"
+    },
+    {
+      "title": "Show HN: Virtual SLURM HPC cluster in a Docker Compose",
+      "link": "https://github.com/exactlab/vhpc",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T17:33:45Z",
+      "id": "a94b2bff39c72ed949c3edd45b732e04"
     },
     {
       "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
