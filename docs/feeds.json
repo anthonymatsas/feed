@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T04:37:03.972999Z",
+  "last_updated": "2025-11-24T05:25:56.993825Z",
   "items": [
     {
       "title": "RuBee",
@@ -16,6 +16,14 @@
       "category": "tech",
       "published": "2025-11-24T03:04:10Z",
       "id": "69c3bdfdb3335b91dea84d87f1751954"
+    },
+    {
+      "title": "A free tool that stuns LLMs with thousands of invisible Unicode characters",
+      "link": "https://gibberifier.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T03:00:31Z",
+      "id": "3a4f24a29313afb4c16bc23c1b00b853"
     },
     {
       "title": "We stopped roadmap work for a week and fixed 189 bugs",
@@ -48,14 +56,6 @@
       "category": "tech",
       "published": "2025-11-24T02:01:02Z",
       "id": "5c8fd442e945cfef4682f5e787645402"
-    },
-    {
-      "title": "A ncurses-based command line torrent client for high performance",
-      "link": "https://github.com/rakshasa/rtorrent",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T01:30:51Z",
-      "id": "d82e6d842f6170f17cf5a4bae840e1bc"
     },
     {
       "title": "Liva AI (YC S25) Is Hiring",
@@ -146,14 +146,6 @@
       "id": "cbc2a81a6ad1d8499ed451ca1f488b77"
     },
     {
-      "title": "Editing Code in Emacs",
-      "link": "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T14:59:38Z",
-      "id": "73c7d68ec230233b62cabc5b6e551041"
-    },
-    {
       "title": "Racket v9.0",
       "link": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
       "source": "Hacker News",
@@ -218,12 +210,12 @@
       "id": "b97581187e0d71cceb24773d388b54d1"
     },
     {
-      "title": "The Rust Performance Book",
+      "title": "The Rust Performance Book (2020)",
       "link": "https://nnethercote.github.io/perf-book/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-19T09:08:10Z",
-      "id": "4973bb0821326cd1f15dd79282867d20"
+      "id": "b114eba0ae48d71f8d15eb6eb2d28d54"
     },
     {
       "title": "Band of Holes",
@@ -232,6 +224,14 @@
       "category": "tech",
       "published": "2025-11-19T07:08:49Z",
       "id": "1329b6aa48495bfcc88bcc286997f658"
+    },
+    {
+      "title": "Having Fun with Complex Numbers: A Real-Life Journey for Upper Elementary Studen",
+      "link": "https://mathwonder.org/Having-Fun-with-Complex-Numbers/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-18T22:52:57Z",
+      "id": "d61b202ca79baa2433d72415c3562a52"
     },
     {
       "title": "Show HN: Gitlogue \u2013 A terminal tool that replays your Git commits with animation",
