@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-11-24T17:22:52.385174Z",
+  "last_updated": "2025-11-24T18:35:57.342505Z",
   "items": [
+    {
+      "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
+      "link": "https://github.com/Swordfish90/cool-retro-term",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T17:52:01Z",
+      "id": "61d83826494b62269c69d473cca9de16"
+    },
+    {
+      "title": "Andrej Karpathy on X: implications of AI to schools",
+      "link": "https://twitter.com/karpathy/status/1993010584175141038",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T17:51:02Z",
+      "id": "af18f31554f635ecf7e8a2a91ebdc5a3"
+    },
     {
       "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
       "link": "https://news.ycombinator.com/item?id=46036222",
@@ -18,20 +34,12 @@
       "id": "410e04e96b07e51cf0c4e0de5239385f"
     },
     {
-      "title": "Britain is one of the richest countries. So why do children live in poverty?",
-      "link": "https://www.cnn.com/2025/11/24/uk/britain-child-poverty-intl-scli",
+      "title": "A New Raspberry Pi Imager",
+      "link": "https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-24T16:53:11Z",
-      "id": "86823c4a322d9bf6c5d10079ab8bdea9"
-    },
-    {
-      "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
-      "link": "https://grapheneos.social/@watchfulcitizen@goingdark.social/115605398547420414",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T16:40:22Z",
-      "id": "fb7b7172e2a2e19db7882d56bcab80fe"
+      "published": "2025-11-24T16:52:21Z",
+      "id": "6a58e577ccc0d26f8d9327ae0bf379fa"
     },
     {
       "title": "SHA1-Hulud the Second Comming \u2013 Postman, Zapier, PostHog All Compromised via NPM",
@@ -48,14 +56,6 @@
       "category": "tech",
       "published": "2025-11-24T13:58:05Z",
       "id": "c398b2d3adb338dcfd627d5680aa639f"
-    },
-    {
-      "title": "Fast Lua runtime written in Rust",
-      "link": "https://astra.arkforge.net/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T13:57:53Z",
-      "id": "04b033d2de55160c4d506d193c81a49b"
     },
     {
       "title": "Chrome Jpegxl Issue Reopened",
@@ -170,14 +170,6 @@
       "id": "bf9f2cae138a993ae5b8726b6f8c41b9"
     },
     {
-      "title": "Building the largest known Kubernetes cluster, with 130k nodes",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T17:56:50Z",
-      "id": "607285ef5ff7b4eb665727a07bc78c02"
-    },
-    {
       "title": "Historically Accurate Airport Dioramas by AV Pro Designs",
       "link": "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs",
       "source": "Hacker News",
@@ -194,12 +186,12 @@
       "id": "6b05803b357488a35beee2236a43c362"
     },
     {
-      "title": "I built an faster Notion in Rust",
+      "title": "I built a faster Notion in Rust",
       "link": "https://imedadel.com/outcrop/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-19T21:15:45Z",
-      "id": "f7227626047d6a6d7afbcb4ef3c95136"
+      "id": "dc9930ae896dcec53d1874399a54e71a"
     },
     {
       "title": "New magnetic component discovered in the Faraday effect",
@@ -224,6 +216,14 @@
       "category": "tech",
       "published": "2025-11-19T16:22:32Z",
       "id": "5d9ceeecceb349800cf6585f49ee132b"
+    },
+    {
+      "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T15:07:35Z",
+      "id": "e8b14fcb903d8ec511e9440a58bcdfaf"
     },
     {
       "title": "The Rust Performance Book (2020)",
