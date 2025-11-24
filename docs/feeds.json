@@ -1,6 +1,78 @@
 {
-  "last_updated": "2025-11-24T18:35:57.342505Z",
+  "last_updated": "2025-11-24T19:17:24.231587Z",
   "items": [
+    {
+      "title": "Claude Opus 4.5",
+      "link": "https://www.anthropic.com/news/claude-opus-4-5",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:53:05Z",
+      "id": "fe91bf9fbce744bbdf2f2a339e635c58"
+    },
+    {
+      "title": "Pebble Watch software is now 100% open source",
+      "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:52:12Z",
+      "id": "c0af39a75e8f7f3591fc9127b3a8f9a6"
+    },
+    {
+      "title": "Google's new 'Aluminium OS' project brings Android to PC",
+      "link": "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:49:47Z",
+      "id": "9417db061b3f475ceb2a4549d801bf62"
+    },
+    {
+      "title": "GrapheneOS migrates server infrastructure from France",
+      "link": "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:48:04Z",
+      "id": "fe403c74c284fb4325f0103d30019a13"
+    },
+    {
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:47:11Z",
+      "id": "45f7c8ec1d321a68087d09d01d8728cc"
+    },
+    {
+      "title": "Launch HN: Karumi (YC F25) \u2013 Personalized, agentic product demos",
+      "link": "https://www.karumi.ai/meet/start/phlz",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:37:27Z",
+      "id": "0d8d324f1f9ff0ed26f49e4a6812f56f"
+    },
+    {
+      "title": "The Bitter Lesson of LLM Extensions",
+      "link": "https://www.sawyerhood.com/blog/llm-extension",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:32:27Z",
+      "id": "5507fcfff68591ab924813c038d66f54"
+    },
+    {
+      "title": "TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped",
+      "link": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:30:48Z",
+      "id": "7046c0a744552917a0c7a2b724b2684c"
+    },
+    {
+      "title": "Mind-reading devices can now predict preconscious thoughts: is it time to worry?",
+      "link": "https://www.nature.com/articles/d41586-025-03714-0",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:26:09Z",
+      "id": "4d1ba1504f8ed0bf9474456b07cc4d75"
+    },
     {
       "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
       "link": "https://github.com/Swordfish90/cool-retro-term",
@@ -8,14 +80,6 @@
       "category": "tech",
       "published": "2025-11-24T17:52:01Z",
       "id": "61d83826494b62269c69d473cca9de16"
-    },
-    {
-      "title": "Andrej Karpathy on X: implications of AI to schools",
-      "link": "https://twitter.com/karpathy/status/1993010584175141038",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T17:51:02Z",
-      "id": "af18f31554f635ecf7e8a2a91ebdc5a3"
     },
     {
       "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
@@ -26,14 +90,6 @@
       "id": "07265da49f97c800495caa08c82558b9"
     },
     {
-      "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
-      "link": "https://mamot.fr/@LaQuadrature/115581775965025042",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T17:00:07Z",
-      "id": "410e04e96b07e51cf0c4e0de5239385f"
-    },
-    {
       "title": "A New Raspberry Pi Imager",
       "link": "https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/",
       "source": "Hacker News",
@@ -42,12 +98,12 @@
       "id": "6a58e577ccc0d26f8d9327ae0bf379fa"
     },
     {
-      "title": "SHA1-Hulud the Second Comming \u2013 Postman, Zapier, PostHog All Compromised via NPM",
+      "title": "Shai Hulud launches second supply-chain attack",
       "link": "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T16:03:36Z",
-      "id": "73eff9176baaa27dfa298c0eed83b4ad"
+      "id": "e1f37ef45ee5d70c4b3bba0fda0b0015"
     },
     {
       "title": "Show HN: Cynthia \u2013 Reliably play MIDI music files \u2013 MIT / Portable / Windows",
@@ -82,14 +138,6 @@
       "id": "6cdeacf419d8e3f88a03bc8a574a6c77"
     },
     {
-      "title": "Lambda Calculus \u2013 Animated Beta Reduction of Lambda Diagrams",
-      "link": "https://cruzgodar.com/applets/lambda-calculus",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T05:17:15Z",
-      "id": "72cf94ac9dddfe11c3fa005b5e18ae8e"
-    },
-    {
       "title": "RuBee",
       "link": "https://computer.rip/2025-11-22-RuBee.html",
       "source": "Hacker News",
@@ -106,28 +154,12 @@
       "id": "cfb4a580ea78d61b7ccae9d9b1580214"
     },
     {
-      "title": "Show HN: Stun LLMs with thousands of invisible Unicode characters",
-      "link": "https://gibberifier.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T03:00:31Z",
-      "id": "d72510fda54c5e1dfd77dc0d4882b38a"
-    },
-    {
       "title": "Ask HN: Hearing aid wearers, what's hot?",
       "link": "https://news.ycombinator.com/item?id=46029699",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T02:25:39Z",
       "id": "893cb160592a6918cdadc256da7843ec"
-    },
-    {
-      "title": "Ego, empathy, and humility at work",
-      "link": "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T02:01:02Z",
-      "id": "1a0a1e281a5e843b471db29992ddd9b6"
     },
     {
       "title": "\u00b5cad: New open source programming language that can generate 2D sketches and 3D",
@@ -138,14 +170,6 @@
       "id": "fb0ba9997fcc0d0934deb4c3501da1e5"
     },
     {
-      "title": "Fran Sans \u2013 font inspired by San Francisco light rail displays",
-      "link": "https://emilysneddon.com/fran-sans-essay",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T18:20:27Z",
-      "id": "58f1685c4c20a82a780dad606cddf6d3"
-    },
-    {
       "title": "We stopped roadmap work for a week and fixed bugs",
       "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
       "source": "Hacker News",
@@ -154,20 +178,20 @@
       "id": "6e66ca6155b270124a40018a92ef78ed"
     },
     {
+      "title": "Three Years from GPT-3 to Gemini 3",
+      "link": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T01:25:17Z",
+      "id": "cab92dc0ce8951ebe9c009b5eca49858"
+    },
+    {
       "title": "Serflings is a remake of The Settlers 1",
       "link": "https://www.simpleguide.net/serflings.xhtml",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-22T08:26:13Z",
       "id": "3041315a833b330fb27fff0e6ca3d604"
-    },
-    {
-      "title": "Set theory with types",
-      "link": "https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T07:22:55Z",
-      "id": "bf9f2cae138a993ae5b8726b6f8c41b9"
     },
     {
       "title": "Historically Accurate Airport Dioramas by AV Pro Designs",
@@ -194,22 +218,6 @@
       "id": "dc9930ae896dcec53d1874399a54e71a"
     },
     {
-      "title": "New magnetic component discovered in the Faraday effect",
-      "link": "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T20:53:42Z",
-      "id": "e282a2879e35148ba63af7d1292d5644"
-    },
-    {
-      "title": "Show HN: Virtual SLURM HPC cluster in a Docker Compose",
-      "link": "https://github.com/exactlab/vhpc",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T17:33:45Z",
-      "id": "a94b2bff39c72ed949c3edd45b732e04"
-    },
-    {
       "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
       "link": "https://arxiv.org/abs/2510.08874",
       "source": "Hacker News",
@@ -224,14 +232,6 @@
       "category": "tech",
       "published": "2025-11-19T15:07:35Z",
       "id": "e8b14fcb903d8ec511e9440a58bcdfaf"
-    },
-    {
-      "title": "The Rust Performance Book (2020)",
-      "link": "https://nnethercote.github.io/perf-book/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T09:08:10Z",
-      "id": "b114eba0ae48d71f8d15eb6eb2d28d54"
     },
     {
       "title": "Disney Lost Roger Rabbit",
