@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T08:34:54.335230Z",
+  "last_updated": "2025-11-24T09:29:59.802067Z",
   "items": [
     {
       "title": "Show HN: Syd \u2013 An offline-first, AI-augmented workstation for blue teams",
@@ -8,6 +8,14 @@
       "category": "tech",
       "published": "2025-11-24T07:11:38Z",
       "id": "d4cfad47f8b5be60018a372e88bd78b6"
+    },
+    {
+      "title": "A One-Minute ADHD Test",
+      "link": "https://psychotechnology.substack.com/p/a-one-minute-adhd-test-2330",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T07:09:28Z",
+      "id": "f0a990b2a76f96f8357d20634a3b328f"
     },
     {
       "title": "Lambda Calculus \u2013 Animated Beta Reduction of Lambda Diagrams",
@@ -42,36 +50,20 @@
       "id": "cfb4a580ea78d61b7ccae9d9b1580214"
     },
     {
-      "title": "The Cloudflare outage was a good thing",
+      "title": "The Cloudflare outage might be a good thing",
       "link": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T03:04:10Z",
-      "id": "69c3bdfdb3335b91dea84d87f1751954"
+      "id": "554d05bdbb5ba4969139265b4d4bbfb5"
     },
     {
-      "title": "A free tool that stuns LLMs with thousands of invisible Unicode characters",
+      "title": "Show HN: Stun LLMs with thousands of invisible Unicode characters",
       "link": "https://gibberifier.com",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T03:00:31Z",
-      "id": "3a4f24a29313afb4c16bc23c1b00b853"
-    },
-    {
-      "title": "McMaster Carr \u2013 The Smartest Website You Haven't Heard Of",
-      "link": "https://www.bedelstein.com/post/mcmaster-carr",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T02:57:34Z",
-      "id": "20f2bf4f9f3a3ce119b88c503ee2ec7c"
-    },
-    {
-      "title": "We stopped roadmap work for a week and fixed 189 bugs",
-      "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T02:36:54Z",
-      "id": "acd395bc7c97937c9c17b0cf0c01f0b0"
+      "id": "d72510fda54c5e1dfd77dc0d4882b38a"
     },
     {
       "title": "Ask HN: Hearing aid wearers, what's hot?",
@@ -114,22 +106,6 @@
       "id": "7abf1e8789ffbc6d987a7cd2a8eea579"
     },
     {
-      "title": "A desktop app for isolated, parallel agentic development",
-      "link": "https://github.com/coder/mux",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T22:24:23Z",
-      "id": "5e5cd4931142d5b3d7c81cdc21325128"
-    },
-    {
-      "title": "Iowa City made its buses free. Traffic cleared, and so did the air",
-      "link": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T22:06:44Z",
-      "id": "95437e71082597034ade08a486b0c80d"
-    },
-    {
       "title": "\u00b5cad: New open source programming language that can generate 2D sketches and 3D",
       "link": "https://microcad.xyz/",
       "source": "Hacker News",
@@ -162,12 +138,20 @@
       "id": "15c59dc67fc662ea2b36c64f9ea1f052"
     },
     {
-      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
-      "link": "https://mathstodon.xyz/@tao/115591487350860999",
+      "title": "We stopped roadmap work for a week and fixed bugs",
+      "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-22T20:27:41Z",
-      "id": "b3c6d0e899f19d494f5ee0b0bbca3207"
+      "published": "2025-11-23T16:06:46Z",
+      "id": "6e66ca6155b270124a40018a92ef78ed"
+    },
+    {
+      "title": "Set theory with types",
+      "link": "https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T07:22:55Z",
+      "id": "bf9f2cae138a993ae5b8726b6f8c41b9"
     },
     {
       "title": "A time-travelling door bug in Half Life 2",
@@ -176,6 +160,14 @@
       "category": "tech",
       "published": "2025-11-21T22:48:39Z",
       "id": "921c275c974e3f3ca899f9c5c9d4dfb9"
+    },
+    {
+      "title": "Moss survived outside of the International Space Station for 9 months",
+      "link": "https://www.livescience.com/space/scientists-put-moss-on-the-outside-of-the-international-space-station-for-9-months-then-kept-it-growing-back-on-earth",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T00:03:14Z",
+      "id": "094e2a9dce9b9565ea026a322990322a"
     },
     {
       "title": "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
@@ -192,6 +184,14 @@
       "category": "tech",
       "published": "2025-11-19T19:19:20Z",
       "id": "a99f3cacd6f7be9bf16861a4a7da2dae"
+    },
+    {
+      "title": "Breakthrough in antimatter production",
+      "link": "https://home.cern/news/news/experiments/breakthrough-antimatter-production",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T13:19:39Z",
+      "id": "2c71f8acfd4779ed1e475f3f2b29509e"
     },
     {
       "title": "The Rust Performance Book (2020)",
@@ -218,6 +218,14 @@
       "id": "df93d84ea61c8cff4c34b2a7b4cd264f"
     },
     {
+      "title": "Murphyjitsu (2018)",
+      "link": "https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-18T20:24:39Z",
+      "id": "9cfab5e471329f117b455d6d64551cfa"
+    },
+    {
       "title": "Hyperoptic: IPv6 and Out-of-Order Packets",
       "link": "https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/",
       "source": "Hacker News",
@@ -232,14 +240,6 @@
       "category": "tech",
       "published": "2025-11-18T16:54:22Z",
       "id": "25c89683ffb5c5e699544930fbef26c2"
-    },
-    {
-      "title": "Show HN: Gitlogue \u2013 A terminal tool that replays your Git commits with animation",
-      "link": "https://github.com/unhappychoice/gitlogue",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T12:47:04Z",
-      "id": "6d631dc5b939c6b3a92b06ae91a4d8ae"
     }
   ]
 }
