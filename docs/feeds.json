@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T09:29:59.802067Z",
+  "last_updated": "2025-11-24T10:27:53.007456Z",
   "items": [
     {
       "title": "Show HN: Syd \u2013 An offline-first, AI-augmented workstation for blue teams",
@@ -8,14 +8,6 @@
       "category": "tech",
       "published": "2025-11-24T07:11:38Z",
       "id": "d4cfad47f8b5be60018a372e88bd78b6"
-    },
-    {
-      "title": "A One-Minute ADHD Test",
-      "link": "https://psychotechnology.substack.com/p/a-one-minute-adhd-test-2330",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T07:09:28Z",
-      "id": "f0a990b2a76f96f8357d20634a3b328f"
     },
     {
       "title": "Lambda Calculus \u2013 Animated Beta Reduction of Lambda Diagrams",
@@ -106,6 +98,14 @@
       "id": "7abf1e8789ffbc6d987a7cd2a8eea579"
     },
     {
+      "title": "A desktop app for isolated, parallel agentic development",
+      "link": "https://github.com/coder/mux",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T22:24:23Z",
+      "id": "5e5cd4931142d5b3d7c81cdc21325128"
+    },
+    {
       "title": "\u00b5cad: New open source programming language that can generate 2D sketches and 3D",
       "link": "https://microcad.xyz/",
       "source": "Hacker News",
@@ -162,6 +162,14 @@
       "id": "921c275c974e3f3ca899f9c5c9d4dfb9"
     },
     {
+      "title": "Building the largest known Kubernetes cluster, with 130k nodes",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T17:56:50Z",
+      "id": "607285ef5ff7b4eb665727a07bc78c02"
+    },
+    {
       "title": "Moss survived outside of the International Space Station for 9 months",
       "link": "https://www.livescience.com/space/scientists-put-moss-on-the-outside-of-the-international-space-station-for-9-months-then-kept-it-growing-back-on-earth",
       "source": "Hacker News",
@@ -216,14 +224,6 @@
       "category": "tech",
       "published": "2025-11-18T22:52:57Z",
       "id": "df93d84ea61c8cff4c34b2a7b4cd264f"
-    },
-    {
-      "title": "Murphyjitsu (2018)",
-      "link": "https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T20:24:39Z",
-      "id": "9cfab5e471329f117b455d6d64551cfa"
     },
     {
       "title": "Hyperoptic: IPv6 and Out-of-Order Packets",
