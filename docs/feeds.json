@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T22:22:47.059599Z",
+  "last_updated": "2025-11-24T23:22:08.951764Z",
   "items": [
     {
       "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
@@ -8,6 +8,14 @@
       "category": "tech",
       "published": "2025-11-24T19:29:12Z",
       "id": "55255e3050d3ef8e892d0c86d27842dd"
+    },
+    {
+      "title": "Unpowered SSDs slowly lose data",
+      "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T19:25:25Z",
+      "id": "d7440abb8d42c2375563f558b452534b"
     },
     {
       "title": "Claude Advanced Tool Use",
@@ -42,14 +50,6 @@
       "id": "fe403c74c284fb4325f0103d30019a13"
     },
     {
-      "title": "Is your Android TV streaming box part of a botnet?",
-      "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T18:47:11Z",
-      "id": "9d94949477ad3a6a5a578b54e5c0e621"
-    },
-    {
       "title": "Launch HN: Karumi (YC F25) \u2013 Personalized, agentic product demos",
       "link": "http://karumi.ai/",
       "source": "Hacker News",
@@ -66,12 +66,12 @@
       "id": "5507fcfff68591ab924813c038d66f54"
     },
     {
-      "title": "TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped",
+      "title": "TSMC Arizona outage saw fab halt, Apple wafers scrapped",
       "link": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T18:30:48Z",
-      "id": "7046c0a744552917a0c7a2b724b2684c"
+      "id": "a541edc2cc8f3127348e6f7bfdadcd71"
     },
     {
       "title": "Mind-reading devices can now predict preconscious thoughts",
@@ -138,12 +138,20 @@
       "id": "6cdeacf419d8e3f88a03bc8a574a6c77"
     },
     {
-      "title": "The Arithmetic of Braids (2022)",
-      "link": "https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/",
+      "title": "Fifty Shades of OOP",
+      "link": "https://lesleylai.info/en/fifty_shades_of_oop/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-24T06:44:57Z",
-      "id": "f3f2a1cc6b4af014a735c3d0188e60b3"
+      "published": "2025-11-24T09:40:32Z",
+      "id": "2f7bbc216764955255e873e6064d7118"
+    },
+    {
+      "title": "What OpenAI did when ChatGPT users lost touch with reality",
+      "link": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T05:58:08Z",
+      "id": "1dc63642267797ab6fac7f7054b6c1b5"
     },
     {
       "title": "We stopped roadmap work for a week and fixed bugs",
@@ -152,6 +160,14 @@
       "category": "tech",
       "published": "2025-11-23T16:06:46Z",
       "id": "6e66ca6155b270124a40018a92ef78ed"
+    },
+    {
+      "title": "Bytes before FLOPS: your algorithm is (mostly) fine, your data isn't",
+      "link": "https://www.bitsdraumar.is/bytes-before-flops/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T15:47:50Z",
+      "id": "b1506421d53982cafcbadffaf1772579"
     },
     {
       "title": "Three Years from GPT-3 to Gemini 3",
@@ -178,28 +194,28 @@
       "id": "6dd1f8ba8af07b0efdd8403ff0ffd76c"
     },
     {
-      "title": "Serflings is a remake of The Settlers 1",
-      "link": "https://www.simpleguide.net/serflings.xhtml",
+      "title": "Building the largest known Kubernetes cluster",
+      "link": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-22T08:26:13Z",
-      "id": "3041315a833b330fb27fff0e6ca3d604"
+      "published": "2025-11-21T17:56:50Z",
+      "id": "752a7b60147107b41f4b71addf190eea"
     },
     {
-      "title": "Historically Accurate Airport Dioramas by AV Pro Designs",
-      "link": "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs",
+      "title": "Show HN: OCR Arena \u2013 A playground for OCR models",
+      "link": "https://www.ocrarena.ai/battle",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-20T19:21:27Z",
-      "id": "24d743738ed8b94b4ab09f1f38ecd738"
+      "published": "2025-11-21T16:44:45Z",
+      "id": "386b7792cce5e95414c187d372ec1b98"
     },
     {
-      "title": "Show HN: Search London StreetView panoramas by text",
-      "link": "https://london.publicinsights.uk",
+      "title": "Everything you need to know about hard drive vibration (2016)",
+      "link": "https://www.ept.ca/features/everything-need-know-hard-drive-vibration/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-20T18:27:51Z",
-      "id": "aac0aca412a5fd2a8ef8fb70d5f2a6e7"
+      "published": "2025-11-20T16:07:22Z",
+      "id": "828d774cc66157eebcb7865ba0e4ed89"
     },
     {
       "title": "Inside Rust's std and parking_lot mutexes \u2013 who wins?",
@@ -208,14 +224,6 @@
       "category": "tech",
       "published": "2025-11-20T05:32:13Z",
       "id": "6b05803b357488a35beee2236a43c362"
-    },
-    {
-      "title": "The only GM EV1 ever publicly sold",
-      "link": "https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T15:17:19Z",
-      "id": "3fc8c165f17ae21466ac9ae181dbcbc3"
     },
     {
       "title": "Moving from OpenBSD to FreeBSD for firewalls",
@@ -232,14 +240,6 @@
       "category": "tech",
       "published": "2025-11-19T01:24:12Z",
       "id": "a09c47e6a0f698af7ae2d59f09e3cc36"
-    },
-    {
-      "title": "Disney Lost Roger Rabbit",
-      "link": "https://pluralistic.net/2025/11/18/im-not-bad/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T16:54:22Z",
-      "id": "25c89683ffb5c5e699544930fbef26c2"
     }
   ]
 }
