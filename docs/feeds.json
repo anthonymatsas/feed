@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-11-24T19:17:24.231587Z",
+  "last_updated": "2025-11-24T20:27:35.076789Z",
   "items": [
+    {
+      "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T19:29:12Z",
+      "id": "55255e3050d3ef8e892d0c86d27842dd"
+    },
+    {
+      "title": "Claude Advanced Tool Use",
+      "link": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T19:21:35Z",
+      "id": "181f4561c6fe2071bfec98ba99a3f9fe"
+    },
     {
       "title": "Claude Opus 4.5",
       "link": "https://www.anthropic.com/news/claude-opus-4-5",
@@ -18,14 +34,6 @@
       "id": "c0af39a75e8f7f3591fc9127b3a8f9a6"
     },
     {
-      "title": "Google's new 'Aluminium OS' project brings Android to PC",
-      "link": "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T18:49:47Z",
-      "id": "9417db061b3f475ceb2a4549d801bf62"
-    },
-    {
       "title": "GrapheneOS migrates server infrastructure from France",
       "link": "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/",
       "source": "Hacker News",
@@ -34,20 +42,20 @@
       "id": "fe403c74c284fb4325f0103d30019a13"
     },
     {
-      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "title": "Is your Android TV streaming box part of a botnet?",
       "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T18:47:11Z",
-      "id": "45f7c8ec1d321a68087d09d01d8728cc"
+      "id": "9d94949477ad3a6a5a578b54e5c0e621"
     },
     {
       "title": "Launch HN: Karumi (YC F25) \u2013 Personalized, agentic product demos",
-      "link": "https://www.karumi.ai/meet/start/phlz",
+      "link": "http://karumi.ai/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T18:37:27Z",
-      "id": "0d8d324f1f9ff0ed26f49e4a6812f56f"
+      "id": "0eb89affbc0474b459a3c7b76c3f97b3"
     },
     {
       "title": "The Bitter Lesson of LLM Extensions",
@@ -66,12 +74,20 @@
       "id": "7046c0a744552917a0c7a2b724b2684c"
     },
     {
-      "title": "Mind-reading devices can now predict preconscious thoughts: is it time to worry?",
+      "title": "Mind-reading devices can now predict preconscious thoughts",
       "link": "https://www.nature.com/articles/d41586-025-03714-0",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T18:26:09Z",
-      "id": "4d1ba1504f8ed0bf9474456b07cc4d75"
+      "id": "1147b8d1b45c0b68cbb09f875392ec01"
+    },
+    {
+      "title": "Show HN: I built an interactive HN Simulator",
+      "link": "https://news.ysimulator.run/news",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T17:52:43Z",
+      "id": "ce05629ef92dcd5816053e1cc6f78d6e"
     },
     {
       "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
@@ -82,36 +98,28 @@
       "id": "61d83826494b62269c69d473cca9de16"
     },
     {
+      "title": "Implications of AI to schools",
+      "link": "https://twitter.com/karpathy/status/1993010584175141038",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T17:51:02Z",
+      "id": "d0f302783d3880a89fb3d9538bb1e696"
+    },
+    {
+      "title": "Ask HN: Scheduling stateful nodes when MMAP makes memory accounting a lie",
+      "link": "https://news.ycombinator.com/item?id=46036614",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T17:30:40Z",
+      "id": "1c2f606647210c9feee824ea8143c7ae"
+    },
+    {
       "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
       "link": "https://news.ycombinator.com/item?id=46036222",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T17:00:33Z",
       "id": "07265da49f97c800495caa08c82558b9"
-    },
-    {
-      "title": "A New Raspberry Pi Imager",
-      "link": "https://www.raspberrypi.com/news/a-new-raspberry-pi-imager/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T16:52:21Z",
-      "id": "6a58e577ccc0d26f8d9327ae0bf379fa"
-    },
-    {
-      "title": "Shai Hulud launches second supply-chain attack",
-      "link": "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T16:03:36Z",
-      "id": "e1f37ef45ee5d70c4b3bba0fda0b0015"
-    },
-    {
-      "title": "Show HN: Cynthia \u2013 Reliably play MIDI music files \u2013 MIT / Portable / Windows",
-      "link": "https://www.blaizenterprises.com/cynthia.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T13:58:05Z",
-      "id": "c398b2d3adb338dcfd627d5680aa639f"
     },
     {
       "title": "Chrome Jpegxl Issue Reopened",
@@ -138,36 +146,20 @@
       "id": "6cdeacf419d8e3f88a03bc8a574a6c77"
     },
     {
-      "title": "RuBee",
-      "link": "https://computer.rip/2025-11-22-RuBee.html",
+      "title": "The Arithmetic of Braids (2022)",
+      "link": "https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-24T03:08:10Z",
-      "id": "6bfe89742504e0e764fa497e2adf75c8"
+      "published": "2025-11-24T06:44:57Z",
+      "id": "f3f2a1cc6b4af014a735c3d0188e60b3"
     },
     {
-      "title": "Japan's gamble to turn island of Hokkaido into global chip hub",
-      "link": "https://www.bbc.com/news/articles/c8676qpxgnqo",
+      "title": "What OpenAI did when ChatGPT users lost touch with reality",
+      "link": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-24T03:07:07Z",
-      "id": "cfb4a580ea78d61b7ccae9d9b1580214"
-    },
-    {
-      "title": "Ask HN: Hearing aid wearers, what's hot?",
-      "link": "https://news.ycombinator.com/item?id=46029699",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T02:25:39Z",
-      "id": "893cb160592a6918cdadc256da7843ec"
-    },
-    {
-      "title": "\u00b5cad: New open source programming language that can generate 2D sketches and 3D",
-      "link": "https://microcad.xyz/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T20:51:22Z",
-      "id": "fb0ba9997fcc0d0934deb4c3501da1e5"
+      "published": "2025-11-24T05:58:08Z",
+      "id": "1dc63642267797ab6fac7f7054b6c1b5"
     },
     {
       "title": "We stopped roadmap work for a week and fixed bugs",
@@ -186,6 +178,14 @@
       "id": "cab92dc0ce8951ebe9c009b5eca49858"
     },
     {
+      "title": "The history of Indian science fiction",
+      "link": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T09:41:46Z",
+      "id": "6dd1f8ba8af07b0efdd8403ff0ffd76c"
+    },
+    {
       "title": "Serflings is a remake of The Settlers 1",
       "link": "https://www.simpleguide.net/serflings.xhtml",
       "source": "Hacker News",
@@ -200,6 +200,14 @@
       "category": "tech",
       "published": "2025-11-20T19:21:27Z",
       "id": "24d743738ed8b94b4ab09f1f38ecd738"
+    },
+    {
+      "title": "Show HN: Search London StreetView panoramas by text",
+      "link": "https://london.publicinsights.uk",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-20T18:27:51Z",
+      "id": "aac0aca412a5fd2a8ef8fb70d5f2a6e7"
     },
     {
       "title": "Inside Rust's std and parking_lot mutexes \u2013 who wins?",
@@ -218,28 +226,20 @@
       "id": "dc9930ae896dcec53d1874399a54e71a"
     },
     {
-      "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
-      "link": "https://arxiv.org/abs/2510.08874",
+      "title": "The only GM EV1 ever publicly sold",
+      "link": "https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-19T16:22:32Z",
-      "id": "5d9ceeecceb349800cf6585f49ee132b"
+      "published": "2025-11-19T15:17:19Z",
+      "id": "3fc8c165f17ae21466ac9ae181dbcbc3"
     },
     {
-      "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
+      "title": "Moving from OpenBSD to FreeBSD for firewalls",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-19T15:07:35Z",
-      "id": "e8b14fcb903d8ec511e9440a58bcdfaf"
-    },
-    {
-      "title": "Disney Lost Roger Rabbit",
-      "link": "https://pluralistic.net/2025/11/18/im-not-bad/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T16:54:22Z",
-      "id": "25c89683ffb5c5e699544930fbef26c2"
+      "id": "fc4888e0180c3e16e9cf721781c3a114"
     }
   ]
 }
