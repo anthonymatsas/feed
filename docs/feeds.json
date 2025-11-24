@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T03:38:55.277589Z",
+  "last_updated": "2025-11-24T04:37:03.972999Z",
   "items": [
     {
       "title": "RuBee",
@@ -10,20 +10,20 @@
       "id": "6bfe89742504e0e764fa497e2adf75c8"
     },
     {
+      "title": "The Cloudflare outage was a good thing",
+      "link": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T03:04:10Z",
+      "id": "69c3bdfdb3335b91dea84d87f1751954"
+    },
+    {
       "title": "We stopped roadmap work for a week and fixed 189 bugs",
       "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T02:36:54Z",
       "id": "acd395bc7c97937c9c17b0cf0c01f0b0"
-    },
-    {
-      "title": "B-Trees: Why Every Database Uses Them",
-      "link": "https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T02:35:17Z",
-      "id": "41f669d7060abc36f12f7dd6412ce1a7"
     },
     {
       "title": "Ask HN: Hearing aid wearers, what's hot?",
@@ -42,12 +42,20 @@
       "id": "0941d471f51dee60d2c12e7bf14bb614"
     },
     {
-      "title": "'Invisible' microplastics spread in skies as global pollutant",
-      "link": "https://www.asahi.com/ajw/articles/16137995",
+      "title": "A Unified Theory of Ego, Empathy, and Humility at Work",
+      "link": "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-24T00:18:21Z",
-      "id": "191f7777c4cc0885b25939c58d9f4679"
+      "published": "2025-11-24T02:01:02Z",
+      "id": "5c8fd442e945cfef4682f5e787645402"
+    },
+    {
+      "title": "A ncurses-based command line torrent client for high performance",
+      "link": "https://github.com/rakshasa/rtorrent",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T01:30:51Z",
+      "id": "d82e6d842f6170f17cf5a4bae840e1bc"
     },
     {
       "title": "Liva AI (YC S25) Is Hiring",
@@ -90,12 +98,12 @@
       "id": "95437e71082597034ade08a486b0c80d"
     },
     {
-      "title": "Particle Life \u2013 Sandbox Science",
+      "title": "Particle Life",
       "link": "https://sandbox-science.com/particle-life",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-23T21:54:32Z",
-      "id": "abaa06edd7445da4a7524d7f97eae0b5"
+      "id": "fb2f19b315899a082a2b82c78dc41418"
     },
     {
       "title": "\u00b5cad: New open source programming language that can generate 2D sketches and 3D",
@@ -104,14 +112,6 @@
       "category": "tech",
       "published": "2025-11-23T20:51:22Z",
       "id": "fb0ba9997fcc0d0934deb4c3501da1e5"
-    },
-    {
-      "title": "\"Good engineering management\" is a fad",
-      "link": "https://lethain.com/good-eng-mgmt-is-a-fad/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T20:16:04Z",
-      "id": "7433bab7fb7b049b80d0c08c7035975e"
     },
     {
       "title": "Fran Sans \u2013 font inspired by San Francisco light rail displays",
@@ -144,14 +144,6 @@
       "category": "tech",
       "published": "2025-11-23T16:12:06Z",
       "id": "cbc2a81a6ad1d8499ed451ca1f488b77"
-    },
-    {
-      "title": "Court filings allege Meta downplayed risks to children and misled the public",
-      "link": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T15:18:00Z",
-      "id": "e422f4783d7a28d26a6391dd8064740e"
     },
     {
       "title": "Editing Code in Emacs",
@@ -232,6 +224,14 @@
       "category": "tech",
       "published": "2025-11-19T09:08:10Z",
       "id": "4973bb0821326cd1f15dd79282867d20"
+    },
+    {
+      "title": "Band of Holes",
+      "link": "https://en.wikipedia.org/wiki/Band_of_Holes",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T07:08:49Z",
+      "id": "1329b6aa48495bfcc88bcc286997f658"
     },
     {
       "title": "Show HN: Gitlogue \u2013 A terminal tool that replays your Git commits with animation",
