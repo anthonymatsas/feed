@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-24T11:21:23.899278Z",
+  "last_updated": "2025-11-24T12:51:49.601889Z",
   "items": [
+    {
+      "title": "NSA and IETF, part 3: Dodging the issues at hand",
+      "link": "https://blog.cr.yp.to/20251123-dodging.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T12:00:55Z",
+      "id": "b782b54c557e3f570b8cf377d9a1f013"
+    },
     {
       "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
       "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
@@ -10,12 +18,12 @@
       "id": "6cdeacf419d8e3f88a03bc8a574a6c77"
     },
     {
-      "title": "Syd \u2013 An offline-first, AI-augmented workstation for blue teams",
-      "link": "https://www.sydsec.co.uk",
+      "title": "General principles for the use of AI at CERN",
+      "link": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-24T07:11:38Z",
-      "id": "2811fe99f084fca4858f028703bb5ae9"
+      "published": "2025-11-24T10:37:05Z",
+      "id": "d6187413fab7e6d86804960ee371dac0"
     },
     {
       "title": "Lambda Calculus \u2013 Animated Beta Reduction of Lambda Diagrams",
@@ -24,14 +32,6 @@
       "category": "tech",
       "published": "2025-11-24T05:17:15Z",
       "id": "72cf94ac9dddfe11c3fa005b5e18ae8e"
-    },
-    {
-      "title": "Build desktop applications using Go and Web Technologies",
-      "link": "https://github.com/wailsapp/wails",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T04:33:57Z",
-      "id": "abc3393502a65debdd0efa32493a9f61"
     },
     {
       "title": "RuBee",
@@ -106,6 +106,22 @@
       "id": "7abf1e8789ffbc6d987a7cd2a8eea579"
     },
     {
+      "title": "A desktop app for isolated, parallel agentic development",
+      "link": "https://github.com/coder/mux",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T22:24:23Z",
+      "id": "5e5cd4931142d5b3d7c81cdc21325128"
+    },
+    {
+      "title": "Iowa City made its buses free. Traffic cleared, and so did the air",
+      "link": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T22:06:44Z",
+      "id": "95437e71082597034ade08a486b0c80d"
+    },
+    {
       "title": "\u00b5cad: New open source programming language that can generate 2D sketches and 3D",
       "link": "https://microcad.xyz/",
       "source": "Hacker News",
@@ -146,20 +162,20 @@
       "id": "6e66ca6155b270124a40018a92ef78ed"
     },
     {
+      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
+      "link": "https://mathstodon.xyz/@tao/115591487350860999",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T20:27:41Z",
+      "id": "b3c6d0e899f19d494f5ee0b0bbca3207"
+    },
+    {
       "title": "Set theory with types",
       "link": "https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-22T07:22:55Z",
       "id": "bf9f2cae138a993ae5b8726b6f8c41b9"
-    },
-    {
-      "title": "A time-travelling door bug in Half Life 2",
-      "link": "https://mastodon.gamedev.place/@TomF/115589875974658415",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T22:48:39Z",
-      "id": "921c275c974e3f3ca899f9c5c9d4dfb9"
     },
     {
       "title": "Building the largest known Kubernetes cluster, with 130k nodes",
@@ -186,12 +202,12 @@
       "id": "b97581187e0d71cceb24773d388b54d1"
     },
     {
-      "title": "Pixar: The Early Days",
-      "link": "https://stevejobsarchive.com/stories/pixar-early-days",
+      "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
+      "link": "https://arxiv.org/abs/2510.08874",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-19T19:19:20Z",
-      "id": "a99f3cacd6f7be9bf16861a4a7da2dae"
+      "published": "2025-11-19T16:22:32Z",
+      "id": "5d9ceeecceb349800cf6585f49ee132b"
     },
     {
       "title": "The Only GM EV1 Ever Publicly Sold, and Where It's Going Next",
@@ -202,28 +218,12 @@
       "id": "faa8ec8441a4611c04d451a0c8b85914"
     },
     {
-      "title": "Breakthrough in antimatter production",
-      "link": "https://home.cern/news/news/experiments/breakthrough-antimatter-production",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T13:19:39Z",
-      "id": "2c71f8acfd4779ed1e475f3f2b29509e"
-    },
-    {
       "title": "The Rust Performance Book (2020)",
       "link": "https://nnethercote.github.io/perf-book/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-19T09:08:10Z",
       "id": "b114eba0ae48d71f8d15eb6eb2d28d54"
-    },
-    {
-      "title": "Having Fun with Complex Numbers",
-      "link": "https://mathwonder.org/Having-Fun-with-Complex-Numbers/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-18T22:52:57Z",
-      "id": "df93d84ea61c8cff4c34b2a7b4cd264f"
     },
     {
       "title": "Hyperoptic: IPv6 and Out-of-Order Packets",
