@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-25T05:25:25.340674Z",
+  "last_updated": "2025-11-25T06:37:10.489016Z",
   "items": [
+    {
+      "title": "Windows GUI \u2013 Good, Bad and Pretty Ugly (2023)",
+      "link": "https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-25T05:33:44Z",
+      "id": "5daff79a50add5087809e91d8f24f824"
+    },
     {
       "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
       "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
@@ -58,14 +66,6 @@
       "id": "5507fcfff68591ab924813c038d66f54"
     },
     {
-      "title": "Mind-reading devices can now predict preconscious thoughts",
-      "link": "https://www.nature.com/articles/d41586-025-03714-0",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T18:26:09Z",
-      "id": "1147b8d1b45c0b68cbb09f875392ec01"
-    },
-    {
       "title": "Show HN: I built an interactive HN Simulator",
       "link": "https://news.ysimulator.run/news",
       "source": "Hacker News",
@@ -82,12 +82,12 @@
       "id": "b7e14616089315fc5beef5711407a61b"
     },
     {
-      "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
-      "link": "https://news.ycombinator.com/item?id=46036222",
+      "title": "Implications of AI to schools",
+      "link": "https://twitter.com/karpathy/status/1993010584175141038",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-24T17:00:33Z",
-      "id": "07265da49f97c800495caa08c82558b9"
+      "published": "2025-11-24T17:51:02Z",
+      "id": "d0f302783d3880a89fb3d9538bb1e696"
     },
     {
       "title": "Chrome Jpegxl Issue Reopened",
@@ -104,14 +104,6 @@
       "category": "tech",
       "published": "2025-11-24T10:40:22Z",
       "id": "6cdeacf419d8e3f88a03bc8a574a6c77"
-    },
-    {
-      "title": "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
-      "link": "https://github.com/DotFox/edn.c",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T09:51:45Z",
-      "id": "2f3630e0cc9cfffdc4fc40b31d2c1560"
     },
     {
       "title": "Fifty Shades of OOP",
@@ -154,14 +146,6 @@
       "id": "cab92dc0ce8951ebe9c009b5eca49858"
     },
     {
-      "title": "Advice for crime analyst to break into data science",
-      "link": "https://andrewpwheeler.com/2025/11/21/advice-for-crime-analyst-to-break-into-data-science/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T16:53:06Z",
-      "id": "02fc4dcac38a25e9d75f92400ddb97d7"
-    },
-    {
       "title": "Migrating to Bazel symbolic macros",
       "link": "https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/",
       "source": "Hacker News",
@@ -176,6 +160,14 @@
       "category": "tech",
       "published": "2025-11-22T14:33:57Z",
       "id": "1fbecbf2725490a78810a22e8538d255"
+    },
+    {
+      "title": "The history of Indian science fiction",
+      "link": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T09:41:46Z",
+      "id": "6dd1f8ba8af07b0efdd8403ff0ffd76c"
     },
     {
       "title": "Using Antigravity for Statistical Physics in JavaScript",
@@ -216,6 +208,14 @@
       "category": "tech",
       "published": "2025-11-21T16:23:50Z",
       "id": "867ef20f44c0251b57b64b9bafa8123e"
+    },
+    {
+      "title": "Show HN: Datamorph \u2013 A clean JSON \u21c4 CSV converter with auto-detect",
+      "link": "https://datamorphio.vercel.app",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T06:57:21Z",
+      "id": "1d77797544eb3af242afa4eb5f71f6b4"
     },
     {
       "title": "Inside Rust's std and parking_lot mutexes \u2013 who wins?",
