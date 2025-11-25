@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-25T13:36:48.430893Z",
+  "last_updated": "2025-11-25T14:25:21.122747Z",
   "items": [
+    {
+      "title": "Brain has five 'eras' \u2013 with adult mode not starting until early 30s",
+      "link": "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-25T13:38:12Z",
+      "id": "f1560aaf77de5b18c58ed8b592e920bd"
+    },
     {
       "title": "Making Crash Bandicoot (2011)",
       "link": "https://all-things-andy-gavin.com/video-games/making-crash/",
@@ -10,12 +18,12 @@
       "id": "41694ab746c31f56b072d3565144172f"
     },
     {
-      "title": "Most Stable Raspberry Pi? 81% Better NTP with Thermal Management",
+      "title": "Most Stable Raspberry Pi? Better NTP with Thermal Management",
       "link": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-25T06:35:59Z",
-      "id": "e7c7882310b5c532495d9b33be0b2d24"
+      "id": "fad94fe2198fc8b6696cf0bf075ac278"
     },
     {
       "title": "Human brains are preconfigured with instructions for understanding the world",
@@ -24,22 +32,6 @@
       "category": "tech",
       "published": "2025-11-25T06:31:31Z",
       "id": "10e682509f1aba438221741175821bf4"
-    },
-    {
-      "title": "AI has a deep understanding of how this code works",
-      "link": "https://github.com/ocaml/ocaml/pull/14369",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T21:03:22Z",
-      "id": "f2dcf654ca3be6bad8cf13bda793737c"
-    },
-    {
-      "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T19:29:12Z",
-      "id": "55255e3050d3ef8e892d0c86d27842dd"
     },
     {
       "title": "Unpowered SSDs slowly lose data",
@@ -200,6 +192,14 @@
       "category": "tech",
       "published": "2025-11-21T16:23:50Z",
       "id": "c98809c47edd9b71299770a334d85a60"
+    },
+    {
+      "title": "Nearby peer discovery without GPS using environmental fingerprints",
+      "link": "https://www.svendewaerhert.com/blog/nearby-peer-discovery/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T11:47:38Z",
+      "id": "957a66a894392d048231f717ad3fbacb"
     },
     {
       "title": "Inside Rust's std and parking_lot mutexes \u2013 who wins?",
