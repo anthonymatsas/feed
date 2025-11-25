@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-25T07:23:44.222402Z",
+  "last_updated": "2025-11-25T08:33:40.316133Z",
   "items": [
+    {
+      "title": "What you can get for the price of a Netflix subscription",
+      "link": "https://nmil.dev/what-you-can-get-for-the-price-of-a-netflix-subscription",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-25T06:39:36Z",
+      "id": "86de4ca465fab68fd449c845f7b738aa"
+    },
     {
       "title": "Most Stable Raspberry Pi? 81% Better NTP with Thermal Management",
       "link": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/",
@@ -24,14 +32,6 @@
       "category": "tech",
       "published": "2025-11-25T06:07:34Z",
       "id": "21a194c25556064f375c12736eb8f541"
-    },
-    {
-      "title": "Windows GUI \u2013 Good, Bad and Pretty Ugly (2023)",
-      "link": "https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-25T05:33:44Z",
-      "id": "5daff79a50add5087809e91d8f24f824"
     },
     {
       "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
@@ -186,14 +186,6 @@
       "id": "6dd1f8ba8af07b0efdd8403ff0ffd76c"
     },
     {
-      "title": "Using Antigravity for Statistical Physics in JavaScript",
-      "link": "https://christopherkrapu.com/blog/2025/antigravity-stat-mech/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-21T23:53:42Z",
-      "id": "07c9901fea606b59d29cd888a9d28e9a"
-    },
-    {
       "title": "Building the largest known Kubernetes cluster",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
       "source": "Hacker News",
@@ -232,6 +224,14 @@
       "category": "tech",
       "published": "2025-11-20T05:32:13Z",
       "id": "6b05803b357488a35beee2236a43c362"
+    },
+    {
+      "title": "Rethinking C++: Architecture, Concepts, and Responsibility",
+      "link": "https://blogs.embarcadero.com/rethinking-c-architecture-concepts-and-responsibility/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T20:58:50Z",
+      "id": "f31d1ebfb79a77469c5145394b2ff27f"
     },
     {
       "title": "Moving from OpenBSD to FreeBSD for firewalls",
