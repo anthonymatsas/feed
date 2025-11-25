@@ -1,14 +1,6 @@
 {
-  "last_updated": "2025-11-25T01:53:35.276554Z",
+  "last_updated": "2025-11-25T03:18:08.066827Z",
   "items": [
-    {
-      "title": "USAID shutdown has led to deaths",
-      "link": "https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-25T01:32:37Z",
-      "id": "a2a240ad3f044b76a902a879d4972018"
-    },
     {
       "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
       "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
@@ -58,14 +50,6 @@
       "id": "9417db061b3f475ceb2a4549d801bf62"
     },
     {
-      "title": "GrapheneOS migrates server infrastructure from France",
-      "link": "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T18:48:04Z",
-      "id": "fe403c74c284fb4325f0103d30019a13"
-    },
-    {
       "title": "Launch HN: Karumi (YC F25) \u2013 Personalized, agentic product demos",
       "link": "http://karumi.ai/",
       "source": "Hacker News",
@@ -106,12 +90,12 @@
       "id": "ce05629ef92dcd5816053e1cc6f78d6e"
     },
     {
-      "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
+      "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
       "link": "https://github.com/Swordfish90/cool-retro-term",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T17:52:01Z",
-      "id": "61d83826494b62269c69d473cca9de16"
+      "id": "b7e14616089315fc5beef5711407a61b"
     },
     {
       "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
@@ -138,12 +122,28 @@
       "id": "6cdeacf419d8e3f88a03bc8a574a6c77"
     },
     {
+      "title": "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
+      "link": "https://github.com/DotFox/edn.c",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T09:51:45Z",
+      "id": "2f3630e0cc9cfffdc4fc40b31d2c1560"
+    },
+    {
       "title": "Fifty Shades of OOP",
       "link": "https://lesleylai.info/en/fifty_shades_of_oop/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T09:40:32Z",
       "id": "2f7bbc216764955255e873e6064d7118"
+    },
+    {
+      "title": "Build a Compiler in Five Projects",
+      "link": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T07:14:55Z",
+      "id": "f6aff139fc5239d805bde28e88ab50b0"
     },
     {
       "title": "What OpenAI did when ChatGPT users lost touch with reality",
@@ -210,14 +210,6 @@
       "id": "386b7792cce5e95414c187d372ec1b98"
     },
     {
-      "title": "Everything you need to know about hard drive vibration (2016)",
-      "link": "https://www.ept.ca/features/everything-need-know-hard-drive-vibration/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T16:07:22Z",
-      "id": "828d774cc66157eebcb7865ba0e4ed89"
-    },
-    {
       "title": "Inside Rust's std and parking_lot mutexes \u2013 who wins?",
       "link": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
       "source": "Hacker News",
@@ -240,6 +232,14 @@
       "category": "tech",
       "published": "2025-11-19T15:07:35Z",
       "id": "fc4888e0180c3e16e9cf721781c3a114"
+    },
+    {
+      "title": "Show HN: Hypercamera \u2013 a browser-based 4D camera simulator",
+      "link": "https://dugas.ch/4d_creatures/4d_camera.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T13:54:04Z",
+      "id": "f7c7e54726b0dba930430f5456c2afff"
     }
   ]
 }
