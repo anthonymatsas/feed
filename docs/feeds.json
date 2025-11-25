@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-11-24T23:22:08.951764Z",
+  "last_updated": "2025-11-25T01:53:35.276554Z",
   "items": [
+    {
+      "title": "USAID shutdown has led to deaths",
+      "link": "https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-25T01:32:37Z",
+      "id": "a2a240ad3f044b76a902a879d4972018"
+    },
     {
       "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
       "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
@@ -40,6 +48,14 @@
       "category": "tech",
       "published": "2025-11-24T18:52:12Z",
       "id": "c0af39a75e8f7f3591fc9127b3a8f9a6"
+    },
+    {
+      "title": "Google's new 'Aluminium OS' project brings Android to PC",
+      "link": "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T18:49:47Z",
+      "id": "9417db061b3f475ceb2a4549d801bf62"
     },
     {
       "title": "GrapheneOS migrates server infrastructure from France",
@@ -98,14 +114,6 @@
       "id": "61d83826494b62269c69d473cca9de16"
     },
     {
-      "title": "Implications of AI to schools",
-      "link": "https://twitter.com/karpathy/status/1993010584175141038",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T17:51:02Z",
-      "id": "d0f302783d3880a89fb3d9538bb1e696"
-    },
-    {
       "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
       "link": "https://news.ycombinator.com/item?id=46036222",
       "source": "Hacker News",
@@ -120,14 +128,6 @@
       "category": "tech",
       "published": "2025-11-24T12:23:02Z",
       "id": "82ebdb47cecaa96693f0802e04294ec7"
-    },
-    {
-      "title": "NSA and IETF, part 3: Dodging the issues at hand",
-      "link": "https://blog.cr.yp.to/20251123-dodging.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T12:00:55Z",
-      "id": "b782b54c557e3f570b8cf377d9a1f013"
     },
     {
       "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
@@ -152,14 +152,6 @@
       "category": "tech",
       "published": "2025-11-24T05:58:08Z",
       "id": "1dc63642267797ab6fac7f7054b6c1b5"
-    },
-    {
-      "title": "We stopped roadmap work for a week and fixed bugs",
-      "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-23T16:06:46Z",
-      "id": "6e66ca6155b270124a40018a92ef78ed"
     },
     {
       "title": "Bytes before FLOPS: your algorithm is (mostly) fine, your data isn't",
@@ -194,6 +186,14 @@
       "id": "6dd1f8ba8af07b0efdd8403ff0ffd76c"
     },
     {
+      "title": "How sea turtles learn locations using Earth\u2019s magnetic field: research",
+      "link": "https://uncnews.unc.edu/2025/02/13/sea-turtles-secret-gps-researchers-uncover-how-sea-turtles-learn-locations-using-earths-magnetic-field/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T23:43:53Z",
+      "id": "24aee1ab09fd4faa29e202672de31d9d"
+    },
+    {
       "title": "Building the largest known Kubernetes cluster",
       "link": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
       "source": "Hacker News",
@@ -226,20 +226,20 @@
       "id": "6b05803b357488a35beee2236a43c362"
     },
     {
+      "title": "Random lasers from peanut kernel doped with birch leaf\u2013derived carbon dots",
+      "link": "https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0312/html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-19T16:31:44Z",
+      "id": "d063c9a2980f243546bae41e1702db75"
+    },
+    {
       "title": "Moving from OpenBSD to FreeBSD for firewalls",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-19T15:07:35Z",
       "id": "fc4888e0180c3e16e9cf721781c3a114"
-    },
-    {
-      "title": "Neopets.com Changed My Life (2019)",
-      "link": "https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T01:24:12Z",
-      "id": "a09c47e6a0f698af7ae2d59f09e3cc36"
     }
   ]
 }
