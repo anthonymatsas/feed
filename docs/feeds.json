@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-25T04:30:06.827695Z",
+  "last_updated": "2025-11-25T05:25:25.340674Z",
   "items": [
     {
       "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
@@ -56,14 +56,6 @@
       "category": "tech",
       "published": "2025-11-24T18:32:27Z",
       "id": "5507fcfff68591ab924813c038d66f54"
-    },
-    {
-      "title": "TSMC Arizona outage saw fab halt, Apple wafers scrapped",
-      "link": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T18:30:48Z",
-      "id": "a541edc2cc8f3127348e6f7bfdadcd71"
     },
     {
       "title": "Mind-reading devices can now predict preconscious thoughts",
@@ -162,20 +154,28 @@
       "id": "cab92dc0ce8951ebe9c009b5eca49858"
     },
     {
-      "title": "You can see a working Quantum Computer in IBM's London office",
-      "link": "https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/",
+      "title": "Advice for crime analyst to break into data science",
+      "link": "https://andrewpwheeler.com/2025/11/21/advice-for-crime-analyst-to-break-into-data-science/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-22T13:36:02Z",
-      "id": "c6d82b56df7041f3882cb19d01b4d224"
+      "published": "2025-11-22T16:53:06Z",
+      "id": "02fc4dcac38a25e9d75f92400ddb97d7"
     },
     {
-      "title": "The history of Indian science fiction",
-      "link": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
+      "title": "Migrating to Bazel symbolic macros",
+      "link": "https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-22T09:41:46Z",
-      "id": "6dd1f8ba8af07b0efdd8403ff0ffd76c"
+      "published": "2025-11-22T15:26:44Z",
+      "id": "6c40ff204e6266493bb419c7043789c0"
+    },
+    {
+      "title": "A million ways to die from a data race in Go",
+      "link": "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T14:33:57Z",
+      "id": "1fbecbf2725490a78810a22e8538d255"
     },
     {
       "title": "Using Antigravity for Statistical Physics in JavaScript",
@@ -210,6 +210,14 @@
       "id": "386b7792cce5e95414c187d372ec1b98"
     },
     {
+      "title": "How did the Windows 95 user interface code get to the Windows NT code base?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T16:23:50Z",
+      "id": "867ef20f44c0251b57b64b9bafa8123e"
+    },
+    {
       "title": "Inside Rust's std and parking_lot mutexes \u2013 who wins?",
       "link": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
       "source": "Hacker News",
@@ -232,14 +240,6 @@
       "category": "tech",
       "published": "2025-11-19T15:07:35Z",
       "id": "fc4888e0180c3e16e9cf721781c3a114"
-    },
-    {
-      "title": "Show HN: Hypercamera \u2013 a browser-based 4D camera simulator",
-      "link": "https://dugas.ch/4d_creatures/4d_camera.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-19T13:54:04Z",
-      "id": "f7c7e54726b0dba930430f5456c2afff"
     }
   ]
 }
