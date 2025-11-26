@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-26T08:33:08.787093Z",
+  "last_updated": "2025-11-26T09:28:17.678907Z",
   "items": [
+    {
+      "title": "Where do you draw the line between Python and a faster language?",
+      "link": "https://www.reddit.com/r/programming/comments/1p730ev/where_do_you_draw_the_line_between_python_and_a/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-26T08:59:39Z",
+      "id": "2e5c298433087dbfddab9f1db886e151"
+    },
+    {
+      "title": "devs who\u2019ve tested a bunch of AI tools, what actually reduced your workload instead of increasing it?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p72qdy/devs_whove_tested_a_bunch_of_ai_tools_what/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-26T08:40:33Z",
+      "id": "9115d3e56ba80f894ed9853ba0ef0dc4"
+    },
+    {
+      "title": "Statistical Process Control in Python",
+      "link": "https://timothyfraser.com/sigma/statistical-process-control-in-python.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-26T08:40:29Z",
+      "id": "40de57f15fc3606e8038833d930b30e5"
+    },
     {
       "title": "Generalizing the Shunting Yard Algorithm Part 2",
       "link": "https://www.reddit.com/r/programming/comments/1p72hjq/generalizing_the_shunting_yard_algorithm_part_2/",
@@ -8,14 +32,6 @@
       "category": "tech",
       "published": "2025-11-26T08:24:13Z",
       "id": "2360afa90eb21a6445e5e74238a65d21"
-    },
-    {
-      "title": "AWS is 10x slower than a dedicated server for the same price [video]",
-      "link": "https://www.youtube.com/watch?v=Ps3AI1kTIR4",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-26T08:18:45Z",
-      "id": "ccfa3bfb7c408231bd2c3d899f1e5d7e"
     },
     {
       "title": "Could C++ Developers Handle an ABI Break Today? - Luis Caro Campos - CppCon 2025",
@@ -146,14 +162,6 @@
       "id": "66cf4ec8ca29cb0e5e021828839ff778"
     },
     {
-      "title": "Does new manager usually mean existing ICs will be managed out?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p6xfkc/does_new_manager_usually_mean_existing_ics_will/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-26T03:39:07Z",
-      "id": "4e2c271c76c3427897a4dbd6bf70d887"
-    },
-    {
       "title": "How do you vet the legitimacy of a startup's business/product in a domain you're not familiar with?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p6wmbx/how_do_you_vet_the_legitimacy_of_a_startups/",
       "source": "r/ExperiencedDevs",
@@ -212,7 +220,7 @@
     {
       "title": "[Pelissero] The Broncos are signing Luke Wattenberg to a four-year, $48 million extension, including $27M guaranteed, per source.",
       "link": "https://www.reddit.com/r/nfl/comments/1p6v3t6/pelissero_the_broncos_are_signing_luke_wattenberg/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-26T01:46:42Z",
       "id": "a12d5d8d58579a8f1a9b466a1484e133"
@@ -268,7 +276,7 @@
     {
       "title": "[Highlight] Drake Maye and his wife, Ann Michael, help carry donated Thanksgiving food and goods to the cars of families in need in Boston",
       "link": "https://www.reddit.com/r/nfl/comments/1p6soeh/highlight_drake_maye_and_his_wife_ann_michael/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T23:55:54Z",
       "id": "d7f984a59fc49e6fbbba520e29083f0f"
@@ -284,7 +292,7 @@
     {
       "title": "Disaster Class: Pete Carroll and the Raiders",
       "link": "https://www.reddit.com/r/nfl/comments/1p6r78z/disaster_class_pete_carroll_and_the_raiders/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T22:52:32Z",
       "id": "020a7f33793322fe83e1e0d1e7d4ec5d"
@@ -300,7 +308,7 @@
     {
       "title": "Cowboys' Lamb on rash of dropped passes: 'I got to handle that'",
       "link": "https://www.reddit.com/r/nfl/comments/1p6qyc8/cowboys_lamb_on_rash_of_dropped_passes_i_got_to/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T22:42:10Z",
       "id": "c3e399b82c00f0945ffbd5e9cb3f017c"
@@ -348,7 +356,7 @@
     {
       "title": "Less than one year removed from having Achilles Tendinitis in both Achilles and a PCL sprain. Christian McCaffrey's 294 scrimmage touches this season are most for any player in the first 12 games since he had 310 for Panthers in 2019.",
       "link": "https://www.reddit.com/r/nfl/comments/1p6q44f/less_than_one_year_removed_from_having_achilles/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T22:08:32Z",
       "id": "7f036d49511991fc6d624d8f654aca66"
@@ -380,7 +388,7 @@
     {
       "title": "[Schefter] Panthers signed veteran linebacker and former Clemson standout Isaiah Simmons.",
       "link": "https://www.reddit.com/r/nfl/comments/1p6pd55/schefter_panthers_signed_veteran_linebacker_and/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T21:39:10Z",
       "id": "8c0c5de25d481c9d3b03d78136b52a54"
@@ -388,7 +396,7 @@
     {
       "title": "Bills signed WR Brandin Cooks.",
       "link": "https://www.reddit.com/r/nfl/comments/1p6oxgi/bills_signed_wr_brandin_cooks/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T21:22:03Z",
       "id": "bc24703b5e571f63acd86000b6443f1c"
@@ -404,7 +412,7 @@
     {
       "title": "[Highlight] Joe Burrow on playing on Thanksgiving: \u201cYou grow up going through Thanksgiving \u2014 you have your meals, and you sit on the couch ... watch the Lions vs. somebody, watch Matthew Stafford throw 300\u2013400 yards with Calvin Johnson, and probably lose the game.\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1p6oivi/highlight_joe_burrow_on_playing_on_thanksgiving/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T21:06:38Z",
       "id": "d5ab0c4ea4f6833571f7b5674a0f95c2"
@@ -412,7 +420,7 @@
     {
       "title": "Official r/NFL Week 12 Power Rankings",
       "link": "https://www.reddit.com/r/nfl/comments/1p6of6l/official_rnfl_week_12_power_rankings/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T21:02:43Z",
       "id": "6477240d0816ed9b147bd53de4a8aab8"
@@ -436,7 +444,7 @@
     {
       "title": "[Walder] Despite leading Week 12 in yards per attempt (10.4) thus far, Shedeur Sanders recorded the lowest QBR (8.7).",
       "link": "https://www.reddit.com/r/nfl/comments/1p6nwer/walder_despite_leading_week_12_in_yards_per/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T20:43:22Z",
       "id": "6411bd53b58e5de301e463a87395388a"
@@ -444,7 +452,7 @@
     {
       "title": "[Schefter] Source: Carolina Panthers safety Tre\u2019von Moehrig is appealing his one game suspension.",
       "link": "https://www.reddit.com/r/nfl/comments/1p6ntxn/schefter_source_carolina_panthers_safety_trevon/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T20:40:49Z",
       "id": "84814a7dc13aceb615fc5af4ae204d3e"
@@ -452,7 +460,7 @@
     {
       "title": "[Rapoport] #Panthers safety Tre\u2019von Moehrig has been suspended without pay for one game for an act of unsportsmanlike conduct during Monday\u2019s game against the #49ers.",
       "link": "https://www.reddit.com/r/nfl/comments/1p6nm7n/rapoport_panthers_safety_trevon_moehrig_has_been/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T20:32:38Z",
       "id": "077e8fff98d9b099e3cc006843676c58"
@@ -522,14 +530,6 @@
       "id": "4e499ef8b30ad02d79323630bf308ee7"
     },
     {
-      "title": "VGG19 Transfer Learning Explained for Beginners",
-      "link": "https://www.reddit.com/r/programming/comments/1p6lhiz/vgg19_transfer_learning_explained_for_beginners/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-25T19:13:01Z",
-      "id": "87c261a4c1f7746af5956cecd68f7b60"
-    },
-    {
       "title": "UC Seating - 200 level corner or sideline 300?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1p6l6ch/uc_seating_200_level_corner_or_sideline_300/",
       "source": "r/chicagobulls",
@@ -556,7 +556,7 @@
     {
       "title": "[Highlight] Steelers HC Mike Tomlin was asked a detailed formation question about being in a Cover 3 defense against Four Verts on Sunday: \"I'm not going to peel back the layers of how we function from a schematic standpoint, although I am impressed by the depths of your question.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1p6kkxx/highlight_steelers_hc_mike_tomlin_was_asked_a/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T18:40:35Z",
       "id": "9625293de41252d92adbdb288236d620"
@@ -644,7 +644,7 @@
     {
       "title": "[Highlight] Jayden Daniels on returning after his elbow dislocation: \u201cIf I\u2019m healthy and ready to go I want to be out there.\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1p6inzz/highlight_jayden_daniels_on_returning_after_his/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T17:30:57Z",
       "id": "d1d57c5f99efbf10f4cc2eb7e5845e26"
@@ -652,7 +652,7 @@
     {
       "title": "Chase Brown on Joe Burrow's return: \"Everybody is making it seem like it's going to be like this big 'Dark Knight Rises' return or something like that. It could be.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1p6ilpc/chase_brown_on_joe_burrows_return_everybody_is/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T17:28:35Z",
       "id": "7ddccd00f5976db144a5cb63ba9a3c25"
@@ -716,7 +716,7 @@
     {
       "title": "[Highlight] Christian McCaffrey was asked if he had anything to say to Brock Purdy after his third pick: \"No, I don't say anything to him... If I make a mistake and someone says 'catch the ball' it makes me wanna knock 'em out.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1p6hqwx/highlight_christian_mccaffrey_was_asked_if_he_had/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T16:57:22Z",
       "id": "986898553abfcbfd8189460ef76ef4c5"
@@ -732,7 +732,7 @@
     {
       "title": "[Rapoport] We have waited long enough...QB Joe Burrow is officially back for the Cincinnati Bengals.",
       "link": "https://www.reddit.com/r/nfl/comments/1p6gsu2/rapoport_we_have_waited_long_enoughqb_joe_burrow/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T16:22:12Z",
       "id": "8e70be6169375b2d63971d9ec997cf4b"
@@ -740,7 +740,7 @@
     {
       "title": "[Rapoport] On Nov. 4, the Cowboys traded for DT Quinnen Williams and LB Logan Wilson. After the bye, LB DeMarvion Overshown, CB Shavon Revel Jr., S Malik Hooker and S Donovan Wilson all returned following injuries. The improvement in the defense has been noticeable.",
       "link": "https://www.reddit.com/r/nfl/comments/1p6ghkh/rapoport_on_nov_4_the_cowboys_traded_for_dt/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T16:10:49Z",
       "id": "278a7df408256d097d07e198c3476e2c"
@@ -772,7 +772,7 @@
     {
       "title": "[Mic'd Up] Players around the league are impressed by Jameis Winston",
       "link": "https://www.reddit.com/r/nfl/comments/1p6fdwp/micd_up_players_around_the_league_are_impressed/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T15:29:45Z",
       "id": "d7c78b2b97b00abaaafc0180ca8b83cd"
@@ -788,7 +788,7 @@
     {
       "title": "Talko Tuesday",
       "link": "https://www.reddit.com/r/nfl/comments/1p6emoq/talko_tuesday/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T15:00:40Z",
       "id": "b31849c63a5a729ef30c1ac8d5c2255d"
@@ -812,7 +812,7 @@
     {
       "title": "Drew Brees, Philip Rivers, Larry Fitzgerald lead Pro Football Hall of Fame modern era semifinalists",
       "link": "https://www.reddit.com/r/nfl/comments/1p6ddy2/drew_brees_philip_rivers_larry_fitzgerald_lead/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T14:10:05Z",
       "id": "5581135e5291b10d9aa5b08a893c963f"
@@ -828,7 +828,7 @@
     {
       "title": "[Athletic] Nick Sirianni says Eagles won\u2019t change offense\u2019s play-calling duties despite struggles",
       "link": "https://www.reddit.com/r/nfl/comments/1p6dai9/athletic_nick_sirianni_says_eagles_wont_change/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T14:05:59Z",
       "id": "d0f6f1874085498e01f50be6d64741c2"
@@ -836,7 +836,7 @@
     {
       "title": "After 12 weeks, every team in the NFC South has a negative point differential. Every other division has at least 2 teams with a positive point differential",
       "link": "https://www.reddit.com/r/nfl/comments/1p6c508/after_12_weeks_every_team_in_the_nfc_south_has_a/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T13:15:21Z",
       "id": "4d29cc0fb59f6b7ccc981ba190d6f739"
@@ -956,7 +956,7 @@
     {
       "title": "[Highlight] Tre'von Moehrig punches Jauan Jennings in the balls during the 3rd to last play and Jennings goes after him post game",
       "link": "https://www.reddit.com/r/nfl/comments/1p62z6z/highlight_trevon_moehrig_punches_jauan_jennings/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T04:17:21Z",
       "id": "af00c6bcd62f7095a49892fb149a57a9"
@@ -1020,7 +1020,7 @@
     {
       "title": "[Highlight] Panthers DE Tershawn Wharton diving effort to get off field",
       "link": "https://www.reddit.com/r/nfl/comments/1p5zfq8/highlight_panthers_de_tershawn_wharton_diving/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T01:26:29Z",
       "id": "2b1f4aa4fa1debe2afc7961f6b526439"
@@ -1114,14 +1114,6 @@
       "id": "7db7fb285ba25d35d381b798f5273be7"
     },
     {
-      "title": "Practical Security in Production",
-      "link": "https://queue.acm.org/detail.cfm?id=3773097",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T01:47:33Z",
-      "id": "00c8ea36ac04e183022fe1edf80bd953"
-    },
-    {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p523h6/ask_experienced_devs_weekly_thread_a_weekly/",
       "source": "r/ExperiencedDevs",
@@ -1192,6 +1184,14 @@
       "category": "sports",
       "published": "2025-11-23T03:22:31Z",
       "id": "6fc98793c7c1cde072e1ac8249efb7f0"
+    },
+    {
+      "title": "Pitch Multiplication (2017)",
+      "link": "https://klangnewmusic.weebly.com/direct-sound/pitch-multiplication",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-22T21:19:35Z",
+      "id": "cd2602af8da634d0440e1959da9bfd5a"
     },
     {
       "title": "How to repurpose your old phone into a web server",
