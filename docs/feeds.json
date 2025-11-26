@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-11-26T07:23:06.830389Z",
+  "last_updated": "2025-11-26T08:33:08.787093Z",
   "items": [
+    {
+      "title": "Generalizing the Shunting Yard Algorithm Part 2",
+      "link": "https://www.reddit.com/r/programming/comments/1p72hjq/generalizing_the_shunting_yard_algorithm_part_2/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-26T08:24:13Z",
+      "id": "2360afa90eb21a6445e5e74238a65d21"
+    },
+    {
+      "title": "AWS is 10x slower than a dedicated server for the same price [video]",
+      "link": "https://www.youtube.com/watch?v=Ps3AI1kTIR4",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-26T08:18:45Z",
+      "id": "ccfa3bfb7c408231bd2c3d899f1e5d7e"
+    },
+    {
+      "title": "Could C++ Developers Handle an ABI Break Today? - Luis Caro Campos - CppCon 2025",
+      "link": "https://www.reddit.com/r/programming/comments/1p71pfx/could_c_developers_handle_an_abi_break_today_luis/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-26T07:35:19Z",
+      "id": "092ce24c64087779edbcb103229c6afa"
+    },
+    {
+      "title": "The Evolution of std::optional - From Boost to C++26 - Steve Downey - CppCon 2025",
+      "link": "https://www.reddit.com/r/programming/comments/1p71oz6/the_evolution_of_stdoptional_from_boost_to_c26/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-26T07:34:31Z",
+      "id": "667b84a6a6e89d41e92a4a02b97860b4"
+    },
+    {
+      "title": "Concept-based Generic Programming - Bjarne Stroustrup - CppCon 2025",
+      "link": "https://www.reddit.com/r/programming/comments/1p71o1g/conceptbased_generic_programming_bjarne/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-26T07:32:50Z",
+      "id": "308da6f5cfb646b141024a0350bc2598"
+    },
+    {
+      "title": "Leverage when not easily replaceable",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p71m4o/leverage_when_not_easily_replaceable/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-26T07:29:41Z",
+      "id": "3dd9f4535d9af753f444ecdd5895847c"
+    },
     {
       "title": "Agentic AI: The Hidden Engineering Traps in Building Autonomous Workflows",
       "link": "https://www.reddit.com/r/programming/comments/1p70pol/agentic_ai_the_hidden_engineering_traps_in/",
@@ -16,14 +64,6 @@
       "category": "tech",
       "published": "2025-11-26T06:30:35Z",
       "id": "64a21d2311369fe17f246052ca1a7efc"
-    },
-    {
-      "title": "ICE Arrests the Press",
-      "link": "https://petapixel.com/2025/11/24/photojournalist-arrested-covering-ice-protest-as-authorities-impound-his-camera-gear/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-26T06:27:41Z",
-      "id": "7ec4b5bd70f41c2646ee6ad8da9b71f5"
     },
     {
       "title": "Launching Open Source Voice AI",
@@ -64,14 +104,6 @@
       "category": "sports",
       "published": "2025-11-26T05:31:01Z",
       "id": "253d73306b2d946cbe867176c0bfe91d"
-    },
-    {
-      "title": "What are the best AI workflow builders? Tested 6 platforms, here's my honest take",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p6z64s/what_are_the_best_ai_workflow_builders_tested_6/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-26T05:08:59Z",
-      "id": "9512fc66e24ea8cdc980d4da9f7ee984"
     },
     {
       "title": "How a Legacy Data Model Dependency Nearly Derailed a Critical Project",
@@ -168,14 +200,6 @@
       "category": "tech",
       "published": "2025-11-26T02:30:23Z",
       "id": "db1e221b07bc206fcf081ad5bc348489"
-    },
-    {
-      "title": "Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery",
-      "link": "https://wordpress.org/plugins/bandwidth-saver/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-26T02:05:36Z",
-      "id": "2b1e431e8db052bc64b98e344248d7a7"
     },
     {
       "title": "BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)",
@@ -282,6 +306,14 @@
       "id": "c3e399b82c00f0945ffbd5e9cb3f017c"
     },
     {
+      "title": "Notes on the Troubleshooting and Repair of Computer and Video Monitors",
+      "link": "https://www.repairfaq.org/sam/monfaq.htm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-25T22:40:52Z",
+      "id": "0909dcef72c67b408bf307882b94044d"
+    },
+    {
       "title": "Reinventing how .NET builds and ships (again)",
       "link": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
       "source": "Hacker News",
@@ -344,14 +376,6 @@
       "category": "tech",
       "published": "2025-11-25T22:00:04Z",
       "id": "c6000dfdce21fc6fefa56abb632e1b34"
-    },
-    {
-      "title": "Generalizing the Shunting Yard Algorithm Part 3",
-      "link": "https://www.reddit.com/r/programming/comments/1p6pp16/generalizing_the_shunting_yard_algorithm_part_3/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-25T21:52:20Z",
-      "id": "203ae61c5f206b14bd0237979cbd0f17"
     },
     {
       "title": "[Schefter] Panthers signed veteran linebacker and former Clemson standout Isaiah Simmons.",
@@ -520,14 +544,6 @@
       "category": "sports",
       "published": "2025-11-25T18:56:59Z",
       "id": "0bdb2b6738b0c24ff93c74025580b302"
-    },
-    {
-      "title": "System Design Interview: Design Twitter/X Timeline - A Frontend Deep Dive",
-      "link": "https://www.reddit.com/r/programming/comments/1p6kt64/system_design_interview_design_twitterx_timeline/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-25T18:48:59Z",
-      "id": "b763793194233ab2274f852cecb7e027"
     },
     {
       "title": "Video from the Bears TikTok account, I couldn\u2019t resist editing it",
@@ -1026,14 +1042,6 @@
       "id": "7e1e3f89f8a36c21a75c205cefdf04d4"
     },
     {
-      "title": "Misunderstanding that \u201cDependency\u201d comic",
-      "link": "https://www.reddit.com/r/programming/comments/1p5u95a/misunderstanding_that_dependency_comic/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-24T21:47:37Z",
-      "id": "2319dd786e0e797f795e18308f25978e"
-    },
-    {
       "title": "Trade Rumors (and \"Ideas\") Persist",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1p5rvv6/trade_rumors_and_ideas_persist/",
       "source": "r/chicagobulls",
@@ -1098,20 +1106,20 @@
       "id": "a2132e82c47866581fc138e71cf3ebe6"
     },
     {
-      "title": "How many HTTP requests/second can a Single Machine handle?",
-      "link": "https://www.reddit.com/r/programming/comments/1p5gins/how_many_http_requestssecond_can_a_single_machine/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-24T13:04:18Z",
-      "id": "4aa278ef30b52df9a757c11aee5824b7"
-    },
-    {
       "title": "Big Nazty",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1p56g92/big_nazty/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2025-11-24T03:26:37Z",
       "id": "7db7fb285ba25d35d381b798f5273be7"
+    },
+    {
+      "title": "Practical Security in Production",
+      "link": "https://queue.acm.org/detail.cfm?id=3773097",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T01:47:33Z",
+      "id": "00c8ea36ac04e183022fe1edf80bd953"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
@@ -1200,14 +1208,6 @@
       "category": "tech",
       "published": "2025-11-22T17:44:12Z",
       "id": "d8617b1fd68468c65bd64bec3180b6a2"
-    },
-    {
-      "title": "First Air-Breathing Spacecraft",
-      "link": "https://rdw.com/newsroom/redwire-awarded-44-million-darpa-contract-to-advance-very-low-earth-orbit-mission/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-20T16:17:09Z",
-      "id": "a001081d160e8570947ed95223ad68cf"
     },
     {
       "title": "Marble Springs (1993)",
