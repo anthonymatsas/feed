@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-26T12:52:28.779199Z",
+  "last_updated": "2025-11-26T13:37:23.531166Z",
   "items": [
+    {
+      "title": "A junior developer's confusion",
+      "link": "https://www.reddit.com/r/programming/comments/1p77ni5/a_junior_developers_confusion/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-26T13:24:51Z",
+      "id": "01ac4b962e3a51014d937cc9498bbba2"
+    },
+    {
+      "title": "A practical cheat sheet for debugging slow Java and Spring Boot apps",
+      "link": "https://www.reddit.com/r/programming/comments/1p77i9c/a_practical_cheat_sheet_for_debugging_slow_java/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-26T13:18:02Z",
+      "id": "8b6da08439b2364a063c4c6566463473"
+    },
+    {
+      "title": "Kagi Hub Belgrade",
+      "link": "https://blog.kagi.com/kagi-hub",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-26T12:28:30Z",
+      "id": "1bbba88886096075109dcdecf6e23a54"
+    },
     {
       "title": "Looking for Feedback on My PWA \u201cHillcard\u201d, How Can I Improve the Overall User Experience?",
       "link": "https://www.reddit.com/r/programming/comments/1p76eq3/looking_for_feedback_on_my_pwa_hillcard_how_can_i/",
@@ -34,14 +58,6 @@
       "id": "7a988c0597170f84857017ad77d491a0"
     },
     {
-      "title": "Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks",
-      "link": "https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-26T11:00:49Z",
-      "id": "dd754603411013352dee9c37bf2a51d9"
-    },
-    {
       "title": "friday bout to hit like \ud83d\udc94",
       "link": "https://www.reddit.com/r/CHIBears/comments/1p74m2y/friday_bout_to_hit_like/",
       "source": "r/CHIBears",
@@ -56,6 +72,14 @@
       "category": "tech",
       "published": "2025-11-26T10:28:05Z",
       "id": "f7f824ead8f014e3ad44a9742350fe52"
+    },
+    {
+      "title": "A Cell So Minimal That It Challenges Definitions of Life",
+      "link": "https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-26T10:06:41Z",
+      "id": "5b90d74c5e1affa4d8efb982e2d0099c"
     },
     {
       "title": "Any one try out googles anti gravity thing yet?",
@@ -144,14 +168,6 @@
       "category": "tech",
       "published": "2025-11-26T07:29:41Z",
       "id": "3dd9f4535d9af753f444ecdd5895847c"
-    },
-    {
-      "title": "Agentic AI: The Hidden Engineering Traps in Building Autonomous Workflows",
-      "link": "https://www.reddit.com/r/programming/comments/1p70pol/agentic_ai_the_hidden_engineering_traps_in/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-26T06:36:03Z",
-      "id": "8e321e2422e21d1260997bdfc7db94a8"
     },
     {
       "title": "How would you explain why database index making queries faster and how would you estimate how fast a certain index will be?",
@@ -530,14 +546,6 @@
       "id": "70a2e564b33b9337967996bf59225dad"
     },
     {
-      "title": "The Bughouse Effect",
-      "link": "https://tsvibt.blogspot.com/2025/11/the-bughouse-effect.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-25T19:43:42Z",
-      "id": "6ea1cf432ae5d51df471ba89684a0687"
-    },
-    {
       "title": "Bears-Eagles Alliance may not end just yet",
       "link": "https://www.reddit.com/r/CHIBears/comments/1p6m5ln/bearseagles_alliance_may_not_end_just_yet/",
       "source": "r/CHIBears",
@@ -722,6 +730,14 @@
       "id": "aa8f623efbf25191da2d8f483549a2fb"
     },
     {
+      "title": "Unifying our mobile and desktop domains",
+      "link": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-25T17:07:06Z",
+      "id": "a1beb10a85787a674bfb76bb4ae62ecc"
+    },
+    {
       "title": "How NimbleParsec Works And Why I Would Choose It Again!",
       "link": "https://www.reddit.com/r/programming/comments/1p6hw26/how_nimbleparsec_works_and_why_i_would_choose_it/",
       "source": "r/programming",
@@ -880,14 +896,6 @@
       "category": "tech",
       "published": "2025-11-25T13:02:06Z",
       "id": "2550c24da873cac01d751906ce68b9c3"
-    },
-    {
-      "title": "Notes from building a B+Tree storage engine in .NET \u2014 design trade-offs and unexpected challenges",
-      "link": "https://www.reddit.com/r/programming/comments/1p6blny/notes_from_building_a_btree_storage_engine_in_net/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-25T12:49:25Z",
-      "id": "b986ec80282a799507b9a0cdd95e29d9"
     },
     {
       "title": "Trillions spent and big software projects are still failing",
@@ -1106,14 +1114,6 @@
       "id": "7db7fb285ba25d35d381b798f5273be7"
     },
     {
-      "title": "Practical Security in Production",
-      "link": "https://queue.acm.org/detail.cfm?id=3773097",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-24T01:47:33Z",
-      "id": "00c8ea36ac04e183022fe1edf80bd953"
-    },
-    {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p523h6/ask_experienced_devs_weekly_thread_a_weekly/",
       "source": "r/ExperiencedDevs",
@@ -1186,14 +1186,6 @@
       "id": "6fc98793c7c1cde072e1ac8249efb7f0"
     },
     {
-      "title": "Pitch Multiplication (2017)",
-      "link": "https://klangnewmusic.weebly.com/direct-sound/pitch-multiplication",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-22T21:19:35Z",
-      "id": "cd2602af8da634d0440e1959da9bfd5a"
-    },
-    {
       "title": "How to repurpose your old phone into a web server",
       "link": "https://far.computer/how-to/",
       "source": "Hacker News",
@@ -1216,6 +1208,14 @@
       "category": "tech",
       "published": "2025-11-21T16:55:14Z",
       "id": "097796ac6ba8edce9ce183fa87bfe0d2"
+    },
+    {
+      "title": "Is DWPD Still a Useful SSD Spec?",
+      "link": "https://klarasystems.com/articles/is-dwpd-still-useful-ssd-spec/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-21T15:47:20Z",
+      "id": "b1ab167192f36683222c32a02a08b059"
     },
     {
       "title": "Secret Ditka 2025 [13th Ed.] Share What You Got Thread",
