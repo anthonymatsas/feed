@@ -1,6 +1,46 @@
 {
-  "last_updated": "2025-11-27T11:21:33.004581Z",
+  "last_updated": "2025-11-27T12:51:24.874994Z",
   "items": [
+    {
+      "title": "Building a Kafka library. Looking for opinions or testers",
+      "link": "https://www.reddit.com/r/programming/comments/1p812i7/building_a_kafka_library_looking_for_opinions_or/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-27T12:31:37Z",
+      "id": "39c7f450a77ac04fae2f47ba02b09845"
+    },
+    {
+      "title": "How websockets work in 10mins",
+      "link": "https://www.reddit.com/r/programming/comments/1p8126a/how_websockets_work_in_10mins/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-27T12:31:11Z",
+      "id": "691e538cc77b81ad9aed0389733c96dd"
+    },
+    {
+      "title": "What are signs that you work in a bad company?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p80zc6/what_are_signs_that_you_work_in_a_bad_company/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-27T12:27:17Z",
+      "id": "c1b8e15f97550b032f8368a11f1a4c3d"
+    },
+    {
+      "title": "Docker Superpowers You Forget to Use",
+      "link": "https://oneuptime.com/blog/post/2025-11-27-ten-docker-superpowers-youre-probably-not-using/view",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-27T12:06:36Z",
+      "id": "ccccbbf4ee99cb5d66af0d142c881855"
+    },
+    {
+      "title": "[Highlight] Trent Williams on facing Myles Garrett: 'I haven't lost any sleep yet, not sure I will. Actually, that's a lie. I will.'",
+      "link": "https://www.reddit.com/r/nfl/comments/1p7zmaz/highlight_trent_williams_on_facing_myles_garrett/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-11-27T11:08:36Z",
+      "id": "f1dcf9498f2eca00330db6e95f855e86"
+    },
     {
       "title": "How Arthur Conan Doyle Explored Men's Mental Health Through Sherlock Holmes",
       "link": "https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/",
@@ -136,22 +176,6 @@
       "category": "tech",
       "published": "2025-11-27T07:07:19Z",
       "id": "f7906a46183a60c3f412edab112f7a30"
-    },
-    {
-      "title": "Where do I even start with programming?",
-      "link": "https://www.reddit.com/r/programming/comments/1p7vlar/where_do_i_even_start_with_programming/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-27T06:56:07Z",
-      "id": "e1116d9c2a4bca9875babf062c0afd20"
-    },
-    {
-      "title": "The Nerd Reich \u2013 Silicon Valley Fascism and the War on Democracy",
-      "link": "https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-27T06:53:17Z",
-      "id": "37c39f9dfb2b3d008c65d8a7e26c37bb"
     },
     {
       "title": "I wrote a guide on Angular Signal Forms \u2014 feedback appreciated \ud83d\udd34 Angular Signal Forms: The Game-Changing Upgrade Developers Have Been Waiting For",
@@ -354,14 +378,6 @@
       "id": "a0aa60f4c6859db1ab594b6efb465cb7"
     },
     {
-      "title": "Bonsai_term: A library for building dynamic terminal apps by Jane Street",
-      "link": "https://github.com/janestreet/bonsai_term",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-27T01:20:33Z",
-      "id": "7e723ddc848830e974060ef21c200db0"
-    },
-    {
       "title": "A look back 10 months ago before Ben Johnson was hired by the Bears, and even before he was confirmed leaving the Lions",
       "link": "https://www.reddit.com/r/CHIBears/comments/1p7p988/a_look_back_10_months_ago_before_ben_johnson_was/",
       "source": "r/CHIBears",
@@ -506,14 +522,6 @@
       "id": "b15a9812686077d34a453380eafeeff4"
     },
     {
-      "title": "[Schefter] Compensation update: Broncos kicker Will Lutz signed a three-year, $16.1 million extension that includes $9 million guaranteed and a $5.2 million signing bonus. The extension will pay Lutz an average of $5.3667 million per year. Lutz now becomes one of the NFL\u2019s highest-paid kickers.",
-      "link": "https://www.reddit.com/r/nfl/comments/1p7k5cq/schefter_compensation_update_broncos_kicker_will/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-11-26T21:31:31Z",
-      "id": "4a2b19b86093f84682218510ffb255e8"
-    },
-    {
       "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
       "link": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
       "source": "Hacker News",
@@ -568,14 +576,6 @@
       "category": "tech",
       "published": "2025-11-26T20:30:03Z",
       "id": "850df90c283ff91d679886c02a1d42fe"
-    },
-    {
-      "title": "Terraform: Best Practices and Cheat Sheet for the Basics",
-      "link": "https://www.reddit.com/r/programming/comments/1p7iboa/terraform_best_practices_and_cheat_sheet_for_the/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-26T20:19:27Z",
-      "id": "8ecd153706a2bb39560d2f4f29aac649"
     },
     {
       "title": "Chicago Bears Week 13 Black Friday Doodle :)",
@@ -970,14 +970,6 @@
       "id": "4afd580857b51121e2da38483d79f136"
     },
     {
-      "title": "Is asking for feedback after a job rejection because of very clearly failing an interview viewed negatively?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p6izf8/is_asking_for_feedback_after_a_job_rejection/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-25T17:42:39Z",
-      "id": "d90a11b1b63b3146f1692683bea167ea"
-    },
-    {
       "title": "How to avoid setting myself up for long-term failure?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p6iqwk/how_to_avoid_setting_myself_up_for_longterm/",
       "source": "r/ExperiencedDevs",
@@ -1160,6 +1152,14 @@
       "category": "sports",
       "published": "2025-11-24T14:02:09Z",
       "id": "a2132e82c47866581fc138e71cf3ebe6"
+    },
+    {
+      "title": "Technical Deflation",
+      "link": "https://benanderson.work/blog/technical-deflation/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T12:39:10Z",
+      "id": "363530a469d1352edef394a1d0865257"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
