@@ -1,13 +1,48 @@
 {
-  "last_updated": "2025-11-28T16:29:58.899759Z",
+  "last_updated": "2025-11-28T17:00:03.008243Z",
   "items": [
+    {
+      "title": "Deploy TheIdServer to Render",
+      "link": "https://www.reddit.com/r/programming/comments/1p8zpyc/deploy_theidserver_to_render/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-28T16:51:26Z",
+      "id": "4a65c8ac04fde196353e4f88afa1360e"
+    },
+    {
+      "title": "True P2P Email on Top of Yggdrasil Network",
+      "link": "https://github.com/JB-SelfCompany/Tyr",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-28T16:35:24Z",
+      "id": "781e4d54a08ee600f314beda19a4e7db",
+      "comments": "https://news.ycombinator.com/item?id=46080143"
+    },
+    {
+      "title": "Caleb Williams featured on Dudes on Dudes",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1p8z5rg/caleb_williams_featured_on_dudes_on_dudes/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-28T16:29:11Z",
+      "id": "8c37ea89d9d36c7c071ae30ec4e16e33"
+    },
     {
       "title": "AI Adoption Rates Starting to Flatten Out",
       "link": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T16:21:09Z",
-      "id": "317872b5b2f547bffd938dde4e1d0cd3"
+      "id": "317872b5b2f547bffd938dde4e1d0cd3",
+      "comments": "https://news.ycombinator.com/item?id=46079987"
+    },
+    {
+      "title": "Artificial Computation",
+      "link": "https://cultureandcommunication.org/galloway/artificial-computation",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-28T16:20:26Z",
+      "id": "8bff983b4962c7e3cc3f01b57f6e1547",
+      "comments": "https://news.ycombinator.com/item?id=46079975"
     },
     {
       "title": "Meta hiding $27B in debt using advanced geometry",
@@ -15,7 +50,17 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T16:09:50Z",
-      "id": "306f6c8c791aa06063ab6884a43ae7b2"
+      "id": "306f6c8c791aa06063ab6884a43ae7b2",
+      "comments": "https://news.ycombinator.com/item?id=46079868"
+    },
+    {
+      "title": "The Signal Is the Noise",
+      "link": "https://www.magazine.dirt.fyi/p/the-signal-is-the-noise",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-28T16:09:06Z",
+      "id": "a3227e87a11e18359f3c1f45ddae689d",
+      "comments": "https://news.ycombinator.com/item?id=46079860"
     },
     {
       "title": "Looking Back at a Pandemic Simulator",
@@ -23,15 +68,17 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T16:09:00Z",
-      "id": "719bc0c12707aa367ec8266a56f0f5e8"
+      "id": "719bc0c12707aa367ec8266a56f0f5e8",
+      "comments": "https://news.ycombinator.com/item?id=46079858"
     },
     {
-      "title": "Open-Source Nouveau+NVK vs. Nvidia 580 Linux Gaming&Compute Driver Performance",
-      "link": "https://www.phoronix.com/review/nvidia-nvk-linux-618-mesa-26",
+      "title": "Playtiles: The Pocket-Sized Gaming Platform",
+      "link": "https://get.playtil.es",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-28T16:05:07Z",
-      "id": "92aff2bb34242f7c3d9c2e7c39cbe43b"
+      "published": "2025-11-28T16:08:52Z",
+      "id": "0a08b93a3cca65cde44db9749caa5abd",
+      "comments": "https://news.ycombinator.com/item?id=46079857"
     },
     {
       "title": "Don't tug on that, you never know what it might be attached to",
@@ -39,7 +86,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T16:01:01Z",
-      "id": "7f444d7bd91709e6fe2de26fd0c70a3f"
+      "id": "7f444d7bd91709e6fe2de26fd0c70a3f",
+      "comments": "https://news.ycombinator.com/item?id=46079785"
     },
     {
       "title": "What is the best way to switch from web to systems development?",
@@ -55,7 +103,26 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T15:57:27Z",
-      "id": "931d40a290625bbaadc428c845f86cb8"
+      "id": "931d40a290625bbaadc428c845f86cb8",
+      "comments": "https://news.ycombinator.com/item?id=46079745"
+    },
+    {
+      "title": "Can Dutch universities do without Microsoft?",
+      "link": "https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-28T15:53:39Z",
+      "id": "10344613da8a8ca7bd0d906b93587375",
+      "comments": "https://news.ycombinator.com/item?id=46079721"
+    },
+    {
+      "title": "Generating 3D Meshes from Text",
+      "link": "https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-28T15:40:49Z",
+      "id": "a8acf79374588d6b39319e05c7679a38",
+      "comments": "https://news.ycombinator.com/item?id=46079567"
     },
     {
       "title": "Thinning layers",
@@ -76,7 +143,7 @@
     {
       "title": "Seahawks, Vikings both made Sam Darnold gambles. Now they\u2019re headed in opposite directions.",
       "link": "https://www.reddit.com/r/nfl/comments/1p8xpqw/seahawks_vikings_both_made_sam_darnold_gambles/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T15:31:54Z",
       "id": "91ba49eef45ec5c7c861d7bdb739f5df"
@@ -95,7 +162,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T15:27:49Z",
-      "id": "ddea7ddd2c4d95889376d2bbed100c20"
+      "id": "ddea7ddd2c4d95889376d2bbed100c20",
+      "comments": "https://news.ycombinator.com/item?id=46079460"
     },
     {
       "title": "Bears vs. Eagles = CJGJ, Byard, Swift and Edwards Revenge game, LFG!",
@@ -116,7 +184,7 @@
     {
       "title": "Friday Free Talk",
       "link": "https://www.reddit.com/r/nfl/comments/1p8wz1q/friday_free_talk/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T15:01:31Z",
       "id": "ddb7b10f5354142812d51bc6b97b6f7f"
@@ -132,7 +200,7 @@
     {
       "title": "\"You've got to win every game now -- and hope that's enough.\" QB Patrick Mahomes acknowledges Chiefs' tough road ahead",
       "link": "https://www.reddit.com/r/nfl/comments/1p8vsun/youve_got_to_win_every_game_now_and_hope_thats/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T14:11:58Z",
       "id": "ffa710acf765f98fcc4ef4f664fea673"
@@ -143,7 +211,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T14:08:14Z",
-      "id": "04ac5437c500c1f3321a779a0bbb1c68"
+      "id": "04ac5437c500c1f3321a779a0bbb1c68",
+      "comments": "https://news.ycombinator.com/item?id=46078770"
     },
     {
       "title": "How are you doing code reviews?",
@@ -152,6 +221,15 @@
       "category": "tech",
       "published": "2025-11-28T13:46:07Z",
       "id": "910efefb2632303ab44ca7745c286037"
+    },
+    {
+      "title": "Writing Builds Resilience in Everyday Challenges by Changing Your Brain",
+      "link": "https://scienceclock.com/writing-builds-resilience-in-everyday-challenges-by-changing-your-brain/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-28T13:43:17Z",
+      "id": "31b422d6e02b3c0323041985d674acda",
+      "comments": "https://news.ycombinator.com/item?id=46078566"
     },
     {
       "title": "[ESPN Chicago] ESPN Chicago is live with Bears pregame talk. LFG",
@@ -191,7 +269,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T12:41:32Z",
-      "id": "e77c5988f1ada64a180aafd6c6521c3c"
+      "id": "e77c5988f1ada64a180aafd6c6521c3c",
+      "comments": "https://news.ycombinator.com/item?id=46078138"
     },
     {
       "title": "Drone-ambient-noise synthesizer in Javascript: when instability is a feature, not a bug",
@@ -207,7 +286,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T12:17:15Z",
-      "id": "481ccd144ad74ce5e29fcfb3455c9ffc"
+      "id": "481ccd144ad74ce5e29fcfb3455c9ffc",
+      "comments": "https://news.ycombinator.com/item?id=46077992"
     },
     {
       "title": "A Tale of Four Fuzzers",
@@ -215,7 +295,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T12:11:39Z",
-      "id": "28968ce96470094e1bad3271eba65962"
+      "id": "28968ce96470094e1bad3271eba65962",
+      "comments": "https://news.ycombinator.com/item?id=46077964"
     },
     {
       "title": "Improving Zsh vi-mode ergonomics with inline man-page lookups (zsh-vi-man)",
@@ -224,14 +305,6 @@
       "category": "tech",
       "published": "2025-11-28T12:06:46Z",
       "id": "e18424fa1b5669bda80c4e3ccc5c2266"
-    },
-    {
-      "title": "Switzerland: Data Protection Officers Impose Broad Cloud Ban for Authorities",
-      "link": "https://www.heise.de/en/news/Switzerland-Data-Protection-Officers-Impose-Broad-Cloud-Ban-for-Authorities-11093477.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-28T12:00:35Z",
-      "id": "c1934fbfaa1ef5752deca9ea3717b085"
     },
     {
       "title": "Pointer pop quiz",
@@ -263,7 +336,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T10:36:08Z",
-      "id": "d93a51b0708d9ddf66868bde8865414d"
+      "id": "d93a51b0708d9ddf66868bde8865414d",
+      "comments": "https://news.ycombinator.com/item?id=46077393"
     },
     {
       "title": "It\u2019s crazy to think the core math behind modern AI hasn't changed much since 1959. Here is a breakdown.",
@@ -274,12 +348,22 @@
       "id": "02da2d2f3320aaa41a7e6663eb890b77"
     },
     {
+      "title": "The Math of Why You Can't Focus at Work",
+      "link": "https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-28T09:39:57Z",
+      "id": "cd19d12e89fbcb3b88c39ef170cdad45",
+      "comments": "https://news.ycombinator.com/item?id=46077136"
+    },
+    {
       "title": "A Repository with 44 Years of Unix Evolution",
       "link": "https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T09:32:38Z",
-      "id": "131b832499af99e96fc55811e880390a"
+      "id": "131b832499af99e96fc55811e880390a",
+      "comments": "https://news.ycombinator.com/item?id=46077106"
     },
     {
       "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
@@ -287,7 +371,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T09:21:55Z",
-      "id": "f40586ff54095b761865bd70adf97f93"
+      "id": "f40586ff54095b761865bd70adf97f93",
+      "comments": "https://news.ycombinator.com/item?id=46077038"
     },
     {
       "title": "So I am losing hope out here. 7yoe. Need some advice(experienced folks need your input).",
@@ -319,7 +404,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T08:15:50Z",
-      "id": "f02c3a2b07189fbb64c3f09c2c88057b"
+      "id": "f02c3a2b07189fbb64c3f09c2c88057b",
+      "comments": "https://news.ycombinator.com/item?id=46076642"
     },
     {
       "title": "Do you use mind maps in your coding practice?",
@@ -335,7 +421,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T05:52:38Z",
-      "id": "38542788cf2c826a34f8b9400094d13a"
+      "id": "38542788cf2c826a34f8b9400094d13a",
+      "comments": "https://news.ycombinator.com/item?id=46075882"
     },
     {
       "title": "Java Swing Flip Card UI | Fetch Data from MySQL Database (Part 2)",
@@ -348,23 +435,15 @@
     {
       "title": "[Highlight] Joe Burrow receives Thanksgiving MVP: \u201cIt\u2019s great to be back, certainly not an easy thing to go through but this makes everything worth it. Good to be back out with the guys.\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1p8mrbq/highlight_joe_burrow_receives_thanksgiving_mvp/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T05:25:20Z",
       "id": "d260b283ff74072f90bfd78ebc406965"
     },
     {
-      "title": "How to use Linux vsock for fast VM communication",
-      "link": "https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-28T05:19:45Z",
-      "id": "862aea278d2f5362cca5e1b8b96d61dd"
-    },
-    {
       "title": "[Highlight] Bengals long snapper Will Wagner having his taste buds ambushed by Maryland crab",
       "link": "https://www.reddit.com/r/nfl/comments/1p8mfnk/highlight_bengals_long_snapper_will_wagner_having/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T05:07:18Z",
       "id": "28103c7b1eccf2dae5da1de74244ab71"
@@ -388,7 +467,7 @@
     {
       "title": "[Highlight] Joseph Ossai digging into a turkey leg mid-interview",
       "link": "https://www.reddit.com/r/nfl/comments/1p8maqg/highlight_joseph_ossai_digging_into_a_turkey_leg/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T05:00:07Z",
       "id": "6511959a25075947833f869d58a05c33"
@@ -402,17 +481,9 @@
       "id": "c9d69b557eb7f2836a4530a9c8f01188"
     },
     {
-      "title": "Tiger Style: Coding philosophy (2024)",
-      "link": "https://tigerstyle.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-28T04:53:07Z",
-      "id": "dddfff8c59ea46b294ddd2f3bfeee478"
-    },
-    {
       "title": "[Highlight] Evan McPherson scores his SIXTH (yes, six) field goal of the night!",
       "link": "https://www.reddit.com/r/nfl/comments/1p8m607/highlight_evan_mcpherson_scores_his_sixth_yes_six/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T04:53:01Z",
       "id": "1a1dc51120dcaffbaea4ea48eaa61f10"
@@ -420,7 +491,7 @@
     {
       "title": "Ravens QB Lamar Jackson in his last three games: 0 TDs, 3 INTs, 2 fumbles lost, 8 sacks",
       "link": "https://www.reddit.com/r/nfl/comments/1p8m4fh/ravens_qb_lamar_jackson_in_his_last_three_games_0/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T04:50:32Z",
       "id": "52ecd15345e7bd4abf4711dd05d531a0"
@@ -436,7 +507,7 @@
     {
       "title": "[Highlight] Bengals force a 5th turnover",
       "link": "https://www.reddit.com/r/nfl/comments/1p8ltbg/highlight_bengals_force_a_5th_turnover/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T04:33:05Z",
       "id": "2ae4856ca19e46d9d37bda486484cef8"
@@ -444,7 +515,7 @@
     {
       "title": "[Highlight] Joe Burrow audibly milks the clock",
       "link": "https://www.reddit.com/r/nfl/comments/1p8logq/highlight_joe_burrow_audibly_milks_the_clock/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T04:25:48Z",
       "id": "1060dec452e00a72acb03005c555b2a1"
@@ -452,7 +523,7 @@
     {
       "title": "[Highlight] Brian Schottenheimer's locker room speech after Thanksgiving win",
       "link": "https://www.reddit.com/r/nfl/comments/1p8lm44/highlight_brian_schottenheimers_locker_room/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T04:22:16Z",
       "id": "9d33287d71aac37a0d9bab235f5a31d3"
@@ -476,7 +547,7 @@
     {
       "title": "[Highlight] Lamar is picked by Demetrius Knight Jr. for a 4th Baltimore turnover",
       "link": "https://www.reddit.com/r/nfl/comments/1p8l6zr/highlight_lamar_is_picked_by_demetrius_knight_jr/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T03:59:25Z",
       "id": "449f23ea551101feb041ac827fa233b1"
@@ -495,7 +566,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-28T03:45:04Z",
-      "id": "3a50104dfa6271dd177bef59c4339c93"
+      "id": "3a50104dfa6271dd177bef59c4339c93",
+      "comments": "https://news.ycombinator.com/item?id=46075320"
     },
     {
       "title": "1991 | A Comedy Salute to Michael Jordan | Original Full Broadcast | KGW 8 Portland, OR",
@@ -532,7 +604,7 @@
     {
       "title": "[Highlight] Isaiah Likely loses control of ball before crossing goal line for touchback",
       "link": "https://www.reddit.com/r/nfl/comments/1p8jdrz/highlight_isaiah_likely_loses_control_of_ball/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T02:21:46Z",
       "id": "03431adb29cc1760870e55d6d72fd66d"
@@ -572,7 +644,7 @@
     {
       "title": "[Highlight] Jake Ferguson feeds his teammates turkey before absconding with the bird",
       "link": "https://www.reddit.com/r/nfl/comments/1p8iia9/highlight_jake_ferguson_feeds_his_teammates/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T01:36:43Z",
       "id": "72428eda3b33dfa55c3cb1e536f83623"
@@ -580,7 +652,7 @@
     {
       "title": "[Highlight] Joe Burrow gives perspective in his return to a team that is 3-8",
       "link": "https://www.reddit.com/r/nfl/comments/1p8ieiz/highlight_joe_burrow_gives_perspective_in_his/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T01:31:09Z",
       "id": "624b1dc5a3a1b12a3f6861fc5e2192e9"
@@ -596,7 +668,7 @@
     {
       "title": "The Cowboys have beaten both teams in Superbowl LIX in a span of four days",
       "link": "https://www.reddit.com/r/nfl/comments/1p8hygs/the_cowboys_have_beaten_both_teams_in_superbowl/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T01:07:51Z",
       "id": "7181bc3518f1803ba1d681166c586e15"
@@ -604,7 +676,7 @@
     {
       "title": "Post Game Thread: Kansas City Chiefs at Dallas Cowboys",
       "link": "https://www.reddit.com/r/nfl/comments/1p8htgp/post_game_thread_kansas_city_chiefs_at_dallas/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T01:00:44Z",
       "id": "628846096778b8b5d8d3c8527eb33b79"
@@ -612,7 +684,7 @@
     {
       "title": "[Highlight] Mahomes stays on his feet and completes the pass down the field to Worthy",
       "link": "https://www.reddit.com/r/nfl/comments/1p8hhwc/highlight_mahomes_stays_on_his_feet_and_completes/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T00:43:41Z",
       "id": "d0c6bf444078991dca847c79bb05332a"
@@ -636,7 +708,7 @@
     {
       "title": "[Highlight] Dak Prescott Delivers in a Tight Window To George Pickens For 2PT Conversion!!!",
       "link": "https://www.reddit.com/r/nfl/comments/1p8h2xp/highlight_dak_prescott_delivers_in_a_tight_window/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T00:22:22Z",
       "id": "d1d379a6ae8c514158dc95a67b40b0bc"
@@ -644,18 +716,10 @@
     {
       "title": "[Highlight] George Pickens uses a spin move and hurdle to pick up a big gain",
       "link": "https://www.reddit.com/r/nfl/comments/1p8gz42/highlight_george_pickens_uses_a_spin_move_and/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T00:16:55Z",
       "id": "616b1525a24c698d3c9ed12161bac477"
-    },
-    {
-      "title": "How Charles M Schulz created Charlie Brown and Snoopy (2024)",
-      "link": "https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-28T00:10:38Z",
-      "id": "f933dbcda38c331f4e5e2f031c268a54"
     },
     {
       "title": "[FOX Sports: NFL] First place Bears fans full of turkey and on their couch watching their rivals go at it",
@@ -664,14 +728,6 @@
       "category": "sports",
       "published": "2025-11-27T23:43:43Z",
       "id": "12f501dda8ecfbcba9ea7e96780de26b"
-    },
-    {
-      "title": "Vsora Jotunn-8 5nm European inference chip",
-      "link": "https://vsora.com/products/jotunn-8/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-27T23:30:11Z",
-      "id": "ff8c5140ae47e6a54b3886fb429e4016"
     },
     {
       "title": "Email churn disaster",
@@ -716,7 +772,7 @@
     {
       "title": "[Highlight] Dontayvion Wicks makes the contested catch to seal the game",
       "link": "https://www.reddit.com/r/nfl/comments/1p8dal0/highlight_dontayvion_wicks_makes_the_contested/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T21:17:04Z",
       "id": "ebed8262c33c1c1443ad80c2bab5d64b"
@@ -724,23 +780,15 @@
     {
       "title": "Micah Parsons becomes first player in NFL history to tally 12 sacks in each of his first 5 seasons",
       "link": "https://www.reddit.com/r/nfl/comments/1p8czf9/micah_parsons_becomes_first_player_in_nfl_history/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T21:02:42Z",
       "id": "d7bb6615db5860932a277817405aee65"
     },
     {
-      "title": "Scaling culture in a scale-up",
-      "link": "https://www.reddit.com/r/programming/comments/1p8c219/scaling_culture_in_a_scaleup/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-27T20:20:44Z",
-      "id": "5e51921aaa6017a9e4f90d2b7ed9fd40"
-    },
-    {
       "title": "[Highlight] Jack White brings out Eminem for Halftime show",
       "link": "https://www.reddit.com/r/nfl/comments/1p8bb35/highlight_jack_white_brings_out_eminem_for/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T19:48:10Z",
       "id": "764e7e25d6d7de7e88ef2578bdacdc5a"
@@ -748,7 +796,7 @@
     {
       "title": "[Highlight] Matt LaFluer avoids the false start on 4th & 1 by calling timeout \"before\" the penalty",
       "link": "https://www.reddit.com/r/nfl/comments/1p8al69/highlight_matt_lafluer_avoids_the_false_start_on/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T19:17:37Z",
       "id": "67d8f065c5efb2d1da418bd11f705ff2"
@@ -810,14 +858,6 @@
       "id": "dbaecc74d34284cf374fa959228dace2"
     },
     {
-      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
-      "link": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-27T16:19:03Z",
-      "id": "743b41292d3100ca0af89828c753ab3b"
-    },
-    {
       "title": "[Rapoport] The #Bears are activating Pro Bowl CB Jaylon Johnson and starting DB Kyler Gordon from IR in advance of Friday\u2019s game vs. the #Eagles, sources say.",
       "link": "https://www.reddit.com/r/CHIBears/comments/1p861ij/rapoport_the_bears_are_activating_pro_bowl_cb/",
       "source": "r/CHIBears",
@@ -840,22 +880,6 @@
       "category": "tech",
       "published": "2025-11-27T15:52:38Z",
       "id": "d77fdaf5f41b0760bdd6760f78d98a34"
-    },
-    {
-      "title": "GitLab discovers widespread NPM supply chain attack",
-      "link": "https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-27T15:36:56Z",
-      "id": "c6a88f660168701fd9c27792ad1ac367"
-    },
-    {
-      "title": "As a Bears fan, what is the most favorable outcome of the Lions vs Packers today?",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1p84w3i/as_a_bears_fan_what_is_the_most_favorable_outcome/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-27T15:25:26Z",
-      "id": "80470c0b8accea36ff2c12a68838fa2c"
     },
     {
       "title": "Data Quality at Scale: Why Your Pipeline Needs More Than Green Checkmarks",
@@ -903,7 +927,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-27T11:10:51Z",
-      "id": "1845391b24d850cbd1e3e6211ef502d5"
+      "id": "1845391b24d850cbd1e3e6211ef502d5",
+      "comments": "https://news.ycombinator.com/item?id=46068138"
     },
     {
       "title": "Partial Indexing in PostgreSQL and MySQL",
@@ -1068,7 +1093,7 @@
     {
       "title": "Official r/NFL Week 12 Power Rankings",
       "link": "https://www.reddit.com/r/nfl/comments/1p6of6l/official_rnfl_week_12_power_rankings/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T21:02:43Z",
       "id": "6477240d0816ed9b147bd53de4a8aab8"
@@ -1175,7 +1200,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T21:06:39Z",
-      "id": "2af74dd756760670dee1836715817965"
+      "id": "2af74dd756760670dee1836715817965",
+      "comments": "https://news.ycombinator.com/item?id=46039317"
     },
     {
       "title": "Weekly Discussion Thread - November 24, 2025",
@@ -1191,7 +1217,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-24T12:28:44Z",
-      "id": "e8e3534d010810851dfa3db82d4532a6"
+      "id": "e8e3534d010810851dfa3db82d4532a6",
+      "comments": "https://news.ycombinator.com/item?id=46033386"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
@@ -1207,7 +1234,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-23T20:36:59Z",
-      "id": "5dd78a12ee46ea252ffa0272e5cff738"
+      "id": "5dd78a12ee46ea252ffa0272e5cff738",
+      "comments": "https://news.ycombinator.com/item?id=46027104"
     },
     {
       "title": "How to make precise sheet metal parts (photochemical machining) [video]",
@@ -1215,7 +1243,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-23T03:37:49Z",
-      "id": "8f1eb5a9a7e797dcc9068ab6aa992608"
+      "id": "8f1eb5a9a7e797dcc9068ab6aa992608",
+      "comments": "https://news.ycombinator.com/item?id=46020561"
     },
     {
       "title": "Moss: a Rust Linux-compatible kernel in 26,000 lines of code",
@@ -1223,7 +1252,8 @@
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-11-22T07:11:59Z",
-      "id": "770c6728ed7a2201907efaf5fa6c6f63"
+      "id": "770c6728ed7a2201907efaf5fa6c6f63",
+      "comments": "https://news.ycombinator.com/item?id=46012803"
     },
     {
       "title": "Secret Ditka 2025 [13th Ed.] Share What You Got Thread",
