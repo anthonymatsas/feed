@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-11-28T12:49:47.994741Z",
+  "last_updated": "2025-11-28T13:33:15.375335Z",
   "items": [
+    {
+      "title": "Any games about programming that get progressively harder?",
+      "link": "https://www.reddit.com/r/programming/comments/1p8uthw/any_games_about_programming_that_get/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-28T13:26:56Z",
+      "id": "d63f53c8ef4b66ce8c4adf5901337031"
+    },
+    {
+      "title": "How to sort 3d coordinates in counter clockwise direction of a polygon which should start from the left most point",
+      "link": "https://www.reddit.com/r/programming/comments/1p8uqv3/how_to_sort_3d_coordinates_in_counter_clockwise/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-28T13:23:32Z",
+      "id": "d73eee5a29a9b2f6a5fdd364c3377d69"
+    },
+    {
+      "title": "[ESPN Chicago] ESPN Chicago is live with Bears pregame talk. LFG",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1p8unro/espn_chicago_espn_chicago_is_live_with_bears/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-28T13:19:32Z",
+      "id": "737dbf3ba565a2e08badf3507d52c982"
+    },
+    {
+      "title": "Lovable is hiring in Sweden and providing generous relocation packages.",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p8un8j/lovable_is_hiring_in_sweden_and_providing/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-28T13:18:49Z",
+      "id": "849f984c0dc7e541f3cca51cc36eb919"
+    },
+    {
+      "title": "Projected final NFC division standings",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1p8ub0c/projected_final_nfc_division_standings/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-28T13:02:34Z",
+      "id": "7d482cc7b63847391b436385ff0b14fb"
+    },
+    {
+      "title": "Chicago Squares Week 13: Philly Roast Pork Pizza",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1p8tzjr/chicago_squares_week_13_philly_roast_pork_pizza/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-11-28T12:46:36Z",
+      "id": "3706cc7afc4e5b81dfedb767c7afbe5f"
+    },
+    {
+      "title": "A Remarkable Assertion from A16Z",
+      "link": "https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-28T12:41:32Z",
+      "id": "e77c5988f1ada64a180aafd6c6521c3c"
+    },
     {
       "title": "Drone-ambient-noise synthesizer in Javascript: when instability is a feature, not a bug",
       "link": "https://www.reddit.com/r/programming/comments/1p8tt1u/droneambientnoise_synthesizer_in_javascript_when/",
@@ -50,14 +106,6 @@
       "id": "36b6351688c90f72ee83572c6d4eca07"
     },
     {
-      "title": "Cats became our companions way later than you think",
-      "link": "https://www.bbc.co.uk/news/articles/cq8dvdp9gn7o",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-28T11:21:39Z",
-      "id": "4719d6c90f24db8f2a24f224d9803192"
-    },
-    {
       "title": "When AI rewrites your code in seconds, what should tests actually protect?",
       "link": "https://www.reddit.com/r/programming/comments/1p8sfbz/when_ai_rewrites_your_code_in_seconds_what_should/",
       "source": "r/programming",
@@ -74,12 +122,12 @@
       "id": "a5d4ace33155d5de458c95ff462ee060"
     },
     {
-      "title": "Google denies 'misleading' reports of Gmail using your emails to train AI",
-      "link": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
+      "title": "Africa's forests have switched from absorbing to emitting carbon",
+      "link": "https://phys.org/news/2025-11-africa-forests-absorbing-emitting-carbon.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-28T10:38:41Z",
-      "id": "4b1b3d44e17b261544734fad5b53b40b"
+      "published": "2025-11-28T10:45:29Z",
+      "id": "521eb974174e94fd727efd68a6e8e523"
     },
     {
       "title": "Scale-up feels sluggish. Am I missing something here?",
@@ -112,14 +160,6 @@
       "category": "tech",
       "published": "2025-11-28T09:32:38Z",
       "id": "131b832499af99e96fc55811e880390a"
-    },
-    {
-      "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
-      "link": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-28T09:21:55Z",
-      "id": "f40586ff54095b761865bd70adf97f93"
     },
     {
       "title": "Add subtitle materials",
@@ -162,6 +202,14 @@
       "id": "6513d9abef7a585f0c04e34a5bbd30b6"
     },
     {
+      "title": "SQLite as an Application File Format",
+      "link": "https://sqlite.org/appfileformat.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-28T08:15:50Z",
+      "id": "f02c3a2b07189fbb64c3f09c2c88057b"
+    },
+    {
       "title": "can you imagine a future without coding agents?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p8nwim/can_you_imagine_a_future_without_coding_agents/",
       "source": "r/ExperiencedDevs",
@@ -196,7 +244,7 @@
     {
       "title": "[Highlight] Joe Burrow receives Thanksgiving MVP: \u201cIt\u2019s great to be back, certainly not an easy thing to go through but this makes everything worth it. Good to be back out with the guys.\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1p8mrbq/highlight_joe_burrow_receives_thanksgiving_mvp/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T05:25:20Z",
       "id": "d260b283ff74072f90bfd78ebc406965"
@@ -212,7 +260,7 @@
     {
       "title": "[Highlight] Bengals long snapper Will Wagner having his taste buds ambushed by Maryland crab",
       "link": "https://www.reddit.com/r/nfl/comments/1p8mfnk/highlight_bengals_long_snapper_will_wagner_having/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T05:07:18Z",
       "id": "28103c7b1eccf2dae5da1de74244ab71"
@@ -236,7 +284,7 @@
     {
       "title": "[Highlight] Joseph Ossai digging into a turkey leg mid-interview",
       "link": "https://www.reddit.com/r/nfl/comments/1p8maqg/highlight_joseph_ossai_digging_into_a_turkey_leg/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T05:00:07Z",
       "id": "6511959a25075947833f869d58a05c33"
@@ -252,7 +300,7 @@
     {
       "title": "[Highlight] Evan McPherson scores his SIXTH (yes, six) field goal of the night!",
       "link": "https://www.reddit.com/r/nfl/comments/1p8m607/highlight_evan_mcpherson_scores_his_sixth_yes_six/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T04:53:01Z",
       "id": "1a1dc51120dcaffbaea4ea48eaa61f10"
@@ -268,7 +316,7 @@
     {
       "title": "Ravens QB Lamar Jackson in his last three games: 0 TDs, 3 INTs, 2 fumbles lost, 8 sacks",
       "link": "https://www.reddit.com/r/nfl/comments/1p8m4fh/ravens_qb_lamar_jackson_in_his_last_three_games_0/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T04:50:32Z",
       "id": "52ecd15345e7bd4abf4711dd05d531a0"
@@ -284,7 +332,7 @@
     {
       "title": "[Highlight] Bengals force a 5th turnover",
       "link": "https://www.reddit.com/r/nfl/comments/1p8ltbg/highlight_bengals_force_a_5th_turnover/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T04:33:05Z",
       "id": "2ae4856ca19e46d9d37bda486484cef8"
@@ -292,7 +340,7 @@
     {
       "title": "[Highlight] Joe Burrow audibly milks the clock",
       "link": "https://www.reddit.com/r/nfl/comments/1p8logq/highlight_joe_burrow_audibly_milks_the_clock/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T04:25:48Z",
       "id": "1060dec452e00a72acb03005c555b2a1"
@@ -324,7 +372,7 @@
     {
       "title": "[Highlight] Lamar is picked by Demetrius Knight Jr. for a 4th Baltimore turnover",
       "link": "https://www.reddit.com/r/nfl/comments/1p8l6zr/highlight_lamar_is_picked_by_demetrius_knight_jr/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T03:59:25Z",
       "id": "449f23ea551101feb041ac827fa233b1"
@@ -362,14 +410,6 @@
       "id": "5892cf897a45e9c5ac5c788dac3d1800"
     },
     {
-      "title": "Launching soon my micro Saas - after 10 years being developer I finally launched something",
-      "link": "https://www.reddit.com/r/programming/comments/1p8ka6p/launching_soon_my_micro_saas_after_10_years_being/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-28T03:09:21Z",
-      "id": "4bbc57aaed4bb86f02d49720687fa61c"
-    },
-    {
       "title": "Boozer making an appearance at United Center",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1p8k29b/boozer_making_an_appearance_at_united_center/",
       "source": "r/chicagobulls",
@@ -404,7 +444,7 @@
     {
       "title": "[Highlight] Isaiah Likely loses control of ball before crossing goal line for touchback",
       "link": "https://www.reddit.com/r/nfl/comments/1p8jdrz/highlight_isaiah_likely_loses_control_of_ball/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T02:21:46Z",
       "id": "03431adb29cc1760870e55d6d72fd66d"
@@ -444,7 +484,7 @@
     {
       "title": "[Highlight] Jake Ferguson feeds his teammates turkey before absconding with the bird",
       "link": "https://www.reddit.com/r/nfl/comments/1p8iia9/highlight_jake_ferguson_feeds_his_teammates/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T01:36:43Z",
       "id": "72428eda3b33dfa55c3cb1e536f83623"
@@ -452,7 +492,7 @@
     {
       "title": "[Highlight] Joe Burrow gives perspective in his return to a team that is 3-8",
       "link": "https://www.reddit.com/r/nfl/comments/1p8ieiz/highlight_joe_burrow_gives_perspective_in_his/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T01:31:09Z",
       "id": "624b1dc5a3a1b12a3f6861fc5e2192e9"
@@ -476,7 +516,7 @@
     {
       "title": "The Cowboys have beaten both teams in Superbowl LIX in a span of four days",
       "link": "https://www.reddit.com/r/nfl/comments/1p8hygs/the_cowboys_have_beaten_both_teams_in_superbowl/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T01:07:51Z",
       "id": "7181bc3518f1803ba1d681166c586e15"
@@ -484,7 +524,7 @@
     {
       "title": "Post Game Thread: Kansas City Chiefs at Dallas Cowboys",
       "link": "https://www.reddit.com/r/nfl/comments/1p8htgp/post_game_thread_kansas_city_chiefs_at_dallas/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T01:00:44Z",
       "id": "628846096778b8b5d8d3c8527eb33b79"
@@ -492,7 +532,7 @@
     {
       "title": "[Highlight] Mahomes stays on his feet and completes the pass down the field to Worthy",
       "link": "https://www.reddit.com/r/nfl/comments/1p8hhwc/highlight_mahomes_stays_on_his_feet_and_completes/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T00:43:41Z",
       "id": "d0c6bf444078991dca847c79bb05332a"
@@ -516,7 +556,7 @@
     {
       "title": "[Highlight] Dak Prescott Delivers in a Tight Window To George Pickens For 2PT Conversion!!!",
       "link": "https://www.reddit.com/r/nfl/comments/1p8h2xp/highlight_dak_prescott_delivers_in_a_tight_window/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T00:22:22Z",
       "id": "d1d379a6ae8c514158dc95a67b40b0bc"
@@ -524,7 +564,7 @@
     {
       "title": "[Highlight] George Pickens uses a spin move and hurdle to pick up a big gain",
       "link": "https://www.reddit.com/r/nfl/comments/1p8gz42/highlight_george_pickens_uses_a_spin_move_and/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-28T00:16:55Z",
       "id": "616b1525a24c698d3c9ed12161bac477"
@@ -604,7 +644,7 @@
     {
       "title": "[Highlight] Packers DT Nazir Stackhouse offering turkey to workers",
       "link": "https://www.reddit.com/r/nfl/comments/1p8e88z/highlight_packers_dt_nazir_stackhouse_offering/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T22:00:51Z",
       "id": "61a90f4a3eb4c68815d506e6c8f1a065"
@@ -620,7 +660,7 @@
     {
       "title": "[Highlight] Dontayvion Wicks makes the contested catch to seal the game",
       "link": "https://www.reddit.com/r/nfl/comments/1p8dal0/highlight_dontayvion_wicks_makes_the_contested/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T21:17:04Z",
       "id": "ebed8262c33c1c1443ad80c2bab5d64b"
@@ -628,7 +668,7 @@
     {
       "title": "Micah Parsons becomes first player in NFL history to tally 12 sacks in each of his first 5 seasons",
       "link": "https://www.reddit.com/r/nfl/comments/1p8czf9/micah_parsons_becomes_first_player_in_nfl_history/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T21:02:42Z",
       "id": "d7bb6615db5860932a277817405aee65"
@@ -636,7 +676,7 @@
     {
       "title": "[Highlight] Jack White brings out Eminem for Halftime show",
       "link": "https://www.reddit.com/r/nfl/comments/1p8bb35/highlight_jack_white_brings_out_eminem_for/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T19:48:10Z",
       "id": "764e7e25d6d7de7e88ef2578bdacdc5a"
@@ -644,7 +684,7 @@
     {
       "title": "[Highlight] Jameson Williams spins out of the tackle and walks it into the endzone",
       "link": "https://www.reddit.com/r/nfl/comments/1p8av71/highlight_jameson_williams_spins_out_of_the/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T19:29:31Z",
       "id": "05dbec4c9ec529c9d1e087bb5f6939d8"
@@ -652,7 +692,7 @@
     {
       "title": "[Highlight] Matt LaFluer avoids the false start on 4th & 1 by calling timeout \"before\" the penalty",
       "link": "https://www.reddit.com/r/nfl/comments/1p8al69/highlight_matt_lafluer_avoids_the_false_start_on/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T19:17:37Z",
       "id": "67d8f065c5efb2d1da418bd11f705ff2"
@@ -700,7 +740,7 @@
     {
       "title": "[Gordon] Colts QB Daniel Jones dealing with fractured fibula",
       "link": "https://www.reddit.com/r/nfl/comments/1p884x5/gordon_colts_qb_daniel_jones_dealing_with/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T17:35:58Z",
       "id": "e33eaf89b7d9ede0bc1411e5fb761efb"
@@ -712,14 +752,6 @@
       "category": "sports",
       "published": "2025-11-27T17:11:33Z",
       "id": "4e0ca83bff97d0b79d7c50c3367aad89"
-    },
-    {
-      "title": "Pro Bowl Voting Has Opened",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1p872x1/pro_bowl_voting_has_opened/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-27T16:53:32Z",
-      "id": "9cd230bd5e3df45fba65e851be7b2cec"
     },
     {
       "title": "As a Canadian, I am partaking in American Thanksgiving this year.",
@@ -736,14 +768,6 @@
       "category": "tech",
       "published": "2025-11-27T16:28:42Z",
       "id": "dbaecc74d34284cf374fa959228dace2"
-    },
-    {
-      "title": "[Nate Tice] Ben Johnson is OUTSMARTING the NFL with This Play",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1p86fs6/nate_tice_ben_johnson_is_outsmarting_the_nfl_with/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-27T16:27:51Z",
-      "id": "beb1f24b95f78c608dfb51d27a3e3ffa"
     },
     {
       "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
@@ -804,7 +828,7 @@
     {
       "title": "Thursday Talk Thread... Yes That's The Thread Name",
       "link": "https://www.reddit.com/r/nfl/comments/1p84an5/thursday_talk_thread_yes_thats_the_thread_name/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-27T15:00:44Z",
       "id": "38a4842d3674ab4cc779a80516d23bd6"
@@ -824,14 +848,6 @@
       "category": "tech",
       "published": "2025-11-27T14:25:40Z",
       "id": "2f4dd52359fed97de81ab7b9e591dcb0"
-    },
-    {
-      "title": "Cool drawing for the upcoming game somebody requested to be posted (NOT MINE)",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1p82y8u/cool_drawing_for_the_upcoming_game_somebody/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-11-27T14:02:35Z",
-      "id": "ab7137fff87eccb10f35dbd9c34dafa4"
     },
     {
       "title": "How to deal with the other team that handballs their own responsibilities",
@@ -856,14 +872,6 @@
       "category": "tech",
       "published": "2025-11-27T12:27:17Z",
       "id": "c1b8e15f97550b032f8368a11f1a4c3d"
-    },
-    {
-      "title": "Partial Indexing in PostgreSQL and MySQL",
-      "link": "https://www.reddit.com/r/programming/comments/1p7yqy7/partial_indexing_in_postgresql_and_mysql/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-27T10:15:17Z",
-      "id": "de058b6a0c46015dfe281821a81d25bd"
     },
     {
       "title": "Olbrich with a triple dub.",
@@ -1018,22 +1026,6 @@
       "id": "f3eb67ecc5c802d21073937144fb6f1c"
     },
     {
-      "title": "Employer introducing on-call without contract clause or compensation, advice needed",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p798ez/employer_introducing_oncall_without_contract/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-26T14:33:03Z",
-      "id": "933b493e74e7e9d96faab33a45e30f4a"
-    },
-    {
-      "title": "Memories of .us",
-      "link": "https://computer.rip/2025-11-11-dot-us.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-26T13:36:19Z",
-      "id": "004053e79a6cf29294e269b98e328bc3"
-    },
-    {
       "title": "Could an AD trade help us tank?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1p6zkx9/could_an_ad_trade_help_us_tank/",
       "source": "r/chicagobulls",
@@ -1044,7 +1036,7 @@
     {
       "title": "Official r/NFL Week 12 Power Rankings",
       "link": "https://www.reddit.com/r/nfl/comments/1p6of6l/official_rnfl_week_12_power_rankings/",
-      "source": "r/nfl",
+      "source": "r/nba",
       "category": "sports",
       "published": "2025-11-25T21:02:43Z",
       "id": "6477240d0816ed9b147bd53de4a8aab8"
@@ -1176,6 +1168,14 @@
       "category": "tech",
       "published": "2025-11-24T12:28:44Z",
       "id": "e8e3534d010810851dfa3db82d4532a6"
+    },
+    {
+      "title": "OS Malevich \u2013 how we made a system that embodies the idea of simplicity (2017)",
+      "link": "https://www.ajax-systems.uz/blog/hub-os-malevich-story/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-24T10:52:37Z",
+      "id": "67e790959cc52872ec6d9713ef4b6828"
     },
     {
       "title": "Quake Engine Indicators",
