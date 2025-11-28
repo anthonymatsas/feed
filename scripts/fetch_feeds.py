@@ -66,6 +66,7 @@ def fetch_feed(source: Dict[str, str]) -> List[Dict[str, Any]]:
             # Extract data with fallbacks
             title = entry.get('title', 'No title')
             link = entry.get('link', '')
+            comments_link = entry.get('comments', '')
 
             # Try multiple date fields
             published = None
@@ -84,14 +85,18 @@ def fetch_feed(source: Dict[str, str]) -> List[Dict[str, Any]]:
                 published = datetime.utcnow().isoformat() + 'Z'
 
             if link:
-                items.append({
+                item = {
                     'title': title,
                     'link': link,
                     'source': name,
                     'category': category,
                     'published': published,
                     'id': generate_id(link, title)
-                })
+                }
+                # Add comments link if available (for HackerNews, Reddit, etc.)
+                if comments_link:
+                    item['comments'] = comments_link
+                items.append(item)
 
         print(f"✓ {name}: {len(items)} items")
         return items

@@ -199,12 +199,6 @@ Customize colors in `docs/style.css`:
 - Verify RSS URLs are correct in `config/sources.json`
 - Some feeds may be blocked by CORS (GitHub Actions fetches from server-side, so this shouldn't be an issue)
 
-### Custom Domain Not Working
-
-- Wait 5-60 minutes for DNS propagation
-- Verify CNAME record points to `your-username.github.io`
-- Check GitHub Pages settings show your custom domain
-
 ### Feed Parse Errors
 
 - Ensure RSS URLs are valid

@@ -2,8 +2,8 @@ name: Fetch RSS Feeds
 
 on:
   schedule:
-    # Run every hour
-    - cron: '0 * * * *'
+    # Run every 3 hours
+    - cron: '0 */3 * * *'
 
   # Allow manual triggering
   workflow_dispatch:

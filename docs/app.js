@@ -190,12 +190,18 @@ function createFeedItemHTML(item) {
     const publishedDate = new Date(item.published);
     const timeAgo = getTimeAgo(publishedDate);
 
+    // Add [source] link for HackerNews posts if comments link is available
+    let sourceLink = '';
+    if (item.source === 'Hacker News' && item.comments) {
+        sourceLink = ` <a href="${escapeHtml(item.comments)}" target="_blank" rel="noopener noreferrer" class="source-link">[source]</a>`;
+    }
+
     return `
         <article class="feed-item">
             <div class="feed-item-title">
                 <a href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">
                     ${escapeHtml(item.title)}
-                </a>
+                </a>${sourceLink}
             </div>
             <div class="feed-item-meta">
                 <span class="feed-item-source">${escapeHtml(item.source)}</span>

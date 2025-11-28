@@ -177,6 +177,22 @@ h1 {
     color: var(--text-secondary);
 }
 
+.feed-item-title .source-link {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    text-decoration: none;
+    margin-left: 8px;
+}
+
+.feed-item-title .source-link:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
+}
+
+.feed-item-title .source-link:visited {
+    color: var(--text-secondary);
+}
+
 .feed-item-meta {
     display: flex;
     gap: 15px;
