@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-28T08:33:20.435295Z",
+  "last_updated": "2025-11-28T09:25:28.945789Z",
   "items": [
+    {
+      "title": "Add subtitle materials",
+      "link": "https://www.reddit.com/r/programming/comments/1p8qi8u/add_subtitle_materials/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-28T09:17:09Z",
+      "id": "77dfbd0fb6b506d437b36594d2f94117"
+    },
+    {
+      "title": "Batch add audio materials",
+      "link": "https://www.reddit.com/r/programming/comments/1p8qfc2/batch_add_audio_materials/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-11-28T09:11:52Z",
+      "id": "d8c94942730dbf7b178cb793e2459040"
+    },
+    {
+      "title": "So I am losing hope out here. 7yoe. Need some advice(experienced folks need your input).",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p8qbtv/so_i_am_losing_hope_out_here_7yoe_need_some/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-11-28T09:05:33Z",
+      "id": "f97c808bec31b4443394eb0ce3372156"
+    },
     {
       "title": "JEP draft: Windows/gcc Port",
       "link": "https://www.reddit.com/r/programming/comments/1p8pnfr/jep_draft_windowsgcc_port/",
@@ -178,14 +202,6 @@
       "id": "a87dbaafa37c20501d88004f5cae0c98"
     },
     {
-      "title": "What's appealing about programming/What's the vibe when you code?",
-      "link": "https://www.reddit.com/r/programming/comments/1p8ld1s/whats_appealing_about_programmingwhats_the_vibe/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-28T04:08:25Z",
-      "id": "700075743d7d95a5ec8a579ccbd54701"
-    },
-    {
       "title": "Week 13 Gamethread: Chicago Bears (8-3) at Philadelphia Eagles (8-3)",
       "link": "https://www.reddit.com/r/CHIBears/comments/1p8l8n0/week_13_gamethread_chicago_bears_83_at/",
       "source": "r/CHIBears",
@@ -224,14 +240,6 @@
       "category": "tech",
       "published": "2025-11-28T03:45:04Z",
       "id": "3a50104dfa6271dd177bef59c4339c93"
-    },
-    {
-      "title": "China's BEV trucks and the end of diesel's dominance",
-      "link": "https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-28T03:40:52Z",
-      "id": "5478e224603c9730dcac02947f20851c"
     },
     {
       "title": "puzzle",
@@ -442,14 +450,6 @@
       "id": "f933dbcda38c331f4e5e2f031c268a54"
     },
     {
-      "title": "Bird flu viruses are resistant to fever, making them a major threat to humans",
-      "link": "https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-27T23:57:57Z",
-      "id": "1a0422b8e3e6226516adcd0012ad780e"
-    },
-    {
       "title": "[FOX Sports: NFL] First place Bears fans full of turkey and on their couch watching their rivals go at it",
       "link": "https://www.reddit.com/r/CHIBears/comments/1p8gboq/fox_sports_nfl_first_place_bears_fans_full_of/",
       "source": "r/CHIBears",
@@ -544,6 +544,14 @@
       "category": "sports",
       "published": "2025-11-27T21:02:42Z",
       "id": "d7bb6615db5860932a277817405aee65"
+    },
+    {
+      "title": "Underrated reasons to be thankful V",
+      "link": "https://dynomight.net/thanks-5/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-27T20:37:51Z",
+      "id": "391fac6927e2f548855a531f63eeff47"
     },
     {
       "title": "Scaling culture in a scale-up",
@@ -778,14 +786,6 @@
       "id": "eb0219daf060615986458c3ac7033f7c"
     },
     {
-      "title": "How Java Virtual Threads Simplify Reactor APIs",
-      "link": "https://www.reddit.com/r/programming/comments/1p82bl8/how_java_virtual_threads_simplify_reactor_apis/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-11-27T13:33:40Z",
-      "id": "85467edc2f48d324985eea43840b0efc"
-    },
-    {
       "title": "TPUs vs. GPUs and why Google is positioned to win AI race in the long term",
       "link": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
       "source": "Hacker News",
@@ -1010,14 +1010,6 @@
       "id": "253d73306b2d946cbe867176c0bfe91d"
     },
     {
-      "title": "Time spent doc writing and getting alignment vs implementing as a senior",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p6y4ez/time_spent_doc_writing_and_getting_alignment_vs/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-26T04:14:09Z",
-      "id": "3d148310d1a8f112e855f275130d12a9"
-    },
-    {
       "title": "Stuck in the Middle",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1p6mt3t/stuck_in_the_middle/",
       "source": "r/chicagobulls",
@@ -1216,6 +1208,14 @@
       "category": "tech",
       "published": "2025-11-23T10:05:32Z",
       "id": "1daa8998fae1767abcbfb75f0d7df40c"
+    },
+    {
+      "title": "How to make precise sheet metal parts (photochemical machining) [video]",
+      "link": "https://www.youtube.com/watch?v=bR9EN3kUlfg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-11-23T03:37:49Z",
+      "id": "8f1eb5a9a7e797dcc9068ab6aa992608"
     },
     {
       "title": "Physicists drive antihydrogen breakthrough at CERN",
