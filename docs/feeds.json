@@ -1,14 +1,111 @@
 {
-  "last_updated": "2025-12-03T09:21:08.761226Z",
+  "last_updated": "2025-12-03T12:36:17.832635Z",
   "items": [
     {
-      "title": "Codeberg Is Down",
-      "link": "https://status.codeberg.org/status/codeberg",
+      "title": "Stable job but no role models or seniority that can mentor me",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pd2mii/stable_job_but_no_role_models_or_seniority_that/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-03T12:17:33Z",
+      "id": "d26d26d0769a9e207cdc82ded096a313"
+    },
+    {
+      "title": "You Can't Fool the Optimizer",
+      "link": "https://xania.org/202512/03-more-adding-integers",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-03T08:26:46Z",
-      "id": "ef834c0e798ccd040be12b4b6a40c64a",
-      "comments": "https://news.ycombinator.com/item?id=46131693"
+      "published": "2025-12-03T12:14:34Z",
+      "id": "9013278b4ca60b42fe5a6bbf5fc7bc11",
+      "comments": "https://news.ycombinator.com/item?id=46133622"
+    },
+    {
+      "title": "The \"Mad Men\" in 4K on HBO Max Debacle",
+      "link": "http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-03T11:50:00Z",
+      "id": "76a22d49d23baa827cba002da24a6d30",
+      "comments": "https://news.ycombinator.com/item?id=46133422"
+    },
+    {
+      "title": "Can minimal builds replace patch management as the dominant strategy?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pd21l4/can_minimal_builds_replace_patch_management_as/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-03T11:46:21Z",
+      "id": "5d4fff6b058038ea3e961251335cfa54"
+    },
+    {
+      "title": "First senior role. How to approach this",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pd1k4x/first_senior_role_how_to_approach_this/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-03T11:19:31Z",
+      "id": "773a103105c353cc2f6f0d28dfb2524d"
+    },
+    {
+      "title": "The 50MB Markdown Files That Broke Our Server",
+      "link": "https://www.reddit.com/r/programming/comments/1pd1heu/the_50mb_markdown_files_that_broke_our_server/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-03T11:15:15Z",
+      "id": "7405aa6e4553d4d93a16296a421575f1"
+    },
+    {
+      "title": "Transparently and efficiently forward connection to container/VM via load balancer",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pd1ab0/transparently_and_efficiently_forward_connection/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-03T11:03:35Z",
+      "id": "b0e2435232657fdb787359eb2fe7bcf0"
+    },
+    {
+      "title": "FTP",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1pd19xp/ftp/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-03T11:02:58Z",
+      "id": "fb8afab15a69d4d52c27a93d5d11a7df"
+    },
+    {
+      "title": "Amber the programming language compiled to Bash, 0.5.1 release",
+      "link": "https://www.reddit.com/r/programming/comments/1pd128h/amber_the_programming_language_compiled_to_bash/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-03T10:50:24Z",
+      "id": "5231ddaabbfe533188707d26623513d9"
+    },
+    {
+      "title": "Micro-SaaS for Wastewater Treatment Calculations Modernizes a Niche Engineering Workflow",
+      "link": "https://www.reddit.com/r/programming/comments/1pd0wdh/microsaas_for_wastewater_treatment_calculations/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-03T10:40:23Z",
+      "id": "cd0ab61be488b4970b19c92b762aa43a"
+    },
+    {
+      "title": "Opportunity to buy/acquire a product: how to review?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pd0nip/opportunity_to_buyacquire_a_product_how_to_review/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-03T10:25:13Z",
+      "id": "fecbfb3b1ed8c1d8010dbc73a2136d4c"
+    },
+    {
+      "title": "cekrem/elm-form: Type-Safe Forms That Won't Let You Mess Up",
+      "link": "https://www.reddit.com/r/programming/comments/1pd0mps/cekremelmform_typesafe_forms_that_wont_let_you/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-03T10:23:51Z",
+      "id": "43bee7c1b97bba4409122ea04a8f8ae1"
+    },
+    {
+      "title": "Accept offer and continue process with second company, or be open and ask for more time?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pd0gqf/accept_offer_and_continue_process_with_second/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-03T10:13:17Z",
+      "id": "0a2840b002a46af7df77289c447e1e3e"
     },
     {
       "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
@@ -96,14 +193,6 @@
       "comments": "https://news.ycombinator.com/item?id=46130506"
     },
     {
-      "title": "[via PFF] Jordan Love during Toyotathon: 4005 yards, 33 TD, 1 INT, 31 deep completions (leads NFL), 91.9 PFF passing grade (leads NFL)",
-      "link": "https://www.reddit.com/r/nfl/comments/1pcv0pl/via_pff_jordan_love_during_toyotathon_4005_yards/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-03T04:45:41Z",
-      "id": "d4d708098d63ccbc75a3569eb96adcbb"
-    },
-    {
       "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
       "link": "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13",
       "source": "Hacker News",
@@ -120,15 +209,6 @@
       "published": "2025-12-03T04:13:41Z",
       "id": "1aeee408f9fd8ab4523651830a837a82",
       "comments": "https://news.ycombinator.com/item?id=46130233"
-    },
-    {
-      "title": "Japanese game devs face font dilemma as license increases from $380 to $20k",
-      "link": "https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-03T04:03:56Z",
-      "id": "28cdbb82eb3404a01428fdaa74b6834f",
-      "comments": "https://news.ycombinator.com/item?id=46130187"
     },
     {
       "title": "[Dulac] Aaron Rodgers had his receivers, tight ends and RBs to his house tonight to watch film and go over plays. Ben Skowronek brought a decorated cake and the players sang Happy Birthday to Rodgers, who turned 42 on Tuesday",
@@ -179,15 +259,6 @@
       "id": "7bb123f7ef5d2686e1d425022edc59a9"
     },
     {
-      "title": "Kohler Can Access Pictures from \"End-to-End Encrypted\" Toilet Camera",
-      "link": "https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-03T02:06:25Z",
-      "id": "e7bf65862a757328941f45746f36dd72",
-      "comments": "https://news.ycombinator.com/item?id=46129476"
-    },
-    {
       "title": "GitHub - codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
       "link": "https://www.reddit.com/r/programming/comments/1pcreef/github_codecraftersiobuildyourownx_master/",
       "source": "r/programming",
@@ -210,14 +281,6 @@
       "category": "sports",
       "published": "2025-12-03T01:21:39Z",
       "id": "8b1aea8f01f31d1994ecbeb48df7d4a4"
-    },
-    {
-      "title": "Proposing a solution for recording intent by reimagining version control",
-      "link": "https://www.reddit.com/r/programming/comments/1pcqc7n/proposing_a_solution_for_recording_intent_by/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-03T01:04:58Z",
-      "id": "3dfc261498ccb8e80abf2c22f6aa5782"
     },
     {
       "title": "Pope Ditka says Fuck Green Bay",
@@ -284,6 +347,15 @@
       "id": "1cdb7aef0be74eac72a8a9ce97ebc91c"
     },
     {
+      "title": "DOOM could have had PC Speaker Music",
+      "link": "https://lenowo.org/viewtopic.php?t=45",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-02T23:19:07Z",
+      "id": "7710adc0c37d349f9fd9b5591789fd67",
+      "comments": "https://news.ycombinator.com/item?id=46128286"
+    },
+    {
       "title": "Zig's new plan for asynchronous programs",
       "link": "https://www.reddit.com/r/programming/comments/1pcnem2/zigs_new_plan_for_asynchronous_programs/",
       "source": "r/programming",
@@ -322,6 +394,14 @@
       "category": "sports",
       "published": "2025-12-02T21:46:16Z",
       "id": "a849f1c8dff25f2322727666a558c1ef"
+    },
+    {
+      "title": "[Graff] Scheduling update: Neither of the Patriots\u2019 looming games against the Bills or Ravens were flexed by the NFL. Both remain as 1 pm kickoffs.",
+      "link": "https://www.reddit.com/r/nfl/comments/1pclj5h/graff_scheduling_update_neither_of_the_patriots/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-02T21:44:38Z",
+      "id": "26f9e24b6004a79f1013c5fb79b2188e"
     },
     {
       "title": "[Highlight] Mike Vrabel on Jaxson Dart hit: \"It was excellent. When I say we better not get cute over there by the sideline\u2026 I turn around and tell the defense, if this is happening, we need to try to knock the s*** out of him as legally as possible.\"",
@@ -370,15 +450,6 @@
       "category": "tech",
       "published": "2025-12-02T21:01:11Z",
       "id": "c124eaa73dca1352e503e73e4f0d110b"
-    },
-    {
-      "title": "Delty (YC X25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-02T21:00:59Z",
-      "id": "b17306733b73d1455e971a0837061799",
-      "comments": "https://news.ycombinator.com/item?id=46126822"
     },
     {
       "title": "Official r/NFL Week 13 Power Rankings",
@@ -453,14 +524,6 @@
       "published": "2025-12-02T20:08:55Z",
       "id": "88a89cc2f3acfe4179650777a7cd0469",
       "comments": "https://news.ycombinator.com/item?id=46126141"
-    },
-    {
-      "title": "Running backs: Taz & Chungus",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pcioz0/running_backs_taz_chungus/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-02T19:57:42Z",
-      "id": "30f379d58e097f4919d0039450646d96"
     },
     {
       "title": "[K.C. Johnson] Per Bulls PR, team sends Zach Collins and Dalen Terry to G League for practice time as a step on their roads back to rotation",
@@ -635,14 +698,6 @@
       "id": "2718d7cc7bf66864047a616c2dc3a392"
     },
     {
-      "title": "Desugarging the Relationship Between Concrete and Abstract Syntax",
-      "link": "https://www.reddit.com/r/programming/comments/1pcc426/desugarging_the_relationship_between_concrete_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-02T15:57:24Z",
-      "id": "fe62f7695476dbb647f46dad2059476b"
-    },
-    {
       "title": "Ozzy Trapilo Appreciation",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pcc0jj/ozzy_trapilo_appreciation/",
       "source": "r/CHIBears",
@@ -805,14 +860,6 @@
       "id": "6ad37a8a642984e697f9ac8bdd2526e3"
     },
     {
-      "title": "Gitmal - a static pages generator for Git repos",
-      "link": "https://www.reddit.com/r/programming/comments/1pc4rqz/gitmal_a_static_pages_generator_for_git_repos/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-02T10:08:29Z",
-      "id": "892e1b4e0781602f3c1035789c8f5ce6"
-    },
-    {
       "title": "The Death of Software Engineering as a Profession: a short set of anecdotes",
       "link": "https://www.reddit.com/r/programming/comments/1pc4rim/the_death_of_software_engineering_as_a_profession/",
       "source": "r/programming",
@@ -925,14 +972,6 @@
       "id": "29aac87b59775c4a07ee6260542f0b93"
     },
     {
-      "title": "What's your framework for trusting AI code you haven't read line by line?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pbkjev/whats_your_framework_for_trusting_ai_code_you/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-01T18:26:41Z",
-      "id": "6f08b9d1383948055bc3b49c3892ae0d"
-    },
-    {
       "title": "All about automotive lidar",
       "link": "https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/",
       "source": "Hacker News",
@@ -956,14 +995,6 @@
       "category": "sports",
       "published": "2025-12-01T17:26:19Z",
       "id": "dd82fea10640baa118cd062ed7347701"
-    },
-    {
-      "title": "We just lost 6 months of project momentum because our BA quit",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pbhqry/we_just_lost_6_months_of_project_momentum_because/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-01T16:45:27Z",
-      "id": "4360dbe5da166d183d1d4ab962a0d9c6"
     },
     {
       "title": "[Collier] 'When do we get our Siakam?': What to make of the Bulls' uneven early season",
@@ -1004,14 +1035,6 @@
       "category": "sports",
       "published": "2025-12-01T14:02:08Z",
       "id": "31c40c2c680482f98c449822296552fa"
-    },
-    {
-      "title": "Beej's Guide to Learning Computer Science",
-      "link": "https://www.reddit.com/r/programming/comments/1pbcsss/beejs_guide_to_learning_computer_science/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-01T13:29:49Z",
-      "id": "1372cd0a3bf95dbf6487bc0400f124af"
     },
     {
       "title": "Who do you *enjoy* watching on the roster?",
@@ -1076,14 +1099,6 @@
       "category": "sports",
       "published": "2025-11-30T20:20:35Z",
       "id": "f7d20238c64cfb39c54b1d286ffc5192"
-    },
-    {
-      "title": "I am curious why people do not use LLM assistance while programming. What is your story?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1parqfu/i_am_curious_why_people_do_not_use_llm_assistance/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-30T19:56:18Z",
-      "id": "05e2708f044ce05b42f8c2c1a775c4f6"
     },
     {
       "title": "An analysis of Coby White and the Chicago Bulls sudden schlump",
@@ -1160,28 +1175,22 @@
       "id": "abed44b032cce92c94141d6b83137d68"
     },
     {
-      "title": "Are we getting worse at our jobs?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pa1yih/are_we_getting_worse_at_our_jobs/",
-      "source": "r/ExperiencedDevs",
+      "title": "Mathematics is hard for mathematicians to understand too",
+      "link": "https://www.science.org/doi/10.1126/science.aec9014",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-29T22:39:48Z",
-      "id": "3d836614f594af4dbf834eeeeea7ecb1"
+      "published": "2025-11-27T23:05:54Z",
+      "id": "244f2500478726e101e9f476517eff1b",
+      "comments": "https://news.ycombinator.com/item?id=46073978"
     },
     {
-      "title": "Largest mental shift required to excel in management or leadership?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p9i7zs/largest_mental_shift_required_to_excel_in/",
-      "source": "r/ExperiencedDevs",
+      "title": "Trying Out C++26 Executors",
+      "link": "https://mropert.github.io/2025/11/21/trying_out_stdexec/",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2025-11-29T06:51:04Z",
-      "id": "4f89bf2c1d83882ba8b4b46435ef68f2"
-    },
-    {
-      "title": "My advice for language choice on interviews.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1p9fmzb/my_advice_for_language_choice_on_interviews/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-11-29T04:28:16Z",
-      "id": "a99530392e929c426c84e6a803970a27"
+      "published": "2025-11-27T19:10:56Z",
+      "id": "8e0f375652c9948ead7851ae1f66ce34",
+      "comments": "https://news.ycombinator.com/item?id=46072323"
     },
     {
       "title": "AI agents break rules under everyday pressure",
@@ -1218,15 +1227,6 @@
       "published": "2025-11-26T05:32:28Z",
       "id": "e40be050f5254631de44b927ed0964d4",
       "comments": "https://news.ycombinator.com/item?id=46054467"
-    },
-    {
-      "title": "All Sources of DirectX 12 Documentation",
-      "link": "https://asawicki.info/news_1794_all_sources_of_directx_12_documentation",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-11-26T04:47:50Z",
-      "id": "d03d5bd5ff427e7adabb9370aee2aa2c",
-      "comments": "https://news.ycombinator.com/item?id=46054295"
     },
     {
       "title": "Learning music with Strudel",
