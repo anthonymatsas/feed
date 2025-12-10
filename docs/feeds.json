@@ -1,23 +1,50 @@
 {
-  "last_updated": "2025-12-09T21:14:07.706366Z",
+  "last_updated": "2025-12-10T01:19:17.148875Z",
   "items": [
     {
-      "title": "Django: What's new in 6.0 \u2013 Adam Johnson",
+      "title": "Rubio stages font coup: Times New Roman ousts Calibri",
+      "link": "https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-10T00:08:34Z",
+      "id": "fbc2da894c98d1d6a6323488f25658f7",
+      "comments": "https://news.ycombinator.com/item?id=46212438"
+    },
+    {
+      "title": "OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution",
+      "link": "https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-09T22:54:33Z",
+      "id": "698a49e0f1010f7bccc80192fa81e74b",
+      "comments": "https://news.ycombinator.com/item?id=46211861"
+    },
+    {
+      "title": "Linux CVEs, more than you ever wanted to know",
+      "link": "http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-09T22:47:36Z",
+      "id": "25d80143499973a00b8386594dad9239",
+      "comments": "https://news.ycombinator.com/item?id=46211802"
+    },
+    {
+      "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
+      "link": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-09T21:19:37Z",
+      "id": "def97bb9576d9b45c9cbcc16ff80cc75",
+      "comments": "https://news.ycombinator.com/item?id=46210806"
+    },
+    {
+      "title": "Django: what\u2019s new in 6.0",
       "link": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-12-09T20:33:14Z",
-      "id": "ce3b56180d55d594fb46ca291e339376",
+      "id": "f147c882db6ef09d008f353a644f11de",
       "comments": "https://news.ycombinator.com/item?id=46210240"
-    },
-    {
-      "title": "We Need to Die",
-      "link": "https://willllliam.com/blog/why-we-need-to-die/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-09T20:21:06Z",
-      "id": "a5371e50558675dbd15476f688546851",
-      "comments": "https://news.ycombinator.com/item?id=46210095"
     },
     {
       "title": "Agentic AI Foundation",
@@ -56,24 +83,6 @@
       "comments": "https://news.ycombinator.com/item?id=46208409"
     },
     {
-      "title": "\"The Matilda Effect\": Pioneering Women Scientists Written Out of Science History",
-      "link": "https://www.openculture.com/2025/12/matilda-effect.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-09T17:57:55Z",
-      "id": "592be35e9b458aa1d87421fefa2c005f",
-      "comments": "https://news.ycombinator.com/item?id=46208160"
-    },
-    {
-      "title": "Show HN: Detail, a Bug Finder",
-      "link": "https://detail.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-09T17:35:35Z",
-      "id": "f7af97788980c8d13dac7168e73a42c1",
-      "comments": "https://news.ycombinator.com/item?id=46207852"
-    },
-    {
       "title": "If you're going to vibe code, why not do it in C?",
       "link": "https://stephenramsay.net/posts/vibe-coding.html",
       "source": "Hacker News",
@@ -92,12 +101,12 @@
       "comments": "https://news.ycombinator.com/item?id=46207464"
     },
     {
-      "title": "Donating the Model Context Protocol and Establishing the Agentic AI Foundation",
+      "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
       "link": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-12-09T17:05:42Z",
-      "id": "19dbdc222bd0a5aa5c3b054d1af6a601",
+      "id": "f1a41b661d4d6ac1600ffac49949ebbc",
       "comments": "https://news.ycombinator.com/item?id=46207425"
     },
     {
@@ -128,13 +137,13 @@
       "comments": "https://news.ycombinator.com/item?id=46206531"
     },
     {
-      "title": "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
-      "link": "https://news.ycombinator.com/item?id=46206457",
+      "title": "A supersonic engine core makes the perfect power turbine",
+      "link": "https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-09T16:02:37Z",
-      "id": "7130aa2200af4a4252aa0ba5919f491b",
-      "comments": "https://news.ycombinator.com/item?id=46206457"
+      "published": "2025-12-09T15:51:32Z",
+      "id": "71ccc1a666493ccc3b19f38f14d0464b",
+      "comments": "https://news.ycombinator.com/item?id=46206277"
     },
     {
       "title": "Apple's slow AI pace becomes a strength as market grows weary of spending",
@@ -182,22 +191,13 @@
       "comments": "https://news.ycombinator.com/item?id=46205461"
     },
     {
-      "title": "Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI",
+      "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
       "link": "https://mistral.ai/news/devstral-2-vibe-cli",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-12-09T14:45:01Z",
-      "id": "b2dd3aef01ec8e93ea4306c286600258",
+      "id": "edf00a97c72501f29eca58f355cfa7a0",
       "comments": "https://news.ycombinator.com/item?id=46205437"
-    },
-    {
-      "title": "Show HN: AlgoDrill \u2013 Interactive drills to stop forgetting LeetCode patterns",
-      "link": "https://algodrill.io",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-09T11:09:06Z",
-      "id": "7540382e11c5264a48e5c369b91f4084",
-      "comments": "https://news.ycombinator.com/item?id=46203581"
     },
     {
       "title": "The Joy of Playing Grandia, on Sega Saturn",
@@ -218,22 +218,31 @@
       "comments": "https://news.ycombinator.com/item?id=46202921"
     },
     {
-      "title": "AWS Trainium3 Deep Dive \u2013 A Potential Challenger Approaching",
-      "link": "https://newsletter.semianalysis.com/p/aws-trainium3-deep-dive-a-potential",
+      "title": "Italy's longest-serving barista reflects on six decades behind the counter",
+      "link": "https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-04T19:19:05Z",
-      "id": "8260fdcb686d113c30c1d4d2aa148928",
-      "comments": "https://news.ycombinator.com/item?id=46151600"
+      "published": "2025-12-05T01:22:29Z",
+      "id": "dcd98cfd2a422bc7e729401d767bbb65",
+      "comments": "https://news.ycombinator.com/item?id=46155740"
     },
     {
-      "title": "Transformers know more than they can tell: Learning the Collatz sequence",
-      "link": "https://www.arxiv.org/pdf/2511.10811",
+      "title": "Operando interlayer expansion of curved graphene for dense supercapacitors",
+      "link": "https://www.nature.com/articles/s41467-025-63485-0",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-03T17:50:17Z",
-      "id": "09b7d0a8215828cf282a741d8d563ac5",
-      "comments": "https://news.ycombinator.com/item?id=46137596"
+      "published": "2025-12-04T14:26:30Z",
+      "id": "a3d08a808c554848a70de115187520ba",
+      "comments": "https://news.ycombinator.com/item?id=46147996"
+    },
+    {
+      "title": "The Mysterious Realm of JavaScriptCore (2021)",
+      "link": "https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-04T08:33:33Z",
+      "id": "c9649fc450568f92fb77453a24fc63ab",
+      "comments": "https://news.ycombinator.com/item?id=46145154"
     },
     {
       "title": "Agentic QA \u2013 Open-source middleware to fuzz-test agents for loops",
@@ -252,15 +261,6 @@
       "published": "2025-12-02T18:17:48Z",
       "id": "36aebbdd307bdff3c6173e7bf6e8a2f6",
       "comments": "https://news.ycombinator.com/item?id=46124425"
-    },
-    {
-      "title": "Constructing the Word's First JPEG XL MD5 Hash Quine",
-      "link": "https://stackchk.fail/blog/jxl_hashquine_writeup",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-01T22:44:15Z",
-      "id": "d0ab2ec17789b565cfa655e46b353400",
-      "comments": "https://news.ycombinator.com/item?id=46114440"
     },
     {
       "title": "ULID: Universally Unique Lexicographically Sortable Identifier",
