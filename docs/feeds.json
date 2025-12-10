@@ -1,14 +1,50 @@
 {
-  "last_updated": "2025-12-10T01:19:17.148875Z",
+  "last_updated": "2025-12-10T03:53:48.381764Z",
   "items": [
     {
-      "title": "Rubio stages font coup: Times New Roman ousts Calibri",
-      "link": "https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/",
+      "title": "The end of the kernel Rust experiment",
+      "link": "https://lwn.net/Articles/1049831/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-10T00:08:34Z",
-      "id": "fbc2da894c98d1d6a6323488f25658f7",
-      "comments": "https://news.ycombinator.com/item?id=46212438"
+      "published": "2025-12-10T03:15:24Z",
+      "id": "694da4c07376290c69bf4a8f94f553c9",
+      "comments": "https://news.ycombinator.com/item?id=46213585"
+    },
+    {
+      "title": "NYC congestion pricing cuts air pollution by a fifth in six months",
+      "link": "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-10T02:58:45Z",
+      "id": "7fddf8929abb139e38fd5161a5c6d147",
+      "comments": "https://news.ycombinator.com/item?id=46213504"
+    },
+    {
+      "title": "Show all your application error using Cloudflare Error Page",
+      "link": "https://github.com/donlon/cloudflare-error-page",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-10T02:18:07Z",
+      "id": "8e53b7f0a73bc1d920cf0f78617ba4d8",
+      "comments": "https://news.ycombinator.com/item?id=46213273"
+    },
+    {
+      "title": "The AI-Education Death Spiral a.k.a. Let the Kids Cheat",
+      "link": "https://anandsanwal.me/ai-education-death-spiral/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-10T01:36:56Z",
+      "id": "f9d8312b7dfbd0e3779ae4483301f23d",
+      "comments": "https://news.ycombinator.com/item?id=46213045"
+    },
+    {
+      "title": "Post-transformer inference: 224\u00d7 compression of Llama-70B with improved accuracy",
+      "link": "https://zenodo.org/records/17873275",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-10T01:25:00Z",
+      "id": "0d0b182a13d2cd84c7cf774d2fe9d192",
+      "comments": "https://news.ycombinator.com/item?id=46212969"
     },
     {
       "title": "OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution",
@@ -119,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=46207360"
     },
     {
-      "title": "Launch HN: Mentat (YC F24) \u2013 Controlling LLMs with Runtime Intervention",
-      "link": "https://news.ycombinator.com/item?id=46207017",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-09T16:37:55Z",
-      "id": "175cdc7187b1f504c1d0885ff8f59071",
-      "comments": "https://news.ycombinator.com/item?id=46207017"
-    },
-    {
       "title": "Handsdown one of the coolest 3D websites",
       "link": "https://bruno-simon.com/",
       "source": "Hacker News",
@@ -200,15 +227,6 @@
       "comments": "https://news.ycombinator.com/item?id=46205437"
     },
     {
-      "title": "The Joy of Playing Grandia, on Sega Saturn",
-      "link": "https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-09T09:48:55Z",
-      "id": "ecb31797d545273df71bf8d343235dc0",
-      "comments": "https://news.ycombinator.com/item?id=46203138"
-    },
-    {
       "title": "30 Year Anniversary of WarCraft II: Tides of Darkness",
       "link": "https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z",
       "source": "Hacker News",
@@ -216,6 +234,24 @@
       "published": "2025-12-09T09:13:56Z",
       "id": "9086f77bfc0095ca20afd58508eb5411",
       "comments": "https://news.ycombinator.com/item?id=46202921"
+    },
+    {
+      "title": "When a video codec wins an Emmy",
+      "link": "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-05T17:15:01Z",
+      "id": "805244a891eb12f59aa107bda70a6941",
+      "comments": "https://news.ycombinator.com/item?id=46164197"
+    },
+    {
+      "title": "Writing our own Cheat Engine in Rust",
+      "link": "https://lonami.dev/blog/woce-1/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-05T09:21:16Z",
+      "id": "dd3e094891bc5f26e2c379bd8445cb30",
+      "comments": "https://news.ycombinator.com/item?id=46158803"
     },
     {
       "title": "Italy's longest-serving barista reflects on six decades behind the counter",
@@ -234,42 +270,6 @@
       "published": "2025-12-04T14:26:30Z",
       "id": "a3d08a808c554848a70de115187520ba",
       "comments": "https://news.ycombinator.com/item?id=46147996"
-    },
-    {
-      "title": "The Mysterious Realm of JavaScriptCore (2021)",
-      "link": "https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-04T08:33:33Z",
-      "id": "c9649fc450568f92fb77453a24fc63ab",
-      "comments": "https://news.ycombinator.com/item?id=46145154"
-    },
-    {
-      "title": "Agentic QA \u2013 Open-source middleware to fuzz-test agents for loops",
-      "link": "https://news.ycombinator.com/item?id=46134969",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-03T14:38:20Z",
-      "id": "c12452be4b228ff5b636703b5d5f683f",
-      "comments": "https://news.ycombinator.com/item?id=46134969"
-    },
-    {
-      "title": "LLM from scratch, part 28 \u2013 training a base model from scratch on an RTX 3090",
-      "link": "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-02T18:17:48Z",
-      "id": "36aebbdd307bdff3c6173e7bf6e8a2f6",
-      "comments": "https://news.ycombinator.com/item?id=46124425"
-    },
-    {
-      "title": "ULID: Universally Unique Lexicographically Sortable Identifier",
-      "link": "https://packagemain.tech/p/ulid-identifier-golang-postgres",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-01T20:45:07Z",
-      "id": "275386f2d60b0ddc5f9eacb4ddc4d4a9",
-      "comments": "https://news.ycombinator.com/item?id=46112965"
     }
   ]
 }
