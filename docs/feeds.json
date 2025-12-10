@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-12-10T03:53:48.381764Z",
+  "last_updated": "2025-12-10T06:27:36.013070Z",
   "items": [
+    {
+      "title": "Dependable C",
+      "link": "https://dependablec.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-10T04:29:30Z",
+      "id": "81a7341b8a682fe2a0d797869c04524f",
+      "comments": "https://news.ycombinator.com/item?id=46214091"
+    },
+    {
+      "title": "'Source available' is not open source (and that's okay)",
+      "link": "https://dri.es/source-available-is-not-open-source-and-that-is-okay",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-10T03:33:14Z",
+      "id": "04dd91b8d10dd3e8581e98728478241a",
+      "comments": "https://news.ycombinator.com/item?id=46213709"
+    },
     {
       "title": "The end of the kernel Rust experiment",
       "link": "https://lwn.net/Articles/1049831/",
@@ -11,15 +29,6 @@
       "comments": "https://news.ycombinator.com/item?id=46213585"
     },
     {
-      "title": "NYC congestion pricing cuts air pollution by a fifth in six months",
-      "link": "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-10T02:58:45Z",
-      "id": "7fddf8929abb139e38fd5161a5c6d147",
-      "comments": "https://news.ycombinator.com/item?id=46213504"
-    },
-    {
       "title": "Show all your application error using Cloudflare Error Page",
       "link": "https://github.com/donlon/cloudflare-error-page",
       "source": "Hacker News",
@@ -27,15 +36,6 @@
       "published": "2025-12-10T02:18:07Z",
       "id": "8e53b7f0a73bc1d920cf0f78617ba4d8",
       "comments": "https://news.ycombinator.com/item?id=46213273"
-    },
-    {
-      "title": "The AI-Education Death Spiral a.k.a. Let the Kids Cheat",
-      "link": "https://anandsanwal.me/ai-education-death-spiral/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-10T01:36:56Z",
-      "id": "f9d8312b7dfbd0e3779ae4483301f23d",
-      "comments": "https://news.ycombinator.com/item?id=46213045"
     },
     {
       "title": "Post-transformer inference: 224\u00d7 compression of Llama-70B with improved accuracy",
@@ -173,15 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=46206277"
     },
     {
-      "title": "Apple's slow AI pace becomes a strength as market grows weary of spending",
-      "link": "https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-09T15:08:24Z",
-      "id": "d43d97d353854ba14790d3d3a45c0bda",
-      "comments": "https://news.ycombinator.com/item?id=46205724"
-    },
-    {
       "title": "Pebble Index 01 \u2013 External memory for your brain",
       "link": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
       "source": "Hacker News",
@@ -209,15 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=46205519"
     },
     {
-      "title": "My favourite small hash table",
-      "link": "https://www.corsix.org/content/my-favourite-small-hash-table",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-09T14:47:20Z",
-      "id": "59bee88d3a6df2ac77390ac88f455933",
-      "comments": "https://news.ycombinator.com/item?id=46205461"
-    },
-    {
       "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
       "link": "https://mistral.ai/news/devstral-2-vibe-cli",
       "source": "Hacker News",
@@ -234,6 +216,24 @@
       "published": "2025-12-09T09:13:56Z",
       "id": "9086f77bfc0095ca20afd58508eb5411",
       "comments": "https://news.ycombinator.com/item?id=46202921"
+    },
+    {
+      "title": "Distributed ID Formats Are Architectural Commitments, Not Just Data Types",
+      "link": "https://piljoong.dev/posts/distributed-id-generation-complicated/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-06T09:13:02Z",
+      "id": "d95ce345a575bfe6a54d09a2c5901f06",
+      "comments": "https://news.ycombinator.com/item?id=46171844"
+    },
+    {
+      "title": "Are We over the \"Jaws Effect?\"",
+      "link": "https://nautil.us/are-we-finally-over-the-jaws-effect-1253001/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-06T01:08:04Z",
+      "id": "662f6c14aa88cfc17eed5bc528fc40ab",
+      "comments": "https://news.ycombinator.com/item?id=46169508"
     },
     {
       "title": "When a video codec wins an Emmy",
