@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-12-15T06:29:28.341369Z",
+  "last_updated": "2025-12-15T09:28:18.867985Z",
   "items": [
+    {
+      "title": "gRPC in Spring Boot - Piotr's TechBlog",
+      "link": "https://www.reddit.com/r/programming/comments/1pn2km9/grpc_in_spring_boot_piotrs_techblog/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-15T08:41:50Z",
+      "id": "7b994e62b3686e8a90b1297ef8423ef6"
+    },
+    {
+      "title": "Understanding mathematics through Lean",
+      "link": "https://www.reddit.com/r/programming/comments/1pn1w31/understanding_mathematics_through_lean/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-15T07:54:50Z",
+      "id": "904fd5fd7d20c353e324571b76d1783c"
+    },
+    {
+      "title": "What do you use to create that type of hand gestured apps?",
+      "link": "https://www.reddit.com/r/programming/comments/1pn1bci/what_do_you_use_to_create_that_type_of_hand/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-15T07:16:23Z",
+      "id": "2d7a60b2c03fd50d9d8fe0b5afb1f584"
+    },
+    {
+      "title": "Reducing App & Website Load Time by 40% \u2014 Production Notes",
+      "link": "https://www.reddit.com/r/programming/comments/1pn1apa/reducing_app_website_load_time_by_40_production/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-15T07:15:12Z",
+      "id": "a558b59b8e977a27c58326fd52be51bd"
+    },
+    {
+      "title": "Jubilant: Python subprocess and Go codegen",
+      "link": "https://www.reddit.com/r/programming/comments/1pn186k/jubilant_python_subprocess_and_go_codegen/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-15T07:10:47Z",
+      "id": "636f5711a7e2afba55aaf7c735f50e14"
+    },
+    {
+      "title": "Part 2 of backend driven badge system",
+      "link": "https://www.reddit.com/r/programming/comments/1pn0wpz/part_2_of_backend_driven_badge_system/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-15T06:50:35Z",
+      "id": "74e5418fa5b803afdba263da17f826b7"
+    },
+    {
+      "title": "Why proteins fold and how GPUs help us fold",
+      "link": "https://aval.bearblog.dev/nvidiaproteins/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-15T06:05:35Z",
+      "id": "a22f0b0c5095fc981e14efd3343f2c42",
+      "comments": "https://news.ycombinator.com/item?id=46270972"
+    },
     {
       "title": "After 4 Years in Frontend Development: Is React Still Worth Pursuing in the AI Era?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pmzzqd/after_4_years_in_frontend_development_is_react/",
@@ -10,13 +67,29 @@
       "id": "b08edebab9e10b35eda6d99db79277a6"
     },
     {
-      "title": "Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/",
+      "title": "Common Rust Lifetime Misconceptions",
+      "link": "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-15T05:20:38Z",
-      "id": "c40fa08a5a34dc7877d28a1c41b0887c",
-      "comments": "https://news.ycombinator.com/item?id=46270746"
+      "published": "2025-12-15T05:46:35Z",
+      "id": "6adc3f20919244b54ddba88c4cb645eb",
+      "comments": "https://news.ycombinator.com/item?id=46270882"
+    },
+    {
+      "title": "Kawhi Leonard on the Clippers sending Chris Paul home: \u201cI didn\u2019t have nothing to do with it. I didn\u2019t even know what was going on.\u201d",
+      "link": "https://www.reddit.com/r/nba/comments/1pmzhtc/kawhi_leonard_on_the_clippers_sending_chris_paul/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-15T05:26:24Z",
+      "id": "7e83ffcb3c75f2bc0c5c060b4561ffa8"
+    },
+    {
+      "title": "The AFC Championship will not include Tom Brady or Patrick Mahomes for the first time since the 2010 Season.",
+      "link": "https://www.reddit.com/r/nfl/comments/1pmze0t/the_afc_championship_will_not_include_tom_brady/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-15T05:20:23Z",
+      "id": "3cd96d5ef616c7703b2e7e5504f49815"
     },
     {
       "title": "Steph just dropped 48 at age 37 in a loss to Portland. What exactly is the Warriors\u2019 ceiling?",
@@ -27,12 +100,20 @@
       "id": "837dae1fc4f49f20214804888eee7ed2"
     },
     {
-      "title": "[Highlight] Steph Curry steals the ball but somehow misses the easy clutch layup at the other ene (to give the Warriors the lead). Deni Avdija fights for the rebound, gets it, and then makes both clutch free throws to put the Blazers up 3, with 19.9 seconds remaining",
-      "link": "https://www.reddit.com/r/nba/comments/1pmyle1/highlight_steph_curry_steals_the_ball_but_somehow/",
+      "title": "How was LeBron not ejected for his aggressive behavior towards and making physical contact with a referee?",
+      "link": "https://www.reddit.com/r/nba/comments/1pmyw9h/how_was_lebron_not_ejected_for_his_aggressive/",
       "source": "r/nba",
       "category": "sports",
-      "published": "2025-12-15T04:36:55Z",
-      "id": "b0a3d4fa955f5707961fa58e4d38bde6"
+      "published": "2025-12-15T04:53:27Z",
+      "id": "0a7ba0fb98e22e8c1bc95345a96f5050"
+    },
+    {
+      "title": "JJ McCarthy was 13/16 for 228 yards, 2 tds, 0 INT, 158.3 rating...when targeting anyone other than Jefferson vs. the Cowboys",
+      "link": "https://www.reddit.com/r/nfl/comments/1pmynfh/jj_mccarthy_was_1316_for_228_yards_2_tds_0_int/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-15T04:40:00Z",
+      "id": "fb183a7c2f782e6c1ec72cf171dfe9a7"
     },
     {
       "title": "Steph Curry tonight despite the loss: 48 PTS, 3 REB, 3 AST, 2 STL, 1 BLK, 16-25 FG, 12-18 3PT",
@@ -57,6 +138,14 @@
       "category": "sports",
       "published": "2025-12-15T04:30:52Z",
       "id": "2073b965e3fb3b54082cd67a739d606c"
+    },
+    {
+      "title": "[Highlight] Chiefs DT Chris Jones found out in his postgame press conference that KC was eliminated from the playoffs: \u201cWe still have a fighting chance. Are we out of the playoffs? We are? Ok\u2026\u201d",
+      "link": "https://www.reddit.com/r/nfl/comments/1pmycnm/highlight_chiefs_dt_chris_jones_found_out_in_his/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-15T04:24:07Z",
+      "id": "b69a8a15accb7bb0751dfb589ebbf234"
     },
     {
       "title": "Read Something Wonderful",
@@ -119,6 +208,15 @@
       "id": "0590961612f0e49774507dabb8755dc3"
     },
     {
+      "title": "Rob Reiner has died",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-15T03:54:03Z",
+      "id": "759b9dca5b26844c74885a3f5e63584e",
+      "comments": "https://news.ycombinator.com/item?id=46270273"
+    },
+    {
       "title": "[Highlight] Dillon Brooks picked up a hostile act technical and got ejected after hitting the go ahead 3 for contact with LeBron",
       "link": "https://www.reddit.com/r/nba/comments/1pmxqgy/highlight_dillon_brooks_picked_up_a_hostile_act/",
       "source": "r/nba",
@@ -141,14 +239,6 @@
       "category": "sports",
       "published": "2025-12-15T03:45:51Z",
       "id": "e4b9f85f4d1a1139e273e1152c99be07"
-    },
-    {
-      "title": "[Highlight] DILLON BROOKS FOR THE LEAD",
-      "link": "https://www.reddit.com/r/nba/comments/1pmxlp0/highlight_dillon_brooks_for_the_lead/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-15T03:44:34Z",
-      "id": "953a9e961de992a49eedd0ad0374caba"
     },
     {
       "title": "[Highlight] Steph Curry hits threes on three straight possessions, capping it with a look away",
@@ -198,15 +288,6 @@
       "category": "sports",
       "published": "2025-12-15T03:02:43Z",
       "id": "725b5fbafdf4d311d359e06b3905b318"
-    },
-    {
-      "title": "SoundCloud just banned VPN access",
-      "link": "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-15T02:51:24Z",
-      "id": "25dbefd4881623d20d347faa451c6b9d",
-      "comments": "https://news.ycombinator.com/item?id=46269891"
     },
     {
       "title": "[Highlight] LeBron gets in Dillon Brooks' face after night of needling, earning a tech for doing so",
@@ -345,14 +426,6 @@
       "id": "d2a04bc205c8a92195076d3b008d52f2"
     },
     {
-      "title": "The Denver Broncos have clinched a playoff berth, becoming the first team in the AFC to do so as of 6:11 PM MST on 12-14-2025",
-      "link": "https://www.reddit.com/r/nfl/comments/1pmuifb/the_denver_broncos_have_clinched_a_playoff_berth/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-12-15T01:11:33Z",
-      "id": "e0e9c37b6413a7b3483cba7f23fb8880"
-    },
-    {
       "title": "\"ClAssIc BEaRs MOvE TaKInG LoVeLAnd OvEr WarReN\" - Last 7 Games: Loveland: 28 catches, 382 yards, 4 TDs. Warren: 30 catches, 279 yards, and 1 TD. Oh, and Colston is 2 years younger and has the voice of an angel.",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pmuavh/classic_bears_move_taking_loveland_over_warren/",
       "source": "r/CHIBears",
@@ -442,6 +515,24 @@
       "comments": "https://news.ycombinator.com/item?id=46268869"
     },
     {
+      "title": "Roomba maker goes bankrupt, Chinese owner emerges",
+      "link": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-15T00:36:44Z",
+      "id": "e7abf8cf4ee21410e7bb3a2236c80269",
+      "comments": "https://news.ycombinator.com/item?id=46268854"
+    },
+    {
+      "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted",
+      "link": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-15T00:35:41Z",
+      "id": "9afeb5e69ceae142f697622e6d587644",
+      "comments": "https://news.ycombinator.com/item?id=46268844"
+    },
+    {
       "title": "[Highlight] Chargers social media team puts the final nail in Kansas City\u2019s coffin",
       "link": "https://www.reddit.com/r/nfl/comments/1pmtqtu/highlight_chargers_social_media_team_puts_the/",
       "source": "r/nfl",
@@ -466,28 +557,21 @@
       "id": "9e1e8ac2c88825a6c6d821809399e4df"
     },
     {
-      "title": "[Highlight] Tyler Shough's QB draw baits the Panthers into a personal foul",
-      "link": "https://www.reddit.com/r/nfl/comments/1pmtl0c/highlight_tyler_shoughs_qb_draw_baits_the/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-12-15T00:26:57Z",
-      "id": "3d82371ac846553d73dfc727fcde0dcb"
-    },
-    {
-      "title": "Built an AI system that generates complete applications autonomously - architecture breakdown and lessons learned",
-      "link": "https://www.reddit.com/r/programming/comments/1pmtf3a/built_an_ai_system_that_generates_complete/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-15T00:18:59Z",
-      "id": "6a8473d4bc269a18d876ca56cd23c543"
-    },
-    {
       "title": "[fantasynflnews] Patrick Mahomes diagnosed with torn ACL.",
       "link": "https://www.reddit.com/r/nfl/comments/1pmte1v/fantasynflnews_patrick_mahomes_diagnosed_with/",
       "source": "r/nfl",
       "category": "sports",
       "published": "2025-12-15T00:17:39Z",
       "id": "342dd7a6772d75def56334691dd4eae2"
+    },
+    {
+      "title": "If AI replaces workers, should it also pay taxes?",
+      "link": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-15T00:17:02Z",
+      "id": "b024797431bcb0821932fcdb3e968313",
+      "comments": "https://news.ycombinator.com/item?id=46268709"
     },
     {
       "title": "We are all Broncos fans today",
@@ -522,6 +606,15 @@
       "id": "6e90638d4f77665a095d32af7af8e4b2"
     },
     {
+      "title": "AI agents are starting to eat SaaS",
+      "link": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-14T23:48:37Z",
+      "id": "e97215000ac191d30a521c6c3e19d57a",
+      "comments": "https://news.ycombinator.com/item?id=46268452"
+    },
+    {
       "title": "[Highlight] Wemby casually steps over a tall crowd control barrier",
       "link": "https://www.reddit.com/r/nba/comments/1pmsqns/highlight_wemby_casually_steps_over_a_tall_crowd/",
       "source": "r/nba",
@@ -546,29 +639,12 @@
       "id": "eebfbfcb8fe038d9e0d3bdc8b6f674e0"
     },
     {
-      "title": "DARPA GO: Generative Optogenetics",
-      "link": "https://www.darpa.mil/research/programs/go",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-14T23:13:39Z",
-      "id": "e147c1a0edda86a23fcd9db026aa56d6",
-      "comments": "https://news.ycombinator.com/item?id=46268153"
-    },
-    {
       "title": "Game Thread: Chicago Bulls vs New Orleans Pelicans Live Score | NBA | Dec 14, 2025",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pmroov/game_thread_chicago_bulls_vs_new_orleans_pelicans/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2025-12-14T23:00:03Z",
       "id": "929aa7e9fbeeb464f81cf334cdfe2725"
-    },
-    {
-      "title": "LLM agents kept looping and breaking UI state \u2014 I fixed it by making execution deterministic",
-      "link": "https://www.reddit.com/r/programming/comments/1pmriw6/llm_agents_kept_looping_and_breaking_ui_state_i/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-14T22:52:50Z",
-      "id": "b6a2113ce6ec360eeef0b10e26d03fb0"
     },
     {
       "title": "Philip Rivers just became the fifth-oldest QB to throw a TD in NFL history.",
@@ -579,12 +655,12 @@
       "id": "5ab14f07db4606853fc7c24f5e01c549"
     },
     {
-      "title": "History of Declarative Programming",
+      "title": "History of Declarative Programming (2021)",
       "link": "https://shenlanguage.org/TBoS/tbos_15.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-12-14T22:46:01Z",
-      "id": "353cb746a46712038c4a7df1717be240",
+      "id": "d043b98315bd92b102a8835537bb5787",
       "comments": "https://news.ycombinator.com/item?id=46267947"
     },
     {
@@ -627,14 +703,6 @@
       "published": "2025-12-14T21:53:13Z",
       "id": "acb6d5eb321709ff5a890678ae2a0217",
       "comments": "https://news.ycombinator.com/item?id=46267385"
-    },
-    {
-      "title": "[Highlight] Aidan Hutchinson picks off Matthew Stafford",
-      "link": "https://www.reddit.com/r/nfl/comments/1pmprsp/highlight_aidan_hutchinson_picks_off_matthew/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-12-14T21:38:15Z",
-      "id": "588e8c5afe65504b9431e84e2af81fd9"
     },
     {
       "title": "[Schefter] Chiefs HC Andy Reid said Patrick Mahomes will undergo an MRI on his left knee and acknowledged to reporters that \u201cit didn\u2019t look good.\u201d",
@@ -709,15 +777,6 @@
       "id": "fefb61b23d459589619e8f5adbdfcd81"
     },
     {
-      "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
-      "link": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-14T21:05:13Z",
-      "id": "1c3083c8eae44bae126919e9397eed0f",
-      "comments": "https://news.ycombinator.com/item?id=46266875"
-    },
-    {
       "title": "Week 15 Post-Gamethread: Bears vs Browns",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pmowjw/week_15_postgamethread_bears_vs_browns/",
       "source": "r/CHIBears",
@@ -783,14 +842,6 @@
       "id": "cc24cfca236361e5704311f0d5cbf755"
     },
     {
-      "title": "I created a real time anonymous chat system and ran into moderation challenges",
-      "link": "https://www.reddit.com/r/programming/comments/1pmn8ge/i_created_a_real_time_anonymous_chat_system_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-14T19:52:58Z",
-      "id": "850c6a75f30313875ceea181f7e038b8"
-    },
-    {
       "title": "Im sorry but idc, Bears NEED to find a way to resign this guy",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pmn49a/im_sorry_but_idc_bears_need_to_find_a_way_to/",
       "source": "r/CHIBears",
@@ -849,15 +900,6 @@
       "comments": "https://news.ycombinator.com/item?id=46265362"
     },
     {
-      "title": "The Typeframe PX-88 Portable Computing System",
-      "link": "https://www.typeframe.net/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-14T17:43:39Z",
-      "id": "405c1b15404a298a5bb77bdce7ce5bf3",
-      "comments": "https://news.ycombinator.com/item?id=46265015"
-    },
-    {
       "title": "[Florio] Bengals didn't remove snow from stadium seats, in apparent violation of league policy",
       "link": "https://www.reddit.com/r/nfl/comments/1pmjwkm/florio_bengals_didnt_remove_snow_from_stadium/",
       "source": "r/nfl",
@@ -872,14 +914,6 @@
       "category": "tech",
       "published": "2025-12-14T17:31:52Z",
       "id": "03ba45955e744f10576da72638fd379b"
-    },
-    {
-      "title": "AI and the Ironies of Automation - Part 2",
-      "link": "https://www.reddit.com/r/programming/comments/1pmjpbh/ai_and_the_ironies_of_automation_part_2/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-14T17:29:35Z",
-      "id": "121e12cbaf687e1c0bb35afd99c66ccb"
     },
     {
       "title": "Senior dev position with no decision making at all.",
@@ -965,24 +999,6 @@
       "id": "242712d32f25b0bd14000ce5b249ebfb"
     },
     {
-      "title": "AI and the ironies of automation \u2013 Part 2",
-      "link": "https://www.ufried.com/blog/ironies_of_ai_2/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-14T13:19:15Z",
-      "id": "85d126abe30e64edc26947dc7c2ebec0",
-      "comments": "https://news.ycombinator.com/item?id=46262816"
-    },
-    {
-      "title": "Baumol's Cost Disease",
-      "link": "https://en.wikipedia.org/wiki/Baumol_effect",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-14T12:34:35Z",
-      "id": "9f556d8da154db41da8036be0ddfa673",
-      "comments": "https://news.ycombinator.com/item?id=46262592"
-    },
-    {
       "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (December 13, 2025)",
       "link": "https://www.reddit.com/r/nba/comments/1pmcfyg/serious_next_day_thread_postgame_discussion/",
       "source": "r/nba",
@@ -1022,15 +1038,6 @@
       "published": "2025-12-14T10:07:00Z",
       "id": "2dccf3f587152e85c9b0335140147757",
       "comments": "https://news.ycombinator.com/item?id=46262021"
-    },
-    {
-      "title": "Show HN: I Ching simulator with accurate Yarrow Stalk probabilities",
-      "link": "https://castiching.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-14T09:44:13Z",
-      "id": "db1443c8bb3b21164d28770388c0d31c",
-      "comments": "https://news.ycombinator.com/item?id=46261942"
     },
     {
       "title": "Valhalla? Python? Withers? Lombok? - Ask the Architects at JavaOne'25",
@@ -1095,14 +1102,6 @@
       "category": "tech",
       "published": "2025-12-13T23:58:33Z",
       "id": "68734c1669dbd90128470e0becd4b458"
-    },
-    {
-      "title": "From Azure Functions to FreeBSD",
-      "link": "https://www.reddit.com/r/programming/comments/1plxt0t/from_azure_functions_to_freebsd/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-13T22:24:39Z",
-      "id": "534b352677b0b39d7c639393b37c788e"
     },
     {
       "title": "Is there Rule #10 here - no sane AI-use advice/discussion posts?",
@@ -1191,14 +1190,6 @@
       "category": "tech",
       "published": "2025-12-13T14:23:40Z",
       "id": "3fea9e77da75ea61fd7d1e418f66dd77"
-    },
-    {
-      "title": "Eclipse IDE 2025-12 Released",
-      "link": "https://www.reddit.com/r/programming/comments/1pll9ca/eclipse_ide_202512_released/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-13T13:22:08Z",
-      "id": "4110a64a96e3352f2a03bdf50e3f54d4"
     },
     {
       "title": "Commit KVM image to git repo",
@@ -1329,6 +1320,15 @@
       "id": "f449e219462d957bbac9e7381c63b5f6"
     },
     {
+      "title": "The History of Xerox",
+      "link": "https://www.abortretry.fail/p/the-history-of-xerox",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-11T18:54:42Z",
+      "id": "b2384e00569bb5a8b7a2ed58b45e9e29",
+      "comments": "https://news.ycombinator.com/item?id=46235460"
+    },
+    {
       "title": "[Cowley] The Minnesota Timberwolves have called the Chicago Bulls about Coby White. Minnesota is reportedly not looking to wait until the February trade deadline to complete a deal for a point guard.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pk5kar/cowley_the_minnesota_timberwolves_have_called_the/",
       "source": "r/chicagobulls",
@@ -1343,6 +1343,24 @@
       "category": "sports",
       "published": "2025-12-11T09:58:05Z",
       "id": "2824c2aa2e99f37bb65bb84e610d2fff"
+    },
+    {
+      "title": "A trip through the Graphics Pipeline (2011)",
+      "link": "https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-11T09:30:32Z",
+      "id": "b0a23b9d20b6b1fd8a48f2fbe791af11",
+      "comments": "https://news.ycombinator.com/item?id=46229350"
+    },
+    {
+      "title": "$5 whale listening hydrophone making workshop",
+      "link": "https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-11T08:42:22Z",
+      "id": "6d8446aa1c6d00ea2e55c73da3f476aa",
+      "comments": "https://news.ycombinator.com/item?id=46229030"
     },
     {
       "title": "Players from Patrick William\u2019s Draft Class that are better than him",
@@ -1361,30 +1379,12 @@
       "id": "f8b9adce494ef7c2f3f7b2dcd6796507"
     },
     {
-      "title": "Developing a food-safe finish for my wooden spoons",
-      "link": "https://alinpanaitiu.com/blog/developing-hardwax-oil/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-10T21:44:30Z",
-      "id": "119e3320890d4f5e0bd35731bbed22fd",
-      "comments": "https://news.ycombinator.com/item?id=46224303"
-    },
-    {
       "title": "Ranking each bulls player by @AndrewDBailey formula",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pj5ej4/ranking_each_bulls_player_by_andrewdbailey_formula/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2025-12-10T15:26:44Z",
       "id": "2b122edf8a49e696855a4714422b65db"
-    },
-    {
-      "title": "Getting into public speaking",
-      "link": "https://james.brooks.page/blog/getting-into-public-speaking",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-10T10:03:56Z",
-      "id": "f10d40b0082be052156559ee4576c842",
-      "comments": "https://news.ycombinator.com/item?id=46216008"
     },
     {
       "title": "How well do you know C++ auto type deduction?",
@@ -1456,11 +1456,11 @@
     },
     {
       "title": "Rio de Janeiro's talipot palm trees bloom for the first and only time",
-      "link": "https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html",
+      "link": "https://apnews.com/article/brazil-rio-talipot-palm-flamengo-park-dcfb1ce237af7a10ab72205fc9bbdc02",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-12-07T03:42:37Z",
-      "id": "abad0e0f274cdb9dbfb94a27e0807b98",
+      "id": "34db76f45673d3db7b3b5856006178af",
       "comments": "https://news.ycombinator.com/item?id=46178966"
     },
     {
