@@ -1,21 +1,64 @@
 {
-  "last_updated": "2025-12-18T06:27:14.001557Z",
+  "last_updated": "2025-12-18T09:23:07.280261Z",
   "items": [
     {
-      "title": "HELP - urgent (reg offer)",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ppjr8i/help_urgent_reg_offer/",
-      "source": "r/ExperiencedDevs",
+      "title": "AI helps ship faster but it produces 1.7\u00d7 more bugs",
+      "link": "https://www.reddit.com/r/programming/comments/1ppm5vd/ai_helps_ship_faster_but_it_produces_17_more_bugs/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2025-12-18T06:19:36Z",
-      "id": "fe4c10d542663acb9797ed39438a6ae5"
+      "published": "2025-12-18T08:55:31Z",
+      "id": "eb0f42fab52d63b2beb2a9ee0350fef1"
     },
     {
-      "title": "Designing a terminal based coding assistant with multi provider LLM failover. How do you preserve conversation state across stateless APIs?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ppjr02/designing_a_terminal_based_coding_assistant_with/",
+      "title": "What writing a tiny bytecode VM taught me about debugging long-running programs",
+      "link": "https://www.reddit.com/r/programming/comments/1pplwnm/what_writing_a_tiny_bytecode_vm_taught_me_about/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-18T08:37:59Z",
+      "id": "9951ac9ccafceeef4086d1028f20a688"
+    },
+    {
+      "title": "Using AI assisting coding at you job or personal projects",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pplp5y/using_ai_assisting_coding_at_you_job_or_personal/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2025-12-18T06:19:09Z",
-      "id": "bbd1a3e1e581d122b5b15f74a25b4636"
+      "published": "2025-12-18T08:23:27Z",
+      "id": "7faba760352d051bf2037a2bea81bd80"
+    },
+    {
+      "title": "RCE via ND6 Router Advertisements in FreeBSD",
+      "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-18T08:12:42Z",
+      "id": "42a25955818598837da5d801d5cc36eb",
+      "comments": "https://news.ycombinator.com/item?id=46310104"
+    },
+    {
+      "title": "What is an elliptic curve? (2019)",
+      "link": "https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-18T06:40:29Z",
+      "id": "02bbb28ef119ed7981e32f8924ef5f9c",
+      "comments": "https://news.ycombinator.com/item?id=46309571"
+    },
+    {
+      "title": "Ignore Kevin Warren focus on football",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1ppjo6k/ignore_kevin_warren_focus_on_football/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-18T06:14:34Z",
+      "id": "c3aa6d1b8efba3da08e929e00c5a04d0"
+    },
+    {
+      "title": "Egyptian Hieroglyphs: Lesson 1",
+      "link": "https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-18T06:08:23Z",
+      "id": "820b9f74eccbb428e4054a79513e94d8",
+      "comments": "https://news.ycombinator.com/item?id=46309407"
     },
     {
       "title": "How Claude Code Authenticates Requests",
@@ -51,13 +94,13 @@
       "id": "7edc7da668c4d11e69d1302d185bf389"
     },
     {
-      "title": "Mozilla's New CEO Confirms Firefox Will Become an \"AI Browser\"",
-      "link": "https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy",
+      "title": "'Ghost jobs' are on the rise \u2013 and so are calls to ban them",
+      "link": "https://www.bbc.com/news/articles/clyzvpp8g3vo",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-18T05:01:00Z",
-      "id": "c989e977f3565d7990aca49f206fe213",
-      "comments": "https://news.ycombinator.com/item?id=46309039"
+      "published": "2025-12-18T05:06:33Z",
+      "id": "3e88fa79d1e834b727d9af67bcfc1cb4",
+      "comments": "https://news.ycombinator.com/item?id=46309061"
     },
     {
       "title": "[Yapkowitz] VanVleet says Kawhi declared himself \u2018better than Kobe Bryant\u2019 after 2019 ring: \"He didn\u2019t say it to me, I just overheard it. And it was a conversation that was being had, and the sentiment of that conversation. . .was when we won the championship. . .was like, \u2018I\u2019m better than Kobe'\"",
@@ -91,6 +134,14 @@
       "category": "sports",
       "published": "2025-12-18T04:12:24Z",
       "id": "169b3013948b0855fac9471a3f440552"
+    },
+    {
+      "title": "[Highlight] Lions WR Amon-Ra St. Brown ponders the illegality of NFL players picking their nose during a game: \"NFL, why can\u2019t I dig in my nose and flick it? There\u2019s no way, like, what\u2019s bad about that?\"",
+      "link": "https://www.reddit.com/r/nfl/comments/1pphcwp/highlight_lions_wr_amonra_st_brown_ponders_the/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-18T04:07:03Z",
+      "id": "6175909f2ea0f5c07c19441fa03a0784"
     },
     {
       "title": "\u201cYou just blew two calls. You f*cking know it\u201d - Chris Finch",
@@ -243,6 +294,14 @@
       "category": "sports",
       "published": "2025-12-18T02:03:30Z",
       "id": "3b954723b73c4626f930527fa1ddc9cf"
+    },
+    {
+      "title": "[Schefter] Patrick Mahomes has begun rehab following surgery to repair two torn ligaments in his left knee, and the team is optimistic the two-time MVP could be back early next season -- perhaps even by Week 1.",
+      "link": "https://www.reddit.com/r/nfl/comments/1ppetti/schefter_patrick_mahomes_has_begun_rehab/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-18T01:59:21Z",
+      "id": "db7632140e3bc656e71d24a2faeaedb8"
     },
     {
       "title": "Cam Ward wants to be involved in Titans' upcoming coaching search: 'I want to meet all of them'",
@@ -424,15 +483,6 @@
       "published": "2025-12-17T22:27:29Z",
       "id": "1e2d9211a69abbf3f6aa3784c72c7459",
       "comments": "https://news.ycombinator.com/item?id=46306456"
-    },
-    {
-      "title": "A look back: LANPAR, the first spreadsheet",
-      "link": "https://technicallywewrite.com/2025/12/16/lanpar",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-17T22:19:53Z",
-      "id": "792526559c1e91a3a9de3a89045c96a0",
-      "comments": "https://news.ycombinator.com/item?id=46306371"
     },
     {
       "title": "J.J. Watt says he would have signed for $5 million to play for the Green Bay Packers",
@@ -796,15 +846,6 @@
       "id": "5f5b8371072cb2232611b28861656425"
     },
     {
-      "title": "Launch HN: Kenobi (YC W22) \u2013 Personalize your website for every visitor",
-      "link": "https://news.ycombinator.com/item?id=46301865",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-17T16:44:13Z",
-      "id": "3bba53c233583678bbdf2c2057580cef",
-      "comments": "https://news.ycombinator.com/item?id=46301865"
-    },
-    {
       "title": "Gemini 3 Flash: Frontier intelligence built for speed",
       "link": "https://blog.google/products/gemini/gemini-3-flash/",
       "source": "Hacker News",
@@ -846,22 +887,6 @@
       "id": "f9be3922b87d3871dbc4fa48a728769f"
     },
     {
-      "title": "[Nick Whalen] The Coleston Loveland vs Tyler Warren debate has shifted.",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pp0u4o/nick_whalen_the_coleston_loveland_vs_tyler_warren/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-17T16:24:08Z",
-      "id": "48424e5e2267ea1a159210eb4495f009"
-    },
-    {
-      "title": "Runtime environment variables in Next.js - build reusable Docker images",
-      "link": "https://www.reddit.com/r/programming/comments/1pp0mpk/runtime_environment_variables_in_nextjs_build/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-17T16:16:08Z",
-      "id": "2923c98419f07fc6b9c464650d17d53e"
-    },
-    {
       "title": "[Schefter] The numbers game: Tua Tagovailoa already has $54 million guaranteed to him in 2026. On March 15, $3M of his 2027 salary becomes guaranteed. Cutting him would leave $99M in dead money. Post June 1 cut would equal $67.4M in dead money in 2026, $31.8M in 2027.",
       "link": "https://www.reddit.com/r/nfl/comments/1pp0abg/schefter_the_numbers_game_tua_tagovailoa_already/",
       "source": "r/nfl",
@@ -892,14 +917,6 @@
       "category": "sports",
       "published": "2025-12-17T15:30:56Z",
       "id": "70c0092d308c78ea56396792ac819a79"
-    },
-    {
-      "title": "[Garafolo] The #Dolphins are releasing veteran pass rusher Matt Judon, sources tell The Insiders. Judon appeared in 13 games this season for Miami and could be an option for playoff teams looking for a veteran presence.",
-      "link": "https://www.reddit.com/r/nfl/comments/1pozddk/garafolo_the_dolphins_are_releasing_veteran_pass/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-12-17T15:27:54Z",
-      "id": "5e48057879306f78aad78795252c6347"
     },
     {
       "title": "[Shelburne] Chris Paul reportedly threw a Halloween party, and barely any of his Clippers teammates showed up",
@@ -1013,14 +1030,6 @@
       "category": "tech",
       "published": "2025-12-17T11:20:09Z",
       "id": "6cecbd70765fcf4fa30657445b2dcade"
-    },
-    {
-      "title": "\u201cNFL Was Crying\u201d: Maxx Crosby Says League Forced Him to Remove Shoes Honoring His Daughter",
-      "link": "https://www.reddit.com/r/nfl/comments/1potm1o/nfl_was_crying_maxx_crosby_says_league_forced_him/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-12-17T10:51:43Z",
-      "id": "da31892d200f22b8342c1d0216c75cab"
     },
     {
       "title": "Do you maintain your own packages?",
@@ -1192,20 +1201,20 @@
       "id": "dc500ef6b3933632d14eef2192310d7e"
     },
     {
-      "title": "JetBrains Fleet dropped for AI products instead",
-      "link": "https://www.reddit.com/r/programming/comments/1pnz3n0/jetbrains_fleet_dropped_for_ai_products_instead/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-16T10:57:12Z",
-      "id": "2daf9d54905d48bbaf6c344c69f9cf0d"
-    },
-    {
       "title": "How do you handle conflicting dependencies when creating custom minimal container images?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pnyy1u/how_do_you_handle_conflicting_dependencies_when/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2025-12-16T10:47:34Z",
       "id": "6ad86a6d7c41d756bab6f1248007ecbc"
+    },
+    {
+      "title": "HTMX in production",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pnyks0/htmx_in_production/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-16T10:24:05Z",
+      "id": "a901a3cb8d7dcd42670c13caa0f74b54"
     },
     {
       "title": "Am I slow, or is it normal?",
@@ -1238,15 +1247,6 @@
       "category": "sports",
       "published": "2025-12-15T20:06:44Z",
       "id": "d618caf4c34a0265c2d65c3c7a0b2f00"
-    },
-    {
-      "title": "Opencoil \u2013 appropriating inductive charging pads in the wild (2020) [video]",
-      "link": "https://media.ccc.de/v/rc3-11575-opencoil_a_roaming_speedshow",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-15T17:40:00Z",
-      "id": "843a3807b8afa832f3f65e7734154165",
-      "comments": "https://news.ycombinator.com/item?id=46277681"
     },
     {
       "title": "Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]",
@@ -1290,6 +1290,15 @@
       "id": "7709b4a9437636db00f26c31a84ecb05"
     },
     {
+      "title": "Building a High-Performance OpenAPI Parser in Go",
+      "link": "https://www.speakeasy.com/blog/building-speakeasy-openapi-go-library",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-15T10:03:18Z",
+      "id": "9c5facafface29d403a0417a61af7ed4",
+      "comments": "https://news.ycombinator.com/item?id=46272454"
+    },
+    {
       "title": "Working quickly is more important than it seems (2015)",
       "link": "https://jsomers.net/blog/speed-matters",
       "source": "Hacker News",
@@ -1331,13 +1340,13 @@
       "id": "929aa7e9fbeeb464f81cf334cdfe2725"
     },
     {
-      "title": "My payment agent is named George, not stripe-agent",
-      "link": "https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/",
+      "title": "Feather Detective (2016)",
+      "link": "https://www.audubon.org/magazine/behind-scenes-worlds-top-feather-detective",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-14T18:55:30Z",
-      "id": "c45360cf4c05137006adbe69ed28db4f",
-      "comments": "https://news.ycombinator.com/item?id=46265684"
+      "published": "2025-12-14T21:04:25Z",
+      "id": "e1a133de25fcd9902fe95942f12b4abd",
+      "comments": "https://news.ycombinator.com/item?id=46266867"
     },
     {
       "title": "Zmij: Faster floating point double-to-string conversion",
@@ -1371,15 +1380,6 @@
       "category": "sports",
       "published": "2025-12-13T19:43:27Z",
       "id": "d0869e216f7eee39edba2225896d0467"
-    },
-    {
-      "title": "Fast SEQUENCE iteration in Common Lisp",
-      "link": "https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-13T18:56:48Z",
-      "id": "91c82f754ab0781bcf6bb71056b582c9",
-      "comments": "https://news.ycombinator.com/item?id=46256946"
     },
     {
       "title": "Devin Harris gave D-Rose his 'Welcome to the NBA' moment \ud83d\udc40 #nba #throwback #highlights",
