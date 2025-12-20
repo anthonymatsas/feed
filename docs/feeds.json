@@ -1,6 +1,140 @@
 {
-  "last_updated": "2025-12-20T06:25:32.505454Z",
+  "last_updated": "2025-12-20T09:16:26.793224Z",
   "items": [
+    {
+      "title": "When did a 'small' PR quietly become your biggest risk?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pr9q9t/when_did_a_small_pr_quietly_become_your_biggest/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-20T08:39:58Z",
+      "id": "d041fce92013177fe3f3698d48ac5906"
+    },
+    {
+      "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
+      "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-20T08:36:52Z",
+      "id": "b32fcf676742207525b79b92f9565a77",
+      "comments": "https://news.ycombinator.com/item?id=46334533"
+    },
+    {
+      "title": "The Development Process to Build a Fuel Delivery App",
+      "link": "https://www.reddit.com/r/programming/comments/1pr9j5x/the_development_process_to_build_a_fuel_delivery/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-20T08:26:52Z",
+      "id": "8cb663f9fcb3866f6d9dca1bf0e8a851"
+    },
+    {
+      "title": "A train-sized tunnel is now carrying electricity under South London",
+      "link": "https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-20T08:26:50Z",
+      "id": "1eff5b5718c3e4d532142188b3e33b51",
+      "comments": "https://news.ycombinator.com/item?id=46334483"
+    },
+    {
+      "title": "Debian adds LoongArch as officially supported architecture",
+      "link": "https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-20T07:47:55Z",
+      "id": "967282fc16188233729a380c9e4276d1",
+      "comments": "https://news.ycombinator.com/item?id=46334333"
+    },
+    {
+      "title": "From the AskProgramming community on Reddit",
+      "link": "https://www.reddit.com/r/programming/comments/1pr8u7j/from_the_askprogramming_community_on_reddit/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-20T07:42:37Z",
+      "id": "61fab6be81d28491208892f7cdd08818"
+    },
+    {
+      "title": "NTP at NIST Boulder Has Lost Power",
+      "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-20T07:39:26Z",
+      "id": "d08118c254334acbc7327741a2768e73",
+      "comments": "https://news.ycombinator.com/item?id=46334299"
+    },
+    {
+      "title": "Contrails Map",
+      "link": "https://map.contrails.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-20T07:38:57Z",
+      "id": "ec5c0018e934676199ca84352c8e0cfd",
+      "comments": "https://news.ycombinator.com/item?id=46334296"
+    },
+    {
+      "title": "Bobby Wagner is 25 Tackles away from joining Ray Lewis and London Fletcher as the only players to reach 2000 Combined Tackles in a career.",
+      "link": "https://www.reddit.com/r/nfl/comments/1pr8qen/bobby_wagner_is_25_tackles_away_from_joining_ray/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-20T07:35:52Z",
+      "id": "3d15682a8b33ed3943bdb5697909b005"
+    },
+    {
+      "title": "We revoked our v1.0 status. Why we're rolling NalthJS back to v0.9.0 to prioritize security architecture.",
+      "link": "https://www.reddit.com/r/programming/comments/1pr8mhf/we_revoked_our_v10_status_why_were_rolling/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-20T07:28:35Z",
+      "id": "e0a08574668afa5b22f7ff43da785bdc"
+    },
+    {
+      "title": "[Anthony Edwards] on Chris Finch\u2019s ejection: \u201cI\u2019m fuckin with that. I\u2019m fuckin with that. Yeah, that\u2019s my dawg.\u201d",
+      "link": "https://www.reddit.com/r/nba/comments/1pr8jei/anthony_edwards_on_chris_finchs_ejection_im/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-20T07:23:03Z",
+      "id": "27bdc0314d3db2cc142af177ee5d0bf4"
+    },
+    {
+      "title": "Chicago Bulls Power Rankings Week 9",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1pr8ijl/chicago_bulls_power_rankings_week_9/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2025-12-20T07:21:27Z",
+      "id": "3661589eeb38dc3023b9bb2b0a61be22"
+    },
+    {
+      "title": "Are Microservices what enable autonomous work across teams? Not really.",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pr80ge/are_microservices_what_enable_autonomous_work/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-20T06:50:12Z",
+      "id": "3b45496c9951fbd44c0adbb38e5d9290"
+    },
+    {
+      "title": "Mastering AI Coding: The Universal Playbook of Tips, Tricks, and Patterns",
+      "link": "https://www.reddit.com/r/programming/comments/1pr7wc9/mastering_ai_coding_the_universal_playbook_of/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-20T06:43:20Z",
+      "id": "489550396f47d69d2a1aad0ba0cfbe63"
+    },
+    {
+      "title": "Privacy doesn't mean anything anymore, anonymity does",
+      "link": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-20T06:21:05Z",
+      "id": "30a0c0c97ba577613ab25872d2a3630f",
+      "comments": "https://news.ycombinator.com/item?id=46334025"
+    },
+    {
+      "title": "Also spotted on 90\u2026",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1pr7h8w/also_spotted_on_90/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-20T06:17:41Z",
+      "id": "e0e1479ebe1ca767d5c3ab5935bfbec1"
+    },
     {
       "title": "Spotted on 90",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pr7e1q/spotted_on_90/",
@@ -25,6 +159,15 @@
       "category": "sports",
       "published": "2025-12-20T06:02:55Z",
       "id": "484e6e32d70b13a10c5b6d9ad2327e9a"
+    },
+    {
+      "title": "Data Bank \u2013 Nuforc \u2013 Latest UFO Sightings",
+      "link": "https://nuforc.org/databank/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-20T06:00:31Z",
+      "id": "e72843146ff8c97c0da44e512cb0cd15",
+      "comments": "https://news.ycombinator.com/item?id=46333959"
     },
     {
       "title": "Bulls record this season with teams above .500 vs teams below .500",
@@ -285,14 +428,6 @@
       "id": "7f0c0bda4d29a0721173069e2a979830"
     },
     {
-      "title": "\ud83d\udc3b\u2b07\ufe0f",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pqzv6e/_/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-19T23:48:23Z",
-      "id": "4a3dda75c9094ee5351f41743f0e3a55"
-    },
-    {
       "title": "Week 16 Gamethread: Chicago Bears (10-4) vs Green Bay Packers (9-4-1)",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pqzoqy/week_16_gamethread_chicago_bears_104_vs_green_bay/",
       "source": "r/CHIBears",
@@ -382,15 +517,6 @@
       "id": "5c3d5ff318d49805d620093441ecde1e"
     },
     {
-      "title": "Buteyko Method",
-      "link": "https://en.wikipedia.org/wiki/Buteyko_method",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-19T21:52:07Z",
-      "id": "6e981c0a01825b34483e2019090fe844",
-      "comments": "https://news.ycombinator.com/item?id=46331379"
-    },
-    {
       "title": "just a picture of an actual bear",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pqx6ef/just_a_picture_of_an_actual_bear/",
       "source": "r/CHIBears",
@@ -473,23 +599,6 @@
       "id": "196a304d3457abea04451c7d3f249b87"
     },
     {
-      "title": "The scariest boot loader code",
-      "link": "http://miod.online.fr/software/openbsd/stories/boot_hppa.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-19T20:29:53Z",
-      "id": "416eda13cb78cc68a5f36015cb4c90f4",
-      "comments": "https://news.ycombinator.com/item?id=46330522"
-    },
-    {
-      "title": "Naji Marshall on Cooper Flagg: \u201cCoop is really amazing at basketball. He\u2019s a dog, on both ends of the floor and every game somebody guards them with their best defender and he just goes out and proves that he\u2019s a No. 1 pick\u2026Pledge allegiance to the Flagg, man.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1pqv4lk/naji_marshall_on_cooper_flagg_coop_is_really/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-19T20:14:15Z",
-      "id": "9f6704fc0ab7136243914518e61e67a0"
-    },
-    {
       "title": "[Rapoport] Seahawks LB Derick Hall has been suspended without pay for one game for an act of unnecessary roughness and unsportsmanlike conduct during Thursday\u2019s game against the Los Angeles Rams.",
       "link": "https://www.reddit.com/r/nfl/comments/1pquyv7/rapoport_seahawks_lb_derick_hall_has_been/",
       "source": "r/nfl",
@@ -512,14 +621,6 @@
       "category": "tech",
       "published": "2025-12-19T19:52:49Z",
       "id": "cdec5fab78f62339d7fe41f9f5128f0a"
-    },
-    {
-      "title": "Rust lowers the risk of CVE in the Linux kernel by 95%",
-      "link": "https://www.reddit.com/r/programming/comments/1pquli4/rust_lowers_the_risk_of_cve_in_the_linux_kernel/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-19T19:52:41Z",
-      "id": "9469a59367a95485047730e7f2716974"
     },
     {
       "title": "[Taylor] Travis Kelce on his future: \u201cI\u2019d rather keep the focus on this team, right now. All the conversations I have with the team moving forward will be with them. It\u2019s a unique time in my life. I\u2019ve got three games left & I know when the season ends.\"",
@@ -611,15 +712,6 @@
       "comments": "https://news.ycombinator.com/item?id=46329038"
     },
     {
-      "title": "Reverse Engineering US Airline's PNR System and Accessing All Reservations",
-      "link": "https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-19T18:15:17Z",
-      "id": "16737786b4a97e32700c4284b34a9baa",
-      "comments": "https://news.ycombinator.com/item?id=46328992"
-    },
-    {
       "title": "2025 Draft Class",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pqrjbg/2025_draft_class/",
       "source": "r/CHIBears",
@@ -666,14 +758,6 @@
       "category": "sports",
       "published": "2025-12-19T17:26:20Z",
       "id": "8acaf968afcc10306c70c34e34a73f34"
-    },
-    {
-      "title": "[Docling] LeetCode in Production: Union-Find and Spatial Indexing for LLM",
-      "link": "https://www.reddit.com/r/programming/comments/1pqqswn/docling_leetcode_in_production_unionfind_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-19T17:21:28Z",
-      "id": "d979bcb386d5c9b8d9252bfbce902fb8"
     },
     {
       "title": "Performance Hints (2023)",
@@ -748,15 +832,6 @@
       "published": "2025-12-19T15:57:01Z",
       "id": "1a9cc64e389d5679d29e290587806e8a",
       "comments": "https://news.ycombinator.com/item?id=46327206"
-    },
-    {
-      "title": "Believe the Checkbook",
-      "link": "https://robertgreiner.com/believe-the-checkbook/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-19T15:51:30Z",
-      "id": "aee6a40e170ef274720847890a527d5d",
-      "comments": "https://news.ycombinator.com/item?id=46327133"
     },
     {
       "title": "How does the interview process change when you've already worked with the hiring manager in the past at a different company?",
@@ -906,38 +981,12 @@
       "comments": "https://news.ycombinator.com/item?id=46324702"
     },
     {
-      "title": "GotaTun \u2013 Mullvad's WireGuard Implementation in Rust",
-      "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-19T11:16:23Z",
-      "id": "b80c53c9b260bed1ffdd6cf521ad446a",
-      "comments": "https://news.ycombinator.com/item?id=46324543"
-    },
-    {
-      "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
-      "link": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-19T10:03:38Z",
-      "id": "6e8e71228fd5af702f9bc2111bdd19a3",
-      "comments": "https://news.ycombinator.com/item?id=46324078"
-    },
-    {
       "title": "Lightweight feature traceability in a polyrepo - our markdown-based approach",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pqh4nf/lightweight_feature_traceability_in_a_polyrepo/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2025-12-19T09:42:21Z",
       "id": "baaa72ac4d2f87d2006a5e0e433a78d2"
-    },
-    {
-      "title": "Elm on the Backend with Node.js: An Experiment in Opaque Values",
-      "link": "https://www.reddit.com/r/programming/comments/1pqgq2b/elm_on_the_backend_with_nodejs_an_experiment_in/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-19T09:15:23Z",
-      "id": "8df8d582c3f32f86d3f558f5e4aa7235"
     },
     {
       "title": "Clean Code: The Good, the Bad and the Ugly",
@@ -995,14 +1044,6 @@
       "category": "sports",
       "published": "2025-12-19T04:54:40Z",
       "id": "058c39f326d3a798af7f7d3795b25698"
-    },
-    {
-      "title": "[Highlight] Seahawks' game-deciding 2 point conversion attempt is good!",
-      "link": "https://www.reddit.com/r/nfl/comments/1pqcdmo/highlight_seahawks_gamedeciding_2_point/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-12-19T04:53:22Z",
-      "id": "7b5eeef64cc1a35d704795361fb642d0"
     },
     {
       "title": "[Highlight] After review, the 2 point conversion stands as a backwards pass recovered in the end zone",
@@ -1177,15 +1218,6 @@
       "id": "976a2523cd084f4847a6e934c8e5e154"
     },
     {
-      "title": "Beginning January 2026, all ACM publications will be made open access",
-      "link": "https://dl.acm.org/openaccess",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-18T15:39:09Z",
-      "id": "2db8778fee637ff709792250ce0437ed",
-      "comments": "https://news.ycombinator.com/item?id=46313991"
-    },
-    {
       "title": "Mistral OCR 3",
       "link": "https://mistral.ai/news/mistral-ocr-3",
       "source": "Hacker News",
@@ -1267,14 +1299,6 @@
       "id": "6bb3f4fab5566b140947f8ab51bc47fe"
     },
     {
-      "title": "How to keep up with constant goal switching.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pp1rzq/how_to_keep_up_with_constant_goal_switching/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-17T17:00:45Z",
-      "id": "1dfa73519be05192c608552294909d62"
-    },
-    {
       "title": "PRE GAME: Chicago Bulls (10-15) vs Cleveland Cavaliers (15-12) (December 17, 2025)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1poyqzz/pre_game_chicago_bulls_1015_vs_cleveland/",
       "source": "r/chicagobulls",
@@ -1283,29 +1307,13 @@
       "id": "413d5fcb1e583b4f1fe3cd1b214e4fd5"
     },
     {
-      "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
-      "link": "https://www.reddit.com/r/programming/comments/1pou327/aws_ceo_says_replacing_junior_devs_with_ai_is_one/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-17T11:20:09Z",
-      "id": "6cecbd70765fcf4fa30657445b2dcade"
-    },
-    {
-      "title": "Vm.overcommit_memory=2 is the right setting for servers",
-      "link": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
+      "title": "A terminal emulator that runs in your terminal. Powered by Turbo Vision",
+      "link": "https://github.com/magiblot/tvterm",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-17T10:45:27Z",
-      "id": "3235be2e2c29113cd21b388f750d1b98",
-      "comments": "https://news.ycombinator.com/item?id=46300411"
-    },
-    {
-      "title": "Unrealistic expectation to build an NLP API in 2-3 hours?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pos2zg/unrealistic_expectation_to_build_an_nlp_api_in_23/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-17T09:13:24Z",
-      "id": "5008c6d6e6a93509fe8a59f66bc5b276"
+      "published": "2025-12-17T13:41:53Z",
+      "id": "4d2c67813de6db5e7347bee5848e22db",
+      "comments": "https://news.ycombinator.com/item?id=46301847"
     },
     {
       "title": "Bulls Granted Disabled Player Exception",
@@ -1332,15 +1340,6 @@
       "id": "a40fc53a01df8da24972bd5d034bdf22"
     },
     {
-      "title": "The pitfalls of partitioning Postgres yourself",
-      "link": "https://hatchet.run/blog/postgres-partitioning",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-16T18:21:21Z",
-      "id": "f5805a0480003e4d90fc43f5807f1cd5",
-      "comments": "https://news.ycombinator.com/item?id=46292148"
-    },
-    {
       "title": "Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions",
       "link": "https://gh-actions-lockfile.net",
       "source": "Hacker News",
@@ -1348,6 +1347,15 @@
       "published": "2025-12-16T15:44:33Z",
       "id": "707ac776b3d191307815801f2917db81",
       "comments": "https://news.ycombinator.com/item?id=46289955"
+    },
+    {
+      "title": "Feast Your Eyes on Japan's Fake Food",
+      "link": "https://www.newyorker.com/culture/annals-of-gastronomy/feast-your-eyes-on-japans-fake-food",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-16T01:30:48Z",
+      "id": "3e5e24e3bfb710ec72def3c42e137347",
+      "comments": "https://news.ycombinator.com/item?id=46283597"
     },
     {
       "title": "Home game tips for Autographs/Seats.",
@@ -1446,14 +1454,6 @@
       "category": "sports",
       "published": "2025-12-14T15:12:54Z",
       "id": "018ed9f2d8c6833b001d003d15831b88"
-    },
-    {
-      "title": "free hotdog for you code (L62B487)",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1plupks/free_hotdog_for_you_code_l62b487/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2025-12-13T20:08:32Z",
-      "id": "801945e0b118691f4cfbd99964b52a4b"
     },
     {
       "title": "Bulls art I made",
