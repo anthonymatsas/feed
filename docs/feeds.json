@@ -1,13 +1,113 @@
 {
-  "last_updated": "2025-12-22T09:25:05.223839Z",
+  "last_updated": "2025-12-22T12:35:49.983183Z",
   "items": [
     {
-      "title": "Jai programming language (Compile-time, Invaders game & Codex-View visualization tool)",
-      "link": "https://www.reddit.com/r/programming/comments/1psv2hs/jai_programming_language_compiletime_invaders/",
+      "title": "how do you keep everything centralized across teams?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1psygph/how_do_you_keep_everything_centralized_across/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-22T12:32:50Z",
+      "id": "3c4109bbf87d554101417ad5622f5b17"
+    },
+    {
+      "title": "CI/CD Pipelines Don\u2019t Fail in CI; They Fail in the \u201cCD\u201d Everyone Ignores",
+      "link": "https://www.reddit.com/r/programming/comments/1psybcy/cicd_pipelines_dont_fail_in_ci_they_fail_in_the/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2025-12-22T09:07:04Z",
-      "id": "5d370c4536836cf3c922f6383852d27e"
+      "published": "2025-12-22T12:24:59Z",
+      "id": "fa411127dab5c679918961ac3db99de6"
+    },
+    {
+      "title": "after working on big products, i\u2019ve learned tools should disappear",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1psy5qd/after_working_on_big_products_ive_learned_tools/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-22T12:16:32Z",
+      "id": "4a28f352ead102f03e4815156a5f0346"
+    },
+    {
+      "title": "Guide me general guidance or literature for general concurrency problems and guidelines",
+      "link": "https://www.reddit.com/r/programming/comments/1psxyif/guide_me_general_guidance_or_literature_for/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-22T12:05:21Z",
+      "id": "01ecb3618c58284e62a7efc6f6f10e61"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (December 21, 2025)",
+      "link": "https://www.reddit.com/r/nba/comments/1psxup7/serious_next_day_thread_postgame_discussion/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-22T12:00:02Z",
+      "id": "474c644bfd641683ba868aa58f0eedf2"
+    },
+    {
+      "title": "I wrote a database in 45 commits and turned them into a book",
+      "link": "https://www.reddit.com/r/programming/comments/1psx507/i_wrote_a_database_in_45_commits_and_turned_them/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-22T11:18:24Z",
+      "id": "835da13e1ef0160f67499cfdcf61e25a"
+    },
+    {
+      "title": "Programming Books I'll be reading in 2026.",
+      "link": "https://www.reddit.com/r/programming/comments/1pswvem/programming_books_ill_be_reading_in_2026/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-22T11:02:04Z",
+      "id": "cb5ed291fb3aac177a47126799aded45"
+    },
+    {
+      "title": "Most tools feel heavier than they need to be",
+      "link": "https://www.reddit.com/r/programming/comments/1pswnig/most_tools_feel_heavier_than_they_need_to_be/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-22T10:48:25Z",
+      "id": "fc02bb924b012cd24b405199147c3239"
+    },
+    {
+      "title": "Things Programmers Missed While Using AI",
+      "link": "https://www.reddit.com/r/programming/comments/1pswmdb/things_programmers_missed_while_using_ai/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-22T10:46:21Z",
+      "id": "a86c24ffe1fb872c5e77301d532d08c5"
+    },
+    {
+      "title": "If You Don't Design Your Career, Someone Else Will",
+      "link": "https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-22T10:27:52Z",
+      "id": "3182b3da7c5c790c93719985b59fbb89",
+      "comments": "https://news.ycombinator.com/item?id=46352930"
+    },
+    {
+      "title": "Well Being in Times of Algorithms",
+      "link": "https://www.ssp.sh/blog/well-being-algorithms/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-22T09:58:50Z",
+      "id": "358b6391ba764e22dc762a5eb4f6760d",
+      "comments": "https://news.ycombinator.com/item?id=46352747"
+    },
+    {
+      "title": "The ancient monuments saluting the winter solstice",
+      "link": "https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-22T09:30:58Z",
+      "id": "3d0419f21b0101675e9f0c9e94513a38",
+      "comments": "https://news.ycombinator.com/item?id=46352565"
+    },
+    {
+      "title": "Cartoon Network channel errors (1995 \u2013 2025)",
+      "link": "https://cnas.fandom.com/wiki/Channel_Errors",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-22T09:01:11Z",
+      "id": "ba58215102039ba40666fac2e7556629",
+      "comments": "https://news.ycombinator.com/item?id=46352405"
     },
     {
       "title": "\ud83e\udd80 What\u2019s New in Rust 1.92.0",
@@ -18,21 +118,21 @@
       "id": "da576fe54e078537d19c1ddf55ab11bb"
     },
     {
+      "title": "Show HN: Backlog \u2013 a public repository of real work problems",
+      "link": "https://www.worldsbacklog.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-22T08:42:31Z",
+      "id": "c579158d4433cd78ae2864419e238424",
+      "comments": "https://news.ycombinator.com/item?id=46352310"
+    },
+    {
       "title": "Is AI really going to replace tech people entirely, or just make them more productive?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1psuihr/is_ai_really_going_to_replace_tech_people/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2025-12-22T08:30:20Z",
       "id": "3ff06bbf2fd1e2621badd9d2afae2c29"
-    },
-    {
-      "title": "Inverse Parentheses",
-      "link": "https://kellett.im/a/inverse-parentheses",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-22T08:29:03Z",
-      "id": "acdcf20e5706a7220b0a812e306826e6",
-      "comments": "https://news.ycombinator.com/item?id=46352248"
     },
     {
       "title": "Is it okay to resubmit a coding interview assignment after improving it?",
@@ -58,15 +158,6 @@
       "published": "2025-12-22T07:25:43Z",
       "id": "b2850b17338b1f169226ad6ca589baf8",
       "comments": "https://news.ycombinator.com/item?id=46352047"
-    },
-    {
-      "title": "I announced my divorce on Instagram and then AI impersonated me",
-      "link": "https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-22T07:13:33Z",
-      "id": "7fbb6b47826bfb2fd24c9bf1b4f9150b",
-      "comments": "https://news.ycombinator.com/item?id=46352004"
     },
     {
       "title": "Terraform: Best Practices and Cheat Sheet for the Basics",
@@ -133,13 +224,12 @@
       "id": "49bcde2d9cbb26ae30a7202b5f84004d"
     },
     {
-      "title": "Cursed circuits #3: true mathematics",
-      "link": "https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-22T04:34:36Z",
-      "id": "9c549a178920778a2e31bf8f61bb69a4",
-      "comments": "https://news.ycombinator.com/item?id=46351345"
+      "title": "The New England Patriots have won 12 games in a season for the first time WITHOUT Brady as the main starter",
+      "link": "https://www.reddit.com/r/nfl/comments/1psqs4d/the_new_england_patriots_have_won_12_games_in_a/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-22T04:47:11Z",
+      "id": "3aa2aa84fa7f460b54ae1f7ba2761791"
     },
     {
       "title": "Derrick Henry\u2019s last touch in the Ravens loss to the Patriots was his touchdown run with 12:50 left in the 4th Quarter",
@@ -156,6 +246,22 @@
       "category": "sports",
       "published": "2025-12-22T04:31:01Z",
       "id": "286e29533f713d561d52e1c3e0bae48c"
+    },
+    {
+      "title": "Super Bowl Matchup?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1psqgxu/super_bowl_matchup/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-22T04:30:54Z",
+      "id": "d05c85811f26d6cc477b05a2eb0c7b35"
+    },
+    {
+      "title": "What do you get when you rearrange the letters in Iceman?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1psqgtp/what_do_you_get_when_you_rearrange_the_letters_in/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-22T04:30:44Z",
+      "id": "547016ef0324d7044837f2e4ae8ed103"
     },
     {
       "title": "Post Game Thread: New England Patriots at Baltimore Ravens",
@@ -536,14 +642,6 @@
       "id": "408edd149a690e7e7446bdb8e421efa7"
     },
     {
-      "title": "The feature team fallacy",
-      "link": "https://www.reddit.com/r/programming/comments/1psj85f/the_feature_team_fallacy/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-21T22:40:19Z",
-      "id": "31c1eba41ef293a4c87f0378fde315d1"
-    },
-    {
       "title": "\"I firmly believe that any man's finest hour, the greatest fulfillment of all that he holds dear, is that moment when he has worked his heart out in a good cause and lies exhausted on the field of battle - victorious.\" - Vince Lombardi",
       "link": "https://www.reddit.com/r/CHIBears/comments/1psj82v/i_firmly_believe_that_any_mans_finest_hour_the/",
       "source": "r/CHIBears",
@@ -799,22 +897,6 @@
       "id": "70670d711448d15487ffb3fca18cad1d"
     },
     {
-      "title": "AlloyDB for PostgreSQL: Familiar SQL, Very Unfamiliar Performance Characteristics",
-      "link": "https://www.reddit.com/r/programming/comments/1psclu3/alloydb_for_postgresql_familiar_sql_very/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-21T17:57:11Z",
-      "id": "571df1f5ecd4d806f8f47f9ea5d25b6e"
-    },
-    {
-      "title": "The Bet On Juniors Just Got Better",
-      "link": "https://www.reddit.com/r/programming/comments/1pscemt/the_bet_on_juniors_just_got_better/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-21T17:48:44Z",
-      "id": "ffb218e48258331addda9f2d2ec122a1"
-    },
-    {
       "title": "seniors spending half their week on reviews and everyone's frustrated",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1psc68k/seniors_spending_half_their_week_on_reviews_and/",
       "source": "r/ExperiencedDevs",
@@ -829,22 +911,6 @@
       "category": "sports",
       "published": "2025-12-21T17:38:49Z",
       "id": "bfb3cbf10d59daedfe903af87c1ef1c8"
-    },
-    {
-      "title": "Load Balancing Sounds Simple Until Traffic Actually Spikes. Here\u2019s What People Get Wrong",
-      "link": "https://www.reddit.com/r/programming/comments/1psbwq0/load_balancing_sounds_simple_until_traffic/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-21T17:28:00Z",
-      "id": "550ebc0f32383e7983a99a1965ae5099"
-    },
-    {
-      "title": "The trilogy",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1psbqxr/the_trilogy/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-21T17:21:22Z",
-      "id": "4865f0d9ae4dcd4b1bf754d306d40436"
     },
     {
       "title": "How do you cut through cultural clashes pragmatically?",
@@ -869,14 +935,6 @@
       "category": "sports",
       "published": "2025-12-21T16:58:47Z",
       "id": "d49ea5b56fbd6e0d595f340a452eb9dc"
-    },
-    {
-      "title": "That Sunday morning feeling",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1psatjb/that_sunday_morning_feeling/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-21T16:42:59Z",
-      "id": "d7f2917f02c97f798f39fe2f07e9c7cd"
     },
     {
       "title": "Show HN: Books mentioned on Hacker News in 2025",
@@ -971,14 +1029,6 @@
       "comments": "https://news.ycombinator.com/item?id=46345205"
     },
     {
-      "title": "[Highlight] WR DJ Moore wore a cheese grater hat in the locker room after beating the Packers",
-      "link": "https://www.reddit.com/r/nfl/comments/1ps7gk7/highlight_wr_dj_moore_wore_a_cheese_grater_hat_in/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-12-21T14:14:10Z",
-      "id": "8516e138ce3e9427772d276ad3a1e23b"
-    },
-    {
       "title": "Follow-up: Load testing my polyglot microservices game - Results and what I learned with k6 [Case Study, Open Source]",
       "link": "https://www.reddit.com/r/programming/comments/1ps7duq/followup_load_testing_my_polyglot_microservices/",
       "source": "r/programming",
@@ -1001,14 +1051,6 @@
       "category": "tech",
       "published": "2025-12-21T13:35:57Z",
       "id": "15dc5e523e9f549301d7e85287091f3e"
-    },
-    {
-      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (December 20, 2025)",
-      "link": "https://www.reddit.com/r/nba/comments/1ps4y3z/serious_next_day_thread_postgame_discussion/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-21T12:00:02Z",
-      "id": "2d94cc586cd101e82576e74ffa753d0f"
     },
     {
       "title": "Sunday Brunch",
@@ -1132,14 +1174,6 @@
       "id": "5b225ac0c6cf2f94a2fb81356f19f141"
     },
     {
-      "title": "Tech Talk: Improving Window Resize Behavior | Electron",
-      "link": "https://www.reddit.com/r/programming/comments/1prhpef/tech_talk_improving_window_resize_behavior/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-20T16:01:56Z",
-      "id": "8e871155e88345a7f00f7d6c29db0334"
-    },
-    {
       "title": "Google's boomerang year: 20% of AI software engineers hired in 2025 were ex-employees",
       "link": "https://www.reddit.com/r/programming/comments/1prgwty/googles_boomerang_year_20_of_ai_software/",
       "source": "r/programming",
@@ -1221,31 +1255,6 @@
       "id": "a5a71094249f33b41594e7ef07456d02"
     },
     {
-      "title": "Safety of shared memory IPC with mmap in Rust",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pqq0hp/safety_of_shared_memory_ipc_with_mmap_in_rust/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-19T16:50:31Z",
-      "id": "2b01cabd1e1a28067177d6045e5ec99a"
-    },
-    {
-      "title": "Exploring Speculative JIT Compilation for Emacs Lisp with Java",
-      "link": "https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-19T16:08:39Z",
-      "id": "d65cf568c0821806efce54c84139f019",
-      "comments": "https://news.ycombinator.com/item?id=46327337"
-    },
-    {
-      "title": "Multi process or multi thread architectures on linux?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pqoo4g/multi_process_or_multi_thread_architectures_on/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-19T15:58:26Z",
-      "id": "5daa46326462bb8a18c1c110a71ad24f"
-    },
-    {
       "title": "How does the interview process change when you've already worked with the hiring manager in the past at a different company?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pqohlw/how_does_the_interview_process_change_when_youve/",
       "source": "r/ExperiencedDevs",
@@ -1293,15 +1302,6 @@
       "published": "2025-12-19T13:16:57Z",
       "id": "b76163363684814eca761725a4a6c4ea",
       "comments": "https://news.ycombinator.com/item?id=46325475"
-    },
-    {
-      "title": "Evaluating chain-of-thought monitorability",
-      "link": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-19T05:49:33Z",
-      "id": "2d9e6a9202d2d9fc558464e96148c1a7",
-      "comments": "https://news.ycombinator.com/item?id=46322631"
     },
     {
       "title": "Founder wants to rewrite entire backend with vibe coding",
@@ -1386,6 +1386,15 @@
       "id": "413d5fcb1e583b4f1fe3cd1b214e4fd5"
     },
     {
+      "title": "A Guide to Magnetizing N48 Magnets in Ansys Maxwell",
+      "link": "https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-17T03:55:59Z",
+      "id": "f1eb1c898c04634fcdcbf29f64728573",
+      "comments": "https://news.ycombinator.com/item?id=46298055"
+    },
+    {
       "title": "Bulls Granted Disabled Player Exception",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pol8e6/bulls_granted_disabled_player_exception/",
       "source": "r/chicagobulls",
@@ -1445,15 +1454,6 @@
       "published": "2025-12-16T10:13:45Z",
       "id": "78ef074f8f28d22f0206fc2dd6f5a93b",
       "comments": "https://news.ycombinator.com/item?id=46286813"
-    },
-    {
-      "title": "Single-Pass Huffman Coding",
-      "link": "https://doisinkidney.com/posts/2018-02-17-single-pass-huffman.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-16T08:18:03Z",
-      "id": "60e2c7842f28d3f59cdf159ccea807a1",
-      "comments": "https://news.ycombinator.com/item?id=46286061"
     },
     {
       "title": "Weekly Discussion Thread - December 15, 2025",
