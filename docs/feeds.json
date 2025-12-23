@@ -1,6 +1,39 @@
 {
-  "last_updated": "2025-12-23T06:28:01.950124Z",
+  "last_updated": "2025-12-23T09:21:56.468979Z",
   "items": [
+    {
+      "title": "He's not one of us!",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1ptowyp/hes_not_one_of_us/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2025-12-23T08:33:39Z",
+      "id": "f413c3b31bd8fadae024daf5ea39df3e"
+    },
+    {
+      "title": "Posting my takeaways from AI Engineers Code (NYC) Conference",
+      "link": "https://www.reddit.com/r/programming/comments/1ptnklp/posting_my_takeaways_from_ai_engineers_code_nyc/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-23T07:08:47Z",
+      "id": "d6184023eafe8c01e83672abdb8bc531"
+    },
+    {
+      "title": "Are Microservices what Enable Independent Deployments? Not really.",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ptmwsw/are_microservices_what_enable_independent/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-23T06:29:28Z",
+      "id": "1aed425e26002d49ddb5064f925b5d83"
+    },
+    {
+      "title": "iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA",
+      "link": "https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-23T06:22:21Z",
+      "id": "774186019fefccd473f3f6a4602e1c4b",
+      "comments": "https://news.ycombinator.com/item?id=46362927"
+    },
     {
       "title": "SQL vs NoSQL for building a custom multi-tenant ERP for retail chain (new build inspired by Zoho, current on MS SQL Server, debating pivot)",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ptmrkb/sql_vs_nosql_for_building_a_custom_multitenant/",
@@ -10,12 +43,20 @@
       "id": "7debcfd9fe294851db8f94f43ea954e7"
     },
     {
-      "title": "Talks Worth Watching \u2013 Week of 2025-12-22",
-      "link": "https://www.reddit.com/r/programming/comments/1ptm55f/talks_worth_watching_week_of_20251222/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-23T05:46:01Z",
-      "id": "3dda2a7231f1a3abafb08276c1afc806"
+      "title": "That feeling when you watch DJ\u2019s Walkoff TD\u2026",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1ptmeix/that_feeling_when_you_watch_djs_walkoff_td/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-23T06:00:29Z",
+      "id": "4192c4611ce06289bffedd8bbe5055cf"
+    },
+    {
+      "title": "Draymond Green has had more turnovers than made field goals this season",
+      "link": "https://www.reddit.com/r/nba/comments/1ptm5dv/draymond_green_has_had_more_turnovers_than_made/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-23T05:46:23Z",
+      "id": "3e8d2c54bf6b617072b18cf4ba9b008e"
     },
     {
       "title": "[Highlight] Steph Curry makes the 3 and starts dancing (with a replay)",
@@ -24,6 +65,15 @@
       "category": "sports",
       "published": "2025-12-23T05:24:42Z",
       "id": "31f90d03e3bc8f16afd016dc340bf76f"
+    },
+    {
+      "title": "Show HN: CineCLI \u2013 Browse and torrent movies directly from your terminal",
+      "link": "https://github.com/eyeblech/cinecli",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-23T05:17:50Z",
+      "id": "13cc46bc8eb361356c6e133b3d17d8d3",
+      "comments": "https://news.ycombinator.com/item?id=46362655"
     },
     {
       "title": "[Highlights] Draymond gets sent to the lockers after heated debate w coach Kerr. Barely played in the 2nd half.",
@@ -66,12 +116,36 @@
       "id": "2cf7ea8579984e0b3c766ff6346a99cb"
     },
     {
+      "title": "[Highlight] Jalen Williams soars up high in the air and throws the poster dunk over Christian Koloko (with replays). He stuns the entire Thunder bench. Thunder and Peacock commentaries",
+      "link": "https://www.reddit.com/r/nba/comments/1ptktzr/highlight_jalen_williams_soars_up_high_in_the_air/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-23T04:35:50Z",
+      "id": "aac33a4f0ab75bd7a4d5fefcde038856"
+    },
+    {
       "title": "Implementing \u201cRemember Me\u201d in Java Swing (Real User Management Module)",
       "link": "https://www.reddit.com/r/programming/comments/1ptkrgl/implementing_remember_me_in_java_swing_real_user/",
       "source": "r/programming",
       "category": "tech",
       "published": "2025-12-23T04:32:06Z",
       "id": "53b52256bce8cbe51c86014d9983ea57"
+    },
+    {
+      "title": "The Indianapolis Colts are on the verge of becoming the 6th NFL team to start 7-1 and miss the playoffs",
+      "link": "https://www.reddit.com/r/nfl/comments/1ptkqoj/the_indianapolis_colts_are_on_the_verge_of/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-23T04:30:56Z",
+      "id": "f14c70076ab27d945eb30a15c18efdba"
+    },
+    {
+      "title": "SGA has now scored 20+ points in 100 straight games",
+      "link": "https://www.reddit.com/r/nba/comments/1ptko5x/sga_has_now_scored_20_points_in_100_straight_games/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-23T04:27:25Z",
+      "id": "beae0820627de95b0cbb9de3b1cdeb93"
     },
     {
       "title": "Philip Rivers in his second game back: 23/35 (65.7% CMP), 277 yards, 2 TDs, 1 INT",
@@ -155,14 +229,6 @@
       "comments": "https://news.ycombinator.com/item?id=46362275"
     },
     {
-      "title": "Desmond Bane blocks Steph Curry with a whole lot of body contact",
-      "link": "https://www.reddit.com/r/nba/comments/1ptjyp8/desmond_bane_blocks_steph_curry_with_a_whole_lot/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T03:51:49Z",
-      "id": "38699ad0716cc72ef538dcf26f18cd6a"
-    },
-    {
       "title": "The New Orleans Pelicans are on a 5-game win streak for the first time since March 2023. Derik Queen is a +65 in this stretch.",
       "link": "https://www.reddit.com/r/nba/comments/1ptjl70/the_new_orleans_pelicans_are_on_a_5game_win/",
       "source": "r/nba",
@@ -227,15 +293,6 @@
       "id": "7ae868e346ad683536a51fe90e1f469b"
     },
     {
-      "title": "Diesel pollution particles impair lysosomal functions of iPSC-derived microglia",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0160412025002181",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-23T02:56:50Z",
-      "id": "5acb5c5de599714277da80bea7d252e8",
-      "comments": "https://news.ycombinator.com/item?id=46361917"
-    },
-    {
       "title": "[Post Game Thread] The Boston Celtics (18-11) defeat the Indiana Pacers (6-23), 103-95.",
       "link": "https://www.reddit.com/r/nba/comments/1ptis1h/post_game_thread_the_boston_celtics_1811_defeat/",
       "source": "r/nba",
@@ -268,20 +325,12 @@
       "id": "c0916e9b6ddcaa3001b3aeaa9adc6a4b"
     },
     {
-      "title": "[Highlight] Rivers is displeased with false start by his lineman",
-      "link": "https://www.reddit.com/r/nfl/comments/1ptiksn/highlight_rivers_is_displeased_with_false_start/",
-      "source": "r/nfl",
+      "title": "We Ready for Y\u2019all",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1pti9ja/we_ready_for_yall/",
+      "source": "r/CHIBears",
       "category": "sports",
-      "published": "2025-12-23T02:44:02Z",
-      "id": "9569b6aef29248050376b83b58b8b3fe"
-    },
-    {
-      "title": "The Nuggets go 33-5 in 8 minutes to start the 1st Quarter against the Jazz",
-      "link": "https://www.reddit.com/r/nba/comments/1ptiayi/the_nuggets_go_335_in_8_minutes_to_start_the_1st/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T02:30:38Z",
-      "id": "c3883c31f7dc0fa6bc55acb0cf019236"
+      "published": "2025-12-23T02:28:40Z",
+      "id": "ae8772441155e2d06eb3c12fb8a762ac"
     },
     {
       "title": "The Switch up is Crazy",
@@ -398,6 +447,15 @@
       "id": "cf7f3be4ed9fac781cc20826a8680583"
     },
     {
+      "title": "Call of Duty co-creator Vince Zampella dies in California car crash",
+      "link": "https://www.bbc.com/news/articles/cx25rled0ylo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-23T00:23:32Z",
+      "id": "165fc234773a3484de46bd15d73f0d22",
+      "comments": "https://news.ycombinator.com/item?id=46360934"
+    },
+    {
       "title": "How would you classify the difficulty level of this audit-log reducer problem?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ptfelj/how_would_you_classify_the_difficulty_level_of/",
       "source": "r/ExperiencedDevs",
@@ -444,15 +502,6 @@
       "category": "sports",
       "published": "2025-12-22T23:49:47Z",
       "id": "44064867075c402b7c0e6596f55c0f85"
-    },
-    {
-      "title": "Satellites reveal heat leaking from largest US cryptocurrency mining center",
-      "link": "https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-22T23:23:12Z",
-      "id": "6b4b3a4d7587a4014192a113f06c3f3a",
-      "comments": "https://news.ycombinator.com/item?id=46360465"
     },
     {
       "title": "[Mic'd Up] Aaron Rodgers to Jack Campbell: \"You're slower than a 42-year-old?\"",
@@ -552,15 +601,6 @@
       "id": "25efbcf27e4d9fd390d503970316d6a7"
     },
     {
-      "title": "Tc \u2013 Theodore Calvin's language-agnostic testing framework",
-      "link": "https://github.com/ahoward/tc",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-22T22:03:07Z",
-      "id": "0560080a39becc0e68f3349604eadf56",
-      "comments": "https://news.ycombinator.com/item?id=46359683"
-    },
-    {
       "title": "Lightning Talk: Lambda None of the Things - Braden Ganetsky - C++Now 2025",
       "link": "https://www.reddit.com/r/programming/comments/1ptbqkc/lightning_talk_lambda_none_of_the_things_braden/",
       "source": "r/programming",
@@ -608,15 +648,6 @@
       "category": "sports",
       "published": "2025-12-22T20:38:57Z",
       "id": "521b8d214a3d7822086bdebfd3a4a708"
-    },
-    {
-      "title": "In Pursuit of Clancy Sigal (2021)",
-      "link": "https://yalereview.org/article/in-pursuit-of-clancy-sigal",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-22T20:21:12Z",
-      "id": "ceec80c6e1404ac48851579452781b43",
-      "comments": "https://news.ycombinator.com/item?id=46358538"
     },
     {
       "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
@@ -687,23 +718,6 @@
       "comments": "https://news.ycombinator.com/item?id=46357458"
     },
     {
-      "title": "Things I learnt about passkeys when building passkeybot",
-      "link": "https://enzom.dev/b/passkeys/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-22T18:58:45Z",
-      "id": "8354034212ef396b51774e0218d20485",
-      "comments": "https://news.ycombinator.com/item?id=46357451"
-    },
-    {
-      "title": "[Moreano] Jahdae Walker about his relationship with Caleb Williams and how he has seen their relationship grow since they first started to know each other.",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pt7obv/moreano_jahdae_walker_about_his_relationship_with/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-22T18:54:25Z",
-      "id": "3e038c2740abd7dc3cb4ddfad3d1c142"
-    },
-    {
       "title": "Lessons from Designing an AWS Permissions Model in a Startup",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pt7his/lessons_from_designing_an_aws_permissions_model/",
       "source": "r/ExperiencedDevs",
@@ -743,14 +757,6 @@
       "category": "sports",
       "published": "2025-12-22T18:27:10Z",
       "id": "e064806871ac1a2ff211968223c44f30"
-    },
-    {
-      "title": "[Afseth] The intel from some NBA teams is a perception that Darius Garland would like to run his own team again at some point, as opposed to being in a more complementary role next to Donovan Mitchell. The Sacramento Kings and the Minnesota Timberwolves have kept an eye on Garland\u2019s situation.",
-      "link": "https://www.reddit.com/r/nba/comments/1pt5w1i/afseth_the_intel_from_some_nba_teams_is_a/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T17:46:07Z",
-      "id": "41e0b11165083ea6a100c78e869fa977"
     },
     {
       "title": "It\u2019s time",
@@ -1006,14 +1012,6 @@
       "id": "cb5ed291fb3aac177a47126799aded45"
     },
     {
-      "title": "[StaceyDales] This Bears team loves one another. I\u2019ve never seen anything like this in Chicago.",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pswpf1/staceydales_this_bears_team_loves_one_another_ive/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-22T10:51:43Z",
-      "id": "1432c2806f271f0c353e1839646fdbc2"
-    },
-    {
       "title": "Debian's Git Transition",
       "link": "https://diziet.dreamwidth.org/20436.html",
       "source": "Hacker News",
@@ -1239,15 +1237,6 @@
       "id": "d7339c7ed871a54d7d438e3f6674cc6b"
     },
     {
-      "title": "Programming languages used for music",
-      "link": "https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-20T18:40:45Z",
-      "id": "6c7bbcffe187fb49a801a6b6a48498a4",
-      "comments": "https://news.ycombinator.com/item?id=46338437"
-    },
-    {
       "title": "United Center Perks",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1prkox0/united_center_perks/",
       "source": "r/chicagobulls",
@@ -1286,6 +1275,15 @@
       "category": "tech",
       "published": "2025-12-20T11:58:01Z",
       "id": "a0f7c60952c7558d5c8d9629ad53f055"
+    },
+    {
+      "title": "Debian adds LoongArch as officially supported architecture",
+      "link": "https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-20T07:47:55Z",
+      "id": "967282fc16188233729a380c9e4276d1",
+      "comments": "https://news.ycombinator.com/item?id=46334333"
     },
     {
       "title": "The Polyglot NixOS",
@@ -1329,14 +1327,6 @@
       "id": "6cc4e0cb7703d3ca8f4ea1ba7eb8a842"
     },
     {
-      "title": "New research followed 500 devs at 4 orgs rolling out AI Coding Tools over several months",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pqwcvq/new_research_followed_500_devs_at_4_orgs_rolling/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-19T21:05:55Z",
-      "id": "a5a71094249f33b41594e7ef07456d02"
-    },
-    {
       "title": "PRE GAME: Chicago Bulls (11-15) vs Cleveland Cavaliers (15-13) (December 19, 2025)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pqn6ax/pre_game_chicago_bulls_1115_vs_cleveland/",
       "source": "r/chicagobulls",
@@ -1377,6 +1367,15 @@
       "category": "sports",
       "published": "2025-12-18T16:07:55Z",
       "id": "976a2523cd084f4847a6e934c8e5e154"
+    },
+    {
+      "title": "Adobe Photoshop 1.0 Source Code (2013)",
+      "link": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-18T15:37:18Z",
+      "id": "9d1ebe6e782d02ce5277e03262bcb3f5",
+      "comments": "https://news.ycombinator.com/item?id=46313962"
     },
     {
       "title": "Bulls Sprint Past Shorthanded Cavaliers, 127-111",
@@ -1429,14 +1428,6 @@
       "id": "1784a558230ad3658103562698abf698"
     },
     {
-      "title": "Game Thread: Chicago Bulls vs Cleveland Cavaliers Live Score | NBA | Dec 17, 2025",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1ppcaaf/game_thread_chicago_bulls_vs_cleveland_cavaliers/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2025-12-18T00:00:03Z",
-      "id": "56102dc658e27888cf2bd88c318bf1da"
-    },
-    {
       "title": "Show HN: C-compiler to compile TCC for live-bootstrap",
       "link": "https://github.com/FransFaase/MES-replacement",
       "source": "Hacker News",
@@ -1453,6 +1444,15 @@
       "published": "2025-12-17T19:19:00Z",
       "id": "c8a8a95b10e7be6f6f4d3659505dd33a",
       "comments": "https://news.ycombinator.com/item?id=46304195"
+    },
+    {
+      "title": "A centennial look back at Edward Gorey's macabre art and guarded life",
+      "link": "https://www.washingtonpost.com/books/2025/12/13/edward-gorey-centennial-gregory-hischak-review/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-16T21:37:48Z",
+      "id": "647daf44cb5df31c0838f6aeb024bdb1",
+      "comments": "https://news.ycombinator.com/item?id=46294886"
     },
     {
       "title": "Our New Sam Audio Model Transforms Audio Editing",
