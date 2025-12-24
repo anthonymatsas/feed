@@ -1,6 +1,105 @@
 {
-  "last_updated": "2025-12-24T09:20:45.696490Z",
+  "last_updated": "2025-12-24T12:35:50.251539Z",
   "items": [
+    {
+      "title": "\ud83c\udfa4 Got a story about JavaScript or modern full-stack development?",
+      "link": "https://www.reddit.com/r/programming/comments/1pum8mo/got_a_story_about_javascript_or_modern_fullstack/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-24T12:26:03Z",
+      "id": "8d309b77f5c4c74569cc349c969a1a86"
+    },
+    {
+      "title": "Docker makes enterprise security free: 1,000+ Hardened Images now Open Source",
+      "link": "https://www.reddit.com/r/programming/comments/1pum57n/docker_makes_enterprise_security_free_1000/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-24T12:20:42Z",
+      "id": "346dcb9db75f5608d3367008fbe794b8"
+    },
+    {
+      "title": "How to deal with pointless technical red tape?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pum49h/how_to_deal_with_pointless_technical_red_tape/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-24T12:19:09Z",
+      "id": "bdebe0a8fb50d57b4e2a86e8abf42625"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (December 23, 2025)",
+      "link": "https://www.reddit.com/r/nba/comments/1puls7u/serious_next_day_thread_postgame_discussion/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T12:00:02Z",
+      "id": "c729dc76d4d983af0221e6bfc121479b"
+    },
+    {
+      "title": "Do we have advent of code alternatives?",
+      "link": "https://www.reddit.com/r/programming/comments/1pulnuh/do_we_have_advent_of_code_alternatives/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-24T11:52:29Z",
+      "id": "cb48630115f1465ec651c71655d8a850"
+    },
+    {
+      "title": "Subject Matter Expert = Human LLM?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pul4so/subject_matter_expert_human_llm/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-24T11:19:07Z",
+      "id": "6726bf2fb021d40c0f5b73c0984233a2"
+    },
+    {
+      "title": "2025: The year SwiftUI died",
+      "link": "https://www.reddit.com/r/programming/comments/1puky96/2025_the_year_swiftui_died/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-24T11:07:28Z",
+      "id": "880ce05006b022d3566f1c7a4db9b07f"
+    },
+    {
+      "title": "We reduced transformer inference calls by ~75% without changing model weights (MFEE control-plane approach)",
+      "link": "https://www.reddit.com/r/programming/comments/1puks9j/we_reduced_transformer_inference_calls_by_75/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-24T10:57:10Z",
+      "id": "ac174ab736191b5009d737701890c819"
+    },
+    {
+      "title": "The Ultimate Windows Utility (2022)",
+      "link": "https://christitus.com/windows-tool/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-24T10:48:24Z",
+      "id": "75dd1de1bcafc2e7e646d3af10f43c6f",
+      "comments": "https://news.ycombinator.com/item?id=46374413"
+    },
+    {
+      "title": "Why runtime environment variables don't really work for pure static websites",
+      "link": "https://www.reddit.com/r/programming/comments/1puju4z/why_runtime_environment_variables_dont_really/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-24T09:56:52Z",
+      "id": "3fe75a18e207384c595ffdce7dcf9b88"
+    },
+    {
+      "title": "Permission Systems for Enterprise That Scale",
+      "link": "https://eliocapella.com/blog/permission-systems-for-enterprise/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-24T09:50:52Z",
+      "id": "4d2c8af98855457c628723db3a099bdb",
+      "comments": "https://news.ycombinator.com/item?id=46374117"
+    },
+    {
+      "title": "Google 2025 recap: Research breakthroughs of the year",
+      "link": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-24T09:30:58Z",
+      "id": "caa849b02366def1f44d499b6f04b9f9",
+      "comments": "https://news.ycombinator.com/item?id=46374018"
+    },
     {
       "title": "A lightweight, local-first semantic search engine for personal notes, journals, and documentation written in Rust",
       "link": "https://www.reddit.com/r/programming/comments/1puixa0/a_lightweight_localfirst_semantic_search_engine/",
@@ -26,12 +125,12 @@
       "id": "d79f6e958f73d4dca27c7e2a33fc1171"
     },
     {
-      "title": "HELP",
-      "link": "https://www.reddit.com/r/programming/comments/1pugoe7/help/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-24T06:35:53Z",
-      "id": "4db84d804ed8acbafe50273d2ed7b09b"
+      "title": "[Aubin] I asked Victor Wembanyama (in French) whether he considers there to be any rivalry between him and Chet Holmgren, and he was pretty clear: \u201cNo, I don\u2019t think about that. At least from a basketball standpoint, there\u2019s no comparison (between us)\u201d.",
+      "link": "https://www.reddit.com/r/nba/comments/1pugrm0/aubin_i_asked_victor_wembanyama_in_french_whether/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T06:41:10Z",
+      "id": "a7988eb90612663d4474529af857889d"
     },
     {
       "title": "[LAFBNetwork] Justin Herbert is playing behind the 32nd-ranked pass protection in the NFL. Teams ranked 24\u201331 in pass pro? Already eliminated. The Chargers? Clinched playoffs + Two wins away from an AFC West title",
@@ -50,6 +149,14 @@
       "id": "398e2f12c734178aeb817625895265c1"
     },
     {
+      "title": "Gif Compilation Post",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1pugmgp/gif_compilation_post/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-24T06:32:30Z",
+      "id": "a17e91fa33352416048c92e9f387b404"
+    },
+    {
       "title": "Ring - Best Programming Language for 2026?",
       "link": "https://www.reddit.com/r/programming/comments/1pugi0i/ring_best_programming_language_for_2026/",
       "source": "r/programming",
@@ -58,13 +165,12 @@
       "id": "053c53c3b137ecc409b06fd8a22b3898"
     },
     {
-      "title": "CEO killed at industrial site by worker operating forklift",
-      "link": "https://www.12onyourside.com/2025/12/23/ceo-killed-industrial-site-by-worker-operating-forklift-while-talking-phone-osha-report-shows/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-24T06:15:57Z",
-      "id": "735cf71aa7fac9f583caf4c74f7e6974",
-      "comments": "https://news.ycombinator.com/item?id=46372972"
+      "title": "[Highlight] LeBron got mad after Dillon Brooks tried to high-five him",
+      "link": "https://www.reddit.com/r/nba/comments/1pufzyh/highlight_lebron_got_mad_after_dillon_brooks/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T05:56:28Z",
+      "id": "86ddb2144855b2a3c992eca44d5dbd69"
     },
     {
       "title": "I have no idea what to make of this team!",
@@ -84,14 +190,6 @@
       "comments": "https://news.ycombinator.com/item?id=46372771"
     },
     {
-      "title": "Cooper Flagg: Future Superstar?",
-      "link": "https://www.reddit.com/r/nba/comments/1puf6wx/cooper_flagg_future_superstar/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-24T05:10:18Z",
-      "id": "0943de971ef16be57098bc3db59faf49"
-    },
-    {
       "title": "Merry Christmas, family! Bear Down!",
       "link": "https://www.reddit.com/r/CHIBears/comments/1puf3c8/merry_christmas_family_bear_down/",
       "source": "r/CHIBears",
@@ -100,12 +198,92 @@
       "id": "92b5cbf89d1f5545e3e1724abc4c9fc8"
     },
     {
+      "title": "[All-Access] Victor Wembanyama gets on the drum to lead the postgame celebration with the San Antonio fans",
+      "link": "https://www.reddit.com/r/nba/comments/1puecdb/allaccess_victor_wembanyama_gets_on_the_drum_to/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T04:23:54Z",
+      "id": "0a1461dadad3ac251914faa2569183ff"
+    },
+    {
+      "title": "[Highlight] The San Antonio Spurs win their 7th straight game with a victory over the Oklahoma City Thunder, 130-110. It's San Antonio's longest win streak since 2018-19, as they beat the Thunder for the second time this season.",
+      "link": "https://www.reddit.com/r/nba/comments/1pue0yu/highlight_the_san_antonio_spurs_win_their_7th/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T04:06:52Z",
+      "id": "144c969e3db606acba0dd0baef201e5e"
+    },
+    {
       "title": "How Monitoring Scales: XOR encoding in TSBDs",
       "link": "https://www.reddit.com/r/programming/comments/1pudwss/how_monitoring_scales_xor_encoding_in_tsbds/",
       "source": "r/programming",
       "category": "tech",
       "published": "2025-12-24T04:00:36Z",
       "id": "2dbc2b1898af0735b605cf6790ab137e"
+    },
+    {
+      "title": "The Oklahoma City Thunder are 0-3 in their last 3 games against teams with winning records",
+      "link": "https://www.reddit.com/r/nba/comments/1pudsk9/the_oklahoma_city_thunder_are_03_in_their_last_3/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:54:21Z",
+      "id": "f7997a7f8c44f873600522784fc2cabd"
+    },
+    {
+      "title": "Victor Wembanyama unveils the Spurs' new win tradition",
+      "link": "https://www.reddit.com/r/nba/comments/1pudsea/victor_wembanyama_unveils_the_spurs_new_win/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:54:09Z",
+      "id": "832cf1f85001fee00f873dda0dca914d"
+    },
+    {
+      "title": "Victor Wembanyama's night is done with his block streak ended: 12 PTS, 5 REB, 3 AST, +13, 23 MIN",
+      "link": "https://www.reddit.com/r/nba/comments/1pudqdw/victor_wembanyamas_night_is_done_with_his_block/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:51:20Z",
+      "id": "089051ded77ab62e11c9b54993786322"
+    },
+    {
+      "title": "[Post Game Thread] The San Antonio Spurs (22-7) blowout the Oklahoma City Thunder (26-4), 130-110. Keldon Johnson leads the way with 25 PTS.",
+      "link": "https://www.reddit.com/r/nba/comments/1pudpwu/post_game_thread_the_san_antonio_spurs_227/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:50:40Z",
+      "id": "93a0c5388ac67aafe3fdbd2e302586f7"
+    },
+    {
+      "title": "Chet Holmgren gets dominated by the Spurs once again in a blowout loss: 7 PTS (3/10 FG), 3 REB, 1 AST",
+      "link": "https://www.reddit.com/r/nba/comments/1pudnyl/chet_holmgren_gets_dominated_by_the_spurs_once/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:48:00Z",
+      "id": "e4a55febb9543a361c136f4980a18fbc"
+    },
+    {
+      "title": "[Highlight] Wemby with a fake and gets open for a 3, but decides to pass it to Keldon Johnson for an easy layup",
+      "link": "https://www.reddit.com/r/nba/comments/1pudjk7/highlight_wemby_with_a_fake_and_gets_open_for_a_3/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:41:36Z",
+      "id": "227bcf23b85469cc0cdd84b5690e18e3"
+    },
+    {
+      "title": "[Highlight] Victor Wembanyama shows off the range as he connects on the stepback 3-pointer against the Thunder.",
+      "link": "https://www.reddit.com/r/nba/comments/1pudixt/highlight_victor_wembanyama_shows_off_the_range/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:40:42Z",
+      "id": "f6d2f584b1a4521529b2cb11569d9f93"
+    },
+    {
+      "title": "[Highlights] Spurs Dismantling the OKC Defense To Build On the Lead in the 4th",
+      "link": "https://www.reddit.com/r/nba/comments/1pudigp/highlights_spurs_dismantling_the_okc_defense_to/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:40:00Z",
+      "id": "1cd2856c2ea0382bba6d87ef53d0f4f4"
     },
     {
       "title": "Met PWill before the game",
@@ -125,12 +303,28 @@
       "comments": "https://news.ycombinator.com/item?id=46372153"
     },
     {
-      "title": "\"Grate\" tribute, old national...",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pud6zy/grate_tribute_old_national/",
-      "source": "r/CHIBears",
+      "title": "[Highlight] Wemby snatches the ball a foot and a half above the hoop for a block that won't count",
+      "link": "https://www.reddit.com/r/nba/comments/1pudeok/highlight_wemby_snatches_the_ball_a_foot_and_a/",
+      "source": "r/nba",
       "category": "sports",
-      "published": "2025-12-24T03:23:04Z",
-      "id": "0cac1fdd829f8430e53ed9d5bc00322e"
+      "published": "2025-12-24T03:34:18Z",
+      "id": "bde615e7de2337f3f573f62b18c23c82"
+    },
+    {
+      "title": "[Post Game Thread] The Dallas Mavericks (12-19) defeat the Denver Nuggets (21-8), 131-130 behind 33/9/9 from Cooper Flagg.",
+      "link": "https://www.reddit.com/r/nba/comments/1pud9uj/post_game_thread_the_dallas_mavericks_1219_defeat/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:27:14Z",
+      "id": "253b92e9861227fc733eaf5ffa0c345f"
+    },
+    {
+      "title": "[Highlight] Game-winner for Denver goes in and out of the hoop for a Mav victory",
+      "link": "https://www.reddit.com/r/nba/comments/1pud9g2/highlight_gamewinner_for_denver_goes_in_and_out/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:26:37Z",
+      "id": "4fb2a5ab44b93f6f9f28b1cea9fcac5c"
     },
     {
       "title": "Seahawks GM John Schneider made 4 significant player acquisitions this year (QB Sam Darnold, WR Cooper Kupp, EDGE DeMarcus Lawrence via Free Agency and trading for WR/RS Rashid Shaheed at the Deadline) - 3 of those 4 have made the Pro Bowl (Darnold, Lawrence, and Shaheed.",
@@ -149,12 +343,36 @@
       "id": "ddb16740d7fc9531186961f458a14dd8"
     },
     {
+      "title": "Dillon Brooks getting ready before the game against the Lakers.",
+      "link": "https://www.reddit.com/r/nba/comments/1puctdt/dillon_brooks_getting_ready_before_the_game/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T03:03:16Z",
+      "id": "39a9b2aebb7442136602a1b811c61b52"
+    },
+    {
       "title": "Chargers' Herbert admits '24 playoff flop has stayed with him",
       "link": "https://www.reddit.com/r/nfl/comments/1pucmy1/chargers_herbert_admits_24_playoff_flop_has/",
       "source": "r/nfl",
       "category": "sports",
       "published": "2025-12-24T02:54:18Z",
       "id": "58b66191cf079f83f79b8b50159f4d7b"
+    },
+    {
+      "title": "[Highlight] A Spurs fan hits a layup, a 3 from the perimeter and a halfcourt shot in under 45 seconds to win $10K dollars (with replays)",
+      "link": "https://www.reddit.com/r/nba/comments/1pucfdj/highlight_a_spurs_fan_hits_a_layup_a_3_from_the/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T02:43:54Z",
+      "id": "71b0b683bde7de94d5bd51ed712527cc"
+    },
+    {
+      "title": "[Highlight] Flagg gets up for a big dunk",
+      "link": "https://www.reddit.com/r/nba/comments/1pucche/highlight_flagg_gets_up_for_a_big_dunk/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T02:39:55Z",
+      "id": "ee661472e288924dcf11a18d1b8ffd71"
     },
     {
       "title": "Aaron Rodgers reclaims the lowest interception rate in NFL history",
@@ -200,13 +418,12 @@
       "id": "9a2136968bbb4bdbd5d580be1b2a7a43"
     },
     {
-      "title": "Could lockfiles just be SBOMs?",
-      "link": "https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-24T02:10:34Z",
-      "id": "728dea5cee6e21350ab03a6dda8d907d",
-      "comments": "https://news.ycombinator.com/item?id=46371705"
+      "title": "Cooper Flagg in the first half vs Denver- 22/4/4 1 STL 1 BLK on 9/10 FG and 3/3 3FG",
+      "link": "https://www.reddit.com/r/nba/comments/1pubqsd/cooper_flagg_in_the_first_half_vs_denver_2244_1/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T02:09:21Z",
+      "id": "3832eeea89043689e472c6be2cf9e357"
     },
     {
       "title": "Pelissero: Concluding \u2018No Violaton,\u2019 NFL Won\u2019t Punish Fan Involved In DK Metcalf Altercation",
@@ -224,6 +441,14 @@
       "published": "2025-12-24T02:01:49Z",
       "id": "ab2df83678b73cafe282f9ee63b40c33",
       "comments": "https://news.ycombinator.com/item?id=46371673"
+    },
+    {
+      "title": "[Highlight] Joel Embiid goes down with a knee injury.",
+      "link": "https://www.reddit.com/r/nba/comments/1pubau6/highlight_joel_embiid_goes_down_with_a_knee_injury/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T01:46:57Z",
+      "id": "5369edc6be7cbb575d311e32135c9fff"
     },
     {
       "title": "Publishing a Java-based database tool on Mac App Store (MAS)",
@@ -307,6 +532,14 @@
       "published": "2025-12-24T00:30:18Z",
       "id": "2e94f069717fb5849554b1d0ef4c6a20",
       "comments": "https://news.ycombinator.com/item?id=46371135"
+    },
+    {
+      "title": "ESPN screws up Christmas Games graphic: \u201cROCKETS at LAKERS: Dillon Brooks, LeBron face off in Christmas matchup\u201d",
+      "link": "https://www.reddit.com/r/nba/comments/1pu95v1/espn_screws_up_christmas_games_graphic_rockets_at/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-24T00:04:52Z",
+      "id": "16881fed2138f38c2abf792c56c26025"
     },
     {
       "title": "[WGN News] Houston business gains major sales boost thanks to Bears\u2019 win over Packers",
@@ -528,6 +761,14 @@
       "id": "0dc6fdfcec10e5769e75a1edaaa37329"
     },
     {
+      "title": "[KOC] Ben Simmons casts right and retrieves left, a technique that allows right-handed anglers to keep their dominant hand on the rod for maximum control. The evidence is overwhelming that he shot the basketball with the wrong hand.",
+      "link": "https://www.reddit.com/r/nba/comments/1pu4xuk/koc_ben_simmons_casts_right_and_retrieves_left_a/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-23T20:59:02Z",
+      "id": "67603a6a1984eb40edc44abd9661b3d3"
+    },
+    {
       "title": "Timberwolves Keep Coming Up for Coby White, But Will the Bulls Run Into Trouble?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pu4e4p/timberwolves_keep_coming_up_for_coby_white_but/",
       "source": "r/chicagobulls",
@@ -586,6 +827,14 @@
       "id": "589da1eecc1ee15439cbe6f92ee64601"
     },
     {
+      "title": "Ben Simmons is putting the NBA on hold to pursue a successful career in pro fishing per Marc Spears",
+      "link": "https://www.reddit.com/r/nba/comments/1pu2nhe/ben_simmons_is_putting_the_nba_on_hold_to_pursue/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-23T19:24:00Z",
+      "id": "aaf39f38424b243d588bc7b28a8a2d92"
+    },
+    {
       "title": "Help My c64 caught on fire",
       "link": "https://c0de517e.com/026_c64fire.htm",
       "source": "Hacker News",
@@ -601,6 +850,14 @@
       "category": "sports",
       "published": "2025-12-23T19:04:18Z",
       "id": "d1e9f550e09b99223c25934a13457a0a"
+    },
+    {
+      "title": "Daily Discussion Thread + Game Thread Index",
+      "link": "https://www.reddit.com/r/nba/comments/1pu222f/daily_discussion_thread_game_thread_index/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-23T19:00:02Z",
+      "id": "f9c9c8eca7a2cb89c538186553a76fd1"
     },
     {
       "title": "Fabrice Bellard Releases MicroQuickJS",
@@ -686,14 +943,6 @@
       "comments": "https://news.ycombinator.com/item?id=46367224"
     },
     {
-      "title": "Here\u2019s A List Of Players With The Best Clutch Net Rating From Each Season In The Last Decade!",
-      "link": "https://www.reddit.com/r/nba/comments/1ptzdas/heres_a_list_of_players_with_the_best_clutch_net/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T17:13:36Z",
-      "id": "09f8930f853ed619639a921a236bbcef"
-    },
-    {
       "title": "Can we just fast forward to the play-in loss already",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ptz63f/can_we_just_fast_forward_to_the_playin_loss/",
       "source": "r/chicagobulls",
@@ -724,14 +973,6 @@
       "category": "tech",
       "published": "2025-12-23T16:23:36Z",
       "id": "4a454612598b6a237b03a59bba75b899"
-    },
-    {
-      "title": "OS virtual memory concepts from 1960s applied to AI: PagedAttention code walkthrough",
-      "link": "https://www.reddit.com/r/programming/comments/1ptxiqe/os_virtual_memory_concepts_from_1960s_applied_to/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-23T16:00:54Z",
-      "id": "3f76bab476a8524518641f645cef9f3e"
     },
     {
       "title": "This old clip popped up and looking back you can just tell Ben wanted to coach Caleb",
@@ -854,28 +1095,12 @@
       "id": "a94221958fcc6562fb3330ea447a0b71"
     },
     {
-      "title": "[Highlight] \u2014 NBA FULL NIGHTLY RECAP \u2014 All 7 games condensed into 19 minutes. Monday, December 22",
-      "link": "https://www.reddit.com/r/nba/comments/1ptrsa4/highlight_nba_full_nightly_recap_all_7_games/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T11:37:03Z",
-      "id": "53febcd50bf4c4a53258692ca0c43135"
-    },
-    {
       "title": "Evolution Pattern versus API Versioning",
       "link": "https://www.reddit.com/r/programming/comments/1ptrjnb/evolution_pattern_versus_api_versioning/",
       "source": "r/programming",
       "category": "tech",
       "published": "2025-12-23T11:22:59Z",
       "id": "58a4ba4cf19fbe1996c63fafa263e9fa"
-    },
-    {
-      "title": "[Highlight] \u2014 NBA TOP 10 PLAYS OF THE NIGHT \u2014 Monday, December 22",
-      "link": "https://www.reddit.com/r/nba/comments/1ptribq/highlight_nba_top_10_plays_of_the_night_monday/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T11:20:46Z",
-      "id": "561893a4d30fd0e89cf7a24b9601b701"
     },
     {
       "title": "Are Microservices what Enable Independent Deployments? Not really.",
@@ -886,15 +1111,6 @@
       "id": "1aed425e26002d49ddb5064f925b5d83"
     },
     {
-      "title": "iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA",
-      "link": "https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-23T06:22:21Z",
-      "id": "f4906a4f1e7c7a4786194fb3984e3ac6",
-      "comments": "https://news.ycombinator.com/item?id=46362927"
-    },
-    {
       "title": "SQL vs NoSQL for building a custom multi-tenant ERP for retail chain (new build inspired by Zoho, current on MS SQL Server, debating pivot)",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ptmrkb/sql_vs_nosql_for_building_a_custom_multitenant/",
       "source": "r/ExperiencedDevs",
@@ -903,108 +1119,12 @@
       "id": "7debcfd9fe294851db8f94f43ea954e7"
     },
     {
-      "title": "Jalen Suggs, Paolo Banchero, and Franz Wagner have 0 wins without Desmond Bane this season",
-      "link": "https://www.reddit.com/r/nba/comments/1ptmet5/jalen_suggs_paolo_banchero_and_franz_wagner_have/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T06:00:49Z",
-      "id": "0bde6f7e39ce65af360c1f0539dda4c8"
-    },
-    {
-      "title": "During their careers, Franz Wagner is 41-66 (38%) without Jalen Suggs. On the other hand, Paolo Banchero is now 38-44 (46%) without Jalen Suggs.",
-      "link": "https://www.reddit.com/r/nba/comments/1ptm1u8/during_their_careers_franz_wagner_is_4166_38/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T05:40:43Z",
-      "id": "86eb326f83f0cb43e4e163b9248703aa"
-    },
-    {
-      "title": "[Highlight] Ausar Thompson with the powerful two-handed dunk over Duop Reath for the And-1 (with replays)",
-      "link": "https://www.reddit.com/r/nba/comments/1ptkcb3/highlight_ausar_thompson_with_the_powerful/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T04:10:51Z",
-      "id": "82aaa8964aa1e3b906ba4211631858d5"
-    },
-    {
-      "title": "[Highlight] Tom Haberstroh analyzes Shaedon Sharpe's dunks after Sharpe recorded the highest vertical on a dunk since they started measuring it.",
-      "link": "https://www.reddit.com/r/nba/comments/1ptjya2/highlight_tom_haberstroh_analyzes_shaedon_sharpes/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T03:51:12Z",
-      "id": "f17a27a8f5cea3921fa6c188c59a5144"
-    },
-    {
-      "title": "Trey Murphy 3 keeps his 100% from the line in Q4 streak running.",
-      "link": "https://www.reddit.com/r/nba/comments/1ptjh7t/trey_murphy_3_keeps_his_100_from_the_line_in_q4/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T03:27:36Z",
-      "id": "c8cff5be1e2d299bed5e66173dc9005c"
-    },
-    {
-      "title": "Derik Queen led a comeback win against the Mavericks: 19 PTS (7/12 FG), 11 REB, 6 AST, +12",
-      "link": "https://www.reddit.com/r/nba/comments/1ptjh6b/derik_queen_led_a_comeback_win_against_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T03:27:33Z",
-      "id": "09e2fb63b5519d03ee2de6becba9b239"
-    },
-    {
-      "title": "Anthony Davis despite the loss vs Pelicans: 35 PTS, 17 REB, 2 AST, 1 STL, 1 BLK, 16-28 FG",
-      "link": "https://www.reddit.com/r/nba/comments/1ptjguh/anthony_davis_despite_the_loss_vs_pelicans_35_pts/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T03:27:07Z",
-      "id": "a30f3cf002657dfdfe91109ef700f82b"
-    },
-    {
-      "title": "Hugo Gonzalez Might End Up Being The Steal Of The 2025 NBA Draft!",
-      "link": "https://www.reddit.com/r/nba/comments/1ptj0ov/hugo_gonzalez_might_end_up_being_the_steal_of_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T03:05:28Z",
-      "id": "f350ab428f46e1a68fca70265c87ea96"
-    },
-    {
       "title": "Are good Scrum Masters and Product Owners hard to come by?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ptizz2/are_good_scrum_masters_and_product_owners_hard_to/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2025-12-23T03:04:29Z",
       "id": "7ae868e346ad683536a51fe90e1f469b"
-    },
-    {
-      "title": "[Highlights] Jamal Murray with the 3, and Peyton Watson with the steal and the powerful fastbreak dunk to give the Nuggets an early 24-3 lead (with replays)",
-      "link": "https://www.reddit.com/r/nba/comments/1ptilvv/highlights_jamal_murray_with_the_3_and_peyton/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T02:45:30Z",
-      "id": "97b639e0b35c801f6cc394dd3d2fa637"
-    },
-    {
-      "title": "The Nutcracker in Ball Arena",
-      "link": "https://www.reddit.com/r/nba/comments/1ptihly/the_nutcracker_in_ball_arena/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T02:39:42Z",
-      "id": "7b561b1c0e5cebfe88a098c081e38f7a"
-    },
-    {
-      "title": "Anthony Davis has 22 points on 10-16 FG with 10 rebounds in just 15 minutes at halftime. Mavs Lead at Half 63-57 vs Pels.",
-      "link": "https://www.reddit.com/r/nba/comments/1pti0ys/anthony_davis_has_22_points_on_1016_fg_with_10/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T02:17:12Z",
-      "id": "37bc432750ed909fe0e14e4a6017030d"
-    },
-    {
-      "title": "[Highlight] Zion Williamson with the halfcourt lob to Karlo Matkovi\u0107 for the dunk (with replays)",
-      "link": "https://www.reddit.com/r/nba/comments/1pthzsl/highlight_zion_williamson_with_the_halfcourt_lob/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-23T02:15:36Z",
-      "id": "5e883e43b6246c1ac0e92cf74c29b05f"
     },
     {
       "title": "All Of Bulls' 152 Points Against Hawks Came From Three-Pointers Or Shots In The Paint",
@@ -1031,14 +1151,6 @@
       "id": "24f5049d0c219725d56c4371618d815e"
     },
     {
-      "title": "Wembanyama questionable for game against Thunder",
-      "link": "https://www.reddit.com/r/nba/comments/1ptege8/wembanyama_questionable_for_game_against_thunder/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T23:32:42Z",
-      "id": "d5f463453258f9f1b876ac1e7c1328df"
-    },
-    {
       "title": "152-150 F\u2026no overtime. Is this good for the NBA?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ptczpz/152150_fno_overtime_is_this_good_for_the_nba/",
       "source": "r/chicagobulls",
@@ -1055,36 +1167,12 @@
       "id": "f9df585cac28b83d6701d611c523d67e"
     },
     {
-      "title": "Lightning Talk: Lambda None of the Things - Braden Ganetsky - C++Now 2025",
-      "link": "https://www.reddit.com/r/programming/comments/1ptbqkc/lightning_talk_lambda_none_of_the_things_braden/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-22T21:37:39Z",
-      "id": "378e930a05ffd9a6eb3bb787f36b8c05"
-    },
-    {
       "title": "Interview anxiety and repeated failures",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pt7247/interview_anxiety_and_repeated_failures/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2025-12-22T18:30:47Z",
       "id": "692e2e98d2e2d6b3878550ca0f31254d"
-    },
-    {
-      "title": "[Stein] \"I'll flat out tell you, for the last couple weeks I've heard rumbles in coaching circles about Kenny Atkinson and pressure mounting\u2026 Dan Gilbert\u2019s very unhappy with the state of the team, and when he\u2019s very unhappy that\u2019s not going to diminish the notion that some kind of shakeup is coming\"",
-      "link": "https://www.reddit.com/r/nba/comments/1pt6r6n/stein_ill_flat_out_tell_you_for_the_last_couple/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T18:19:11Z",
-      "id": "25f4b8872167b828c745d14679d564ad"
-    },
-    {
-      "title": "LeBron James Has Played in the NBA at the Same Time as 14 Father\u2013Son Duos",
-      "link": "https://www.reddit.com/r/nba/comments/1pt6j3p/lebron_james_has_played_in_the_nba_at_the_same/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T18:10:32Z",
-      "id": "85491e4f337a2340108143c2be18a649"
     },
     {
       "title": "Lua 5.5 released with declarations for global variables, garbage collection improvements",
@@ -1103,14 +1191,6 @@
       "id": "0ac09b5821d9a96631552deb3b212012"
     },
     {
-      "title": "Despite roster injuries throughout the season, the San Antonio Spurs currently have the 3rd best record in the NBA",
-      "link": "https://www.reddit.com/r/nba/comments/1pt4v7k/despite_roster_injuries_throughout_the_season_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T17:06:39Z",
-      "id": "ca611aef5c58eb78180ae5a8ce7334e3"
-    },
-    {
       "title": "The Bulls' 152 points are tied for their 2nd most ever in a non-OT game \u2014 the franchise record is 155, which happened in 1990",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pt4bey/the_bulls_152_points_are_tied_for_their_2nd_most/",
       "source": "r/chicagobulls",
@@ -1119,28 +1199,12 @@
       "id": "f98e1bcdebfb22da9b95d68e66148531"
     },
     {
-      "title": "Reverse Engineering of a Rust Botnet and Building a C2 Honeypot to Monitor Its Targets",
-      "link": "https://www.reddit.com/r/programming/comments/1pt3wjv/reverse_engineering_of_a_rust_botnet_and_building/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-22T16:29:24Z",
-      "id": "348c509b0651d9a34cb4c43b8ce578e1"
-    },
-    {
       "title": "Assessing engineers beyond day to day output",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pt3s9e/assessing_engineers_beyond_day_to_day_output/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2025-12-22T16:24:30Z",
       "id": "e2f4239ad1290e9142664e5ed9a053b7"
-    },
-    {
-      "title": "[Edwards III] The New York Knicks are open to trading forward Guerschon Yabusele before the Feb. 5 NBA trade deadline and are expected to \"attach something\" to help facilitate a trade.",
-      "link": "https://www.reddit.com/r/nba/comments/1pt2xtc/edwards_iii_the_new_york_knicks_are_open_to/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T15:51:29Z",
-      "id": "e80843f20ddb54082905f186bd5ef8da"
     },
     {
       "title": "Algorithmically Generated Crosswords: Finding 'good enough' for an NP-Complete problem",
@@ -1158,14 +1222,6 @@
       "published": "2025-12-22T15:06:13Z",
       "id": "228af0b33dfdbf33240ae021b09fd9c4",
       "comments": "https://news.ycombinator.com/item?id=46354674"
-    },
-    {
-      "title": "Reducing OpenTelemetry Bundle Size in Browser Frontend",
-      "link": "https://www.reddit.com/r/programming/comments/1pt0bpm/reducing_opentelemetry_bundle_size_in_browser/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-22T14:02:51Z",
-      "id": "99b11e9997978b63cfc7906fcc8ab24a"
     },
     {
       "title": "Weekly Discussion Thread - December 22, 2025",
@@ -1192,22 +1248,6 @@
       "id": "cb5ed291fb3aac177a47126799aded45"
     },
     {
-      "title": "Russell Westbrook super hyped at the postgame conference, after the win against the Rockets. He cannot contain himself.",
-      "link": "https://www.reddit.com/r/nba/comments/1psskfw/russell_westbrook_super_hyped_at_the_postgame/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T06:27:44Z",
-      "id": "e7acb73f90b590273da0490e30fd6cbd"
-    },
-    {
-      "title": "[Highlight] Dennis Schroder swishes the game-winner in overtime, with 2.2 seconds remaining (with replays)",
-      "link": "https://www.reddit.com/r/nba/comments/1psruzy/highlight_dennis_schroder_swishes_the_gamewinner/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T05:47:12Z",
-      "id": "9d327a9f534e80f94c5c5be4beb66313"
-    },
-    {
       "title": "Coby White\u2019s Future",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1psrlwq/coby_whites_future/",
       "source": "r/chicagobulls",
@@ -1216,36 +1256,12 @@
       "id": "ca2e3bfa28e8c4d159cbb84eb6b64855"
     },
     {
-      "title": "[Highlight] Russell Westbrook swishes the game-tying corner 3, Kevin Durant misses the potential game-winner and the game is going to overtime (with replays)",
-      "link": "https://www.reddit.com/r/nba/comments/1psrjra/highlight_russell_westbrook_swishes_the_gametying/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T05:28:55Z",
-      "id": "49bcde2d9cbb26ae30a7202b5f84004d"
-    },
-    {
       "title": "Bulls 1995-1996 Full Games",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1psq22j/bulls_19951996_full_games/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2025-12-22T04:08:56Z",
       "id": "40a1b08551a782e25cf6b80c23d6c624"
-    },
-    {
-      "title": "Write code that you can understand when you get paged at 2am",
-      "link": "https://www.reddit.com/r/programming/comments/1psp399/write_code_that_you_can_understand_when_you_get/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-22T03:19:31Z",
-      "id": "27f07b6b785c3eec1469ba0082d6c0ad"
-    },
-    {
-      "title": "Jalen Brunson surprised one of his biggest fans before dropping a season high 47 against the Heat",
-      "link": "https://www.reddit.com/r/nba/comments/1psnz55/jalen_brunson_surprised_one_of_his_biggest_fans/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-22T02:24:56Z",
-      "id": "ebfe2a80ebfb9ec405ef5c763a98c8d3"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
@@ -1270,14 +1286,6 @@
       "category": "sports",
       "published": "2025-12-21T23:07:02Z",
       "id": "09d50665d89c2a984ff2073e2fa3a922"
-    },
-    {
-      "title": "How do you take notes efficiently for an industry with so much breadth?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1psiysi/how_do_you_take_notes_efficiently_for_an_industry/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-21T22:28:31Z",
-      "id": "c38f0e48dded697109e3f5dd802be406"
     },
     {
       "title": "Watch the Bulls warm up as close to the court as possible.",
@@ -1320,14 +1328,6 @@
       "id": "d1e53293e0d567b21562911b6b53a18e"
     },
     {
-      "title": "How do you cut through cultural clashes pragmatically?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1psbhq2/how_do_you_cut_through_cultural_clashes/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-21T17:10:47Z",
-      "id": "906b0036dae3ba90b5f2e43572bc756e"
-    },
-    {
       "title": "How is everyone\u2019s hiring going since AI, easier or harder to fill roles?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ps8efd/how_is_everyones_hiring_going_since_ai_easier_or/",
       "source": "r/ExperiencedDevs",
@@ -1342,6 +1342,15 @@
       "category": "sports",
       "published": "2025-12-21T11:01:48Z",
       "id": "d90c102448058447569e8650cc136943"
+    },
+    {
+      "title": "I rebuilt FlashAttention in Triton to understand the performance archaeology",
+      "link": "https://aminediro.com/posts/flash_attn/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-21T10:49:52Z",
+      "id": "572561997884fd9735381d3561ee2828",
+      "comments": "https://news.ycombinator.com/item?id=46343894"
     },
     {
       "title": "PRE GAME: Chicago Bulls (12-15) vs Atlanta Hawks (15-14) (December 21, 2025)",
@@ -1410,31 +1419,22 @@
       "id": "6cc4e0cb7703d3ca8f4ea1ba7eb8a842"
     },
     {
-      "title": "What makes you senior",
-      "link": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
+      "title": "Map: Operator[] Should Be Nodiscard",
+      "link": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-19T16:34:41Z",
-      "id": "8dcac8d6db602aebb5e5723ffa530b2a",
-      "comments": "https://news.ycombinator.com/item?id=46327692"
+      "published": "2025-12-19T15:45:08Z",
+      "id": "100e49e39b0c6594e4fc9c7677041515",
+      "comments": "https://news.ycombinator.com/item?id=46327060"
     },
     {
-      "title": "Life, Death and Mowing",
-      "link": "https://www.cam.ac.uk/stories/lawnmower-poetry",
+      "title": "Scaling Go Testing with Contract and Scenario Mocks",
+      "link": "https://funnelstory.ai/blog/engineering/scaling-go-testing-with-contract-and-scenario-mocks",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-19T09:58:23Z",
-      "id": "e5c5e10fc1afd41ba386f7a20a2a7d30",
-      "comments": "https://news.ycombinator.com/item?id=46324047"
-    },
-    {
-      "title": "Interactive Fluid Typography",
-      "link": "https://electricmagicfactory.com/articles/interactive-fluid-typography/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-18T19:56:04Z",
-      "id": "41088a5bb8fe198b4f3cc7f5ac3968b0",
-      "comments": "https://news.ycombinator.com/item?id=46317765"
+      "published": "2025-12-18T18:09:51Z",
+      "id": "8f31e068bd1a64e0e663f0848cf393af",
+      "comments": "https://news.ycombinator.com/item?id=46316295"
     },
     {
       "title": "Fifty problems with standard web APIs in 2025",
