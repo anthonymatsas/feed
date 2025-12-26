@@ -1,6 +1,39 @@
 {
-  "last_updated": "2025-12-26T06:27:28.814306Z",
+  "last_updated": "2025-12-26T09:19:13.342189Z",
   "items": [
+    {
+      "title": "Building an AI agent inside a 7-year-old Rails monolith",
+      "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-26T07:35:15Z",
+      "id": "c973e2b832bb80cbef920e78ca48d710",
+      "comments": "https://news.ycombinator.com/item?id=46390055"
+    },
+    {
+      "title": "Nikola Jokic tonight: 56 points, 16 rebounds, 15 assists, on 15-21 shooting, 4-6 from 3, 22-23 FT, team-high +18 in 42 mins",
+      "link": "https://www.reddit.com/r/nba/comments/1pvxskj/nikola_jokic_tonight_56_points_16_rebounds_15/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-26T06:42:18Z",
+      "id": "08421cfb28aac0c3a70b0e2b472dee82"
+    },
+    {
+      "title": "[Post Game Thread] The Denver Nuggets (22-8) defeat the Minnesota Timberwolves in overtime (20-11) behind Nikola Jokic's 56 point triple-double and Jamal Murray's 35 point performance, 142-138.",
+      "link": "https://www.reddit.com/r/nba/comments/1pvxsi7/post_game_thread_the_denver_nuggets_228_defeat/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-26T06:42:11Z",
+      "id": "df7489f3b8307ac0ef14317db58244ca"
+    },
+    {
+      "title": "[Highlight] Anthony Edwards receives his 2nd technical foul and is being ejected from the game, with 20.5 seconds remaining in overtime. He is also pointing out on people",
+      "link": "https://www.reddit.com/r/nba/comments/1pvxrbl/highlight_anthony_edwards_receives_his_2nd/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-26T06:40:07Z",
+      "id": "68e63391002f051882bd1c2b9d9b7fae"
+    },
     {
       "title": "Stack Overflow Dev Survey 2025: AI isn\u2019t replacing devs, but it is changing who wins",
       "link": "https://www.reddit.com/r/programming/comments/1pvxhj4/stack_overflow_dev_survey_2025_ai_isnt_replacing/",
@@ -18,31 +51,6 @@
       "id": "759d82c24d8193756182b3ee00650fce"
     },
     {
-      "title": "ai made building easy, debugging expensive",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pvwwod/ai_made_building_easy_debugging_expensive/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-26T05:48:45Z",
-      "id": "3cc990ee6fa275656cd3e2c76fa60984"
-    },
-    {
-      "title": "I connected Claude AI to game memory using MCP <> CheatEngine",
-      "link": "https://www.reddit.com/r/programming/comments/1pvwsvm/i_connected_claude_ai_to_game_memory_using_mcp/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-26T05:42:42Z",
-      "id": "f99a40acd822fa9cf744bbfcb9d45d0b"
-    },
-    {
-      "title": "Rob Pike Goes Nuclear over GenAI",
-      "link": "https://imgur.com/nUJCI3o",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-26T05:27:05Z",
-      "id": "6091a51711e09a1549bbc52e56452e92",
-      "comments": "https://news.ycombinator.com/item?id=46389444"
-    },
-    {
       "title": "Are there AI models fine-tuned for SQL?",
       "link": "https://www.reddit.com/r/programming/comments/1pvwf1u/are_there_ai_models_finetuned_for_sql/",
       "source": "r/programming",
@@ -57,6 +65,14 @@
       "category": "sports",
       "published": "2025-12-26T05:06:31Z",
       "id": "9ebec0fad96bb1f3cf44e698dfc28209"
+    },
+    {
+      "title": "[Highlight] Dan Campbell after the Lions NFC Championship loss to the Niner in 2023: \"This may have been our only shot.\"",
+      "link": "https://www.reddit.com/r/nfl/comments/1pvvsgz/highlight_dan_campbell_after_the_lions_nfc/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-26T04:46:45Z",
+      "id": "44a308c489981a24e9fc421e97678bb5"
     },
     {
       "title": "Does Josh Giddey have a new ceiling?",
@@ -107,6 +123,14 @@
       "id": "5d6cb54daa843f45c691c9b4bf5d5553"
     },
     {
+      "title": "Helluva year in the North",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1pvuzfr/helluva_year_in_the_north/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-26T04:01:35Z",
+      "id": "83de6fbf58fee20f728b29fe4714569d"
+    },
+    {
       "title": "Austin Booker punished twice for hits on Jordan Love in Bears-Packers game",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pvuub7/austin_booker_punished_twice_for_hits_on_jordan/",
       "source": "r/CHIBears",
@@ -129,6 +153,14 @@
       "category": "sports",
       "published": "2025-12-26T03:45:53Z",
       "id": "f500d8e01393168288cec4dedd9885c4"
+    },
+    {
+      "title": "Victor Wembanyama's personality begins to surface more, starting with showing his hatred for Gatorade bottles",
+      "link": "https://www.reddit.com/r/nba/comments/1pvumle/victor_wembanyamas_personality_begins_to_surface/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-26T03:42:20Z",
+      "id": "69e884db6b0150a0096531993e4b58c8"
     },
     {
       "title": "Merry Christmas!\ud83d\udc3b\u2b07\ufe0f",
@@ -211,14 +243,6 @@
       "category": "sports",
       "published": "2025-12-26T02:29:11Z",
       "id": "69b5283ca39e64a7afa8a6f23d54ee4b"
-    },
-    {
-      "title": "Spurs big man Victor Wembanyama says he doesn\u2019t want to \u2018say too much\u2019 about what he\u2019s gathered after going 3-0 against the Thunder this year. \"This is like a playoff series. We learned a lot on the tactical side\u2026.I don't want to say too much about it. Keep something for us.\u201c",
-      "link": "https://www.reddit.com/r/nba/comments/1pvsyer/spurs_big_man_victor_wembanyama_says_he_doesnt/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-26T02:14:29Z",
-      "id": "1f52a71365d8de1bb5137b68e207b7b3"
     },
     {
       "title": "Jimmy Butler on the Draymond Green and Steve Kerr argument and reconciliation this week \u201cI like that. Y\u2019all yell at each other. Turned me on a little bit. I\u2019m not gonna lie.\u201d",
@@ -513,14 +537,6 @@
       "id": "1a9f222ab916cb855e56654190aeb0f6"
     },
     {
-      "title": "Alex Caruso builds houses for the homeless today with: 12 PTS, 1 REB and 0 AST on 23.1% FG in 19 minutes",
-      "link": "https://www.reddit.com/r/nba/comments/1pvo4ce/alex_caruso_builds_houses_for_the_homeless_today/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-25T22:07:54Z",
-      "id": "381ca97057821007cffd3d5442e387a1"
-    },
-    {
       "title": "The Spurs have officially won the season series against the OKC Thunder.",
       "link": "https://www.reddit.com/r/nba/comments/1pvo2so/the_spurs_have_officially_won_the_season_series/",
       "source": "r/nba",
@@ -594,14 +610,6 @@
       "id": "7fd373f25c139bee033195671ee7a911"
     },
     {
-      "title": "[Highlight] Packers HC Matt LaFleur: \"I don't think my wife thought I was a good boy this year. so I don't think she got me anything. I was on the naughty list.\"",
-      "link": "https://www.reddit.com/r/nfl/comments/1pvmjot/highlight_packers_hc_matt_lafleur_i_dont_think_my/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-12-25T20:50:53Z",
-      "id": "af7970b401945c1d25d752c213bc33f1"
-    },
-    {
       "title": "This is funny \ud83d\ude04",
       "link": "https://www.reddit.com/r/CHIBears/comments/1pvm902/this_is_funny/",
       "source": "r/CHIBears",
@@ -632,30 +640,6 @@
       "category": "sports",
       "published": "2025-12-25T19:57:27Z",
       "id": "c516c99bad81ebb00e0f98690b1de65c"
-    },
-    {
-      "title": "[Highlight] Donovan Mitchell with the poster!",
-      "link": "https://www.reddit.com/r/nba/comments/1pvl1nq/highlight_donovan_mitchell_with_the_poster/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-25T19:39:48Z",
-      "id": "3698f3eaf546fe32faac9395a93e0a50"
-    },
-    {
-      "title": "Dogs were on the nice list",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pvkvpa/dogs_were_on_the_nice_list/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-25T19:32:06Z",
-      "id": "1d7a0450d0d4dd3910e59d562812243a"
-    },
-    {
-      "title": "Curry: You don\u2019t want to be in a situation the Lakers were in those last three years with Bryant. I know he came off the Achilles injury....they were a lottery team, and it was more just how many points can Kobe score down the stretch of his career. I don\u2019t want to be in that scenario.",
-      "link": "https://www.reddit.com/r/nba/comments/1pvkhse/curry_you_dont_want_to_be_in_a_situation_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-25T19:13:59Z",
-      "id": "ca118cb66838ecc2c4305400672a61bd"
     },
     {
       "title": "The Hidden Power of nextTick + setImmediate in Node.js",
@@ -738,15 +722,6 @@
       "category": "sports",
       "published": "2025-12-25T17:15:31Z",
       "id": "8e91c96b9ea525da1756c83bc947d1fe"
-    },
-    {
-      "title": "Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)",
-      "link": "https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-25T17:01:29Z",
-      "id": "129b304665c5fd5070e8b80b8f37c0e0",
-      "comments": "https://news.ycombinator.com/item?id=46385600"
     },
     {
       "title": "Beardownzaprine!",
@@ -907,13 +882,12 @@
       "id": "8a26ad3826e497a70c96da238402fe35"
     },
     {
-      "title": "Who Watches the Waymos? I do [video]",
-      "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
-      "source": "Hacker News",
+      "title": "Specification addressing inefficiencies in crawling of structured content for AI",
+      "link": "https://www.reddit.com/r/programming/comments/1puyk3x/specification_addressing_inefficiencies_in/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2025-12-25T00:10:12Z",
-      "id": "0af152eb7ab27e4c11e79f48cab9d415",
-      "comments": "https://news.ycombinator.com/item?id=46380758"
+      "published": "2025-12-24T22:06:05Z",
+      "id": "dad2a76a29893268503644975a39ac3b"
     },
     {
       "title": "Show HN: Lamp Carousel \u2013 DIY kinetic sculpture powered by lamp heat (2024)",
@@ -1158,6 +1132,23 @@
       "id": "79087b806d192ea37c77531f53cccb60"
     },
     {
+      "title": "Show HN: GeneGuessr \u2013 a daily biology web puzzle",
+      "link": "https://geneguessr.brinedew.bio/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-23T09:40:37Z",
+      "id": "a52fc601c8b941480aed76ed329c1cd0",
+      "comments": "https://news.ycombinator.com/item?id=46363870"
+    },
+    {
+      "title": "Are Microservices what Enable Independent Deployments? Not really.",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ptmwsw/are_microservices_what_enable_independent/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2025-12-23T06:29:28Z",
+      "id": "1aed425e26002d49ddb5064f925b5d83"
+    },
+    {
       "title": "Are good Scrum Masters and Product Owners hard to come by?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ptizz2/are_good_scrum_masters_and_product_owners_hard_to/",
       "source": "r/ExperiencedDevs",
@@ -1265,6 +1256,15 @@
       "id": "e2f4239ad1290e9142664e5ed9a053b7"
     },
     {
+      "title": "Animating Quines for Larva Labs",
+      "link": "https://destroytoday.com/blog/animating-quines-for-larva-labs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-22T14:04:02Z",
+      "id": "04f9949c87ebab33122cfc8cf3b7ff8c",
+      "comments": "https://news.ycombinator.com/item?id=46354187"
+    },
+    {
       "title": "Weekly Discussion Thread - December 22, 2025",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pt0ag0/weekly_discussion_thread_december_22_2025/",
       "source": "r/chicagobulls",
@@ -1290,21 +1290,21 @@
       "comments": "https://news.ycombinator.com/item?id=46353257"
     },
     {
-      "title": "I Spent 3 Months Researching Image-Based Attacks",
-      "link": "https://zero-trust-web.vercel.app/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-22T11:06:18Z",
-      "id": "2feabb207e40fe88e6a90c4d965351b4",
-      "comments": "https://news.ycombinator.com/item?id=46353177"
-    },
-    {
       "title": "Coby White\u2019s Future",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1psrlwq/coby_whites_future/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2025-12-22T05:32:20Z",
       "id": "ca2e3bfa28e8c4d159cbb84eb6b64855"
+    },
+    {
+      "title": "Show HN: Coderive \u2013 Iterating through 1 Quintillion Inside a Loop in just 50ms",
+      "link": "https://github.com/DanexCodr/Coderive",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-22T04:00:19Z",
+      "id": "03351610091eaf0917c59b4284319743",
+      "comments": "https://news.ycombinator.com/item?id=46351178"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
