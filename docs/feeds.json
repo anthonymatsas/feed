@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-12-28T09:16:44.206378Z",
+  "last_updated": "2025-12-28T12:33:19.396869Z",
   "items": [
+    {
+      "title": "Langfuse (YC W23) Is Hiring in Berlin, Germany",
+      "link": "https://langfuse.com/careers",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-28T12:00:06Z",
+      "id": "97d08a49c03eae2cca10316047b26e7f",
+      "comments": "https://news.ycombinator.com/item?id=46410449"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (December 27, 2025)",
+      "link": "https://www.reddit.com/r/nba/comments/1pxpq6v/serious_next_day_thread_postgame_discussion/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2025-12-28T12:00:01Z",
+      "id": "831ff443f7b6c1dd8552c69ad41bd27b"
+    },
+    {
+      "title": "Sunday Brunch",
+      "link": "https://www.reddit.com/r/nfl/comments/1pxpp3x/sunday_brunch/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2025-12-28T11:58:18Z",
+      "id": "02b51bb6f79a3dfd9bc31c81a3bc5232"
+    },
+    {
+      "title": "I built an offline semantic search engine in JS (no DB, no APIs), Feedback Appreciated",
+      "link": "https://www.reddit.com/r/programming/comments/1pxodue/i_built_an_offline_semantic_search_engine_in_js/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-28T10:37:38Z",
+      "id": "cbd055c49ab29d5e5480f45f8b95efbf"
+    },
+    {
+      "title": "Testing Side Effects Without the Side Effects",
+      "link": "https://www.reddit.com/r/programming/comments/1pxoagq/testing_side_effects_without_the_side_effects/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-28T10:31:52Z",
+      "id": "e460240579a5470d663ea5dfa7743fcb"
+    },
+    {
+      "title": "New Year's Resolutions done right for software engineers (Read this if you want a successful year at work in 2026)",
+      "link": "https://www.reddit.com/r/programming/comments/1pxne3p/new_years_resolutions_done_right_for_software/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2025-12-28T09:34:30Z",
+      "id": "18ef876f106befd8a44edef9d75d68cc"
+    },
     {
       "title": "Do you guys tailor your resume according to the job description?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pxmrff/do_you_guys_tailor_your_resume_according_to_the/",
@@ -18,30 +67,12 @@
       "id": "e887e08e5bb12c7d3f505bd29a5a481a"
     },
     {
-      "title": "Ask HN: By what percentage has AI changed your output as a software engineer?",
-      "link": "https://news.ycombinator.com/item?id=46409375",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-28T08:15:35Z",
-      "id": "c1ff694a80fbf23affc5db6b4753da97",
-      "comments": "https://news.ycombinator.com/item?id=46409375"
-    },
-    {
       "title": "A Practical Guide to Taming Postgres Isolation Anomalies",
       "link": "https://www.reddit.com/r/programming/comments/1pxlqgf/a_practical_guide_to_taming_postgres_isolation/",
       "source": "r/programming",
       "category": "tech",
       "published": "2025-12-28T07:48:19Z",
       "id": "be03eee38c3d328ce9c799336d575556"
-    },
-    {
-      "title": "Manus AI 100M USD ARR",
-      "link": "https://manus.im/blog/manus-100m-arr",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-28T07:45:16Z",
-      "id": "83587e9d1c137d5c68a15f368421674f",
-      "comments": "https://news.ycombinator.com/item?id=46409245"
     },
     {
       "title": "Building a Git-native tool to reduce manual task updates \u2014 looking for developer feedback",
@@ -52,13 +83,22 @@
       "id": "7327391e31e1fec115651bf47e63c5fa"
     },
     {
-      "title": "A new research shows that 21-33% of YouTube's feed may consist of AI slop",
-      "link": "https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/",
+      "title": "Growing up in \u201c404 Not Found\u201d: China's nuclear city in the Gobi Desert",
+      "link": "https://substack.com/inbox/post/182743659",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-28T07:14:43Z",
-      "id": "56df1ab08092cf3548ac4a446913520c",
-      "comments": "https://news.ycombinator.com/item?id=46409125"
+      "published": "2025-12-28T06:43:25Z",
+      "id": "4280caf366170a96f03e72ac74cdccea",
+      "comments": "https://news.ycombinator.com/item?id=46408988"
+    },
+    {
+      "title": "C++ says \u201cWe have try at home\u201d",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-28T06:42:53Z",
+      "id": "1a1a441cc10d1cc72035a362be31797c",
+      "comments": "https://news.ycombinator.com/item?id=46408984"
     },
     {
       "title": "[Alan Hahn] cooks Trae Young for his defensive effort: \u201cThat\u2019s the face of your franchise\u201d",
@@ -134,6 +174,14 @@
       "id": "2f8a1b3dd21fa26ea9cc5c209712c251"
     },
     {
+      "title": "KINGS OF THE NORTH!!\ud83d\udc3b\ud83d\udc3b",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1pxih3z/kings_of_the_north/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-28T04:44:52Z",
+      "id": "5acf6b23a8ec8d6d95b0c2cec8225976"
+    },
+    {
       "title": "There are 11 games this season where an offense did not punt. The rest of the NFL is 8-0. The Packers are 0-3.",
       "link": "https://www.reddit.com/r/nfl/comments/1pxie93/there_are_11_games_this_season_where_an_offense/",
       "source": "r/nfl",
@@ -180,6 +228,14 @@
       "category": "sports",
       "published": "2025-12-28T04:18:33Z",
       "id": "1a81cb3f21c55c47268cb1d50bca74b2"
+    },
+    {
+      "title": "Grating on pack",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1pxhy42/grating_on_pack/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2025-12-28T04:17:51Z",
+      "id": "30c18e8000bb29933f10ae7091cf72a3"
     },
     {
       "title": "King of the North",
@@ -270,12 +326,12 @@
       "id": "646b1e9742b0907f20375dea3167db27"
     },
     {
-      "title": "From worst to first!! \ud83d\udc3b \u2b07\ufe0f",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pxhkre/from_worst_to_first/",
+      "title": "Kings of the North!",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1pxhkdt/kings_of_the_north/",
       "source": "r/CHIBears",
       "category": "sports",
-      "published": "2025-12-28T03:59:30Z",
-      "id": "3c6a7ccec3cb02889bd24128dbef41e8"
+      "published": "2025-12-28T03:58:57Z",
+      "id": "108dd60f2f8a338294a6ca208dee6faf"
     },
     {
       "title": "The Chicago Bears have won the NFC North",
@@ -284,14 +340,6 @@
       "category": "sports",
       "published": "2025-12-28T03:58:57Z",
       "id": "daa9e44da17088314dfb4dd06b1becb7"
-    },
-    {
-      "title": "Kings of the North!",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pxhkdt/kings_of_the_north/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-28T03:58:57Z",
-      "id": "108dd60f2f8a338294a6ca208dee6faf"
     },
     {
       "title": "I love it",
@@ -316,14 +364,6 @@
       "category": "sports",
       "published": "2025-12-28T03:56:05Z",
       "id": "71bf05f90e57cca5daecaa3e8b206549"
-    },
-    {
-      "title": "Derek Henry appreciation thread.",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1pxhi91/derek_henry_appreciation_thread/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2025-12-28T03:56:02Z",
-      "id": "42e33353c31d82fe000580633e7fb4ff"
     },
     {
       "title": "Kings of the north!",
@@ -617,6 +657,15 @@
       "id": "0390758548e073c8da4f93a6843add9e"
     },
     {
+      "title": "Functional programming and reliability: ADTs, safety, critical infrastructure",
+      "link": "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-28T00:05:52Z",
+      "id": "702c1d65225c72245d89ffaac73f4b0b",
+      "comments": "https://news.ycombinator.com/item?id=46406901"
+    },
+    {
       "title": "Game Thread: Chicago Bulls vs Milwaukee Bucks Live Score | NBA | Dec 27, 2025",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pxcjoe/game_thread_chicago_bulls_vs_milwaukee_bucks_live/",
       "source": "r/chicagobulls",
@@ -647,15 +696,6 @@
       "category": "tech",
       "published": "2025-12-27T23:20:35Z",
       "id": "acb993416400d825ca56b945dbf495d6"
-    },
-    {
-      "title": "7- and 14-segment fonts \"DSEG\"",
-      "link": "https://www.keshikan.net/fonts.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-27T22:49:53Z",
-      "id": "23cad02d5352e9b6b464688a91f05f91",
-      "comments": "https://news.ycombinator.com/item?id=46406213"
     },
     {
       "title": "The Dangers of SSL Certificates",
@@ -865,15 +905,6 @@
       "id": "23640c97a3dd255af07255b1f09ac1e2"
     },
     {
-      "title": "Janet Jackson had the power to crash laptop computers (2022)",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-27T17:16:08Z",
-      "id": "f210b0d6bdb584efd515f48df5d021ac",
-      "comments": "https://news.ycombinator.com/item?id=46403291"
-    },
-    {
       "title": "Gpg.fail",
       "link": "https://gpg.fail",
       "source": "Hacker News",
@@ -915,28 +946,12 @@
       "id": "6dcd30d5e58a96594ca378e216175e4b"
     },
     {
-      "title": "Shitpost Saturday",
-      "link": "https://www.reddit.com/r/nfl/comments/1pwzsux/shitpost_saturday/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2025-12-27T15:00:34Z",
-      "id": "4781a2854faad21a1e09324f921a41b2"
-    },
-    {
       "title": "Python JSON serialization: handling nested objects, dataclasses, and type safety without boilerplate",
       "link": "https://www.reddit.com/r/programming/comments/1pwz0dd/python_json_serialization_handling_nested_objects/",
       "source": "r/programming",
       "category": "tech",
       "published": "2025-12-27T14:24:26Z",
       "id": "218015dac6d8cabeb04e62941328ab2c"
-    },
-    {
-      "title": "Why iOS app monetization (IAP) is hard to learn as a system",
-      "link": "https://www.reddit.com/r/programming/comments/1pwxqpp/why_ios_app_monetization_iap_is_hard_to_learn_as/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-27T13:23:22Z",
-      "id": "49e5bc323812945e95d55ca95acad760"
     },
     {
       "title": "Floor796",
@@ -963,14 +978,6 @@
       "published": "2025-12-27T12:51:15Z",
       "id": "75c8323a7658ae0d1321b19b68168d27",
       "comments": "https://news.ycombinator.com/item?id=46401499"
-    },
-    {
-      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (December 26, 2025)",
-      "link": "https://www.reddit.com/r/nba/comments/1pww77s/serious_next_day_thread_postgame_discussion/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-27T12:00:01Z",
-      "id": "b5a1734835acaff1c84571b9f9de3d6a"
     },
     {
       "title": "Understanding Database transactions and Isolation Levels",
@@ -1036,6 +1043,15 @@
       "category": "sports",
       "published": "2025-12-27T03:07:39Z",
       "id": "71f598198238dd6c84ccf16edd18bb26"
+    },
+    {
+      "title": "An experiment in separating identity, memory, and tools",
+      "link": "https://RCRDBL.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-27T01:42:45Z",
+      "id": "51ecfd4900a897064b1b4b073e9417f4",
+      "comments": "https://news.ycombinator.com/item?id=46398323"
     },
     {
       "title": "Game Thread: Chicago Bulls vs Philadelphia 76ers Live Score | NBA | Dec 26, 2025",
@@ -1134,15 +1150,6 @@
       "id": "82755168f1b0205f1e7d6344d968296f"
     },
     {
-      "title": "Multiscale Aperture Synthesis Imager",
-      "link": "https://www.nature.com/articles/s41467-025-65661-8",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-26T05:20:01Z",
-      "id": "47b8ef03548dd355d522dab874349337",
-      "comments": "https://news.ycombinator.com/item?id=46389418"
-    },
-    {
       "title": "5 Things on the Chicago Bulls' Christmas List This Holiday Season",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pvw5pc/5_things_on_the_chicago_bulls_christmas_list_this/",
       "source": "r/chicagobulls",
@@ -1159,14 +1166,6 @@
       "id": "b9d7e9c0153da29df9949cb39885658b"
     },
     {
-      "title": "Make your PR process resilient to AI slop",
-      "link": "https://www.reddit.com/r/programming/comments/1pvtq6l/make_your_pr_process_resilient_to_ai_slop/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-26T02:54:53Z",
-      "id": "8932e6c4f369f57684195c0bd2049257"
-    },
-    {
       "title": "The Compiler Is Your Best Friend, Stop Lying to It",
       "link": "https://www.reddit.com/r/programming/comments/1pvjtcb/the_compiler_is_your_best_friend_stop_lying_to_it/",
       "source": "r/programming",
@@ -1175,12 +1174,13 @@
       "id": "bd22198c1f81db780b81600e9eb5d1ee"
     },
     {
-      "title": "Logging Sucks - And here's how to make it better.",
-      "link": "https://www.reddit.com/r/programming/comments/1pvfxpn/logging_sucks_and_heres_how_to_make_it_better/",
-      "source": "r/programming",
+      "title": "Hacking a Java Minecraft server with memory overflows [video]",
+      "link": "https://www.youtube.com/watch?v=Zy6Ci-K-0K8",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-25T15:42:50Z",
-      "id": "c0e9fe32a8cf0751d53d803a59e53934"
+      "published": "2025-12-24T21:53:44Z",
+      "id": "3d0a9fe3f2fd812448b03ea05d54c3a4",
+      "comments": "https://news.ycombinator.com/item?id=46379665"
     },
     {
       "title": "The Holy Trinity of play-in",
@@ -1361,6 +1361,15 @@
       "id": "24f5049d0c219725d56c4371618d815e"
     },
     {
+      "title": "I stayed in a $40 capsule hotel (London)",
+      "link": "https://www.cnbc.com/2025/12/20/zedwell-capsule-hotel-i-stayed-in-a-40-dollar-capsule-hotel-in-london.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-22T19:14:29Z",
+      "id": "8a3a9a0c6a751d5f46d19f39430de54c",
+      "comments": "https://news.ycombinator.com/item?id=46357654"
+    },
+    {
       "title": "Interview anxiety and repeated failures",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pt7247/interview_anxiety_and_repeated_failures/",
       "source": "r/ExperiencedDevs",
@@ -1453,15 +1462,6 @@
       "published": "2025-12-21T17:49:36Z",
       "id": "be61053b4351cadf5b4705dd5bd60853",
       "comments": "https://news.ycombinator.com/item?id=46346648"
-    },
-    {
-      "title": "Interton Video Computer 4000",
-      "link": "https://en.wikipedia.org/wiki/Interton_Video_Computer_4000",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-21T14:40:16Z",
-      "id": "1ec40660ae66df91b4dfc8718b61aae2",
-      "comments": "https://news.ycombinator.com/item?id=46345158"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
