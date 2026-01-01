@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-01-01T09:21:12.081076Z",
+  "last_updated": "2026-01-01T12:35:55.710130Z",
   "items": [
+    {
+      "title": "Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop",
+      "link": "https://www.phoronix.com/review/windows-beats-linux-arl-h",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-01T11:20:13Z",
+      "id": "87d6a506a3e127399a55fe8ec3b7f225",
+      "comments": "https://news.ycombinator.com/item?id=46453221"
+    },
+    {
+      "title": "Using Git as a Backend for other Tools",
+      "link": "https://www.reddit.com/r/programming/comments/1q11zpk/using_git_as_a_backend_for_other_tools/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-01T11:17:29Z",
+      "id": "76dddc829ae70e1f0eb55d0df3dd3f7a"
+    },
+    {
+      "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
+      "link": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-01T11:17:18Z",
+      "id": "55dd0c95491c157d04e36310e3a67b0d",
+      "comments": "https://news.ycombinator.com/item?id=46453204"
+    },
+    {
+      "title": "The Adult in the Room: Why It\u2019s Time to Move AI from Python Scripts to Java Systems",
+      "link": "https://www.reddit.com/r/programming/comments/1q11p31/the_adult_in_the_room_why_its_time_to_move_ai/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-01T10:59:00Z",
+      "id": "c78058df62c068f1ce1be83f16661e6a"
+    },
+    {
+      "title": "Rust\u2013: Rust without the borrow checker",
+      "link": "https://github.com/buyukakyuz/rustmm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-01T10:53:12Z",
+      "id": "aa159a7300ab60b4fe298a7fa602b234",
+      "comments": "https://news.ycombinator.com/item?id=46453062"
+    },
+    {
+      "title": "I spent 9 hours debugging a system where I existed on the blockchain but not in the database",
+      "link": "https://www.reddit.com/r/programming/comments/1q11auq/i_spent_9_hours_debugging_a_system_where_i/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-01T10:33:09Z",
+      "id": "b183cf983a5fa7c1386a228225f8ab20"
+    },
+    {
+      "title": "Worlds largest electric ship launched by Tasmanian boatbuilder",
+      "link": "https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-01T10:29:54Z",
+      "id": "3ab533cf02927fe6a04a7a444706e5a1",
+      "comments": "https://news.ycombinator.com/item?id=46452937"
+    },
+    {
+      "title": "Sorting with Fibonacci Numbers and a Knuth Reward Check",
+      "link": "https://www.reddit.com/r/programming/comments/1q117yd/sorting_with_fibonacci_numbers_and_a_knuth_reward/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-01T10:27:55Z",
+      "id": "788eb7b7ae72a1eb258e11afdc8ee42c"
+    },
+    {
+      "title": "If childhood is half of subjective life, how should that change how we live?",
+      "link": "https://moultano.wordpress.com/2025/12/30/children-and-helical-time/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-01T09:53:48Z",
+      "id": "4ad05995b8162a4098c1b70d27dc2b82",
+      "comments": "https://news.ycombinator.com/item?id=46452763"
+    },
     {
       "title": "Software taketh away faster than hardware giveth: Why C++ programmers keep growing fast despite competition, safety, and AI",
       "link": "https://www.reddit.com/r/programming/comments/1q0zuun/software_taketh_away_faster_than_hardware_giveth/",
@@ -10,12 +87,12 @@
       "id": "dd85e27733722f54ae02e39b8024f802"
     },
     {
-      "title": "I built DevBench \u2013 an offline-first developer desktop tool with API client, planner, notes, diagrams & Git sync",
-      "link": "https://www.reddit.com/r/programming/comments/1q0yndn/i_built_devbench_an_offlinefirst_developer/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-01T07:35:11Z",
-      "id": "79deeb6aaebad0caa4952469d4f47981"
+      "title": "Kon Knueppel on was it like sharing the floor with someone he'll probably be compared to for the rest of his career (Steph Curry): \"Hmm...I don't know about that.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1q0y6ru/kon_knueppel_on_was_it_like_sharing_the_floor/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-01T07:04:37Z",
+      "id": "539062e069ebcdc986a01c22c61a9f73"
     },
     {
       "title": "JavaFX User Management System \u2013 BCrypt Password Hashing (Part 6)",
@@ -24,14 +101,6 @@
       "category": "tech",
       "published": "2026-01-01T06:04:21Z",
       "id": "ed0992fd0d4a00efb05a7922383dc8a1"
-    },
-    {
-      "title": "Snapshot of software engineering job openings in US",
-      "link": "https://www.reddit.com/r/programming/comments/1q0wl62/snapshot_of_software_engineering_job_openings_in/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-01T05:23:47Z",
-      "id": "bb8521bbc484362b7840862bbf79e2aa"
     },
     {
       "title": "Defense PPG Home vs Away",
@@ -113,6 +182,14 @@
       "category": "sports",
       "published": "2026-01-01T03:30:51Z",
       "id": "4ba0c93a770a581971abef068fed29d4"
+    },
+    {
+      "title": "Alex Sarr in the win vs the Bucks: 20/11/2 with 4 blocks including the game saving block on Giannis",
+      "link": "https://www.reddit.com/r/nba/comments/1q0ulis/alex_sarr_in_the_win_vs_the_bucks_20112_with_4/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-01T03:26:52Z",
+      "id": "ed79f43fd2a308b82df191cf87b9bdf1"
     },
     {
       "title": "[Highlight] Brandon Ingram\u2019s game-tying shot is ruled no good after review as the Denver Nuggets hang on for a 106-103 victory over the Toronto Raptors.",
@@ -619,15 +696,6 @@
       "id": "6d04ad28d6fa788be0a33c9221021add"
     },
     {
-      "title": "PyPI in 2025: A Year in Review",
-      "link": "https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T19:08:39Z",
-      "id": "14c258368c770f9863852a440cbf68d9",
-      "comments": "https://news.ycombinator.com/item?id=46447202"
-    },
-    {
       "title": "On Kevin Byard's podcast he revealed that he calls 3rd downs \"3rd and Colston\". Colston also did a Ben Johnson impersonation during camp complete with Ben's walk, pulled up sleeves, and calling a practice with 10 straight live hit drills a \"light\" practice",
       "link": "https://www.reddit.com/r/CHIBears/comments/1q0kip7/on_kevin_byards_podcast_he_revealed_that_he_calls/",
       "source": "r/CHIBears",
@@ -642,15 +710,6 @@
       "category": "sports",
       "published": "2025-12-31T18:44:24Z",
       "id": "4629bab575984dcad035317044d6ab9f"
-    },
-    {
-      "title": "On privacy and control",
-      "link": "https://toidiu.com/blog/2025-12-25-privacy-and-control/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T18:39:40Z",
-      "id": "acfca3a8c0c1fec2a21605d71198da79",
-      "comments": "https://news.ycombinator.com/item?id=46446938"
     },
     {
       "title": "I canceled my book deal",
@@ -783,14 +842,6 @@
       "id": "99bb095e65febb52f0a1cf9ff30b0892"
     },
     {
-      "title": "[Amick] The Mavericks initiated contact with the Golden State Warriors about Anthony Davis. Dallas has interest in Jonathan Kuminga, though the Warriors would have to include more to match contracts, such as the contract of Draymond Green, which they are staunchly opposed to.",
-      "link": "https://www.reddit.com/r/nba/comments/1q0hj4v/amick_the_mavericks_initiated_contact_with_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-31T16:49:09Z",
-      "id": "695c648168b2e2e09e7be8a9ad3d3289"
-    },
-    {
       "title": "Frontend development in 2025 - indepth recap",
       "link": "https://www.reddit.com/r/programming/comments/1q0h7k9/frontend_development_in_2025_indepth_recap/",
       "source": "r/programming",
@@ -805,15 +856,6 @@
       "category": "sports",
       "published": "2025-12-31T16:22:18Z",
       "id": "875c912480cc8b58f784f8d0a3e301e0"
-    },
-    {
-      "title": "Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris",
-      "link": "https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T15:52:51Z",
-      "id": "460a842c717f1a75a3d4e92c87f518a7",
-      "comments": "https://news.ycombinator.com/item?id=46445195"
     },
     {
       "title": "Jerry Jones uncertain if he'll negotiate George Pickens extension via agent David Mulugheta",
@@ -831,14 +873,6 @@
       "published": "2025-12-31T15:46:34Z",
       "id": "e139df72947caeefc612168f4fd284e0",
       "comments": "https://news.ycombinator.com/item?id=46445131"
-    },
-    {
-      "title": "LeBron James has played against 35.5% of all players in NBA history",
-      "link": "https://www.reddit.com/r/nba/comments/1q0foxb/lebron_james_has_played_against_355_of_all/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2025-12-31T15:31:36Z",
-      "id": "3ee56092e11c82b71435d1f1641303f3"
     },
     {
       "title": "Building a lightweight JS/TS statistical library: challenges and design choices",
@@ -912,15 +946,6 @@
       "category": "sports",
       "published": "2025-12-31T13:49:40Z",
       "id": "e1238c16fabd84f85f55f6b3c3dfc97d"
-    },
-    {
-      "title": "When square pixels aren't square",
-      "link": "https://alexwlchan.net/2025/square-pixels/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T13:44:41Z",
-      "id": "449c61f77b10f1c8a66100130ab3f6dd",
-      "comments": "https://news.ycombinator.com/item?id=46443988"
     },
     {
       "title": "Luka Don\u010di\u0107 to Dennis Schroder: \u201cShoulda signed that contract, baby.\u201d",
@@ -1118,14 +1143,6 @@
       "id": "1a3567b191c1cd4bd75ed23d2d06187b"
     },
     {
-      "title": "The Poison Pill Request: How One Bad Request Can Kill Your Entire Fleet",
-      "link": "https://www.reddit.com/r/programming/comments/1pziguz/the_poison_pill_request_how_one_bad_request_can/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-30T13:43:55Z",
-      "id": "73266bd3abe9208c68406add3c5564fc"
-    },
-    {
       "title": "Management seems to lack trust in their developers. Can't even choose my own editor. How can I convince them?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pzi3kr/management_seems_to_lack_trust_in_their/",
       "source": "r/ExperiencedDevs",
@@ -1204,14 +1221,6 @@
       "category": "sports",
       "published": "2025-12-29T18:22:10Z",
       "id": "77bfba8c8554f2ad0cc00c1a26e2cbdc"
-    },
-    {
-      "title": "The rise and fall of robots.txt",
-      "link": "https://www.reddit.com/r/programming/comments/1pytqia/the_rise_and_fall_of_robotstxt/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2025-12-29T18:19:39Z",
-      "id": "d86224a596c14886996641753c26df91"
     },
     {
       "title": "Special Ticket question - when is the item available, can 1 person pick up for everyone",
@@ -1368,15 +1377,6 @@
       "comments": "https://news.ycombinator.com/item?id=46409830"
     },
     {
-      "title": "Observed Agent Sandbox Bypasses",
-      "link": "https://voratiq.com/blog/yolo-in-the-sandbox/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-28T08:16:49Z",
-      "id": "1fe8a83682cc257c240f160ed04741dd",
-      "comments": "https://news.ycombinator.com/item?id=46409379"
-    },
-    {
       "title": "Patrick Williams' Stats Last 5 Games",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1pxhylj/patrick_williams_stats_last_5_games/",
       "source": "r/chicagobulls",
@@ -1402,15 +1402,6 @@
       "comments": "https://news.ycombinator.com/item?id=46406570"
     },
     {
-      "title": "Only 5 Sears stores remain in the U.S.",
-      "link": "https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-27T19:37:35Z",
-      "id": "5131ce4aed4403fed116e2ef6c2c23d5",
-      "comments": "https://news.ycombinator.com/item?id=46404509"
-    },
-    {
       "title": "So I started cloning the Wii U gamepad [video]",
       "link": "https://www.youtube.com/watch?v=jlbcKuDEBw8",
       "source": "Hacker News",
@@ -1418,6 +1409,15 @@
       "published": "2025-12-27T15:43:53Z",
       "id": "f199814011f19275e46bedffe182aa6a",
       "comments": "https://news.ycombinator.com/item?id=46402620"
+    },
+    {
+      "title": "Easel Turns One One year of building my own IDE in Clojure",
+      "link": "https://blog.phronemophobic.com/easel-one-year.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-27T14:46:16Z",
+      "id": "6b8a1a7e39105b8e40cdb5d9b6103a27",
+      "comments": "https://news.ycombinator.com/item?id=46402202"
     },
     {
       "title": "Pok\u00e9mon Team Optimization",
@@ -1447,13 +1447,13 @@
       "comments": "https://news.ycombinator.com/item?id=46395438"
     },
     {
-      "title": "Microtonal Spiral Piano",
-      "link": "https://shih1.github.io/spiral/",
+      "title": "A Christmas Present to Myself \u2013 Vector Network Analyzer (2014)",
+      "link": "https://axotron.se/blog/vector-network-analyzer-a-christmas-present-to-myself/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-26T08:30:36Z",
-      "id": "a27b267ab7248cfd5851e4461ca424ff",
-      "comments": "https://news.ycombinator.com/item?id=46390312"
+      "published": "2025-12-25T13:45:04Z",
+      "id": "8784defdf27ed3d6a21b1e08226cc9cc",
+      "comments": "https://news.ycombinator.com/item?id=46384349"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
