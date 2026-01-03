@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-01-03T09:16:50.503340Z",
+  "last_updated": "2026-01-03T12:32:53.950493Z",
   "items": [
+    {
+      "title": "Obsidian vs DevScribe: Knowledge Management vs Engineering Execution",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q2tark/obsidian_vs_devscribe_knowledge_management_vs/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-03T12:20:38Z",
+      "id": "69cff91f83a9cc716eb70da8024bb485"
+    },
+    {
+      "title": "How are you using AI/Programming to solve real world problems for yourself?",
+      "link": "https://www.reddit.com/r/programming/comments/1q2t88k/how_are_you_using_aiprogramming_to_solve_real/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-03T12:16:40Z",
+      "id": "88a6992030b3ef449a04fe3fd5b99039"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (January 02, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1q2sxfs/serious_next_day_thread_postgame_discussion/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-03T12:00:01Z",
+      "id": "ac30711555a411561952318652844bbd"
+    },
+    {
+      "title": "Not for Human Consumption",
+      "link": "https://vectorculture.substack.com/p/not-for-human-consumption",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-03T11:26:59Z",
+      "id": "c49e227656dbfbebcfccde48ae19a2d2",
+      "comments": "https://news.ycombinator.com/item?id=46475376"
+    },
+    {
+      "title": "Tally \u2013 A tool to help agents classify your bank transactions",
+      "link": "https://tallyai.money/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-03T11:02:33Z",
+      "id": "b9c80a653497dc921522a62e318dbe67",
+      "comments": "https://news.ycombinator.com/item?id=46475218"
+    },
+    {
+      "title": "Encapsulating audio metadata and edit logic in a single text format",
+      "link": "https://www.reddit.com/r/programming/comments/1q2rvgs/encapsulating_audio_metadata_and_edit_logic_in_a/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-03T10:58:15Z",
+      "id": "629b50a9104edf2a1d68e20879425d8f"
+    },
+    {
+      "title": "Let\u2019s watch some Packers highlights, 1939 season",
+      "link": "https://www.reddit.com/r/nfl/comments/1q2r91q/lets_watch_some_packers_highlights_1939_season/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-01-03T10:20:21Z",
+      "id": "ec65e36735ab44fefa1a3a8edb753789"
+    },
+    {
+      "title": "New Data serialization Tool",
+      "link": "https://www.reddit.com/r/programming/comments/1q2r639/new_data_serialization_tool/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-03T10:15:21Z",
+      "id": "3d5d814324a34664befce8eb53d79ffc"
+    },
+    {
+      "title": "Why Developer Expertise Matters More Than Ever in the Age of AI",
+      "link": "https://www.reddit.com/r/programming/comments/1q2qa5m/why_developer_expertise_matters_more_than_ever_in/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-03T09:21:12Z",
+      "id": "0142abddbc34d36837e9fd43e82b1300"
+    },
+    {
+      "title": "The Warriors exemplified the worst part of the NBA",
+      "link": "https://www.reddit.com/r/nba/comments/1q2q5p8/the_warriors_exemplified_the_worst_part_of_the_nba/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-03T09:13:19Z",
+      "id": "c6c59fc0e8c39657ab60c53d5bde4116"
+    },
     {
       "title": "Research found indentation depth correlates with cyclomatic complexity. A language-agnostic approach to measuring code complexity",
       "link": "https://www.reddit.com/r/programming/comments/1q2q1ib/research_found_indentation_depth_correlates_with/",
@@ -24,15 +106,6 @@
       "category": "tech",
       "published": "2026-01-03T07:43:05Z",
       "id": "2c7dad356ac1a97b2c02ffb9c5b64602"
-    },
-    {
-      "title": "Explosions reported in Venezuelan capital Caracas",
-      "link": "https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-03T07:35:26Z",
-      "id": "50c76f6affd11c9f7c62a95ba5984527",
-      "comments": "https://news.ycombinator.com/item?id=46473623"
     },
     {
       "title": "Ever wonder how a team's draft pick impacts their future success?",
@@ -81,6 +154,15 @@
       "category": "tech",
       "published": "2026-01-03T06:36:05Z",
       "id": "6d905d10d95079b403bbf83978405ca9"
+    },
+    {
+      "title": "Trump says Venezuela's Maduro captured after strikes",
+      "link": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-03T06:35:21Z",
+      "id": "650fca0730686d9e50fbd5f4333dba36",
+      "comments": "https://news.ycombinator.com/item?id=46473348"
     },
     {
       "title": "[Highlight] LeBron James says \"I gotchu\" to a tired Luka Doncic, after capping off a 12-2 clutch run that Luka started while he was resting on the bench.",
@@ -163,6 +245,14 @@
       "id": "1621eaf53082ff87c5dbbad3ded3c4d3"
     },
     {
+      "title": "[Post Game Thread] The Oklahoma City Thunder (29-5) defeat the Golden State Warriors (18-16), 131-94.",
+      "link": "https://www.reddit.com/r/nba/comments/1q2m9yf/post_game_thread_the_oklahoma_city_thunder_295/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-03T05:32:10Z",
+      "id": "02da38004459284762efa1ff2d26de6a"
+    },
+    {
       "title": "plan-do-check-verify-retrospect: A framework for AI Assisted Coding",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q2m46x/plandocheckverifyretrospect_a_framework_for_ai/",
       "source": "r/ExperiencedDevs",
@@ -195,14 +285,6 @@
       "id": "19e84151b57911e77df206fa2b532468"
     },
     {
-      "title": "Plan Do Check Verify Retrospect: A framework for AI Assisted Coding",
-      "link": "https://www.reddit.com/r/programming/comments/1q2ldrq/plan_do_check_verify_retrospect_a_framework_for/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-03T04:47:38Z",
-      "id": "c60f06bd83121fbd0ab5ba2e28be96eb"
-    },
-    {
       "title": "Luka at the half: 13 Points, 4 Rebounds and 4 Assists on 2/8 shooting, 9/11 from the line, 0/4 from 3 and 4 TO.",
       "link": "https://www.reddit.com/r/nba/comments/1q2la95/luka_at_the_half_13_points_4_rebounds_and_4/",
       "source": "r/nba",
@@ -225,6 +307,15 @@
       "category": "tech",
       "published": "2026-01-03T04:27:50Z",
       "id": "210c098db31748019ade484033031230"
+    },
+    {
+      "title": "Show HN: uvx ptn, scan a QR, get a terminal in your phone",
+      "link": "https://github.com/lyehe/porterminal",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-03T04:22:29Z",
+      "id": "9be4dd6e3c022c5c83a2933c23b07726",
+      "comments": "https://news.ycombinator.com/item?id=46472772"
     },
     {
       "title": "Giants TE Theo Johnson shown on the jumbotron attending the Knicks game tonight. He\u2019s has been ruled out for Sunday\u2019s game with an illness.",
@@ -282,14 +373,6 @@
       "category": "sports",
       "published": "2026-01-03T03:41:52Z",
       "id": "72be324ca925786522bbadf5971c2bcb"
-    },
-    {
-      "title": "[Highlight] Last season\u2019s #1 overall pick Zaccharie Risacher upset with Quin Snyder after being benched for Luke Kennard in the clutch",
-      "link": "https://www.reddit.com/r/nba/comments/1q2k088/highlight_last_seasons_1_overall_pick_zaccharie/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-03T03:41:39Z",
-      "id": "ca9e8666c476872ef860be9287732916"
     },
     {
       "title": "Post Game Thread - NBA: The Bulls defeat the Magic on Jan 2, 2026, the final score is 121-114.",
@@ -371,14 +454,6 @@
       "category": "sports",
       "published": "2026-01-03T02:26:51Z",
       "id": "0576ee0dba6e4b4cff98bbf96d13159c"
-    },
-    {
-      "title": "The future of personalization",
-      "link": "https://www.reddit.com/r/programming/comments/1q2i7qu/the_future_of_personalization/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-03T02:21:27Z",
-      "id": "59ec954ba29a644c3152555227416295"
     },
     {
       "title": "Thompson tells how he developed the Go language at Google.",
@@ -857,14 +932,6 @@
       "id": "57368759b685d3046881db05e8ebac52"
     },
     {
-      "title": "[ESPN] People in the league believe Steve Ballmer\u2019s good reputation with his fellow owners and his $150B net worth are important factors to consider in the Aspiration investigation: \"You have to be careful getting into a [legal] fight with someone like Ballmer. You have to have the evidence.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1q257fd/espn_people_in_the_league_believe_steve_ballmers/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-02T17:45:17Z",
-      "id": "ff6a5305f3206d5c02772d1f976fb325"
-    },
-    {
       "title": "Progress since last year",
       "link": "https://www.reddit.com/r/CHIBears/comments/1q24rrg/progress_since_last_year/",
       "source": "r/CHIBears",
@@ -905,15 +972,6 @@
       "category": "sports",
       "published": "2026-01-02T16:34:38Z",
       "id": "922f79c87c521db05ce1dacbba10b945"
-    },
-    {
-      "title": "Punkt. Unveils MC03 Smartphone",
-      "link": "https://www.punkt.ch/blogs/news/punkt-unveils-mc03",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-02T16:23:34Z",
-      "id": "f957b7665bcc087312e845727ac59aaf",
-      "comments": "https://news.ycombinator.com/item?id=46466364"
     },
     {
       "title": "Why users cannot create Issues directly",
@@ -1031,37 +1089,12 @@
       "id": "562a1b584ba2d1f973804129ba94bf5e"
     },
     {
-      "title": "Vikings' Jefferson believes McCarthy can be 'that No. 1 guy'",
-      "link": "https://www.reddit.com/r/nfl/comments/1q1zg11/vikings_jefferson_believes_mccarthy_can_be_that/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-01-02T14:05:03Z",
-      "id": "b1ec3388b5d6779f23730e74d09fb9c9"
-    },
-    {
       "title": "Liam Coen to McAfee: Jakobi Meyers was the answer",
       "link": "https://www.reddit.com/r/nfl/comments/1q1yv0g/liam_coen_to_mcafee_jakobi_meyers_was_the_answer/",
       "source": "r/nfl",
       "category": "sports",
       "published": "2026-01-02T13:40:01Z",
       "id": "6addb7c4f3549dcc9e8dc4571aebc8ee"
-    },
-    {
-      "title": "Weekly Friday Self-Promotion and Fan Art Thread",
-      "link": "https://www.reddit.com/r/nba/comments/1q1y0ep/weekly_friday_selfpromotion_and_fan_art_thread/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-02T13:00:40Z",
-      "id": "5319a1b0faa187ab3abf87353a952e09"
-    },
-    {
-      "title": "Assorted less(1) tips",
-      "link": "https://blog.thechases.com/posts/assorted-less-tips/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-02T12:29:23Z",
-      "id": "35e8e507a4e4d9c473ea8842e60cf533",
-      "comments": "https://news.ycombinator.com/item?id=46464120"
     },
     {
       "title": "Why I switched away from Zig to C3",
@@ -1102,15 +1135,6 @@
       "category": "tech",
       "published": "2026-01-02T10:44:24Z",
       "id": "24c7694b624e04b4df21fd0351816b02"
-    },
-    {
-      "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
-      "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-02T10:10:46Z",
-      "id": "21ead8ac5cc2ff18b2733574205a2ccc",
-      "comments": "https://news.ycombinator.com/item?id=46463315"
     },
     {
       "title": "Matt Godbolt's Advent of Compiler Optimisations 2025",
@@ -1161,14 +1185,6 @@
       "id": "e37be45398957c545fb659b8024ab253"
     },
     {
-      "title": "Lessons from hash table merging",
-      "link": "https://www.reddit.com/r/programming/comments/1q1pbdk/lessons_from_hash_table_merging/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-02T04:41:25Z",
-      "id": "152633d755646c9483e4cd1861972e32"
-    },
-    {
       "title": "Is handling scope creep the biggest issue? How to solve?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q1o7kf/is_handling_scope_creep_the_biggest_issue_how_to/",
       "source": "r/ExperiencedDevs",
@@ -1207,14 +1223,6 @@
       "category": "tech",
       "published": "2026-01-01T21:14:05Z",
       "id": "f1dcaec068ffa65486a5badfad9a3898"
-    },
-    {
-      "title": "Gene \u2014 a homoiconic, general-purpose language built around a generic \u201cGene\u201d data type",
-      "link": "https://www.reddit.com/r/programming/comments/1q1e75u/gene_a_homoiconic_generalpurpose_language_built/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-01T20:29:38Z",
-      "id": "c9e6c3b3e8697bb30953504544084688"
     },
     {
       "title": "This year will be the 35th Anniversary of the NBA finals against the Bulls and Lakers, and made MJ a legend",
@@ -1314,6 +1322,24 @@
       "id": "a234430bac32f8a6f2617ca940fe889a"
     },
     {
+      "title": "GitHub \u2013 tomasf/Cadova: Swift DSL for parametric 3D modeling",
+      "link": "https://github.com/tomasf/Cadova",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-31T09:16:58Z",
+      "id": "55a5fccbb0ecba83ac0848b4733e95c1",
+      "comments": "https://news.ycombinator.com/item?id=46442624"
+    },
+    {
+      "title": "UK company sends factory with 1,000C furnace into space",
+      "link": "https://www.bbc.co.uk/news/articles/c62vx0pgyrgo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-31T08:04:30Z",
+      "id": "e0efdc429f94fbc803aad35a3b901fc9",
+      "comments": "https://news.ycombinator.com/item?id=46442293"
+    },
+    {
       "title": "The Cost of a Closure in C: The Rest",
       "link": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup",
       "source": "Hacker News",
@@ -1353,14 +1379,6 @@
       "category": "sports",
       "published": "2025-12-31T00:19:30Z",
       "id": "d64b4369423ec4930687fffb6c4a6b92"
-    },
-    {
-      "title": "Senior engineer coworkers strangely unconcerned about decommission of source control server",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pzvtvl/senior_engineer_coworkers_strangely_unconcerned/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2025-12-30T22:30:56Z",
-      "id": "47865db77b04f9407bed07ec79607252"
     },
     {
       "title": "Official r/NFL Week 17 Power Rankings",
@@ -1412,15 +1430,6 @@
       "id": "cc999108a99074763f5f28e093f1f0e6"
     },
     {
-      "title": "Chain Flinger",
-      "link": "https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-28T21:56:27Z",
-      "id": "c6d8d2b8b4885bed48f7967f0b31c142",
-      "comments": "https://news.ycombinator.com/item?id=46414908"
-    },
-    {
       "title": "Why 451 Is Good for You \u2013 Greylisting Perspectives from the Early Noughties",
       "link": "https://bsdly.blogspot.com/2025/12/why-451-is-good-for-you-greylisting.html",
       "source": "Hacker News",
@@ -1428,15 +1437,6 @@
       "published": "2025-12-28T21:22:13Z",
       "id": "7bfe2ea3425ccdb95abd2a3e7739afd1",
       "comments": "https://news.ycombinator.com/item?id=46414653"
-    },
-    {
-      "title": "Uxn32: Uxn Emulator for Windows and Wine",
-      "link": "https://github.com/randrew/uxn32",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-28T06:39:57Z",
-      "id": "74cfff84d5c634d87f881cb7f225aedd",
-      "comments": "https://news.ycombinator.com/item?id=46408974"
     },
     {
       "title": "From Bears Twitter",
