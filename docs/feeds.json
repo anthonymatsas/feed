@@ -1,6 +1,56 @@
 {
-  "last_updated": "2026-01-04T06:26:45.517474Z",
+  "last_updated": "2026-01-04T09:16:26.883062Z",
   "items": [
+    {
+      "title": "Stackoverflow: Questions asked per month over time.",
+      "link": "https://www.reddit.com/r/programming/comments/1q3l83g/stackoverflow_questions_asked_per_month_over_time/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-04T08:59:20Z",
+      "id": "bf243c3d55a814f629197cfc4a9c7db3"
+    },
+    {
+      "title": "Meeting Seed7 - by Norman Feske",
+      "link": "https://www.reddit.com/r/programming/comments/1q3l2ke/meeting_seed7_by_norman_feske/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-04T08:49:55Z",
+      "id": "5e0f4558383b70edc07fda1e56dbad2c"
+    },
+    {
+      "title": "Building a mobile app to reduce privacy exposure - looking for technical feedback",
+      "link": "https://www.reddit.com/r/programming/comments/1q3l1x4/building_a_mobile_app_to_reduce_privacy_exposure/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-04T08:48:53Z",
+      "id": "d66ea0b64d465fe5709d8cf58e12a473"
+    },
+    {
+      "title": "The Gentle Seduction",
+      "link": "http://www.skyhunter.com/marcs/GentleSeduction.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-04T08:35:42Z",
+      "id": "ac1259517db59cfa416734444ef196fd",
+      "comments": "https://news.ycombinator.com/item?id=46486135"
+    },
+    {
+      "title": "Pixoo Sign Client for Ruby",
+      "link": "https://github.com/tenderlove/pixoo-rb",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-04T06:54:50Z",
+      "id": "4aeda9d5a402f9add4ef13e95e6ff303",
+      "comments": "https://news.ycombinator.com/item?id=46485629"
+    },
+    {
+      "title": "[Highlight] Jaylen Brown (50 PTS (18-26 FGM) 5 AST) ties his career-high in points and joins Jayson Tatum and Larry Bird as the only players in Celtics franchise history with multiple 50+ point games.",
+      "link": "https://www.reddit.com/r/nba/comments/1q3is8h/highlight_jaylen_brown_50_pts_1826_fgm_5_ast_ties/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-04T06:34:26Z",
+      "id": "718f8bba4abff737c78bcca8345b11e3"
+    },
     {
       "title": "Is the World Ready for Another Programming Language in 2026, Now That LLM Writes Code?",
       "link": "https://www.reddit.com/r/programming/comments/1q3igl6/is_the_world_ready_for_another_programming/",
@@ -8,6 +58,14 @@
       "category": "tech",
       "published": "2026-01-04T06:16:27Z",
       "id": "52726753dc83d9003305b7139269925f"
+    },
+    {
+      "title": "Zach Charbonnet ends the season with 0 fumbles for the third year in a row. He has 522 career touches.",
+      "link": "https://www.reddit.com/r/nfl/comments/1q3hyxk/zach_charbonnet_ends_the_season_with_0_fumbles/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-01-04T05:49:57Z",
+      "id": "e3c153d8a45e4edd4d88f4dba7174595"
     },
     {
       "title": "[Post Game Thread] The Boston Celtics (21-12) defeat the Los Angeles Clippers (12-21), 146-115. Jaylen Brown ties his career-high with 50 points. Snaps Clipper's six-game winning streak on Zubac's return.",
@@ -66,6 +124,14 @@
       "id": "7bdad4076de3b6002866fb7b62494fee"
     },
     {
+      "title": "Steph Curry applauds Bill Kennedy's call announcement",
+      "link": "https://www.reddit.com/r/nba/comments/1q3h7y3/steph_curry_applauds_bill_kennedys_call/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-04T05:11:24Z",
+      "id": "52c887c548dde0b9b6098b6f67b839e4"
+    },
+    {
       "title": "Learning to Play Tic-Tac-Toe with Jax",
       "link": "https://joe-antognini.github.io/ml/jax-tic-tac-toe",
       "source": "Hacker News",
@@ -101,6 +167,14 @@
       "id": "492b1de7abe524038e5b595742ea1294"
     },
     {
+      "title": "Bears' Potential for International Games in 2026",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1q3gwp0/bears_potential_for_international_games_in_2026/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-01-04T04:56:01Z",
+      "id": "43ffd44665026b801f0c4009f6b560c3"
+    },
+    {
       "title": "[Highlight] Stephen Curry hits a very average not-so-special layup",
       "link": "https://www.reddit.com/r/nba/comments/1q3gts1/highlight_stephen_curry_hits_a_very_average/",
       "source": "r/nba",
@@ -115,6 +189,15 @@
       "category": "sports",
       "published": "2026-01-04T04:34:52Z",
       "id": "5b8e8fd7757acc9f01d8cc4b7abf61e4"
+    },
+    {
+      "title": "Show HN: Claude Reflect \u2013 Auto-turn Claude corrections into project config",
+      "link": "https://github.com/BayramAnnakov/claude-reflect",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-04T04:31:11Z",
+      "id": "bbcad97c673d28232da13ef6d6ad0acd",
+      "comments": "https://news.ycombinator.com/item?id=46484933"
     },
     {
       "title": "That's the same team that beat us?...",
@@ -164,6 +247,14 @@
       "category": "sports",
       "published": "2026-01-04T04:01:37Z",
       "id": "fa6fdce31245990e2d870c9648e043a7"
+    },
+    {
+      "title": "[Highlight] JSN v Lenoir",
+      "link": "https://www.reddit.com/r/nfl/comments/1q3fr3d/highlight_jsn_v_lenoir/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-01-04T03:59:37Z",
+      "id": "89a4047e8faae4ce3f9d7ce6defde7af"
     },
     {
       "title": "Autonomous discovery of physical invariants from real data (no target variable, no predefined equations)",
@@ -230,6 +321,15 @@
       "id": "4a9ec89d095935e15a5904ea476e120f"
     },
     {
+      "title": "Gershwin-desktop: OS X-like Desktop Environment based on GNUStep",
+      "link": "https://github.com/gershwin-desktop/gershwin-desktop",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-04T03:44:23Z",
+      "id": "d6de2d7052bc01ff00581fd51060c140",
+      "comments": "https://news.ycombinator.com/item?id=46484662"
+    },
+    {
       "title": "[Highlight] Marshawn Lynch after getting warned about his profanity: \"Let's get this out of the way. Sh*t, f*ck\"",
       "link": "https://www.reddit.com/r/nfl/comments/1q3fdq1/highlight_marshawn_lynch_after_getting_warned/",
       "source": "r/nfl",
@@ -260,6 +360,14 @@
       "category": "sports",
       "published": "2026-01-04T03:29:01Z",
       "id": "94fd9545b7f23c0e2419266339bc298f"
+    },
+    {
+      "title": "Joel Embiid\u2019s averages in his last 7 games: 28.7/8.3/4.0 in 33.2 minutes",
+      "link": "https://www.reddit.com/r/nba/comments/1q3f1ol/joel_embiids_averages_in_his_last_7_games_2878340/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-04T03:26:12Z",
+      "id": "7cec87e7e84c161cc8bf3ef0ad6073f5"
     },
     {
       "title": "[Highlight] Drake Thomas gets the INT after deflection from CMC!",
@@ -381,14 +489,6 @@
       "category": "sports",
       "published": "2026-01-04T02:06:18Z",
       "id": "6e92478935d0abfa7aa8a2014f034945"
-    },
-    {
-      "title": "[Highlight] Cooper Flagg assessed a Flagrant 1 for tripping Amen Thompson to prevent a Houston fast break opportunity",
-      "link": "https://www.reddit.com/r/nba/comments/1q3d0ps/highlight_cooper_flagg_assessed_a_flagrant_1_for/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-04T01:54:24Z",
-      "id": "3562c107a03c86d4091491923c242e8b"
     },
     {
       "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
@@ -516,15 +616,6 @@
       "id": "1293ed1ad571faf525a8657e3049e3a6"
     },
     {
-      "title": "Worst Case Optimal Joins: Graph-Join Correspondence",
-      "link": "https://finnvolkel.com/wcoj-graph-join-correspondence",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T00:15:01Z",
-      "id": "a9fec93c757c11e6694b43f52f7d7bef",
-      "comments": "https://news.ycombinator.com/item?id=46483299"
-    },
-    {
       "title": "[Schultz] Sources: The expectation is that #Raiders HC Pete Carroll will be one-and-done in Las Vegas \u2014 whether that ends up being a firing or a retirement.",
       "link": "https://www.reddit.com/r/nfl/comments/1q3afge/schultz_sources_the_expectation_is_that_raiders/",
       "source": "r/nfl",
@@ -547,14 +638,6 @@
       "category": "sports",
       "published": "2026-01-04T00:00:03Z",
       "id": "9ae3105222eb36b7075e496aba0a9e1d"
-    },
-    {
-      "title": "Heading to my first game tomorrow. Have a question\u2026",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1q3a8py/heading_to_my_first_game_tomorrow_have_a_question/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-01-03T23:53:19Z",
-      "id": "33aa577702fb90243d859ec99974cd62"
     },
     {
       "title": "[Ryan Clark] Carolina is getting Jobbed right now by the officials! No way around it. They\u2019re getting crushed with awful calls.",
@@ -588,14 +671,6 @@
       "category": "sports",
       "published": "2026-01-03T23:36:43Z",
       "id": "7845ada50a6df44f2dac79bfaf530109"
-    },
-    {
-      "title": "[Highlight] DPI call on Scott advances the ball into Panther territory",
-      "link": "https://www.reddit.com/r/nfl/comments/1q39sji/highlight_dpi_call_on_scott_advances_the_ball/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-01-03T23:34:22Z",
-      "id": "494dc452c8a8cfe3c0097507006b9fa7"
     },
     {
       "title": "[Highlight] OPI called on McMillan to negate a huge gain",
@@ -649,14 +724,6 @@
       "comments": "https://news.ycombinator.com/item?id=46482642"
     },
     {
-      "title": "[Highlight] Bam Adebayo puts Rudy Gobert on a spin cycle and drains the 3",
-      "link": "https://www.reddit.com/r/nba/comments/1q38tlf/highlight_bam_adebayo_puts_rudy_gobert_on_a_spin/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-03T22:54:26Z",
-      "id": "b0edbe36b79ab2069aa5df26aa19eb82"
-    },
-    {
       "title": "[Eichten] Anthony Edwards has passed 1,200 three-pointers, he is the first player to do so in NBA history before turning 25",
       "link": "https://www.reddit.com/r/nba/comments/1q38my9/eichten_anthony_edwards_has_passed_1200/",
       "source": "r/nba",
@@ -673,29 +740,12 @@
       "id": "4d9328b34cfe4abcbee38004ec508b16"
     },
     {
-      "title": "Advanced Rail Energy Storage of North America",
-      "link": "https://aresnorthamerica.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-03T22:35:11Z",
-      "id": "ba7761fbca225d9d4edfd9ab7434b522",
-      "comments": "https://news.ycombinator.com/item?id=46482437"
-    },
-    {
       "title": "JJ Redick on Deandre Ayton\u2019s recent performances: \u201cI think he\u2019s frustrated. He doesn\u2019t feel like he\u2019s getting the ball\u2026 We\u2019ve talked about it as a team. You don't feel like you are getting the ball, the rest of your focus kinda wanes a little bit.\u201d",
       "link": "https://www.reddit.com/r/nba/comments/1q38cs8/jj_redick_on_deandre_aytons_recent_performances_i/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-01-03T22:35:01Z",
       "id": "d8ff3b464442ce75cb9e857f0a9c7851"
-    },
-    {
-      "title": "[Highlight] Sean Tucker doesn't get very far on handoff from Mayfield",
-      "link": "https://www.reddit.com/r/nfl/comments/1q386eb/highlight_sean_tucker_doesnt_get_very_far_on/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-01-03T22:27:51Z",
-      "id": "4a4723c7ab84410c2b37e9efeab701e5"
     },
     {
       "title": "Total monthly number of StackOverflow questions over time",
@@ -811,14 +861,6 @@
       "category": "tech",
       "published": "2026-01-03T19:01:19Z",
       "id": "e23547dcdd0edd1616417cce5c74babd"
-    },
-    {
-      "title": "LeBron James is averaging 25/6/6 on 63.5% TS since losing his points streak (10 games)",
-      "link": "https://www.reddit.com/r/nba/comments/1q322ur/lebron_james_is_averaging_2566_on_635_ts_since/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-03T18:29:28Z",
-      "id": "0db16391ae4c57a17e22b20a03e987a9"
     },
     {
       "title": "Xr0 verifier, guarantee the safety of C programs at compile time",
@@ -1248,22 +1290,6 @@
       "id": "24c7694b624e04b4df21fd0351816b02"
     },
     {
-      "title": "Matt Godbolt's Advent of Compiler Optimisations 2025",
-      "link": "https://www.reddit.com/r/programming/comments/1q1uqj9/matt_godbolts_advent_of_compiler_optimisations/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-02T09:56:19Z",
-      "id": "dd37c94a15fe0f09c5cf22af4545051b"
-    },
-    {
-      "title": "Can Bundler be as fast as uv?",
-      "link": "https://www.reddit.com/r/programming/comments/1q1r096/can_bundler_be_as_fast_as_uv/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-02T06:09:16Z",
-      "id": "53f2e6a13c79d7cdc7af2afdc7de39da"
-    },
-    {
       "title": "Is handling scope creep the biggest issue? How to solve?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q1o7kf/is_handling_scope_creep_the_biggest_issue_how_to/",
       "source": "r/ExperiencedDevs",
@@ -1278,14 +1304,6 @@
       "category": "tech",
       "published": "2026-01-02T01:06:23Z",
       "id": "3285554b371535c6b26c4cdb5ad3e355"
-    },
-    {
-      "title": "Article: Why Big Tech Turns Everything Into a Knife Fight",
-      "link": "https://www.reddit.com/r/programming/comments/1q1j104/article_why_big_tech_turns_everything_into_a/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-01T23:48:41Z",
-      "id": "1d35c1f5fd31f87d28539c4f49e6c346"
     },
     {
       "title": "What external courses or books helped you on your journey?",
@@ -1352,30 +1370,12 @@
       "id": "a234430bac32f8a6f2617ca940fe889a"
     },
     {
-      "title": "Torch.ts \u2013 building PyTorch in TypeScript from scratch to learn",
-      "link": "https://github.com/13point5/torch.ts",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T08:49:29Z",
-      "id": "052d5250665149ee8271826480079e9a",
-      "comments": "https://news.ycombinator.com/item?id=46442502"
-    },
-    {
       "title": "Observing data maturity",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q08d1y/observing_data_maturity/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2025-12-31T08:49:14Z",
       "id": "b3a53bcf835ca904bfc8c9b46b0ec2e9"
-    },
-    {
-      "title": "Sirius DB",
-      "link": "https://www.sirius-db.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T05:54:06Z",
-      "id": "a72d7e918f80b000dae77bfc878e2658",
-      "comments": "https://news.ycombinator.com/item?id=46441781"
     },
     {
       "title": "Exploring Dithering on Spectra 6-color E-Ink Displays",
@@ -1387,15 +1387,6 @@
       "comments": "https://news.ycombinator.com/item?id=46440037"
     },
     {
-      "title": "Odoo: Open-Source ERP",
-      "link": "https://github.com/odoo/odoo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T00:35:29Z",
-      "id": "571cffc3235d1b70db147e1b85d6449c",
-      "comments": "https://news.ycombinator.com/item?id=46439993"
-    },
-    {
       "title": "Senior engineer coworkers strangely unconcerned about decommission of source control server",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1pzvtvl/senior_engineer_coworkers_strangely_unconcerned/",
       "source": "r/ExperiencedDevs",
@@ -1404,31 +1395,40 @@
       "id": "47865db77b04f9407bed07ec79607252"
     },
     {
-      "title": "Evolution: Training neural networks with genetic selection achieves 81% on MNIST",
-      "link": "https://github.com/A1CST/GENREG_ALPHA_MNIST",
+      "title": "From silicon to Darude \u2013 Sandstorm: breaking famous synthesizer DSPs [video]",
+      "link": "https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-29T22:51:28Z",
-      "id": "f32950d1fbf2370ef443fc625cdcf177",
-      "comments": "https://news.ycombinator.com/item?id=46426931"
+      "published": "2025-12-30T21:31:31Z",
+      "id": "86b7419803c8b3939e35f5a2d5975402",
+      "comments": "https://news.ycombinator.com/item?id=46438258"
     },
     {
-      "title": "The Late Arrival of 16-Bit CP/M \u2013 By Nemanja Trifunovic",
+      "title": "The Late Arrival of 16-Bit CP/M",
       "link": "https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-12-29T22:30:04Z",
-      "id": "559512adf3146f90ac521b1883820d28",
+      "id": "7896f87c5a1f4b08520fa63c49841b87",
       "comments": "https://news.ycombinator.com/item?id=46426614"
     },
     {
-      "title": "Finger-Nose Stylus for Touch Screens",
+      "title": "Finger-Nose Stylus for Touch Screens (2011)",
       "link": "https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2025-12-29T19:59:44Z",
-      "id": "3f5afc2b9a8ab499d10f3755a16987ec",
+      "id": "ebae5c77a19022713629e3da0af98ffe",
       "comments": "https://news.ycombinator.com/item?id=46424807"
+    },
+    {
+      "title": "GDI Effects from the PC cracking scene",
+      "link": "https://gdimayhem.temari.fr/index.php?p=all",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-29T19:10:32Z",
+      "id": "91fd71b84332d9919417c82c96eb576d",
+      "comments": "https://news.ycombinator.com/item?id=46424186"
     },
     {
       "title": "Weekly Discussion Thread - December 29, 2025",
