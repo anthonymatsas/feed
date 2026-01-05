@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-01-05T15:20:08.872346Z",
+  "last_updated": "2026-01-05T18:27:25.043049Z",
   "items": [
+    {
+      "title": "Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)",
+      "link": "https://github.com/Cerelog-ESP-EEG/ESP-EEG",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T17:46:51Z",
+      "id": "099b4bc2244ba9aea37dbb69e282958f",
+      "comments": "https://news.ycombinator.com/item?id=46502051"
+    },
+    {
+      "title": "Calibrating My Turtle",
+      "link": "https://clabs.org/blog/CalibratingMyTurtle",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T17:41:17Z",
+      "id": "7a6f83e28cbdef64a3cb1f45327313af",
+      "comments": "https://news.ycombinator.com/item?id=46501987"
+    },
+    {
+      "title": "How Y Combinator made it smart to trust founders",
+      "link": "https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T17:20:01Z",
+      "id": "6d5e1369da39f59e073d5c67d8c66aae",
+      "comments": "https://news.ycombinator.com/item?id=46501677"
+    },
+    {
+      "title": "The last supported version of HP-UX is no more",
+      "link": "https://www.theregister.com/2026/01/05/hpux_end_of_life/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T17:19:35Z",
+      "id": "bc3787e382b8b7596f36e28bc2681b0f",
+      "comments": "https://news.ycombinator.com/item?id=46501667"
+    },
+    {
+      "title": "Show HN: Tailsnitch \u2013 A Security Auditor for Tailscale",
+      "link": "https://github.com/Adversis/tailsnitch",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T16:47:23Z",
+      "id": "720debc1b84dc536a597203c8c099e41",
+      "comments": "https://news.ycombinator.com/item?id=46501137"
+    },
+    {
+      "title": "Sandboxing Untrusted Python",
+      "link": "https://gist.github.com/mavdol/2c68acb408686f1e038bf89e5705b28c",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T16:11:44Z",
+      "id": "9e30408465d3904873ace009556aefe6",
+      "comments": "https://news.ycombinator.com/item?id=46500510"
+    },
+    {
+      "title": "CSS sucks because we don't bother learning it (2022)",
+      "link": "https://idiallo.com/blog/learn-css",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T15:37:38Z",
+      "id": "11e10047679ea56f065e43aa3c752c22",
+      "comments": "https://news.ycombinator.com/item?id=46500022"
+    },
+    {
+      "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
+      "link": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T15:34:40Z",
+      "id": "5a405e0bc148dee14003a96f960fa65b",
+      "comments": "https://news.ycombinator.com/item?id=46499983"
+    },
+    {
+      "title": "RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids",
+      "link": "https://news.ycombinator.com/item?id=46499976",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T15:34:14Z",
+      "id": "5982018fe4001d41e5f9fd272a962302",
+      "comments": "https://news.ycombinator.com/item?id=46499976"
+    },
+    {
+      "title": "Show HN: DoNotNotify \u2013 log and intelligently block notifications on Android",
+      "link": "https://donotnotify.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T15:10:47Z",
+      "id": "6bd06d280573d2f955fa9d4471340b70",
+      "comments": "https://news.ycombinator.com/item?id=46499646"
+    },
     {
       "title": "GOG Patrons- Join gamers keeping classics alive",
       "link": "https://www.gog.com/en/patrons",
@@ -11,13 +101,31 @@
       "comments": "https://news.ycombinator.com/item?id=46498775"
     },
     {
-      "title": "I switched from VSCode to Zed",
-      "link": "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/",
+      "title": "Imagine 130M Washing Machines",
+      "link": "https://scottsumner.substack.com/p/imagine-130000000-washing-machines",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-05T13:52:17Z",
-      "id": "6c8674aaaaa228d49e53521c2c01cc75",
-      "comments": "https://news.ycombinator.com/item?id=46498735"
+      "published": "2026-01-05T13:46:12Z",
+      "id": "e87d4be172398b9855e792f82b73157f",
+      "comments": "https://news.ycombinator.com/item?id=46498662"
+    },
+    {
+      "title": "Singularity Rootkit: SELinux bypass and netlink filter (ss/conntrack hidden)",
+      "link": "https://github.com/MatheuZSecurity/Singularity",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T13:45:50Z",
+      "id": "2193c1d284477080696234510515e83f",
+      "comments": "https://news.ycombinator.com/item?id=46498658"
+    },
+    {
+      "title": "All AI Videos Are Harmful (2025)",
+      "link": "https://idiallo.com/blog/all-ai-videos-are-harmful",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T13:44:59Z",
+      "id": "8329dc6877883884ba3454eea8975e0c",
+      "comments": "https://news.ycombinator.com/item?id=46498651"
     },
     {
       "title": "Jensen: 'We've done our country a great disservice' by offshoring",
@@ -83,42 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=46496054"
     },
     {
-      "title": "Building a Rust-style static analyzer for C++ with AI",
-      "link": "http://mpaxos.com/blog/rusty-cpp.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T05:11:59Z",
-      "id": "dc1a34cdb1cb3d46aab178e26d36740b",
-      "comments": "https://news.ycombinator.com/item?id=46495539"
-    },
-    {
-      "title": "During Helene, I just wanted a plain text website",
-      "link": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T02:36:20Z",
-      "id": "07a20fd17e28e7445a6705fba09edc08",
-      "comments": "https://news.ycombinator.com/item?id=46494734"
-    },
-    {
-      "title": "Eurostar AI vulnerability: When a chatbot goes off the rails",
-      "link": "https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T20:52:52Z",
-      "id": "5fc9c73c146774e39ba0ab9103fa9af1",
-      "comments": "https://news.ycombinator.com/item?id=46492063"
-    },
-    {
-      "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
-      "link": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T20:25:30Z",
-      "id": "f01343d110b2eff7cdeea0fc19c62be2",
-      "comments": "https://news.ycombinator.com/item?id=46491821"
-    },
-    {
       "title": "Show HN: Terminal UI for AWS",
       "link": "https://github.com/huseyinbabal/taws",
       "source": "Hacker News",
@@ -146,24 +218,6 @@
       "comments": "https://news.ycombinator.com/item?id=46488819"
     },
     {
-      "title": "Show HN: An interactive guide to how browsers work",
-      "link": "https://howbrowserswork.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T15:08:02Z",
-      "id": "f8ad19ce7447d71efee771dd51074f8a",
-      "comments": "https://news.ycombinator.com/item?id=46488654"
-    },
-    {
-      "title": "Web development is fun again",
-      "link": "https://ma.ttias.be/web-development-is-fun-again/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T15:00:18Z",
-      "id": "26e515006a421c5367ac406602609bd7",
-      "comments": "https://news.ycombinator.com/item?id=46488576"
-    },
-    {
       "title": "The unbearable joy of sitting alone in a caf\u00e9",
       "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
       "source": "Hacker News",
@@ -171,24 +225,6 @@
       "published": "2026-01-04T14:37:58Z",
       "id": "9269ac5bae8c1e2c494ec94ae7d727f1",
       "comments": "https://news.ycombinator.com/item?id=46488355"
-    },
-    {
-      "title": "Street Fighter II, the World Warrier (2021)",
-      "link": "https://fabiensanglard.net/sf2_warrier/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T14:30:29Z",
-      "id": "868414fde86ad3cd1ca6ec4d90f5434a",
-      "comments": "https://news.ycombinator.com/item?id=46488278"
-    },
-    {
-      "title": "Revisiting the original Roomba and its simple architecture",
-      "link": "https://robotsinplainenglish.com/e/2025-12-27-roomba.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-03T04:53:20Z",
-      "id": "8a575c3509f8f097ed562785d738fdbc",
-      "comments": "https://news.ycombinator.com/item?id=46472930"
     },
     {
       "title": "I charged $18k for a Static HTML Page (2019)",
@@ -200,33 +236,6 @@
       "comments": "https://news.ycombinator.com/item?id=46469877"
     },
     {
-      "title": "I did 301,432 flashcard reviews in 2025",
-      "link": "https://www.natemeyvis.com/i-did-301432-flashcard-reviews-in-2025/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-02T15:10:53Z",
-      "id": "f874faf4c6dc24af92bb42d73fbc7fcd",
-      "comments": "https://news.ycombinator.com/item?id=46465493"
-    },
-    {
-      "title": "Monads in C# (Part 2): Result",
-      "link": "https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-01T18:45:02Z",
-      "id": "1197b31144c942e9e2a0650fa0b79283",
-      "comments": "https://news.ycombinator.com/item?id=46456787"
-    },
-    {
-      "title": "Logos Language Guide: Compile English to Rust",
-      "link": "https://logicaffeine.com/guide",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-01T13:48:27Z",
-      "id": "a4455b18d9e7bd9e9fe86ecf3a637698",
-      "comments": "https://news.ycombinator.com/item?id=46454085"
-    },
-    {
       "title": "Scientists Uncover the Universal Geometry of Geology (2020)",
       "link": "https://www.quantamagazine.org/scientists-uncover-the-universal-geometry-of-geology-20201119/",
       "source": "Hacker News",
@@ -234,15 +243,6 @@
       "published": "2026-01-01T09:42:02Z",
       "id": "07dd0f6c99f1cf5e5b473b1b3c271f36",
       "comments": "https://news.ycombinator.com/item?id=46452696"
-    },
-    {
-      "title": "Baffling purple honey found only in North Carolina",
-      "link": "https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T21:06:16Z",
-      "id": "ef0b9041f76a8dd361c6c3a74f727b8b",
-      "comments": "https://news.ycombinator.com/item?id=46448356"
     },
     {
       "title": "3Duino helps you rapidly create interactive 3D-printed devices",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=46445412"
     },
     {
-      "title": "Linear Address Spaces: Unsafe at any speed (2022)",
-      "link": "https://queue.acm.org/detail.cfm?id=3534854",
+      "title": "Shock Wave Formation Simulator",
+      "link": "https://kousen.github.io/shockwaves/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-31T07:57:53Z",
-      "id": "22afd78f2364a4c7ad3cb27aaee9ec34",
-      "comments": "https://news.ycombinator.com/item?id=46442282"
+      "published": "2025-12-30T08:22:03Z",
+      "id": "f5866086eb43d5d55da7abb568167eeb",
+      "comments": "https://news.ycombinator.com/item?id=46430829"
     }
   ]
 }
