@@ -1,14 +1,86 @@
 {
-  "last_updated": "2026-01-06T18:26:25.909222Z",
+  "last_updated": "2026-01-06T21:17:41.432761Z",
   "items": [
     {
-      "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
-      "link": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
+      "title": "Calling All Hackers: How money works (2024)",
+      "link": "https://phrack.org/issues/71/17",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T18:00:27Z",
-      "id": "396c645f13c65f9a1b31566fa7471120",
-      "comments": "https://news.ycombinator.com/item?id=46515948"
+      "published": "2026-01-06T20:24:45Z",
+      "id": "c5f2f8404a2bf1f74744e88d670fd66a",
+      "comments": "https://news.ycombinator.com/item?id=46518129"
+    },
+    {
+      "title": "How Spotify Made Me Self Host",
+      "link": "https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T19:50:35Z",
+      "id": "2a170113fc1fc8f779c2604c8f283dac",
+      "comments": "https://news.ycombinator.com/item?id=46517636"
+    },
+    {
+      "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
+      "link": "https://github.com/rberg27/doom-coding",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T19:38:32Z",
+      "id": "13fb2f526f7d137e5b05cb54e63874da",
+      "comments": "https://news.ycombinator.com/item?id=46517458"
+    },
+    {
+      "title": "High-Performance DBMSs with io_uring: When and How to use it",
+      "link": "https://arxiv.org/abs/2512.04859",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T19:29:15Z",
+      "id": "1a7ed126d913de449e182a8521a27c80",
+      "comments": "https://news.ycombinator.com/item?id=46517319"
+    },
+    {
+      "title": "Video Game Websites in the early 00s",
+      "link": "https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T18:39:21Z",
+      "id": "eab1b14deacc1ccb793cb1369bb72e91",
+      "comments": "https://news.ycombinator.com/item?id=46516559"
+    },
+    {
+      "title": "Show HN: Jax-JS, array library in JavaScript targeting WebGPU",
+      "link": "https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T18:19:31Z",
+      "id": "1ccb8c6fb2c5f2f39bd9c503bafe82cd",
+      "comments": "https://news.ycombinator.com/item?id=46516267"
+    },
+    {
+      "title": "Passing of Joe Mancuso author of Masonite (Python web framework)",
+      "link": "https://github.com/MasoniteFramework/masonite/discussions/853",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T18:11:51Z",
+      "id": "775d4828ae87bbfb04b3ad5502d07d22",
+      "comments": "https://news.ycombinator.com/item?id=46516137"
+    },
+    {
+      "title": "Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation",
+      "link": "https://arxiv.org/abs/2512.20687",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T18:02:01Z",
+      "id": "94bb7c3cf0e976a5b8ca4721935c700e",
+      "comments": "https://news.ycombinator.com/item?id=46515987"
+    },
+    {
+      "title": "Dude, where's my supersonic jet?",
+      "link": "https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T17:59:41Z",
+      "id": "4e442a0448dabec8507cf9dcf254534b",
+      "comments": "https://news.ycombinator.com/item?id=46515936"
     },
     {
       "title": "Launch HN: Tamarind Bio (YC W24) \u2013 AI Inference Provider for Drug Discovery",
@@ -20,22 +92,13 @@
       "comments": "https://news.ycombinator.com/item?id=46515777"
     },
     {
-      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
-      "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+      "title": "DatBench: Discriminative, faithful, and efficient VLM evaluations",
+      "link": "https://arxiv.org/abs/2601.02316",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T17:45:37Z",
-      "id": "692705d568d33dcffb3df726d152b71b",
-      "comments": "https://news.ycombinator.com/item?id=46515696"
-    },
-    {
-      "title": "Volkswagen Brings Back Physical Buttons",
-      "link": "https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T16:59:44Z",
-      "id": "3eeae76c49e4ca18be5bb6bce25391f3",
-      "comments": "https://news.ycombinator.com/item?id=46514913"
+      "published": "2026-01-06T17:43:03Z",
+      "id": "d99e2b28165f0ac935d6a4a9fadc5c75",
+      "comments": "https://news.ycombinator.com/item?id=46515648"
     },
     {
       "title": "Show HN: Stash \u2013 Sync Markdown Files with Apple Notes via CLI",
@@ -47,6 +110,15 @@
       "comments": "https://news.ycombinator.com/item?id=46514874"
     },
     {
+      "title": "Why Big Companies Keep Failing: The Stack Fallacy (2016)",
+      "link": "https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T16:53:27Z",
+      "id": "470b078c78bf32dbcd2a35d35cbc2cf8",
+      "comments": "https://news.ycombinator.com/item?id=46514816"
+    },
+    {
       "title": "Loongarch Improvements with Box64",
       "link": "https://box86.org/2026/01/new-box64-v0-4-0-released/",
       "source": "Hacker News",
@@ -54,15 +126,6 @@
       "published": "2026-01-06T16:52:56Z",
       "id": "05eed91c31335a956a93156cc3b5a523",
       "comments": "https://news.ycombinator.com/item?id=46514807"
-    },
-    {
-      "title": "Raspberry Pi and mini PC home lab prices hit parity as DRAM costs skyrocket",
-      "link": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-and-mini-pc-home-lab-prices-hit-parity-as-dram-costs-skyrocket-price-hikes-force-hobbyists-to-weigh-up-performance-versus-power-consumption",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T16:52:08Z",
-      "id": "28270eb810284afa15ddf5cf8841cc19",
-      "comments": "https://news.ycombinator.com/item?id=46514794"
     },
     {
       "title": "Why is the Gmail app 700 MB?",
@@ -83,31 +146,13 @@
       "comments": "https://news.ycombinator.com/item?id=46514677"
     },
     {
-      "title": "State of the Fin 2026-01-06 \u2013 Jellyfin",
+      "title": "State of the Fin 2026-01-06",
       "link": "https://jellyfin.org/posts/state-of-the-fin-2026-01-06/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-06T16:17:24Z",
-      "id": "5ae1da3750558ba70796e353c7d73b83",
+      "id": "8827dedf63a82a66586a1d3d6a118e0e",
       "comments": "https://news.ycombinator.com/item?id=46514282"
-    },
-    {
-      "title": "The skill of the future is not 'AI', but 'Focus' (2025)",
-      "link": "https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T15:44:44Z",
-      "id": "5a624e5e4fe88e38db83d57a5bcb07b1",
-      "comments": "https://news.ycombinator.com/item?id=46513728"
-    },
-    {
-      "title": "65% of Hacker News posts have negative sentiment, and they outperform",
-      "link": "https://philippdubach.com/standalone/hn-sentiment/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T14:45:47Z",
-      "id": "2825590c4e2a935a7db2a5e17c2c9174",
-      "comments": "https://news.ycombinator.com/item?id=46512881"
     },
     {
       "title": "High-performance header-only container library for C++23 on x86-64",
@@ -128,22 +173,13 @@
       "comments": "https://news.ycombinator.com/item?id=46512707"
     },
     {
-      "title": "Show HN: DDL to Data \u2013 Generate realistic test data from SQL schemas",
-      "link": "https://news.ycombinator.com/item?id=46511578",
+      "title": "Show HN: Mantic.sh \u2013 Search 480k files in 0.46s without embeddings",
+      "link": "https://github.com/marcoaapfortes/Mantic.sh",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T12:47:23Z",
-      "id": "821fe5c0fd9e4aa67a9e2182cae517b8",
-      "comments": "https://news.ycombinator.com/item?id=46511578"
-    },
-    {
-      "title": "C Is Best (2025)",
-      "link": "https://sqlite.org/whyc.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T12:33:54Z",
-      "id": "b6e7c6dbabc1d697c17c26e064dc3f79",
-      "comments": "https://news.ycombinator.com/item?id=46511470"
+      "published": "2026-01-06T13:48:27Z",
+      "id": "71d7bafceb90a28d83b0638a0656ec9d",
+      "comments": "https://news.ycombinator.com/item?id=46512182"
     },
     {
       "title": "Show HN: Prism.Tools \u2013 Free and privacy-focused developer utilities",
@@ -155,15 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=46511469"
     },
     {
-      "title": "System: Control your Mac from anywhere using natural language",
-      "link": "https://system.surf/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T12:04:57Z",
-      "id": "4f8e094d16b34f8ddb77bbdee63d6dc4",
-      "comments": "https://news.ycombinator.com/item?id=46511298"
-    },
-    {
       "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
       "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
       "source": "Hacker News",
@@ -173,13 +200,13 @@
       "comments": "https://news.ycombinator.com/item?id=46511153"
     },
     {
-      "title": "SCiZE's Classic Warez Collection",
-      "link": "https://scenelist.org/",
+      "title": "My Tamagotchi is an RL agent playing Slither.io",
+      "link": "https://nkasmanoff.github.io/#/blog/tamagotchi-rl-slitherio",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T10:13:43Z",
-      "id": "bd3bc01c52fb1f19089fd7f983322cf3",
-      "comments": "https://news.ycombinator.com/item?id=46510625"
+      "published": "2026-01-06T06:22:30Z",
+      "id": "391149fbad655d36d8c0c46a9f2b2215",
+      "comments": "https://news.ycombinator.com/item?id=46509307"
     },
     {
       "title": "enclose.horse",
@@ -191,49 +218,22 @@
       "comments": "https://news.ycombinator.com/item?id=46509211"
     },
     {
-      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers",
+      "title": "Show HN: llmgame.ai \u2013 The Wikipedia Game but with LLMs",
+      "link": "https://www.llmgame.ai",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T03:32:41Z",
-      "id": "830b6b5e7abe0dfd3621d4e82e63517b",
-      "comments": "https://news.ycombinator.com/item?id=46508441"
+      "published": "2026-01-06T03:07:50Z",
+      "id": "6674a990c7ca1fb8288ccdaef9d1af7e",
+      "comments": "https://news.ycombinator.com/item?id=46508299"
     },
     {
-      "title": "I/O is no longer the bottleneck? (2022)",
-      "link": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
+      "title": "Using fewer syllables to express numbers",
+      "link": "https://thegraycuber.github.io/fast_numbers",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T00:02:18Z",
-      "id": "4bdf08a0b52ee1ad18dffd9f82d93948",
-      "comments": "https://news.ycombinator.com/item?id=46506994"
-    },
-    {
-      "title": "There were BGP anomalies during the Venezuela blackout",
-      "link": "https://loworbitsecurity.com/radar/radar16/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T21:05:50Z",
-      "id": "f4d997c5a3b9b32d6d1fe262d5bfdcf5",
-      "comments": "https://news.ycombinator.com/item?id=46504963"
-    },
-    {
-      "title": "Gtasks-terminal \u2013 Google Tasks power-tool for the terminal",
-      "link": "https://github.com/sirusdas/gtasks-terminal",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-03T05:43:56Z",
-      "id": "bf4d673c5ee08c5df9148d7ebb461d38",
-      "comments": "https://news.ycombinator.com/item?id=46473142"
-    },
-    {
-      "title": "\"Inspector Dangerfuck\", ANSI art comic from 1994",
-      "link": "https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-02T21:18:10Z",
-      "id": "5bea6b92cc218744f28ee9ad39c215f8",
-      "comments": "https://news.ycombinator.com/item?id=46469473"
+      "published": "2026-01-04T06:15:25Z",
+      "id": "35f37262ebbd8f70cb98fe7aa4117aa4",
+      "comments": "https://news.ycombinator.com/item?id=46485466"
     },
     {
       "title": "I wanted a camera that doesn't exist \u2013 so I built it",
@@ -245,15 +245,6 @@
       "comments": "https://news.ycombinator.com/item?id=46466843"
     },
     {
-      "title": "Try to take my position: The best promotion advice I ever got",
-      "link": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-02T15:56:14Z",
-      "id": "9d98b27e90eaaba1ff2b3ab8f6ecc60e",
-      "comments": "https://news.ycombinator.com/item?id=46466027"
-    },
-    {
       "title": "Repair a ship\u2019s hull still in the river in -50\u02daC (2022)",
       "link": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
       "source": "Hacker News",
@@ -263,13 +254,22 @@
       "comments": "https://news.ycombinator.com/item?id=46464462"
     },
     {
-      "title": "Swapping two blocks of memory inside a larger block, in constant memory",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955",
+      "title": "Show HN: 48-digit prime numbers every git commit",
+      "link": "https://textonly.github.io/git-prime/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-02T09:19:54Z",
-      "id": "5540ca1f9006a1d7714935ff88888487",
-      "comments": "https://news.ycombinator.com/item?id=46462997"
+      "published": "2026-01-01T14:26:12Z",
+      "id": "45a85cb4d0d07e7e9d24ef1ccfa6a082",
+      "comments": "https://news.ycombinator.com/item?id=46454369"
+    },
+    {
+      "title": "Spherical Snake",
+      "link": "https://kevinalbs.com/spherical_snake/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-01T06:15:43Z",
+      "id": "f494a07b1321015ac780f726c478d660",
+      "comments": "https://news.ycombinator.com/item?id=46451768"
     }
   ]
 }
