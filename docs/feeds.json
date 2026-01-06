@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-01-06T12:37:07.246179Z",
+  "last_updated": "2026-01-06T15:19:17.601543Z",
   "items": [
+    {
+      "title": "65% of Hacker News Posts Have Negative Sentiment, and They Outperform",
+      "link": "https://philippdubach.com/standalone/hn-sentiment/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T14:45:47Z",
+      "id": "8c48ef2f6aa2d0de5cbe74300a3c9637",
+      "comments": "https://news.ycombinator.com/item?id=46512881"
+    },
+    {
+      "title": "Why German Strings Are Everywhere?",
+      "link": "https://cedardb.com/blog/german_strings/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T13:30:07Z",
+      "id": "bdc9bb5e119a29096d8711df6ca291ec",
+      "comments": "https://news.ycombinator.com/item?id=46511981"
+    },
+    {
+      "title": "Show HN: DDL to Data \u2013 Generate realistic test data from SQL schemas",
+      "link": "https://news.ycombinator.com/item?id=46511578",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T12:47:23Z",
+      "id": "821fe5c0fd9e4aa67a9e2182cae517b8",
+      "comments": "https://news.ycombinator.com/item?id=46511578"
+    },
+    {
+      "title": "C Is Best",
+      "link": "https://sqlite.org/whyc.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T12:33:54Z",
+      "id": "4b1229135cc62c612875a9b972e75a56",
+      "comments": "https://news.ycombinator.com/item?id=46511470"
+    },
+    {
+      "title": "Show HN: Prism.Tools \u2013 Free and privacy-focused developer utilities",
+      "link": "https://blgardner.github.io/prism.tools/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T12:33:49Z",
+      "id": "93898a4b428c2ce9582aa0184e96bcf9",
+      "comments": "https://news.ycombinator.com/item?id=46511469"
+    },
+    {
+      "title": "System: Control your Mac from anywhere using natural language",
+      "link": "https://system.surf/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T12:04:57Z",
+      "id": "4f8e094d16b34f8ddb77bbdee63d6dc4",
+      "comments": "https://news.ycombinator.com/item?id=46511298"
+    },
     {
       "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
       "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
@@ -11,15 +65,6 @@
       "comments": "https://news.ycombinator.com/item?id=46511153"
     },
     {
-      "title": "Show HN: Is this the best epoch converter?",
-      "link": "https://epochconverter.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T10:18:48Z",
-      "id": "325975003f9c4b12fbf041ac4b508e80",
-      "comments": "https://news.ycombinator.com/item?id=46510656"
-    },
-    {
       "title": "SCiZE's Classic Warez Collection",
       "link": "https://scenelist.org/",
       "source": "Hacker News",
@@ -27,6 +72,15 @@
       "published": "2026-01-06T10:13:43Z",
       "id": "bd3bc01c52fb1f19089fd7f983322cf3",
       "comments": "https://news.ycombinator.com/item?id=46510625"
+    },
+    {
+      "title": "Tube trains could navigate the Underground using the rules of Quantum Physics",
+      "link": "https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T08:26:23Z",
+      "id": "59b228589b3a35de339285d7e8acc508",
+      "comments": "https://news.ycombinator.com/item?id=46509967"
     },
     {
       "title": "enclose.horse",
@@ -47,13 +101,13 @@
       "comments": "https://news.ycombinator.com/item?id=46509019"
     },
     {
-      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers",
+      "title": "Intel Core Ultra Series 3 Debut as First Built on Intel 18A",
+      "link": "https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T03:32:41Z",
-      "id": "830b6b5e7abe0dfd3621d4e82e63517b",
-      "comments": "https://news.ycombinator.com/item?id=46508441"
+      "published": "2026-01-06T03:31:39Z",
+      "id": "349f394616ee7bfa7fae544a54c4a266",
+      "comments": "https://news.ycombinator.com/item?id=46508435"
     },
     {
       "title": "GBC Boot Animation 88\u00d731 Web Button",
@@ -92,15 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=46505735"
     },
     {
-      "title": "Google broke my heart",
-      "link": "https://perishablepress.com/google-broke-my-heart/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T21:52:22Z",
-      "id": "372156dd1df8fc73c8602852ef512b39",
-      "comments": "https://news.ycombinator.com/item?id=46505518"
-    },
-    {
       "title": "There were BGP anomalies during the Venezuela blackout",
       "link": "https://loworbitsecurity.com/radar/radar16/",
       "source": "Hacker News",
@@ -126,33 +171,6 @@
       "published": "2026-01-05T17:20:01Z",
       "id": "6d5e1369da39f59e073d5c67d8c66aae",
       "comments": "https://news.ycombinator.com/item?id=46501677"
-    },
-    {
-      "title": "Show HN: Tailsnitch \u2013 A security auditor for Tailscale",
-      "link": "https://github.com/Adversis/tailsnitch",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T16:47:23Z",
-      "id": "86b2224f82c67b8e6922501a73940e1a",
-      "comments": "https://news.ycombinator.com/item?id=46501137"
-    },
-    {
-      "title": "Show HN: DoNotNotify \u2013 Log and intelligently block notifications on Android",
-      "link": "https://donotnotify.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T15:10:47Z",
-      "id": "29dbad80c29df2b2a15ecde1071e0375",
-      "comments": "https://news.ycombinator.com/item?id=46499646"
-    },
-    {
-      "title": "Dealing with abandonware (2024)",
-      "link": "https://blog.hris.to/./dealing-with-abandonware.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T14:53:23Z",
-      "id": "38b76c87ed6c8a4ea8fe2303b7627b62",
-      "comments": "https://news.ycombinator.com/item?id=46499425"
     },
     {
       "title": "I switched from VSCode to Zed",
@@ -182,13 +200,13 @@
       "comments": "https://news.ycombinator.com/item?id=46491129"
     },
     {
-      "title": "Adding insular script like it's 1626",
-      "link": "https://www.djmurphy.net/blog/clo-gaelach/",
+      "title": "JavaScript's For-Of Loops Are Fast",
+      "link": "https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-04T15:31:07Z",
-      "id": "b1cd30bb2a41a2a4e9619abae49f6c14",
-      "comments": "https://news.ycombinator.com/item?id=46488883"
+      "published": "2026-01-03T14:51:07Z",
+      "id": "185502db221ff9c929cd9506b72d7de7",
+      "comments": "https://news.ycombinator.com/item?id=46477306"
     },
     {
       "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)",
@@ -198,6 +216,15 @@
       "published": "2026-01-02T22:53:53Z",
       "id": "d9aae356869aa42618638b7acfd59598",
       "comments": "https://news.ycombinator.com/item?id=46470513"
+    },
+    {
+      "title": "\"Inspector Dangerfuck\", ANSI art comic from 1994",
+      "link": "https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-02T21:18:10Z",
+      "id": "5bea6b92cc218744f28ee9ad39c215f8",
+      "comments": "https://news.ycombinator.com/item?id=46469473"
     },
     {
       "title": "Try to take my position: The best promotion advice I ever got",
@@ -227,15 +254,6 @@
       "comments": "https://news.ycombinator.com/item?id=46460930"
     },
     {
-      "title": "Welcome to Gas Town",
-      "link": "https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-01T22:36:50Z",
-      "id": "060cd047288070173dfc6d180c206d80",
-      "comments": "https://news.ycombinator.com/item?id=46458936"
-    },
-    {
       "title": "New maps reveal post-flood migration patterns across the US",
       "link": "https://kinder.rice.edu/urbanedge/fema-buyouts-vs-risky-real-estate-new-maps-reveal-post-flood-migration-patterns-across-us",
       "source": "Hacker News",
@@ -252,24 +270,6 @@
       "published": "2025-12-31T06:15:05Z",
       "id": "a10ba0c1651617fe8634417fbbd5551d",
       "comments": "https://news.ycombinator.com/item?id=46441873"
-    },
-    {
-      "title": "Investigating and fixing a nasty clone bug",
-      "link": "https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T01:24:14Z",
-      "id": "dd46d5a0d218e76eb27993ad0ed03e76",
-      "comments": "https://news.ycombinator.com/item?id=46440271"
-    },
-    {
-      "title": "What to Do When the Trisector Comes (1983) [pdf]",
-      "link": "https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-29T21:17:26Z",
-      "id": "c85f30f4db30e2cea3b206fe3894a7bd",
-      "comments": "https://news.ycombinator.com/item?id=46425819"
     }
   ]
 }
