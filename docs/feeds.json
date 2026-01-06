@@ -1,23 +1,131 @@
 {
-  "last_updated": "2026-01-06T15:19:17.601543Z",
+  "last_updated": "2026-01-06T18:26:25.909222Z",
   "items": [
     {
-      "title": "65% of Hacker News Posts Have Negative Sentiment, and They Outperform",
+      "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
+      "link": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T18:00:27Z",
+      "id": "396c645f13c65f9a1b31566fa7471120",
+      "comments": "https://news.ycombinator.com/item?id=46515948"
+    },
+    {
+      "title": "Launch HN: Tamarind Bio (YC W24) \u2013 AI Inference Provider for Drug Discovery",
+      "link": "https://news.ycombinator.com/item?id=46515777",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T17:49:56Z",
+      "id": "0bbc8c12d8cb72a94034d3324d8f629d",
+      "comments": "https://news.ycombinator.com/item?id=46515777"
+    },
+    {
+      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+      "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T17:45:37Z",
+      "id": "692705d568d33dcffb3df726d152b71b",
+      "comments": "https://news.ycombinator.com/item?id=46515696"
+    },
+    {
+      "title": "Volkswagen Brings Back Physical Buttons",
+      "link": "https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T16:59:44Z",
+      "id": "3eeae76c49e4ca18be5bb6bce25391f3",
+      "comments": "https://news.ycombinator.com/item?id=46514913"
+    },
+    {
+      "title": "Show HN: Stash \u2013 Sync Markdown Files with Apple Notes via CLI",
+      "link": "https://github.com/shakedlokits/stash",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T16:57:15Z",
+      "id": "99ec53bc75c4530ec8f7b9c5be209de5",
+      "comments": "https://news.ycombinator.com/item?id=46514874"
+    },
+    {
+      "title": "Loongarch Improvements with Box64",
+      "link": "https://box86.org/2026/01/new-box64-v0-4-0-released/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T16:52:56Z",
+      "id": "05eed91c31335a956a93156cc3b5a523",
+      "comments": "https://news.ycombinator.com/item?id=46514807"
+    },
+    {
+      "title": "Raspberry Pi and mini PC home lab prices hit parity as DRAM costs skyrocket",
+      "link": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-and-mini-pc-home-lab-prices-hit-parity-as-dram-costs-skyrocket-price-hikes-force-hobbyists-to-weigh-up-performance-versus-power-consumption",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T16:52:08Z",
+      "id": "28270eb810284afa15ddf5cf8841cc19",
+      "comments": "https://news.ycombinator.com/item?id=46514794"
+    },
+    {
+      "title": "Why is the Gmail app 700 MB?",
+      "link": "https://akr.am/blog/posts/why-is-the-gmail-app-700-mb",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T16:46:13Z",
+      "id": "ff4ab0345757627ae5b2c379ac475915",
+      "comments": "https://news.ycombinator.com/item?id=46514692"
+    },
+    {
+      "title": "Vienam bans unskippable ads",
+      "link": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T16:45:42Z",
+      "id": "66bcae67ac5f403ea3324168836614fa",
+      "comments": "https://news.ycombinator.com/item?id=46514677"
+    },
+    {
+      "title": "State of the Fin 2026-01-06 \u2013 Jellyfin",
+      "link": "https://jellyfin.org/posts/state-of-the-fin-2026-01-06/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T16:17:24Z",
+      "id": "5ae1da3750558ba70796e353c7d73b83",
+      "comments": "https://news.ycombinator.com/item?id=46514282"
+    },
+    {
+      "title": "The skill of the future is not 'AI', but 'Focus' (2025)",
+      "link": "https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T15:44:44Z",
+      "id": "5a624e5e4fe88e38db83d57a5bcb07b1",
+      "comments": "https://news.ycombinator.com/item?id=46513728"
+    },
+    {
+      "title": "65% of Hacker News posts have negative sentiment, and they outperform",
       "link": "https://philippdubach.com/standalone/hn-sentiment/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-06T14:45:47Z",
-      "id": "8c48ef2f6aa2d0de5cbe74300a3c9637",
+      "id": "2825590c4e2a935a7db2a5e17c2c9174",
       "comments": "https://news.ycombinator.com/item?id=46512881"
     },
     {
-      "title": "Why German Strings Are Everywhere?",
-      "link": "https://cedardb.com/blog/german_strings/",
+      "title": "High-performance header-only container library for C++23 on x86-64",
+      "link": "https://github.com/kressler/fast-containers",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T13:30:07Z",
-      "id": "bdc9bb5e119a29096d8711df6ca291ec",
-      "comments": "https://news.ycombinator.com/item?id=46511981"
+      "published": "2026-01-06T14:41:55Z",
+      "id": "8e302df405b2a39288d045bb9ceb1a60",
+      "comments": "https://news.ycombinator.com/item?id=46512842"
+    },
+    {
+      "title": "Gemini Protocol Deployment Statistics",
+      "link": "https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T14:30:53Z",
+      "id": "c97abafd5f4394848467c491890f1a1d",
+      "comments": "https://news.ycombinator.com/item?id=46512707"
     },
     {
       "title": "Show HN: DDL to Data \u2013 Generate realistic test data from SQL schemas",
@@ -29,12 +137,12 @@
       "comments": "https://news.ycombinator.com/item?id=46511578"
     },
     {
-      "title": "C Is Best",
+      "title": "C Is Best (2025)",
       "link": "https://sqlite.org/whyc.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-06T12:33:54Z",
-      "id": "4b1229135cc62c612875a9b972e75a56",
+      "id": "b6e7c6dbabc1d697c17c26e064dc3f79",
       "comments": "https://news.ycombinator.com/item?id=46511470"
     },
     {
@@ -74,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=46510625"
     },
     {
-      "title": "Tube trains could navigate the Underground using the rules of Quantum Physics",
-      "link": "https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T08:26:23Z",
-      "id": "59b228589b3a35de339285d7e8acc508",
-      "comments": "https://news.ycombinator.com/item?id=46509967"
-    },
-    {
       "title": "enclose.horse",
       "link": "https://enclose.horse/",
       "source": "Hacker News",
@@ -92,31 +191,13 @@
       "comments": "https://news.ycombinator.com/item?id=46509211"
     },
     {
-      "title": "The Post-American Internet",
-      "link": "https://pluralistic.net/2026/01/01/39c3/",
+      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T05:20:40Z",
-      "id": "346aa23b8e34058f9e91ca8c9c3a669f",
-      "comments": "https://news.ycombinator.com/item?id=46509019"
-    },
-    {
-      "title": "Intel Core Ultra Series 3 Debut as First Built on Intel 18A",
-      "link": "https://newsroom.intel.com/client-computing/ces-2026-intel-core-ultra-series-3-debut-first-built-on-intel-18a",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T03:31:39Z",
-      "id": "349f394616ee7bfa7fae544a54c4a266",
-      "comments": "https://news.ycombinator.com/item?id=46508435"
-    },
-    {
-      "title": "GBC Boot Animation 88\u00d731 Web Button",
-      "link": "https://zakhary.dev/blog/gbc-web-button",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T02:20:00Z",
-      "id": "46c9a76bc05ef2076a3399e9104935a4",
-      "comments": "https://news.ycombinator.com/item?id=46507963"
+      "published": "2026-01-06T03:32:41Z",
+      "id": "830b6b5e7abe0dfd3621d4e82e63517b",
+      "comments": "https://news.ycombinator.com/item?id=46508441"
     },
     {
       "title": "I/O is no longer the bottleneck? (2022)",
@@ -128,24 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=46506994"
     },
     {
-      "title": "Strange.website",
-      "link": "https://strange.website/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T23:19:52Z",
-      "id": "dd10cb80598c44fea417794d9be688cd",
-      "comments": "https://news.ycombinator.com/item?id=46506596"
-    },
-    {
-      "title": "Why didn't AI \u201cjoin the workforce\u201d in 2025?",
-      "link": "https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T22:10:15Z",
-      "id": "139d1c83bc4135ca080a616fc56f1029",
-      "comments": "https://news.ycombinator.com/item?id=46505735"
-    },
-    {
       "title": "There were BGP anomalies during the Venezuela blackout",
       "link": "https://loworbitsecurity.com/radar/radar16/",
       "source": "Hacker News",
@@ -155,67 +218,13 @@
       "comments": "https://news.ycombinator.com/item?id=46504963"
     },
     {
-      "title": "Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%",
-      "link": "https://brave.com/privacy-updates/36-adblock-memory-reduction/",
+      "title": "Gtasks-terminal \u2013 Google Tasks power-tool for the terminal",
+      "link": "https://github.com/sirusdas/gtasks-terminal",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-05T17:34:33Z",
-      "id": "80d45d37c21d743936c2b3fec3852261",
-      "comments": "https://news.ycombinator.com/item?id=46501894"
-    },
-    {
-      "title": "How Y Combinator made it smart to trust founders",
-      "link": "https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T17:20:01Z",
-      "id": "6d5e1369da39f59e073d5c67d8c66aae",
-      "comments": "https://news.ycombinator.com/item?id=46501677"
-    },
-    {
-      "title": "I switched from VSCode to Zed",
-      "link": "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T13:52:17Z",
-      "id": "6c8674aaaaa228d49e53521c2c01cc75",
-      "comments": "https://news.ycombinator.com/item?id=46498735"
-    },
-    {
-      "title": "Databases in 2025: A Year in Review",
-      "link": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T07:14:30Z",
-      "id": "222f99978e727eadee27ba8e28ba7409",
-      "comments": "https://news.ycombinator.com/item?id=46496103"
-    },
-    {
-      "title": "Six-decade math puzzle solved by Korean mathematician",
-      "link": "https://www.koreaherald.com/article/10648326",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T19:10:31Z",
-      "id": "5e5b81fe0e2c477653a11782a679af23",
-      "comments": "https://news.ycombinator.com/item?id=46491129"
-    },
-    {
-      "title": "JavaScript's For-Of Loops Are Fast",
-      "link": "https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-03T14:51:07Z",
-      "id": "185502db221ff9c929cd9506b72d7de7",
-      "comments": "https://news.ycombinator.com/item?id=46477306"
-    },
-    {
-      "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)",
-      "link": "https://arxiv.org/abs/1803.03635",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-02T22:53:53Z",
-      "id": "d9aae356869aa42618638b7acfd59598",
-      "comments": "https://news.ycombinator.com/item?id=46470513"
+      "published": "2026-01-03T05:43:56Z",
+      "id": "bf4d673c5ee08c5df9148d7ebb461d38",
+      "comments": "https://news.ycombinator.com/item?id=46473142"
     },
     {
       "title": "\"Inspector Dangerfuck\", ANSI art comic from 1994",
@@ -225,6 +234,15 @@
       "published": "2026-01-02T21:18:10Z",
       "id": "5bea6b92cc218744f28ee9ad39c215f8",
       "comments": "https://news.ycombinator.com/item?id=46469473"
+    },
+    {
+      "title": "I wanted a camera that doesn't exist \u2013 so I built it",
+      "link": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-02T17:04:03Z",
+      "id": "b2949c1d6e020520319a785edaa8084f",
+      "comments": "https://news.ycombinator.com/item?id=46466843"
     },
     {
       "title": "Try to take my position: The best promotion advice I ever got",
@@ -245,31 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=46464462"
     },
     {
-      "title": "Interpreter \u2013 Offline screen translator for Japanese retro games",
-      "link": "https://github.com/bquenin/interpreter",
+      "title": "Swapping two blocks of memory inside a larger block, in constant memory",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-02T03:01:50Z",
-      "id": "683ee9a27cc49238fffb9714287c7a47",
-      "comments": "https://news.ycombinator.com/item?id=46460930"
-    },
-    {
-      "title": "New maps reveal post-flood migration patterns across the US",
-      "link": "https://kinder.rice.edu/urbanedge/fema-buyouts-vs-risky-real-estate-new-maps-reveal-post-flood-migration-patterns-across-us",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-01T16:58:19Z",
-      "id": "54f9e31a0ed23cf5817de99a794b6f54",
-      "comments": "https://news.ycombinator.com/item?id=46455643"
-    },
-    {
-      "title": "Shipping at Inference-Speed",
-      "link": "https://steipete.me/posts/2025/shipping-at-inference-speed",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2025-12-31T06:15:05Z",
-      "id": "a10ba0c1651617fe8634417fbbd5551d",
-      "comments": "https://news.ycombinator.com/item?id=46441873"
+      "published": "2026-01-02T09:19:54Z",
+      "id": "5540ca1f9006a1d7714935ff88888487",
+      "comments": "https://news.ycombinator.com/item?id=46462997"
     }
   ]
 }
