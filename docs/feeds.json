@@ -1,23 +1,32 @@
 {
-  "last_updated": "2026-01-06T09:23:02.551557Z",
+  "last_updated": "2026-01-06T12:37:07.246179Z",
   "items": [
     {
-      "title": "Tube trains could navigate the Underground using the rules of Quantum Physics",
-      "link": "https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/",
+      "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
+      "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T08:26:23Z",
-      "id": "59b228589b3a35de339285d7e8acc508",
-      "comments": "https://news.ycombinator.com/item?id=46509967"
+      "published": "2026-01-06T11:42:35Z",
+      "id": "685ff1e234354a9f1f7cf11bd8b9ba37",
+      "comments": "https://news.ycombinator.com/item?id=46511153"
     },
     {
-      "title": "Mapping Protests in Iran",
-      "link": "https://www.fdd.org/analysis/2025/06/25/mapping-the-protests-in-iran-2/",
+      "title": "Show HN: Is this the best epoch converter?",
+      "link": "https://epochconverter.dev/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T08:00:16Z",
-      "id": "eb200b532e8a82ba1123c3105bff7e36",
-      "comments": "https://news.ycombinator.com/item?id=46509788"
+      "published": "2026-01-06T10:18:48Z",
+      "id": "325975003f9c4b12fbf041ac4b508e80",
+      "comments": "https://news.ycombinator.com/item?id=46510656"
+    },
+    {
+      "title": "SCiZE's Classic Warez Collection",
+      "link": "https://scenelist.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T10:13:43Z",
+      "id": "bd3bc01c52fb1f19089fd7f983322cf3",
+      "comments": "https://news.ycombinator.com/item?id=46510625"
     },
     {
       "title": "enclose.horse",
@@ -90,15 +99,6 @@
       "published": "2026-01-05T21:52:22Z",
       "id": "372156dd1df8fc73c8602852ef512b39",
       "comments": "https://news.ycombinator.com/item?id=46505518"
-    },
-    {
-      "title": "Scientific production in the era of large language models [pdf]",
-      "link": "https://gwern.net/doc/science/2025-kusumegi.pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T21:33:29Z",
-      "id": "728fdfd8cc68d242e21cdb7b3f0a8a9d",
-      "comments": "https://news.ycombinator.com/item?id=46505296"
     },
     {
       "title": "There were BGP anomalies during the Venezuela blackout",
@@ -191,24 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=46488883"
     },
     {
-      "title": "Show HN: I replaced Beads with a faster, simpler Markdown-based task tracker",
-      "link": "https://github.com/wedow/ticket",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T13:08:12Z",
-      "id": "16fa9bcd8e5eff2a7620e3d44a0ac1bf",
-      "comments": "https://news.ycombinator.com/item?id=46487580"
-    },
-    {
-      "title": "JavaScript's For-Of Loops Are Fast",
-      "link": "https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-03T14:51:07Z",
-      "id": "185502db221ff9c929cd9506b72d7de7",
-      "comments": "https://news.ycombinator.com/item?id=46477306"
-    },
-    {
       "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)",
       "link": "https://arxiv.org/abs/1803.03635",
       "source": "Hacker News",
@@ -227,13 +209,13 @@
       "comments": "https://news.ycombinator.com/item?id=46466027"
     },
     {
-      "title": "Pebble Round 2",
-      "link": "https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever",
+      "title": "Repair a ship\u2019s hull still in the river in -50\u02daC (2022)",
+      "link": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-02T14:56:28Z",
-      "id": "08d4e99663e866e366803c4df129e8b6",
-      "comments": "https://news.ycombinator.com/item?id=46465335"
+      "published": "2026-01-02T13:21:42Z",
+      "id": "fc701b1cee88844ff7dba1573098c263",
+      "comments": "https://news.ycombinator.com/item?id=46464462"
     },
     {
       "title": "Interpreter \u2013 Offline screen translator for Japanese retro games",
@@ -261,6 +243,24 @@
       "published": "2026-01-01T16:58:19Z",
       "id": "54f9e31a0ed23cf5817de99a794b6f54",
       "comments": "https://news.ycombinator.com/item?id=46455643"
+    },
+    {
+      "title": "Shipping at Inference-Speed",
+      "link": "https://steipete.me/posts/2025/shipping-at-inference-speed",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-31T06:15:05Z",
+      "id": "a10ba0c1651617fe8634417fbbd5551d",
+      "comments": "https://news.ycombinator.com/item?id=46441873"
+    },
+    {
+      "title": "Investigating and fixing a nasty clone bug",
+      "link": "https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-31T01:24:14Z",
+      "id": "dd46d5a0d218e76eb27993ad0ed03e76",
+      "comments": "https://news.ycombinator.com/item?id=46440271"
     },
     {
       "title": "What to Do When the Trisector Comes (1983) [pdf]",
