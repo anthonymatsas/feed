@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-01-06T21:17:41.432761Z",
+  "last_updated": "2026-01-07T01:21:40.566671Z",
   "items": [
+    {
+      "title": "The Data Center Boom Is Concentrated in the U.S.",
+      "link": "https://spectrum.ieee.org/data-center-growth",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-07T01:11:12Z",
+      "id": "dda420cdb1ba8b99b08b8ad6bcaab3d7",
+      "comments": "https://news.ycombinator.com/item?id=46521238"
+    },
+    {
+      "title": "PassSeeds \u2013 hijacking Passkeys to unlock new cryptographic use cases",
+      "link": "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-07T00:50:58Z",
+      "id": "006666cb80014a0da7c3e072e30d61e0",
+      "comments": "https://news.ycombinator.com/item?id=46521084"
+    },
+    {
+      "title": "Website with a DMCA Takedown",
+      "link": "https://priyatham.in/en/post/hosting-dmca/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-07T00:36:41Z",
+      "id": "10c48ebedefa4c7b36b38eaff83f2c17",
+      "comments": "https://news.ycombinator.com/item?id=46520975"
+    },
+    {
+      "title": "Electronic Nose for Indoor Mold Detection and Identification",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-07T00:31:01Z",
+      "id": "04b5cbafbc5600752ea04ecb7778306f",
+      "comments": "https://news.ycombinator.com/item?id=46520935"
+    },
+    {
+      "title": "Why the trans flag emoji is the 5-codepoint sequence it is",
+      "link": "https://hecate.pink/blog/2026/trans-flag-emoji/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-07T00:22:06Z",
+      "id": "3e918acfef2643e29bdfc863180eda19",
+      "comments": "https://news.ycombinator.com/item?id=46520879"
+    },
+    {
+      "title": "Vulnerability in Ruby that has existed since 2002",
+      "link": "https://nastystereo.com/security/ruby-pack.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T23:46:24Z",
+      "id": "9863e6b4c915f2bd5d092e3a4f3817b9",
+      "comments": "https://news.ycombinator.com/item?id=46520566"
+    },
+    {
+      "title": "Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]",
+      "link": "https://www.youtube.com/watch?v=9e0SQn9uUlw",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T23:40:03Z",
+      "id": "76ef7a251406eb46269de592791a6065",
+      "comments": "https://news.ycombinator.com/item?id=46520508"
+    },
+    {
+      "title": "Show HN: GPU Cuckoo Filter \u2013 faster queries than Blocked Bloom, with deletion",
+      "link": "https://github.com/tdortman/cuckoo-filter",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T22:33:21Z",
+      "id": "beddfb80a31967fd1789efbaf893488e",
+      "comments": "https://news.ycombinator.com/item?id=46519771"
+    },
+    {
+      "title": "Are we tired of social media once and for all? On the downfall of social media",
+      "link": "https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T22:15:52Z",
+      "id": "c549d2cb710a3c86c841e59ab16b5749",
+      "comments": "https://news.ycombinator.com/item?id=46519622"
+    },
+    {
+      "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
+      "link": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T21:46:04Z",
+      "id": "9dcc213736c991cc6252c1df01b51f82",
+      "comments": "https://news.ycombinator.com/item?id=46519326"
+    },
+    {
+      "title": "Laylo (YC S20) \u2013 Head of Growth (Organic and Partners and Loops and AI) \u2013 Remote US",
+      "link": "https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T21:44:37Z",
+      "id": "a173273868e0d9552a57d9533b01c61a",
+      "comments": "https://news.ycombinator.com/item?id=46519303"
+    },
+    {
+      "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
+      "link": "https://arxiv.org/abs/2512.09882",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T21:23:07Z",
+      "id": "d046aee3f3a8f8348c6d24380071d095",
+      "comments": "https://news.ycombinator.com/item?id=46518996"
+    },
+    {
+      "title": "Oral microbiome sequencing after taking probiotics",
+      "link": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T21:10:47Z",
+      "id": "c7d9e16400c2a099eea17a346f76351c",
+      "comments": "https://news.ycombinator.com/item?id=46518804"
+    },
+    {
+      "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
+      "link": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T20:55:01Z",
+      "id": "5e95d65fd0618c8dc76e4f3e38a542b9",
+      "comments": "https://news.ycombinator.com/item?id=46518573"
+    },
     {
       "title": "Calling All Hackers: How money works (2024)",
       "link": "https://phrack.org/issues/71/17",
@@ -9,15 +135,6 @@
       "published": "2026-01-06T20:24:45Z",
       "id": "c5f2f8404a2bf1f74744e88d670fd66a",
       "comments": "https://news.ycombinator.com/item?id=46518129"
-    },
-    {
-      "title": "How Spotify Made Me Self Host",
-      "link": "https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T19:50:35Z",
-      "id": "2a170113fc1fc8f779c2604c8f283dac",
-      "comments": "https://news.ycombinator.com/item?id=46517636"
     },
     {
       "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
@@ -47,15 +164,6 @@
       "comments": "https://news.ycombinator.com/item?id=46516559"
     },
     {
-      "title": "Show HN: Jax-JS, array library in JavaScript targeting WebGPU",
-      "link": "https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T18:19:31Z",
-      "id": "1ccb8c6fb2c5f2f39bd9c503bafe82cd",
-      "comments": "https://news.ycombinator.com/item?id=46516267"
-    },
-    {
       "title": "Passing of Joe Mancuso author of Masonite (Python web framework)",
       "link": "https://github.com/MasoniteFramework/masonite/discussions/853",
       "source": "Hacker News",
@@ -65,13 +173,13 @@
       "comments": "https://news.ycombinator.com/item?id=46516137"
     },
     {
-      "title": "Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation",
-      "link": "https://arxiv.org/abs/2512.20687",
+      "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
+      "link": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T18:02:01Z",
-      "id": "94bb7c3cf0e976a5b8ca4721935c700e",
-      "comments": "https://news.ycombinator.com/item?id=46515987"
+      "published": "2026-01-06T18:00:27Z",
+      "id": "396c645f13c65f9a1b31566fa7471120",
+      "comments": "https://news.ycombinator.com/item?id=46515948"
     },
     {
       "title": "Dude, where's my supersonic jet?",
@@ -92,93 +200,30 @@
       "comments": "https://news.ycombinator.com/item?id=46515777"
     },
     {
-      "title": "DatBench: Discriminative, faithful, and efficient VLM evaluations",
-      "link": "https://arxiv.org/abs/2601.02316",
+      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+      "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T17:43:03Z",
-      "id": "d99e2b28165f0ac935d6a4a9fadc5c75",
-      "comments": "https://news.ycombinator.com/item?id=46515648"
+      "published": "2026-01-06T17:45:37Z",
+      "id": "692705d568d33dcffb3df726d152b71b",
+      "comments": "https://news.ycombinator.com/item?id=46515696"
     },
     {
-      "title": "Show HN: Stash \u2013 Sync Markdown Files with Apple Notes via CLI",
-      "link": "https://github.com/shakedlokits/stash",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T16:57:15Z",
-      "id": "99ec53bc75c4530ec8f7b9c5be209de5",
-      "comments": "https://news.ycombinator.com/item?id=46514874"
-    },
-    {
-      "title": "Why Big Companies Keep Failing: The Stack Fallacy (2016)",
-      "link": "https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T16:53:27Z",
-      "id": "470b078c78bf32dbcd2a35d35cbc2cf8",
-      "comments": "https://news.ycombinator.com/item?id=46514816"
-    },
-    {
-      "title": "Loongarch Improvements with Box64",
-      "link": "https://box86.org/2026/01/new-box64-v0-4-0-released/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T16:52:56Z",
-      "id": "05eed91c31335a956a93156cc3b5a523",
-      "comments": "https://news.ycombinator.com/item?id=46514807"
-    },
-    {
-      "title": "Why is the Gmail app 700 MB?",
-      "link": "https://akr.am/blog/posts/why-is-the-gmail-app-700-mb",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T16:46:13Z",
-      "id": "ff4ab0345757627ae5b2c379ac475915",
-      "comments": "https://news.ycombinator.com/item?id=46514692"
-    },
-    {
-      "title": "Vienam bans unskippable ads",
+      "title": "Vietnam bans unskippable ads",
       "link": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-06T16:45:42Z",
-      "id": "66bcae67ac5f403ea3324168836614fa",
+      "id": "4d3c09f95924e9bdee96dab6b75a2bc9",
       "comments": "https://news.ycombinator.com/item?id=46514677"
     },
     {
-      "title": "State of the Fin 2026-01-06",
-      "link": "https://jellyfin.org/posts/state-of-the-fin-2026-01-06/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T16:17:24Z",
-      "id": "8827dedf63a82a66586a1d3d6a118e0e",
-      "comments": "https://news.ycombinator.com/item?id=46514282"
-    },
-    {
-      "title": "High-performance header-only container library for C++23 on x86-64",
-      "link": "https://github.com/kressler/fast-containers",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T14:41:55Z",
-      "id": "8e302df405b2a39288d045bb9ceb1a60",
-      "comments": "https://news.ycombinator.com/item?id=46512842"
-    },
-    {
-      "title": "Gemini Protocol Deployment Statistics",
-      "link": "https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T14:30:53Z",
-      "id": "c97abafd5f4394848467c491890f1a1d",
-      "comments": "https://news.ycombinator.com/item?id=46512707"
-    },
-    {
-      "title": "Show HN: Mantic.sh \u2013 Search 480k files in 0.46s without embeddings",
+      "title": "Show HN: Mantic.sh \u2013 A structural code search engine for AI agents",
       "link": "https://github.com/marcoaapfortes/Mantic.sh",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-06T13:48:27Z",
-      "id": "71d7bafceb90a28d83b0638a0656ec9d",
+      "id": "7ed490357279106f5f0c9cf39ae988dc",
       "comments": "https://news.ycombinator.com/item?id=46512182"
     },
     {
@@ -191,49 +236,13 @@
       "comments": "https://news.ycombinator.com/item?id=46511469"
     },
     {
-      "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
-      "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
+      "title": "Building a rain predictor on a C64 with 1985's \"XPER,\" expert system software",
+      "link": "https://stonetools.ghost.io/xper-c64/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T11:42:35Z",
-      "id": "685ff1e234354a9f1f7cf11bd8b9ba37",
-      "comments": "https://news.ycombinator.com/item?id=46511153"
-    },
-    {
-      "title": "My Tamagotchi is an RL agent playing Slither.io",
-      "link": "https://nkasmanoff.github.io/#/blog/tamagotchi-rl-slitherio",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T06:22:30Z",
-      "id": "391149fbad655d36d8c0c46a9f2b2215",
-      "comments": "https://news.ycombinator.com/item?id=46509307"
-    },
-    {
-      "title": "enclose.horse",
-      "link": "https://enclose.horse/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T06:01:57Z",
-      "id": "c8013905323246488c098e03be36fc82",
-      "comments": "https://news.ycombinator.com/item?id=46509211"
-    },
-    {
-      "title": "Show HN: llmgame.ai \u2013 The Wikipedia Game but with LLMs",
-      "link": "https://www.llmgame.ai",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T03:07:50Z",
-      "id": "6674a990c7ca1fb8288ccdaef9d1af7e",
-      "comments": "https://news.ycombinator.com/item?id=46508299"
-    },
-    {
-      "title": "Using fewer syllables to express numbers",
-      "link": "https://thegraycuber.github.io/fast_numbers",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T06:15:25Z",
-      "id": "35f37262ebbd8f70cb98fe7aa4117aa4",
-      "comments": "https://news.ycombinator.com/item?id=46485466"
+      "published": "2026-01-02T23:53:21Z",
+      "id": "9b3603a82a1eeb7bfd743827f0fcd2c5",
+      "comments": "https://news.ycombinator.com/item?id=46471001"
     },
     {
       "title": "I wanted a camera that doesn't exist \u2013 so I built it",
@@ -243,15 +252,6 @@
       "published": "2026-01-02T17:04:03Z",
       "id": "b2949c1d6e020520319a785edaa8084f",
       "comments": "https://news.ycombinator.com/item?id=46466843"
-    },
-    {
-      "title": "Repair a ship\u2019s hull still in the river in -50\u02daC (2022)",
-      "link": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-02T13:21:42Z",
-      "id": "fc701b1cee88844ff7dba1573098c263",
-      "comments": "https://news.ycombinator.com/item?id=46464462"
     },
     {
       "title": "Show HN: 48-digit prime numbers every git commit",
