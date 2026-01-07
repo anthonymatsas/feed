@@ -1,14 +1,32 @@
 {
-  "last_updated": "2026-01-07T01:21:40.566671Z",
+  "last_updated": "2026-01-07T04:00:53.508540Z",
   "items": [
     {
-      "title": "The Data Center Boom Is Concentrated in the U.S.",
-      "link": "https://spectrum.ieee.org/data-center-growth",
+      "title": "On the slow death of scaling",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-07T01:11:12Z",
-      "id": "dda420cdb1ba8b99b08b8ad6bcaab3d7",
-      "comments": "https://news.ycombinator.com/item?id=46521238"
+      "published": "2026-01-07T03:48:05Z",
+      "id": "d0b394b7651574cb395622755a45a149",
+      "comments": "https://news.ycombinator.com/item?id=46522308"
+    },
+    {
+      "title": "Microsoft probably killed my Snapdragon Dev Kit",
+      "link": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-07T02:37:09Z",
+      "id": "92237d7260ae15795f70630fceb961f3",
+      "comments": "https://news.ycombinator.com/item?id=46521860"
+    },
+    {
+      "title": "Most websites don't need cookie consent banners",
+      "link": "https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-07T01:05:01Z",
+      "id": "b0c50673d0ec67fdf0f944a367e15bca",
+      "comments": "https://news.ycombinator.com/item?id=46521179"
     },
     {
       "title": "PassSeeds \u2013 hijacking Passkeys to unlock new cryptographic use cases",
@@ -20,21 +38,21 @@
       "comments": "https://news.ycombinator.com/item?id=46521084"
     },
     {
-      "title": "Website with a DMCA Takedown",
-      "link": "https://priyatham.in/en/post/hosting-dmca/",
+      "title": "We Recreated Steve Jobs's 1975 Atari Horoscope Program and You Can Run It",
+      "link": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-07T00:36:41Z",
-      "id": "10c48ebedefa4c7b36b38eaff83f2c17",
-      "comments": "https://news.ycombinator.com/item?id=46520975"
+      "published": "2026-01-07T00:44:43Z",
+      "id": "76e688f0a8b8e873fe39fc88132857bd",
+      "comments": "https://news.ycombinator.com/item?id=46521029"
     },
     {
-      "title": "Electronic Nose for Indoor Mold Detection and Identification",
+      "title": "Electronic nose for indoor mold detection and identification",
       "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-07T00:31:01Z",
-      "id": "04b5cbafbc5600752ea04ecb7778306f",
+      "id": "f8b942a21005a0b5ca33d5d0fe51a470",
       "comments": "https://news.ycombinator.com/item?id=46520935"
     },
     {
@@ -47,12 +65,12 @@
       "comments": "https://news.ycombinator.com/item?id=46520879"
     },
     {
-      "title": "Vulnerability in Ruby that has existed since 2002",
+      "title": "Ruby Array Pack Bleed",
       "link": "https://nastystereo.com/security/ruby-pack.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-06T23:46:24Z",
-      "id": "9863e6b4c915f2bd5d092e3a4f3817b9",
+      "id": "55bf5ce8578cef133d617d0d07f862e3",
       "comments": "https://news.ycombinator.com/item?id=46520566"
     },
     {
@@ -63,24 +81,6 @@
       "published": "2026-01-06T23:40:03Z",
       "id": "76ef7a251406eb46269de592791a6065",
       "comments": "https://news.ycombinator.com/item?id=46520508"
-    },
-    {
-      "title": "Show HN: GPU Cuckoo Filter \u2013 faster queries than Blocked Bloom, with deletion",
-      "link": "https://github.com/tdortman/cuckoo-filter",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T22:33:21Z",
-      "id": "beddfb80a31967fd1789efbaf893488e",
-      "comments": "https://news.ycombinator.com/item?id=46519771"
-    },
-    {
-      "title": "Are we tired of social media once and for all? On the downfall of social media",
-      "link": "https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T22:15:52Z",
-      "id": "c549d2cb710a3c86c841e59ab16b5749",
-      "comments": "https://news.ycombinator.com/item?id=46519622"
     },
     {
       "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
@@ -99,15 +99,6 @@
       "published": "2026-01-06T21:44:37Z",
       "id": "a173273868e0d9552a57d9533b01c61a",
       "comments": "https://news.ycombinator.com/item?id=46519303"
-    },
-    {
-      "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
-      "link": "https://arxiv.org/abs/2512.09882",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T21:23:07Z",
-      "id": "d046aee3f3a8f8348c6d24380071d095",
-      "comments": "https://news.ycombinator.com/item?id=46518996"
     },
     {
       "title": "Oral microbiome sequencing after taking probiotics",
@@ -155,24 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=46517319"
     },
     {
-      "title": "Video Game Websites in the early 00s",
-      "link": "https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T18:39:21Z",
-      "id": "eab1b14deacc1ccb793cb1369bb72e91",
-      "comments": "https://news.ycombinator.com/item?id=46516559"
-    },
-    {
-      "title": "Passing of Joe Mancuso author of Masonite (Python web framework)",
-      "link": "https://github.com/MasoniteFramework/masonite/discussions/853",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T18:11:51Z",
-      "id": "775d4828ae87bbfb04b3ad5502d07d22",
-      "comments": "https://news.ycombinator.com/item?id=46516137"
-    },
-    {
       "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
       "link": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
       "source": "Hacker News",
@@ -180,15 +153,6 @@
       "published": "2026-01-06T18:00:27Z",
       "id": "396c645f13c65f9a1b31566fa7471120",
       "comments": "https://news.ycombinator.com/item?id=46515948"
-    },
-    {
-      "title": "Dude, where's my supersonic jet?",
-      "link": "https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T17:59:41Z",
-      "id": "4e442a0448dabec8507cf9dcf254534b",
-      "comments": "https://news.ycombinator.com/item?id=46515936"
     },
     {
       "title": "Launch HN: Tamarind Bio (YC W24) \u2013 AI Inference Provider for Drug Discovery",
@@ -218,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=46514677"
     },
     {
-      "title": "Show HN: Mantic.sh \u2013 A structural code search engine for AI agents",
-      "link": "https://github.com/marcoaapfortes/Mantic.sh",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T13:48:27Z",
-      "id": "7ed490357279106f5f0c9cf39ae988dc",
-      "comments": "https://news.ycombinator.com/item?id=46512182"
-    },
-    {
       "title": "Show HN: Prism.Tools \u2013 Free and privacy-focused developer utilities",
       "link": "https://blgardner.github.io/prism.tools/",
       "source": "Hacker News",
@@ -236,31 +191,67 @@
       "comments": "https://news.ycombinator.com/item?id=46511469"
     },
     {
-      "title": "Building a rain predictor on a C64 with 1985's \"XPER,\" expert system software",
+      "title": "The Oddest Couple in American Literature: Part II",
+      "link": "https://airmail.news/issues/2026-1-3/the-oddest-couple-in-american-literature-part-ii",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T07:58:46Z",
+      "id": "60663b66860f204da6105deee5cc8e1a",
+      "comments": "https://news.ycombinator.com/item?id=46509782"
+    },
+    {
+      "title": "Show HN: Make audio loops online",
+      "link": "https://makeloops.online/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T17:54:03Z",
+      "id": "d8b41ea4105167b838fb21d498b0ea6d",
+      "comments": "https://news.ycombinator.com/item?id=46502148"
+    },
+    {
+      "title": "The Manifold Mind of Saul Bellow",
+      "link": "https://www.metropolitanreview.org/p/the-manifold-mind-of-saul-bellow",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T04:52:09Z",
+      "id": "b0cc00a5a2751f3682806789046c293f",
+      "comments": "https://news.ycombinator.com/item?id=46495451"
+    },
+    {
+      "title": "One Hundred Years of Gossip",
+      "link": "https://www.plough.com/en/topics/community/one-hundred-years-of-gossip",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-04T05:06:29Z",
+      "id": "10c7c3cb15533271129d19f4746beece",
+      "comments": "https://news.ycombinator.com/item?id=46485113"
+    },
+    {
+      "title": "XPER on the Commodore 64",
       "link": "https://stonetools.ghost.io/xper-c64/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-02T23:53:21Z",
-      "id": "9b3603a82a1eeb7bfd743827f0fcd2c5",
+      "id": "d792f425bc7c110dde23c8b435771bbd",
       "comments": "https://news.ycombinator.com/item?id=46471001"
     },
     {
-      "title": "I wanted a camera that doesn't exist \u2013 so I built it",
+      "title": "The creator of Claude Code's Claude setup",
+      "link": "https://twitter.com/bcherny/status/2007179832300581177",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-02T22:07:50Z",
+      "id": "63f8ab64ebc1d6368b15f4b111c184e1",
+      "comments": "https://news.ycombinator.com/item?id=46470017"
+    },
+    {
+      "title": "I wanted a camera that doesn't exist, so I built it",
       "link": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-02T17:04:03Z",
-      "id": "b2949c1d6e020520319a785edaa8084f",
+      "id": "136a8609d8de5c5b3cbefbc2b70718a7",
       "comments": "https://news.ycombinator.com/item?id=46466843"
-    },
-    {
-      "title": "Show HN: 48-digit prime numbers every git commit",
-      "link": "https://textonly.github.io/git-prime/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-01T14:26:12Z",
-      "id": "45a85cb4d0d07e7e9d24ef1ccfa6a082",
-      "comments": "https://news.ycombinator.com/item?id=46454369"
     },
     {
       "title": "Spherical Snake",
@@ -270,6 +261,15 @@
       "published": "2026-01-01T06:15:43Z",
       "id": "f494a07b1321015ac780f726c478d660",
       "comments": "https://news.ycombinator.com/item?id=46451768"
+    },
+    {
+      "title": "Jan \u0141ukasiewicz",
+      "link": "https://plato.stanford.edu/entries/lukasiewicz/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2025-12-30T12:58:03Z",
+      "id": "2c67bf9af0cbc783b0445cee5c22a75c",
+      "comments": "https://news.ycombinator.com/item?id=46432881"
     }
   ]
 }
