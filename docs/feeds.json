@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-01-07T04:00:53.508540Z",
+  "last_updated": "2026-01-07T06:28:28.100753Z",
   "items": [
+    {
+      "title": "A glimpse into V8 development for RISC-V",
+      "link": "https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-07T04:48:50Z",
+      "id": "3afed9c51248996bc0304e5c5a041c41",
+      "comments": "https://news.ycombinator.com/item?id=46522686"
+    },
     {
       "title": "On the slow death of scaling",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
@@ -20,15 +29,6 @@
       "comments": "https://news.ycombinator.com/item?id=46521860"
     },
     {
-      "title": "Most websites don't need cookie consent banners",
-      "link": "https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-07T01:05:01Z",
-      "id": "b0c50673d0ec67fdf0f944a367e15bca",
-      "comments": "https://news.ycombinator.com/item?id=46521179"
-    },
-    {
       "title": "PassSeeds \u2013 hijacking Passkeys to unlock new cryptographic use cases",
       "link": "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/",
       "source": "Hacker News",
@@ -38,12 +38,12 @@
       "comments": "https://news.ycombinator.com/item?id=46521084"
     },
     {
-      "title": "We Recreated Steve Jobs's 1975 Atari Horoscope Program and You Can Run It",
+      "title": "We recreated Steve Jobs's 1975 Atari horoscope program",
       "link": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-07T00:44:43Z",
-      "id": "76e688f0a8b8e873fe39fc88132857bd",
+      "id": "b61ba319fd8c6339925e4352ec5b2f74",
       "comments": "https://news.ycombinator.com/item?id=46521029"
     },
     {
@@ -56,6 +56,15 @@
       "comments": "https://news.ycombinator.com/item?id=46520935"
     },
     {
+      "title": "Show HN: SMTP Tunnel \u2013 A SOCKS5 proxy disguised as email traffic to bypass DPI",
+      "link": "https://github.com/x011/smtp-tunnel-proxy",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-07T00:30:09Z",
+      "id": "321dd9f1ae994016515d0a126a683e02",
+      "comments": "https://news.ycombinator.com/item?id=46520926"
+    },
+    {
       "title": "Why the trans flag emoji is the 5-codepoint sequence it is",
       "link": "https://hecate.pink/blog/2026/trans-flag-emoji/",
       "source": "Hacker News",
@@ -63,24 +72,6 @@
       "published": "2026-01-07T00:22:06Z",
       "id": "3e918acfef2643e29bdfc863180eda19",
       "comments": "https://news.ycombinator.com/item?id=46520879"
-    },
-    {
-      "title": "Ruby Array Pack Bleed",
-      "link": "https://nastystereo.com/security/ruby-pack.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T23:46:24Z",
-      "id": "55bf5ce8578cef133d617d0d07f862e3",
-      "comments": "https://news.ycombinator.com/item?id=46520566"
-    },
-    {
-      "title": "Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]",
-      "link": "https://www.youtube.com/watch?v=9e0SQn9uUlw",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-06T23:40:03Z",
-      "id": "76ef7a251406eb46269de592791a6065",
-      "comments": "https://news.ycombinator.com/item?id=46520508"
     },
     {
       "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
@@ -99,6 +90,15 @@
       "published": "2026-01-06T21:44:37Z",
       "id": "a173273868e0d9552a57d9533b01c61a",
       "comments": "https://news.ycombinator.com/item?id=46519303"
+    },
+    {
+      "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
+      "link": "https://arxiv.org/abs/2512.09882",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T21:23:07Z",
+      "id": "d046aee3f3a8f8348c6d24380071d095",
+      "comments": "https://news.ycombinator.com/item?id=46518996"
     },
     {
       "title": "Oral microbiome sequencing after taking probiotics",
@@ -146,6 +146,15 @@
       "comments": "https://news.ycombinator.com/item?id=46517319"
     },
     {
+      "title": "Passing of Joe Mancuso",
+      "link": "https://github.com/MasoniteFramework/masonite/discussions/853",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T18:11:51Z",
+      "id": "099f5cc410b4e52d01564579cc651a95",
+      "comments": "https://news.ycombinator.com/item?id=46516137"
+    },
+    {
       "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
       "link": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
       "source": "Hacker News",
@@ -182,22 +191,31 @@
       "comments": "https://news.ycombinator.com/item?id=46514677"
     },
     {
-      "title": "Show HN: Prism.Tools \u2013 Free and privacy-focused developer utilities",
-      "link": "https://blgardner.github.io/prism.tools/",
+      "title": "The 5 Knights of the MCP Apocalypse",
+      "link": "https://foojay.io/today/the-5-knights-of-the-mcp-apocalypse/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T12:33:49Z",
-      "id": "93898a4b428c2ce9582aa0184e96bcf9",
-      "comments": "https://news.ycombinator.com/item?id=46511469"
+      "published": "2026-01-06T15:52:09Z",
+      "id": "88a26bb07a280bb5139a500df28bf66b",
+      "comments": "https://news.ycombinator.com/item?id=46513860"
     },
     {
-      "title": "The Oddest Couple in American Literature: Part II",
-      "link": "https://airmail.news/issues/2026-1-3/the-oddest-couple-in-american-literature-part-ii",
+      "title": "Show HN: VaultSandbox \u2013 Test your real MailGun/SES/etc. integration",
+      "link": "https://vaultsandbox.com/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-06T07:58:46Z",
-      "id": "60663b66860f204da6105deee5cc8e1a",
-      "comments": "https://news.ycombinator.com/item?id=46509782"
+      "published": "2026-01-06T13:50:48Z",
+      "id": "8e58771021f3144fccfda4eba6a91c94",
+      "comments": "https://news.ycombinator.com/item?id=46512203"
+    },
+    {
+      "title": "Show HN: Mantic.sh \u2013 A structural code search engine for AI agents",
+      "link": "https://github.com/marcoaapfortes/Mantic.sh",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-06T13:48:27Z",
+      "id": "7ed490357279106f5f0c9cf39ae988dc",
+      "comments": "https://news.ycombinator.com/item?id=46512182"
     },
     {
       "title": "Show HN: Make audio loops online",
@@ -209,31 +227,13 @@
       "comments": "https://news.ycombinator.com/item?id=46502148"
     },
     {
-      "title": "The Manifold Mind of Saul Bellow",
-      "link": "https://www.metropolitanreview.org/p/the-manifold-mind-of-saul-bellow",
+      "title": "Two ways to crack a walnut, per Grothendieck (2025)",
+      "link": "https://shreevatsa.net/post/grothendieck-approaches/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-05T04:52:09Z",
-      "id": "b0cc00a5a2751f3682806789046c293f",
-      "comments": "https://news.ycombinator.com/item?id=46495451"
-    },
-    {
-      "title": "One Hundred Years of Gossip",
-      "link": "https://www.plough.com/en/topics/community/one-hundred-years-of-gossip",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-04T05:06:29Z",
-      "id": "10c7c3cb15533271129d19f4746beece",
-      "comments": "https://news.ycombinator.com/item?id=46485113"
-    },
-    {
-      "title": "XPER on the Commodore 64",
-      "link": "https://stonetools.ghost.io/xper-c64/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-02T23:53:21Z",
-      "id": "d792f425bc7c110dde23c8b435771bbd",
-      "comments": "https://news.ycombinator.com/item?id=46471001"
+      "published": "2026-01-04T23:40:30Z",
+      "id": "c0497b8bc66be84c4126d293ef92379e",
+      "comments": "https://news.ycombinator.com/item?id=46493607"
     },
     {
       "title": "The creator of Claude Code's Claude setup",
@@ -254,22 +254,22 @@
       "comments": "https://news.ycombinator.com/item?id=46466843"
     },
     {
-      "title": "Spherical Snake",
-      "link": "https://kevinalbs.com/spherical_snake/",
+      "title": "What *is* code? (2015)",
+      "link": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-01T06:15:43Z",
-      "id": "f494a07b1321015ac780f726c478d660",
-      "comments": "https://news.ycombinator.com/item?id=46451768"
+      "published": "2026-01-01T22:08:05Z",
+      "id": "ed8220ca940108250f7f67cd3ece642f",
+      "comments": "https://news.ycombinator.com/item?id=46458610"
     },
     {
-      "title": "Jan \u0141ukasiewicz",
-      "link": "https://plato.stanford.edu/entries/lukasiewicz/",
+      "title": "Sergey Brin's Unretirement",
+      "link": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2025-12-30T12:58:03Z",
-      "id": "2c67bf9af0cbc783b0445cee5c22a75c",
-      "comments": "https://news.ycombinator.com/item?id=46432881"
+      "published": "2026-01-01T09:30:28Z",
+      "id": "52a82a18f57bbdb2f1fac58e91498f9f",
+      "comments": "https://news.ycombinator.com/item?id=46452641"
     }
   ]
 }
