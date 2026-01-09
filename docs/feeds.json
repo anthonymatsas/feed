@@ -1,6 +1,95 @@
 {
-  "last_updated": "2026-01-09T09:24:40.335129Z",
+  "last_updated": "2026-01-09T12:37:16.604418Z",
   "items": [
+    {
+      "title": "We Still Debug Like It's the 1980s",
+      "link": "https://www.reddit.com/r/programming/comments/1q86jo3/we_still_debug_like_its_the_1980s/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-09T12:05:12Z",
+      "id": "fe79cb0a300c7721cb2896a46a91a652"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (January 08, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1q86fq3/serious_next_day_thread_postgame_discussion/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-09T12:00:01Z",
+      "id": "007a645f0a5b07ddffdaa5f50be68987"
+    },
+    {
+      "title": "War: Security Wants Updates, Devs Want Builds That Work",
+      "link": "https://www.reddit.com/r/programming/comments/1q8670x/war_security_wants_updates_devs_want_builds_that/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-09T11:46:57Z",
+      "id": "942cbdadcc59e5e8749701fe7a5045d9"
+    },
+    {
+      "title": "Do you still have Y2K workarounds / hacks in your code?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q865bj/do_you_still_have_y2k_workarounds_hacks_in_your/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-09T11:44:19Z",
+      "id": "cccd9b4838312779d9bc4260a12bd508"
+    },
+    {
+      "title": "What do you think, Code Reviews slows down or teach us ?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q85s27/what_do_you_think_code_reviews_slows_down_or/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-09T11:23:37Z",
+      "id": "0433d3d009fa92db5e832e293a434c62"
+    },
+    {
+      "title": "What do you folks think about clean code/clean architecture books?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q854mi/what_do_you_folks_think_about_clean_codeclean/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-09T10:46:24Z",
+      "id": "eac5432e8f373a90f3ce40e7faa3bfd7"
+    },
+    {
+      "title": "Why are mobile apps not asking for consent for analytics data collection?",
+      "link": "https://www.reddit.com/r/programming/comments/1q84vpz/why_are_mobile_apps_not_asking_for_consent_for/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-09T10:31:30Z",
+      "id": "04d57b5d26bf06c58e2288e67b0cb8ff"
+    },
+    {
+      "title": "MCP is a fad",
+      "link": "https://tombedor.dev/mcp-is-a-fad/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-09T10:27:11Z",
+      "id": "70ffa27694f4b1145e07e10f25264bf5",
+      "comments": "https://news.ycombinator.com/item?id=46552254"
+    },
+    {
+      "title": "LaMelo Ball: \"I didn't start today so I could finish the back end.\" I take full responsibility, that was my fault. That last lob, could've dribbled that out and some silly possession before that. The last pass, I should've shot that instead of putting Bull in that position.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1q84iyu/lamelo_ball_i_didnt_start_today_so_i_could_finish/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-09T10:09:57Z",
+      "id": "6add514bd2da6c81907352b4abd388a7"
+    },
+    {
+      "title": "Doing Binary Search right is harder than you might think",
+      "link": "https://www.reddit.com/r/programming/comments/1q841bg/doing_binary_search_right_is_harder_than_you/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-09T09:39:23Z",
+      "id": "850f23402055f7763d863ca2c07edbc7"
+    },
+    {
+      "title": "Emergency Funds in Current Job Market",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q83x81/emergency_funds_in_current_job_market/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-09T09:32:15Z",
+      "id": "017917d6bc2e2129e0c08351df09a762"
+    },
     {
       "title": "Another FAANG or a mature startup",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q83hkj/another_faang_or_a_mature_startup/",
@@ -26,21 +115,12 @@
       "id": "37e44456189bdfd9956cefdc152a9f0e"
     },
     {
-      "title": "Grok turns off image generator for most after outcry over sexualised AI imagery",
-      "link": "https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-09T08:10:31Z",
-      "id": "7ada84270776059408c137e47004df0d",
-      "comments": "https://news.ycombinator.com/item?id=46551238"
-    },
-    {
-      "title": "What Happened to WebAssembly",
+      "title": "What happened to WebAssembly",
       "link": "https://emnudge.dev/blog/what-happened-to-webassembly/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-09T07:38:30Z",
-      "id": "7399dcabbe1726f80236082e22ebce81",
+      "id": "63db151700988bd14c0641a412bc3176",
       "comments": "https://news.ycombinator.com/item?id=46551044"
     },
     {
@@ -78,15 +158,6 @@
       "id": "c0d40dbc0b1c3ab16ebd4c9d254dc481"
     },
     {
-      "title": "Do not mistake a resilient global economy for populist success",
-      "link": "https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-09T06:43:27Z",
-      "id": "cbe54e6a4784fca546d7471c343e206d",
-      "comments": "https://news.ycombinator.com/item?id=46550777"
-    },
-    {
       "title": "All PRs blocked on one person\u2019s review - how do you handle this?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q80igl/all_prs_blocked_on_one_persons_review_how_do_you/",
       "source": "r/ExperiencedDevs",
@@ -111,6 +182,14 @@
       "id": "c9354496977918d62347ab21f0187de8"
     },
     {
+      "title": "[Highlight] The Hornets head coach Charles Lee calls for a timeout after Pascal Siakam's clutch bucket to put the Pacers up by 1, but he is being ignored by the referees (with a replay). T.J. McConnell steals the inbound pass",
+      "link": "https://www.reddit.com/r/nba/comments/1q7zi42/highlight_the_hornets_head_coach_charles_lee/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-09T05:13:13Z",
+      "id": "c24a6dde50312008e7d590c5befad37e"
+    },
+    {
       "title": "BULLS-HEAT postponed",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1q7zf6w/bullsheat_postponed/",
       "source": "r/chicagobulls",
@@ -133,15 +212,6 @@
       "category": "sports",
       "published": "2026-01-09T05:04:03Z",
       "id": "0710488e1e8fedf7b43f9e33720420b0"
-    },
-    {
-      "title": "The No Fakes Act has a \u201cfingerprinting\u201d trap that kills open source?",
-      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-09T05:01:24Z",
-      "id": "f3e7a1645b84dfd451634959334ebcec",
-      "comments": "https://news.ycombinator.com/item?id=46550231"
     },
     {
       "title": "Weather forecast for the upcoming Bears-Packers Wildcard game at Soldier Field: Snow, 9\u00b0 windchill, wind gusts nearing 40 mph.",
@@ -297,20 +367,21 @@
       "id": "e36fa231f3db8f9777c1fe9e62f6de72"
     },
     {
-      "title": "[Lowlight] Collin Sexton airballs a potential game-tying shot at the buzzer",
-      "link": "https://www.reddit.com/r/nba/comments/1q7wbyn/lowlight_collin_sexton_airballs_a_potential/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-09T02:43:25Z",
-      "id": "38e9ac097b5253c081cf969638deb6d4"
-    },
-    {
       "title": "With the Pacers win over the Hornets, Rick Carlisle becomes the 11th Coach in NBA history with 1,000 career wins.",
       "link": "https://www.reddit.com/r/nba/comments/1q7wa13/with_the_pacers_win_over_the_hornets_rick/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-01-09T02:41:02Z",
       "id": "c54b372d3cf84be2a1a4aaf4362972fc"
+    },
+    {
+      "title": "Show HN: Executable Markdown files with Unix pipes",
+      "link": "https://news.ycombinator.com/item?id=46549444",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-09T02:29:12Z",
+      "id": "ad93cdd8e447a1f1f049a945066a34dc",
+      "comments": "https://news.ycombinator.com/item?id=46549444"
     },
     {
       "title": "What season did the Bulls have these warm-up pants?",
@@ -369,15 +440,6 @@
       "id": "6239791dbebc9e3b2057ee6bdcbb5fb2"
     },
     {
-      "title": "Logistics Is Dying; Or \u2013 Dude, Where's My Mail?",
-      "link": "https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-09T01:39:52Z",
-      "id": "fccd43ec9136c5b17f879427b1832e56",
-      "comments": "https://news.ycombinator.com/item?id=46549105"
-    },
-    {
       "title": "The last time the Bears beat the Packers in the playoffs was the Sunday after Pearl Harbor was attacked",
       "link": "https://www.reddit.com/r/nfl/comments/1q7uuy3/the_last_time_the_bears_beat_the_packers_in_the/",
       "source": "r/nfl",
@@ -400,14 +462,6 @@
       "category": "sports",
       "published": "2026-01-09T01:31:22Z",
       "id": "a5e87d1e8473a1f3e9d640cf6465a524"
-    },
-    {
-      "title": "From DevX to BotX",
-      "link": "https://www.reddit.com/r/programming/comments/1q7uo2r/from_devx_to_botx/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-09T01:30:47Z",
-      "id": "4cb868dff9cc9dd20f077cc39d0745a1"
     },
     {
       "title": "Why I left iNaturalist",
@@ -473,6 +527,14 @@
       "category": "sports",
       "published": "2026-01-09T00:36:20Z",
       "id": "444a2cd5f8703dd193f34b364111603e"
+    },
+    {
+      "title": "Aaron Rodgers 'feels good to shut all those comments' about Mike Tomlin's future 'down'",
+      "link": "https://www.reddit.com/r/nfl/comments/1q7srdl/aaron_rodgers_feels_good_to_shut_all_those/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-01-09T00:09:56Z",
+      "id": "cf4858cbd60aab28ee3110d9462042e2"
     },
     {
       "title": "The Falcons have blocked the Cowboys from interviewing Jeff Ulbrich for their vacant DC position",
@@ -564,30 +626,6 @@
       "id": "25b0275dca76b62e688dc914d6d1823b"
     },
     {
-      "title": "what project were you proud of in 2025 question",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q7qki6/what_project_were_you_proud_of_in_2025_question/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-08T22:41:48Z",
-      "id": "3867425b176d6e214dc3ddd8cfb83fbd"
-    },
-    {
-      "title": "VJ Edgecombe leads the NBA in loose balls recovered by a mile. The difference between him and 2nd (Josh Hart) is equal to the difference between 2nd and 25th",
-      "link": "https://www.reddit.com/r/nba/comments/1q7q6hb/vj_edgecombe_leads_the_nba_in_loose_balls/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-08T22:26:39Z",
-      "id": "04a33817efd69f358c817160020027ac"
-    },
-    {
-      "title": "What a 1955 Computer Taught Me",
-      "link": "https://www.reddit.com/r/programming/comments/1q7p5dw/what_a_1955_computer_taught_me/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-08T21:48:01Z",
-      "id": "11bf36bba3f67808c4d83c91884abe45"
-    },
-    {
       "title": "\ud83d\udca8\ud83d\udca8\ud83d\udca8\ud83d\udca8\ud83d\udca8\ud83d\udca8\ud83d\udca8 RBS GO VROOM",
       "link": "https://www.reddit.com/r/CHIBears/comments/1q7orad/rbs_go_vroom/",
       "source": "r/CHIBears",
@@ -619,6 +657,15 @@
       "category": "sports",
       "published": "2026-01-08T21:11:24Z",
       "id": "6a8b1d9fcfaa5998248c11f421c7ed12"
+    },
+    {
+      "title": "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
+      "link": "https://www.mux.com/jobs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-08T21:01:36Z",
+      "id": "d41c3edb5e63a3bbc3157eb307ee758d",
+      "comments": "https://news.ycombinator.com/item?id=46546413"
     },
     {
       "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
@@ -728,12 +775,12 @@
       "comments": "https://news.ycombinator.com/item?id=46545077"
     },
     {
-      "title": "The Unreasonable Effectiveness of the Fourier Transform",
+      "title": "The unreasonable effectiveness of the Fourier transform",
       "link": "https://joshuawise.com/resources/ofdm/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-08T19:00:28Z",
-      "id": "8a1fb7c799b44b6255c62403256092c9",
+      "id": "f65d385f9faae38d160e65d8bfa0e493",
       "comments": "https://news.ycombinator.com/item?id=46544981"
     },
     {
@@ -998,14 +1045,6 @@
       "id": "c4df26543520ab021deee9481ef17a90"
     },
     {
-      "title": "[Pelissero] Bucs fire OC Josh Grizzard.",
-      "link": "https://www.reddit.com/r/nfl/comments/1q7drus/pelissero_bucs_fire_oc_josh_grizzard/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-01-08T14:51:55Z",
-      "id": "890988ec226bbf3e6333a95381976758"
-    },
-    {
       "title": "[Schultz] Sources: The Ravens plan on interviewing Vikings DC Brian Flores for their open HC vacancy.",
       "link": "https://www.reddit.com/r/nfl/comments/1q7dnsl/schultz_sources_the_ravens_plan_on_interviewing/",
       "source": "r/nfl",
@@ -1030,28 +1069,12 @@
       "id": "abf3157f55e98c6028b94decd77a33ab"
     },
     {
-      "title": "Sakila25: Updated Classic Sakila Database with 2025 Movies from TMDB \u2013 Now Supports Multiple DBs Including MongoDB",
-      "link": "https://www.reddit.com/r/programming/comments/1q7d630/sakila25_updated_classic_sakila_database_with/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-08T14:27:15Z",
-      "id": "cfa9b661ddaacc68ce39ce177b909d84"
-    },
-    {
       "title": "Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption",
       "link": "https://www.reddit.com/r/programming/comments/1q7cxmb/python_typing_survey_2025_code_quality_and/",
       "source": "r/programming",
       "category": "tech",
       "published": "2026-01-08T14:17:27Z",
       "id": "49ed0f730e8f795dc5bf0035a315c91a"
-    },
-    {
-      "title": "pg-status \u2014 a lightweight microservice for checking PostgreSQL host status",
-      "link": "https://www.reddit.com/r/programming/comments/1q7c3ao/pgstatus_a_lightweight_microservice_for_checking/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-08T13:41:45Z",
-      "id": "18c0b2178d73a3dc6238b75b7d540438"
     },
     {
       "title": "[Tari Eason] on what makes Deni Avdija so hard to defend: \u201cZebras.\u201d \u2014 Deni Avdija took 15 FTA vs the Rockets last night. This season, Avdija is #2 in FTA Per Game (9.9), #1 in Total FTA (378), and #2 in % of Points Scored from Free Throws (30.1% of Avdija\u2019s points scored are from free throws)",
@@ -1087,14 +1110,6 @@
       "comments": "https://news.ycombinator.com/item?id=46540498"
     },
     {
-      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (January 07, 2026)",
-      "link": "https://www.reddit.com/r/nba/comments/1q79ypq/serious_next_day_thread_postgame_discussion/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-08T12:00:01Z",
-      "id": "0a5948dc47dc278f22748c9cfec437c7"
-    },
-    {
       "title": "Linus Torvalds: \"The AI slop issue is *NOT* going to be solved with documentation\"",
       "link": "https://www.reddit.com/r/programming/comments/1q79w2u/linus_torvalds_the_ai_slop_issue_is_not_going_to/",
       "source": "r/programming",
@@ -1117,14 +1132,6 @@
       "category": "tech",
       "published": "2026-01-08T10:01:15Z",
       "id": "5c4b0da8b3ddb52a691be304bccb5707"
-    },
-    {
-      "title": "best jira alternatives for smaller dev teams?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q770c8/best_jira_alternatives_for_smaller_dev_teams/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-08T09:03:08Z",
-      "id": "2a9cd462708415a65b89d9e57eb0b2ab"
     },
     {
       "title": "A new worst coder has entered the chat: vibe coding without code knowledge",
@@ -1157,14 +1164,6 @@
       "category": "sports",
       "published": "2026-01-08T06:16:29Z",
       "id": "0bb8ac9e7767374034ad16216fe16294"
-    },
-    {
-      "title": "Secure Coding?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q73h4b/secure_coding/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-08T05:34:12Z",
-      "id": "babce21b5e399f4a3cb4d9572ab7fe88"
     },
     {
       "title": "Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes",
@@ -1288,14 +1287,6 @@
       "id": "14a7d8b26e291131a4914b93fedbffc1"
     },
     {
-      "title": "Am I doing something wrong or are some people either delusional or straight up lying?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q6b1aj/am_i_doing_something_wrong_or_are_some_people/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-07T09:33:34Z",
-      "id": "48985d6dd901d8c7ead53de3e0690f69"
-    },
-    {
       "title": "Bulls sign Yuki Kawamura to two-way contract | Chicago Bulls",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1q5x5uf/bulls_sign_yuki_kawamura_to_twoway_contract/",
       "source": "r/chicagobulls",
@@ -1320,12 +1311,12 @@
       "id": "52a4c42351ec570f9ec56b4c789b8c5a"
     },
     {
-      "title": "Mysterious Victorian-era shoes are washing up on a beach in wales",
+      "title": "Mysterious Victorian-era shoes are washing up on a beach in Wales",
       "link": "https://www.smithsonianmag.com/smart-news/hundreds-of-mysterious-victorian-era-shoes-are-washing-up-on-a-beach-in-wales-nobody-knows-where-they-came-from-180987943/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-06T06:34:45Z",
-      "id": "5bdd16b01e27d20d7bed7d666023c1b6",
+      "id": "17df12bd44aa3cd610f825ff444fbf91",
       "comments": "https://news.ycombinator.com/item?id=46509376"
     },
     {
@@ -1377,6 +1368,15 @@
       "id": "8a50765b2f5710c6636a480f845a87ed"
     },
     {
+      "title": "Wolves Became Dogs",
+      "link": "https://www.economist.com/christmas-specials/2025/12/18/how-wolves-became-dogs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-05T16:29:10Z",
+      "id": "f720504d098bfa1e2d7a8d9398b40423",
+      "comments": "https://news.ycombinator.com/item?id=46500798"
+    },
+    {
       "title": "Weekly Discussion Thread - January 05, 2026",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1q4mfs0/weekly_discussion_thread_january_05_2026/",
       "source": "r/chicagobulls",
@@ -1385,21 +1385,21 @@
       "id": "a2eb3c0896bc1bcd09ca45e75f1d017a"
     },
     {
-      "title": "On Getting Hacked",
-      "link": "https://ahmeto.com/post/on-getting-hacked",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-05T12:26:39Z",
-      "id": "e31659d7c3d28ddfdb701e3ce785a92a",
-      "comments": "https://news.ycombinator.com/item?id=46497989"
-    },
-    {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1q45y5o/ask_experienced_devs_weekly_thread_a_weekly/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-01-05T00:00:51Z",
       "id": "cb3e5356d9e5005072aacc9c72d1a327"
+    },
+    {
+      "title": "Why is there a tiny hole in the airplane window? (2023)",
+      "link": "https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-04T19:31:43Z",
+      "id": "b02f899a4430ebbe4299db020cfe3463",
+      "comments": "https://news.ycombinator.com/item?id=46491330"
     },
     {
       "title": "Hacking a Casio F-91W digital watch (2023)",
@@ -1420,13 +1420,22 @@
       "comments": "https://news.ycombinator.com/item?id=46486545"
     },
     {
-      "title": "Pole of Inaccessibility",
-      "link": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility",
+      "title": "Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)",
+      "link": "https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-03T23:21:26Z",
-      "id": "78ed1181bed98015e9a19146d5ff5c33",
-      "comments": "https://news.ycombinator.com/item?id=46482844"
+      "published": "2026-01-03T16:34:38Z",
+      "id": "877a4925ea9b67dc58ac2d94d4fa36cc",
+      "comments": "https://news.ycombinator.com/item?id=46478558"
+    },
+    {
+      "title": "1ML for non-specialists: introduction",
+      "link": "https://pithlessly.github.io/1ml-intro",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-02T22:32:35Z",
+      "id": "b4dee6a0b953176236c91ceb32ec9786",
+      "comments": "https://news.ycombinator.com/item?id=46470293"
     },
     {
       "title": "Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)",
@@ -1445,15 +1454,6 @@
       "published": "2026-01-02T05:56:47Z",
       "id": "bf9de892cd438383e88a59804d796f94",
       "comments": "https://news.ycombinator.com/item?id=46461862"
-    },
-    {
-      "title": "Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots",
-      "link": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-01T13:58:45Z",
-      "id": "34ae39c796470f8f23babb87907b4c39",
-      "comments": "https://news.ycombinator.com/item?id=46454160"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
