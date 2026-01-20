@@ -1,6 +1,131 @@
 {
-  "last_updated": "2026-01-20T06:30:40.527831Z",
+  "last_updated": "2026-01-20T09:29:32.206349Z",
   "items": [
+    {
+      "title": "pg-aiguide - Agentic Coding For PostgreSql",
+      "link": "https://www.reddit.com/r/programming/comments/1qhwfjh/pgaiguide_agentic_coding_for_postgresql/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-20T09:19:16Z",
+      "id": "4131fcff127015f3e79c32f405bd85ca"
+    },
+    {
+      "title": "I got Claude Code to review Lovable Front End code",
+      "link": "https://www.reddit.com/r/programming/comments/1qhwf9f/i_got_claude_code_to_review_lovable_front_end_code/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-20T09:18:47Z",
+      "id": "684ab2b1f5794b8531dfe7907d68b7ab"
+    },
+    {
+      "title": "C++17: Efficiently Returning std::vector from Functions",
+      "link": "https://www.reddit.com/r/programming/comments/1qhwcnu/c17_efficiently_returning_stdvector_from_functions/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-20T09:14:18Z",
+      "id": "31729137e6934743180580e397e09dc9"
+    },
+    {
+      "title": "A hacker is making a list of vibecoded apps, 198 scanned 196 with vulnerabilities",
+      "link": "https://www.reddit.com/r/programming/comments/1qhw9zg/a_hacker_is_making_a_list_of_vibecoded_apps_198/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-20T09:09:56Z",
+      "id": "74c1c1cf1a518d747d8004b83d120ca3"
+    },
+    {
+      "title": "Floating-Point Printing and Parsing Can Be Simple And Fast (Floating Point Formatting, Part 3)",
+      "link": "https://www.reddit.com/r/programming/comments/1qhw709/floatingpoint_printing_and_parsing_can_be_simple/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-20T09:04:44Z",
+      "id": "16c1e17e6b9dec59de186eb75404e2f8"
+    },
+    {
+      "title": "Building Faster Data Pipelines in Python with Apache Arrow",
+      "link": "https://www.reddit.com/r/programming/comments/1qhvr7t/building_faster_data_pipelines_in_python_with/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-20T08:37:31Z",
+      "id": "c653ec811f3a9c3522bb7dad3f4e306f"
+    },
+    {
+      "title": "Krak\u00f3w, Poland in top 5 worst air quality worldwide",
+      "link": "https://www.iqair.com/world-air-quality-ranking",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-20T08:16:07Z",
+      "id": "127c827e82e585b2476ed9481bfe4a0f",
+      "comments": "https://news.ycombinator.com/item?id=46689204"
+    },
+    {
+      "title": "America Is Slow-Walking into a Polymarket Disaster",
+      "link": "https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-20T08:05:39Z",
+      "id": "f278dc1132e1b72ebd4dfa6844a23d17",
+      "comments": "https://news.ycombinator.com/item?id=46689143"
+    },
+    {
+      "title": "[Charania] Breaking: Golden State Warriors star Jimmy Butler has suffered a season-ending torn right ACL, sources tell ESPN.",
+      "link": "https://www.reddit.com/r/nba/comments/1qhv6v3/charania_breaking_golden_state_warriors_star/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-20T08:02:19Z",
+      "id": "966630751042929dd6d1c3b1ccb0763f"
+    },
+    {
+      "title": "Linux kernel framework for PCIe device emulation, in userspace",
+      "link": "https://github.com/cakehonolulu/pciem",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-20T07:51:12Z",
+      "id": "ce19d827b75ee7e21de46315435c302c",
+      "comments": "https://news.ycombinator.com/item?id=46689065"
+    },
+    {
+      "title": "Compensation for assessment",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qhuqsw/compensation_for_assessment/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-20T07:35:33Z",
+      "id": "389ffd4540f609adad4d1358219745cf"
+    },
+    {
+      "title": "The Overcomplexity of the Shadcn Radio Button",
+      "link": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-20T07:35:09Z",
+      "id": "4b3781070450ad0d9fec1afb2973a0c3",
+      "comments": "https://news.ycombinator.com/item?id=46688971"
+    },
+    {
+      "title": "Giving University Exams in the Age of Chatbots",
+      "link": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-20T07:32:58Z",
+      "id": "335ea5c1f24e7698dc05253934c6a282",
+      "comments": "https://news.ycombinator.com/item?id=46688954"
+    },
+    {
+      "title": "X has open-sourced their new \ud835\udd4f algorithm, powered by the same transformer architecture as xAI's Grok model.",
+      "link": "https://www.reddit.com/r/programming/comments/1qhunm9/x_has_opensourced_their_new_\ud835\udd4f_algorithm_powered/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-20T07:30:10Z",
+      "id": "dd621995a3694b2e8685ed441bb126f8"
+    },
+    {
+      "title": "Lapce: A Rust-Based Native Code Editor Lighter Than VSCode and Zed",
+      "link": "https://www.reddit.com/r/programming/comments/1qhuhw3/lapce_a_rustbased_native_code_editor_lighter_than/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-20T07:20:44Z",
+      "id": "66023941e3ba26b596d4c396d893fc25"
+    },
     {
       "title": "Happy Ben Johnson Day!",
       "link": "https://www.reddit.com/r/CHIBears/comments/1qht6kh/happy_ben_johnson_day/",
@@ -10,30 +135,21 @@
       "id": "b2fc4d9a20bef93d0895edb303b22ea4"
     },
     {
-      "title": "Asked AI about ideas to replace management, thoughts?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qhssqb/asked_ai_about_ideas_to_replace_management/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-20T05:45:39Z",
-      "id": "c4109916126b570ba535e5634de68678"
-    },
-    {
-      "title": "X For You Feed Algorithm",
-      "link": "https://github.com/xai-org/x-algorithm",
+      "title": "Becoming a Whorelord: The Overly Analytical Guide to Escorting (2021)",
+      "link": "https://knowingless.com/2021/10/19/becoming-a-whorelord-the-overly-analytical-guide-to-escorting/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-20T05:16:14Z",
-      "id": "86c1ee43887ea90120d9fae705e7fc68",
-      "comments": "https://news.ycombinator.com/item?id=46688173"
+      "published": "2026-01-20T05:27:12Z",
+      "id": "213ce15f01ecad6ea6a9697203290f70",
+      "comments": "https://news.ycombinator.com/item?id=46688229"
     },
     {
-      "title": "Chatbot Psychosis",
-      "link": "https://en.wikipedia.org/wiki/Chatbot_psychosis",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-20T05:08:57Z",
-      "id": "ccc6424b332728790240cb8c7a1e3993",
-      "comments": "https://news.ycombinator.com/item?id=46688122"
+      "title": "[Schefter] Texans HC DeMeco Ryans and new Titans HC Robert Saleh, two former 49ers defensive coordinators, are now head coaches in the same division and will square off twice a year.",
+      "link": "https://www.reddit.com/r/nfl/comments/1qhsal7/schefter_texans_hc_demeco_ryans_and_new_titans_hc/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-01-20T05:19:24Z",
+      "id": "249a24fd62f6894730b7954cba0fb117"
     },
     {
       "title": "[Highlight] Robert Saleh and Liam Coen are now in the same division \ud83c\udf7f",
@@ -117,21 +233,20 @@
       "id": "82d05057dd8fce2f1eb65771977b01be"
     },
     {
+      "title": "[Highlight] Ben Johnson shows love to Sean McVay after the game: \"Go win one\"",
+      "link": "https://www.reddit.com/r/nfl/comments/1qhq6fl/highlight_ben_johnson_shows_love_to_sean_mcvay/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-01-20T03:37:42Z",
+      "id": "7b24e96f2e6e2b485b7f76fa535a40ef"
+    },
+    {
       "title": "I decided to make a worse UUID for the pettiest of reasons.",
       "link": "https://www.reddit.com/r/programming/comments/1qhq372/i_decided_to_make_a_worse_uuid_for_the_pettiest/",
       "source": "r/programming",
       "category": "tech",
       "published": "2026-01-20T03:33:32Z",
       "id": "6c9253cc627a1b9d0277ca7aed79cfc1"
-    },
-    {
-      "title": "F-16 Falcon Strike",
-      "link": "https://webchrono.pl/F16FalconStrike/index.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-20T03:26:25Z",
-      "id": "e5a3a4ffc80b02c5e1be0b898c61dd78",
-      "comments": "https://news.ycombinator.com/item?id=46687588"
     },
     {
       "title": "Show HN: Artificial Ivy in the Browser",
@@ -191,14 +306,6 @@
       "id": "b324812c55dff2b370de56e0e872c9ae"
     },
     {
-      "title": "Unquiet Sleep - musical example and discussion",
-      "link": "https://www.reddit.com/r/programming/comments/1qhojjp/unquiet_sleep_musical_example_and_discussion/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-20T02:23:44Z",
-      "id": "d5e53386d0ff27944cd105497bb306d1"
-    },
-    {
       "title": "[Highlight] Clippers vs Wizards Broadcast Interrupted by Geese",
       "link": "https://www.reddit.com/r/nba/comments/1qhoi8p/highlight_clippers_vs_wizards_broadcast/",
       "source": "r/nba",
@@ -229,23 +336,6 @@
       "category": "sports",
       "published": "2026-01-20T01:43:37Z",
       "id": "b73eaf99c9a2673d5e2e8b3604da6d7b"
-    },
-    {
-      "title": "[Highlight] VJ EDGECOMBE GETS HITS FIRST POSTER! Huge and-one dunk against the Pacers!",
-      "link": "https://www.reddit.com/r/nba/comments/1qhnimw/highlight_vj_edgecombe_gets_hits_first_poster/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-20T01:38:13Z",
-      "id": "b769649d762330da51ca3ac28a81b687"
-    },
-    {
-      "title": "Legal Structures for Latin American Startups (2021)",
-      "link": "https://latamlist.com/legal-structures-for-latin-american-startups/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-20T01:21:35Z",
-      "id": "b4dd6f646fd2b35d65a645eadcc1ed83",
-      "comments": "https://news.ycombinator.com/item?id=46686745"
     },
     {
       "title": "When I think about the other clutch play from Moore",
@@ -412,14 +502,6 @@
       "id": "80ce16a612e6aeb7fd7d0950a1bbe258"
     },
     {
-      "title": "Why ANTcell Might Be a Bad Idea \u2014 A Structural Critique of AI-Native Teams",
-      "link": "https://www.reddit.com/r/programming/comments/1qhks4v/why_antcell_might_be_a_bad_idea_a_structural/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-19T23:41:25Z",
-      "id": "6d1e52d8e0f86ad723fdafd84ee30f0b"
-    },
-    {
       "title": "3D printing my laptop ergonomic setup",
       "link": "https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/",
       "source": "Hacker News",
@@ -461,14 +543,6 @@
       "id": "87e8ded1a55b503e4d50defb1dadc2c1"
     },
     {
-      "title": "Looking for subscription costs API",
-      "link": "https://www.reddit.com/r/programming/comments/1qhjc2s/looking_for_subscription_costs_api/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-19T22:43:51Z",
-      "id": "32dbc484799a2b57d6a1493cd576f2d0"
-    },
-    {
       "title": "How revenue decisions shape technical debt",
       "link": "https://www.reddit.com/r/programming/comments/1qhisx9/how_revenue_decisions_shape_technical_debt/",
       "source": "r/programming",
@@ -491,14 +565,6 @@
       "category": "sports",
       "published": "2026-01-19T22:17:14Z",
       "id": "a97023d67c3bfc72bd09396639a6b1b5"
-    },
-    {
-      "title": "Fluxly - A lightweight, self-contained DAG workflow framework (decoupled from orchestration)",
-      "link": "https://www.reddit.com/r/programming/comments/1qhikgp/fluxly_a_lightweight_selfcontained_dag_workflow/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-19T22:14:27Z",
-      "id": "47c9ddc5a4f0807498a1480908d35f28"
     },
     {
       "title": "[Schefter] ESPN Sources: Dolphins are hiring former Packers defensive coordinator Jeff Hafley as their head coach. Hafley completed his second interview with the team today and will be their new head coach.",
@@ -534,15 +600,6 @@
       "id": "746811043e8de468f890ee0b5a07ba05"
     },
     {
-      "title": "Use Social Media Mindfully",
-      "link": "https://danielleheberling.xyz/blog/mindful-social-media/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-19T21:39:44Z",
-      "id": "36852ba07d68b4fde51ab12f5339a7cd",
-      "comments": "https://news.ycombinator.com/item?id=46684862"
-    },
-    {
       "title": "Targeted Bets: An alternative approach to the job hunt",
       "link": "https://www.seanmuirhead.com/blog/targeted-bets",
       "source": "Hacker News",
@@ -550,14 +607,6 @@
       "published": "2026-01-19T21:35:31Z",
       "id": "e0df11c44a07c9f553dcdb35b924ec4b",
       "comments": "https://news.ycombinator.com/item?id=46684815"
-    },
-    {
-      "title": "[Pelissero] Reunion: All signs are pointing towards Eric Bieniemy returning to the Chiefs as their offensive coordinator, sources say.",
-      "link": "https://www.reddit.com/r/nfl/comments/1qhhh39/pelissero_reunion_all_signs_are_pointing_towards/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-01-19T21:34:05Z",
-      "id": "f73ce4d8ea599d8c0920ebffb100be1f"
     },
     {
       "title": "Speakin' of hits, man, allow me to introduce you to CALEB WILLIAMS",
@@ -674,14 +723,6 @@
       "id": "fc9f282dc6949605dafb3f47916629ec"
     },
     {
-      "title": "Since drafting Josh Allen in 2018, the Bills have drafted 56 players. 2 of them (James Cook and Dawson Knox) have made Pro Bowls.",
-      "link": "https://www.reddit.com/r/nfl/comments/1qhczs9/since_drafting_josh_allen_in_2018_the_bills_have/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-01-19T18:52:11Z",
-      "id": "4caa29fb49b09b61df8e3babe15fc432"
-    },
-    {
       "title": "What does consulting actually look like for FAANG/VC-backed companies?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qhcuky/what_does_consulting_actually_look_like_for/",
       "source": "r/ExperiencedDevs",
@@ -753,15 +794,6 @@
       "category": "sports",
       "published": "2026-01-19T17:49:37Z",
       "id": "399a8044dc6089e4868b8041e1c0b067"
-    },
-    {
-      "title": "Show HN: An interactive physics simulator with 1000\u2019s of balls, in your terminal",
-      "link": "https://github.com/minimaxir/ballin",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-19T17:47:38Z",
-      "id": "2888a4e2248bad0485f89523b4f01b1a",
-      "comments": "https://news.ycombinator.com/item?id=46682115"
     },
     {
       "title": "[Fishbain] Bears QB Caleb Williams on the fans: \"You lose that game and the fans stand up and cheer and roar \u2014 in a tough moment, it goes a long way.\"",
@@ -941,14 +973,6 @@
       "category": "sports",
       "published": "2026-01-19T14:01:46Z",
       "id": "a8b0d64f6b8a6288cfcd7dda2a3d3bea"
-    },
-    {
-      "title": "How the Lobsters front page works",
-      "link": "https://www.reddit.com/r/programming/comments/1qh44o1/how_the_lobsters_front_page_works/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-19T13:28:12Z",
-      "id": "f61f26c7d17f138fa1e6a7fd3bf5c17c"
     },
     {
       "title": "[Highlight] Texans Azeez Al-Shaair on being fined by NFL: \"I understand it's a fine. It's bigger than me. It makes people uncomfortable. Imagine how those people feel? There's people dying. I'm a human being and I care\"",
@@ -1177,14 +1201,6 @@
       "id": "a8f7a21e6a204c6a3c0c38886af7a98d"
     },
     {
-      "title": "Agent Psychosis: Are We Going Insane?",
-      "link": "https://www.reddit.com/r/programming/comments/1qgap2f/agent_psychosis_are_we_going_insane/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-18T14:58:38Z",
-      "id": "6d6cd10cc3e9299e0820a42c0f247eb3"
-    },
-    {
       "title": "Theoretical results on performance bounds for virtual machines and bytecode interpreters",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qg7eay/theoretical_results_on_performance_bounds_for/",
       "source": "r/ExperiencedDevs",
@@ -1199,22 +1215,6 @@
       "category": "tech",
       "published": "2026-01-18T11:27:52Z",
       "id": "b01d730555f12864cd66fad634188d00"
-    },
-    {
-      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-      "link": "https://www.reddit.com/r/programming/comments/1qg3rbf/ascii_characters_are_not_pixels_a_deep_dive_into/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-18T08:59:46Z",
-      "id": "77a72c55da336e15b8084c5e511dfdb7"
-    },
-    {
-      "title": "MySQL\u2019s popularity as ranked by DB-Engines started to tank hard, a trend that will likely accelerate in 2026.",
-      "link": "https://www.reddit.com/r/programming/comments/1qg0p6p/mysqls_popularity_as_ranked_by_dbengines_started/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-18T06:04:01Z",
-      "id": "219e12e67815f58776435549eb49fe5a"
     },
     {
       "title": "Old Bulls Commercial",
@@ -1239,6 +1239,15 @@
       "category": "tech",
       "published": "2026-01-17T22:19:13Z",
       "id": "6a14c2877b3eccac320130e70107c979"
+    },
+    {
+      "title": "Show HN: E80: an 8-bit CPU in structural VHDL",
+      "link": "https://github.com/Stokpan/E80",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-17T21:39:35Z",
+      "id": "f6cce2c8c21293dfaf66e4401c1f384e",
+      "comments": "https://news.ycombinator.com/item?id=46662390"
     },
     {
       "title": "NBA \u201cRoadtrips\u201d Bus in front of Godfrey hotel in chicago",
@@ -1337,15 +1346,6 @@
       "id": "aa06976fc28eb9bfcbfdf9097679226f"
     },
     {
-      "title": "I set all 376 Vim options and I'm still a fool",
-      "link": "https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-16T21:48:40Z",
-      "id": "e959896d77101b7de25d38ae3a70d382",
-      "comments": "https://news.ycombinator.com/item?id=46652690"
-    },
-    {
       "title": "Developers who are Freelance/Independent/Business Owners, how did you do it? What was your process if any?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qerhqz/developers_who_are_freelanceindependentbusiness/",
       "source": "r/ExperiencedDevs",
@@ -1402,21 +1402,21 @@
       "id": "42a639a7c4fe56454fac147faa7d8d8b"
     },
     {
+      "title": "Face as a QR Code",
+      "link": "https://bookofjoe2.blogspot.com/2025/12/your-face-as-qr-code.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-16T13:33:17Z",
+      "id": "64e9b860ca3aa8de3741846dc892f615",
+      "comments": "https://news.ycombinator.com/item?id=46646173"
+    },
+    {
       "title": "Home-made 3d flag",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1qeew8k/homemade_3d_flag/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-01-16T12:40:13Z",
       "id": "cf44b45bf6e384ededda471f2f9c5d2b"
-    },
-    {
-      "title": "How we made Python's packaging library 3x faster",
-      "link": "https://iscinumpy.dev/post/packaging-faster/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-16T08:00:07Z",
-      "id": "9b17610f6b8fa6fa5cf28b5c8b59232e",
-      "comments": "https://news.ycombinator.com/item?id=46644173"
     },
     {
       "title": "British redcoat's lost memoir reveals realities of life as a disabled veteran",
@@ -1437,15 +1437,6 @@
       "comments": "https://news.ycombinator.com/item?id=46641036"
     },
     {
-      "title": "Show HN: Munimet.ro \u2013 ML-based status page for the local subways in SF",
-      "link": "https://munimet.ro/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-15T18:51:34Z",
-      "id": "607e139744bbf8e9c42f987c9d328654",
-      "comments": "https://news.ycombinator.com/item?id=46637283"
-    },
-    {
       "title": "Kahan on the 8087 and designing Intel's floating point (2016) [video]",
       "link": "https://www.youtube.com/watch?v=L-QVgbdt_qg",
       "source": "Hacker News",
@@ -1453,6 +1444,15 @@
       "published": "2026-01-15T10:43:34Z",
       "id": "91c340a1c8036cefa50a78727969e97e",
       "comments": "https://news.ycombinator.com/item?id=46630718"
+    },
+    {
+      "title": "Increasing the performance of WebAssembly Text Format parser by 350%",
+      "link": "https://blog.gplane.win/posts/improve-wat-parser-perf.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-15T07:49:09Z",
+      "id": "7b95735950311e0a163fef45b214ea9c",
+      "comments": "https://news.ycombinator.com/item?id=46629399"
     },
     {
       "title": "Understanding ZFS Scrubs and Data Integrity",
