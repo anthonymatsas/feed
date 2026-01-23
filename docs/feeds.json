@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-01-23T06:28:55.060770Z",
+  "last_updated": "2026-01-23T09:26:18.675028Z",
   "items": [
+    {
+      "title": "Proton Spam and the AI Consent Problem",
+      "link": "https://dbushell.com/2026/01/22/proton-spam/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-23T07:01:29Z",
+      "id": "f2aa6f324ac0a3e8b240992d7f4254a1",
+      "comments": "https://news.ycombinator.com/item?id=46729368"
+    },
     {
       "title": "I built a light that reacts to radio waves [video]",
       "link": "https://www.youtube.com/watch?v=moBCOEiqiPs",
@@ -9,15 +18,6 @@
       "published": "2026-01-23T05:34:35Z",
       "id": "c46575d1cd9ebadec7dbb52bad3a02df",
       "comments": "https://news.ycombinator.com/item?id=46728808"
-    },
-    {
-      "title": "United States Completes WHO Withdrawal",
-      "link": "https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-23T05:10:30Z",
-      "id": "fce8a191f2af8f605098a5ac2d4e8552",
-      "comments": "https://news.ycombinator.com/item?id=46728680"
     },
     {
       "title": "Talking to LLMs has improved my thinking",
@@ -128,15 +128,6 @@
       "comments": "https://news.ycombinator.com/item?id=46722570"
     },
     {
-      "title": "Composing APIs and CLIs in the LLM era",
-      "link": "https://walters.app/blog/composing-apis-clis",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-22T17:14:04Z",
-      "id": "72b20cd19fc068c61cf4ef956d2059e8",
-      "comments": "https://news.ycombinator.com/item?id=46722074"
-    },
-    {
       "title": "Launch HN: Constellation Space (YC W26) \u2013 AI for satellite mission assurance",
       "link": "https://news.ycombinator.com/item?id=46721933",
       "source": "Hacker News",
@@ -209,15 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=46719222"
     },
     {
-      "title": "Design Thinking Books (2024)",
-      "link": "https://www.designorate.com/design-thinking-books/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-22T11:51:10Z",
-      "id": "9c437d6eff18ba2adfe80bc7979913b8",
-      "comments": "https://news.ycombinator.com/item?id=46718061"
-    },
-    {
       "title": "'Askers' vs. 'Guessers' (2010)",
       "link": "https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/",
       "source": "Hacker News",
@@ -227,13 +209,13 @@
       "comments": "https://news.ycombinator.com/item?id=46717960"
     },
     {
-      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-      "link": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
+      "title": "Show HN: Txt2plotter \u2013 True centerline vectors from Flux.2 for pen plotters",
+      "link": "https://github.com/malvarezcastillo/txt2plotter",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-21T22:41:45Z",
-      "id": "bd69ed4805bf517454a26f81ebec21ce",
-      "comments": "https://news.ycombinator.com/item?id=46712678"
+      "published": "2026-01-19T21:57:03Z",
+      "id": "222530492f8b87d0835228978298130a",
+      "comments": "https://news.ycombinator.com/item?id=46685064"
     },
     {
       "title": "Turso is an in-process SQL database, compatible with SQLite",
@@ -270,6 +252,24 @@
       "published": "2026-01-18T22:16:43Z",
       "id": "e4459aa1edc2c495d5b05c2103f5e4bd",
       "comments": "https://news.ycombinator.com/item?id=46672713"
+    },
+    {
+      "title": "A gaming success story: how Warhammer became one of Britain's biggest companies",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/18/a-gaming-success-story-how-warhammer-became-one-of-britains-biggest-companies",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-18T19:31:11Z",
+      "id": "cf1b138782235ca3f0c025905920e697",
+      "comments": "https://news.ycombinator.com/item?id=46671286"
+    },
+    {
+      "title": "Project Mercury and the Sofar Bomb",
+      "link": "https://www.thequantumcat.space/p/project-mercury-and-the-sofar-bomb",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-18T11:51:21Z",
+      "id": "8059fada49b872091f5538fc6551ff2b",
+      "comments": "https://news.ycombinator.com/item?id=46667039"
     }
   ]
 }
