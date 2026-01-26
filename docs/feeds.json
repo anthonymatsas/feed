@@ -1,6 +1,121 @@
 {
-  "last_updated": "2026-01-26T09:30:28.280764Z",
+  "last_updated": "2026-01-26T12:40:08.438707Z",
   "items": [
+    {
+      "title": "Observability (Metrics, Logs, and Traces)",
+      "link": "https://www.reddit.com/r/programming/comments/1qnetze/observability_metrics_logs_and_traces/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-26T12:34:16Z",
+      "id": "d86259eb3974d2b663d90f0a235d82e5"
+    },
+    {
+      "title": "Allen Iverson in australia. Absolutely disgusting",
+      "link": "https://www.reddit.com/r/nba/comments/1qnek4y/allen_iverson_in_australia_absolutely_disgusting/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-26T12:20:57Z",
+      "id": "1f05b2bd97af99eed69ea710b303430c"
+    },
+    {
+      "title": "C Experiment: writing a generic serializer in C",
+      "link": "https://www.reddit.com/r/programming/comments/1qnegh3/c_experiment_writing_a_generic_serializer_in_c/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-26T12:15:54Z",
+      "id": "270363c49382800d2c911fba4cd79ef3"
+    },
+    {
+      "title": "whats the actual difference between monday.com and monday dev?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qnds85/whats_the_actual_difference_between_mondaycom_and/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-26T11:41:36Z",
+      "id": "07ebf4f2a5fc5993754d2f60bf8d6c36"
+    },
+    {
+      "title": "Locale-dependent case conversion bugs persist (Kotlin as a real-world example)",
+      "link": "https://www.reddit.com/r/programming/comments/1qndjes/localedependent_case_conversion_bugs_persist/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-26T11:28:38Z",
+      "id": "804dee7df5da11d0d5fc2d6cb2f062cb"
+    },
+    {
+      "title": "The browser is the sandbox",
+      "link": "https://www.reddit.com/r/programming/comments/1qndgqf/the_browser_is_the_sandbox/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-26T11:24:26Z",
+      "id": "4b0467745f0bda4d5b62e43adc182bfa"
+    },
+    {
+      "title": "Announcing MapLibre Tile: a modern and efficient vector tile format",
+      "link": "https://www.reddit.com/r/programming/comments/1qndbz5/announcing_maplibre_tile_a_modern_and_efficient/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-26T11:16:58Z",
+      "id": "2486748628a6179273f0c4bfbee177bf"
+    },
+    {
+      "title": "Show HN posts p/month more than doubled in the last year",
+      "link": "https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-26T11:16:17Z",
+      "id": "74943fcf344ae80e8e8b615ac52d6d4c",
+      "comments": "https://news.ycombinator.com/item?id=46764284"
+    },
+    {
+      "title": "I wrote a guide on Singleton Pattern with examples and problems in implementation. Feedback welcome",
+      "link": "https://www.reddit.com/r/programming/comments/1qncs89/i_wrote_a_guide_on_singleton_pattern_with/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-26T10:46:09Z",
+      "id": "f9e9f8e91eeac63f08fe338893d474d7"
+    },
+    {
+      "title": "MapLibre Tile: a modern and efficient vector tile format",
+      "link": "https://maplibre.org/news/2026-01-23-mlt-release/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-26T10:19:51Z",
+      "id": "ad6659a3c5c9592940c417dd688f9fc3",
+      "comments": "https://news.ycombinator.com/item?id=46763864"
+    },
+    {
+      "title": "San Francisco Graffiti",
+      "link": "https://walzr.com/sf-graffiti",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-26T10:02:12Z",
+      "id": "33ca0c825c63bf02b04eb69441fa217a",
+      "comments": "https://news.ycombinator.com/item?id=46763721"
+    },
+    {
+      "title": "How do you handle stretches of (up to) 60 minutes downtime during work hours?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qnblqn/how_do_you_handle_stretches_of_up_to_60_minutes/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-26T09:36:01Z",
+      "id": "41f9861164ec400fcd8845266898afac"
+    },
+    {
+      "title": "Best practices are an unfair advantage",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qnbln0/best_practices_are_an_unfair_advantage/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-26T09:35:50Z",
+      "id": "6b53695e07946cd4c7328285f815ebea"
+    },
+    {
+      "title": "Scaling PostgreSQL to Millions of Queries Per Second: Lessons from OpenAI",
+      "link": "https://www.reddit.com/r/programming/comments/1qnbllg/scaling_postgresql_to_millions_of_queries_per/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-26T09:35:45Z",
+      "id": "af251ce7ca849d89dcf2997274763ae4"
+    },
     {
       "title": "Study finds many software developers feel ethical pressure to ship products that may conflict with democratic values",
       "link": "https://www.reddit.com/r/programming/comments/1qnaguj/study_finds_many_software_developers_feel_ethical/",
@@ -35,22 +150,6 @@
       "id": "5e1ad2ec67321f5ec1570d33c27450c3"
     },
     {
-      "title": "Tcl: The Most Underrated, But The Most Productive Programming Language",
-      "link": "https://www.reddit.com/r/programming/comments/1qn8vpq/tcl_the_most_underrated_but_the_most_productive/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-26T06:54:42Z",
-      "id": "6597e33ea7ae69ecfbaf5e8ea694e4a9"
-    },
-    {
-      "title": "How to get a internship or a job in web dev?",
-      "link": "https://www.reddit.com/r/programming/comments/1qn8nb5/how_to_get_a_internship_or_a_job_in_web_dev/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-26T06:41:49Z",
-      "id": "325cb7dc07198df58b5f9a5d2c641c36"
-    },
-    {
       "title": "Should I take a career gap?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qn87wo/should_i_take_a_career_gap/",
       "source": "r/ExperiencedDevs",
@@ -65,14 +164,6 @@
       "category": "tech",
       "published": "2026-01-26T05:55:45Z",
       "id": "8a6a7c2d969ec89d3abdf796e59473b1"
-    },
-    {
-      "title": "ThePrimeagen told his followers to install a poisoned AI skill",
-      "link": "https://www.reddit.com/r/programming/comments/1qn7f7q/theprimeagen_told_his_followers_to_install_a/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-26T05:36:22Z",
-      "id": "d6ea7c3e66053123cc5c4c54702a524c"
     },
     {
       "title": "Warning About The Creating Coding Careers School (CCC) Scam",
@@ -222,15 +313,6 @@
       "id": "52e5f3abed113a3b383451baaa380777"
     },
     {
-      "title": "Environmentalists worry Google behind bid to control Oregon town's water",
-      "link": "https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-26T03:40:06Z",
-      "id": "1031535b1fb6481829790ca056176e66",
-      "comments": "https://news.ycombinator.com/item?id=46761614"
-    },
-    {
       "title": "[Highlight] Matthew Stafford finds Cooper Kupp postgame to congratulate his old teammate",
       "link": "https://www.reddit.com/r/nfl/comments/1qn4rzu/highlight_matthew_stafford_finds_cooper_kupp/",
       "source": "r/nfl",
@@ -319,13 +401,12 @@
       "id": "c3957d0a91eae18d86dc0b55afe1a0de"
     },
     {
-      "title": "You can just port things to Cloudflare Workers",
-      "link": "https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-26T02:41:32Z",
-      "id": "ec074a631a2c317e3e10d9c427fdedde",
-      "comments": "https://news.ycombinator.com/item?id=46761239"
+      "title": "Craziest thing about the 73\u20139 Warriors\u2019 is the fact that their Big 3 Played 79+ Games Each",
+      "link": "https://www.reddit.com/r/nba/comments/1qn3sws/craziest_thing_about_the_739_warriors_is_the_fact/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-26T02:45:58Z",
+      "id": "d7ede6413e9f73df96a866f84e0d20a8"
     },
     {
       "title": "Immanuel Quickley delivers the Thunder their 10th loss with another double-double: 23/11/2 | 2 steals",
@@ -382,14 +463,6 @@
       "category": "sports",
       "published": "2026-01-26T02:27:18Z",
       "id": "81f80bfbbabd5e52f056f2a63c712928"
-    },
-    {
-      "title": "Broken Tooling & Flaky Tests (CI/CD)",
-      "link": "https://www.reddit.com/r/programming/comments/1qn30qx/broken_tooling_flaky_tests_cicd/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-26T02:11:19Z",
-      "id": "36af512b3310465a9c475471d74ed4b8"
     },
     {
       "title": "Video Games as Art",
@@ -627,15 +700,6 @@
       "id": "9234f52ed1e3f2b87c34650828a0210b"
     },
     {
-      "title": "Ask HN: DDD was a great debugger \u2013 what would a modern equivalent look like?",
-      "link": "https://news.ycombinator.com/item?id=46759387",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-25T22:47:55Z",
-      "id": "92dd8608a2c3fe2b2ee15f14f4079f17",
-      "comments": "https://news.ycombinator.com/item?id=46759387"
-    },
-    {
       "title": "Case study: Creative math \u2013 How AI fakes proofs",
       "link": "https://tomaszmachnik.pl/case-study-math-en.html",
       "source": "Hacker News",
@@ -735,14 +799,6 @@
       "id": "0881c650389c78a92199e74309cfee18"
     },
     {
-      "title": "In 1987, the first year college basketball had a three point line, Butler\u2019s Darrin Fitzgerald hit 5.6 per game a figure that has never been reached again in the NCAA or NBA, and more than any NBA TEAM averaged that year. He never got a chance in the league, and that\u2019s where his career ended",
-      "link": "https://www.reddit.com/r/nba/comments/1qmsv3a/in_1987_the_first_year_college_basketball_had_a/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-25T19:33:07Z",
-      "id": "2a37785b70015f86356c101045e8b6b6"
-    },
-    {
       "title": "I was right about ATProto key management",
       "link": "https://notes.nora.codes/atproto-again/",
       "source": "Hacker News",
@@ -750,15 +806,6 @@
       "published": "2026-01-25T19:31:23Z",
       "id": "17ae0f1b6e45d5fda5efb4794c02897c",
       "comments": "https://news.ycombinator.com/item?id=46757357"
-    },
-    {
-      "title": "Spanish track was fractured before high-speed train disaster, report finds",
-      "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-25T19:12:50Z",
-      "id": "8cf758b599b16063bf1a27fad5ea869f",
-      "comments": "https://news.ycombinator.com/item?id=46757162"
     },
     {
       "title": "NFCCG \ud83d\udc40. Let the record show...",
@@ -792,14 +839,6 @@
       "category": "sports",
       "published": "2026-01-25T18:34:28Z",
       "id": "cb833c046a73504a9cc6f29662a3eb65"
-    },
-    {
-      "title": "[Charania] Nuggets-Grizzlies game in Memphis today has been postponed due to weather conditions.",
-      "link": "https://www.reddit.com/r/nba/comments/1qmqmg3/charania_nuggetsgrizzlies_game_in_memphis_today/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-25T18:13:18Z",
-      "id": "5bee9ce3edb05d3699c8e059ed01c485"
     },
     {
       "title": "Interviewing while being a key member of an org is tough, any strategies?",
@@ -894,14 +933,6 @@
       "id": "2c4c9630d06a5aef253ff391747d8587"
     },
     {
-      "title": "Hermes Proxy - Yet Another HTTP Traffic Analyzer",
-      "link": "https://www.reddit.com/r/programming/comments/1qmleiq/hermes_proxy_yet_another_http_traffic_analyzer/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-25T15:03:24Z",
-      "id": "cb442298c1e351096162c9c51fae73d3"
-    },
-    {
       "title": "Full Derrick Rose Jersey Retirement Ceremony",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1qmlbhe/full_derrick_rose_jersey_retirement_ceremony/",
       "source": "r/chicagobulls",
@@ -927,15 +958,6 @@
       "id": "bb8195101dd656a7d3b324266cd147f8"
     },
     {
-      "title": "Web-based image editor modeled after Deluxe Paint",
-      "link": "https://github.com/steffest/DPaint-js",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-25T12:54:53Z",
-      "id": "6fd0cab7ed405fdd87aebf5244e969ab",
-      "comments": "https://news.ycombinator.com/item?id=46753708"
-    },
-    {
       "title": "I got tired of manual priority weights in proxies so I used a Reverse Radix Tree instead",
       "link": "https://www.reddit.com/r/programming/comments/1qmhw95/i_got_tired_of_manual_priority_weights_in_proxies/",
       "source": "r/programming",
@@ -958,14 +980,6 @@
       "category": "sports",
       "published": "2026-01-25T11:38:07Z",
       "id": "8d69d268b1ae32d8411f2fe743f8ecc7"
-    },
-    {
-      "title": "Anatomy of the 2024 CrowdStrike outage: a single update, global impact",
-      "link": "https://www.reddit.com/r/programming/comments/1qmfv3y/anatomy_of_the_2024_crowdstrike_outage_a_single/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-25T10:38:43Z",
-      "id": "2fc65f28fb7e12a208fbfc60e42a7166"
     },
     {
       "title": "Clock ticking on seeing a game at Soldier Field",
@@ -1055,14 +1069,6 @@
       "category": "sports",
       "published": "2026-01-25T04:47:55Z",
       "id": "ad96ba85991a258b43c681cdbc41c621"
-    },
-    {
-      "title": "Stackmaxxing for a recursion world record",
-      "link": "https://www.reddit.com/r/programming/comments/1qm9ilz/stackmaxxing_for_a_recursion_world_record/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-25T04:44:58Z",
-      "id": "cb163574a6d4d090a9ddcee0c8063562"
     },
     {
       "title": "Patrick Williams with the fake and dunk!",
@@ -1362,14 +1368,6 @@
       "id": "8b9566dc1891b93b67bc9857fbce3bd3"
     },
     {
-      "title": "How do you stay updated with latest tech trends as a experienced developer?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qkf7sm/how_do_you_stay_updated_with_latest_tech_trends/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-23T03:01:06Z",
-      "id": "b3eb2e7fb232e15547afca57e433a2d7"
-    },
-    {
       "title": "New Staff Engineer needs advice on how to convince a team to use more modern stack?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qkemvq/new_staff_engineer_needs_advice_on_how_to/",
       "source": "r/ExperiencedDevs",
@@ -1378,29 +1376,22 @@
       "id": "b1a3b903be55f5645e7f62e25af293e6"
     },
     {
-      "title": "The Post Correspondence Programming Language: Domino-oriented Programming (2015)",
-      "link": "https://davidlazar.github.io/PCPL/",
+      "title": "Emissary, a fast open-source Java messaging library",
+      "link": "https://github.com/joel-jeremy/emissary",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-22T19:54:06Z",
-      "id": "a4a7bf33108925f67ba953e7fd026776",
-      "comments": "https://news.ycombinator.com/item?id=46724348"
+      "published": "2026-01-22T18:15:47Z",
+      "id": "09cdcde95255fee009a2028c506cdeeb",
+      "comments": "https://news.ycombinator.com/item?id=46723049"
     },
     {
-      "title": "How to deal with a teamlead who heavy depends on AI for coding",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qk4jm2/how_to_deal_with_a_teamlead_who_heavy_depends_on/",
-      "source": "r/ExperiencedDevs",
+      "title": "SFPark: Interactive map of SF parking regulations",
+      "link": "https://hugues.betakappaphi.com/2026/01/21/sfpark/",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-22T19:42:43Z",
-      "id": "90d95d279f4f588f062e6711fb3747a4"
-    },
-    {
-      "title": "New rule suggestion: Ban posts about AI",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qk1gnr/new_rule_suggestion_ban_posts_about_ai/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-22T17:52:51Z",
-      "id": "7e2522df635b1abccaa33eae1d33948d"
+      "published": "2026-01-22T15:58:09Z",
+      "id": "d285310cc2f76e7dca7b93c70a07a38b",
+      "comments": "https://news.ycombinator.com/item?id=46720987"
     },
     {
       "title": "Building a Real-Time HN Display for $15",
@@ -1412,15 +1403,6 @@
       "comments": "https://news.ycombinator.com/item?id=46719958"
     },
     {
-      "title": "Delta single handle ball faucets (1963)",
-      "link": "https://archive.org/details/DeltaSingleHandleBallFaucets",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-22T03:37:03Z",
-      "id": "11ec38457ab19bac848e28aa83eab44d",
-      "comments": "https://news.ycombinator.com/item?id=46714981"
-    },
-    {
       "title": "Things I've learned in my 10 years as an engineering manager",
       "link": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
       "source": "Hacker News",
@@ -1428,6 +1410,24 @@
       "published": "2026-01-21T18:11:13Z",
       "id": "889cfe0e60cf5196773e0d56566eab62",
       "comments": "https://news.ycombinator.com/item?id=46709270"
+    },
+    {
+      "title": "Wind Chime Length Calculator",
+      "link": "https://www.snyderfamily.com/chimecalcs/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-20T22:17:39Z",
+      "id": "77f9be2a7ed83c420fe987404262cd68",
+      "comments": "https://news.ycombinator.com/item?id=46698456"
+    },
+    {
+      "title": "Text Is King",
+      "link": "https://www.experimental-history.com/p/text-is-king",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-20T21:57:08Z",
+      "id": "867c4cafa5d84f97a0baf29c8dfe592b",
+      "comments": "https://news.ycombinator.com/item?id=46698264"
     },
     {
       "title": "Guix for Development",
