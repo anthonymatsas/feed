@@ -1,30 +1,154 @@
 {
-  "last_updated": "2026-01-28T09:30:40.505832Z",
+  "last_updated": "2026-01-28T12:41:11.593859Z",
   "items": [
     {
-      "title": "my code review bot was scanning files one by one. 90 seconds per PR.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qp6orz/my_code_review_bot_was_scanning_files_one_by_one/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-28T09:23:10Z",
-      "id": "1f3479d5db0f5d10d98b772eb88ab23b"
-    },
-    {
-      "title": "I Stopped Following the News",
-      "link": "https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-28T08:33:57Z",
-      "id": "5f8307c07eb72a6afd5e0acc357049d1",
-      "comments": "https://news.ycombinator.com/item?id=46792580"
-    },
-    {
-      "title": "High-Impact Practical AI prompts that actually help Java developers code, debug & learn faster",
-      "link": "https://www.reddit.com/r/programming/comments/1qp5uls/highimpact_practical_ai_prompts_that_actually/",
+      "title": "Why Your Post-Quantum Cryptography Strategy Must Start Now",
+      "link": "https://www.reddit.com/r/programming/comments/1qpa8dc/why_your_postquantum_cryptography_strategy_must/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-01-28T08:31:59Z",
-      "id": "069c87a9deab6e518f3689382e6508d4"
+      "published": "2026-01-28T12:38:27Z",
+      "id": "3fdb16a6d59938e6f33266f6b31a4b92"
+    },
+    {
+      "title": "CPUs with addressable cache?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qpa7cu/cpus_with_addressable_cache/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-28T12:37:04Z",
+      "id": "ebd65c561c4d4498e11ee65962344035"
+    },
+    {
+      "title": "Architecture for a \"Persistent Context\" Layer in CLI Tools (or: How to stop AI Amnesia)",
+      "link": "https://www.reddit.com/r/programming/comments/1qp9mdy/architecture_for_a_persistent_context_layer_in/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-28T12:08:43Z",
+      "id": "1256be0057cb15b5479c6adea13c273f"
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Staff Engineer",
+      "link": "https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-28T12:00:08Z",
+      "id": "a57bef3fa1b8688155b9a60a60671a33",
+      "comments": "https://news.ycombinator.com/item?id=46794231"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (January 27, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1qp9g2n/serious_next_day_thread_postgame_discussion/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-01-28T12:00:01Z",
+      "id": "649342b229e984dfdd738fa23fda9aa4"
+    },
+    {
+      "title": "How ChatGPT Apps Work",
+      "link": "https://www.reddit.com/r/programming/comments/1qp9cg7/how_chatgpt_apps_work/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-28T11:54:59Z",
+      "id": "314fc71bc75c7b8dc85481241c9c4433"
+    },
+    {
+      "title": "Agentic Memory Poisoning: How Long-Term AI Context Can Be Weaponized",
+      "link": "https://www.reddit.com/r/programming/comments/1qp94gs/agentic_memory_poisoning_how_longterm_ai_context/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-28T11:43:37Z",
+      "id": "773e921f2c37ed32929125bc9dedf2e4"
+    },
+    {
+      "title": "Building Modular Applications with V",
+      "link": "https://www.reddit.com/r/programming/comments/1qp8xy8/building_modular_applications_with_v/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-28T11:34:00Z",
+      "id": "972dd880d85fdf1d5841f4d0c6988892"
+    },
+    {
+      "title": "Google just gave us an accidental first look at Android's PC future",
+      "link": "https://www.androidauthority.com/google-aluminium-os-first-look-bug-report-3635801/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-28T10:55:48Z",
+      "id": "7c80a9a95eb2f81fc68cdfe440ddc32e",
+      "comments": "https://news.ycombinator.com/item?id=46793721"
+    },
+    {
+      "title": "Show HN: The HN Arcade",
+      "link": "https://andrewgy8.github.io/hnarcade/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-28T10:50:32Z",
+      "id": "359672a97b4c6e7ae21bf44ea804ec7b",
+      "comments": "https://news.ycombinator.com/item?id=46793693"
+    },
+    {
+      "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
+      "link": "https://www.reddit.com/r/programming/comments/1qp836e/cloudflare_claimed_they_implemented_matrix_on/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-28T10:46:46Z",
+      "id": "9480db005fd31d6029aca9d7ce1c1839"
+    },
+    {
+      "title": "If you could use an \"AI Chief of Staff\" to banish one meeting/task forever, which would it be?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qp831a/if_you_could_use_an_ai_chief_of_staff_to_banish/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-28T10:46:33Z",
+      "id": "8ac4adfa4334b72ddb8b85a8a6cd5110"
+    },
+    {
+      "title": "Selectively Disabling HTTP/1.0 and HTTP/1.1",
+      "link": "https://www.reddit.com/r/programming/comments/1qp7yqj/selectively_disabling_http10_and_http11/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-28T10:39:46Z",
+      "id": "29a5f572def550b879dca61841b8a04b"
+    },
+    {
+      "title": "Agent Skills Threat Model",
+      "link": "https://www.reddit.com/r/programming/comments/1qp7ucj/agent_skills_threat_model/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-28T10:32:35Z",
+      "id": "8c37d6fb8d4a864e40feaffe75efad43"
+    },
+    {
+      "title": "Speed Up Your Spring Boot App Startup by 33% With No Code Change",
+      "link": "https://www.reddit.com/r/programming/comments/1qp7dxs/speed_up_your_spring_boot_app_startup_by_33_with/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-01-28T10:06:04Z",
+      "id": "930e46fe7199fc5e1f326d2c1418b820"
+    },
+    {
+      "title": "every rewrite I've seen has taken 3x longer than promised and the team always acts surprised",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qp7b6a/every_rewrite_ive_seen_has_taken_3x_longer_than/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-01-28T10:01:31Z",
+      "id": "5262a9e86e95a4fff0ddda598ac36011"
+    },
+    {
+      "title": "Devuan \u2013 Debian Without Systemd",
+      "link": "https://www.devuan.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-28T08:58:28Z",
+      "id": "4b54af349e12f73dde6dde5c6124457d",
+      "comments": "https://news.ycombinator.com/item?id=46792783"
+    },
+    {
+      "title": "Virtual Boy on TV with Intelligent Systems Video Boy",
+      "link": "https://hcs64.com/video-boy-vue/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-28T08:32:50Z",
+      "id": "0335d84188f5890a7a72305db6b7eb3a",
+      "comments": "https://news.ycombinator.com/item?id=46792572"
     },
     {
       "title": "Experienced devs in software jobs \u2014 what\u2019s your long-term backup plan?",
@@ -43,28 +167,12 @@
       "id": "3bc3f5a56896979ee62c204dd61d38e0"
     },
     {
-      "title": "ASM is way easier than many programming languages",
-      "link": "https://www.reddit.com/r/programming/comments/1qp5dhu/asm_is_way_easier_than_many_programming_languages/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-28T08:03:29Z",
-      "id": "6fbf7deac3e8c842a5903366017ecfa1"
-    },
-    {
-      "title": "If you're building with AI agents, here's what's attacking your users - 74K interactions analysed",
-      "link": "https://www.reddit.com/r/programming/comments/1qp5d45/if_youre_building_with_ai_agents_heres_whats/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-28T08:02:52Z",
-      "id": "98a11018a0c36ecc6d7b08e2619b7ef6"
-    },
-    {
-      "title": "ASML firing 1700 people, mostly managers",
-      "link": "https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/",
+      "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
+      "link": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-28T08:02:42Z",
-      "id": "86de181bac4ffd7c18850a647350eac4",
+      "id": "ae0ff32638f43c4bcc0b3d630fad83ba",
       "comments": "https://news.ycombinator.com/item?id=46792370"
     },
     {
@@ -77,28 +185,12 @@
       "comments": "https://news.ycombinator.com/item?id=46792194"
     },
     {
-      "title": "Free tool to compare programming language syntax side-by-side",
-      "link": "https://www.reddit.com/r/programming/comments/1qp4ghq/free_tool_to_compare_programming_language_syntax/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-28T07:09:39Z",
-      "id": "bed2d322eee68e730b7122355b22e19f"
-    },
-    {
       "title": "Judging at a hackathon if anyone would like to join ($100 prize)",
       "link": "https://www.reddit.com/r/programming/comments/1qp45oq/judging_at_a_hackathon_if_anyone_would_like_to/",
       "source": "r/programming",
       "category": "tech",
       "published": "2026-01-28T06:52:27Z",
       "id": "ab3a73b5af27b570031da9d64603bff5"
-    },
-    {
-      "title": "It wasn\u2019t Bill Polian. It was Robert Kraft.",
-      "link": "https://www.reddit.com/r/nfl/comments/1qp3yxq/it_wasnt_bill_polian_it_was_robert_kraft/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-01-28T06:42:01Z",
-      "id": "833c5d0c8786f4ca4c1c6fdfc060d57d"
     },
     {
       "title": "Lost my job and with 7 years of Dev & DevOps experience and 4 years in related IT fields",
@@ -150,12 +242,12 @@
       "id": "9f28062a329406ec457a7602fc5de7dd"
     },
     {
-      "title": "Bill Polian denies influencing the Bill B snub",
-      "link": "https://www.reddit.com/r/nfl/comments/1qp20gm/bill_polian_denies_influencing_the_bill_b_snub/",
+      "title": "[Highlight] Seahawks coaches praise Sam Darnold during post game celebration",
+      "link": "https://www.reddit.com/r/nfl/comments/1qp20np/highlight_seahawks_coaches_praise_sam_darnold/",
       "source": "r/nfl",
       "category": "sports",
-      "published": "2026-01-28T04:59:08Z",
-      "id": "66bec5fa816c4b3082366022ca6fe8b0"
+      "published": "2026-01-28T04:59:24Z",
+      "id": "9e669903607886287fbd57083278316d"
     },
     {
       "title": "[Stein] League sources say that Jeremy Sochan and his representation have received permission from the Spurs to explore the landscape for a potential new home via trade.",
@@ -222,14 +314,6 @@
       "id": "e330093d18334ae13c88318b4cd23323"
     },
     {
-      "title": "JSON vs XML in Embedded Linux - system design trade-offs",
-      "link": "https://www.reddit.com/r/programming/comments/1qp07z1/json_vs_xml_in_embedded_linux_system_design/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-28T03:34:19Z",
-      "id": "bedd69ce5fa0206457f9f66c27135f44"
-    },
-    {
       "title": "[Altercation] Dort and Fears get into a shoving match after the buzzer",
       "link": "https://www.reddit.com/r/nba/comments/1qp078v/altercation_dort_and_fears_get_into_a_shoving/",
       "source": "r/nba",
@@ -294,14 +378,6 @@
       "id": "9c1c9d68610de320cbf5fbf2d424049c"
     },
     {
-      "title": "Voter Explains Bill B Snub for 2026 Hall of Fame Class, Bill Polian's Reported Role",
-      "link": "https://www.reddit.com/r/nfl/comments/1qoyce9/voter_explains_bill_b_snub_for_2026_hall_of_fame/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-01-28T02:12:58Z",
-      "id": "bdc3e001404ad4ee20a56953361f7ea1"
-    },
-    {
       "title": "[Highlight] Joel Embiid just caught a transition lob for a monster dunk. The Sixers' big man couldn't believe it himself.",
       "link": "https://www.reddit.com/r/nba/comments/1qoy9j3/highlight_joel_embiid_just_caught_a_transition/",
       "source": "r/nba",
@@ -318,13 +394,12 @@
       "id": "04fb0d6bccbebffe9a3c914cec1f1838"
     },
     {
-      "title": "AISLE\u2019s autonomous analyzer found all CVEs in the January OpenSSL release",
-      "link": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-28T01:38:15Z",
-      "id": "d50dd30fa2039ba60c8eec2150bbc6c6",
-      "comments": "https://news.ycombinator.com/item?id=46789913"
+      "title": "[Rapoport] Context for the Bills hiring Joe Brady as HC: He was a wanted man. \u2014 Brady was very high on the Ravens list for OC. \u2014 Sean Payton wanted Brady as OC, perhaps even with play-calling. Instead, the Bills make sure he stays.",
+      "link": "https://www.reddit.com/r/nfl/comments/1qoxifn/rapoport_context_for_the_bills_hiring_joe_brady/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-01-28T01:37:12Z",
+      "id": "4858c038be251779c7d5d7e88264b933"
     },
     {
       "title": "[Highlight] The Patriots dismantle the Colts' offense, intercepting Peyton Manning 4 times on the way to Super Bowl 38. Bill Polian would complain to the league about the Patriots defensive game plan after, resulting in rule changes.",
@@ -381,14 +456,6 @@
       "category": "sports",
       "published": "2026-01-28T00:31:17Z",
       "id": "af098ecbc2d796886066a0c3a7ef388d"
-    },
-    {
-      "title": "Simplify Local Development for Distributed Systems",
-      "link": "https://www.reddit.com/r/programming/comments/1qovns4/simplify_local_development_for_distributed_systems/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-28T00:19:00Z",
-      "id": "451fa46646598cc2bd15384fc47d0a35"
     },
     {
       "title": "[Schefter] Text from an NFL executive: \u201cThe 10+ people that didn\u2019t vote for BB should be exposed. WTF. This is crazy.\u201d",
@@ -634,14 +701,6 @@
       "id": "fa3bdabacdd228bd4c61cb97b1de5aa3"
     },
     {
-      "title": "Panoptic Segmentation using Detectron2",
-      "link": "https://www.reddit.com/r/programming/comments/1qopi7p/panoptic_segmentation_using_detectron2/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-27T20:26:52Z",
-      "id": "5d26d27aa359096262ad353d3ded9af3"
-    },
-    {
       "title": "GNU C Library moving from Sourceware to Linux Foundation hosted CTI",
       "link": "https://www.reddit.com/r/programming/comments/1qophgl/gnu_c_library_moving_from_sourceware_to_linux/",
       "source": "r/programming",
@@ -666,23 +725,6 @@
       "id": "980121f26f8c1ab298083825503d3202"
     },
     {
-      "title": "Glaze is getting even faster \u2013 SIMD refactoring and crazy whitespace skipping in the works",
-      "link": "https://www.reddit.com/r/programming/comments/1qoonvl/glaze_is_getting_even_faster_simd_refactoring_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-27T19:57:07Z",
-      "id": "e4001f9faaa57edeecd972478e84b5b0"
-    },
-    {
-      "title": "Try text scaling support in Chrome Canary",
-      "link": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-27T19:20:24Z",
-      "id": "73f54661c22ac2db32ad1c8c0a9afa14",
-      "comments": "https://news.ycombinator.com/item?id=46784977"
-    },
-    {
       "title": "[Daughtery] The Jets, who did not fire their head coach, now up to eight fired assistants following Aaron Glenn's first season",
       "link": "https://www.reddit.com/r/nfl/comments/1qondji/daughtery_the_jets_who_did_not_fire_their_head/",
       "source": "r/nfl",
@@ -705,6 +747,14 @@
       "category": "sports",
       "published": "2026-01-27T19:09:32Z",
       "id": "53e2df2c336f67bb4ea42769ade11626"
+    },
+    {
+      "title": "[Sicilliano] Do you want Aaron Rodgers back as your QB? Mike McCarthy: \"Definitely, I don't know why you wouldn't.\"",
+      "link": "https://www.reddit.com/r/nfl/comments/1qonaco/sicilliano_do_you_want_aaron_rodgers_back_as_your/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-01-27T19:08:43Z",
+      "id": "5ebe71e0293ae446f7a0a4892e62ce42"
     },
     {
       "title": "[Zach Kram] Bulls encouraged by recent play, cite flexibility at the deadline",
@@ -787,15 +837,6 @@
       "published": "2026-01-27T18:03:10Z",
       "id": "91ecbec1a3a614984ebcb2d1b875d06f",
       "comments": "https://news.ycombinator.com/item?id=46783752"
-    },
-    {
-      "title": "Show HN: LemonSlice \u2013 Upgrade your voice agents to real-time video",
-      "link": "https://news.ycombinator.com/item?id=46783600",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-27T17:55:15Z",
-      "id": "e1128b4ec580b995422d777cdcaa5d1e",
-      "comments": "https://news.ycombinator.com/item?id=46783600"
     },
     {
       "title": "I can DREAMMNM",
@@ -939,14 +980,6 @@
       "comments": "https://news.ycombinator.com/item?id=46781444"
     },
     {
-      "title": "PC Port of Banjo-Kazooie made using N64: Recompiled",
-      "link": "https://www.reddit.com/r/programming/comments/1qogvk1/pc_port_of_banjokazooie_made_using_n64_recompiled/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-01-27T15:26:17Z",
-      "id": "a23a3a54b076bd51d6ee7f7a5b000b02"
-    },
-    {
       "title": "[Jaylen Brown] \u201cI've sacrificed over the years for us to be a championship-caliber team. Now we\u2019re seeing what I was sacrificing. Being at the helm, and us being 2nd in the east, versus last year we finished 2nd in the east. It's almost been no drop off with five players that are essentially gone.\u201d",
       "link": "https://www.reddit.com/r/nba/comments/1qogu2q/jaylen_brown_ive_sacrificed_over_the_years_for_us/",
       "source": "r/nba",
@@ -961,14 +994,6 @@
       "category": "sports",
       "published": "2026-01-27T15:01:11Z",
       "id": "06979bb37e5278dc4c75cf5018bfacca"
-    },
-    {
-      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (January 26, 2026)",
-      "link": "https://www.reddit.com/r/nba/comments/1qofh4s/serious_next_day_thread_postgame_discussion/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-01-27T14:34:07Z",
-      "id": "da64b8cd889f0313da8fcb81d7162666"
     },
     {
       "title": "Devs in regulated fields - do you think AI usage will result in extra requirements in SDLC cycle? Is proving devs \u2018understand\u2019 what they submit essential if they didn\u2019t hand write code?",
@@ -1239,14 +1264,6 @@
       "id": "b1134e15e9156ac9edd24eb8c8bd2a99"
     },
     {
-      "title": "Which type of integer for index ?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qnnnpy/which_type_of_integer_for_index/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-26T18:05:24Z",
-      "id": "fbda3b1debf3188c444953fe52fa9037"
-    },
-    {
       "title": "Equity too low after massive contribution to startup?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qnn0al/equity_too_low_after_massive_contribution_to/",
       "source": "r/ExperiencedDevs",
@@ -1359,14 +1376,6 @@
       "id": "2a249bccf660ec8b874e01f5f967f4f4"
     },
     {
-      "title": "Interviewing while being a key member of an org is tough, any strategies?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qmqj9s/interviewing_while_being_a_key_member_of_an_org/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-01-25T18:10:04Z",
-      "id": "e0ce0b12355959946a1c3d30f4a35d27"
-    },
-    {
       "title": "Thirty Years of the Square Kilometre Array",
       "link": "https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/",
       "source": "Hacker News",
@@ -1376,13 +1385,22 @@
       "comments": "https://news.ycombinator.com/item?id=46756311"
     },
     {
-      "title": "Bridging the Gap Between PLECS and SPICE",
-      "link": "https://erickschulz.dev/posts/plecs-spice/",
+      "title": "Aperture: Senior QA (2004-2005)",
+      "link": "https://substack.techreflect.org/p/aperture-senior-qa-2004-2005",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-25T10:44:08Z",
-      "id": "2b68f29255c0fac31f37559643b4bf18",
-      "comments": "https://news.ycombinator.com/item?id=46752841"
+      "published": "2026-01-25T11:40:34Z",
+      "id": "36c0c1e46580b10c79347c5e36db1f67",
+      "comments": "https://news.ycombinator.com/item?id=46753199"
+    },
+    {
+      "title": "I Made a MIT Licensed Mecrisp-Stellaris Language Server",
+      "link": "https://mecrisp-stellaris-folkdoc.sourceforge.io/mecrisp-stellaris-lsp.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-25T09:08:57Z",
+      "id": "50779077534530369c11057ec30fedd7",
+      "comments": "https://news.ycombinator.com/item?id=46752172"
     },
     {
       "title": "Officially official. \ud83c\udf39",
@@ -1418,15 +1436,6 @@
       "comments": "https://news.ycombinator.com/item?id=46741150"
     },
     {
-      "title": "I found the perfect yearly calendar (for me)",
-      "link": "https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-23T23:12:19Z",
-      "id": "0ad085d32c9576fdb662583ea3958272",
-      "comments": "https://news.ycombinator.com/item?id=46739257"
-    },
-    {
       "title": "There's only one Woz, but we can all learn from him",
       "link": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
       "source": "Hacker News",
@@ -1445,13 +1454,13 @@
       "comments": "https://news.ycombinator.com/item?id=46735152"
     },
     {
-      "title": "Extremophile molds are invading art museums",
-      "link": "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/",
+      "title": "Pandas 3.0",
+      "link": "https://pandas.pydata.org/community/blog/pandas-3.0.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-23T12:05:11Z",
-      "id": "211bf2b7eadbd636d741912243c07478",
-      "comments": "https://news.ycombinator.com/item?id=46731513"
+      "published": "2026-01-23T16:45:47Z",
+      "id": "24d13601ff0781ad559a8a848aa5f312",
+      "comments": "https://news.ycombinator.com/item?id=46734641"
     },
     {
       "title": "SVG Path Editor",
@@ -1461,15 +1470,6 @@
       "published": "2026-01-22T23:06:05Z",
       "id": "bd667bd9a839ee76b240a2b59699f1f5",
       "comments": "https://news.ycombinator.com/item?id=46726269"
-    },
-    {
-      "title": "The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC)",
-      "link": "http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-22T18:49:56Z",
-      "id": "72a8687ae62c6b7b0399f1565e66c36e",
-      "comments": "https://news.ycombinator.com/item?id=46723521"
     }
   ]
 }
