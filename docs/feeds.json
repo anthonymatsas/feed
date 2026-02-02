@@ -1,14 +1,104 @@
 {
-  "last_updated": "2026-02-02T15:34:21.943118Z",
+  "last_updated": "2026-02-02T18:37:40.952164Z",
   "items": [
     {
-      "title": "Greenland tensions harden Europe's push for energy independence",
-      "link": "https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961",
+      "title": "EPA Advances Farmers' Right to Repair",
+      "link": "https://www.epa.gov/newsreleases/epa-advances-farmers-right-repair-their-own-equipment-saving-repair-costs-and",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-02T15:14:36Z",
-      "id": "51b31321b4848c4f09d00972ea31e147",
-      "comments": "https://news.ycombinator.com/item?id=46856928"
+      "published": "2026-02-02T18:07:55Z",
+      "id": "32e74a5a6d47be7e5a708f8ef0b5d715",
+      "comments": "https://news.ycombinator.com/item?id=46859118"
+    },
+    {
+      "title": "The Codex App",
+      "link": "https://openai.com/index/introducing-the-codex-app/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T18:02:48Z",
+      "id": "297381838998efdee2ab78143572199d",
+      "comments": "https://news.ycombinator.com/item?id=46859054"
+    },
+    {
+      "title": "Advancing AI Benchmarking with Game Arena",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T17:49:07Z",
+      "id": "360930421847cd6f52f20744d97af7c6",
+      "comments": "https://news.ycombinator.com/item?id=46858873"
+    },
+    {
+      "title": "Linux From Scratch Ends SysVinit Support",
+      "link": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T17:45:27Z",
+      "id": "c6774bd3b73e0cd122bb37240f4c136f",
+      "comments": "https://news.ycombinator.com/item?id=46858829"
+    },
+    {
+      "title": "Being sane in insane places (1973) [pdf]",
+      "link": "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T17:43:14Z",
+      "id": "47e469f81029a377abd6872e9847124c",
+      "comments": "https://news.ycombinator.com/item?id=46858802"
+    },
+    {
+      "title": "Todd C. Miller \u2013 sudo Maintainer for over 30 years",
+      "link": "https://www.millert.dev/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T17:25:26Z",
+      "id": "ee52938843a356c86d3c66adc5359d84",
+      "comments": "https://news.ycombinator.com/item?id=46858577"
+    },
+    {
+      "title": "Hacking Moltbook: The AI Social Network Any Human Can Control",
+      "link": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T16:08:36Z",
+      "id": "af54be22c4cbe6dc03392efab119dc12",
+      "comments": "https://news.ycombinator.com/item?id=46857615"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (February 2026)",
+      "link": "https://news.ycombinator.com/item?id=46857488",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T16:01:30Z",
+      "id": "9d07b919acfb6925bcee8e4f8b194316",
+      "comments": "https://news.ycombinator.com/item?id=46857488"
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (February 2026)",
+      "link": "https://news.ycombinator.com/item?id=46857487",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T16:01:30Z",
+      "id": "3012be50104ee5bd786f1b7848576097",
+      "comments": "https://news.ycombinator.com/item?id=46857487"
+    },
+    {
+      "title": "Kernighan on Programming",
+      "link": "https://news.ycombinator.com/item?id=46857444",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T15:57:32Z",
+      "id": "3437cc500040d9c004d37224ad3e2ccf",
+      "comments": "https://news.ycombinator.com/item?id=46857444"
+    },
+    {
+      "title": "Show HN: Stelvio \u2013 Ship Python to AWS",
+      "link": "https://stelvio.dev/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T15:12:39Z",
+      "id": "dfc60a51c2293e4b212e804dc320105f",
+      "comments": "https://news.ycombinator.com/item?id=46856899"
     },
     {
       "title": "Geologists may have solved mystery of Green River's 'uphill' route",
@@ -18,15 +108,6 @@
       "published": "2026-02-02T13:29:13Z",
       "id": "fd6f50f8ce0c51fc4ba005102d1d8576",
       "comments": "https://news.ycombinator.com/item?id=46855803"
-    },
-    {
-      "title": "MaliciousCorgi: AI Extensions send your code to China",
-      "link": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T12:59:58Z",
-      "id": "fc89649205a278f53b1d0df9b7f05d0a",
-      "comments": "https://news.ycombinator.com/item?id=46855527"
     },
     {
       "title": "Nano-vLLM: How a vLLM-style inference engine works",
@@ -47,15 +128,6 @@
       "comments": "https://news.ycombinator.com/item?id=46854999"
     },
     {
-      "title": "Microsoft is walking back Windows 11's AI overload",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T11:52:29Z",
-      "id": "190d2c64353fe04283c1ad3b74a6e3a7",
-      "comments": "https://news.ycombinator.com/item?id=46854951"
-    },
-    {
       "title": "Termux",
       "link": "https://github.com/termux/termux-app",
       "source": "Hacker News",
@@ -74,15 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=46854534"
     },
     {
-      "title": "EU launches government satcom program in sovereignty push",
-      "link": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T08:59:40Z",
-      "id": "3950724c2c72d14e766872f19199a881",
-      "comments": "https://news.ycombinator.com/item?id=46853888"
-    },
-    {
       "title": "Library of Juggling",
       "link": "https://libraryofjuggling.com/",
       "source": "Hacker News",
@@ -92,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=46853552"
     },
     {
-      "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
-      "link": "https://www.wired.com/story/the-red-bull-leaks/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T05:10:59Z",
-      "id": "79a7bfa34adb46b1c8761c8f94ab9023",
-      "comments": "https://news.ycombinator.com/item?id=46852660"
-    },
-    {
       "title": "Apple's MacBook Pro DFU port documentation is wrong",
       "link": "https://lapcatsoftware.com/articles/2026/2/1.html",
       "source": "Hacker News",
@@ -108,15 +162,6 @@
       "published": "2026-02-02T03:29:55Z",
       "id": "653cc04e64bb6905461fc6c028387f10",
       "comments": "https://news.ycombinator.com/item?id=46852096"
-    },
-    {
-      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
-      "link": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T01:11:15Z",
-      "id": "2aced1326759d32ef3af5916deb4a06b",
-      "comments": "https://news.ycombinator.com/item?id=46851192"
     },
     {
       "title": "Show HN: Wikipedia as a doomscrollable social media feed",
@@ -155,15 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=46849258"
     },
     {
-      "title": "Building Your Own Efficient uint128 in C++",
-      "link": "https://solidean.com/blog/2026/building-your-own-u128/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T20:40:45Z",
-      "id": "50a559980c14c11e624401bb77831dcc",
-      "comments": "https://news.ycombinator.com/item?id=46849154"
-    },
-    {
       "title": "Ian's Shoelace Site",
       "link": "https://www.fieggen.com/shoelace/",
       "source": "Hacker News",
@@ -171,42 +207,6 @@
       "published": "2026-02-01T18:38:04Z",
       "id": "b77682b220e8247cac9fc9b5781d832a",
       "comments": "https://news.ycombinator.com/item?id=46848231"
-    },
-    {
-      "title": "Apple I Advertisement (1976)",
-      "link": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T17:36:57Z",
-      "id": "d46f3e3e8c92c51ccddb97bdfe08bd0c",
-      "comments": "https://news.ycombinator.com/item?id=46847780"
-    },
-    {
-      "title": "Adventure Game Studio: OSS software for creating adventure games",
-      "link": "https://www.adventuregamestudio.co.uk/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T13:56:56Z",
-      "id": "d824aa4127e52ef306b634ccb251217b",
-      "comments": "https://news.ycombinator.com/item?id=46846252"
-    },
-    {
-      "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
-      "link": "https://github.com/rustrum/apate",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T10:29:07Z",
-      "id": "712be9bbbbadcdd85d3df3e73d37b661",
-      "comments": "https://news.ycombinator.com/item?id=46845097"
-    },
-    {
-      "title": "Contracts in Nix",
-      "link": "https://sraka.xyz/posts/contracts.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T08:15:21Z",
-      "id": "8aa956690bb77ac59a10ea0ab43dc9d2",
-      "comments": "https://news.ycombinator.com/item?id=46844466"
     },
     {
       "title": "Hypergrowth isn\u2019t always easy",
@@ -218,31 +218,31 @@
       "comments": "https://news.ycombinator.com/item?id=46830026"
     },
     {
-      "title": "Efficient String Compression for Modern Database Systems",
-      "link": "https://cedardb.com/blog/string_compression/",
+      "title": "IsoCoaster \u2013 Theme Park Builder",
+      "link": "https://iso-coaster.com/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-30T16:02:53Z",
-      "id": "4aaa59a46d0e398b861b6ad0629ed4c9",
-      "comments": "https://news.ycombinator.com/item?id=46826011"
+      "published": "2026-01-30T17:11:55Z",
+      "id": "4775afd0ddc01e06a1a5b476ba1e4a4a",
+      "comments": "https://news.ycombinator.com/item?id=46826991"
     },
     {
-      "title": "Board Games in Ancient Fiction: Egypt, Iran, Greece",
-      "link": "https://reference-global.com/article/10.2478/bgs-2022-0016",
+      "title": "Solvingn the Santa Claus concurrency puzzle with a model checker",
+      "link": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-30T13:29:44Z",
-      "id": "136b6b53d0763215e0e00404b1d7d826",
-      "comments": "https://news.ycombinator.com/item?id=46824147"
+      "published": "2026-01-30T13:55:16Z",
+      "id": "1dfb59408196daf006b07a0f12ad0d62",
+      "comments": "https://news.ycombinator.com/item?id=46824398"
     },
     {
-      "title": "Rev up the viral factories",
-      "link": "https://www.science.org/content/blog-post/rev-viral-factories",
+      "title": "They lied to you. Building software is hard",
+      "link": "https://blog.nordcraft.com/they-lied-to-you-building-software-is-really-hard",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-30T11:02:16Z",
-      "id": "0ebbce07e7c13e9e0899a1286d4c04b2",
-      "comments": "https://news.ycombinator.com/item?id=46822961"
+      "published": "2026-01-30T12:33:31Z",
+      "id": "cf655a15d8f9d93c37813b4dee3c509d",
+      "comments": "https://news.ycombinator.com/item?id=46823725"
     },
     {
       "title": "4x faster network file sync with rclone (vs rsync) (2025)",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=46814340"
     },
     {
-      "title": "Best Gas Masks",
-      "link": "https://www.theverge.com/policy/868571/best-gas-masks",
+      "title": "Valanza \u2013 my Unix way for weight tracking and anlysis",
+      "link": "https://github.com/paolomarrone/valanza",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-29T18:01:54Z",
-      "id": "f57003737e22a53f734eede35cec7123",
-      "comments": "https://news.ycombinator.com/item?id=46813867"
+      "published": "2026-01-29T15:08:11Z",
+      "id": "0bf0092b4253fb5a19a3b6a641f74dbd",
+      "comments": "https://news.ycombinator.com/item?id=46811207"
     }
   ]
 }
