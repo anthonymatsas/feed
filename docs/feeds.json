@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-02-02T09:42:49.084831Z",
+  "last_updated": "2026-02-02T12:51:53.604671Z",
   "items": [
+    {
+      "title": "Applications where agents are first-class citizens",
+      "link": "https://every.to/guides/agent-native",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T11:59:32Z",
+      "id": "025e6ddbbf35f1c22deb8aada06b09e3",
+      "comments": "https://news.ycombinator.com/item?id=46855003"
+    },
+    {
+      "title": "Claude Code is suddenly everywhere inside Microsoft",
+      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T11:58:58Z",
+      "id": "200a23b8b458ca5ad154d3df467aba2e",
+      "comments": "https://news.ycombinator.com/item?id=46854999"
+    },
+    {
+      "title": "Microsoft is walking back Windows 11's AI overload",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T11:52:29Z",
+      "id": "190d2c64353fe04283c1ad3b74a6e3a7",
+      "comments": "https://news.ycombinator.com/item?id=46854951"
+    },
+    {
+      "title": "Termux",
+      "link": "https://github.com/termux/termux-app",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T11:03:44Z",
+      "id": "657cef72d88db68dd8691cc0b8e5a991",
+      "comments": "https://news.ycombinator.com/item?id=46854642"
+    },
+    {
+      "title": "My (very) fast zero-allocation webserver using OxCaml",
+      "link": "https://anil.recoil.org/notes/oxcaml-httpz",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T10:45:44Z",
+      "id": "7a6aa6cf203997914f6a4bd88b2bd509",
+      "comments": "https://news.ycombinator.com/item?id=46854534"
+    },
+    {
+      "title": "EU launches government satcom program in sovereignty push",
+      "link": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T08:59:40Z",
+      "id": "3950724c2c72d14e766872f19199a881",
+      "comments": "https://news.ycombinator.com/item?id=46853888"
+    },
+    {
+      "title": "Library of Juggling",
+      "link": "https://libraryofjuggling.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T07:58:49Z",
+      "id": "4b1784f0f51f1ad2c3e49f7d4b31cf27",
+      "comments": "https://news.ycombinator.com/item?id=46853552"
+    },
     {
       "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
       "link": "https://www.wired.com/story/the-red-bull-leaks/",
@@ -18,15 +81,6 @@
       "published": "2026-02-02T03:29:55Z",
       "id": "653cc04e64bb6905461fc6c028387f10",
       "comments": "https://news.ycombinator.com/item?id=46852096"
-    },
-    {
-      "title": "Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy",
-      "link": "https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T03:02:55Z",
-      "id": "59266a9f72d88ab0bf45fba0c435f5ac",
-      "comments": "https://news.ycombinator.com/item?id=46851922"
     },
     {
       "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
@@ -110,24 +164,6 @@
       "comments": "https://news.ycombinator.com/item?id=46849154"
     },
     {
-      "title": "Teaching my neighbor to keep the volume down",
-      "link": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T19:00:46Z",
-      "id": "96458832db5d4c0316d69dcd9a9d12cb",
-      "comments": "https://news.ycombinator.com/item?id=46848415"
-    },
-    {
-      "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
-      "link": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T18:41:54Z",
-      "id": "a4d540bc79b987a9c927113220ead861",
-      "comments": "https://news.ycombinator.com/item?id=46848260"
-    },
-    {
       "title": "Ian's Shoelace Site",
       "link": "https://www.fieggen.com/shoelace/",
       "source": "Hacker News",
@@ -135,24 +171,6 @@
       "published": "2026-02-01T18:38:04Z",
       "id": "b77682b220e8247cac9fc9b5781d832a",
       "comments": "https://news.ycombinator.com/item?id=46848231"
-    },
-    {
-      "title": "Towards a science of scaling agent systems: When and why agent systems work",
-      "link": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T18:00:30Z",
-      "id": "9ceb9b047662e22fc3834eaeb03bb7df",
-      "comments": "https://news.ycombinator.com/item?id=46847958"
-    },
-    {
-      "title": "A Crisis comes to Wordle: Reusing old words",
-      "link": "https://forkingmad.blog/wordle-crisis/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T17:54:55Z",
-      "id": "e20c6e6f7d5e27bab75d30d14a9712e7",
-      "comments": "https://news.ycombinator.com/item?id=46847924"
     },
     {
       "title": "Apple I Advertisement (1976)",
@@ -173,31 +191,13 @@
       "comments": "https://news.ycombinator.com/item?id=46846252"
     },
     {
-      "title": "Amiga Unix (Amix)",
-      "link": "https://www.amigaunix.com/doku.php/home",
+      "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
+      "link": "https://github.com/rustrum/apate",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-01T10:57:20Z",
-      "id": "0d1313f467664deda1225c7250e7c442",
-      "comments": "https://news.ycombinator.com/item?id=46845244"
-    },
-    {
-      "title": "FOSDEM 2026 \u2013 Open-Source Conference in Brussels \u2013 Day#1 Recap",
-      "link": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T10:30:41Z",
-      "id": "6a03c14d331f07750d707552a228c500",
-      "comments": "https://news.ycombinator.com/item?id=46845103"
-    },
-    {
-      "title": "Netbird \u2013 Open Source Zero Trust Networking",
-      "link": "https://netbird.io/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T09:44:01Z",
-      "id": "a1d6fcbcea26aefaa857469af22d2638",
-      "comments": "https://news.ycombinator.com/item?id=46844870"
+      "published": "2026-02-01T10:29:07Z",
+      "id": "712be9bbbbadcdd85d3df3e73d37b661",
+      "comments": "https://news.ycombinator.com/item?id=46845097"
     },
     {
       "title": "Contracts in Nix",
@@ -209,13 +209,13 @@
       "comments": "https://news.ycombinator.com/item?id=46844466"
     },
     {
-      "title": "Soldering Prototypes with Enamel Magnet Wire (2020)",
-      "link": "https://tomverbeure.github.io/2020/02/22/In-The-Lab-Magnet-Wire-Soldering.html",
+      "title": "Hypergrowth isn't always easy",
+      "link": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-30T21:40:24Z",
-      "id": "645459216e2f003cd9ed2297ffde4431",
-      "comments": "https://news.ycombinator.com/item?id=46830290"
+      "published": "2026-01-30T21:17:21Z",
+      "id": "c99903b79940e1a61bc3f7bf66f92fcf",
+      "comments": "https://news.ycombinator.com/item?id=46830026"
     },
     {
       "title": "Efficient String Compression for Modern Database Systems",
@@ -227,6 +227,15 @@
       "comments": "https://news.ycombinator.com/item?id=46826011"
     },
     {
+      "title": "Board Games in Ancient Fiction: Egypt, Iran, Greece",
+      "link": "https://reference-global.com/article/10.2478/bgs-2022-0016",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-30T13:29:44Z",
+      "id": "136b6b53d0763215e0e00404b1d7d826",
+      "comments": "https://news.ycombinator.com/item?id=46824147"
+    },
+    {
       "title": "Rev Up the Viral Factories",
       "link": "https://www.science.org/content/blog-post/rev-viral-factories",
       "source": "Hacker News",
@@ -234,15 +243,6 @@
       "published": "2026-01-30T11:02:16Z",
       "id": "9a56354d83d917c6c91e7f548e73f03b",
       "comments": "https://news.ycombinator.com/item?id=46822961"
-    },
-    {
-      "title": "Founding is a snowball",
-      "link": "https://blog.bawolf.com/p/founding-is-a-snowball",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-29T18:46:33Z",
-      "id": "f6b4d17388effe150d6eeecc584940e5",
-      "comments": "https://news.ycombinator.com/item?id=46814581"
     },
     {
       "title": "Ratchets in Software Development",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=46812795"
     },
     {
-      "title": "Stop Using Pseudo-Types",
-      "link": "https://f2r.github.io/en/stop-using-pseudo-types.html",
+      "title": "High performance, open source RAFT clustered database: RooDB",
+      "link": "https://github.com/jgarzik/roodb",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-28T13:36:09Z",
-      "id": "4a7c064b1afa3ec054695cf46e3ee827",
-      "comments": "https://news.ycombinator.com/item?id=46795183"
+      "published": "2026-01-29T04:38:29Z",
+      "id": "be96b914d61ad141d137ff838833754d",
+      "comments": "https://news.ycombinator.com/item?id=46805867"
     }
   ]
 }
