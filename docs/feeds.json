@@ -1,14 +1,41 @@
 {
-  "last_updated": "2026-02-02T12:51:53.604671Z",
+  "last_updated": "2026-02-02T15:34:21.943118Z",
   "items": [
     {
-      "title": "Applications where agents are first-class citizens",
-      "link": "https://every.to/guides/agent-native",
+      "title": "Greenland tensions harden Europe's push for energy independence",
+      "link": "https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-02T11:59:32Z",
-      "id": "025e6ddbbf35f1c22deb8aada06b09e3",
-      "comments": "https://news.ycombinator.com/item?id=46855003"
+      "published": "2026-02-02T15:14:36Z",
+      "id": "51b31321b4848c4f09d00972ea31e147",
+      "comments": "https://news.ycombinator.com/item?id=46856928"
+    },
+    {
+      "title": "Geologists may have solved mystery of Green River's 'uphill' route",
+      "link": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T13:29:13Z",
+      "id": "fd6f50f8ce0c51fc4ba005102d1d8576",
+      "comments": "https://news.ycombinator.com/item?id=46855803"
+    },
+    {
+      "title": "MaliciousCorgi: AI Extensions send your code to China",
+      "link": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T12:59:58Z",
+      "id": "fc89649205a278f53b1d0df9b7f05d0a",
+      "comments": "https://news.ycombinator.com/item?id=46855527"
+    },
+    {
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "link": "https://neutree.ai/blog/nano-vllm-part-1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T12:52:35Z",
+      "id": "b7f8ee220a85802816449cdb8dcadb3e",
+      "comments": "https://news.ycombinator.com/item?id=46855447"
     },
     {
       "title": "Claude Code is suddenly everywhere inside Microsoft",
@@ -38,12 +65,12 @@
       "comments": "https://news.ycombinator.com/item?id=46854642"
     },
     {
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
+      "title": "My fast zero-allocation webserver using OxCaml",
       "link": "https://anil.recoil.org/notes/oxcaml-httpz",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-02T10:45:44Z",
-      "id": "7a6aa6cf203997914f6a4bd88b2bd509",
+      "id": "1e7742d9abb0f99bcf4bfb89b4922f49",
       "comments": "https://news.ycombinator.com/item?id=46854534"
     },
     {
@@ -101,24 +128,6 @@
       "comments": "https://news.ycombinator.com/item?id=46850803"
     },
     {
-      "title": "Time Machine-style Backups with rsync (2018)",
-      "link": "https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T00:00:07Z",
-      "id": "9ae5c26e62ee77525aa541d1366c7d1c",
-      "comments": "https://news.ycombinator.com/item?id=46850709"
-    },
-    {
-      "title": "Two kinds of AI users are emerging",
-      "link": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T23:45:18Z",
-      "id": "4309a49324448866d6f55e9b038ee7eb",
-      "comments": "https://news.ycombinator.com/item?id=46850588"
-    },
-    {
       "title": "Show HN: NanoClaw \u2013 \u201cClawdbot\u201d in 500 lines of TS with Apple container isolation",
       "link": "https://github.com/gavrielc/nanoclaw",
       "source": "Hacker News",
@@ -126,15 +135,6 @@
       "published": "2026-02-01T22:49:22Z",
       "id": "cc339a2e97b20804c1f927617ed53c5a",
       "comments": "https://news.ycombinator.com/item?id=46850205"
-    },
-    {
-      "title": "Treasures found on HS2 route stored in secret warehouse",
-      "link": "https://www.bbc.com/news/articles/c93v21q5xdvo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T22:14:39Z",
-      "id": "2a1c40f269acee4f6ebc1a886f5cf278",
-      "comments": "https://news.ycombinator.com/item?id=46849926"
     },
     {
       "title": "Defeating a 40-year-old copy protection dongle",
@@ -209,12 +209,12 @@
       "comments": "https://news.ycombinator.com/item?id=46844466"
     },
     {
-      "title": "Hypergrowth isn't always easy",
+      "title": "Hypergrowth isn\u2019t always easy",
       "link": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-30T21:17:21Z",
-      "id": "c99903b79940e1a61bc3f7bf66f92fcf",
+      "id": "a10d04709903e7777a479df32e21d9fb",
       "comments": "https://news.ycombinator.com/item?id=46830026"
     },
     {
@@ -236,40 +236,40 @@
       "comments": "https://news.ycombinator.com/item?id=46824147"
     },
     {
-      "title": "Rev Up the Viral Factories",
+      "title": "Rev up the viral factories",
       "link": "https://www.science.org/content/blog-post/rev-viral-factories",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-30T11:02:16Z",
-      "id": "9a56354d83d917c6c91e7f548e73f03b",
+      "id": "0ebbce07e7c13e9e0899a1286d4c04b2",
       "comments": "https://news.ycombinator.com/item?id=46822961"
     },
     {
-      "title": "Ratchets in Software Development",
+      "title": "4x faster network file sync with rclone (vs rsync) (2025)",
+      "link": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-30T03:17:32Z",
+      "id": "ec3440f7f725064f530fa212f6bca63e",
+      "comments": "https://news.ycombinator.com/item?id=46820142"
+    },
+    {
+      "title": "Ratchets in software development (2021)",
       "link": "https://qntm.org/ratchet",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-01-29T18:31:48Z",
-      "id": "3baae740a5660b4542a708a864d55645",
+      "id": "da38b66c8f419c96323b8065e9578459",
       "comments": "https://news.ycombinator.com/item?id=46814340"
     },
     {
-      "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
-      "link": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
+      "title": "Best Gas Masks",
+      "link": "https://www.theverge.com/policy/868571/best-gas-masks",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-29T16:54:39Z",
-      "id": "48436fddaf73421c754ebc75c04d2641",
-      "comments": "https://news.ycombinator.com/item?id=46812795"
-    },
-    {
-      "title": "High performance, open source RAFT clustered database: RooDB",
-      "link": "https://github.com/jgarzik/roodb",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-29T04:38:29Z",
-      "id": "be96b914d61ad141d137ff838833754d",
-      "comments": "https://news.ycombinator.com/item?id=46805867"
+      "published": "2026-01-29T18:01:54Z",
+      "id": "f57003737e22a53f734eede35cec7123",
+      "comments": "https://news.ycombinator.com/item?id=46813867"
     }
   ]
 }
