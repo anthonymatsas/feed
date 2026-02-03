@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-02-03T06:44:26.731301Z",
+  "last_updated": "2026-02-03T09:36:33.379984Z",
   "items": [
+    {
+      "title": "Boring Go \u2013 A practical guide to writing boring, maintainable Go",
+      "link": "https://golang.college/books/boring-go",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-03T09:12:02Z",
+      "id": "559f848306f803c31528765dd416f44d",
+      "comments": "https://news.ycombinator.com/item?id=46868518"
+    },
+    {
+      "title": "LNAI \u2013 Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
+      "link": "https://github.com/KrystianJonca/lnai",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-03T08:45:57Z",
+      "id": "2d0711db912b9e01ca3bf30faf850909",
+      "comments": "https://news.ycombinator.com/item?id=46868318"
+    },
+    {
+      "title": "From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-03T08:42:51Z",
+      "id": "ace56e1768b63b14e6fb0bfdfe463ca4",
+      "comments": "https://news.ycombinator.com/item?id=46868287"
+    },
     {
       "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
       "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
@@ -29,13 +56,13 @@
       "comments": "https://news.ycombinator.com/item?id=46866385"
     },
     {
-      "title": "Ask HN: Anyone else struggle with how to learn coding in the AI era?",
-      "link": "https://news.ycombinator.com/item?id=46866165",
+      "title": "Ask HN: Where do all the web devs talk?",
+      "link": "https://news.ycombinator.com/item?id=46866149",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-03T03:39:12Z",
-      "id": "b5b93b82ed4097e0cb78d90fd2051b53",
-      "comments": "https://news.ycombinator.com/item?id=46866165"
+      "published": "2026-02-03T03:37:36Z",
+      "id": "b1125ad1e2f29d746f20d949fe0ddddf",
+      "comments": "https://news.ycombinator.com/item?id=46866149"
     },
     {
       "title": "How does misalignment scale with model intelligence and task complexity?",
@@ -45,15 +72,6 @@
       "published": "2026-02-03T00:28:06Z",
       "id": "eeca1436ae64775da462eeef984f9f27",
       "comments": "https://news.ycombinator.com/item?id=46864498"
-    },
-    {
-      "title": "Firefox Getting New Controls to Turn Off AI Features",
-      "link": "https://www.macrumors.com/2026/02/02/firefox-ai-toggle/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T23:54:02Z",
-      "id": "702d7f94ed79349a49b925995beb36c0",
-      "comments": "https://news.ycombinator.com/item?id=46864120"
     },
     {
       "title": "Julia",
@@ -128,15 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=46858829"
     },
     {
-      "title": "On being sane in insane places (1973) [pdf]",
-      "link": "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T17:43:14Z",
-      "id": "afd6bb1ecdee75706d3fe148199c3c8f",
-      "comments": "https://news.ycombinator.com/item?id=46858802"
-    },
-    {
       "title": "Zig Libc",
       "link": "https://ziglang.org/devlog/2026/#2026-01-31",
       "source": "Hacker News",
@@ -182,24 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=46855447"
     },
     {
-      "title": "50 years ago, a young Bill Gates took on the 'software pirates'",
-      "link": "https://thenewstack.io/50-years-ago-a-young-bill-gates-took-on-the-software-pirates/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T17:21:50Z",
-      "id": "62d75ed83357ee75b5f294e6ea895459",
-      "comments": "https://news.ycombinator.com/item?id=46847660"
-    },
-    {
-      "title": "Flying Around the World in under 80 Days",
-      "link": "https://pinchito.es/2026/avis-lxxx",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T13:56:57Z",
-      "id": "9d5c016f4b45c316a781c83de19a82ef",
-      "comments": "https://news.ycombinator.com/item?id=46846253"
-    },
-    {
       "title": "Archive.today is directing a DDoS attack against my blog?",
       "link": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
       "source": "Hacker News",
@@ -227,24 +218,6 @@
       "comments": "https://news.ycombinator.com/item?id=46829029"
     },
     {
-      "title": "Joedb, the Journal-Only Embedded Database",
-      "link": "https://www.joedb.org/index.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-30T16:34:05Z",
-      "id": "641e7a44557a19fbf741c9884d589056",
-      "comments": "https://news.ycombinator.com/item?id=46826454"
-    },
-    {
-      "title": "G Lang \u2013 A lightweight interpreter written in D (2.4MB)",
-      "link": "https://news.ycombinator.com/item?id=46824411",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-01-30T13:56:04Z",
-      "id": "406c98015077e6318d4215ce25de4d16",
-      "comments": "https://news.ycombinator.com/item?id=46824411"
-    },
-    {
       "title": "The Connection Machine CM-1 \"Feynman\" T-shirt",
       "link": "https://tamikothiel.com/cm/cm-tshirt.html",
       "source": "Hacker News",
@@ -263,6 +236,15 @@
       "comments": "https://news.ycombinator.com/item?id=46820142"
     },
     {
+      "title": "The Physics of Ideas: Reality as a Coordination Problem",
+      "link": "https://bpe.xyz",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-29T13:14:14Z",
+      "id": "d98d853d5bc4f309de4feefce1650742",
+      "comments": "https://news.ycombinator.com/item?id=46809785"
+    },
+    {
       "title": "Carnegie Mellon Unversity Computer Club FTP Server",
       "link": "http://128.237.157.9/pub/",
       "source": "Hacker News",
@@ -270,6 +252,24 @@
       "published": "2026-01-29T05:59:23Z",
       "id": "b79c7f08d5a21de18d8ef367e02bee5a",
       "comments": "https://news.ycombinator.com/item?id=46806346"
+    },
+    {
+      "title": "Astrological CPU Scheduler",
+      "link": "https://github.com/zampierilucas/scx_horoscope",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-29T04:18:06Z",
+      "id": "b7936ff56a48b54fe0a2282448c1edfe",
+      "comments": "https://news.ycombinator.com/item?id=46805763"
+    },
+    {
+      "title": "GitHub \u2013 BenjaminPoilve/minichord: A pocket-sized musical instrument",
+      "link": "https://github.com/BenjaminPoilve/minichord",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-28T13:56:56Z",
+      "id": "8960a9c43b495c89ca5e132632b7f4e3",
+      "comments": "https://news.ycombinator.com/item?id=46795456"
     }
   ]
 }
