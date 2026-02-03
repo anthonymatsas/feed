@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-02-03T01:51:08.953588Z",
+  "last_updated": "2026-02-03T04:43:36.088913Z",
   "items": [
+    {
+      "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
+      "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-03T04:33:25Z",
+      "id": "f045c46a2e8d0b1b5cd5f448279cb8fa",
+      "comments": "https://news.ycombinator.com/item?id=46866544"
+    },
+    {
+      "title": "Banning lead in gas worked. The proof is in our hair",
+      "link": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-03T01:52:21Z",
+      "id": "dc7c8d5d79475f701b38285d6936bdb5",
+      "comments": "https://news.ycombinator.com/item?id=46865275"
+    },
+    {
+      "title": "GitHub discusses giving maintainers control to disable PRs",
+      "link": "https://github.com/orgs/community/discussions/185387",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-03T00:30:02Z",
+      "id": "bde382e1a3a41e0dde47b964f3a0a018",
+      "comments": "https://news.ycombinator.com/item?id=46864517"
+    },
     {
       "title": "How does misalignment scale with model intelligence and task complexity?",
       "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
@@ -74,24 +101,6 @@
       "comments": "https://news.ycombinator.com/item?id=46861313"
     },
     {
-      "title": "Nvidia shares are down after report that its OpenAI investment stalled",
-      "link": "https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T20:25:41Z",
-      "id": "73f3e656c8384d85b099b146c056a15c",
-      "comments": "https://news.ycombinator.com/item?id=46860964"
-    },
-    {
-      "title": "Stelvio: Ship Python to AWS",
-      "link": "https://github.com/stelviodev/stelvio",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T19:59:30Z",
-      "id": "e8ce7efd4c1e485e43e7f385605bc2ce",
-      "comments": "https://news.ycombinator.com/item?id=46860566"
-    },
-    {
       "title": "The largest number representable in 64 bits",
       "link": "https://tromp.github.io/blog/2026/01/28/largest-number-revised",
       "source": "Hacker News",
@@ -117,6 +126,24 @@
       "published": "2026-02-02T17:49:07Z",
       "id": "360930421847cd6f52f20744d97af7c6",
       "comments": "https://news.ycombinator.com/item?id=46858873"
+    },
+    {
+      "title": "Linux From Scratch ends SysVinit support",
+      "link": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T17:45:27Z",
+      "id": "70cf51bf408da5030cacd960449adb9d",
+      "comments": "https://news.ycombinator.com/item?id=46858829"
+    },
+    {
+      "title": "On being sane in insane places (1973) [pdf]",
+      "link": "https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-02T17:43:14Z",
+      "id": "afd6bb1ecdee75706d3fe148199c3c8f",
+      "comments": "https://news.ycombinator.com/item?id=46858802"
     },
     {
       "title": "Zig Libc",
@@ -155,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=46857488"
     },
     {
-      "title": "Ask HN: Who wants to be hired? (February 2026)",
-      "link": "https://news.ycombinator.com/item?id=46857487",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T16:01:30Z",
-      "id": "3012be50104ee5bd786f1b7848576097",
-      "comments": "https://news.ycombinator.com/item?id=46857487"
-    },
-    {
       "title": "Geologists may have solved mystery of Green River's 'uphill' route",
       "link": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
       "source": "Hacker News",
@@ -171,24 +189,6 @@
       "published": "2026-02-02T13:29:13Z",
       "id": "fd6f50f8ce0c51fc4ba005102d1d8576",
       "comments": "https://news.ycombinator.com/item?id=46855803"
-    },
-    {
-      "title": "Show HN: Adboost \u2013 A browser extension that adds ads to every webpage",
-      "link": "https://github.com/surprisetalk/AdBoost",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T13:11:52Z",
-      "id": "08cf3663a925f2eebeb2535cd1953537",
-      "comments": "https://news.ycombinator.com/item?id=46855640"
-    },
-    {
-      "title": "UK government launches fuel forecourt price API",
-      "link": "https://www.gov.uk/guidance/access-the-latest-fuel-prices-and-forecourt-data-via-api-or-email",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T13:02:04Z",
-      "id": "4704d5e7ab8cfe0bfa3d661ba29aac59",
-      "comments": "https://news.ycombinator.com/item?id=46855550"
     },
     {
       "title": "Nano-vLLM: How a vLLM-style inference engine works",
@@ -200,15 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=46855447"
     },
     {
-      "title": "Why software stocks are getting pummelled",
-      "link": "https://www.economist.com/business/2026/02/01/why-software-stocks-are-getting-pummelled",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-02T04:50:06Z",
-      "id": "925815e558ee9e3f8fdb0d6a5f6b3b4c",
-      "comments": "https://news.ycombinator.com/item?id=46852535"
-    },
-    {
       "title": "Pretty soon, heat pumps will be able to store and distribute heat as needed",
       "link": "https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/",
       "source": "Hacker News",
@@ -218,13 +209,13 @@
       "comments": "https://news.ycombinator.com/item?id=46848060"
     },
     {
-      "title": "IsoCoaster \u2013 Theme Park Builder",
-      "link": "https://iso-coaster.com/",
+      "title": "See how many words you have written in Hacker News comments",
+      "link": "https://serjaimelannister.github.io/hn-words/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-30T17:11:55Z",
-      "id": "4775afd0ddc01e06a1a5b476ba1e4a4a",
-      "comments": "https://news.ycombinator.com/item?id=46826991"
+      "published": "2026-01-30T19:54:52Z",
+      "id": "0e03f1af6459111e2c4cc16d0f2d96cb",
+      "comments": "https://news.ycombinator.com/item?id=46829029"
     },
     {
       "title": "Joedb, the Journal-Only Embedded Database",
@@ -234,6 +225,15 @@
       "published": "2026-01-30T16:34:05Z",
       "id": "641e7a44557a19fbf741c9884d589056",
       "comments": "https://news.ycombinator.com/item?id=46826454"
+    },
+    {
+      "title": "G Lang \u2013 A lightweight interpreter written in D (2.4MB)",
+      "link": "https://news.ycombinator.com/item?id=46824411",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-01-30T13:56:04Z",
+      "id": "406c98015077e6318d4215ce25de4d16",
+      "comments": "https://news.ycombinator.com/item?id=46824411"
     },
     {
       "title": "The Connection Machine CM-1 \"Feynman\" T-shirt",
@@ -254,13 +254,13 @@
       "comments": "https://news.ycombinator.com/item?id=46820142"
     },
     {
-      "title": "General Graboids: Worms and Remote Code Execution in Command and Conquer",
-      "link": "https://www.atredis.com/blog/2026/1/26/generals",
+      "title": "Carnegie Mellon Unversity Computer Club FTP Server",
+      "link": "http://128.237.157.9/pub/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-27T19:16:32Z",
-      "id": "b654b7ea17c7e1590a8380d898270cb2",
-      "comments": "https://news.ycombinator.com/item?id=46784890"
+      "published": "2026-01-29T05:59:23Z",
+      "id": "b79c7f08d5a21de18d8ef367e02bee5a",
+      "comments": "https://news.ycombinator.com/item?id=46806346"
     },
     {
       "title": "Training a trillion parameter model to be funny",
