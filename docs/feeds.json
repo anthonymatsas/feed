@@ -1,6 +1,111 @@
 {
-  "last_updated": "2026-02-04T09:39:11.092046Z",
+  "last_updated": "2026-02-04T12:51:28.678774Z",
   "items": [
+    {
+      "title": "How Does ChatGPT Work? A Guide for the Rest of Us",
+      "link": "https://www.reddit.com/r/programming/comments/1qvnfm6/how_does_chatgpt_work_a_guide_for_the_rest_of_us/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-04T12:37:19Z",
+      "id": "0d0786e52057aec07786c5fda853b888"
+    },
+    {
+      "title": "\"Performance doesn't meet expectations\" speed run",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qvmu4f/performance_doesnt_meet_expectations_speed_run/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-04T12:08:01Z",
+      "id": "54ef61925cc445ff9c23b00e24838597"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (February 03, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1qvmob9/serious_next_day_thread_postgame_discussion/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-04T12:00:01Z",
+      "id": "5cd83dc48921abac2196e62b80a87e36"
+    },
+    {
+      "title": "Aren't we the biggest hypocrites there are?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qvmh31/arent_we_the_biggest_hypocrites_there_are/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-04T11:49:29Z",
+      "id": "f8f8dedf2b71f15522ef66aeaeb0a3bc"
+    },
+    {
+      "title": "RAG Poisoning: How Attackers Corrupt AI Knowledge Bases",
+      "link": "https://www.reddit.com/r/programming/comments/1qvm72o/rag_poisoning_how_attackers_corrupt_ai_knowledge/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-04T11:34:28Z",
+      "id": "b07fcf728caf188f35af4663c837d7fd"
+    },
+    {
+      "title": "Anthropic Claude Max $200/mo: They claim 99% uptime, I calculated 84% Loss: $780",
+      "link": "https://gist.github.com/LEX8888/0caac27b96fa164e2a8ac57e9a5f2365",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-04T11:21:59Z",
+      "id": "f986754cad83e18f7efc1997bdf95f17",
+      "comments": "https://news.ycombinator.com/item?id=46884481"
+    },
+    {
+      "title": "Jaden Ivey was acquired the same way we got Giddey",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1qvlts9/jaden_ivey_was_acquired_the_same_way_we_got_giddey/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2026-02-04T11:13:35Z",
+      "id": "1062634fbd0560e35ad3705c05b74950"
+    },
+    {
+      "title": "Happy 19th anniversary of what was supposed to be the best day recorded in history",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1qvldou/happy_19th_anniversary_of_what_was_supposed_to_be/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-02-04T10:47:39Z",
+      "id": "72ca1e5ee8f8959c6d0496595f37c378"
+    },
+    {
+      "title": "[Highlight] On this day in 2007 Devin Hester went all the way to open Super Bowl XLI",
+      "link": "https://www.reddit.com/r/nfl/comments/1qvl81h/highlight_on_this_day_in_2007_devin_hester_went/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-02-04T10:38:31Z",
+      "id": "595c6f1e6d8169d99d23bdd740571732"
+    },
+    {
+      "title": "Main reasons to go monorepo vs polyrepo and vice versa?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qvkv01/main_reasons_to_go_monorepo_vs_polyrepo_and_vice/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-04T10:16:52Z",
+      "id": "6d000b2eca7d84355181238a2ffef2e9"
+    },
+    {
+      "title": "When AI anticipates too early, it stops being a tool",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qvki5v/when_ai_anticipates_too_early_it_stops_being_a/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-04T09:55:43Z",
+      "id": "457e05656d40761298e1e25c80c9c86d"
+    },
+    {
+      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "link": "https://www.reddit.com/r/programming/comments/1qvkfou/alisql_alibabas_opensource_mysql_with_vector_and/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-04T09:51:19Z",
+      "id": "e3950aab1d81d9b272e36c8419e53dad"
+    },
+    {
+      "title": "A Scalable Monorepo Boilerplate with Nx, NestJS, Kafka, CQRS & Docker \u2014 Ready to Kickstart Your Next Project",
+      "link": "https://www.reddit.com/r/programming/comments/1qvkd2v/a_scalable_monorepo_boilerplate_with_nx_nestjs/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-04T09:46:44Z",
+      "id": "c359a92da98f88fca5055330fdf515da"
+    },
     {
       "title": "ClawdBot Skills Just Ganked Your Crypto",
       "link": "https://www.reddit.com/r/programming/comments/1qvk794/clawdbot_skills_just_ganked_your_crypto/",
@@ -32,6 +137,15 @@
       "category": "tech",
       "published": "2026-02-04T09:15:45Z",
       "id": "2f62110683dbf24edb02d0728b890516"
+    },
+    {
+      "title": "Broken Proofs and Broken Provers",
+      "link": "https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-04T09:00:09Z",
+      "id": "ba70661cb46a20d12221ded26fa3e0e4",
+      "comments": "https://news.ycombinator.com/item?id=46883337"
     },
     {
       "title": "From magic to malware: How OpenClaw's agent skills become an attack surface",
@@ -89,23 +203,6 @@
       "category": "sports",
       "published": "2026-02-04T06:41:18Z",
       "id": "d2e2f69f4168bc246c2afd423391cde0"
-    },
-    {
-      "title": "Why I am switching from Arch (Manjaro) to Debian",
-      "link": "https://www.reddit.com/r/programming/comments/1qvh426/why_i_am_switching_from_arch_manjaro_to_debian/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-04T06:28:42Z",
-      "id": "65d1d62fe981961b81a0447e3cfd10de"
-    },
-    {
-      "title": "The full history of Windows widgets, from 1997 to today",
-      "link": "https://xakpc.dev/windows-widgets/history/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-04T06:22:58Z",
-      "id": "bce4b223528214cbd515d257413c847a",
-      "comments": "https://news.ycombinator.com/item?id=46882184"
     },
     {
       "title": "Draymond Green on possibility that was his last game with the Warriors: \u201cIf it ends, what a f****** run it has been.\u201d He said he would not be \u201cupset\u201d if they trade him \u201cif that\u2019s what\u2019s best for this organization.\u201d",
@@ -186,14 +283,6 @@
       "category": "sports",
       "published": "2026-02-04T04:39:32Z",
       "id": "d68d7bcaf0a89becef880bf4f60de9f6"
-    },
-    {
-      "title": "Good Code editors??",
-      "link": "https://www.reddit.com/r/programming/comments/1qvesd6/good_code_editors/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-04T04:28:21Z",
-      "id": "16e7d20300d51975233e80eea5ae4fe6"
     },
     {
       "title": "[Smith] Picks in the Celtics-Bulls trade, per a league source: To Boston: Denver Nuggets 2027 second-round pick. To Chicago: most favorable 2026 second-round pick of Minnesota Timberwolves, New Orleans Pelicans, New York Knicks, Portland Trailblazers (likely to be NOP)",
@@ -309,14 +398,6 @@
       "id": "7588ace409a8647c8b0f16cfb1b75bf5"
     },
     {
-      "title": "How To Publish to Maven Central Easily with Mill",
-      "link": "https://www.reddit.com/r/programming/comments/1qvcid1/how_to_publish_to_maven_central_easily_with_mill/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-04T02:44:16Z",
-      "id": "0fc3fa9d79f0daac81900cb717f6fc3c"
-    },
-    {
       "title": "[Haynes] Charlotte Hornets rookie sensation Kon Knueppel has accepted the league\u2019s invitation to participate in the 3-Point Contest at All-Star Weekend in Los Angeles, league sources tell me.",
       "link": "https://www.reddit.com/r/nba/comments/1qvch4c/haynes_charlotte_hornets_rookie_sensation_kon/",
       "source": "r/nba",
@@ -347,14 +428,6 @@
       "category": "tech",
       "published": "2026-02-04T02:07:53Z",
       "id": "e37a8fec3e3775f1474a3eea280764af"
-    },
-    {
-      "title": "Taking on Anthropic's Public Performance Engineering Interview Challenge",
-      "link": "https://www.reddit.com/r/programming/comments/1qvbn6a/taking_on_anthropics_public_performance/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-04T02:05:51Z",
-      "id": "700acaf465b22dd21eb2581b418b7055"
     },
     {
       "title": "[Highlight] Shedeur Sanders finds Garett Bolles for AFC touchdown",
@@ -613,15 +686,6 @@
       "id": "fe5a6daa2362972b4936072787acb457"
     },
     {
-      "title": "Notepad++ supply chain attack breakdown",
-      "link": "https://securelist.com/notepad-supply-chain-attack/118708/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-03T22:35:27Z",
-      "id": "3b21dfc83f0e9df48e449a75b9b230c1",
-      "comments": "https://news.ycombinator.com/item?id=46878338"
-    },
-    {
       "title": "[Highlight] Jason McCourty makes a touchdown saving play in Super Bowl LIII",
       "link": "https://www.reddit.com/r/nfl/comments/1qv672l/highlight_jason_mccourty_makes_a_touchdown_saving/",
       "source": "r/nfl",
@@ -759,14 +823,6 @@
       "id": "b91b1c36b21026604149768d9279db39"
     },
     {
-      "title": "Jaden Ivey Welcome to Chicago - All Field Goals Made So Far",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1qv3ba0/jaden_ivey_welcome_to_chicago_all_field_goals/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-02-03T20:31:07Z",
-      "id": "3749a773b52f73c48a4cc0638cedf2d1"
-    },
-    {
       "title": "UPDATED LAVINE TRADE RETURN FOR THE BULLS",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1qv2oak/updated_lavine_trade_return_for_the_bulls/",
       "source": "r/chicagobulls",
@@ -848,14 +904,6 @@
       "id": "21929555fa2eb163b71d13b44925fc47"
     },
     {
-      "title": "Daily Discussion Thread + Game Thread Index",
-      "link": "https://www.reddit.com/r/nba/comments/1qv0tl6/daily_discussion_thread_game_thread_index/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-03T19:00:04Z",
-      "id": "ee3adb51c73fd0b92ac0cc514880554a"
-    },
-    {
       "title": "[Charania] BREAKING: The Memphis Grizzlies are trading star forward Jaren Jackson Jr., John Konchar, Jock Landale and Vince Williams Jr. to the Utah Jazz for Walter Clayton Jr., Kyle Anderson, Taylor Hendricks, Georges Niang and three future first-round picks, sources tell ESPN.",
       "link": "https://www.reddit.com/r/nba/comments/1qv0d5b/charania_breaking_the_memphis_grizzlies_are/",
       "source": "r/nba",
@@ -922,14 +970,6 @@
       "published": "2026-02-03T17:33:20Z",
       "id": "3f3bf8a1d76fa955a98df1677033b2bb",
       "comments": "https://news.ycombinator.com/item?id=46874097"
-    },
-    {
-      "title": "Has a team you worked in picked an architecture you did not think was the right one to go with? How did you deal with the situation?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1quxger/has_a_team_you_worked_in_picked_an_architecture/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-03T17:00:44Z",
-      "id": "6fad3b10b486ba1bc101c92cb93615c2"
     },
     {
       "title": "221 Cannon is Not For Sale",
@@ -1072,14 +1112,6 @@
       "category": "sports",
       "published": "2026-02-03T12:56:54Z",
       "id": "f5cfcc97d47ad8a9a656379fcd75d11f"
-    },
-    {
-      "title": "[Schefter] New England Patriots owner Robert Kraft, like his former head coach Bill Belichick, was not selected for entry into this year's Pro Football Hall of Fame class, multiple league sources told ESPN.",
-      "link": "https://www.reddit.com/r/nfl/comments/1qur5mv/schefter_new_england_patriots_owner_robert_kraft/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-02-03T12:54:14Z",
-      "id": "ff8dcbfdb9d39d40f8f8e09b46443b96"
     },
     {
       "title": "Bunny Database",
@@ -1260,14 +1292,6 @@
       "id": "0cc9b4d735e5409be5d8dffa7f636194"
     },
     {
-      "title": "HBD PAPA \ud83d\udc3b",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1qtxggk/hbd_papa/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-02-02T15:05:08Z",
-      "id": "ab71128c957d3232ec1f5f26f4b691fb"
-    },
-    {
       "title": "Notepad++ Hijacked by State-Sponsored Hackers",
       "link": "https://www.reddit.com/r/programming/comments/1qttqik/notepad_hijacked_by_statesponsored_hackers/",
       "source": "r/programming",
@@ -1317,14 +1341,6 @@
       "comments": "https://news.ycombinator.com/item?id=46848876"
     },
     {
-      "title": "How to handle EM + Tech Lead Dual Role",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qt5x91/how_to_handle_em_tech_lead_dual_role/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-01T18:12:58Z",
-      "id": "d466329c8510be130087704da5f7e215"
-    },
-    {
       "title": "Show HN: Craftplan \u2013 I built my wife a production management tool for her bakery",
       "link": "https://github.com/puemos/craftplan",
       "source": "Hacker News",
@@ -1341,23 +1357,6 @@
       "published": "2026-02-01T13:32:58Z",
       "id": "5c0f6d8e9902eacda161014e055ca25f",
       "comments": "https://news.ycombinator.com/item?id=46846101"
-    },
-    {
-      "title": "Heritability of intrinsic human life span is about 50%",
-      "link": "https://www.science.org/doi/10.1126/science.adz1187",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-01T12:13:22Z",
-      "id": "ac29531b3c5d8e5640fb1a02092ff021",
-      "comments": "https://news.ycombinator.com/item?id=46845650"
-    },
-    {
-      "title": "Tips for mentoring during paired programming",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qstw6h/tips_for_mentoring_during_paired_programming/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-01T09:23:52Z",
-      "id": "634291710c331f9412a341d4b787e69c"
     },
     {
       "title": "In your experience, what is the best life cycle for code promotion?",
@@ -1386,12 +1385,13 @@
       "comments": "https://news.ycombinator.com/item?id=46842288"
     },
     {
-      "title": "My team ships faster with mandatory PR approval... from QA, not other devs",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1qsdhai/my_team_ships_faster_with_mandatory_pr_approval/",
-      "source": "r/ExperiencedDevs",
+      "title": "Brazilian Micro-SaaS Map",
+      "link": "https://saas-map.ssr.trapiche.cloud/",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-31T20:35:23Z",
-      "id": "21798b79c49052548560b337bad2dd51"
+      "published": "2026-01-31T20:35:51Z",
+      "id": "0e3dd8535621d567a565a6b9ccb52eb4",
+      "comments": "https://news.ycombinator.com/item?id=46840558"
     },
     {
       "title": "The Mathematics of Tuning Systems",
@@ -1403,13 +1403,13 @@
       "comments": "https://news.ycombinator.com/item?id=46834810"
     },
     {
-      "title": "Puget Systems Most Reliable Hardware of 2025",
-      "link": "https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/",
+      "title": "Goblins: Distributed, Transactional Programming with Racket and Guile",
+      "link": "https://spritely.institute/goblins/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-01-31T04:34:25Z",
-      "id": "30f029a2e9e78ef0b81b2708a6c0c317",
-      "comments": "https://news.ycombinator.com/item?id=46833534"
+      "published": "2026-01-31T02:05:25Z",
+      "id": "cfa31b70117c2e92a38a0a900677846a",
+      "comments": "https://news.ycombinator.com/item?id=46832606"
     },
     {
       "title": "1,400-year-old tomb featuring giant owl sculpture discovered in Mexico",
