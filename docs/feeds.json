@@ -1,6 +1,128 @@
 {
-  "last_updated": "2026-02-13T09:39:27.889029Z",
+  "last_updated": "2026-02-13T12:51:11.236625Z",
   "items": [
+    {
+      "title": "Frontend feels more like systems engineering than UI these days",
+      "link": "https://www.reddit.com/r/programming/comments/1r3o472/frontend_feels_more_like_systems_engineering_than/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T12:40:31Z",
+      "id": "a928d940ff8cb30c64a6e6611c8737ab"
+    },
+    {
+      "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
+      "link": "http://qualify.gauntletAI.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-13T12:32:05Z",
+      "id": "74d193ebfc11b7ae7e766cb3c06c5ab2",
+      "comments": "https://news.ycombinator.com/item?id=47001968"
+    },
+    {
+      "title": "New Architecture Could Cut Quantum Hardware Needed to Break RSA-2048 by Tenfold, Study Finds",
+      "link": "https://www.reddit.com/r/programming/comments/1r3nxbw/new_architecture_could_cut_quantum_hardware/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T12:30:54Z",
+      "id": "fa58c7d6e532d86f7eb9b6c7ae978f4c"
+    },
+    {
+      "title": "US repeals EPA endangerment finding for greenhouse gases",
+      "link": "https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-13T12:17:04Z",
+      "id": "f79249d45a061a94e09f84dabad6f057",
+      "comments": "https://news.ycombinator.com/item?id=47001865"
+    },
+    {
+      "title": "Why aren't we all using neuromorphic chips yet? Turns out there's more to the story...",
+      "link": "https://www.reddit.com/r/programming/comments/1r3nbdp/why_arent_we_all_using_neuromorphic_chips_yet/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T12:00:10Z",
+      "id": "c7b88a827f2fbac71a84115b21db1eca"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (February 12, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1r3nb8w/serious_next_day_thread_postgame_discussion/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-13T12:00:02Z",
+      "id": "3130a4f2fd30a8fff6f95862fc0af21c"
+    },
+    {
+      "title": "Spotify says its best developers haven't written a line of code since December, thanks to AI",
+      "link": "https://www.reddit.com/r/programming/comments/1r3mznz/spotify_says_its_best_developers_havent_written_a/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T11:42:22Z",
+      "id": "68a41876948cc0bbb2fcaf213a496f8c"
+    },
+    {
+      "title": "MCP servers in enterprise",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r3mzgv/mcp_servers_in_enterprise/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-13T11:42:03Z",
+      "id": "f667bcdb894c3bdb30289d525cbb3e37"
+    },
+    {
+      "title": "Design Decision: Technical Debt in BillaBear",
+      "link": "https://www.reddit.com/r/programming/comments/1r3myvg/design_decision_technical_debt_in_billabear/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T11:41:06Z",
+      "id": "b193ec559f81161b03318d0435dc4b5f"
+    },
+    {
+      "title": "Recovered 1973 diving decompression algorithm",
+      "link": "https://www.reddit.com/r/programming/comments/1r3msai/recovered_1973_diving_decompression_algorithm/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T11:30:21Z",
+      "id": "a91f6b0e335d6180ac79820869ce356d"
+    },
+    {
+      "title": "My Business as Code",
+      "link": "https://www.reddit.com/r/programming/comments/1r3mlab/my_business_as_code/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T11:19:00Z",
+      "id": "7f604967c274274fd8c8617f7d31144b"
+    },
+    {
+      "title": "Allocators from C to Zig",
+      "link": "https://www.reddit.com/r/programming/comments/1r3m0vp/allocators_from_c_to_zig/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T10:45:17Z",
+      "id": "1fcdbbf645e2214ce34c1aaf71e8dde1"
+    },
+    {
+      "title": "Seeking Advice on Accessing Public NSE India Market Data (Cloudflare Protected)",
+      "link": "https://www.reddit.com/r/programming/comments/1r3lwmq/seeking_advice_on_accessing_public_nse_india/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T10:38:17Z",
+      "id": "9551ca248d4ed20dacbe3b2fe679ac28"
+    },
+    {
+      "title": "JSRebels: Frameworkless, tacit, functional JavaScript community on Matrix",
+      "link": "https://www.reddit.com/r/programming/comments/1r3ls9n/jsrebels_frameworkless_tacit_functional/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T10:30:52Z",
+      "id": "ff07dffaec2b49b2e518d045fc29e885"
+    },
+    {
+      "title": "Google might think your Website is down",
+      "link": "https://www.reddit.com/r/programming/comments/1r3lr2c/google_might_think_your_website_is_down/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T10:28:57Z",
+      "id": "0c424ec0f0c8ea7e8c07924229cf3618"
+    },
     {
       "title": "Harness engineering: leveraging Codex in an agent-first world",
       "link": "https://www.reddit.com/r/programming/comments/1r3kjqt/harness_engineering_leveraging_codex_in_an/",
@@ -10,20 +132,28 @@
       "id": "74bb1b2817ba87edbb2627e233a17f25"
     },
     {
-      "title": "How good is Entelligence.ai? Worth it?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r3kewd/how_good_is_entelligenceai_worth_it/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-13T09:03:54Z",
-      "id": "3280e2d8c46213202122a0d75c9593cf"
-    },
-    {
       "title": "How do you conduct interviews for something you\u2019re not experienced in?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r3k4wa/how_do_you_conduct_interviews_for_something_youre/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-02-13T08:45:57Z",
       "id": "0d9c6276ba968068032aa7f88b3a873b"
+    },
+    {
+      "title": "LeBron James: \"I'm a goofy ass 41-year-old kid. That's just me. They pay me to play basketball. Why wouldn't I be happy about that?\"",
+      "link": "https://www.reddit.com/r/nba/comments/1r3jn52/lebron_james_im_a_goofy_ass_41yearold_kid_thats/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-13T08:14:58Z",
+      "id": "36b3a72d0aafbe7ff91071d200a31c6e"
+    },
+    {
+      "title": "The Charlotte Hornets have launched a new concession policy called 'Hugo's Hive Menu,' offering hot dogs, pretzel bites, popcorn, bottled Dasani water, and sodas for just $2 each. According to the team's ownership, this decision was made to make it easier and more accessible for fans to attend games",
+      "link": "https://www.reddit.com/r/nba/comments/1r3jkoe/the_charlotte_hornets_have_launched_a_new/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-13T08:10:38Z",
+      "id": "2a200b3f0a9510257fd1282cf94e31f7"
     },
     {
       "title": "MinIO repository is no longer maintained",
@@ -59,15 +189,6 @@
       "id": "13de97ba6f914f36a43ef3427229f07d"
     },
     {
-      "title": "Asimov (YC W26) Is Hiring",
-      "link": "https://news.ycombinator.com/item?id=46999753",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-13T07:00:41Z",
-      "id": "1ba237ab08dc5fc09909b7d32434ffb5",
-      "comments": "https://news.ycombinator.com/item?id=46999753"
-    },
-    {
       "title": "Ring owners are returning their cameras",
       "link": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
       "source": "Hacker News",
@@ -75,6 +196,14 @@
       "published": "2026-02-13T06:23:26Z",
       "id": "5b85213bb15b40607e48e7e8ac612529",
       "comments": "https://news.ycombinator.com/item?id=46999545"
+    },
+    {
+      "title": "[Post Game Thread] The Los Angeles Lakers (33-21) defeat the Dallas Mavericks (19-35), 124-104, on the back of Lebron James being the oldest player to record a triple double.",
+      "link": "https://www.reddit.com/r/nba/comments/1r3gxj0/post_game_thread_the_los_angeles_lakers_3321/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-13T05:37:25Z",
+      "id": "fb98d65f58aca1c2689b7ff3f77ec7aa"
     },
     {
       "title": "Derek Carr confirms interest in NFL return under 2 conditions (Healthy and SB contender)",
@@ -174,22 +303,6 @@
       "id": "88bb9c99c71cf4d944c28dd5941f1b00"
     },
     {
-      "title": "Ousmane Dieng leads the Bucks to a win against his former team: 19/11/6, 4 blocks and a steal on 7/12 from the field and 3/5 from deep",
-      "link": "https://www.reddit.com/r/nba/comments/1r3dnwa/ousmane_dieng_leads_the_bucks_to_a_win_against/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-13T02:53:18Z",
-      "id": "97171ec4b04869a04c06e1055302b955"
-    },
-    {
-      "title": "With the Bucks win over the Thunder, the Pistons enter the All-Star break with the fewest loses in the NBA (with 3 fewer games played)",
-      "link": "https://www.reddit.com/r/nba/comments/1r3dnl0/with_the_bucks_win_over_the_thunder_the_pistons/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-13T02:52:53Z",
-      "id": "7c2cbb7bfe881140f1b6a8e743af9268"
-    },
-    {
       "title": "[Post Game Thread] The Milwaukee Bucks (23-30) defeat the Oklahoma City Thunder (42-14), 110-93.",
       "link": "https://www.reddit.com/r/nba/comments/1r3dlmz/post_game_thread_the_milwaukee_bucks_2330_defeat/",
       "source": "r/nba",
@@ -238,20 +351,20 @@
       "id": "051a93fc6f62ec8902eeb85d52c52dee"
     },
     {
-      "title": "Got our guy \ud83d\ude02",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1r3cm6q/got_our_guy/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-02-13T02:04:58Z",
-      "id": "8d5f0d87aa57dc4d4bd7470621f15208"
-    },
-    {
       "title": "Report: 49ers-Rams in Melbourne will happen on Wednesday, September 9, or Thursday, September 10",
       "link": "https://www.reddit.com/r/nfl/comments/1r3cm6p/report_49ersrams_in_melbourne_will_happen_on/",
       "source": "r/nfl",
       "category": "sports",
       "published": "2026-02-13T02:04:58Z",
       "id": "bec5802d14c3f709f68e23d8edc4e542"
+    },
+    {
+      "title": "Got our guy \ud83d\ude02",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1r3cm6q/got_our_guy/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-02-13T02:04:58Z",
+      "id": "8d5f0d87aa57dc4d4bd7470621f15208"
     },
     {
       "title": "Bucs Announce Changes to 2026 Coaching Staff, Including Todd Bowles' Son as Defensive Assistant",
@@ -354,14 +467,6 @@
       "comments": "https://news.ycombinator.com/item?id=46996999"
     },
     {
-      "title": "Paolo Banchero is dead last out of 260 players in deflections per 36 with a minimum of 700 total minutes",
-      "link": "https://www.reddit.com/r/nba/comments/1r39eub/paolo_banchero_is_dead_last_out_of_260_players_in/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-12T23:42:21Z",
-      "id": "52427f19b92771e29733d67923d1669f"
-    },
-    {
       "title": "[Jones] The Jazz knew about JJJ\u2019s knee previously. They were going to shut him down. Jaren was adamant that he wanted to play once at home before the surgery. They set his restriction at 25 minutes. That\u2019s one reason he didn\u2019t play in the previous fourth quarters, per sources",
       "link": "https://www.reddit.com/r/nba/comments/1r39eam/jones_the_jazz_knew_about_jjjs_knee_previously/",
       "source": "r/nba",
@@ -443,14 +548,6 @@
       "category": "sports",
       "published": "2026-02-12T22:24:39Z",
       "id": "649b9b170e3489e54dc3d6520b2c8f49"
-    },
-    {
-      "title": "Understanding Communication in Computer Applications part one: sockets and websockets",
-      "link": "https://www.reddit.com/r/programming/comments/1r37c1q/understanding_communication_in_computer/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-12T22:18:37Z",
-      "id": "856c4bc3f5b1311cd9a34b936f00d8f5"
     },
     {
       "title": "[Highlight] Drew Brees: \"I Really Think I'd Still Be Playing If the Shoulder & Wrist Wouldn't Have Started to Let Me Down\" on New Heights Podcast",
@@ -540,14 +637,6 @@
       "published": "2026-02-12T19:01:54Z",
       "id": "8dc685b470d27449895c7e3e747c856a",
       "comments": "https://news.ycombinator.com/item?id=46993397"
-    },
-    {
-      "title": "Daily Discussion Thread + Game Thread Index",
-      "link": "https://www.reddit.com/r/nba/comments/1r324q1/daily_discussion_thread_game_thread_index/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-12T19:00:02Z",
-      "id": "0219db6d3c63d9836e4fc80937dbb375"
     },
     {
       "title": "[Charania] San Antonio Spurs star De'Aaron Fox has replaced Giannis Antetokounmpo in the 2026 NBA All-Star Game.",
@@ -732,28 +821,12 @@
       "id": "b0d0a97ee028c55d741d302f33a35239"
     },
     {
-      "title": "Tritium | Thanks for All the Frames: Rust GUI Observations",
-      "link": "https://www.reddit.com/r/programming/comments/1r2wd51/tritium_thanks_for_all_the_frames_rust_gui/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-12T15:26:46Z",
-      "id": "c28b46c659b8c67530f05b9ffefdff09"
-    },
-    {
       "title": "[Caleb Williams Fan Club] Caleb Williams, PCA, Connor Bedard and Matas Buzelis all plan to have dinner together soon. The future of Chicago sports is BRIGHT. | It'd be fun to be a fly on the wall for this dinner.",
       "link": "https://www.reddit.com/r/CHIBears/comments/1r2vsoo/caleb_williams_fan_club_caleb_williams_pca_connor/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-02-12T15:05:19Z",
       "id": "6054b13e2f09c7ce1b7e8e861e52229b"
-    },
-    {
-      "title": "Quickly restoring 1M+ files from backup",
-      "link": "https://www.reddit.com/r/programming/comments/1r2vraq/quickly_restoring_1m_files_from_backup/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-12T15:03:51Z",
-      "id": "a309e44cdd37dda70604a4f16c6f4116"
     },
     {
       "title": "Thursday Talk Thread... Yes That's The Thread Name",
@@ -804,14 +877,6 @@
       "published": "2026-02-12T13:30:20Z",
       "id": "b0b93209d5fd2e96de9bbe96b5a15d3e",
       "comments": "https://news.ycombinator.com/item?id=46988596"
-    },
-    {
-      "title": "After Q-Day: Quantum Applications at Scale \u2022 Matthew Keesan",
-      "link": "https://www.reddit.com/r/programming/comments/1r2tg1a/after_qday_quantum_applications_at_scale_matthew/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-12T13:29:30Z",
-      "id": "62820040352dcc5e308d8f4477cf3608"
     },
     {
       "title": "Apache Arrow is 10 years old",
@@ -896,14 +961,6 @@
       "id": "c32ea3e3b1d75579469ed1f5d2140f6f"
     },
     {
-      "title": "Scripting on the JVM with Java, Scala, and Kotlin",
-      "link": "https://www.reddit.com/r/programming/comments/1r2pqry/scripting_on_the_jvm_with_java_scala_and_kotlin/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-12T10:14:09Z",
-      "id": "ab959164cfe219c6a4324ffd93353c2c"
-    },
-    {
       "title": "AI Coding Killed My Flow State",
       "link": "https://www.reddit.com/r/programming/comments/1r2l8i5/ai_coding_killed_my_flow_state/",
       "source": "r/programming",
@@ -950,14 +1007,6 @@
       "category": "sports",
       "published": "2026-02-12T03:31:42Z",
       "id": "3984a05f58190d6ade27e46bfcd73ef1"
-    },
-    {
-      "title": "Game Boy Advance Audio Interpolation",
-      "link": "https://www.reddit.com/r/programming/comments/1r2hsoh/game_boy_advance_audio_interpolation/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-12T02:46:47Z",
-      "id": "e55f040eec346bff1747d9669d46c2ff"
     },
     {
       "title": "First try.",
@@ -1144,22 +1193,6 @@
       "id": "baae600007a954e729cc6dd4ef178e91"
     },
     {
-      "title": "How to Make Architecture Decisions: RFCs, ADRs, and Getting Everyone Aligned",
-      "link": "https://www.reddit.com/r/programming/comments/1r22ia1/how_to_make_architecture_decisions_rfcs_adrs_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-11T16:48:07Z",
-      "id": "ba7873fe330fc5bf3baa0ad67ce8bcb9"
-    },
-    {
-      "title": "How to Keep Your Smoke Testing Useful",
-      "link": "https://www.reddit.com/r/programming/comments/1r21nfq/how_to_keep_your_smoke_testing_useful/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-11T16:16:33Z",
-      "id": "613dd6eb2fbe40049b64c4bba73935a7"
-    },
-    {
       "title": "Inherited a project that wasn\u2019t planned well",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r2142o/inherited_a_project_that_wasnt_planned_well/",
       "source": "r/ExperiencedDevs",
@@ -1208,22 +1241,6 @@
       "id": "3edf0c079545c890b577feb4cd54e5bc"
     },
     {
-      "title": "Ray Marching Soft Shadows in 2D",
-      "link": "https://www.reddit.com/r/programming/comments/1r1u93o/ray_marching_soft_shadows_in_2d/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-11T10:51:49Z",
-      "id": "157979c234d31b2cd947fad5e4913e35"
-    },
-    {
-      "title": "Redefining Go Functions",
-      "link": "https://www.reddit.com/r/programming/comments/1r1rxwl/redefining_go_functions/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-11T08:31:19Z",
-      "id": "d091876e0bff76c27a0ddb8d692fa41b"
-    },
-    {
       "title": "How do you handle mistakes by subordinates",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r1pq8l/how_do_you_handle_mistakes_by_subordinates/",
       "source": "r/ExperiencedDevs",
@@ -1248,29 +1265,12 @@
       "id": "9b172939faa946ac5fbd57c27e3b123e"
     },
     {
-      "title": "Using YouTube as Cloud Storage",
-      "link": "https://www.reddit.com/r/programming/comments/1r1jcl8/using_youtube_as_cloud_storage/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-11T01:12:45Z",
-      "id": "579fc962680e00ebb0233bdf7f208ef7"
-    },
-    {
       "title": "Positive comment on coworkers?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r1fl0j/positive_comment_on_coworkers/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-02-10T22:36:36Z",
       "id": "ce4fde140fb727fab8c400dae2254523"
-    },
-    {
-      "title": "Show HN: Sol LeWitt-style instruction-based drawings in the browser",
-      "link": "https://intervolz.com/sollewitt/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-10T20:02:05Z",
-      "id": "418e95bee3aefb991a9e62178191adbb",
-      "comments": "https://news.ycombinator.com/item?id=46965968"
     },
     {
       "title": "r/NFL Mock Draft: 2026 Edition Call for Team Representatives",
@@ -1394,22 +1394,22 @@
       "id": "932e09ca5d44119dae86ab8041d34f77"
     },
     {
-      "title": "Interlock (Engineering)",
-      "link": "https://en.wikipedia.org/wiki/Interlock_(engineering)",
+      "title": "Particle Lenia",
+      "link": "https://znah.net/lenia/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-08T19:51:01Z",
-      "id": "2ab5f88ad3c68b6d5bcce78b5fb8502c",
-      "comments": "https://news.ycombinator.com/item?id=46937844"
+      "published": "2026-02-08T20:15:19Z",
+      "id": "19bd0af07c5e9f5651bf96564c14c33d",
+      "comments": "https://news.ycombinator.com/item?id=46938084"
     },
     {
-      "title": "Synthesizer Cartridge for the Atari 2600",
-      "link": "https://www.qotile.net/synth.html",
+      "title": "Advanced Aerial Robotics Made Simple",
+      "link": "https://www.drehmflight.com",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-08T15:22:24Z",
-      "id": "a2bddf28c39b41cfc7c77a7f588592e5",
-      "comments": "https://news.ycombinator.com/item?id=46935030"
+      "published": "2026-02-08T15:10:30Z",
+      "id": "a8f92eb10708519d53757ef544a09f2c",
+      "comments": "https://news.ycombinator.com/item?id=46934860"
     },
     {
       "title": "My Grandma Was a Fed \u2013 Lessons from Digitizing Hours of Childhood",
@@ -1421,13 +1421,13 @@
       "comments": "https://news.ycombinator.com/item?id=46934513"
     },
     {
-      "title": "The Nature of the Beast",
-      "link": "https://cinemasojourns.com/2026/02/07/the-nature-of-the-beast/",
+      "title": "Cache Monet",
+      "link": "https://cachemonet.com",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-08T12:16:48Z",
-      "id": "dc25e8def362f6687810c3619df6bbf6",
-      "comments": "https://news.ycombinator.com/item?id=46933632"
+      "published": "2026-02-08T10:22:00Z",
+      "id": "c125d139a8bc25f1153e73b5fd414d00",
+      "comments": "https://news.ycombinator.com/item?id=46933020"
     },
     {
       "title": "Japan's Dododo Land, the most irritating place on Earth",
