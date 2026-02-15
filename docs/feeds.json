@@ -1,13 +1,246 @@
 {
-  "last_updated": "2026-02-15T15:21:09.806286Z",
+  "last_updated": "2026-02-15T18:30:25.195149Z",
   "items": [
     {
-      "title": "The Ephemeral Infrastructure Paradox and the Need for Better Identity Governance",
-      "link": "https://www.reddit.com/r/programming/comments/1r5h21h/the_ephemeral_infrastructure_paradox_and_the_need/",
+      "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
+      "link": "https://www.reddit.com/r/programming/comments/1r5lg6n/how_to_choose_between_hindleymilner_and/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-02-15T15:15:29Z",
-      "id": "824aea1f902325f273598f1d8e743450"
+      "published": "2026-02-15T18:07:17Z",
+      "id": "3ca50c0e540a09367cfdd6a738dce96e"
+    },
+    {
+      "title": "[Caleb Williams Fan Club] This throw didn\u2019t get enough love. Flat-footed. 50 yards through the air. Right on the money for the TD. Insane.",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1r5ldt7/caleb_williams_fan_club_this_throw_didnt_get/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-02-15T18:04:45Z",
+      "id": "6f3726725c1482467330d0c4ee2678d9"
+    },
+    {
+      "title": "I wonder if Shemar Turner is going to play a role in how the Bears draft is April?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1r5l8yo/i_wonder_if_shemar_turner_is_going_to_play_a_role/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-02-15T17:59:47Z",
+      "id": "23e7ff402c21b54293ff47f86b80b17c"
+    },
+    {
+      "title": "Is over hiring a red flag?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5l4km/is_over_hiring_a_red_flag/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-15T17:55:00Z",
+      "id": "0b241b7a09725c11dc181e872ddd9969"
+    },
+    {
+      "title": "AI to stay in Flow - a personal decision on how I chose to (not) use AI",
+      "link": "https://www.reddit.com/r/programming/comments/1r5l0p9/ai_to_stay_in_flow_a_personal_decision_on_how_i/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-15T17:50:49Z",
+      "id": "ab406b431319d1a661cd4ba83af880cf"
+    },
+    {
+      "title": "Sam Presti was the only GM to vote against the flattening of the draft lottery odds back in 2017. The draft lottery reform passed with a 28-1-1 vote, with Dallas abstaining.",
+      "link": "https://www.reddit.com/r/nba/comments/1r5kzps/sam_presti_was_the_only_gm_to_vote_against_the/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-15T17:49:47Z",
+      "id": "effd6fe131b05a56a9e44e56ffb35fd2"
+    },
+    {
+      "title": "What is the most complex/largest app/feature you've seen built with these new AI agents?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5ktq3/what_is_the_most_complexlargest_appfeature_youve/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-15T17:43:24Z",
+      "id": "85e19c65e4b0c665b0d620d5852e3cb1"
+    },
+    {
+      "title": "How are experienced web developers navigating the current hiring market",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5kqiq/how_are_experienced_web_developers_navigating_the/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-15T17:39:58Z",
+      "id": "aebd3aed7e9d85b2aa1525bfe1f9b144"
+    },
+    {
+      "title": "[Vardon] League official: if Silver and his advisers decided the only way to stop tanking, and protect paying customers from forking over money to watch their teams lose on purpose, was to stop the draft altogether and turn rookies into free agents, it would get serious consideration.",
+      "link": "https://www.reddit.com/r/nba/comments/1r5kpmw/vardon_league_official_if_silver_and_his_advisers/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-15T17:39:01Z",
+      "id": "ab79a5f1d8bfb1603e6c8248f8112b26"
+    },
+    {
+      "title": "Surviving as an AI pragmatist in an AI-radical company?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5kog9/surviving_as_an_ai_pragmatist_in_an_airadical/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-15T17:37:45Z",
+      "id": "3a88be15aa5470965573c73b8a8459a5"
+    },
+    {
+      "title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
+      "link": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T17:37:10Z",
+      "id": "25edff041baa33a1479d7bd0fb2d2997",
+      "comments": "https://news.ycombinator.com/item?id=47025624"
+    },
+    {
+      "title": "LT6502: A 6502-based homebrew laptop",
+      "link": "https://github.com/TechPaula/LT6502",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T17:12:35Z",
+      "id": "5fa5780bdc82c81d3950f81b533e229b",
+      "comments": "https://news.ycombinator.com/item?id=47025399"
+    },
+    {
+      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+      "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T17:10:18Z",
+      "id": "322025759dde36f8ce921cf638d9dfb4",
+      "comments": "https://news.ycombinator.com/item?id=47025378"
+    },
+    {
+      "title": "Luka when asked about the comparisons between the Mavs and the Lakers franchise: \u201cI think the organization here is better. The Lakers are a truly legendary club and the organization is legendary too.\u201d",
+      "link": "https://www.reddit.com/r/nba/comments/1r5jjrf/luka_when_asked_about_the_comparisons_between_the/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-15T16:54:01Z",
+      "id": "7e19d4cf5aad14a78845bc1edaad3c61"
+    },
+    {
+      "title": "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
+      "link": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T16:51:17Z",
+      "id": "d0c8334f25bf179b01cc3da6df97d41f",
+      "comments": "https://news.ycombinator.com/item?id=47025188"
+    },
+    {
+      "title": "Instead of wasting time on YouTube or TikTok, are there any alternative bite sized content websites?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5jdn9/instead_of_wasting_time_on_youtube_or_tiktok_are/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-15T16:47:24Z",
+      "id": "b9e249ab97dc7b923258d9d476e325ab"
+    },
+    {
+      "title": "[Thamel] The LA Rams are set to hire Robert Wright as a defensive assistant. Wright is the former DC at Syracuse and Buffalo. In his first year at Syracuse, the Orange went 10-3 and defeated No. 6 Miami. Wright is a Mike Elko disciple with stops at Duke and Texas AM.",
+      "link": "https://www.reddit.com/r/nfl/comments/1r5j6cy/thamel_the_la_rams_are_set_to_hire_robert_wright/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-02-15T16:39:21Z",
+      "id": "d454958b46775d6c72023181e74e2bde"
+    },
+    {
+      "title": "Super Bowls Played in the Regular Season Part 1: Denver Broncos @ Dallas Cowboys - 1977",
+      "link": "https://www.reddit.com/r/nfl/comments/1r5j40g/super_bowls_played_in_the_regular_season_part_1/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-02-15T16:36:49Z",
+      "id": "b749a881c9d44d2f77a78b5042af71d2"
+    },
+    {
+      "title": "Hideki Sato, designer of all Sega's consoles, has died",
+      "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T16:19:51Z",
+      "id": "9a23fc6896076288c339ee52887563ba",
+      "comments": "https://news.ycombinator.com/item?id=47024907"
+    },
+    {
+      "title": "do you even read PRDs from your PM in 2026?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5ifv2/do_you_even_read_prds_from_your_pm_in_2026/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-15T16:11:02Z",
+      "id": "02fb7febf329ca7e97a079681e00acf1"
+    },
+    {
+      "title": "Training Vibes Coders when backlog is full",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5idk4/training_vibes_coders_when_backlog_is_full/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-15T16:08:33Z",
+      "id": "dedf6ae76378c216fbe8491c5afd8e06"
+    },
+    {
+      "title": "How do you deal with stress from leading a big project",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5id31/how_do_you_deal_with_stress_from_leading_a_big/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-15T16:08:01Z",
+      "id": "571ac9b705dbb1fac06c66ab084e3a34"
+    },
+    {
+      "title": "An Enslaved Gardener Transformed the Pecan into a Cash Crop",
+      "link": "https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T15:53:13Z",
+      "id": "ce298bc0e526b9012a99f936f4889253",
+      "comments": "https://news.ycombinator.com/item?id=47024676"
+    },
+    {
+      "title": "Kevin Durant says in the last few weeks he's watched the 1st quarter of every All Star game from the 70s to late 90s to see if it really was more competitive back then: \"The intensity the older generation been talking about, I don't know if i've seen it\"",
+      "link": "https://www.reddit.com/r/nba/comments/1r5hvst/kevin_durant_says_in_the_last_few_weeks_hes/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-15T15:49:24Z",
+      "id": "1a808757b087ffe3a111193ae448a3ad"
+    },
+    {
+      "title": "[SiriusXM NBA Radio] Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland: As a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural",
+      "link": "https://www.reddit.com/r/nba/comments/1r5huj8/siriusxm_nba_radio_donovan_mitchells_thoughts_on/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-15T15:47:57Z",
+      "id": "0bdb0ad14b359cd15fafb7af830ef05b"
+    },
+    {
+      "title": "Gwtar: A static efficient single-file HTML format",
+      "link": "https://gwern.net/gwtar",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T15:37:06Z",
+      "id": "d6a2eee74c64f9eaf42de05ff39da7c2",
+      "comments": "https://news.ycombinator.com/item?id=47024506"
+    },
+    {
+      "title": "1940s Irish sci-fi novel features early mecha and gravity assists",
+      "link": "https://github.com/cavedave/Manannan",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T14:55:53Z",
+      "id": "69591550caef2519a4e4fd431aa5b636",
+      "comments": "https://news.ycombinator.com/item?id=47024184"
+    },
+    {
+      "title": "Chase's Pace - The Quest to Dethrone Chad Johnson",
+      "link": "https://www.reddit.com/r/nfl/comments/1r5gjk0/chases_pace_the_quest_to_dethrone_chad_johnson/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-02-15T14:53:52Z",
+      "id": "15dc12edee27e79e1c278e99719590a5"
+    },
+    {
+      "title": "Inner-Platform Effect",
+      "link": "https://en.wikipedia.org/wiki/Inner-platform_effect",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T14:48:43Z",
+      "id": "381030b20e24716fbe6098e37a357985",
+      "comments": "https://news.ycombinator.com/item?id=47024112"
     },
     {
       "title": "Observability for AI Workloads: A New Paradigm for a New Era",
@@ -16,15 +249,6 @@
       "category": "tech",
       "published": "2026-02-15T14:37:09Z",
       "id": "2726bdfda6e96857d58598be08ce3335"
-    },
-    {
-      "title": "The Dark Side of the Enlightenment",
-      "link": "https://www.newstatesman.com/culture/books/2026/02/the-dark-side-of-the-enlightenment",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T14:29:03Z",
-      "id": "fe7c79a0abed749b7cb3301a83f18ff1",
-      "comments": "https://news.ycombinator.com/item?id=47023959"
     },
     {
       "title": "Custom Jersey Restock",
@@ -59,31 +283,6 @@
       "id": "9c5e9e5cdd915539904bac21e1b4a603"
     },
     {
-      "title": "Kimi Claw",
-      "link": "https://www.kimi.com/bot",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T13:48:44Z",
-      "id": "54e6b80ccb2d2d8febeb075f548d784a",
-      "comments": "https://news.ycombinator.com/item?id=47023633"
-    },
-    {
-      "title": "I build OpenBot - Your own personal AI assistant.",
-      "link": "https://www.reddit.com/r/programming/comments/1r5en36/i_build_openbot_your_own_personal_ai_assistant/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-15T13:28:38Z",
-      "id": "978e5d469b6b1a2d7df9d68c67ed3e4d"
-    },
-    {
-      "title": "Napkin Math",
-      "link": "https://www.reddit.com/r/programming/comments/1r5ejhu/napkin_math/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-15T13:23:54Z",
-      "id": "f0c4103cb0d08dc0df5d41a1b71425cb"
-    },
-    {
       "title": "To those of you who replaced themselves with AI, how did you do it?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5e8vc/to_those_of_you_who_replaced_themselves_with_ai/",
       "source": "r/ExperiencedDevs",
@@ -115,14 +314,6 @@
       "published": "2026-02-15T12:42:17Z",
       "id": "043448960a1b6701c8c16262d72613a3",
       "comments": "https://news.ycombinator.com/item?id=47023238"
-    },
-    {
-      "title": "Found this cheat sheet for LMP",
-      "link": "https://www.reddit.com/r/programming/comments/1r5djy0/found_this_cheat_sheet_for_lmp/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-15T12:34:14Z",
-      "id": "34be4e1f8b694ffb80189e6fe1fffeba"
     },
     {
       "title": "Books that helped you level up to senior engineer?",
@@ -181,23 +372,6 @@
       "published": "2026-02-15T11:25:26Z",
       "id": "e021fdc1092454295fc61b57ea5f52b9",
       "comments": "https://news.ycombinator.com/item?id=47022891"
-    },
-    {
-      "title": "A Pok\u00e9mon of a Different Color",
-      "link": "https://matthew.verive.me/blog/color/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T10:40:49Z",
-      "id": "bb6ffbc14025c7b1e112020a64628c2c",
-      "comments": "https://news.ycombinator.com/item?id=47022704"
-    },
-    {
-      "title": "can i call myself an engineer?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5b1s0/can_i_call_myself_an_engineer/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-15T10:07:32Z",
-      "id": "ead1b84c4b51e7adad93548ccc71d370"
     },
     {
       "title": "Solving the \"Dual Write\" Problem in Microservices with the Transactional Outbox Pattern (Spring Boot + Kafka)",
@@ -283,14 +457,6 @@
       "id": "21489d82e5bb15eafa1dcf1047d55023"
     },
     {
-      "title": "I wish Wordpress wasn't a thing",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r57ize/i_wish_wordpress_wasnt_a_thing/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-15T06:29:42Z",
-      "id": "b679fe57b959385473b7d1ac082cfe89"
-    },
-    {
       "title": "The broadcast did not do justice to exactly HOW empty that arena was.",
       "link": "https://www.reddit.com/r/nba/comments/1r56qe1/the_broadcast_did_not_do_justice_to_exactly_how/",
       "source": "r/nba",
@@ -340,15 +506,6 @@
       "id": "229dbc91094b2da51c0a822c46e095f3"
     },
     {
-      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
-      "link": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T03:29:39Z",
-      "id": "be0d87f0f999d7f86e94ab2a92b0cf1e",
-      "comments": "https://news.ycombinator.com/item?id=47020791"
-    },
-    {
       "title": "Error notification on distributed system",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5362j/error_notification_on_distributed_system/",
       "source": "r/ExperiencedDevs",
@@ -379,14 +536,6 @@
       "category": "sports",
       "published": "2026-02-15T01:59:32Z",
       "id": "9664751d89f0f64a6b514eb2d9b84f03"
-    },
-    {
-      "title": "Anthony Edwards meets up with Jalen Brunson at All Star Weekend: \"Y'all make sure to keep taking care of my boy, y'all cut my boy's eye and shit. I'll come out there and beat somebody up about KAT, y'all know that.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1r5257t/anthony_edwards_meets_up_with_jalen_brunson_at/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-15T01:45:06Z",
-      "id": "ea048d2defc2cc4d9c1c2c8a0de6bc56"
     },
     {
       "title": "Anthony Edwards Mount Rushmore of White Boys",
@@ -462,14 +611,6 @@
       "id": "2b1b31d6aab116d738d54cc4f77bddcc"
     },
     {
-      "title": "Reporter: \"Are yall gonna give more effort this year or is it kind of like it is what it is at this point?\" | Anthony Edwards: \"Yeah it is what it is at this point\"",
-      "link": "https://www.reddit.com/r/nba/comments/1r4zedv/reporter_are_yall_gonna_give_more_effort_this/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-14T23:35:22Z",
-      "id": "b6bfb0095b280eccf25d61b37db823fe"
-    },
-    {
       "title": "[Highlight] Former Colts DE Bubba Smith: \"I personally think [Super Bowl III] was fixed. If the Jets don't win that game, they don't have the NFL the way it is today, the merger. We were inside the 20 five times in the first half and came away with no points. [The Colts quarterback] was in on it.\"",
       "link": "https://www.reddit.com/r/nfl/comments/1r4z3m8/highlight_former_colts_de_bubba_smith_i/",
       "source": "r/nfl",
@@ -492,14 +633,6 @@
       "category": "sports",
       "published": "2026-02-14T23:16:31Z",
       "id": "6874b410e69e4a011632b5e683b02420"
-    },
-    {
-      "title": "[Highlight] Booker misses the Final 3 money ball to give him 27 making Lillard the champion!",
-      "link": "https://www.reddit.com/r/nba/comments/1r4ym10/highlight_booker_misses_the_final_3_money_ball_to/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-14T23:00:10Z",
-      "id": "3ed8497c784fe69524b42c9bf8c944a8"
     },
     {
       "title": "[Highlight] Damian Lillard scores 29 points in the final round of the 3-Point Contest, eliminating Kon Knueppel.",
@@ -598,28 +731,12 @@
       "id": "2d238de784fee8b2c570a504b3d7509b"
     },
     {
-      "title": "Shai Gilgeous-Alexander to a young fan on how he can get his aura like him: \u201cDo your homework, eat your vegetables, study for your tests, and work hard.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1r4v8oq/shai_gilgeousalexander_to_a_young_fan_on_how_he/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-14T20:37:40Z",
-      "id": "baab95b7438aa724acb6ea5ce370f184"
-    },
-    {
       "title": "What will it take to get Trey Hendrickson or Maxx Crosby?",
       "link": "https://www.reddit.com/r/CHIBears/comments/1r4ukvg/what_will_it_take_to_get_trey_hendrickson_or_maxx/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-02-14T20:10:29Z",
       "id": "c787066e0b81302ea3c0c2b6d843f842"
-    },
-    {
-      "title": "[Bobby Marks] The NBA is expected to \"overhaul the system\" in an attempt to fix tan\u00b7king. \"Whether it be rewarding teams in the standing with wins and not incentivizing teams to lose... not just something minor here.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1r4u31b/bobby_marks_the_nba_is_expected_to_overhaul_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-14T19:50:37Z",
-      "id": "c0ed40750bd55b0a34f18958bdb751a0"
     },
     {
       "title": "By what real metrics has AI improved software?",
@@ -668,23 +785,6 @@
       "category": "sports",
       "published": "2026-02-14T18:46:43Z",
       "id": "2223cd128b67b446bd1f7878baeb84ac"
-    },
-    {
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-14T18:46:32Z",
-      "id": "65f0bc879b655b153b8a1f408e4e8799",
-      "comments": "https://news.ycombinator.com/item?id=47017138"
-    },
-    {
-      "title": "NFL rookie report cards: Grading and ranking every team's 2025 draft class",
-      "link": "https://www.reddit.com/r/nfl/comments/1r4s4st/nfl_rookie_report_cards_grading_and_ranking_every/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-02-14T18:32:37Z",
-      "id": "92587138bf24e8d649b9016f4437184a"
     },
     {
       "title": "What security engineers need to know about quantum cryptography in 2026 (beyond the buzzwords)",
@@ -736,15 +836,6 @@
       "id": "c778b2a05ce04b64d31b7e131ba31c15"
     },
     {
-      "title": "Amsterdam Compiler Kit",
-      "link": "https://github.com/davidgiven/ack",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-14T16:50:47Z",
-      "id": "e21ce8b1310a829b9fa7ae61aff79d7c",
-      "comments": "https://news.ycombinator.com/item?id=47016008"
-    },
-    {
       "title": "On this day in 1990, Michael Jordan wore number 12 after his iconic 23 jersey was stolen before the game in Orlando",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r4phbv/on_this_day_in_1990_michael_jordan_wore_number_12/",
       "source": "r/chicagobulls",
@@ -777,14 +868,6 @@
       "id": "5ef7da8fb3f4be51f972129a1535296b"
     },
     {
-      "title": "The last 3 Super Bowl champions all lost their home opener of that season",
-      "link": "https://www.reddit.com/r/nfl/comments/1r4orhb/the_last_3_super_bowl_champions_all_lost_their/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-02-14T16:21:35Z",
-      "id": "ee67b95270d52d20bf0ba3b5722e9ab2"
-    },
-    {
       "title": "Evolving Git for the next decade",
       "link": "https://www.reddit.com/r/programming/comments/1r4o4px/evolving_git_for_the_next_decade/",
       "source": "r/programming",
@@ -808,14 +891,6 @@
       "published": "2026-02-14T15:35:47Z",
       "id": "4c71a992e757bb671734d59e826ce5f3",
       "comments": "https://news.ycombinator.com/item?id=47015294"
-    },
-    {
-      "title": "Should I go for an EM position even though I'm not super current with every technology out there?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r4ncxu/should_i_go_for_an_em_position_even_though_im_not/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-14T15:24:55Z",
-      "id": "2789df416805a1712b1816c7ea8db917"
     },
     {
       "title": "Josh McDaniels hasn\u2019t scored over 21 points in any playoff game since the 2018 AFCCG (7 games since).",
@@ -874,15 +949,6 @@
       "id": "256c88f0757e8fa24ca78fbe10ac3638"
     },
     {
-      "title": "OpenAI should build Slack",
-      "link": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-14T07:50:13Z",
-      "id": "392e93d4f4661cf2ad21c9f08bb15254",
-      "comments": "https://news.ycombinator.com/item?id=47012553"
-    },
-    {
       "title": "Micro Frontends: When They Make Sense and When They Don\u2019t",
       "link": "https://www.reddit.com/r/programming/comments/1r4dkgx/micro_frontends_when_they_make_sense_and_when/",
       "source": "r/programming",
@@ -905,14 +971,6 @@
       "category": "sports",
       "published": "2026-02-14T04:40:30Z",
       "id": "dfacd4950f6848aa473f34719ca62730"
-    },
-    {
-      "title": "[Wolfe] Jaguars plan to shift Travis Hunter to full-time CB, part-time WR",
-      "link": "https://www.reddit.com/r/nfl/comments/1r4b8dt/wolfe_jaguars_plan_to_shift_travis_hunter_to/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-02-14T04:35:12Z",
-      "id": "8144c0cbdcdd457b8e16bde36d3fcc4e"
     },
     {
       "title": "Iceman\u2019s 4 Pts in the nba celebrity 3 pt contest right now",
@@ -939,15 +997,6 @@
       "id": "7a32f6a342d1c9f5fe02dcb50e5664a4"
     },
     {
-      "title": "How often do full-body MRIs find cancer?",
-      "link": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-13T22:21:55Z",
-      "id": "077333880da419d434f952d747b46e7b",
-      "comments": "https://news.ycombinator.com/item?id=47008607"
-    },
-    {
       "title": "Chicago Bulls Power Rankings Week 17",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r42exs/chicago_bulls_power_rankings_week_17/",
       "source": "r/chicagobulls",
@@ -964,45 +1013,12 @@
       "id": "bc408160d0162f814ab788756c384459"
     },
     {
-      "title": "Thinking about starting a company: Any experiences? Advice?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r401ai/thinking_about_starting_a_company_any_experiences/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-13T20:22:13Z",
-      "id": "f84319a4dc4f72cee92cd41c0ac0c148"
-    },
-    {
-      "title": "Breaking the spell of vibe coding",
-      "link": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-13T19:22:18Z",
-      "id": "797933a403f51a74612554559f34461d",
-      "comments": "https://news.ycombinator.com/item?id=47006615"
-    },
-    {
       "title": "[Daniel Jeremiah] If you need an edge rusher, this is a good draft to double up. The depth of the class is impressive. I've got 10 guys worthy of a spot in top 50 players. There's another layer of traitsy players beyond that group.",
       "link": "https://www.reddit.com/r/CHIBears/comments/1r3vj31/daniel_jeremiah_if_you_need_an_edge_rusher_this/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-02-13T17:34:06Z",
       "id": "e0d049f16534adecc8b807dfb2407a56"
-    },
-    {
-      "title": "Strategies for migrating off rabbitmq at scale without a big bang cutover?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r3ufp0/strategies_for_migrating_off_rabbitmq_at_scale/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-13T16:53:36Z",
-      "id": "31785d87f5a1fd0a47e88e571ce43bcf"
-    },
-    {
-      "title": "Why do you think service-based tech companies are losing value?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r3u7ji/why_do_you_think_servicebased_tech_companies_are/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-13T16:45:03Z",
-      "id": "b82489f9c06077a7b884b6398f41829d"
     },
     {
       "title": "This can't be right...",
@@ -1054,6 +1070,14 @@
       "id": "68a41876948cc0bbb2fcaf213a496f8c"
     },
     {
+      "title": "Design Decision: Technical Debt in BillaBear",
+      "link": "https://www.reddit.com/r/programming/comments/1r3myvg/design_decision_technical_debt_in_billabear/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-13T11:41:06Z",
+      "id": "b193ec559f81161b03318d0435dc4b5f"
+    },
+    {
       "title": "Recovered 1973 diving decompression algorithm",
       "link": "https://www.reddit.com/r/programming/comments/1r3msai/recovered_1973_diving_decompression_algorithm/",
       "source": "r/programming",
@@ -1077,14 +1101,6 @@
       "published": "2026-02-13T08:53:51Z",
       "id": "72ef70962d4ed5bd61e0ce5f66cf09c6",
       "comments": "https://news.ycombinator.com/item?id=47000535"
-    },
-    {
-      "title": "How do you conduct interviews for something you\u2019re not experienced in?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r3k4wa/how_do_you_conduct_interviews_for_something_youre/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-13T08:45:57Z",
-      "id": "0d9c6276ba968068032aa7f88b3a873b"
     },
     {
       "title": "Matas in the cut \ud83d\udc40",
@@ -1136,14 +1152,6 @@
       "id": "8d5f0d87aa57dc4d4bd7470621f15208"
     },
     {
-      "title": "Guys maybe we\u2019re moving to Italy!",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1r3afhw/guys_maybe_were_moving_to_italy/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-02-13T00:26:04Z",
-      "id": "39baba1a577f4f0b7d4f06d77723de95"
-    },
-    {
       "title": "Sign & Trade Opportunities",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r38yjs/sign_trade_opportunities/",
       "source": "r/chicagobulls",
@@ -1152,12 +1160,13 @@
       "id": "5bbc7f4964bbe53f33aee6127021f192"
     },
     {
-      "title": "New team rewriting old software but ignoring why some things were done the way they were...",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r38ex2/new_team_rewriting_old_software_but_ignoring_why/",
-      "source": "r/ExperiencedDevs",
+      "title": "The seam through the center of things",
+      "link": "https://usefulfictions.substack.com/p/the-seam-through-the-center-of-things",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-12T23:01:57Z",
-      "id": "309cf0373c8f8319ccc1ba327e21489a"
+      "published": "2026-02-12T20:13:13Z",
+      "id": "a01061b23be9abf5c77abe3c00b567c3",
+      "comments": "https://news.ycombinator.com/item?id=46994456"
     },
     {
       "title": "[PFF] The highest-graded rookie in the 2025 season: COLSTON LOVELAND \ud83d\udc3b",
@@ -1166,6 +1175,23 @@
       "category": "sports",
       "published": "2026-02-12T20:08:14Z",
       "id": "95dedb514d4151b6e38a7e8085d120ef"
+    },
+    {
+      "title": "Real-time PathTracing with global illumination in WebGL",
+      "link": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-12T18:35:39Z",
+      "id": "7b7a79041140ceda1acea9a8670df776",
+      "comments": "https://news.ycombinator.com/item?id=46993014"
+    },
+    {
+      "title": "Everything Takes Longer Than You Think",
+      "link": "https://www.reddit.com/r/programming/comments/1r2ygb6/everything_takes_longer_than_you_think/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-12T16:45:59Z",
+      "id": "093794df4115df00c7430a62fd0554f9"
     },
     {
       "title": "A practical guide to observing the night sky for real skies and real equipment",
@@ -1177,29 +1203,12 @@
       "comments": "https://news.ycombinator.com/item?id=46990888"
     },
     {
-      "title": "Ranking all 63 starting quarterbacks from the 2025 NFL season (Caleb #8)",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1r2xybc/ranking_all_63_starting_quarterbacks_from_the/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-02-12T16:27:08Z",
-      "id": "ec58bd5a93bbc0bfd90670ed54ae50c3"
-    },
-    {
       "title": "Learn Fundamentals, not Frameworks",
       "link": "https://www.reddit.com/r/programming/comments/1r2xh88/learn_fundamentals_not_frameworks/",
       "source": "r/programming",
       "category": "tech",
       "published": "2026-02-12T16:09:11Z",
       "id": "07e7161d4246c362de807d9669821b93"
-    },
-    {
-      "title": "Inspecting the Source of Go Modules",
-      "link": "https://words.filippo.io/go-source/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-12T15:17:25Z",
-      "id": "a17ac03374c69ab9359098b917eab3c0",
-      "comments": "https://news.ycombinator.com/item?id=46989859"
     },
     {
       "title": "[Caleb Williams Fan Club] Caleb Williams, PCA, Connor Bedard and Matas Buzelis all plan to have dinner together soon. The future of Chicago sports is BRIGHT. | It'd be fun to be a fly on the wall for this dinner.",
@@ -1290,21 +1299,21 @@
       "id": "767b2a26b6029b0eb7ec084069082d74"
     },
     {
-      "title": "A Visual Source for Shakespeare's 'Tempest'",
-      "link": "https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-11T17:31:43Z",
-      "id": "e9d825582074339edab3061cec1449ac",
-      "comments": "https://news.ycombinator.com/item?id=46977966"
-    },
-    {
       "title": "Thoughts on Bulls new acquisitions?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r23d36/thoughts_on_bulls_new_acquisitions/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-02-11T17:18:51Z",
       "id": "846c3391060e082423d02765f99a62da"
+    },
+    {
+      "title": "Build Gaussian Splat Experiences with SuperSplat Studio",
+      "link": "https://blog.playcanvas.com/build-gaussian-splat-experiences-with-supersplat-studio/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-11T17:00:20Z",
+      "id": "06a3e8031fdd78d0b8c4f9bf19b25d7a",
+      "comments": "https://news.ycombinator.com/item?id=46977477"
     },
     {
       "title": "Hopefully Bulls develop noa essengue into a true PF/C",
@@ -1321,15 +1330,6 @@
       "category": "sports",
       "published": "2026-02-11T14:53:56Z",
       "id": "92761c39298f41dba61d2cccafbc446c"
-    },
-    {
-      "title": "Show HN: Copy-and-patch compiler for hard real-time Python",
-      "link": "https://github.com/Nonannet/copapy",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-11T08:34:51Z",
-      "id": "78fb2935659afbb49e888c3c5ccc23e9",
-      "comments": "https://news.ycombinator.com/item?id=46972392"
     },
     {
       "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
