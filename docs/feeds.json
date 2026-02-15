@@ -1,6 +1,65 @@
 {
-  "last_updated": "2026-02-15T06:46:19.534451Z",
+  "last_updated": "2026-02-15T09:27:34.549743Z",
   "items": [
+    {
+      "title": "Package Management Namespaces",
+      "link": "https://www.reddit.com/r/programming/comments/1r59xjq/package_management_namespaces/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-15T08:57:11Z",
+      "id": "63e68ebddb08bebb884f1e73562eeb0d"
+    },
+    {
+      "title": "Seeing Theory",
+      "link": "https://seeing-theory.brown.edu/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T08:40:12Z",
+      "id": "7895c5fed64f848c63ff51d9d2748a34",
+      "comments": "https://news.ycombinator.com/item?id=47022067"
+    },
+    {
+      "title": "No Coding Before 10am",
+      "link": "https://michaelxbloch.substack.com/p/no-coding-before-10am",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T08:21:10Z",
+      "id": "b2bc63efd3f3a3d29ec4678371bf5526",
+      "comments": "https://news.ycombinator.com/item?id=47021992"
+    },
+    {
+      "title": "Oat \u2013 Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+      "link": "https://oat.ink/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T08:17:05Z",
+      "id": "a6da4794935c273a3e45145b2258a4a9",
+      "comments": "https://news.ycombinator.com/item?id=47021980"
+    },
+    {
+      "title": "The Next Two Years of Software Engineering",
+      "link": "https://www.reddit.com/r/programming/comments/1r58zqv/the_next_two_years_of_software_engineering/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-15T07:58:57Z",
+      "id": "66829190dce469cda25d3d88af9cbe98"
+    },
+    {
+      "title": "How do you retain your varied skillset as an engineer?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r58pzj/how_do_you_retain_your_varied_skillset_as_an/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-15T07:41:56Z",
+      "id": "ca7fba72ecfde4c3b8fe5f4fbefb1894"
+    },
+    {
+      "title": "Benny the Bull got ups!",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1r57x5s/benny_the_bull_got_ups/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2026-02-15T06:53:11Z",
+      "id": "21489d82e5bb15eafa1dcf1047d55023"
+    },
     {
       "title": "I wish Wordpress wasn't a thing",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r57ize/i_wish_wordpress_wasnt_a_thing/",
@@ -10,12 +69,13 @@
       "id": "b679fe57b959385473b7d1ac082cfe89"
     },
     {
-      "title": "Escaping the \"Startup Chaos\" for Enterprise: Why \"Boring\" is Better",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r57hr1/escaping_the_startup_chaos_for_enterprise_why/",
-      "source": "r/ExperiencedDevs",
+      "title": "Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm",
+      "link": "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-15T06:27:40Z",
-      "id": "4026b5d3421bdc258801a96bb117a86f"
+      "published": "2026-02-15T06:00:42Z",
+      "id": "6cec583b65153a8ffc9eea1f09b65408",
+      "comments": "https://news.ycombinator.com/item?id=47021421"
     },
     {
       "title": "The broadcast did not do justice to exactly HOW empty that arena was.",
@@ -26,6 +86,15 @@
       "id": "b70728610b176c719affd61b9c61ef96"
     },
     {
+      "title": "Flashpoint Archive \u2013 Over 200k web games and animations preserved",
+      "link": "https://flashpointarchive.org",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T05:43:59Z",
+      "id": "42bafc5fe2a17e1e925046fdf1913105",
+      "comments": "https://news.ycombinator.com/item?id=47021354"
+    },
+    {
       "title": "A quality assurance story we can learn from",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r56g55/a_quality_assurance_story_we_can_learn_from/",
       "source": "r/ExperiencedDevs",
@@ -34,13 +103,20 @@
       "id": "bd54124dad9426907a4b9bb09addc0a0"
     },
     {
-      "title": "Linear Representations and Superposition",
-      "link": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T04:29:44Z",
-      "id": "63439106dbb0e99434d604eee1824e9e",
-      "comments": "https://news.ycombinator.com/item?id=47021065"
+      "title": "The Seattle Seahawks now have a 2-1 record on Super Bowls played in the same year as the FIFA World Cup.",
+      "link": "https://www.reddit.com/r/nfl/comments/1r561no/the_seattle_seahawks_now_have_a_21_record_on/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-02-15T05:05:42Z",
+      "id": "978587b7341a1c480f9a643a4bf738a0"
+    },
+    {
+      "title": "Jeremy Lin and Kenyon Martin squash their beef from 10 years ago at the ASG. Martin said Lin shouldn\u2019t wear dreadlocks, and was trying to \"be black\" and needed to be reminded his last name is \"Lin\". Lin responded that he had Chinese tattoos",
+      "link": "https://www.reddit.com/r/nba/comments/1r55w31/jeremy_lin_and_kenyon_martin_squash_their_beef/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-15T04:57:25Z",
+      "id": "1ad1ed8ac9a3fc75e864d3529bec690d"
     },
     {
       "title": "I\u2019m bad at interviews, any advice?",
@@ -206,14 +282,6 @@
       "id": "6874b410e69e4a011632b5e683b02420"
     },
     {
-      "title": "[All-Access] Damian Lillard hoists the 3-Point Contest Trophy for the 3rd time in his career.",
-      "link": "https://www.reddit.com/r/nba/comments/1r4ysnw/allaccess_damian_lillard_hoists_the_3point/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-14T23:08:10Z",
-      "id": "96152d7f4513e331d59574994f448526"
-    },
-    {
       "title": "[Highlights] NFL Films: Super Bowl LX Cinematic Recap",
       "link": "https://www.reddit.com/r/nfl/comments/1r4ysb7/highlights_nfl_films_super_bowl_lx_cinematic_recap/",
       "source": "r/nfl",
@@ -325,15 +393,6 @@
       "category": "sports",
       "published": "2026-02-14T21:13:32Z",
       "id": "e9721c5ed261f7b55a7ac90386a408ef"
-    },
-    {
-      "title": "Colored Petri Nets, LLMs, and distributed applications",
-      "link": "https://blog.sao.dev/cpns-llms-distributed-apps/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-14T21:08:08Z",
-      "id": "5ebd82769024a4b510fcc0fdf91fda25",
-      "comments": "https://news.ycombinator.com/item?id=47018405"
     },
     {
       "title": "Wemby when asked if he would shed a tear when LeBron retires: \"No.\"",
@@ -472,15 +531,6 @@
       "category": "tech",
       "published": "2026-02-14T17:57:18Z",
       "id": "da8257a6ec6149c6d7fa73a59a3be746"
-    },
-    {
-      "title": "A header-only C vector database library",
-      "link": "https://github.com/abdimoallim/vdb",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-14T17:45:09Z",
-      "id": "0a605d5b3e9aaa9af0f0909b8c7952a0",
-      "comments": "https://news.ycombinator.com/item?id=47016530"
     },
     {
       "title": "Eli Manning on Bill Belichick\u2019s Hall of Fame snub: \u201cBill Belichick not making the Hall of Fame is pretty shocking\u201d",
@@ -777,14 +827,6 @@
       "id": "8456a6dec00655e96d21b72d909a53ad"
     },
     {
-      "title": "[Highlight] Witherspoon and Macdonald After Winning the Super Bowl",
-      "link": "https://www.reddit.com/r/nfl/comments/1r49t7p/highlight_witherspoon_and_macdonald_after_winning/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-02-14T03:24:38Z",
-      "id": "590859c607bb0eaa2654db1dedf21949"
-    },
-    {
       "title": "Who else got one? STH Perfect Attendance",
       "link": "https://www.reddit.com/r/CHIBears/comments/1r48985/who_else_got_one_sth_perfect_attendance/",
       "source": "r/CHIBears",
@@ -799,15 +841,6 @@
       "category": "sports",
       "published": "2026-02-14T00:37:26Z",
       "id": "7a32f6a342d1c9f5fe02dcb50e5664a4"
-    },
-    {
-      "title": "Launching Interop 2026",
-      "link": "https://hacks.mozilla.org/2026/02/launching-interop-2026/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-13T22:40:28Z",
-      "id": "9274405f9aa101d9565a701aa064233f",
-      "comments": "https://news.ycombinator.com/item?id=47008821"
     },
     {
       "title": "How often do full-body MRIs find cancer?",
@@ -916,14 +949,6 @@
       "category": "sports",
       "published": "2026-02-13T15:53:02Z",
       "id": "38b77d1bc943b0f284f8e45bda1ab739"
-    },
-    {
-      "title": "Dave Farley on AI, Modern Software Engineering, and Engineering Discipline",
-      "link": "https://www.reddit.com/r/programming/comments/1r3qlqs/dave_farley_on_ai_modern_software_engineering_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-13T14:28:50Z",
-      "id": "d18e2107c2bc32553239addbde944606"
     },
     {
       "title": "New Architecture Could Cut Quantum Hardware Needed to Break RSA-2048 by Tenfold, Study Finds",
@@ -1104,15 +1129,6 @@
       "id": "95dedb514d4151b6e38a7e8085d120ef"
     },
     {
-      "title": "Connes Embedding Problem",
-      "link": "https://en.wikipedia.org/wiki/Connes_embedding_problem",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-12T19:19:30Z",
-      "id": "3b2a1684ba0a38ac5d290b9dad34bcbc",
-      "comments": "https://news.ycombinator.com/item?id=46993647"
-    },
-    {
       "title": "Everything Takes Longer Than You Think",
       "link": "https://www.reddit.com/r/programming/comments/1r2ygb6/everything_takes_longer_than_you_think/",
       "source": "r/programming",
@@ -1159,14 +1175,6 @@
       "category": "tech",
       "published": "2026-02-12T13:11:31Z",
       "id": "38e002a0c1ad5d6f147e4ca42a093df4"
-    },
-    {
-      "title": "How to run your userland code inside the kernel: Writing a faster `top`",
-      "link": "https://www.reddit.com/r/programming/comments/1r2sx3u/how_to_run_your_userland_code_inside_the_kernel/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-12T13:06:00Z",
-      "id": "d3dfacea8ad0c1c8d12278dfd27e3c7c"
     },
     {
       "title": "Profiling and Fixing RocksDB Ingestion: 23\u00d7 Faster on 1M Rows",
@@ -1282,6 +1290,15 @@
       "comments": "https://news.ycombinator.com/item?id=46977967"
     },
     {
+      "title": "A Visual Source for Shakespeare's 'Tempest'",
+      "link": "https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-11T17:31:43Z",
+      "id": "e9d825582074339edab3061cec1449ac",
+      "comments": "https://news.ycombinator.com/item?id=46977966"
+    },
+    {
       "title": "Thoughts on Bulls new acquisitions?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r23d36/thoughts_on_bulls_new_acquisitions/",
       "source": "r/chicagobulls",
@@ -1367,15 +1384,6 @@
       "comments": "https://news.ycombinator.com/item?id=46968641"
     },
     {
-      "title": "Can my SPARC server host a website?",
-      "link": "https://rup12.net/posts/can-my-sparc-server-host-my-website/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-10T16:14:56Z",
-      "id": "bb389a69e43a2e23775073f789813989",
-      "comments": "https://news.ycombinator.com/item?id=46961931"
-    },
-    {
       "title": "r/NFL Mock Draft: 2026 Edition Call for Team Representatives",
       "link": "https://www.reddit.com/r/nfl/comments/1r12mo8/rnfl_mock_draft_2026_edition_call_for_team/",
       "source": "r/nfl",
@@ -1414,14 +1422,6 @@
       "category": "sports",
       "published": "2026-02-10T04:57:36Z",
       "id": "df98a90672954ecc52dd2ed6e34bac66"
-    },
-    {
-      "title": "Post Game Thread - NBA: The Nets defeat the Bulls on Feb 9, 2026, the final score is 123-115.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1r0pa4g/post_game_thread_nba_the_nets_defeat_the_bulls_on/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-02-10T03:03:31Z",
-      "id": "2cc91069e75a57736cde11339a8cb01c"
     },
     {
       "title": "r/nba Community Home",
