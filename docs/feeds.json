@@ -1,6 +1,39 @@
 {
-  "last_updated": "2026-02-16T06:58:27.611549Z",
+  "last_updated": "2026-02-16T09:49:48.951989Z",
   "items": [
+    {
+      "title": "Why \u201cSkip the Code, Ship the Binary\u201d Is a Category Error",
+      "link": "https://www.reddit.com/r/programming/comments/1r65ee0/why_skip_the_code_ship_the_binary_is_a_category/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-16T09:42:59Z",
+      "id": "a5062b1c60aacaf873f6345ed2d6cc35"
+    },
+    {
+      "title": "Planning My Next Role Before a Possible Layoff \u2014 Strategy Advice?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r65cfy/planning_my_next_role_before_a_possible_layoff/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-16T09:39:40Z",
+      "id": "f7b743585958897d408c59e48daaf7bf"
+    },
+    {
+      "title": "picol: A Tcl interpreter in 500 lines of code",
+      "link": "https://github.com/antirez/picol",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-16T08:04:11Z",
+      "id": "a4f6ed8c7ce64c8b9981f573a771606e",
+      "comments": "https://news.ycombinator.com/item?id=47032235"
+    },
+    {
+      "title": "100k Lines in a Month and No System",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r62ub3/100k_lines_in_a_month_and_no_system/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-16T07:06:19Z",
+      "id": "a20b983005502d1a75de1d9ec51fe123"
+    },
     {
       "title": "New Architecture Could Cut Quantum Hardware Needed to Break RSA-2048 by Tenfold, Study Finds",
       "link": "https://www.reddit.com/r/programming/comments/1r62p3i/new_architecture_could_cut_quantum_hardware/",
@@ -26,6 +59,14 @@
       "published": "2026-02-16T05:38:51Z",
       "id": "deb37757bbcd9f018fb495f3c0d13bf8",
       "comments": "https://news.ycombinator.com/item?id=47031268"
+    },
+    {
+      "title": "Jaylen Brown: \u201cContinue to speak out, theres a lot of stuff going on in the world beyond basketball, don\u2019t be afraid.\u201d",
+      "link": "https://www.reddit.com/r/nba/comments/1r60dtp/jaylen_brown_continue_to_speak_out_theres_a_lot/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-16T04:52:53Z",
+      "id": "1d78c27ccbccaa059808246801a75e00"
     },
     {
       "title": "IDEAL(and SOMEWHAT realistic) offseason for Bulls",
@@ -204,14 +245,6 @@
       "category": "sports",
       "published": "2026-02-16T00:18:41Z",
       "id": "d32b952eea28fcd493f1cdbee7c46ec6"
-    },
-    {
-      "title": "Kawhi Leonard 31 Pts, 2 Steals, 3 Rebounds in 12 minutes",
-      "link": "https://www.reddit.com/r/nba/comments/1r5ulho/kawhi_leonard_31_pts_2_steals_3_rebounds_in_12/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-16T00:16:13Z",
-      "id": "5234a9b81bca10af68d454068eb9d790"
     },
     {
       "title": "[Post Game Thread] The Stripes (2-0) defeat the World (0-2), 48-45 as Kawhi\u2019s 31 points leads team Stripes to the All-Star Game Final!",
@@ -393,14 +426,6 @@
       "comments": "https://news.ycombinator.com/item?id=47028013"
     },
     {
-      "title": "Local WebSocket: Building Real-Time Apps That Work Without the Cloud",
-      "link": "https://www.reddit.com/r/programming/comments/1r5quh6/local_websocket_building_realtime_apps_that_work/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-15T21:37:29Z",
-      "id": "31e09387085cafce9081621d0f88d2c3"
-    },
-    {
       "title": "How to prepare to speak to a hiring manager?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5qfe5/how_to_prepare_to_speak_to_a_hiring_manager/",
       "source": "r/ExperiencedDevs",
@@ -514,15 +539,6 @@
       "id": "c029a05d758a7b4fd8d9b48011036aec"
     },
     {
-      "title": "Show HN: VOOG \u2013 Moog-style polyphonic synthesizer in Python with tkinter GUI",
-      "link": "https://github.com/gpasquero/voog",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T19:40:57Z",
-      "id": "33be15bd4c9f1d5f0a16f7483390c5c6",
-      "comments": "https://news.ycombinator.com/item?id=47026768"
-    },
-    {
       "title": "Senior engineer vs program/project manager",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r5niid/senior_engineer_vs_programproject_manager/",
       "source": "r/ExperiencedDevs",
@@ -587,15 +603,6 @@
       "category": "tech",
       "published": "2026-02-15T18:07:17Z",
       "id": "3ca50c0e540a09367cfdd6a738dce96e"
-    },
-    {
-      "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
-      "link": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T18:05:24Z",
-      "id": "1d5fb2d89cdec6b67d3b9c7ca38a8b6b",
-      "comments": "https://news.ycombinator.com/item?id=47025864"
     },
     {
       "title": "[Caleb Williams Fan Club] This throw didn\u2019t get enough love. Flat-footed. 50 yards through the air. Right on the money for the TD. Insane.",
@@ -845,15 +852,6 @@
       "id": "e68c5e49667c237324e722abb3cfac8d"
     },
     {
-      "title": "I fixed Windows native development",
-      "link": "https://marler8997.github.io/blog/fixed-windows/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T11:25:26Z",
-      "id": "339aa37d563b4bdb49ca35b1f6ae8120",
-      "comments": "https://news.ycombinator.com/item?id=47022891"
-    },
-    {
       "title": "Solving the \"Dual Write\" Problem in Microservices with the Transactional Outbox Pattern (Spring Boot + Kafka)",
       "link": "https://www.reddit.com/r/programming/comments/1r5agnp/solving_the_dual_write_problem_in_microservices/",
       "source": "r/programming",
@@ -894,14 +892,6 @@
       "id": "21489d82e5bb15eafa1dcf1047d55023"
     },
     {
-      "title": "A quality assurance story we can learn from",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r56g55/a_quality_assurance_story_we_can_learn_from/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-15T05:28:23Z",
-      "id": "bd54124dad9426907a4b9bb09addc0a0"
-    },
-    {
       "title": "I\u2019m bad at interviews, any advice?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r557d8/im_bad_at_interviews_any_advice/",
       "source": "r/ExperiencedDevs",
@@ -940,14 +930,6 @@
       "category": "sports",
       "published": "2026-02-15T00:24:04Z",
       "id": "9e0a7c72defcc5f0cf675413edfc12c1"
-    },
-    {
-      "title": "Skilling up on planning/architecture/design in an ai-assisted world",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r504df/skilling_up_on_planningarchitecturedesign_in_an/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-15T00:08:23Z",
-      "id": "7f6e2d039173955cfe634229360d61ff"
     },
     {
       "title": "How long do job postings stay open?",
@@ -1168,6 +1150,15 @@
       "id": "38b77d1bc943b0f284f8e45bda1ab739"
     },
     {
+      "title": "Designing a 36-key custom keyboard layout (2021)",
+      "link": "https://peterxjang.medium.com/designing-a-36-key-custom-keyboard-layout-24498a0eecd4",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-13T14:44:44Z",
+      "id": "7ea5c2b3738f0203f4e97ce28826c4b2",
+      "comments": "https://news.ycombinator.com/item?id=47003294"
+    },
+    {
       "title": "Weekly Friday Self-Promotion and Fan Art Thread",
       "link": "https://www.reddit.com/r/nba/comments/1r3oj0l/weekly_friday_selfpromotion_and_fan_art_thread/",
       "source": "r/nba",
@@ -1182,6 +1173,15 @@
       "category": "tech",
       "published": "2026-02-13T11:42:22Z",
       "id": "68a41876948cc0bbb2fcaf213a496f8c"
+    },
+    {
+      "title": "Expensively Quadratic: The LLM Agent Cost Curve",
+      "link": "https://blog.exe.dev/expensively-quadratic",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-13T07:44:50Z",
+      "id": "6f1ed4461dd0902d0cae75067af4336e",
+      "comments": "https://news.ycombinator.com/item?id=47000034"
     },
     {
       "title": "Matas in the cut \ud83d\udc40",
@@ -1266,6 +1266,24 @@
       "id": "58e4a499b4b73b57b95435615f125e3d"
     },
     {
+      "title": "Show HN: Solving Sudoku reasoning via Energy Geometric models",
+      "link": "https://www.davisgeometric.com/index.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-12T09:22:54Z",
+      "id": "054737deafe685fc2fa7300c7c9d465a",
+      "comments": "https://news.ycombinator.com/item?id=46986604"
+    },
+    {
+      "title": "1,300-year-old world chronicle unearthed in Sinai",
+      "link": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-12T04:01:48Z",
+      "id": "5a296e811b57b0fe8977f430fc0127f8",
+      "comments": "https://news.ycombinator.com/item?id=46984768"
+    },
+    {
       "title": "Honest question on new look Bulls",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r2irxl/honest_question_on_new_look_bulls/",
       "source": "r/chicagobulls",
@@ -1296,15 +1314,6 @@
       "category": "sports",
       "published": "2026-02-11T23:30:03Z",
       "id": "3f80e7d3795836c948d945cb7a7684fe"
-    },
-    {
-      "title": "Language a Wood for Thought: Susan Howe's Work",
-      "link": "https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-11T23:07:10Z",
-      "id": "2a09936d94806551ecf438bfde651b52",
-      "comments": "https://news.ycombinator.com/item?id=46982509"
     },
     {
       "title": "Seat Help",
@@ -1374,30 +1383,21 @@
       "comments": "https://news.ycombinator.com/item?id=46976256"
     },
     {
+      "title": "Lost Soviet Moon Lander May Have Been Found",
+      "link": "https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-11T15:03:08Z",
+      "id": "55d92f89ebc6512e1dfc73c19e7d54a5",
+      "comments": "https://news.ycombinator.com/item?id=46975822"
+    },
+    {
       "title": "PRE GAME: Chicago Bulls (24-30) at Boston Celtics (34-19) (February 11, 2026)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r1zgu8/pre_game_chicago_bulls_2430_at_boston_celtics/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-02-11T14:53:56Z",
       "id": "92761c39298f41dba61d2cccafbc446c"
-    },
-    {
-      "title": "Why does aluminum foil have one shiny side and one with a matte finish?",
-      "link": "https://bookofjoe2.blogspot.com/2025/10/why-does-aluminum-foil-have-one-shiny.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-11T13:35:09Z",
-      "id": "ed92f09a9dbc246c412d4797b1180131",
-      "comments": "https://news.ycombinator.com/item?id=46974763"
-    },
-    {
-      "title": "Benchmarking Automatic Typesetting Systems",
-      "link": "https://news.speedata.de/2026/02/10/typesetting-benchmark/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-11T06:20:08Z",
-      "id": "716803a1e5a32a9458e427f479e269cf",
-      "comments": "https://news.ycombinator.com/item?id=46971547"
     },
     {
       "title": "Will be carrying his own bags in the G",
