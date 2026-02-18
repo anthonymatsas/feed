@@ -1,6 +1,131 @@
 {
-  "last_updated": "2026-02-18T09:42:11.239959Z",
+  "last_updated": "2026-02-18T12:56:09.111187Z",
   "items": [
+    {
+      "title": "BrowserPod: universal in-browser sandbox powered by Wasm (starting with Node.js)",
+      "link": "https://www.reddit.com/r/programming/comments/1r828qp/browserpod_universal_inbrowser_sandbox_powered_by/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-18T12:55:07Z",
+      "id": "83f9b37700debffcd05d3dd91a88473c"
+    },
+    {
+      "title": "Link Whatsapp with e-commerce",
+      "link": "https://www.reddit.com/r/programming/comments/1r81xpo/link_whatsapp_with_ecommerce/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-18T12:40:44Z",
+      "id": "9384ed1300a02ddf3036f0da27cfb761"
+    },
+    {
+      "title": "A sold-out Omi builder hackathon powered by Indori VC, OJone, and HiDevs",
+      "link": "https://www.reddit.com/r/programming/comments/1r81snl/a_soldout_omi_builder_hackathon_powered_by_indori/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-18T12:34:00Z",
+      "id": "b6b65bc7ac4ed2f368236fb975134d76"
+    },
+    {
+      "title": "CP3 when showing off the custom plaque that the Spurs gave him last season: \"Crazy, ain't it? This is dope. The Spurs gave this to me last year. It's so dope 'cause the Spurs gave me this last year, my best organization I played for.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1r81s5o/cp3_when_showing_off_the_custom_plaque_that_the/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-18T12:33:22Z",
+      "id": "140a34305b0fcaa7ca2cb837b4387f77"
+    },
+    {
+      "title": "Increased number of unprofessional behaviour from companies during interviews",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r81mk0/increased_number_of_unprofessional_behaviour_from/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-18T12:25:49Z",
+      "id": "26387f184666da80d60e4149f6b41a44"
+    },
+    {
+      "title": "How are you foing feature flags and what are the things to consider?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r81lqd/how_are_you_foing_feature_flags_and_what_are_the/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-18T12:24:39Z",
+      "id": "50d7434080d758ec520d4094873b5429"
+    },
+    {
+      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
+      "link": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-18T12:00:50Z",
+      "id": "946184134e310bdfe8040976f82c7452",
+      "comments": "https://news.ycombinator.com/item?id=47060117"
+    },
+    {
+      "title": "Read Letters from the Children Detained at ICE's Dilley Facility",
+      "link": "https://www.propublica.org/article/ice-dilley-children-letters",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-18T11:55:44Z",
+      "id": "a2688c8503fecb42ce090f4ea5118a65",
+      "comments": "https://news.ycombinator.com/item?id=47060078"
+    },
+    {
+      "title": "GitHub Repo For Processing US DOL LCA Data",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r80zvb/github_repo_for_processing_us_dol_lca_data/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-18T11:54:29Z",
+      "id": "78777a8ab0ad7a9b805ddba8ec876ec9"
+    },
+    {
+      "title": "Fastest Front End Tooling for Humans and AI",
+      "link": "https://cpojer.net/posts/fastest-frontend-tooling",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-18T11:51:01Z",
+      "id": "ae9891af60a470de879e3ecb4e27318d",
+      "comments": "https://news.ycombinator.com/item?id=47060052"
+    },
+    {
+      "title": "I work with tech professionals at companies like Google and Meta on their spoken English. Here are the communication patterns I see holding people back in US corporate culture.",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r80gsm/i_work_with_tech_professionals_at_companies_like/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-18T11:25:47Z",
+      "id": "d52c6f1d57c46d797b255de5b367ff95"
+    },
+    {
+      "title": "Cam Newton Breaks Silence After His Show Is Canceled Just 8 Episodes In",
+      "link": "https://www.reddit.com/r/nfl/comments/1r80f5w/cam_newton_breaks_silence_after_his_show_is/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-02-18T11:23:15Z",
+      "id": "5631609fd2c8db6d0ad6642cf99e7d8a"
+    },
+    {
+      "title": "How reliable is HTML \u2192 PDF in production systems?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r7zpdr/how_reliable_is_html_pdf_in_production_systems/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-18T10:42:41Z",
+      "id": "2d33957857ce88612d179143a5d83e5c"
+    },
+    {
+      "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
+      "link": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-18T10:29:30Z",
+      "id": "cd16e11a26d0fcb378a42c3fc6b68fcb",
+      "comments": "https://news.ycombinator.com/item?id=47059520"
+    },
+    {
+      "title": "Asahi Linux Progress Report: Linux 6.19",
+      "link": "https://asahilinux.org/2026/02/progress-report-6-19/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-18T10:00:11Z",
+      "id": "65af463683b20a3f55aad44cbe3ec449",
+      "comments": "https://news.ycombinator.com/item?id=47059275"
+    },
     {
       "title": "Vibe-coded crypto protocol got hacked for $2M",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r7ynqy/vibecoded_crypto_protocol_got_hacked_for_2m/",
@@ -34,14 +159,6 @@
       "id": "24b4e36294492dbf56c2ff247c835d93"
     },
     {
-      "title": "We have a new problem in our Team: AI is shipping faster but we are slow",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r7y2wg/we_have_a_new_problem_in_our_team_ai_is_shipping/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-18T09:04:07Z",
-      "id": "51b2e7971c6c8a7aa30f42e69ae42a5b"
-    },
-    {
       "title": "Head of IT resigned",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r7xxm3/head_of_it_resigned/",
       "source": "r/ExperiencedDevs",
@@ -56,14 +173,6 @@
       "category": "tech",
       "published": "2026-02-18T08:53:39Z",
       "id": "d2faf3b2d3018880d68ec896d4adaed5"
-    },
-    {
-      "title": "How do you guide LLMs to produce genuinely good UI/UX design?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r7xuu0/how_do_you_guide_llms_to_produce_genuinely_good/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-18T08:49:51Z",
-      "id": "bf6717775b2a6ddaef3bb0b2c50eb04c"
     },
     {
       "title": "Asked by Hiring Manager to sit down and help scope out the role I am applying for",
@@ -81,23 +190,6 @@
       "published": "2026-02-18T07:18:50Z",
       "id": "4d2a78925163a2a083b5934b0d050e3e",
       "comments": "https://news.ycombinator.com/item?id=47058219"
-    },
-    {
-      "title": "Stardex (YC S21) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T07:01:28Z",
-      "id": "69015e23140d729525c3192a1ec6cb6a",
-      "comments": "https://news.ycombinator.com/item?id=47058106"
-    },
-    {
-      "title": "Possibly found an AI based solution for our company that can increase our productivity by a significant amount.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r7vs61/possibly_found_an_ai_based_solution_for_our/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-18T06:42:15Z",
-      "id": "2974b1360b4829032cfdac81952471c6"
     },
     {
       "title": "Feeling stuck at work, what can I do?",
@@ -160,28 +252,12 @@
       "comments": "https://news.ycombinator.com/item?id=47057707"
     },
     {
-      "title": "Claude vs Gemini: Which AI Writes Better Code in 2026?",
-      "link": "https://www.reddit.com/r/programming/comments/1r7u6xk/claude_vs_gemini_which_ai_writes_better_code_in/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-18T05:13:28Z",
-      "id": "b2d74e4e2ea685a4bc6340b9bc89fe36"
-    },
-    {
       "title": "Can't Spell ICEMAN Without CINEMA (Edit)",
       "link": "https://www.reddit.com/r/CHIBears/comments/1r7u0bz/cant_spell_iceman_without_cinema_edit/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-02-18T05:04:08Z",
       "id": "0e02313587094641db3870f92c0bfe4a"
-    },
-    {
-      "title": "What is FANG like for someone coming from big defense?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r7tq85/what_is_fang_like_for_someone_coming_from_big/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-18T04:50:11Z",
-      "id": "5c1a5555c5456e7967a2b07bebb18730"
     },
     {
       "title": "Anyone else notice their legacy dbs are full of BS!?",
@@ -298,24 +374,6 @@
       "comments": "https://news.ycombinator.com/item?id=47055979"
     },
     {
-      "title": "Advice, not control: the role of Remote Assistance in Waymo's operations",
-      "link": "https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T01:19:15Z",
-      "id": "6d66c655f828de18d233c89a9dff1559",
-      "comments": "https://news.ycombinator.com/item?id=47055786"
-    },
-    {
-      "title": "Google Public CA is down",
-      "link": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T01:05:33Z",
-      "id": "02d5259e7c60ecbf95c20f24d182841e",
-      "comments": "https://news.ycombinator.com/item?id=47055696"
-    },
-    {
       "title": "Construction at new Bills stadium was suspended after discovery of graffiti",
       "link": "https://www.reddit.com/r/nfl/comments/1r7omzi/construction_at_new_bills_stadium_was_suspended/",
       "source": "r/nfl",
@@ -372,15 +430,6 @@
       "id": "dc54c280649d0ad157bc4a3ad65a1608"
     },
     {
-      "title": "Rathbun's Operator",
-      "link": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T00:26:15Z",
-      "id": "4c7bba6de0e3dd0be5113bf54425bedd",
-      "comments": "https://news.ycombinator.com/item?id=47055424"
-    },
-    {
       "title": "Rich Bisaccia stepping down as Packers special teams coordinator after four seasons",
       "link": "https://www.reddit.com/r/nfl/comments/1r7nplf/rich_bisaccia_stepping_down_as_packers_special/",
       "source": "r/nfl",
@@ -395,14 +444,6 @@
       "category": "sports",
       "published": "2026-02-18T00:12:19Z",
       "id": "9b54bb7ccbb1d85510a7de5bd87743ad"
-    },
-    {
-      "title": "Beyond Vector Databases: Choosing the Right Data Store for RAG",
-      "link": "https://www.reddit.com/r/programming/comments/1r7nc7i/beyond_vector_databases_choosing_the_right_data/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-18T00:05:42Z",
-      "id": "c229cc13bef8906c7e3f7f1e27ed8721"
     },
     {
       "title": "Minimal x86 Kernel Zig",
@@ -430,29 +471,12 @@
       "id": "81536bab6e710b88f26b3a101af0a5f7"
     },
     {
-      "title": "[Bradford William Davis] An NBA investor in four teams profits from immigrant athletes \u2014 and immigrant megajails",
-      "link": "https://www.reddit.com/r/nba/comments/1r7m4ol/bradford_william_davis_an_nba_investor_in_four/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-17T23:14:39Z",
-      "id": "e35d2e3150e87f9847d7c157dd1f22ed"
-    },
-    {
       "title": "Brunson: \u201cI\u2019ve seen players wait and then get hurt, and then they\u2019re at the mercy of the organization\u2026 100% I sacrificed for the team. But most importantly, I made sure my family and I are taken care of\u2026Obviously we\u2019d love for them to do right by me. I think anyone would. I feel like I sacrificed.",
       "link": "https://www.reddit.com/r/nba/comments/1r7m0zw/brunson_ive_seen_players_wait_and_then_get_hurt/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-02-17T23:10:23Z",
       "id": "50c353e54bf5f7c5d1060d20bb8c0946"
-    },
-    {
-      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
-      "link": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-17T23:06:51Z",
-      "id": "b04bbe9ca1f1b94dc9708022e2a3d9f1",
-      "comments": "https://news.ycombinator.com/item?id=47054744"
     },
     {
       "title": "Deciding on staying at company with autonomy but overload of generalized work or larger team with focused work",
@@ -494,14 +518,6 @@
       "category": "sports",
       "published": "2026-02-17T22:24:49Z",
       "id": "db6f4da0f33bfec12324b773f6267fa7"
-    },
-    {
-      "title": "[Highlight] Earl Thomas gives Free Safety Advice at Pike Place Market (2011)",
-      "link": "https://www.reddit.com/r/nfl/comments/1r7kmtz/highlight_earl_thomas_gives_free_safety_advice_at/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-02-17T22:16:04Z",
-      "id": "f87f747d0af20e900cd2065508e389b7"
     },
     {
       "title": "Road team friendly bars around the UC",
@@ -761,14 +777,6 @@
       "category": "sports",
       "published": "2026-02-17T17:43:06Z",
       "id": "89afb6dfa330d1f517e3e798f70c525f"
-    },
-    {
-      "title": "The Interest Rate on Your Codebase: A Financial Framework for Technical Debt",
-      "link": "https://www.reddit.com/r/programming/comments/1r7cyeg/the_interest_rate_on_your_codebase_a_financial/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-17T17:41:41Z",
-      "id": "c3d9fa4bacc13ba17060a5cb9f3b3fc0"
     },
     {
       "title": "[John Gambadoro] Cardinals interested in Bagent?",
@@ -1050,14 +1058,6 @@
       "id": "dd1d0896cb4ca875110eea10a74ca84c"
     },
     {
-      "title": "Guidance on Upskilling After Long-Term Work in Legacy Technology",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r6w0qw/guidance_on_upskilling_after_longterm_work_in/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-17T04:12:16Z",
-      "id": "9626ba5c6e1c695a709c37afdb444d5a"
-    },
-    {
       "title": "[Bears History] My camera seems to have had a stroke, but O\u2019Hare is tapping into the popularity of Ben Johnson and the Bears with its new marketing slogan \u201cGood, Better, Busiest\u201d \u2014 to celebrate officially becoming the busiest airport in the United States.",
       "link": "https://www.reddit.com/r/CHIBears/comments/1r6scme/bears_history_my_camera_seems_to_have_had_a/",
       "source": "r/CHIBears",
@@ -1268,15 +1268,6 @@
       "id": "6188805ddc2cdc0805066fce395b65ea"
     },
     {
-      "title": "The Economics of a Super Bowl Ad",
-      "link": "https://ro.co/perspectives/super-bowl-economics/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T21:57:29Z",
-      "id": "41d07b9b1b5c9b539bc7ec1dbdaa226b",
-      "comments": "https://news.ycombinator.com/item?id=47028049"
-    },
-    {
       "title": "This feels cursed",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r5omuy/this_feels_cursed/",
       "source": "r/chicagobulls",
@@ -1309,21 +1300,21 @@
       "id": "6f3726725c1482467330d0c4ee2678d9"
     },
     {
-      "title": "Semantic Diffusion (2006)",
-      "link": "https://martinfowler.com/bliki/SemanticDiffusion.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T13:46:08Z",
-      "id": "9821bf39dca60aa669ac9d8350f497d4",
-      "comments": "https://news.ycombinator.com/item?id=47023616"
-    },
-    {
       "title": "Benny the Bull got ups!",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r57x5s/benny_the_bull_got_ups/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-02-15T06:53:11Z",
       "id": "21489d82e5bb15eafa1dcf1047d55023"
+    },
+    {
+      "title": "Elvish as She Is Spoke [pdf]",
+      "link": "https://www.elvish.org/articles/EASIS.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-14T18:00:49Z",
+      "id": "febc411f8c6880e4224c6b31880e12db",
+      "comments": "https://news.ycombinator.com/item?id=47016696"
     },
     {
       "title": "Instruction decoding in the Intel 8087 floating-point chip",
@@ -1366,6 +1357,15 @@
       "category": "sports",
       "published": "2026-02-13T21:55:52Z",
       "id": "63779971e360d6c1c047e725d0e40201"
+    },
+    {
+      "title": "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
+      "link": "https://news.ycombinator.com/item?id=47007584",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-13T20:44:08Z",
+      "id": "0a47669288728c5377fd1a9c50631a29",
+      "comments": "https://news.ycombinator.com/item?id=47007584"
     },
     {
       "title": "Weekly Friday Self-Promotion and Fan Art Thread",
