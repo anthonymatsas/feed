@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-02-18T01:53:15.537270Z",
+  "last_updated": "2026-02-18T04:49:49.174863Z",
   "items": [
+    {
+      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+      "link": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-18T02:18:29Z",
+      "id": "44d05f765cda68ad6f98741b6f5dd6e3",
+      "comments": "https://news.ycombinator.com/item?id=47056314"
+    },
+    {
+      "title": "It's not just you, YouTube is partially down in outage",
+      "link": "https://9to5google.com/2026/02/17/youtube-outage-february-2026/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-18T02:00:52Z",
+      "id": "bc42bddb04ea0aa621c615effbba6a00",
+      "comments": "https://news.ycombinator.com/item?id=47056152"
+    },
+    {
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "link": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-18T01:40:52Z",
+      "id": "d165f9f47cd4b3274967b11b610dd8a2",
+      "comments": "https://news.ycombinator.com/item?id=47055979"
+    },
     {
       "title": "Advice, not control: the role of Remote Assistance in Waymo's operations",
       "link": "https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance",
@@ -20,15 +47,6 @@
       "comments": "https://news.ycombinator.com/item?id=47055696"
     },
     {
-      "title": "Rathbun's Operator",
-      "link": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T00:26:15Z",
-      "id": "4c7bba6de0e3dd0be5113bf54425bedd",
-      "comments": "https://news.ycombinator.com/item?id=47055424"
-    },
-    {
       "title": "Minimal x86 Kernel Zig",
       "link": "https://github.com/lopespm/zig-minimal-kernel-x86",
       "source": "Hacker News",
@@ -38,13 +56,31 @@
       "comments": "https://news.ycombinator.com/item?id=47055262"
     },
     {
-      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia",
+      "title": "Create bootable ISO image files which are compatible with the Amiga CD32",
+      "link": "https://github.com/fuseoppl/isocd-win",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-17T23:19:49Z",
+      "id": "7ab636b15b397d79f6ec129f1cf13525",
+      "comments": "https://news.ycombinator.com/item?id=47054857"
+    },
+    {
+      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
       "link": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-17T23:06:51Z",
-      "id": "31e52bb471bfab5f4341059ba6125fdc",
+      "id": "b04bbe9ca1f1b94dc9708022e2a3d9f1",
       "comments": "https://news.ycombinator.com/item?id=47054744"
+    },
+    {
+      "title": "I Use Obsidian (2023)",
+      "link": "https://stephango.com/vault",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-17T22:30:37Z",
+      "id": "9ef35ffc1a5cf85f6649acef2449f0c8",
+      "comments": "https://news.ycombinator.com/item?id=47054369"
     },
     {
       "title": "I swear the UFO is coming any minute",
@@ -101,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47050488"
     },
     {
-      "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
-      "link": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-17T17:40:50Z",
-      "id": "ae5d215bf2039d134feb069bdeec8777",
-      "comments": "https://news.ycombinator.com/item?id=47050376"
-    },
-    {
       "title": "Gentoo on Codeberg",
       "link": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
       "source": "Hacker News",
@@ -164,15 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47049479"
     },
     {
-      "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
-      "link": "https://mage-bench.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-17T16:22:49Z",
-      "id": "e5532529fa2f4e6f2719c0bf18803dc8",
-      "comments": "https://news.ycombinator.com/item?id=47049227"
-    },
-    {
       "title": "Show HN: I wrote a technical history book on Lisp",
       "link": "https://berksoft.ca/gol/",
       "source": "Hacker News",
@@ -180,6 +198,15 @@
       "published": "2026-02-17T15:43:39Z",
       "id": "189c705071162451d7d6b39e784a6aeb",
       "comments": "https://news.ycombinator.com/item?id=47048733"
+    },
+    {
+      "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
+      "link": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-17T14:47:26Z",
+      "id": "e194f507bccdc113feeb7b3198768946",
+      "comments": "https://news.ycombinator.com/item?id=47048052"
     },
     {
       "title": "I converted 2D conventional flight tracking into 3D",
@@ -200,31 +227,13 @@
       "comments": "https://news.ycombinator.com/item?id=47045804"
     },
     {
-      "title": "GrapheneOS \u2013 Break Free from Google and Apple",
-      "link": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+      "title": "The Economics of a Super Bowl Ad",
+      "link": "https://ro.co/perspectives/super-bowl-economics/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-17T10:02:36Z",
-      "id": "2a1bfb10a5034322e1cbf39ee5e4031b",
-      "comments": "https://news.ycombinator.com/item?id=47045612"
-    },
-    {
-      "title": "Contra \"Grandmaster-level chess without search\" (2024)",
-      "link": "https://cosmo.tardis.ac/files/2024-02-13-searchless.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-16T03:22:31Z",
-      "id": "d1241f60c1568e3c37f5628a99731341",
-      "comments": "https://news.ycombinator.com/item?id=47030509"
-    },
-    {
-      "title": "Old School Telecine, circa 1980s (2017)",
-      "link": "https://www.liftgammagain.com/forum/index.php?threads/old-school-telecine-circa-1980s.9984/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-16T01:54:33Z",
-      "id": "4f5f4e116b8074c23ba0165822ca65d4",
-      "comments": "https://news.ycombinator.com/item?id=47029999"
+      "published": "2026-02-15T21:57:29Z",
+      "id": "41d07b9b1b5c9b539bc7ec1dbdaa226b",
+      "comments": "https://news.ycombinator.com/item?id=47028049"
     },
     {
       "title": "Use Microsoft Office Shortcuts in Libre Office",
@@ -236,13 +245,13 @@
       "comments": "https://news.ycombinator.com/item?id=47021525"
     },
     {
-      "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
-      "link": "https://github.com/switz/box-of-rain",
+      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+      "link": "https://www.vogons.org/viewtopic.php?t=105451",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-14T21:42:11Z",
-      "id": "f247224b723c6ab7fca7083274dc7e9c",
-      "comments": "https://news.ycombinator.com/item?id=47018675"
+      "published": "2026-02-14T15:17:46Z",
+      "id": "dc780a354c6933eddf2a7cb9c8f8ce63",
+      "comments": "https://news.ycombinator.com/item?id=47015138"
     },
     {
       "title": "Physicists Make Electrons Flow Like Water",
@@ -261,15 +270,6 @@
       "published": "2026-02-13T14:11:42Z",
       "id": "0413565736182a32c6d8e5b6c44aaf93",
       "comments": "https://news.ycombinator.com/item?id=47002926"
-    },
-    {
-      "title": "The Godless Students of London University",
-      "link": "https://www.historytoday.com/archive/feature/godless-students-london-university",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-13T07:51:06Z",
-      "id": "3355ee44b32cce85c5b1df1d92df94d4",
-      "comments": "https://news.ycombinator.com/item?id=47000081"
     }
   ]
 }
