@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-02-19T09:40:51.136415Z",
+  "last_updated": "2026-02-19T12:57:10.947341Z",
   "items": [
+    {
+      "title": "I traced 3,177 API calls to see what 4 AI coding tools put in the context window",
+      "link": "https://www.reddit.com/r/programming/comments/1r8yh5h/i_traced_3177_api_calls_to_see_what_4_ai_coding/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-19T12:55:33Z",
+      "id": "14c756dd24364a55b73e56ef695450a7"
+    },
+    {
+      "title": "Is Java performance still a competitive advantage in 2026?",
+      "link": "https://www.reddit.com/r/programming/comments/1r8y4sy/is_java_performance_still_a_competitive_advantage/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-19T12:39:02Z",
+      "id": "f06d9ae2f427e488cfb308a0aabca4e9"
+    },
+    {
+      "title": "Coding Tricks Used in the C64 Game Seawolves",
+      "link": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-19T12:24:33Z",
+      "id": "d4fecc30cf46ba893fa6491282f0eef8",
+      "comments": "https://news.ycombinator.com/item?id=47073044"
+    },
+    {
+      "title": "Show HN: LatentScore \u2013 Type a mood, get procedural/ambient music (open source)",
+      "link": "https://latentscore.com/demo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-19T12:06:05Z",
+      "id": "4a94beefcaa8269af1487bb61c35b993",
+      "comments": "https://news.ycombinator.com/item?id=47072930"
+    },
+    {
+      "title": "About to go out on my own -- Anything I should know?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r8xg85/about_to_go_out_on_my_own_anything_i_should_know/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-19T12:03:51Z",
+      "id": "73359acf5a8b985a9d0f061d201330d9"
+    },
+    {
+      "title": "We ran adversarial code verification on LiteLLM, LobeChat, and Chatbot UI \u2014 found 250 bugs total",
+      "link": "https://www.reddit.com/r/programming/comments/1r8xbqs/we_ran_adversarial_code_verification_on_litellm/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-19T11:57:43Z",
+      "id": "377ce2fc46ca38497b6a400ae356db18"
+    },
+    {
+      "title": "Show HN: An encrypted, local, cross-platform journaling app",
+      "link": "https://github.com/fjrevoredo/mini-diarium",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-19T11:54:21Z",
+      "id": "4130934a1c6a634a4ca5739696abd3a6",
+      "comments": "https://news.ycombinator.com/item?id=47072863"
+    },
+    {
+      "title": "ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory",
+      "link": "https://github.com/sstraust/shannonmax",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-19T11:15:38Z",
+      "id": "9b8390c5859dde07278f14892bcdba38",
+      "comments": "https://news.ycombinator.com/item?id=47072603"
+    },
+    {
+      "title": "Bridging Elixir and Python with Oban",
+      "link": "https://oban.pro/articles/bridging-with-oban",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-19T11:07:15Z",
+      "id": "ec82823d53e7c488fd19b79696f8bb54",
+      "comments": "https://news.ycombinator.com/item?id=47072539"
+    },
+    {
+      "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+      "link": "https://makie.org/website/blogposts/raytracing/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-19T10:55:13Z",
+      "id": "737c834402d0b9dd697eb0f5199416d0",
+      "comments": "https://news.ycombinator.com/item?id=47072444"
+    },
+    {
+      "title": "Why I Just Use A Website Builder, As An Experienced Programmer",
+      "link": "https://www.reddit.com/r/programming/comments/1r8vd3k/why_i_just_use_a_website_builder_as_an/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-19T10:04:27Z",
+      "id": "f59c6ac04f4d731b42f94c9e0f8013a4"
+    },
+    {
+      "title": "Waiting 3 days for AWS access is killing sprint velocity",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r8v8ej/waiting_3_days_for_aws_access_is_killing_sprint/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-19T09:56:49Z",
+      "id": "181c68d708cb23a8d5eccc1c78dd51c7"
+    },
     {
       "title": "The AI madness reached my company too, it is getting overwhelming..",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r8uw9t/the_ai_madness_reached_my_company_too_it_is/",
@@ -26,15 +128,6 @@
       "id": "4eaa20a0377b58978e48834cb9e40e0b"
     },
     {
-      "title": "Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta",
-      "link": "https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-19T06:54:28Z",
-      "id": "e08105c68066d7634d9f68b8c24ee09e",
-      "comments": "https://news.ycombinator.com/item?id=47070743"
-    },
-    {
       "title": "Old School Visual Effects: The Cloud Tank (2010)",
       "link": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
       "source": "Hacker News",
@@ -44,46 +137,12 @@
       "comments": "https://news.ycombinator.com/item?id=47070680"
     },
     {
-      "title": "US funding for global internet freedom 'effectively gutted'",
-      "link": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-19T06:41:14Z",
-      "id": "363f4a5aeed87e17837ceedf85e33d62",
-      "comments": "https://news.ycombinator.com/item?id=47070658"
-    },
-    {
-      "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
-      "link": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-19T06:09:58Z",
-      "id": "d60f221c32158224f887594f03444558",
-      "comments": "https://news.ycombinator.com/item?id=47070446"
-    },
-    {
-      "title": "XLogger \u2013 Browser-based Android log viewer: regex filter, syntax highlight, AI analysis. All processing runs locally, logs never leave your device",
-      "link": "https://www.reddit.com/r/programming/comments/1r8rd6d/xlogger_browserbased_android_log_viewer_regex/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-19T06:01:37Z",
-      "id": "283c902fb2f4024bf3811a865bdd8369"
-    },
-    {
       "title": "TD3: Kevin Durant's burner in these group chats has been known for four years. These group chats he's in are the worse kept secret in the NBA. ...in 2021, he was talking about the Brooklyn Nets under his official main account in these chats.\"",
       "link": "https://www.reddit.com/r/nba/comments/1r8r9l8/td3_kevin_durants_burner_in_these_group_chats_has/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-02-19T05:56:17Z",
       "id": "fa925fbe4cee6bb64f949456c7d88016"
-    },
-    {
-      "title": "Ex-Miami Cop Who Dragged Tyreek Hill from Car Celebrates Star's Release",
-      "link": "https://www.reddit.com/r/nfl/comments/1r8qxbk/exmiami_cop_who_dragged_tyreek_hill_from_car/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-02-19T05:37:42Z",
-      "id": "03c419a53c8f068fb60085c1fc72a8d7"
     },
     {
       "title": "Bear Claw Caleb",
@@ -108,14 +167,6 @@
       "category": "sports",
       "published": "2026-02-19T04:49:14Z",
       "id": "cb40b4e6ddc20f109a2b5104bc70fbd2"
-    },
-    {
-      "title": "Securing LLM-Integrated Web Apps: Lessons from Building an AI Tool",
-      "link": "https://www.reddit.com/r/programming/comments/1r8plyy/securing_llmintegrated_web_apps_lessons_from/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-19T04:28:16Z",
-      "id": "3e7e392fc41db48ce87bb70e6ed54c34"
     },
     {
       "title": "Cedric Coward on Ja Morant: \"If you want to say all the negative connotations about him, you're dead wrong and you need to keep your thoughts to yourself. Ja is one of the best people I've ever met. One of the best people to be around.\u201d",
@@ -183,15 +234,6 @@
       "id": "697b0be72da789c316f8707cdf806957"
     },
     {
-      "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
-      "link": "https://blackboard.sh/blog/electrobun-v1/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-19T03:46:07Z",
-      "id": "363ac4abc3d464aad2bcfcc6bfa20c53",
-      "comments": "https://news.ycombinator.com/item?id=47069650"
-    },
-    {
       "title": "Caleb at USC-Illinois basketball tonight",
       "link": "https://www.reddit.com/r/CHIBears/comments/1r8ohqd/caleb_at_uscillinois_basketball_tonight/",
       "source": "r/CHIBears",
@@ -249,13 +291,21 @@
       "id": "9b727a0818f43228364a0ad22ec9bcfd"
     },
     {
-      "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+      "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
       "link": "https://static.stepfun.com/blog/step-3.5-flash/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-19T02:32:00Z",
-      "id": "8fe8a403f65898ace50bb6a16efb6580",
+      "id": "ef6a87ad0a72f0ff7d0ca476a4662da6",
       "comments": "https://news.ycombinator.com/item?id=47069179"
+    },
+    {
+      "title": "[Highlight] Every JJ McCarthy interception from the 2025 season",
+      "link": "https://www.reddit.com/r/nfl/comments/1r8mlkn/highlight_every_jj_mccarthy_interception_from_the/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-02-19T02:05:51Z",
+      "id": "37b42ddbe1b48f2491ff8d0e64b63d75"
     },
     {
       "title": "Minecraft Java is switching from OpenGL to Vulkan",
@@ -354,15 +404,6 @@
       "category": "sports",
       "published": "2026-02-19T00:23:49Z",
       "id": "fd46c754d05ad57fa2f2313775315e47"
-    },
-    {
-      "title": "How AI is affecting productivity and jobs in Europe",
-      "link": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-19T00:22:45Z",
-      "id": "4c6c3cc85fb5b1c93aee5ef1f59f41b9",
-      "comments": "https://news.ycombinator.com/item?id=47068320"
     },
     {
       "title": "Aaron Rodgers unlikely to return to Steelers, NFL insider reports",
@@ -470,21 +511,21 @@
       "comments": "https://news.ycombinator.com/item?id=47067498"
     },
     {
-      "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
-      "link": "https://www.youtube.com/watch?v=mUmlv814aJo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T22:47:44Z",
-      "id": "72058b65b14745de7a0104115af89af6",
-      "comments": "https://news.ycombinator.com/item?id=47067496"
-    },
-    {
       "title": "[Drew London] The Breakup is Getting Ugly: Under Armour Takes Curry Brand\u2019s Instagram Followers",
       "link": "https://www.reddit.com/r/nba/comments/1r8hs44/drew_london_the_breakup_is_getting_ugly_under/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-02-18T22:39:30Z",
       "id": "8865645bc864df7af111208d4d1239c2"
+    },
+    {
+      "title": "What years of production-grade concurrency teaches us about building AI agents",
+      "link": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-18T22:37:35Z",
+      "id": "3aa34dc4a4b5e8358aa3fc3dedcb80e5",
+      "comments": "https://news.ycombinator.com/item?id=47067395"
     },
     {
       "title": "Footage of LaMelo Ball\u2019s car accident in uptown Charlotte",
@@ -666,15 +707,6 @@
       "id": "11337874bf2aabbeec63afbd27f575b8"
     },
     {
-      "title": "R3forth: A concatenative language derived from ColorForth",
-      "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T19:28:59Z",
-      "id": "7a0e3e205e4351f2cb4dd3e2b8508d27",
-      "comments": "https://news.ycombinator.com/item?id=47065179"
-    },
-    {
       "title": "The fundamental contradiction of decentralized physical infrastructure",
       "link": "https://www.reddit.com/r/programming/comments/1r8cobb/the_fundamental_contradiction_of_decentralized/",
       "source": "r/programming",
@@ -697,15 +729,6 @@
       "category": "sports",
       "published": "2026-02-18T19:14:39Z",
       "id": "d6349a9e0a82d716c4df97eec383d83f"
-    },
-    {
-      "title": "What Every Experimenter Must Know About Randomization",
-      "link": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T19:02:18Z",
-      "id": "bcafe40c48413ee895650170079fb119",
-      "comments": "https://news.ycombinator.com/item?id=47064845"
     },
     {
       "title": "Stumbled upon this heavily upvoted GBpackers meme post draft from last year, ironically mocking takes that turned out to be bang on. Never change Cheeseheads! \ud83e\udef5\ud83d\ude02",
@@ -749,14 +772,6 @@
       "id": "c75a7d5cf167986f66c71587e8246de2"
     },
     {
-      "title": "Influence and visibility in different timezone and working remotely",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r8aote/influence_and_visibility_in_different_timezone/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-18T18:16:03Z",
-      "id": "36ef2160e3f23c6c8dd6a5ea72f78cd7"
-    },
-    {
       "title": "Schefter: Raiders are seeking \u201cat least\u201d two 1st-round picks and a \u201cpremium\u201d player in any potential trade for Maxx Crosby",
       "link": "https://www.reddit.com/r/nfl/comments/1r8ald3/schefter_raiders_are_seeking_at_least_two/",
       "source": "r/nfl",
@@ -796,15 +811,6 @@
       "category": "tech",
       "published": "2026-02-18T17:42:58Z",
       "id": "01ad780471b7defc2da0a36d24f39e95"
-    },
-    {
-      "title": "The Perils of ISBN",
-      "link": "https://rygoldstein.com/posts/perils-of-isbn",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T17:34:37Z",
-      "id": "270d0d72c9c935f5c56b675111a25345",
-      "comments": "https://news.ycombinator.com/item?id=47063663"
     },
     {
       "title": "Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?",
@@ -993,14 +999,6 @@
       "id": "d2faf3b2d3018880d68ec896d4adaed5"
     },
     {
-      "title": "Asked by Hiring Manager to sit down and help scope out the role I am applying for",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r7wq0a/asked_by_hiring_manager_to_sit_down_and_help/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-18T07:38:28Z",
-      "id": "ab10ad6e2bd975e9fcfb8b61c126eac0"
-    },
-    {
       "title": "Can't Spell ICEMAN Without CINEMA (Edit)",
       "link": "https://www.reddit.com/r/CHIBears/comments/1r7u0bz/cant_spell_iceman_without_cinema_edit/",
       "source": "r/CHIBears",
@@ -1161,14 +1159,6 @@
       "id": "75fb4a6c6b7e93f340945b0941f2c9bd"
     },
     {
-      "title": "Runtime validation in type annotations",
-      "link": "https://www.reddit.com/r/programming/comments/1r6zc2r/runtime_validation_in_type_annotations/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-17T07:10:15Z",
-      "id": "62f3659c84829311ea41037b5eff758e"
-    },
-    {
       "title": "Writing a native VLC plugin in C#",
       "link": "https://www.reddit.com/r/programming/comments/1r6xv63/writing_a_native_vlc_plugin_in_c/",
       "source": "r/programming",
@@ -1183,6 +1173,15 @@
       "category": "tech",
       "published": "2026-02-17T00:15:56Z",
       "id": "aa1ffdef3f550f8d843fbd0c331bdf51"
+    },
+    {
+      "title": "Lilush \u2013 LuaJIT static runtime and shell",
+      "link": "https://lilush.link/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-17T00:14:57Z",
+      "id": "532c6a894a1e700904d140b9333332cc",
+      "comments": "https://news.ycombinator.com/item?id=47042065"
     },
     {
       "title": "Dolphin Emulator - Rise of the Triforce",
@@ -1209,6 +1208,15 @@
       "id": "697b3e130e970be73d0ca08275dffb72"
     },
     {
+      "title": "The Mongol Khans of Medieval France",
+      "link": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-16T22:27:47Z",
+      "id": "b780b9f5f331c4849f280ae82da452f2",
+      "comments": "https://news.ycombinator.com/item?id=47041225"
+    },
+    {
       "title": "Fff.nvim \u2013 Typo-resistant code search",
       "link": "https://github.com/dmtrKovalenko/fff.nvim",
       "source": "Hacker News",
@@ -1227,21 +1235,22 @@
       "comments": "https://news.ycombinator.com/item?id=47038578"
     },
     {
-      "title": "Making the Vortex Mixer",
-      "link": "https://www.asimov.press/p/vortex",
+      "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+      "link": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-16T18:05:45Z",
-      "id": "503b44aad569a8eceaa77bc09668f286",
-      "comments": "https://news.ycombinator.com/item?id=47038132"
+      "published": "2026-02-16T17:57:46Z",
+      "id": "934b9ea4460ac613e1711dbea895d839",
+      "comments": "https://news.ycombinator.com/item?id=47038032"
     },
     {
-      "title": "PostgreSQL Bloat Is a Feature, Not a Bug",
-      "link": "https://www.reddit.com/r/programming/comments/1r6cnn6/postgresql_bloat_is_a_feature_not_a_bug/",
-      "source": "r/programming",
+      "title": "Antarctica sits above Earth's strongest 'gravity hole' \u2013 how it got that way",
+      "link": "https://phys.org/news/2026-02-antarctica-earth-strongest-gravity-hole.html",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-16T15:31:06Z",
-      "id": "da801fd6ecd3e3e4a3ae73e28f50610a"
+      "published": "2026-02-16T17:23:56Z",
+      "id": "83b12f39ac23c278c16626052a690b86",
+      "comments": "https://news.ycombinator.com/item?id=47037652"
     },
     {
       "title": "Bulls at game giveaway",
@@ -1309,6 +1318,15 @@
       "comments": "https://news.ycombinator.com/item?id=47028803"
     },
     {
+      "title": "Voith Schneider Propeller",
+      "link": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-15T20:22:33Z",
+      "id": "4b818850f5e34bd678b1ce22e3c84c35",
+      "comments": "https://news.ycombinator.com/item?id=47027171"
+    },
+    {
       "title": "This feels cursed",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r5omuy/this_feels_cursed/",
       "source": "r/chicagobulls",
@@ -1332,24 +1350,6 @@
       "published": "2026-02-15T18:07:44Z",
       "id": "73e60f2160273dceef4b147a8dcb1ab5",
       "comments": "https://news.ycombinator.com/item?id=47025885"
-    },
-    {
-      "title": "Making a font with ligatures to display thirteenth-century monk numerals",
-      "link": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T15:44:11Z",
-      "id": "6284ba9dde59237779d2052cb1ea1d88",
-      "comments": "https://news.ycombinator.com/item?id=47024585"
-    },
-    {
-      "title": "A Pok\u00e9mon of a Different Color",
-      "link": "https://matthew.verive.me/blog/color/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-15T10:40:49Z",
-      "id": "bb6ffbc14025c7b1e112020a64628c2c",
-      "comments": "https://news.ycombinator.com/item?id=47022704"
     },
     {
       "title": "Benny the Bull got ups!",
