@@ -1,22 +1,85 @@
 {
-  "last_updated": "2026-02-21T18:29:06.464726Z",
+  "last_updated": "2026-02-21T21:19:09.357733Z",
   "items": [
     {
-      "title": "DialUp95 \u2013 A 90s inspired nostalgia hit",
-      "link": "https://dialup95.com/",
+      "title": "MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib",
+      "link": "https://github.com/datapartyjs/MeshTNC",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-21T17:26:17Z",
-      "id": "e8d45ed204cf9d43c7c633b04ae889e4",
-      "comments": "https://news.ycombinator.com/item?id=47102763"
+      "published": "2026-02-21T20:14:00Z",
+      "id": "9e0675722c2cef39444487288f2683ec",
+      "comments": "https://news.ycombinator.com/item?id=47104223"
     },
     {
-      "title": "What Not to Write on Your Security Clearance Form",
+      "title": "EDuke32 \u2013 Duke Nukem 3D (Open-Source)",
+      "link": "https://www.eduke32.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T20:10:13Z",
+      "id": "02878af0f510fa8c0eb479c85dd06f7a",
+      "comments": "https://news.ycombinator.com/item?id=47104185"
+    },
+    {
+      "title": "Inputlag.science \u2013 Repository of knowledge about input lag in gaming",
+      "link": "https://inputlag.science",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T19:41:52Z",
+      "id": "700ba45f9f9e0c5abec5cb127a46dd28",
+      "comments": "https://news.ycombinator.com/item?id=47103945"
+    },
+    {
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T19:40:06Z",
+      "id": "9901329e9dc65e1fdab1f2d1f38db293",
+      "comments": "https://news.ycombinator.com/item?id=47103931"
+    },
+    {
+      "title": "Cloudflare outage on February 20, 2026",
+      "link": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T19:05:31Z",
+      "id": "b7aaedee0b4a4e93745e0b3cb46d0b6f",
+      "comments": "https://news.ycombinator.com/item?id=47103649"
+    },
+    {
+      "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
+      "link": "https://github.com/a-e-k/canvas_ity",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T18:50:19Z",
+      "id": "01fb301ccf58c2e9dfa1871ef9c7e865",
+      "comments": "https://news.ycombinator.com/item?id=47103506"
+    },
+    {
+      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "link": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T18:09:24Z",
+      "id": "8002f0e5f40209b9fcbee2d565e342e7",
+      "comments": "https://news.ycombinator.com/item?id=47103136"
+    },
+    {
+      "title": "Personal Statement of a CIA Analyst",
+      "link": "https://antipolygraph.org/statements/statement-038.shtml",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T17:49:02Z",
+      "id": "b40935fab99c20b11ba1c2f49ac9420a",
+      "comments": "https://news.ycombinator.com/item?id=47102975"
+    },
+    {
+      "title": "What not to write on your security clearance form (1988)",
       "link": "https://milk.com/wall-o-shame/security_clearance.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-21T17:08:12Z",
-      "id": "9a1319769d09496bfbb9a282025a3974",
+      "id": "d2c41d5d894a6ee292271e9179e291c5",
       "comments": "https://news.ycombinator.com/item?id=47102576"
     },
     {
@@ -38,15 +101,6 @@
       "comments": "https://news.ycombinator.com/item?id=47101890"
     },
     {
-      "title": "macOS's Little-Known Command-Line Sandboxing Tool (2025)",
-      "link": "https://igorstechnoclub.com/sandbox-exec/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T14:34:45Z",
-      "id": "479d7a6da444f6619e061deb586fa9c0",
-      "comments": "https://news.ycombinator.com/item?id=47101200"
-    },
-    {
       "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
       "link": "https://www.koreaherald.com/article/10679206",
       "source": "Hacker News",
@@ -54,6 +108,15 @@
       "published": "2026-02-21T14:32:16Z",
       "id": "3d1f044ac06bc17976509377a0f56767",
       "comments": "https://news.ycombinator.com/item?id=47101171"
+    },
+    {
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "link": "https://github.com/tnm/zclaw",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T12:37:52Z",
+      "id": "256cbd7ed7df73b836aafc9bc554a347",
+      "comments": "https://news.ycombinator.com/item?id=47100232"
     },
     {
       "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
@@ -65,15 +128,6 @@
       "comments": "https://news.ycombinator.com/item?id=47099982"
     },
     {
-      "title": "Coccinelle: The Linux kernel's source-to-source transformation tool",
-      "link": "https://github.com/coccinelle/coccinelle",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T08:26:36Z",
-      "id": "bab23214eb2264ef5894cd1679d98cfd",
-      "comments": "https://news.ycombinator.com/item?id=47098669"
-    },
-    {
       "title": "AI uBlock Blacklist",
       "link": "https://github.com/alvi-se/ai-ublock-blacklist",
       "source": "Hacker News",
@@ -83,22 +137,31 @@
       "comments": "https://news.ycombinator.com/item?id=47098582"
     },
     {
-      "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
+      "title": "Acme Weather",
+      "link": "https://acmeweather.com/blog/introducing-acme-weather",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T07:13:38Z",
+      "id": "af9e12c8b596cdc162f52fe31e0662fc",
+      "comments": "https://news.ycombinator.com/item?id=47098296"
+    },
+    {
+      "title": "I verified my LinkedIn identity. Here's what I handed over",
       "link": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-21T07:06:18Z",
-      "id": "ed7ff91f93f9b2863185a1bd5b2979e9",
+      "id": "0fb69f0ccc4131e50578c4f11e46906e",
       "comments": "https://news.ycombinator.com/item?id=47098245"
     },
     {
-      "title": "What Is OAuth?",
-      "link": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+      "title": "How an inference provider can prove they're not serving a quantized model",
+      "link": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-21T01:33:40Z",
-      "id": "b8e7de9e3f7997a7e306da481f8e02cc",
-      "comments": "https://news.ycombinator.com/item?id=47096520"
+      "published": "2026-02-21T06:53:57Z",
+      "id": "dbadc598c78c1a793335a2ea7594ed52",
+      "comments": "https://news.ycombinator.com/item?id=47098172"
     },
     {
       "title": "Claws are now a new layer on top of LLM agents",
@@ -110,76 +173,49 @@
       "comments": "https://news.ycombinator.com/item?id=47096253"
     },
     {
-      "title": "CERN rebuilt the original browser from 1989 (2019)",
-      "link": "https://worldwideweb.cern.ch",
+      "title": "Be wary of Bluesky",
+      "link": "https://kevinak.se/blog/be-wary-of-bluesky",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-20T23:19:12Z",
-      "id": "47c4be6ca1e9963fc22114696178728c",
-      "comments": "https://news.ycombinator.com/item?id=47095429"
+      "published": "2026-02-20T23:35:33Z",
+      "id": "ed3684ad3ef5adbf550641a35e756b20",
+      "comments": "https://news.ycombinator.com/item?id=47095597"
     },
     {
-      "title": "Turn Dependabot off",
-      "link": "https://words.filippo.io/dependabot/",
+      "title": "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
+      "link": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-20T21:25:41Z",
-      "id": "b2904ae21dcc51a53a54ecbfd1832932",
-      "comments": "https://news.ycombinator.com/item?id=47094192"
+      "published": "2026-02-20T22:47:58Z",
+      "id": "552fa7e5b1363ffec7e9623a7b6a57ee",
+      "comments": "https://news.ycombinator.com/item?id=47095105"
     },
     {
-      "title": "OpenScan",
-      "link": "https://openscan.eu/pages/scan-gallery",
+      "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
+      "link": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-20T20:47:48Z",
-      "id": "04018f0d273ae8c714a9bb3a619d60ce",
-      "comments": "https://news.ycombinator.com/item?id=47093724"
+      "published": "2026-02-20T22:27:56Z",
+      "id": "81413b59972c8daaaada2559f9f02f11",
+      "comments": "https://news.ycombinator.com/item?id=47094877"
     },
     {
-      "title": "I found a Vulnerability. They found a Lawyer",
-      "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "title": "Loon: A functional lang with invisible types, safe ownership, and alg. effects",
+      "link": "https://loonlang.com",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-20T19:19:58Z",
-      "id": "1816c7ec8406f9718ba7ec13e7744dcc",
-      "comments": "https://news.ycombinator.com/item?id=47092578"
+      "published": "2026-02-20T21:45:31Z",
+      "id": "56471929dea1873cc3b8f0bd0eab6c00",
+      "comments": "https://news.ycombinator.com/item?id=47094429"
     },
     {
-      "title": "Every company building your AI assistant is now an ad company",
-      "link": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "title": "Uncovering insiders and alpha on Polymarket with AI",
+      "link": "https://twitter.com/peterjliu/status/2024901585806225723",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-20T18:55:15Z",
-      "id": "a83e0bb1ff8af1bc9b39411c442c780b",
-      "comments": "https://news.ycombinator.com/item?id=47092203"
-    },
-    {
-      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-20T18:42:21Z",
-      "id": "585796fcd081ce2e45e90e9bc866fd9a",
-      "comments": "https://news.ycombinator.com/item?id=47092006"
-    },
-    {
-      "title": "Facebook is cooked",
-      "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-20T18:25:07Z",
-      "id": "f1497b088e471601f12a5ea7ee6451e5",
-      "comments": "https://news.ycombinator.com/item?id=47091748"
-    },
-    {
-      "title": "Blue light filters don't work \u2013 controlling total luminance is a better bet",
-      "link": "https://www.neuroai.science/p/blue-light-filters-dont-work",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-20T18:14:13Z",
-      "id": "9e17a29ee9c2ed3764ad588f9fbd0aa7",
-      "comments": "https://news.ycombinator.com/item?id=47091606"
+      "published": "2026-02-20T18:11:02Z",
+      "id": "b93c10a6cdee31e0f79c8fe6dda2fe55",
+      "comments": "https://news.ycombinator.com/item?id=47091557"
     },
     {
       "title": "Keep Android Open",
@@ -191,22 +227,22 @@
       "comments": "https://news.ycombinator.com/item?id=47091419"
     },
     {
-      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "title": "Microsoft team creates data-storage system that lasts for millennia",
+      "link": "https://www.nature.com/articles/d41586-026-00502-2",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-20T13:51:04Z",
-      "id": "b38230e4dd75c7f49e469b599153c0e4",
-      "comments": "https://news.ycombinator.com/item?id=47088037"
+      "published": "2026-02-18T20:12:13Z",
+      "id": "86653fe63a6ae49649b803968958c5c3",
+      "comments": "https://news.ycombinator.com/item?id=47065729"
     },
     {
-      "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "link": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "title": "A solver for Semantle",
+      "link": "https://victoriaritvo.com/blog/semantle-solver/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-20T10:32:52Z",
-      "id": "4e5ad38ef279b8eee785ece14622b9ee",
-      "comments": "https://news.ycombinator.com/item?id=47086181"
+      "published": "2026-02-18T19:25:46Z",
+      "id": "b0164c1eab4dd255f993debef8299476",
+      "comments": "https://news.ycombinator.com/item?id=47065146"
     },
     {
       "title": "How far back in time can you understand English?",
@@ -218,49 +254,13 @@
       "comments": "https://news.ycombinator.com/item?id=47061614"
     },
     {
-      "title": "Index, Count, Offset, Size",
-      "link": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
+      "title": "I Don't Like Magic",
+      "link": "https://adactio.com/journal/22399",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-18T08:20:17Z",
-      "id": "75e388b351f94ae622c9a452208d3e5f",
-      "comments": "https://news.ycombinator.com/item?id=47058584"
-    },
-    {
-      "title": "Approaches to writing two-sentence journal entries",
-      "link": "https://alexanderbjoy.com/two-sentence-journal-approaches/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-17T21:11:28Z",
-      "id": "933202e675b2196b7ba63a70716194c8",
-      "comments": "https://news.ycombinator.com/item?id=47053410"
-    },
-    {
-      "title": "The bare minimum for syncing Git repos",
-      "link": "https://alexwlchan.net/2026/bare-git/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-17T17:35:23Z",
-      "id": "60806a86464bc2403537015ee21c57b3",
-      "comments": "https://news.ycombinator.com/item?id=47050308"
-    },
-    {
-      "title": "Understanding Std:Shared_mutex from C++17",
-      "link": "https://www.cppstories.com/2026/shared_mutex/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-17T16:43:39Z",
-      "id": "416379df11ee47fbe8746b4acde4e04b",
-      "comments": "https://news.ycombinator.com/item?id=47049499"
-    },
-    {
-      "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
-      "link": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-17T12:58:37Z",
-      "id": "213ea2a8d910279deeefd94beabef064",
-      "comments": "https://news.ycombinator.com/item?id=47047027"
+      "published": "2026-02-18T09:42:40Z",
+      "id": "9a1b51f33b38f964de2a6da7f834347c",
+      "comments": "https://news.ycombinator.com/item?id=47059147"
     },
     {
       "title": "Permacomputing",
