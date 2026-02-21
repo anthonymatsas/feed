@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-02-21T06:36:41.617545Z",
+  "last_updated": "2026-02-21T09:26:06.618939Z",
   "items": [
+    {
+      "title": "Don\u2019t make the mistake of evaluating multiple counts that involve joins without using distinct=True.",
+      "link": "https://www.reddit.com/r/programming/comments/1ramrtr/dont_make_the_mistake_of_evaluating_multiple/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-21T09:20:01Z",
+      "id": "fe2ceb8c11375de30e5e540bcd14642a"
+    },
+    {
+      "title": "How do I even approach data analytics with AI?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ram8hf/how_do_i_even_approach_data_analytics_with_ai/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-21T08:46:57Z",
+      "id": "2afc07e034ce8d9e3744d69fe90f8cf9"
+    },
+    {
+      "title": "EU mandates replaceable batteries by 2027 (2023)",
+      "link": "https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T08:28:42Z",
+      "id": "20ec0a811b8f2313f7bfadadade03e37",
+      "comments": "https://news.ycombinator.com/item?id=47098687"
+    },
+    {
+      "title": "Working in a team with no long-term strategic plan is a nightmare",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rakpou/working_in_a_team_with_no_longterm_strategic_plan/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-21T07:14:35Z",
+      "id": "882fc2ebb39869299638a86b2fa4411a"
+    },
+    {
+      "title": "Acme Weather",
+      "link": "https://acmeweather.com/blog/introducing-acme-weather",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T07:13:38Z",
+      "id": "af9e12c8b596cdc162f52fe31e0662fc",
+      "comments": "https://news.ycombinator.com/item?id=47098296"
+    },
+    {
+      "title": "Trunk Based Development",
+      "link": "https://trunkbaseddevelopment.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T07:07:12Z",
+      "id": "4d0db1267f2472e9ab9fa8d8a2efb3f5",
+      "comments": "https://news.ycombinator.com/item?id=47098252"
+    },
+    {
+      "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
+      "link": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T07:06:18Z",
+      "id": "ed7ff91f93f9b2863185a1bd5b2979e9",
+      "comments": "https://news.ycombinator.com/item?id=47098245"
+    },
+    {
+      "title": "Creator of Claude Code: \"Coding is solved\"",
+      "link": "https://www.reddit.com/r/programming/comments/1rakdst/creator_of_claude_code_coding_is_solved/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-21T06:55:49Z",
+      "id": "ce1326929f678fd485b7802c81ecb9c4"
+    },
+    {
+      "title": "People who hate habit trackers. Want to help me shape it?",
+      "link": "https://www.reddit.com/r/programming/comments/1rakajl/people_who_hate_habit_trackers_want_to_help_me/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-21T06:50:30Z",
+      "id": "cb38c9b617fa92454228c4374952da19"
+    },
+    {
+      "title": "[Highlight] Luka starts laughing at Dunn mid possession as he's hacked twice",
+      "link": "https://www.reddit.com/r/nba/comments/1raju6f/highlight_luka_starts_laughing_at_dunn_mid/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-21T06:24:58Z",
+      "id": "af0f004497c17a8e15619737c5586bfd"
+    },
     {
       "title": "CSRF for Builders",
       "link": "https://www.reddit.com/r/programming/comments/1rajmou/csrf_for_builders/",
@@ -10,13 +94,28 @@
       "id": "f298563173fa5f832eb2fd4bfe5bbd14"
     },
     {
-      "title": "Colorado moves age checks from websites to operating systems",
-      "link": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T06:01:29Z",
-      "id": "43c0950b16d01b95a0e534f4ee5916b7",
-      "comments": "https://news.ycombinator.com/item?id=47097904"
+      "title": "[Highlight] Down 3 with 8 seconds remaining in regulation, Nicolas Batum intercepts the inbound pass by LeBron James, misses the 3, LeBron grabs the rebound and the Clippers try to foul him, but no whistle, and the Lakers survive. Ty Lue and the Clipers players are upset",
+      "link": "https://www.reddit.com/r/nba/comments/1raj8ut/highlight_down_3_with_8_seconds_remaining_in/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-21T05:52:21Z",
+      "id": "46e3d8910b759b11e2d4a944328d239a"
+    },
+    {
+      "title": "Austin Reaves against Clippers: 29/2/6 | 80.2% TS | 32 Minutes",
+      "link": "https://www.reddit.com/r/nba/comments/1raj8aw/austin_reaves_against_clippers_2926_802_ts_32/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-21T05:51:29Z",
+      "id": "0a437ef99203adaf39d9f7f9d0230719"
+    },
+    {
+      "title": "[Post Game Thread] The Los Angeles Lakers (34-21) defeat the Los Angeles Clippers (27-29), 125-122 behind Luka 38/6/11 on 64% ts",
+      "link": "https://www.reddit.com/r/nba/comments/1raj7pt/post_game_thread_the_los_angeles_lakers_3421/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-21T05:50:35Z",
+      "id": "bcfaae93737baf32180012faa4199623"
     },
     {
       "title": "Anthony Edwards: \"I woke up today and knew I was gonna get 40. I seen Cade go for 40 and I said sh** that mean I gotta get 40, too.\"",
@@ -73,15 +172,6 @@
       "category": "sports",
       "published": "2026-02-21T04:44:41Z",
       "id": "e7e4e335a82ec6151f07500a5d762c0f"
-    },
-    {
-      "title": "Show HN: Script Snap \u2013 Extract code from videos",
-      "link": "https://script-snap.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T04:39:20Z",
-      "id": "1950d7d674d4454c975f18c64f4373e0",
-      "comments": "https://news.ycombinator.com/item?id=47097554"
     },
     {
       "title": "Is half of engineering management just being a human reminder system?",
@@ -157,14 +247,6 @@
       "id": "54ce67e30a3ee39d704e5bc6bf0fab14"
     },
     {
-      "title": "I built an LLM gateway in Rust because I was tired of API failures",
-      "link": "https://www.reddit.com/r/programming/comments/1ragk3f/i_built_an_llm_gateway_in_rust_because_i_was/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-21T03:33:40Z",
-      "id": "ea8c2018fbac7966ff05d3cbbdcb5945"
-    },
-    {
       "title": "[Highlight] John Elway ducks away from sack, throws flat-footed 50-yard touchdown on a rope to Shannon Sharpe (Nov. 28, 1993)",
       "link": "https://www.reddit.com/r/nfl/comments/1ragg0f/highlight_john_elway_ducks_away_from_sack_throws/",
       "source": "r/nfl",
@@ -205,14 +287,6 @@
       "id": "04e766b48b704c911e707c7faa564b24"
     },
     {
-      "title": "[Highlight] Rudy Gobert hits Marvin Bagley III in the neck area and receives flagrant foul penalty 1 upon review. Gobert will miss the next game, and every flagrant from now one will result in suspension",
-      "link": "https://www.reddit.com/r/nba/comments/1raepxa/highlight_rudy_gobert_hits_marvin_bagley_iii_in/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-21T02:05:59Z",
-      "id": "632e4f9695b98f0ce87392dd59419a68"
-    },
-    {
       "title": "Are you self-taught, a CS grad, or a boot camp grad?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1raellq/are_you_selftaught_a_cs_grad_or_a_boot_camp_grad/",
       "source": "r/ExperiencedDevs",
@@ -235,14 +309,6 @@
       "category": "sports",
       "published": "2026-02-21T01:46:42Z",
       "id": "9420d1f1555181c39181f4032e52555e"
-    },
-    {
-      "title": "[Highlight] Donovan Mitchell holds the ball in an interesting way, with one hand, to force a jump ball (with a replay)",
-      "link": "https://www.reddit.com/r/nba/comments/1rae8xi/highlight_donovan_mitchell_holds_the_ball_in_an/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-21T01:44:13Z",
-      "id": "f5bd5f222c6ca8d1693073a7dd350c17"
     },
     {
       "title": "How is a hiring manager round different than a behavioural round?",
@@ -277,14 +343,6 @@
       "category": "sports",
       "published": "2026-02-21T01:25:14Z",
       "id": "cca8f9cc4342e0ae871c9eb417ea5b63"
-    },
-    {
-      "title": "[Highlight] Naz Reid dunks all over Daniel Gafford off the behind the back dribble (with replays). Timberwolves, Mavericks, and ESPN commentaries",
-      "link": "https://www.reddit.com/r/nba/comments/1radsyh/highlight_naz_reid_dunks_all_over_daniel_gafford/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-21T01:23:14Z",
-      "id": "c1ebc8f8137a2dd1bd415148ed7d82a9"
     },
     {
       "title": "Seahawks haven\u2019t received a White House invitation",
@@ -489,15 +547,6 @@
       "id": "f52010bfb2936d9826c0e7b78ba73253"
     },
     {
-      "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
-      "link": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-20T22:27:56Z",
-      "id": "81413b59972c8daaaada2559f9f02f11",
-      "comments": "https://news.ycombinator.com/item?id=47094877"
-    },
-    {
       "title": "[Bulls] Roster Update: We have assigned forward Leonard Miller to the @windycitybulls.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ra93a7/bulls_roster_update_we_have_assigned_forward/",
       "source": "r/chicagobulls",
@@ -546,12 +595,12 @@
       "id": "60e0c761180eeb1b4612db1e1b4a14fc"
     },
     {
-      "title": "Turn Dependabot Off",
+      "title": "Turn Dependabot off",
       "link": "https://words.filippo.io/dependabot/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-20T21:25:41Z",
-      "id": "869e2b6dd9b98b3126dba9a5e56e0439",
+      "id": "b2904ae21dcc51a53a54ecbfd1832932",
       "comments": "https://news.ycombinator.com/item?id=47094192"
     },
     {
@@ -765,14 +814,6 @@
       "id": "75d4f82f1f5acfe7bb2452305d7a05fe"
     },
     {
-      "title": "Can Regular Expressions Be Safely Reused Across Languages?",
-      "link": "https://www.reddit.com/r/programming/comments/1ra151n/can_regular_expressions_be_safely_reused_across/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-20T17:09:42Z",
-      "id": "e64c18d1e45591c0221efd18cfd560c4"
-    },
-    {
       "title": "Russell Westbrook\u2019s wife shared an email showing a death threat she received on Instagram",
       "link": "https://www.reddit.com/r/nba/comments/1ra04ld/russell_westbrooks_wife_shared_an_email_showing_a/",
       "source": "r/nba",
@@ -936,14 +977,6 @@
       "comments": "https://news.ycombinator.com/item?id=47088037"
     },
     {
-      "title": "Jaylen Brown on what it\u2019s like playing against Horford and Porzingis: \u201cWell those guys helped us win a championship in 2024, so no better way to respect them than giving them the belt tonight.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1r9vft3/jaylen_brown_on_what_its_like_playing_against/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-20T13:32:03Z",
-      "id": "8b13855684be708c8436c5bd986ca238"
-    },
-    {
       "title": "Weekly Friday Self-Promotion and Fan Art Thread",
       "link": "https://www.reddit.com/r/nba/comments/1r9uq3x/weekly_friday_selfpromotion_and_fan_art_thread/",
       "source": "r/nba",
@@ -983,15 +1016,6 @@
       "published": "2026-02-20T10:32:52Z",
       "id": "4e5ad38ef279b8eee785ece14622b9ee",
       "comments": "https://news.ycombinator.com/item?id=47086181"
-    },
-    {
-      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
-      "link": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-20T08:52:17Z",
-      "id": "36ceaf18d79445a2b0a4b88beb41895e",
-      "comments": "https://news.ycombinator.com/item?id=47085425"
     },
     {
       "title": "How I made a shooter game in 64 KB",
@@ -1170,14 +1194,6 @@
       "id": "096d9fced3e7ed1284cf7a8cd0c18f1a"
     },
     {
-      "title": "Foursquare scrapped EM titles - what do you think?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r98t9t/foursquare_scrapped_em_titles_what_do_you_think/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-19T19:29:26Z",
-      "id": "fef342c155f49f1e27b621214bd98712"
-    },
-    {
       "title": "Why is it harder to explain a process than to run it?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r98316/why_is_it_harder_to_explain_a_process_than_to_run/",
       "source": "r/ExperiencedDevs",
@@ -1192,14 +1208,6 @@
       "category": "tech",
       "published": "2026-02-19T18:43:04Z",
       "id": "d9fc806799864bddd252ef5faff81396"
-    },
-    {
-      "title": "Joined a new team with poor practices \u2014 how should I approach it?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r96s8t/joined_a_new_team_with_poor_practices_how_should/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-19T18:16:32Z",
-      "id": "1ef154a39dd9b415f988bd4cc553813a"
     },
     {
       "title": "Stadium Megathread 2/19",
@@ -1282,14 +1290,6 @@
       "id": "9ab2a81c829845964f181f56973aad8e"
     },
     {
-      "title": "I traced 3,177 API calls to see what 4 AI coding tools put in the context window",
-      "link": "https://www.reddit.com/r/programming/comments/1r8yh5h/i_traced_3177_api_calls_to_see_what_4_ai_coding/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-19T12:55:33Z",
-      "id": "14c756dd24364a55b73e56ef695450a7"
-    },
-    {
       "title": "Got a few autographs",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r8up0x/got_a_few_autographs/",
       "source": "r/chicagobulls",
@@ -1312,15 +1312,6 @@
       "category": "sports",
       "published": "2026-02-18T20:48:20Z",
       "id": "4162a1a2a15adf604e3f2f7e1fc55948"
-    },
-    {
-      "title": "Microsoft team creates 'revolutionary' data storage system that lasts millennia",
-      "link": "https://www.nature.com/articles/d41586-026-00502-2",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T20:12:13Z",
-      "id": "88bd82d2b27fbc932de4b4ada69d159b",
-      "comments": "https://news.ycombinator.com/item?id=47065729"
     },
     {
       "title": "Reproducible and traceable configuration for Conan C and C++ package manager",
@@ -1390,6 +1381,15 @@
       "id": "351e61b7d0769927cd66a4b331be2a08"
     },
     {
+      "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
+      "link": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-17T12:58:37Z",
+      "id": "213ea2a8d910279deeefd94beabef064",
+      "comments": "https://news.ycombinator.com/item?id=47047027"
+    },
+    {
       "title": "SwiftForth IDE for Windows, Linux, macOS",
       "link": "https://www.forth.com/swiftforth/",
       "source": "Hacker News",
@@ -1399,21 +1399,21 @@
       "comments": "https://news.ycombinator.com/item?id=47045194"
     },
     {
+      "title": "Gitas \u2013 A tool for Git account switching",
+      "link": "https://github.com/letmutex/gitas",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-17T08:51:41Z",
+      "id": "1fa08ab99485c6e2efe3c1d0edf2a4d3",
+      "comments": "https://news.ycombinator.com/item?id=47045175"
+    },
+    {
       "title": "Looking for questions for a Collin Sexton Q&A!",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1r6p6tx/looking_for_questions_for_a_collin_sexton_qa/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-02-16T23:10:06Z",
       "id": "609cf0693ebc1fe2dbd01f729d501345"
-    },
-    {
-      "title": "Building a model that visualizes strategic golf",
-      "link": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-16T17:15:27Z",
-      "id": "456943c341a4f76b92fbcc6f124099e8",
-      "comments": "https://news.ycombinator.com/item?id=47037568"
     },
     {
       "title": "Bulls at game giveaway",
