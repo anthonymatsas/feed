@@ -1,14 +1,68 @@
 {
-  "last_updated": "2026-02-21T21:19:09.357733Z",
+  "last_updated": "2026-02-22T01:50:52.703340Z",
   "items": [
     {
-      "title": "MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib",
-      "link": "https://github.com/datapartyjs/MeshTNC",
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "link": "https://boristane.com/blog/how-i-use-claude-code/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-21T20:14:00Z",
-      "id": "9e0675722c2cef39444487288f2683ec",
-      "comments": "https://news.ycombinator.com/item?id=47104223"
+      "published": "2026-02-22T00:29:05Z",
+      "id": "b67a60d3623dabf1ee2f54e9362293d0",
+      "comments": "https://news.ycombinator.com/item?id=47106686"
+    },
+    {
+      "title": "Are compilers deterministic?",
+      "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-22T00:21:05Z",
+      "id": "d92333f64b4b8825c019f17612e6429e",
+      "comments": "https://news.ycombinator.com/item?id=47106626"
+    },
+    {
+      "title": "Who's liable when your AI agent burns down production?",
+      "link": "https://reading.sh/whos-liable-when-your-ai-agent-burns-down-production-039193d82746?sk=4921ed2dbc46f0c618835ac458cf5051",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T23:52:00Z",
+      "id": "90dc0ef17f6ef330830391600923af28",
+      "comments": "https://news.ycombinator.com/item?id=47106406"
+    },
+    {
+      "title": "Evidence of the bouba-kiki effect in na\u00efve baby chicks",
+      "link": "https://www.science.org/doi/10.1126/science.adq7188",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T21:51:58Z",
+      "id": "1189d05515f5bb80ccd2fd5d786b3b2a",
+      "comments": "https://news.ycombinator.com/item?id=47105198"
+    },
+    {
+      "title": "Why is Claude an Electron app?",
+      "link": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T21:28:13Z",
+      "id": "44f3544dc96616617ade786aaf2776e7",
+      "comments": "https://news.ycombinator.com/item?id=47104973"
+    },
+    {
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "link": "https://github.com/xaskasdf/ntransformer",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T20:57:30Z",
+      "id": "2818632efda7b35e866eeb176d49a222",
+      "comments": "https://news.ycombinator.com/item?id=47104667"
+    },
+    {
+      "title": "Online Pebble Development",
+      "link": "https://cloudpebble.repebble.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T20:50:46Z",
+      "id": "4a0d5e2469ee8a15391ea2efc9b7227b",
+      "comments": "https://news.ycombinator.com/item?id=47104613"
     },
     {
       "title": "EDuke32 \u2013 Duke Nukem 3D (Open-Source)",
@@ -83,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47102576"
     },
     {
-      "title": "The Nekonomicon \u2013 Nekochan.net Archive, Updated",
-      "link": "http://nekonomicon.irixnet.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T16:27:01Z",
-      "id": "a09915fcfafbcadef87cdbe09c43eb87",
-      "comments": "https://news.ycombinator.com/item?id=47102208"
-    },
-    {
       "title": "Show HN: Iron-Wolf \u2013 Wolfenstein 3D source port in Rust",
       "link": "https://github.com/Ragnaroek/iron-wolf",
       "source": "Hacker News",
@@ -119,24 +164,6 @@
       "comments": "https://news.ycombinator.com/item?id=47100232"
     },
     {
-      "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
-      "link": "https://padlet.jobs",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T12:02:14Z",
-      "id": "f2662bd93531e9a914a5ce219cd01053",
-      "comments": "https://news.ycombinator.com/item?id=47099982"
-    },
-    {
-      "title": "AI uBlock Blacklist",
-      "link": "https://github.com/alvi-se/ai-ublock-blacklist",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T08:10:49Z",
-      "id": "0efb586303b14010efe361b8e398058d",
-      "comments": "https://news.ycombinator.com/item?id=47098582"
-    },
-    {
       "title": "Acme Weather",
       "link": "https://acmeweather.com/blog/introducing-acme-weather",
       "source": "Hacker News",
@@ -153,15 +180,6 @@
       "published": "2026-02-21T07:06:18Z",
       "id": "0fb69f0ccc4131e50578c4f11e46906e",
       "comments": "https://news.ycombinator.com/item?id=47098245"
-    },
-    {
-      "title": "How an inference provider can prove they're not serving a quantized model",
-      "link": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T06:53:57Z",
-      "id": "dbadc598c78c1a793335a2ea7594ed52",
-      "comments": "https://news.ycombinator.com/item?id=47098172"
     },
     {
       "title": "Claws are now a new layer on top of LLM agents",
@@ -182,31 +200,13 @@
       "comments": "https://news.ycombinator.com/item?id=47095597"
     },
     {
-      "title": "A16Z partner says that the theory that we'll vibe code everything is ' wrong'",
+      "title": "A16z partner says that the theory that we\u2019ll vibe code everything is wrong",
       "link": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-20T22:47:58Z",
-      "id": "552fa7e5b1363ffec7e9623a7b6a57ee",
+      "id": "0f68bf8ef2a2f3063ba67c18ce52892e",
       "comments": "https://news.ycombinator.com/item?id=47095105"
-    },
-    {
-      "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
-      "link": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-20T22:27:56Z",
-      "id": "81413b59972c8daaaada2559f9f02f11",
-      "comments": "https://news.ycombinator.com/item?id=47094877"
-    },
-    {
-      "title": "Loon: A functional lang with invisible types, safe ownership, and alg. effects",
-      "link": "https://loonlang.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-20T21:45:31Z",
-      "id": "56471929dea1873cc3b8f0bd0eab6c00",
-      "comments": "https://news.ycombinator.com/item?id=47094429"
     },
     {
       "title": "Uncovering insiders and alpha on Polymarket with AI",
@@ -227,22 +227,13 @@
       "comments": "https://news.ycombinator.com/item?id=47091419"
     },
     {
-      "title": "Microsoft team creates data-storage system that lasts for millennia",
-      "link": "https://www.nature.com/articles/d41586-026-00502-2",
+      "title": "Forward propagation of errors through time",
+      "link": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-18T20:12:13Z",
-      "id": "86653fe63a6ae49649b803968958c5c3",
-      "comments": "https://news.ycombinator.com/item?id=47065729"
-    },
-    {
-      "title": "A solver for Semantle",
-      "link": "https://victoriaritvo.com/blog/semantle-solver/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-18T19:25:46Z",
-      "id": "b0164c1eab4dd255f993debef8299476",
-      "comments": "https://news.ycombinator.com/item?id=47065146"
+      "published": "2026-02-19T09:23:53Z",
+      "id": "bd45715d19ae4d7edfb3ce0e09c6742a",
+      "comments": "https://news.ycombinator.com/item?id=47071770"
     },
     {
       "title": "How far back in time can you understand English?",
@@ -270,6 +261,15 @@
       "published": "2026-02-17T12:40:37Z",
       "id": "60cb822498372112a1b4cab2f8825f67",
       "comments": "https://news.ycombinator.com/item?id=47046858"
+    },
+    {
+      "title": "Finding forall-exists Hyperbugs using Symbolic Execution",
+      "link": "https://dl.acm.org/doi/full/10.1145/3689761",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-17T01:57:40Z",
+      "id": "eb64eb8ba50f508f7ebb11ecd59540f8",
+      "comments": "https://news.ycombinator.com/item?id=47042779"
     }
   ]
 }
