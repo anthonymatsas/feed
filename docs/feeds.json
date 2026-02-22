@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-02-22T01:50:52.703340Z",
+  "last_updated": "2026-02-22T04:46:02.771445Z",
   "items": [
+    {
+      "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much",
+      "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-22T03:24:22Z",
+      "id": "79bea7f0dcdd62c758d091356795f5f6",
+      "comments": "https://news.ycombinator.com/item?id=47107819"
+    },
+    {
+      "title": "Japanese Woodblock Print Search",
+      "link": "https://ukiyo-e.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-22T03:18:36Z",
+      "id": "24bd7bb089550f7c34ec9d78990782a1",
+      "comments": "https://news.ycombinator.com/item?id=47107781"
+    },
+    {
+      "title": "Palantir's secret weapon isn't AI \u2013 it's Ontology. An open-source deep dive",
+      "link": "https://github.com/Leading-AI-IO/palantir-ontology-strategy",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-22T02:29:06Z",
+      "id": "0cd7805f855865b2eac480ad7b3b15df",
+      "comments": "https://news.ycombinator.com/item?id=47107512"
+    },
+    {
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-22T01:08:17Z",
+      "id": "cf3165420c69ffb8d0d21162d21f7946",
+      "comments": "https://news.ycombinator.com/item?id=47106985"
+    },
     {
       "title": "How I use Claude Code: Separation of planning and execution",
       "link": "https://boristane.com/blog/how-i-use-claude-code/",
@@ -9,24 +45,6 @@
       "published": "2026-02-22T00:29:05Z",
       "id": "b67a60d3623dabf1ee2f54e9362293d0",
       "comments": "https://news.ycombinator.com/item?id=47106686"
-    },
-    {
-      "title": "Are compilers deterministic?",
-      "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-22T00:21:05Z",
-      "id": "d92333f64b4b8825c019f17612e6429e",
-      "comments": "https://news.ycombinator.com/item?id=47106626"
-    },
-    {
-      "title": "Who's liable when your AI agent burns down production?",
-      "link": "https://reading.sh/whos-liable-when-your-ai-agent-burns-down-production-039193d82746?sk=4921ed2dbc46f0c618835ac458cf5051",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T23:52:00Z",
-      "id": "90dc0ef17f6ef330830391600923af28",
-      "comments": "https://news.ycombinator.com/item?id=47106406"
     },
     {
       "title": "Evidence of the bouba-kiki effect in na\u00efve baby chicks",
@@ -38,15 +56,6 @@
       "comments": "https://news.ycombinator.com/item?id=47105198"
     },
     {
-      "title": "Why is Claude an Electron app?",
-      "link": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T21:28:13Z",
-      "id": "44f3544dc96616617ade786aaf2776e7",
-      "comments": "https://news.ycombinator.com/item?id=47104973"
-    },
-    {
       "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
       "link": "https://github.com/xaskasdf/ntransformer",
       "source": "Hacker News",
@@ -54,15 +63,6 @@
       "published": "2026-02-21T20:57:30Z",
       "id": "2818632efda7b35e866eeb176d49a222",
       "comments": "https://news.ycombinator.com/item?id=47104667"
-    },
-    {
-      "title": "Online Pebble Development",
-      "link": "https://cloudpebble.repebble.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T20:50:46Z",
-      "id": "4a0d5e2469ee8a15391ea2efc9b7227b",
-      "comments": "https://news.ycombinator.com/item?id=47104613"
     },
     {
       "title": "EDuke32 \u2013 Duke Nukem 3D (Open-Source)",
@@ -90,15 +90,6 @@
       "published": "2026-02-21T19:40:06Z",
       "id": "9901329e9dc65e1fdab1f2d1f38db293",
       "comments": "https://news.ycombinator.com/item?id=47103931"
-    },
-    {
-      "title": "Cloudflare outage on February 20, 2026",
-      "link": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T19:05:31Z",
-      "id": "b7aaedee0b4a4e93745e0b3cb46d0b6f",
-      "comments": "https://news.ycombinator.com/item?id=47103649"
     },
     {
       "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
@@ -135,15 +126,6 @@
       "published": "2026-02-21T17:08:12Z",
       "id": "d2c41d5d894a6ee292271e9179e291c5",
       "comments": "https://news.ycombinator.com/item?id=47102576"
-    },
-    {
-      "title": "Show HN: Iron-Wolf \u2013 Wolfenstein 3D source port in Rust",
-      "link": "https://github.com/Ragnaroek/iron-wolf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T15:52:20Z",
-      "id": "07a08c67c63d0610ae46e69f6b0cbb4d",
-      "comments": "https://news.ycombinator.com/item?id=47101890"
     },
     {
       "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
@@ -189,6 +171,15 @@
       "published": "2026-02-21T00:56:29Z",
       "id": "fa7529e29713ac65f4edea5ddd9ba4fd",
       "comments": "https://news.ycombinator.com/item?id=47096253"
+    },
+    {
+      "title": "Gamedate \u2013 A site to revive dead multiplayer games",
+      "link": "https://gamedate.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-21T00:44:28Z",
+      "id": "a458a90d6665541b86815d85adcbdfa5",
+      "comments": "https://news.ycombinator.com/item?id=47096167"
     },
     {
       "title": "Be wary of Bluesky",
@@ -245,13 +236,13 @@
       "comments": "https://news.ycombinator.com/item?id=47061614"
     },
     {
-      "title": "I Don't Like Magic",
-      "link": "https://adactio.com/journal/22399",
+      "title": "Scientists discover recent tectonic activity on the moon",
+      "link": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-18T09:42:40Z",
-      "id": "9a1b51f33b38f964de2a6da7f834347c",
-      "comments": "https://news.ycombinator.com/item?id=47059147"
+      "published": "2026-02-17T19:13:37Z",
+      "id": "a4b21be595b3b4882f2fd096d6ac103a",
+      "comments": "https://news.ycombinator.com/item?id=47051709"
     },
     {
       "title": "Permacomputing",
@@ -261,6 +252,15 @@
       "published": "2026-02-17T12:40:37Z",
       "id": "60cb822498372112a1b4cab2f8825f67",
       "comments": "https://news.ycombinator.com/item?id=47046858"
+    },
+    {
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "link": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-17T11:01:09Z",
+      "id": "f345ca0b10ebbcbb16edb9f5d3e7a642",
+      "comments": "https://news.ycombinator.com/item?id=47046070"
     },
     {
       "title": "Finding forall-exists Hyperbugs using Symbolic Execution",
