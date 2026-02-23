@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-02-23T06:59:17.311444Z",
+  "last_updated": "2026-02-23T09:51:08.303921Z",
   "items": [
+    {
+      "title": "Post-mortem: How Stack Overflow's duplicate-question obsession and toxic moderation paved the way for AI",
+      "link": "https://www.reddit.com/r/programming/comments/1rcd2m8/postmortem_how_stack_overflows_duplicatequestion/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-23T09:35:49Z",
+      "id": "28ba1c7ade3b329eccdf9b3e832e2351"
+    },
+    {
+      "title": "What I Learned After Building 3 TV Apps Coming From Mobile",
+      "link": "https://www.reddit.com/r/programming/comments/1rccur2/what_i_learned_after_building_3_tv_apps_coming/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-23T09:21:54Z",
+      "id": "80a7f7d4d578d0867551575c88705c27"
+    },
+    {
+      "title": "99.9% uptime: what your cloud provider isn't telling you (SLA fine print + calculators)",
+      "link": "https://www.reddit.com/r/programming/comments/1rccs3v/999_uptime_what_your_cloud_provider_isnt_telling/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-23T09:17:39Z",
+      "id": "ee0fc99c0aff3b49588132d07db796af"
+    },
+    {
+      "title": "Elsevier shuts down its finance journal citation cartel",
+      "link": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-23T08:22:34Z",
+      "id": "75d759a2a26b328913331bb04525e9e5",
+      "comments": "https://news.ycombinator.com/item?id=47119530"
+    },
+    {
+      "title": "I'm 100% sure this post will be quickly deleted but I just have to write it because it's sad what is happenning and there's nothing more I can do. Moderation actions here are harmful and are destroying this sub",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rcb6mh/im_100_sure_this_post_will_be_quickly_deleted_but/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-23T07:38:09Z",
+      "id": "7e4d5df45b025850f333e0105afee0f2"
+    },
+    {
+      "title": "Pope tells priests to use their brains, not AI, to write homilies",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-23T07:33:57Z",
+      "id": "932e8e243bd426bb5e8f984190295d02",
+      "comments": "https://news.ycombinator.com/item?id=47119210"
+    },
+    {
+      "title": "Anyone else feeling the need to find an employer with smarter leadership during this AI adoption cycle?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rcb2ey/anyone_else_feeling_the_need_to_find_an_employer/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-23T07:30:57Z",
+      "id": "9236c4d09413285b19101d3dcbb56f1d"
+    },
+    {
+      "title": "Interoperability might become a problem with the rise of vibe coding",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rcb05s/interoperability_might_become_a_problem_with_the/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-23T07:27:13Z",
+      "id": "c1a2f04d736f35150aa1a0de3c698340"
+    },
+    {
+      "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
+      "link": "https://bitmovin.com/careers/8023403002/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-23T07:01:20Z",
+      "id": "3abb0e1f8e700c3da6bc5103c600d4fc",
+      "comments": "https://news.ycombinator.com/item?id=47118990"
+    },
     {
       "title": "Question for Senior Engineers, Hiring Managers, and Tech Interviewers",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rcahuw/question_for_senior_engineers_hiring_managers_and/",
@@ -16,6 +91,14 @@
       "category": "tech",
       "published": "2026-02-23T05:59:14Z",
       "id": "9cf10977073a358e53e88e48857b0e4d"
+    },
+    {
+      "title": "Carson Schwesinger isn't expecting Browns defense to change much after Jim Schwartz's departure",
+      "link": "https://www.reddit.com/r/nfl/comments/1rc8d3z/carson_schwesinger_isnt_expecting_browns_defense/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-02-23T05:00:02Z",
+      "id": "89fe45383d65fd77a01f35b0a5f39079"
     },
     {
       "title": "[Highlight] New kickoff rules lead to Kaleb Johnson blunder that results in a Seattle TD",
@@ -76,21 +159,12 @@
       "id": "c92b388c5e16f2b8908dba0b80977e0d"
     },
     {
-      "title": "Crawling a billion web pages in just over 24 hours, in 2025",
-      "link": "https://andrewkchan.dev/posts/crawler.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-23T03:54:32Z",
-      "id": "4c2f625bbb86e22a5a6dede91d983ec2",
-      "comments": "https://news.ycombinator.com/item?id=47117886"
-    },
-    {
-      "title": "Freemediaheckyeah",
+      "title": "Freemediaheckyeah \u2013 A collection of free stuff on the internet",
       "link": "https://fmhy.net/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-23T03:35:31Z",
-      "id": "d77a27729ff3a8bd9de78dc0f57ecba9",
+      "id": "ac8871345085179f40cc9e0752ed5cd3",
       "comments": "https://news.ycombinator.com/item?id=47117780"
     },
     {
@@ -507,15 +581,6 @@
       "id": "fa50b75dd95628ffb1e1c43bf763cc22"
     },
     {
-      "title": "Ask HN: Chromebook leads for K-8 school in need?",
-      "link": "https://news.ycombinator.com/item?id=47113936",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-22T19:39:27Z",
-      "id": "e9533adec31fe97d7832b355cf7e7c5f",
-      "comments": "https://news.ycombinator.com/item?id=47113936"
-    },
-    {
       "title": "Former NFL DL Breiden Fehoko Says NFL Doesn\u2019t Care About Mental Health After Rondale Moore\u2019s Death",
       "link": "https://www.reddit.com/r/nfl/comments/1rbvad2/former_nfl_dl_breiden_fehoko_says_nfl_doesnt_care/",
       "source": "r/nfl",
@@ -531,15 +596,6 @@
       "published": "2026-02-22T19:21:21Z",
       "id": "42337cec092abc8adb68c90af724a4ed",
       "comments": "https://news.ycombinator.com/item?id=47113796"
-    },
-    {
-      "title": "NanoClaw moved from Apple Containers to Docker",
-      "link": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-22T19:12:50Z",
-      "id": "32336ffbd8a91b92cb63ae933436e5b3",
-      "comments": "https://news.ycombinator.com/item?id=47113731"
     },
     {
       "title": "I built Timeframe, our family e-paper dashboard",
@@ -600,15 +656,6 @@
       "category": "tech",
       "published": "2026-02-22T18:20:36Z",
       "id": "7d0f7c8cd98b30fead2a86317f440ac0"
-    },
-    {
-      "title": "Fresh File Explorer \u2013 VS Code extension for navigating recent work",
-      "link": "https://github.com/FreHu/vscode-fresh-file-explorer",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-22T18:20:31Z",
-      "id": "f044ba3c0d2586f1e37b2ef270b5e7fd",
-      "comments": "https://news.ycombinator.com/item?id=47113325"
     },
     {
       "title": "Daily Discussion Thread + Game Thread Index",
@@ -718,15 +765,6 @@
       "id": "497447f043490a14d3a41deef336f4cc"
     },
     {
-      "title": "Xweather Live \u2013 Interactive global vector weather map",
-      "link": "https://live.xweather.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-22T15:12:15Z",
-      "id": "b3aa3c51e89f06271e924ba020292f84",
-      "comments": "https://news.ycombinator.com/item?id=47111626"
-    },
-    {
       "title": "Son\u2019s Birthday - Ticket Advice for April 10",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rbnz5h/sons_birthday_ticket_advice_for_april_10/",
       "source": "r/chicagobulls",
@@ -818,14 +856,6 @@
       "id": "658566f76c81820b5ff566e57bc7e2d8"
     },
     {
-      "title": "Oop design pattern",
-      "link": "https://www.reddit.com/r/programming/comments/1rbj6lk/oop_design_pattern/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-22T11:08:22Z",
-      "id": "97c141a54c2ae3ffe0e9eaabc583e0aa"
-    },
-    {
       "title": "Anyone else trimming down AI-generated architectures for early-stage products?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rbhxsv/anyone_else_trimming_down_aigenerated/",
       "source": "r/ExperiencedDevs",
@@ -866,14 +896,6 @@
       "id": "cb93bdf63488eba5bbfda77e6e3bf7dc"
     },
     {
-      "title": "Linux 7.0 Makes Preparations For Rust 1.95",
-      "link": "https://www.reddit.com/r/programming/comments/1rbgk2f/linux_70_makes_preparations_for_rust_195/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-22T08:28:56Z",
-      "id": "6edfbe091716c04e0d45c76a3b522879"
-    },
-    {
       "title": "My thoughts for a bears rivalry jersey",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rbg35e/my_thoughts_for_a_bears_rivalry_jersey/",
       "source": "r/CHIBears",
@@ -904,14 +926,6 @@
       "category": "sports",
       "published": "2026-02-22T04:15:48Z",
       "id": "6cf2bd585f6eac0b6903499e95d2770a"
-    },
-    {
-      "title": "[Highlight] Rondale Moore\u2019s last career touchdown of 48 yards against the Texans in November of 2023",
-      "link": "https://www.reddit.com/r/nfl/comments/1rbbctl/highlight_rondale_moores_last_career_touchdown_of/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-02-22T03:39:30Z",
-      "id": "57bfdab1d02d943f8c7ff7c26857f592"
     },
     {
       "title": "Post Game Thread - NBA: The Pistons defeat the Bulls on Feb 21, 2026, the final score is 110-126.",
@@ -1018,15 +1032,6 @@
       "id": "6cb278408f15de9fb42a0b370d421d64"
     },
     {
-      "title": "Rhythms the Compendium: Life aboard an aircraft carrier (2021)",
-      "link": "https://thelexicans.wordpress.com/2020/04/05/38223/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-21T20:16:40Z",
-      "id": "7fe0c08f53825691e63d585daaa334da",
-      "comments": "https://news.ycombinator.com/item?id=47104251"
-    },
-    {
       "title": "Ron Harper On Winning Five Rings With The Bulls: Ron Harper opens up about adjusting his game when he joined the Chicago Bulls to play alongside Michael Jordan and Scottie Pippen. He also breaks down the biggest differences between the \u201990s and today\u2019s game.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rb0u26/ron_harper_on_winning_five_rings_with_the_bulls/",
       "source": "r/chicagobulls",
@@ -1105,14 +1110,6 @@
       "category": "tech",
       "published": "2026-02-21T15:42:22Z",
       "id": "ee4abfd68f972684a427e36213be3c57"
-    },
-    {
-      "title": "What strategies have you found effective for reducing technical debt during product iterations?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rau7td/what_strategies_have_you_found_effective_for/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-21T15:40:45Z",
-      "id": "ac52574b944d412cb900aa56d2f88e09"
     },
     {
       "title": "For approximately a billion less dollars than the Bears need for their stadium, we can distribute this book to every first grader in the state.",
@@ -1340,12 +1337,13 @@
       "comments": "https://news.ycombinator.com/item?id=47088005"
     },
     {
-      "title": "Amazon service was taken down by AI coding bot [December outage]",
-      "link": "https://www.reddit.com/r/programming/comments/1r9nhsx/amazon_service_was_taken_down_by_ai_coding_bot/",
-      "source": "r/programming",
+      "title": "A bug is a bug, but a patch is a policy: The case for bootable containers",
+      "link": "https://tuananh.net/2026/02/20/patch-is-policy/",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-02-20T06:03:50Z",
-      "id": "279f227d47d2f8daf543e20418b24a93"
+      "published": "2026-02-20T11:56:25Z",
+      "id": "b9572f1fc5a416f6a942a756bea6a3cf",
+      "comments": "https://news.ycombinator.com/item?id=47086900"
     },
     {
       "title": "A Breakdown of the Bears Stadium Dispute and the Bears\u2019 Dishonesty",
@@ -1370,22 +1368,6 @@
       "category": "sports",
       "published": "2026-02-20T03:38:31Z",
       "id": "bbf2769ffe156b51aa2f46b44f305b15"
-    },
-    {
-      "title": "After 20 years in banking tech, here's what actually worked when I wanted to change a broken process. It wasn't being right. It was being strategic.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r9iyob/after_20_years_in_banking_tech_heres_what/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-20T02:18:58Z",
-      "id": "44b294afa5c2b6244b00dacf70d8f000"
-    },
-    {
-      "title": "The gap between LLM functionality and social media/marketing seems absolutely massive",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1r9iybj/the_gap_between_llm_functionality_and_social/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-20T02:18:32Z",
-      "id": "3ac29ce3ea21ac455fc424fd54f98bad"
     },
     {
       "title": "Can\u2019t have it both ways",
@@ -1420,6 +1402,24 @@
       "published": "2026-02-19T16:42:04Z",
       "id": "728c5c13aaa000ca322a8744c2283da3",
       "comments": "https://news.ycombinator.com/item?id=47075716"
+    },
+    {
+      "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
+      "link": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-19T16:23:39Z",
+      "id": "78c75787f4487f5b71ed23439b359c49",
+      "comments": "https://news.ycombinator.com/item?id=47075455"
+    },
+    {
+      "title": "Cursor\u2019s debug mode is arguably its best feature",
+      "link": "https://davidgomes.com/cursor-debug-mode/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-19T14:23:40Z",
+      "id": "ae03230d99e2ac712c14fc21be4d995c",
+      "comments": "https://news.ycombinator.com/item?id=47074049"
     },
     {
       "title": "My journey to the microwave alternate timeline",
