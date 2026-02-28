@@ -1,13 +1,64 @@
 {
-  "last_updated": "2026-02-28T06:32:59.424689Z",
+  "last_updated": "2026-02-28T09:22:20.001445Z",
   "items": [
     {
-      "title": "Is there a fully local alternative to remote AI session control?",
-      "link": "https://www.reddit.com/r/programming/comments/1rgvc7l/is_there_a_fully_local_alternative_to_remote_ai/",
+      "title": "How I Taught a Dragonfly to Fuzz Itself",
+      "link": "https://www.reddit.com/r/programming/comments/1rgy7wq/how_i_taught_a_dragonfly_to_fuzz_itself/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-02-28T06:30:34Z",
-      "id": "a57c24fc2f9896c1324421e6849eada1"
+      "published": "2026-02-28T09:20:44Z",
+      "id": "d959216da877be3819a4d90997a6a669"
+    },
+    {
+      "title": "Unsloth Dynamic 2.0 GGUFs",
+      "link": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-28T08:56:33Z",
+      "id": "6237d58dfd3c35c6b0e4b0a0752d28f4",
+      "comments": "https://news.ycombinator.com/item?id=47192505"
+    },
+    {
+      "title": "Inferring Car Movement Patterns from Passive TPMS Measurements",
+      "link": "https://dspace.networks.imdea.org/handle/20.500.12761/2011",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-28T07:45:36Z",
+      "id": "6c18ad9cc548152f9c38bfc8de817b3e",
+      "comments": "https://news.ycombinator.com/item?id=47191844"
+    },
+    {
+      "title": "A Social Filesystem",
+      "link": "https://www.reddit.com/r/programming/comments/1rgw211/a_social_filesystem/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-02-28T07:11:31Z",
+      "id": "9857f3c243c9a631fe713b0f1b208254"
+    },
+    {
+      "title": "Nikola Jokic on the Lu Dort flagrant foul: \"Unnecessary move, and a necessary reaction. There is no such thing \u2014 I think there's not supposed to be those things on a basketball floor. So it was just an unnecessary move and a necessary reaction by me.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1rgvwd6/nikola_jokic_on_the_lu_dort_flagrant_foul/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-28T07:02:42Z",
+      "id": "1bec85a88d34765c6d2edd32876739ff"
+    },
+    {
+      "title": "U.S. and Israel Conduct Strikes on Iran",
+      "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-28T06:57:46Z",
+      "id": "27e784159beb26cba855a014ff055b4a",
+      "comments": "https://news.ycombinator.com/item?id=47191414"
+    },
+    {
+      "title": "Struggling to deal with cross-team politics narratives",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rgveq5/struggling_to_deal_with_crossteam_politics/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-02-28T06:34:38Z",
+      "id": "cd98d585e54fc6d674648477be9698af"
     },
     {
       "title": "How do I cancel my ChatGPT subscription?",
@@ -27,12 +78,29 @@
       "id": "50bb242ea24e99fb6127a84915f6d8f3"
     },
     {
+      "title": "Rust Is Just a Tool",
+      "link": "https://lewiscampbell.tech/blog/260204.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-28T05:47:39Z",
+      "id": "e6c5b43078c24fb6b178e843bae55ae9",
+      "comments": "https://news.ycombinator.com/item?id=47190947"
+    },
+    {
       "title": "[Post Game Thread] The Oklahoma City Thunder (46-15) defeat the Denver Nuggets (37-23) in overtime behind Shai's 36 point performance , 127-121.",
       "link": "https://www.reddit.com/r/nba/comments/1rgugjq/post_game_thread_the_oklahoma_city_thunder_4615/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-02-28T05:41:16Z",
       "id": "80b8fd757a33d861aa8d5839fece6277"
+    },
+    {
+      "title": "Shai Gilgeous-Alexander in his return against Denver: 36 PTS, 3 REB, 9 AST, 2 STL, 2 BLK",
+      "link": "https://www.reddit.com/r/nba/comments/1rgugjj/shai_gilgeousalexander_in_his_return_against/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-02-28T05:41:16Z",
+      "id": "0560e593c30ed38ea54787636797ea8f"
     },
     {
       "title": "Cash issuing terminals",
@@ -124,15 +192,6 @@
       "id": "6a30c719dfa823ce94072899778a1388"
     },
     {
-      "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
-      "link": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-28T03:23:16Z",
-      "id": "1d598204cbfa0fb89ce953febeeae852",
-      "comments": "https://news.ycombinator.com/item?id=47189853"
-    },
-    {
       "title": "Don't use passkeys for encrypting user data",
       "link": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
       "source": "Hacker News",
@@ -209,14 +268,6 @@
       "id": "2cccb5257bcf6d8ec3d38f0cc3dfd52b"
     },
     {
-      "title": "Cleveland Cavaliers head coach Kenny Atkinson is mic'd up, breaking down X's and O's and handing out assignments during a timeout huddle",
-      "link": "https://www.reddit.com/r/nba/comments/1rgqafl/cleveland_cavaliers_head_coach_kenny_atkinson_is/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-28T02:14:10Z",
-      "id": "50a73f1cd5354d6316006fbe93e96614"
-    },
-    {
       "title": "[Highlight] Kenny Pickett kneels out the Super Bowl for the Eagles",
       "link": "https://www.reddit.com/r/nfl/comments/1rgq6ra/highlight_kenny_pickett_kneels_out_the_super_bowl/",
       "source": "r/nfl",
@@ -255,14 +306,6 @@
       "category": "sports",
       "published": "2026-02-28T01:48:06Z",
       "id": "720ea82882062b80c59a0e348b3cfd9b"
-    },
-    {
-      "title": "Barkley: \u201cWe love Luka, take him off the MVP list. That ship has sailed. The Lakers out here tanking right now. Adam Silver gotta fine them soon. The Lakers lost to the suns last night. They closer to the lottery than they are first place. Adam Silver just don\u2019t have the courage to fine the Lakers\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1rgp5kx/barkley_we_love_luka_take_him_off_the_mvp_list/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-02-28T01:21:39Z",
-      "id": "63cbb67706cbbcdb8184a6562ed441fd"
     },
     {
       "title": "Statement on the comments from Secretary of War Pete Hegseth",
@@ -565,15 +608,6 @@
       "comments": "https://news.ycombinator.com/item?id=47184049"
     },
     {
-      "title": "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
-      "link": "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-27T18:37:53Z",
-      "id": "e676359254040a6b330e04f4f436affb",
-      "comments": "https://news.ycombinator.com/item?id=47183907"
-    },
-    {
       "title": "Former Suns front office Amin Elhassan on Ayton: \"You wish you were Capella, and the Lakers wish you were too. The tiger doesn't change his stripes, he just changes jungles. Guys are who they are, particularly if they've always been rewarded for who they are\"",
       "link": "https://www.reddit.com/r/nba/comments/1rgewxp/former_suns_front_office_amin_elhassan_on_ayton/",
       "source": "r/nba",
@@ -588,15 +622,6 @@
       "category": "tech",
       "published": "2026-02-27T18:29:04Z",
       "id": "0f15ada4bfa9386b193d888b554d836a"
-    },
-    {
-      "title": "Writing a Guide to SDF Fonts",
-      "link": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-27T18:24:09Z",
-      "id": "8fdae2c535a7df97be4207ffb0322997",
-      "comments": "https://news.ycombinator.com/item?id=47183725"
     },
     {
       "title": "[Rutledge] Fernando Mendoza Says He Was Grateful Raiders Wanted to Meet With Him & Highlighted His Favorite Part of the Meeting: When He Walked In, Brady Was on the Phone and Got to Talk to Him Briefly. He Said \u201cI Look Forward to Meeting Him in Person Soon\u201d",
@@ -639,15 +664,6 @@
       "id": "fb3f55df8e48a7abdfd4d40f772adc57"
     },
     {
-      "title": "Allocating on the Stack",
-      "link": "https://go.dev/blog/allocation-optimizations",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-27T16:34:05Z",
-      "id": "d9824492347657aeb2e7933591f01503",
-      "comments": "https://news.ycombinator.com/item?id=47182487"
-    },
-    {
       "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
       "link": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
       "source": "Hacker News",
@@ -680,14 +696,6 @@
       "category": "sports",
       "published": "2026-02-27T16:20:44Z",
       "id": "2faadd9a4606e9b833d7ae8eecdaf336"
-    },
-    {
-      "title": "Optimal Caverna Gameplay via Formal Methods",
-      "link": "https://www.reddit.com/r/programming/comments/1rgaw4o/optimal_caverna_gameplay_via_formal_methods/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-27T16:11:50Z",
-      "id": "4efc753daa8e546362d98f178206160d"
     },
     {
       "title": "These trades make me sad, were there better options? Would love to see some hypothetical moves we could've made.",
@@ -1007,14 +1015,6 @@
       "id": "018ec23a1b2aef8c59d7030e848f47e8"
     },
     {
-      "title": "Cloud Bootstrap Methodologies Advice",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rfrbxl/cloud_bootstrap_methodologies_advice/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-27T00:16:49Z",
-      "id": "0dd22e4e1c7ba84340c69f6a188a1873"
-    },
-    {
       "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
       "link": "https://www.reddit.com/r/programming/comments/1rfr1jg/google_api_keys_werent_secrets_but_then_gemini/",
       "source": "r/programming",
@@ -1257,6 +1257,15 @@
       "id": "bf8dc6590c687d4a0122ec1803c5514a"
     },
     {
+      "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
+      "link": "https://phys.org/news/2026-02-year-drill-rewrites-story-ancient.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-25T19:47:07Z",
+      "id": "5a4deb47908127df3e64e0f3fba9632e",
+      "comments": "https://news.ycombinator.com/item?id=47156814"
+    },
+    {
       "title": "\"That was one of the coolest days of my life\" Pete Crow-Armstrong talks about the time he met Chicago legend Derrick Rose",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1renhvz/that_was_one_of_the_coolest_days_of_my_life_pete/",
       "source": "r/chicagobulls",
@@ -1308,15 +1317,6 @@
       "id": "c0925bb18ba0d23ead956f07319a714f"
     },
     {
-      "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
-      "link": "https://antirez.com/news/160",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-25T10:36:43Z",
-      "id": "f5d31fd6e0d4fa2929cce843f6bcdbd7",
-      "comments": "https://news.ycombinator.com/item?id=47149829"
-    },
-    {
       "title": "[Highlight] Bulls Fan putting in 110% effort while the commentators do some ad reads",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1re6kf6/highlight_bulls_fan_putting_in_110_effort_while/",
       "source": "r/chicagobulls",
@@ -1331,6 +1331,15 @@
       "category": "sports",
       "published": "2026-02-25T05:28:21Z",
       "id": "a5f30f9a950e68ed2c86db953be071d1"
+    },
+    {
+      "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+      "link": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-25T05:14:09Z",
+      "id": "d7c9df1fd248cb2c3ffc32507295316e",
+      "comments": "https://news.ycombinator.com/item?id=47147597"
     },
     {
       "title": "Coby \ud83e\udd72",
@@ -1412,15 +1421,6 @@
       "published": "2026-02-24T13:04:25Z",
       "id": "4f16cbdf380739f4dc3859e08c766e93",
       "comments": "https://news.ycombinator.com/item?id=47136612"
-    },
-    {
-      "title": "Semantic Syntax Highlighting for Lisp in Emacs",
-      "link": "https://github.com/calsys456/lisp-semantic-hl.el",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-24T12:58:11Z",
-      "id": "1dd4ac73fadf43ba82b5868b0b7a7fe9",
-      "comments": "https://news.ycombinator.com/item?id=47136535"
     },
     {
       "title": "Package Managers \u00e0 la Carte: a formal model of dependency resolution",
