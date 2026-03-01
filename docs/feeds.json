@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-03-01T06:40:27.115627Z",
+  "last_updated": "2026-03-01T09:26:02.769712Z",
   "items": [
+    {
+      "title": "A system around Agents that works better",
+      "link": "https://www.reddit.com/r/programming/comments/1rhs9t1/a_system_around_agents_that_works_better/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-01T08:41:19Z",
+      "id": "4310d220491cb7e1164a4252134daf11"
+    },
+    {
+      "title": "Switch to Claude without starting over",
+      "link": "https://claude.com/import-memory",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-01T07:36:52Z",
+      "id": "9e59b145de1d71405bc0329d84d4d70f",
+      "comments": "https://news.ycombinator.com/item?id=47204571"
+    },
+    {
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "link": "https://modernaicourse.org",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-01T07:35:03Z",
+      "id": "2707276e9c116f781a2f5de504480e2c",
+      "comments": "https://news.ycombinator.com/item?id=47204559"
+    },
+    {
+      "title": "Architectural Trade-Offs: REST vs Event-Driven Systems for Resilience",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rhqu90/architectural_tradeoffs_rest_vs_eventdriven/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-01T07:15:15Z",
+      "id": "5eb0435b21b346b9628d20d4c9d696a8"
+    },
+    {
+      "title": "PRE GAME: Chicago Bulls (24-36) vs Milwaukee Bucks (26-32) (March 1, 2026)",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1rhqdid/pre_game_chicago_bulls_2436_vs_milwaukee_bucks/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2026-03-01T06:48:36Z",
+      "id": "d533f8f964c448ef13b1f0bbacb4fedf"
+    },
     {
       "title": "Bringing Claude Code Skills into Neovim via ACP",
       "link": "https://www.reddit.com/r/programming/comments/1rhpr5l/bringing_claude_code_skills_into_neovim_via_acp/",
@@ -24,6 +66,14 @@
       "category": "sports",
       "published": "2026-03-01T04:44:05Z",
       "id": "423f23e88831da27eb52d783bd73f870"
+    },
+    {
+      "title": "[Highlight] ARK QB Taylen Green on the Phone in Joy After Running 3rd Fastest QB 40-Yard Dash in NFL Combine History Behind Michael Vick & Reggie McNeal",
+      "link": "https://www.reddit.com/r/nfl/comments/1rhn6ww/highlight_ark_qb_taylen_green_on_the_phone_in_joy/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-01T03:57:23Z",
+      "id": "26501c9d03017b634c71918292db8ac7"
     },
     {
       "title": "Luka Doncic full postgame interview on the court, after the Lakers defeated the Warriros. He mentioned he got no gifts from his teammates (for his b-day).",
@@ -189,15 +239,6 @@
       "id": "2a0bcc673b8078609c3e27e3b210ff5a"
     },
     {
-      "title": "Show HN: Xmloxide \u2013 an agent made rust replacement for libxml2",
-      "link": "https://github.com/jonwiggins/xmloxide",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-28T23:44:41Z",
-      "id": "c180ceaf37b20c60fd2054a92c562a4d",
-      "comments": "https://news.ycombinator.com/item?id=47201816"
-    },
-    {
       "title": "[Pauline] Sources: Vikings Ready to Move on From JJ McCarthy; Colts\u2019 Alec Pierce Tag Plan Stalls; Jets Eye Defensive Spending Spree",
       "link": "https://www.reddit.com/r/nfl/comments/1rhhrqi/pauline_sources_vikings_ready_to_move_on_from_jj/",
       "source": "r/nfl",
@@ -271,21 +312,21 @@
       "comments": "https://news.ycombinator.com/item?id=47200904"
     },
     {
+      "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
+      "link": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-28T22:16:08Z",
+      "id": "bd44c3eaac2fe830989486eb2e2aaf14",
+      "comments": "https://news.ycombinator.com/item?id=47200879"
+    },
+    {
       "title": "What The Hell Is Going On At The Combine?",
       "link": "https://www.reddit.com/r/nfl/comments/1rhfoyx/what_the_hell_is_going_on_at_the_combine/",
       "source": "r/nfl",
       "category": "sports",
       "published": "2026-02-28T22:15:02Z",
       "id": "c0dd7a027ca3b66b4275912c53e429df"
-    },
-    {
-      "title": "Building a Minimal Transformer for 10-digit Addition",
-      "link": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-28T22:10:21Z",
-      "id": "513d0eb02008628c8b36ff9e9a6fd2bd",
-      "comments": "https://news.ycombinator.com/item?id=47200828"
     },
     {
       "title": "What are your to go content creators to get information about AI or just tech without BS?",
@@ -564,14 +605,6 @@
       "id": "e4d68486042e9d9656a13b634a64e61b"
     },
     {
-      "title": "[Highlight] ALA OT Kadyn Proctor on QB Ty Simpson comparing him to a \u201cHippopotamus out of water:\u201d \"Man, he a punk for that ... But I understand, a big human being that can move and jump out the water or run fast. That's exactly what I am.\"",
-      "link": "https://www.reddit.com/r/nfl/comments/1rh8ah8/highlight_ala_ot_kadyn_proctor_on_qb_ty_simpson/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-02-28T17:21:19Z",
-      "id": "502660a7c7a66e316a3962396f53d2a9"
-    },
-    {
       "title": "How to make SWE in the age of AI more enjoyable?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rh818k/how_to_make_swe_in_the_age_of_ai_more_enjoyable/",
       "source": "r/ExperiencedDevs",
@@ -722,15 +755,6 @@
       "id": "d959216da877be3819a4d90997a6a669"
     },
     {
-      "title": "Unsloth Dynamic 2.0 GGUFs",
-      "link": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-28T08:56:33Z",
-      "id": "6237d58dfd3c35c6b0e4b0a0752d28f4",
-      "comments": "https://news.ycombinator.com/item?id=47192505"
-    },
-    {
       "title": "A Social Filesystem",
       "link": "https://www.reddit.com/r/programming/comments/1rgw211/a_social_filesystem/",
       "source": "r/programming",
@@ -827,14 +851,6 @@
       "id": "7e2d8e6b8a20493305b9d5373ade78b7"
     },
     {
-      "title": "Hiring senior engineers in Dubai surprised me.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rgir2s/hiring_senior_engineers_in_dubai_surprised_me/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-02-27T21:00:23Z",
-      "id": "fa47464a2bccdcf84d93abd876ab9b13"
-    },
-    {
       "title": "[Graham] The Bears had an informal meeting with Texas Tech QB Behren Morton",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rgio8f/graham_the_bears_had_an_informal_meeting_with/",
       "source": "r/CHIBears",
@@ -899,12 +915,12 @@
       "id": "a31dad88f7589fe58f09ac33610cc1a0"
     },
     {
-      "title": "747s and Coding Agents",
+      "title": "747s and coding agents",
       "link": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-27T17:22:00Z",
-      "id": "445ad37c067b9e4292e82685e7269e09",
+      "id": "46839c2f940bd305318b92f81383f86d",
       "comments": "https://news.ycombinator.com/item?id=47182986"
     },
     {
@@ -988,6 +1004,15 @@
       "id": "082690aadeb8c2e0b06be7a95cd570d7"
     },
     {
+      "title": "An ode to houseplant programming (2025)",
+      "link": "https://hannahilea.com/blog/houseplant-programming/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-27T15:19:10Z",
+      "id": "2094f029081d1a2d4f2315d72997fb4a",
+      "comments": "https://news.ycombinator.com/item?id=47181542"
+    },
+    {
       "title": "I have a staff level system design loop on monday and I am seriously shitting bricks",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rg90tk/i_have_a_staff_level_system_design_loop_on_monday/",
       "source": "r/ExperiencedDevs",
@@ -1026,14 +1051,6 @@
       "category": "sports",
       "published": "2026-02-27T13:00:37Z",
       "id": "f82f018b710583f320c1dcedaaab759d"
-    },
-    {
-      "title": "Docker, Traefik, and SSE streaming: A post-mortem on building a managed hosting platform",
-      "link": "https://www.reddit.com/r/programming/comments/1rg4li5/docker_traefik_and_sse_streaming_a_postmortem_on/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-02-27T11:49:34Z",
-      "id": "0efa3a8f2249378f8f799a1ea11687e3"
     },
     {
       "title": "Werner Herzog Between Fact and Fiction",
@@ -1157,6 +1174,15 @@
       "id": "17191cb79cb0532b21841234fe3e905a"
     },
     {
+      "title": "Cracking the Python Monorepo",
+      "link": "https://gafni.dev/blog/cracking-the-python-monorepo/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-26T22:05:48Z",
+      "id": "8b1bbd95772eafa268faf9c759f03004",
+      "comments": "https://news.ycombinator.com/item?id=47172608"
+    },
+    {
       "title": "How do you deal with the constant urge to code?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rfnwzn/how_do_you_deal_with_the_constant_urge_to_code/",
       "source": "r/ExperiencedDevs",
@@ -1205,15 +1231,6 @@
       "id": "055d271a181d2eb2cb0f7cdbcdb302e7"
     },
     {
-      "title": "Microsoft announces new \"mini PCs\" for Windows 365",
-      "link": "https://www.neowin.net/news/microsoft-announces-new-mini-pcs-for-windows-365/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-26T18:19:36Z",
-      "id": "a3deb32272c074140751b0ab60515d8e",
-      "comments": "https://news.ycombinator.com/item?id=47169858"
-    },
-    {
       "title": "Moderation changes",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rfhdrg/moderation_changes/",
       "source": "r/ExperiencedDevs",
@@ -1246,6 +1263,15 @@
       "id": "9fe1a2732684780612ded4681570a04a"
     },
     {
+      "title": "Hardwood: A New Parser for Apache Parquet",
+      "link": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-02-26T15:31:39Z",
+      "id": "51c70d483fadc5b7dedd865c2c2c1da2",
+      "comments": "https://news.ycombinator.com/item?id=47167432"
+    },
+    {
       "title": "PRE GAME: Chicago Bulls (24-35) vs Portland Trail Blazers (28-31) (February 26, 2026)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rfc7vs/pre_game_chicago_bulls_2435_vs_portland_trail/",
       "source": "r/chicagobulls",
@@ -1262,12 +1288,12 @@
       "id": "153f5014cb80b832ef6771f13ead272f"
     },
     {
-      "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
+      "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
       "link": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-02-26T09:18:57Z",
-      "id": "336214ad61a8b6ead5c868b8f73a1558",
+      "id": "5286c88a41e9215ccd606eb902cbe06d",
       "comments": "https://news.ycombinator.com/item?id=47163779"
     },
     {
@@ -1287,15 +1313,6 @@
       "published": "2026-02-25T22:17:29Z",
       "id": "c526130bd3b3861d74a02e9359fe0dd7",
       "comments": "https://news.ycombinator.com/item?id=47158834"
-    },
-    {
-      "title": "SQL vs. NoSQL: How to Answer This Interview Question in 2026",
-      "link": "https://www.thetrueengineer.com/p/sql-vs-nosql-how-to-answer-this-interview",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-25T20:37:06Z",
-      "id": "a0ffa0edc0a3cdd2664b2ba4ec5c2ed8",
-      "comments": "https://news.ycombinator.com/item?id=47157500"
     },
     {
       "title": "SpacetimeDB ThreeJS Support",
@@ -1383,15 +1400,6 @@
       "id": "a5f30f9a950e68ed2c86db953be071d1"
     },
     {
-      "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
-      "link": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-02-25T05:14:09Z",
-      "id": "d7c9df1fd248cb2c3ffc32507295316e",
-      "comments": "https://news.ycombinator.com/item?id=47147597"
-    },
-    {
       "title": "Coby \ud83e\udd72",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1re31br/coby/",
       "source": "r/chicagobulls",
@@ -1422,14 +1430,6 @@
       "category": "sports",
       "published": "2026-02-24T20:44:31Z",
       "id": "d41ea592677c296c4c344a34170298f4"
-    },
-    {
-      "title": "Saw this, thought of you.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1rdrkm5/saw_this_thought_of_you/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-02-24T20:24:36Z",
-      "id": "7da6aa5ec2294346d0deb962945fdaee"
     },
     {
       "title": "Weekly Self-Promo and Tickets/Merch Sale Thread",
