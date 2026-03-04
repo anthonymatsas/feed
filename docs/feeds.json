@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-03-04T06:41:09.672781Z",
+  "last_updated": "2026-03-04T09:36:06.590443Z",
   "items": [
+    {
+      "title": "It's going to be a long time bro",
+      "link": "https://www.reddit.com/r/programming/comments/1rkgt4i/its_going_to_be_a_long_time_bro/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-04T09:14:33Z",
+      "id": "1cb9392ef994d1e25b6c546d144ea8de"
+    },
+    {
+      "title": "Started with postgres, but ended up pretty far gone",
+      "link": "https://www.reddit.com/r/programming/comments/1rkgptj/started_with_postgres_but_ended_up_pretty_far_gone/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-04T09:08:45Z",
+      "id": "1ea0df7ac66b338b658a8e9cf9e9536c"
+    },
+    {
+      "title": "I built a JSON toolkit where nothing leaves your browser \u2014 formatter, validator, tree viewer, and 20+ converters",
+      "link": "https://www.reddit.com/r/programming/comments/1rkf2oc/i_built_a_json_toolkit_where_nothing_leaves_your/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-04T07:26:09Z",
+      "id": "a226a93f92c4f1836b68e9fbec976eaf"
+    },
+    {
+      "title": "RFC 9849. TLS Encrypted Client Hello",
+      "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-04T07:25:24Z",
+      "id": "f2b0f646b2889de98dc29c47ac0b7022",
+      "comments": "https://news.ycombinator.com/item?id=47244291"
+    },
+    {
+      "title": "Void | A terminal-native text editor",
+      "link": "https://www.reddit.com/r/programming/comments/1rkewhk/void_a_terminalnative_text_editor/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-04T07:15:40Z",
+      "id": "a205fbc1a29cdff20aca90d2384687ea"
+    },
+    {
+      "title": "1v1 RTS game where you control units with JavaScript",
+      "link": "https://www.reddit.com/r/programming/comments/1rkemkc/1v1_rts_game_where_you_control_units_with/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-04T06:59:33Z",
+      "id": "97249ead9d5b91ea636bf0f928b1606b"
+    },
+    {
+      "title": "Bears fans until we sign a new center.",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1rkebn8/bears_fans_until_we_sign_a_new_center/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-03-04T06:41:19Z",
+      "id": "e5b6e6800e5696b30dd7fce8b8b82df9"
+    },
+    {
+      "title": "Better JIT for Postgres",
+      "link": "https://github.com/vladich/pg_jitter",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-04T06:17:10Z",
+      "id": "2d95ba3c6c936d4b8070bbe6cc622693",
+      "comments": "https://news.ycombinator.com/item?id=47243804"
+    },
+    {
+      "title": "[Highlight] Zion TRUCKS Jackson Hayes who is trying to take the charge and the refs decide not to call anything on the play",
+      "link": "https://www.reddit.com/r/nba/comments/1rkdk7r/highlight_zion_trucks_jackson_hayes_who_is_trying/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-04T05:58:08Z",
+      "id": "9c8c5145af59a182f45dfd977a6ebf8c"
+    },
+    {
+      "title": "[Post Game Interview] Ant: \"This the most fun I ever had in my life... I love the city of Minnesota\"",
+      "link": "https://www.reddit.com/r/nba/comments/1rkd42s/post_game_interview_ant_this_the_most_fun_i_ever/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-04T05:33:08Z",
+      "id": "7503220b608e8569ad62949d7ba6ed87"
+    },
     {
       "title": "Trade Implications with injuries and returning picks",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rkd25b/trade_implications_with_injuries_and_returning/",
@@ -36,6 +118,15 @@
       "comments": "https://news.ycombinator.com/item?id=47243069"
     },
     {
+      "title": "Indefinite Book Club Hiatus",
+      "link": "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-04T04:25:20Z",
+      "id": "bacd4173526ce40f36ce6e31cfcfa6da",
+      "comments": "https://news.ycombinator.com/item?id=47243036"
+    },
+    {
       "title": "Still bummed about Dalman",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rkbo9e/still_bummed_about_dalman/",
       "source": "r/CHIBears",
@@ -52,30 +143,20 @@
       "id": "a8c6e82bb7bfe13f9323ae568810ec8a"
     },
     {
+      "title": "[Post Game Thread] The San Antonio Spurs (44-17) defeat the Philadelphia 76ers (33-28), 131-91.",
+      "link": "https://www.reddit.com/r/nba/comments/1rkb418/post_game_thread_the_san_antonio_spurs_4417/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-04T03:50:34Z",
+      "id": "4160f49b532e11c72dc7471af2ac0a38"
+    },
+    {
       "title": "Jared McCain since joining okc: 14/3/1 on 50/43/89 splits 8-2 record",
       "link": "https://www.reddit.com/r/nba/comments/1rkawwi/jared_mccain_since_joining_okc_1431_on_504389/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-03-04T03:41:00Z",
       "id": "beed8bded21c128c4f19bd715168732a"
-    },
-    {
-      "title": "Nobody Gets Promoted for Simplicity",
-      "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-04T03:40:18Z",
-      "id": "33661490690c76417803ee1c2ed7fc23",
-      "comments": "https://news.ycombinator.com/item?id=47242765"
-    },
-    {
-      "title": "California's Digital Age Assurance Act, and FOSS",
-      "link": "https://runxiyu.org/comp/ab1043/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-04T03:36:18Z",
-      "id": "7ed7d0752ac8fdc3dc858bf272fcf746",
-      "comments": "https://news.ycombinator.com/item?id=47242725"
     },
     {
       "title": "Anthony Edwards with 41 points on 15-29 shooting (7-13 3PT, 4-4 FT) to go along with 5 steals and a block.",
@@ -141,15 +222,6 @@
       "category": "sports",
       "published": "2026-03-04T03:19:57Z",
       "id": "5936e5e4fa775a016139ee8f36c9838d"
-    },
-    {
-      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-04T03:00:32Z",
-      "id": "919212ca67e222102cbbfa7e9c6fbb33",
-      "comments": "https://news.ycombinator.com/item?id=47242453"
     },
     {
       "title": "Red Panda with a buzzing halftime performance in Charlotte. Charlotte Hornets vs. Dallas Mavericks - 3/3/26",
@@ -327,30 +399,6 @@
       "id": "be7de70db8342f534bae246d414212a1"
     },
     {
-      "title": "First Principles While Designing C++ Applications - Prabhu Missier - CppCon 2025",
-      "link": "https://www.reddit.com/r/programming/comments/1rk73z9/first_principles_while_designing_c_applications/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-04T00:49:11Z",
-      "id": "926b5d280a9ced9a4dbf5e79fbdcbd10"
-    },
-    {
-      "title": "Threads vs Coroutines \u2014 Why C++ Has Two Concurrency Models - Conor Spilsbury - CppCon 2025",
-      "link": "https://www.reddit.com/r/programming/comments/1rk72k1/threads_vs_coroutines_why_c_has_two_concurrency/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-04T00:47:30Z",
-      "id": "e18eca326f3530ce7077b1b0d5c22d06"
-    },
-    {
-      "title": "Interesting Upcoming Low-Latency, Concurrency, and Parallelism Features - CppCon 2025",
-      "link": "https://www.reddit.com/r/programming/comments/1rk729t/interesting_upcoming_lowlatency_concurrency_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-04T00:47:10Z",
-      "id": "99f4dfb663af1eb99ad6e367108b54cf"
-    },
-    {
       "title": "Can Kyler Murray return to baseball after release by the Arizona Cardinals?",
       "link": "https://www.reddit.com/r/nfl/comments/1rk6agc/can_kyler_murray_return_to_baseball_after_release/",
       "source": "r/nfl",
@@ -464,14 +512,6 @@
       "id": "7c1b9d49854b0f2d0ff42ab5b64b9aa5"
     },
     {
-      "title": "QuePaxa: Escaping the tyranny of timeouts in consensus",
-      "link": "https://www.reddit.com/r/programming/comments/1rk2wfz/quepaxa_escaping_the_tyranny_of_timeouts_in/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-03T21:57:52Z",
-      "id": "53719808f7c25df584eefbeba9652605"
-    },
-    {
       "title": "Rust zero-cost abstractions vs. SIMD",
       "link": "https://www.reddit.com/r/programming/comments/1rk2uvq/rust_zerocost_abstractions_vs_simd/",
       "source": "r/programming",
@@ -486,14 +526,6 @@
       "category": "tech",
       "published": "2026-03-03T21:55:57Z",
       "id": "fcfe766cad129f51cca7c8db59a55122"
-    },
-    {
-      "title": "Intercepting messages inside Is\u00adDialog\u00adMessage, installing the message filter",
-      "link": "https://www.reddit.com/r/programming/comments/1rk2u6g/intercepting_messages_inside_isdialogmessage/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-03T21:55:17Z",
-      "id": "31f0d814559b3bb607dcd034f7d9d4f2"
     },
     {
       "title": "An Interactive Intro to CRDTs",
@@ -585,14 +617,6 @@
       "id": "fb22301ae43abc0b4bbe1b491e94a2b9"
     },
     {
-      "title": "[NBA PR] San Antonio Spurs guard Dylan Harper and Charlotte Hornets guard-forward Kon Knueppel have been named the Kia NBA Western and Eastern Conference Rookies of the Month, respectively, for games played in February.",
-      "link": "https://www.reddit.com/r/nba/comments/1rk14wh/nba_pr_san_antonio_spurs_guard_dylan_harper_and/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-03T20:51:24Z",
-      "id": "92f3bd6d8631c4488840628afd33f89b"
-    },
-    {
       "title": "Welp. So long Crosby",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rk0lqh/welp_so_long_crosby/",
       "source": "r/CHIBears",
@@ -631,15 +655,6 @@
       "category": "sports",
       "published": "2026-03-03T20:18:04Z",
       "id": "705c41317b6877aaf363ae98fd25e72f"
-    },
-    {
-      "title": "We've freed Cookie's Bustle from copyright hell",
-      "link": "https://gamehistory.org/cookies-bustle/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-03T20:14:18Z",
-      "id": "cef4788485c47d383d2c791e7f5652c6",
-      "comments": "https://news.ycombinator.com/item?id=47238279"
     },
     {
       "title": "[Rapoport] The Bears are hosting free agent center Tyler Biadasz on a visit, source said. The former Commanders starter was recently released and now is available before the frenzy begins.",
@@ -688,14 +703,6 @@
       "category": "sports",
       "published": "2026-03-03T20:00:38Z",
       "id": "d589ee3754e0a4f9a38c682984a101e0"
-    },
-    {
-      "title": "Kevin Durant thankful for second apron bringing parity to NBA: 'It's a fun time to be in the league'",
-      "link": "https://www.reddit.com/r/nba/comments/1rjzosi/kevin_durant_thankful_for_second_apron_bringing/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-03T19:58:32Z",
-      "id": "d25a000c1d526caae26eb4c9fecb1b30"
     },
     {
       "title": "[Schefter] The Bears signed Drew Dalman to a three-year, $42M contract last offseason, and he turned in a Pro Bowl season, starting all 17 games and playing all 1,154 offensive snaps. And now he makes the stunning decision to step away.",
@@ -903,15 +910,6 @@
       "comments": "https://news.ycombinator.com/item?id=47232903"
     },
     {
-      "title": "Don't become an engineering manager",
-      "link": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-03T14:19:14Z",
-      "id": "e339c82c0c7ceda687f1557b3f861987",
-      "comments": "https://news.ycombinator.com/item?id=47232727"
-    },
-    {
       "title": "MacBook Pro with M5 Pro and M5 Max",
       "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
       "source": "Hacker News",
@@ -935,14 +933,6 @@
       "category": "sports",
       "published": "2026-03-03T13:37:22Z",
       "id": "3f8f93844940cb2e99695eb5b65e325c"
-    },
-    {
-      "title": "How does Doc Rivers STILL have a job?",
-      "link": "https://www.reddit.com/r/nba/comments/1rjpd5a/how_does_doc_rivers_still_have_a_job/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-03T13:29:52Z",
-      "id": "9b295e7df10b8335e8d44ca16354e4b8"
     },
     {
       "title": "JSON Documents Performance, Storage and Search: MongoDB vs PostgreSQL",
@@ -1090,14 +1080,6 @@
       "id": "a503d1e367f67c577072bac925fc146b"
     },
     {
-      "title": "[Chicago Tribune] Chicago Bears are trying to thread a needle this offseason. Brad Biggs\u2019 10 thoughts from the NFL combine.",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1rj1ee3/chicago_tribune_chicago_bears_are_trying_to/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-03-02T18:47:18Z",
-      "id": "cfc0087ead0b97891e422a055bd427d0"
-    },
-    {
       "title": "Bulls Break Losing Streak, but Clarity Remains Elusive",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rj0gkx/bulls_break_losing_streak_but_clarity_remains/",
       "source": "r/chicagobulls",
@@ -1186,6 +1168,15 @@
       "id": "117b13efcbc5a927e14bc522fe0354fa"
     },
     {
+      "title": "Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math",
+      "link": "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-01T21:47:51Z",
+      "id": "852fa1b0cbeb0ecb89008ee61e1f90c3",
+      "comments": "https://news.ycombinator.com/item?id=47211034"
+    },
+    {
       "title": "Early-stage startup dilemma: pause development or seek pre-MVP funding?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ri71nn/earlystage_startup_dilemma_pause_development_or/",
       "source": "r/ExperiencedDevs",
@@ -1224,6 +1215,24 @@
       "category": "tech",
       "published": "2026-03-01T15:55:18Z",
       "id": "6f14668952d3ee06a31f39f8dcf9ac76"
+    },
+    {
+      "title": "Circle Games (2019)",
+      "link": "https://srconstantin.wordpress.com/2019/06/06/circle-games/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-01T12:54:30Z",
+      "id": "aaf579df5b6144f92825aa89d5671cfe",
+      "comments": "https://news.ycombinator.com/item?id=47206275"
+    },
+    {
+      "title": "Show HN: Rust compiler in PHP emitting x86-64 executables",
+      "link": "https://github.com/mrconter1/rustc-php",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-01T11:02:55Z",
+      "id": "7b72318f4ce4f47d6efadd805bf9f2c8",
+      "comments": "https://news.ycombinator.com/item?id=47205650"
     },
     {
       "title": "Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation",
@@ -1268,15 +1277,6 @@
       "published": "2026-03-01T05:36:58Z",
       "id": "97101030ebfe1e6a8bc25e76941cf01f",
       "comments": "https://news.ycombinator.com/item?id=47204027"
-    },
-    {
-      "title": "A pretty looking web for a quantum mechanics tool",
-      "link": "https://github.com/Jamessfks/mace",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-01T05:00:24Z",
-      "id": "9a963b3b5bd690b4fa919ab45d1a474d",
-      "comments": "https://news.ycombinator.com/item?id=47203887"
     },
     {
       "title": "[SportsCenter] CM Punk stepping out to the Bulls dynasty intro \ud83d\udd25 at WWE Elimination Chamber.",
