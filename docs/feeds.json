@@ -1,6 +1,80 @@
 {
-  "last_updated": "2026-03-07T06:34:53.067983Z",
+  "last_updated": "2026-03-07T09:24:58.319374Z",
   "items": [
+    {
+      "title": "Why I filter logs with regex before sending them to an LLM \u2014 and why it makes AI analysis dramatically better",
+      "link": "https://www.reddit.com/r/programming/comments/1rn5nac/why_i_filter_logs_with_regex_before_sending_them/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-07T09:22:57Z",
+      "id": "2f3326b24b02cbe9cc7df5f831292994"
+    },
+    {
+      "title": "Linux CMD line -si switch not being used with find command",
+      "link": "https://www.reddit.com/r/programming/comments/1rn5lm5/linux_cmd_line_si_switch_not_being_used_with_find/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-07T09:20:10Z",
+      "id": "b262a075f3eeab7b65c55e3300d311f2"
+    },
+    {
+      "title": "A community spent weeks debugging an automerge bot. The final bug was a one-line GitHub permissions edge case.",
+      "link": "https://www.reddit.com/r/programming/comments/1rn5dbz/a_community_spent_weeks_debugging_an_automerge/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-07T09:06:02Z",
+      "id": "4982a7bad0826ecdaf5591ea0198a32a"
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "link": "https://www.reddit.com/r/programming/comments/1rn5az3/the_internals_of_postgresql/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-07T09:02:01Z",
+      "id": "fc59daad3c9bfa6ae9eb005da3dce086"
+    },
+    {
+      "title": "QGIS 4.0",
+      "link": "https://changelog.qgis.org/en/version/4.0/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-07T08:53:47Z",
+      "id": "87cb27af255a2ab73b2255393443c0e2",
+      "comments": "https://news.ycombinator.com/item?id=47285846"
+    },
+    {
+      "title": "PhD in generative AI, which career path is safest and highest-paying long term?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rn43zi/phd_in_generative_ai_which_career_path_is_safest/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-07T07:50:40Z",
+      "id": "5c5bfbc6e7a9d5aeab4a67dd2ba847bd"
+    },
+    {
+      "title": "Sarvam 105B, the first competitive Indian open source LLM",
+      "link": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-07T07:43:57Z",
+      "id": "a597c8a11c76d3580ac5c6192823d04d",
+      "comments": "https://news.ycombinator.com/item?id=47285422"
+    },
+    {
+      "title": "Rick Carlisle on Luka Doncic: \u201cHe\u2019s the greatest player I\u2019ve ever coached.\u201d",
+      "link": "https://www.reddit.com/r/nba/comments/1rn28zv/rick_carlisle_on_luka_doncic_hes_the_greatest/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-07T06:07:31Z",
+      "id": "364f6223e6de3035ee83b0fa3142e8f5"
+    },
+    {
+      "title": "Luka Doncic checks out in 3 Quarters: 44 PTS, 9 REB, 5 AST, 3 STL, 2 BLK, 75% TS, +20",
+      "link": "https://www.reddit.com/r/nba/comments/1rn1snt/luka_doncic_checks_out_in_3_quarters_44_pts_9_reb/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-07T05:43:58Z",
+      "id": "5c4f99585afc6537ab9ca70b2097b1c7"
+    },
     {
       "title": "My son recently started collecting football cards. These were his notable pulls from today. Could it be fate?",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rn1ho5/my_son_recently_started_collecting_football_cards/",
@@ -58,28 +132,12 @@
       "id": "f734235f74efce2a557b58915b1ed4f0"
     },
     {
-      "title": "The Big LLM Architecture Comparison",
-      "link": "https://www.reddit.com/r/programming/comments/1rn0h7j/the_big_llm_architecture_comparison/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-07T04:36:15Z",
-      "id": "b00f91e722d9439f71597c068eb017a7"
-    },
-    {
       "title": "[Post Game Thread] The New York Knicks (41-23) annihilate the Denver Nuggets (39-25) behind OG Anunoby's 34 points, 142-103.",
       "link": "https://www.reddit.com/r/nba/comments/1rn0973/post_game_thread_the_new_york_knicks_4123/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-03-07T04:24:50Z",
       "id": "2011a3933c6bc6d29b5f76c88758b38f"
-    },
-    {
-      "title": "[Highlight] OG Anunoby with the steal and reverse dunk to put the Knicks up 28",
-      "link": "https://www.reddit.com/r/nba/comments/1rmzu13/highlight_og_anunoby_with_the_steal_and_reverse/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-07T04:04:03Z",
-      "id": "9c9435260af98f2f1514b4f3d9d0a663"
     },
     {
       "title": "Players traded for 2 Firsts in the last 10 years",
@@ -112,15 +170,6 @@
       "category": "sports",
       "published": "2026-03-07T03:15:05Z",
       "id": "0f69c1c56c0c089a6a44650cf2f7d222"
-    },
-    {
-      "title": "Can a wealthy family change the course of a deadly brain disease?",
-      "link": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-07T03:06:58Z",
-      "id": "24a7c81dfc7abc3337d77a3409afd4b9",
-      "comments": "https://news.ycombinator.com/item?id=47284061"
     },
     {
       "title": "[Hensley] For the first time in the Ravens' 31-year history, the franchise has finally used a first-round pick to trade for a player. Baltimore acquires Maxx Crosby after a season in which it recorded its fewest sacks in 15 years.",
@@ -325,15 +374,6 @@
       "id": "834a2a58978c6987fc1f1fbc902d6354"
     },
     {
-      "title": "Game about Data of America",
-      "link": "https://americaindata.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-07T00:28:56Z",
-      "id": "bb521c558b67b60e469b29ca050077b4",
-      "comments": "https://news.ycombinator.com/item?id=47282980"
-    },
-    {
       "title": "What is this?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rmv1z1/what_is_this/",
       "source": "r/chicagobulls",
@@ -383,12 +423,12 @@
       "comments": "https://news.ycombinator.com/item?id=47282807"
     },
     {
-      "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
+      "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
       "link": "https://news.ycombinator.com/item?id=47282777",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-07T00:05:06Z",
-      "id": "9b2430481b5aeaf7b2202c7048eaacd4",
+      "id": "a176b607f2369272059ef42ced7482ee",
       "comments": "https://news.ycombinator.com/item?id=47282777"
     },
     {
@@ -500,12 +540,12 @@
       "comments": "https://news.ycombinator.com/item?id=47281593"
     },
     {
-      "title": "The Shady World of IP Leasing",
+      "title": "The shady world of IP leasing",
       "link": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-06T21:19:25Z",
-      "id": "83cf820cf0fcbd41879f4520a0aad75b",
+      "id": "edcf8a58d4dc3b22c02cd2b91c4a9c87",
       "comments": "https://news.ycombinator.com/item?id=47281221"
     },
     {
@@ -581,15 +621,6 @@
       "id": "e6e4319592d0715f6d41792a29c693f0"
     },
     {
-      "title": "Ada 2022",
-      "link": "https://www.adaic.org/ada-resources/standards/ada22/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-06T20:03:48Z",
-      "id": "7ad7bcbc24c0d471838b89254dfd506a",
-      "comments": "https://news.ycombinator.com/item?id=47280352"
-    },
-    {
       "title": "How best to get your team to level up?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rmoba9/how_best_to_get_your_team_to_level_up/",
       "source": "r/ExperiencedDevs",
@@ -628,14 +659,6 @@
       "category": "tech",
       "published": "2026-03-06T19:13:23Z",
       "id": "a02714b19829d3226cf83ad2c709172a"
-    },
-    {
-      "title": "Drew Hanlen on Carmelo Anthony: \"I\u2019m standing on the fact that JT doesn\u2019t need Carmelo\u2019s advice on how to win. JT is an NBA champion & 14-6 in playoff series. Melo is 3-13 in the playoff series.\" Melo's response: \"Damn..... my bad y\u2019all I won\u2019t speak on any topics related to Winning anymore\"",
-      "link": "https://www.reddit.com/r/nba/comments/1rmmthm/drew_hanlen_on_carmelo_anthony_im_standing_on_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-06T19:00:07Z",
-      "id": "5f3830be360a61d8bf3a636165a908f0"
     },
     {
       "title": "Daily Discussion Thread + Game Thread Index",
@@ -700,14 +723,6 @@
       "category": "tech",
       "published": "2026-03-06T18:42:30Z",
       "id": "0909677f2cc82aeeddb805e448582881"
-    },
-    {
-      "title": "How I Audit a Legacy Rails Codebase in the First Week",
-      "link": "https://www.reddit.com/r/programming/comments/1rmmbhs/how_i_audit_a_legacy_rails_codebase_in_the_first/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-06T18:42:03Z",
-      "id": "a864c95deabb1d46e85af84d408195e3"
     },
     {
       "title": "Ambiguity in C",
@@ -816,15 +831,6 @@
       "id": "807d5b7003ceeafc4f768c81d5cd6185"
     },
     {
-      "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
-      "link": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-06T17:00:38Z",
-      "id": "959440728bdc0d6ea8e3e6c5c7a4d784",
-      "comments": "https://news.ycombinator.com/item?id=47277679"
-    },
-    {
       "title": "How to deal with non technical managers and culture",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rmjee4/how_to_deal_with_non_technical_managers_and/",
       "source": "r/ExperiencedDevs",
@@ -847,14 +853,6 @@
       "category": "sports",
       "published": "2026-03-06T16:32:33Z",
       "id": "5517e51c0498c0f64cb52a2dd8a7c250"
-    },
-    {
-      "title": "Fixing a major evaluation order footgun in Ryelang 0.2",
-      "link": "https://www.reddit.com/r/programming/comments/1rmi1v6/fixing_a_major_evaluation_order_footgun_in/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-06T16:06:53Z",
-      "id": "90b6d560f94c6da72f65ca1d535e6ae6"
     },
     {
       "title": "Can we have a poll about removing certain moderators here?",
@@ -964,15 +962,6 @@
       "comments": "https://news.ycombinator.com/item?id=47275236"
     },
     {
-      "title": "Good Bad ISPs",
-      "link": "https://community.torproject.org/relay/community-resources/good-bad-isps/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-06T14:22:25Z",
-      "id": "c669cc78562527b748ba2c04e604ba57",
-      "comments": "https://news.ycombinator.com/item?id=47275230"
-    },
-    {
       "title": "CT Scans of Health Wearables",
       "link": "https://www.lumafield.com/scan-of-the-month/health-wearables",
       "source": "Hacker News",
@@ -980,14 +969,6 @@
       "published": "2026-03-06T14:16:06Z",
       "id": "e7e85dedda632e9ef655e5507b213bd0",
       "comments": "https://news.ycombinator.com/item?id=47275152"
-    },
-    {
-      "title": "Does an \"exotic\" tech stack (Elixir, Crystal, Clojure) act as a reliable filter for enthusiastic candidates?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rmf0cy/does_an_exotic_tech_stack_elixir_crystal_clojure/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-06T14:10:46Z",
-      "id": "6a1bd48cf46c67e432993e0a570ded7a"
     },
     {
       "title": "[Hughes] \u201cResounding belief\u201d that Kyler Murray will sign with Vikings",
@@ -1129,20 +1110,21 @@
       "id": "0b376b0761321f8cf641de4d360a3c22"
     },
     {
-      "title": "Anybody know what happened to the GNU site?",
-      "link": "https://www.reddit.com/r/programming/comments/1rlz1ly/anybody_know_what_happened_to_the_gnu_site/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-06T00:35:14Z",
-      "id": "a35845556a310a5b0f5c39942ebc2104"
-    },
-    {
       "title": "List of fan fav Bulls \ud83d\udd25",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rlxxgb/list_of_fan_fav_bulls/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-03-05T23:48:39Z",
       "id": "4ce6f2096585b9fc1b06d7848ca79128"
+    },
+    {
+      "title": "A Modular Robot Dashboard",
+      "link": "https://github.com/transitiverobotics/transact",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-05T22:10:11Z",
+      "id": "79fafe2a5a4cd3888ce2d452b10c53cf",
+      "comments": "https://news.ycombinator.com/item?id=47267998"
     },
     {
       "title": "Jahdae Walker posted a text exchange between him and DJ Moore today",
@@ -1194,6 +1176,15 @@
       "comments": "https://news.ycombinator.com/item?id=47265580"
     },
     {
+      "title": "My application programmer instincts failed when debugging assembler",
+      "link": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-05T17:43:33Z",
+      "id": "4f9864176250119fa44092d1f6637fae",
+      "comments": "https://news.ycombinator.com/item?id=47264742"
+    },
+    {
       "title": "How are people here building/maintaining their professional networks these days?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rlmrmj/how_are_people_here_buildingmaintaining_their/",
       "source": "r/ExperiencedDevs",
@@ -1217,15 +1208,6 @@
       "category": "sports",
       "published": "2026-03-05T16:43:29Z",
       "id": "347fb2d7082000f402e48255a2f2e99e"
-    },
-    {
-      "title": "Analytic Fog Rendering with Volumetric Primitives (2025)",
-      "link": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-05T16:12:44Z",
-      "id": "250364b8d10fe2fa8dc4c2e02cd1f15e",
-      "comments": "https://news.ycombinator.com/item?id=47263441"
     },
     {
       "title": "How can I talk to my manager about imcompetent coworker who is dumping work on me w/o threatening that person's employment?",
@@ -1276,12 +1258,12 @@
       "id": "26c6f2f2f8281bc63238000af4747c6a"
     },
     {
-      "title": "Maybe There's a Pattern Here?",
+      "title": "Maybe there's a pattern here?",
       "link": "https://dynomight.net/pattern/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-05T02:58:10Z",
-      "id": "274219b9af5cc827ecbf390e7203269a",
+      "id": "4da74cee44a779d9d81d38906adcb8e1",
       "comments": "https://news.ycombinator.com/item?id=47256941"
     },
     {
@@ -1365,6 +1347,24 @@
       "category": "sports",
       "published": "2026-03-03T22:04:32Z",
       "id": "84023a9e5ae27b801ebf89697a343045"
+    },
+    {
+      "title": "The Longing (1999)",
+      "link": "https://www.cluetrain.com/book/longing.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-03T16:19:08Z",
+      "id": "05ace2ce08a6264b33d6fdd1f7634890",
+      "comments": "https://news.ycombinator.com/item?id=47234689"
+    },
+    {
+      "title": "Working and Communicating with Japanese Engineers",
+      "link": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-03T15:02:32Z",
+      "id": "398e5a1f016aade95856546627510a89",
+      "comments": "https://news.ycombinator.com/item?id=47233441"
     },
     {
       "title": "PRE GAME: Chicago Bulls (25-36) vs Oklahoma City Thunder (47-15) (March 3, 2026)",
