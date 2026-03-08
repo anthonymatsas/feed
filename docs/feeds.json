@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-03-08T04:40:20.770174Z",
+  "last_updated": "2026-03-08T06:37:26.088899Z",
   "items": [
+    {
+      "title": "What Breaks After Your AI Demo Works",
+      "link": "https://www.reddit.com/r/programming/comments/1rnxcr4/what_breaks_after_your_ai_demo_works/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-08T06:22:12Z",
+      "id": "0e49ab7089bb5b8dcc391d7d06c233d1"
+    },
+    {
+      "title": "qRPC: Low latency RPC over Link Layer",
+      "link": "https://www.reddit.com/r/programming/comments/1rnx3mj/qrpc_low_latency_rpc_over_link_layer/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-08T06:08:36Z",
+      "id": "950cc7d7714cd95d26108f628507e8d2"
+    },
+    {
+      "title": "How I built an Arduino AVR8 emulator that runs in the browser",
+      "link": "https://www.reddit.com/r/programming/comments/1rnw4e5/how_i_built_an_arduino_avr8_emulator_that_runs_in/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-08T05:16:52Z",
+      "id": "589995a4c2c5fdbcd225ccb936b50f33"
+    },
+    {
+      "title": "Every Jets interception in 2025",
+      "link": "https://www.reddit.com/r/nfl/comments/1rnw35a/every_jets_interception_in_2025/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-08T05:15:08Z",
+      "id": "0ed26556661f88d734a52c6c5de44a70"
+    },
+    {
+      "title": "Some Words on Wigglypaint",
+      "link": "https://www.reddit.com/r/programming/comments/1rnw0h5/some_words_on_wigglypaint/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-08T05:11:20Z",
+      "id": "6b08211fac71f7186e69d4fe3a893a18"
+    },
+    {
+      "title": "BlockLike: Bridging the gap between block programming and JavaScript.",
+      "link": "https://www.reddit.com/r/programming/comments/1rnvmk7/blocklike_bridging_the_gap_between_block/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-08T04:51:45Z",
+      "id": "b9948a87a4640c3e2e9b81788b34a67d"
+    },
+    {
+      "title": "Shipped a side project. Struggling with the gap between it and what's in my head",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rnvmiq/shipped_a_side_project_struggling_with_the_gap/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-08T04:51:41Z",
+      "id": "cb8d24d4d29ef19715b5cfe3d77c5d5a"
+    },
+    {
+      "title": "[Highlight] 5'8 215lb Jaylen Warren with an impressive blitz pickup on Crosby",
+      "link": "https://www.reddit.com/r/nfl/comments/1rnv77a/highlight_58_215lb_jaylen_warren_with_an/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-08T04:29:08Z",
+      "id": "05434271c5c92e19593ea182a7675a26"
+    },
     {
       "title": "[Spears] The Oklahoma City has reached its 50th win of the season. The Thunder now holds 10 50-win equivalent seasons since 2010, most in the NBA.",
       "link": "https://www.reddit.com/r/nba/comments/1rnuvzi/spears_the_oklahoma_city_has_reached_its_50th_win/",
@@ -8,6 +72,14 @@
       "category": "sports",
       "published": "2026-03-08T04:13:13Z",
       "id": "2594291229c7b63afed2cbcd8f323fd4"
+    },
+    {
+      "title": "[Highlight] Denver Broncos Legend Paxton Lynch throws a touchdown pass for fellow Denver football team Colorado Spartans of the National Arena League!",
+      "link": "https://www.reddit.com/r/nfl/comments/1rnuqw2/highlight_denver_broncos_legend_paxton_lynch/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-08T04:06:01Z",
+      "id": "ce75bfb2829712c19402b8dc8b9951a6"
     },
     {
       "title": "[Post Game Thread] The Oklahoma City Thunder (49-15) defeat the Golden State Warriors (32-30), 104-97.",
@@ -58,15 +130,6 @@
       "id": "aa209f21cff2a8d6bc286c46dc432199"
     },
     {
-      "title": "Will Claude Code ruin our team?",
-      "link": "https://justinjackson.ca/claude-code-ruin",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-08T02:59:35Z",
-      "id": "44bdef76adfc2557f9df16eae3c86826",
-      "comments": "https://news.ycombinator.com/item?id=47293938"
-    },
-    {
       "title": "I ported Daniel Lemire's fast_float to c99",
       "link": "https://www.reddit.com/r/programming/comments/1rnswm5/i_ported_daniel_lemires_fast_float_to_c99/",
       "source": "r/programming",
@@ -90,15 +153,6 @@
       "category": "sports",
       "published": "2026-03-08T02:15:16Z",
       "id": "abfef2d003d1b3245ea6a3b678dca93b"
-    },
-    {
-      "title": "They all said Hormuz closure would be brief. What if they were wrong?",
-      "link": "https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-08T01:46:05Z",
-      "id": "0f5ceb0e6a72e556ac413f8175748c2f",
-      "comments": "https://news.ycombinator.com/item?id=47293482"
     },
     {
       "title": "[Post Game Thread] The Brooklyn Nets (15-47) complete the 23 point comeback to defeat the Detroit Pistons (45-16), 107-105.",
@@ -231,14 +285,6 @@
       "id": "69521777c7d35ef74d638fa1e1a21271"
     },
     {
-      "title": "[Schefter] Vikings and T.J. Hockenson have agreed to a restructured contract that saves the team more than $5M in cap space in 2026. Interim GM Rob Brzezinski continues to clear cap space before free agency.",
-      "link": "https://www.reddit.com/r/nfl/comments/1rnpur0/schefter_vikings_and_tj_hockenson_have_agreed_to/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-08T00:14:07Z",
-      "id": "41ac70e9753028140c94f972c6477890"
-    },
-    {
       "title": "Sean McVay says \u201cnot neccessarily married\u201d to play calling for Rams",
       "link": "https://www.reddit.com/r/nfl/comments/1rnp8v3/sean_mcvay_says_not_neccessarily_married_to_play/",
       "source": "r/nfl",
@@ -255,13 +301,13 @@
       "id": "93ebd193405f5e738e82f397de372a13"
     },
     {
-      "title": "Put the zip code first",
-      "link": "https://zipcodefirst.com",
+      "title": "How to run Qwen 3.5 locally",
+      "link": "https://unsloth.ai/docs/models/qwen3.5",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-07T23:26:26Z",
-      "id": "21d0ae557a60a9e25d2610ca03c41468",
-      "comments": "https://news.ycombinator.com/item?id=47292485"
+      "published": "2026-03-07T23:32:17Z",
+      "id": "2ac86f14c68b970f53fe7727ef6e4d30",
+      "comments": "https://news.ycombinator.com/item?id=47292522"
     },
     {
       "title": "Has anyone been booed longer after leaving than Kawhi?",
@@ -461,14 +507,6 @@
       "id": "5bf00f69c826d0ea5a01184c8cbf1cee"
     },
     {
-      "title": "Love and Hate and Agents",
-      "link": "https://www.reddit.com/r/programming/comments/1rnk7ay/love_and_hate_and_agents/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-07T20:18:53Z",
-      "id": "69eae5dc44ab71b9cf2bd4426045d007"
-    },
-    {
       "title": "Ja'Marr Chase reaction to Maxx trade following text from Burrow",
       "link": "https://www.reddit.com/r/nfl/comments/1rnk69n/jamarr_chase_reaction_to_maxx_trade_following/",
       "source": "r/nfl",
@@ -624,28 +662,12 @@
       "comments": "https://news.ycombinator.com/item?id=47289311"
     },
     {
-      "title": "[LA Rams] Rams CB Darious Williams Has Retired. \"Forever a Super Bowl LVI champ! Congrats on a great career, Darious! \ud83d\udc99\"",
-      "link": "https://www.reddit.com/r/nfl/comments/1rneru5/la_rams_rams_cb_darious_williams_has_retired/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-07T16:49:36Z",
-      "id": "4f74d57bdffd7ee2f3a7c88326089e38"
-    },
-    {
       "title": "[Weiss] Klay on JT's return: \"I know what it's like. It's not fun watching your teammates compete without you...you know what you're capable of, how much you can help. So that's the worst feeling, feeling like a prisoner in your own body. For him to do what he did tonight, I was very happy for him.\"",
       "link": "https://www.reddit.com/r/nba/comments/1rnek44/weiss_klay_on_jts_return_i_know_what_its_like_its/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-03-07T16:40:55Z",
       "id": "23d99b609bdf70998553646a0488996e"
-    },
-    {
-      "title": "I couldn't find a benchmark testing WebFlux + R2DBC vs Virtual Threads on a real auth workload, so I benchmarked it",
-      "link": "https://www.reddit.com/r/programming/comments/1rnda23/i_couldnt_find_a_benchmark_testing_webflux_r2dbc/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-07T15:50:19Z",
-      "id": "8101a666248c09f214e66537bfa34cc4"
     },
     {
       "title": "[Highlight] Jason Sanders claps back at Tyreek Hill telling him he better not miss a kick this year: \"And if I do? You better not drop a ball this year.\"",
@@ -679,14 +701,6 @@
       "published": "2026-03-07T15:33:36Z",
       "id": "04484055a74aefc2d2195855dd942d9a",
       "comments": "https://news.ycombinator.com/item?id=47288533"
-    },
-    {
-      "title": "AMD GAIA 0.16 introduces C++17 agent framework for building AI PC agents in pure C++",
-      "link": "https://www.reddit.com/r/programming/comments/1rncnnk/amd_gaia_016_introduces_c17_agent_framework_for/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-07T15:25:04Z",
-      "id": "209439980b4aef52fb9a5f09be2a4651"
     },
     {
       "title": "[Pitts] Kyle Pitts Calls Out Teammates After Attending Rondale Moore's Funeral: \"Crazy how only about 6 maybe 7 of your teammates in the NFL showed up for you today smfh.. All that talk and fake emotion and nobody want to show up to lay you to rest.. Just at a loss of words.\"",
@@ -779,6 +793,15 @@
       "id": "a9ee5a30807b9f0cecda1256d5eab299"
     },
     {
+      "title": "Ki Editor - an editor that operates on the AST",
+      "link": "https://ki-editor.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-07T10:29:13Z",
+      "id": "be847e58aee9248da0bf4d5ccaf98b0a",
+      "comments": "https://news.ycombinator.com/item?id=47286311"
+    },
+    {
       "title": "[Highlight] Wembanyama emotional after 25-pt comeback for the Spurs",
       "link": "https://www.reddit.com/r/nba/comments/1rn101j/highlight_wembanyama_emotional_after_25pt/",
       "source": "r/nba",
@@ -833,14 +856,6 @@
       "category": "sports",
       "published": "2026-03-07T02:20:41Z",
       "id": "20efeed0e995c29cbd79946fef9b24a8"
-    },
-    {
-      "title": "[Schefter] ESPN sources: the Raiders agreed to trade five-time Pro-Bowl DE Maxx Crosby to the Baltimore Ravens in exchange for 2026 and 2027 first-round picks. The trade cannot be processed until next week, but it is in place. And Crosby is expected to be a Raven with two 1s back to Vegas.",
-      "link": "https://www.reddit.com/r/nfl/comments/1rmxn58/schefter_espn_sources_the_raiders_agreed_to_trade/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-07T02:19:28Z",
-      "id": "3bbd88c1f9e5020f20b6510abd745ec4"
     },
     {
       "title": "Let Poles Cook!!!!!",
@@ -1020,22 +1035,6 @@
       "id": "a02714b19829d3226cf83ad2c709172a"
     },
     {
-      "title": "Image manipulation with convolution using Julia",
-      "link": "https://www.reddit.com/r/programming/comments/1rmmbx9/image_manipulation_with_convolution_using_julia/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-06T18:42:30Z",
-      "id": "0909677f2cc82aeeddb805e448582881"
-    },
-    {
-      "title": "Ambiguity in C",
-      "link": "https://www.reddit.com/r/programming/comments/1rmmb67/ambiguity_in_c/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-06T18:41:45Z",
-      "id": "9618bf5adfc499b5cf8317eae8f2281f"
-    },
-    {
       "title": "A new chapter for the Nix language, courtesy of WebAssembly",
       "link": "https://www.reddit.com/r/programming/comments/1rmmaw2/a_new_chapter_for_the_nix_language_courtesy_of/",
       "source": "r/programming",
@@ -1191,20 +1190,21 @@
       "id": "e697ab94acc97229599fcbe34cddc8fa"
     },
     {
-      "title": "Capacity planning is the one thing I've never seen done well across any team I've been on",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rlz7i2/capacity_planning_is_the_one_thing_ive_never_seen/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-06T00:42:19Z",
-      "id": "0b376b0761321f8cf641de4d360a3c22"
-    },
-    {
       "title": "List of fan fav Bulls \ud83d\udd25",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rlxxgb/list_of_fan_fav_bulls/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-03-05T23:48:39Z",
       "id": "4ce6f2096585b9fc1b06d7848ca79128"
+    },
+    {
+      "title": "Self-Portrait by Ernst Mach (1886)",
+      "link": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-05T23:48:26Z",
+      "id": "6efeaf58b0233b96fcae45ee060fe9dd",
+      "comments": "https://news.ycombinator.com/item?id=47268838"
     },
     {
       "title": "32 Teams/32 Days, Carolina Panthers",
@@ -1239,6 +1239,15 @@
       "id": "cd515ac5909c41cb3a490b99b07a34d6"
     },
     {
+      "title": "Ten Years of Deploying to Production",
+      "link": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-05T14:25:46Z",
+      "id": "37124cc1cb3b03c4c36345191b877987",
+      "comments": "https://news.ycombinator.com/item?id=47261858"
+    },
+    {
       "title": "Senior backend dev struggling with \u201cjust ship tickets\u201d culture after working in a strong engineering team",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rlezlv/senior_backend_dev_struggling_with_just_ship/",
       "source": "r/ExperiencedDevs",
@@ -1271,15 +1280,6 @@
       "category": "sports",
       "published": "2026-03-05T05:28:22Z",
       "id": "26c6f2f2f8281bc63238000af4747c6a"
-    },
-    {
-      "title": "A Grand Vision for Rust",
-      "link": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-05T01:37:42Z",
-      "id": "08a371b7225cb75958a749c752950cf3",
-      "comments": "https://news.ycombinator.com/item?id=47256376"
     },
     {
       "title": "macOS code injection for fun and no profit (2024)",
