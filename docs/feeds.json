@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-03-08T09:25:40.900142Z",
+  "last_updated": "2026-03-08T12:39:44.511519Z",
   "items": [
+    {
+      "title": "OSS Coding Agent with Self-hosted LLM: own the whole stack with Opencode and vLLM",
+      "link": "https://www.reddit.com/r/programming/comments/1ro3tl5/oss_coding_agent_with_selfhosted_llm_own_the/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-08T12:36:17Z",
+      "id": "40826b7854295742298e9e94af2a18c9"
+    },
+    {
+      "title": "Quantum simulates properties of the first-ever half-M\u00f6bius molecule, designed by IBM and researchers",
+      "link": "https://www.reddit.com/r/programming/comments/1ro3f3a/quantum_simulates_properties_of_the_firstever/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-08T12:15:50Z",
+      "id": "6db177af004161c85a7fcbc8211568cb"
+    },
+    {
+      "title": "LLM-driven large code rewrites with relicensing are the latest AI concern",
+      "link": "https://www.reddit.com/r/programming/comments/1ro2w8v/llmdriven_large_code_rewrites_with_relicensing/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-08T11:47:22Z",
+      "id": "db85da84433a92ac68cfd8c8d317fd84"
+    },
+    {
+      "title": "The Bears were involved in 11 of the top 100 plays of 2025! Caleb alone had 4 of the top 11! Only 3 of these instances were against the Bears but 8 of them were our own top plays!",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1ro2tbk/the_bears_were_involved_in_11_of_the_top_100/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-03-08T11:42:50Z",
+      "id": "d5d1eda2aec9fb4c89d2b643b42cf78c"
+    },
+    {
+      "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
+      "link": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-08T11:04:04Z",
+      "id": "ecea392f5ccaf1430c7485f9e2a62558",
+      "comments": "https://news.ycombinator.com/item?id=47296355"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 07, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1ro228x/serious_next_day_thread_postgame_discussion_march/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-08T11:00:01Z",
+      "id": "5d9328a52d68be5caa649bb5eec3227e"
+    },
+    {
+      "title": "Sunday Brunch",
+      "link": "https://www.reddit.com/r/nfl/comments/1ro21ar/sunday_brunch/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-08T10:58:31Z",
+      "id": "6c23b3f3594bae871318725a2bb7c46f"
+    },
+    {
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-08T10:54:32Z",
+      "id": "bd4cffb68ae7d9f8fd8d58b50d005523",
+      "comments": "https://news.ycombinator.com/item?id=47296302"
+    },
+    {
+      "title": "How does your team handle orphaned migrations on a shared dev or test environment?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ro16jq/how_does_your_team_handle_orphaned_migrations_on/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-08T10:08:21Z",
+      "id": "42f14192539cbc1e1da116f01c5d3877"
+    },
+    {
+      "title": "Complete Guide to Building a CLI",
+      "link": "https://www.reddit.com/r/programming/comments/1ro0qpz/complete_guide_to_building_a_cli/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-08T09:41:50Z",
+      "id": "c2f772bbd6e479d7555b0aea3d6d0e80"
+    },
+    {
+      "title": "Notes on Writing WASM",
+      "link": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-08T09:24:54Z",
+      "id": "0cf6936ad57042013e263462134a2e85",
+      "comments": "https://news.ycombinator.com/item?id=47295837"
+    },
     {
       "title": "What positions are your first 4 picks if the draft started today?",
       "link": "https://www.reddit.com/r/CHIBears/comments/1ro0fmo/what_positions_are_your_first_4_picks_if_the/",
@@ -8,15 +99,6 @@
       "category": "sports",
       "published": "2026-03-08T09:22:16Z",
       "id": "5e9cf24f27cc30f52480d470227bcb93"
-    },
-    {
-      "title": "Llm9p: LLM as a Plan 9 file system",
-      "link": "https://github.com/NERVsystems/llm9p",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-08T08:52:19Z",
-      "id": "414164e2f3a7ab503958712ec87962cb",
-      "comments": "https://news.ycombinator.com/item?id=47295708"
     },
     {
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
@@ -36,13 +118,12 @@
       "id": "64458705306bbadfbf6cf903974e007e"
     },
     {
-      "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
-      "link": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-08T07:52:38Z",
-      "id": "969782a4da14ccc86ab5da542689a26a",
-      "comments": "https://news.ycombinator.com/item?id=47295454"
+      "title": "Despite playing 51 games this season, Johnathon Isaac hasn't played more than 20 minutes once.",
+      "link": "https://www.reddit.com/r/nba/comments/1rnz0ws/despite_playing_51_games_this_season_johnathon/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-08T07:57:21Z",
+      "id": "34d02a0bac9ce07f9d326350264b281f"
     },
     {
       "title": "Show HN: Curiosity \u2013 DIY 6\" Newtonian Reflector Telescope",
@@ -62,14 +143,6 @@
       "id": "65a60aac230d8e361ff62f23663a93de"
     },
     {
-      "title": "What Breaks After Your AI Demo Works",
-      "link": "https://www.reddit.com/r/programming/comments/1rnxcr4/what_breaks_after_your_ai_demo_works/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-08T06:22:12Z",
-      "id": "0e49ab7089bb5b8dcc391d7d06c233d1"
-    },
-    {
       "title": "To the Polypropylene Makers",
       "link": "https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers",
       "source": "Hacker News",
@@ -79,12 +152,21 @@
       "comments": "https://news.ycombinator.com/item?id=47295040"
     },
     {
-      "title": "qRPC: Low latency RPC over Link Layer",
-      "link": "https://www.reddit.com/r/programming/comments/1rnx3mj/qrpc_low_latency_rpc_over_link_layer/",
-      "source": "r/programming",
+      "title": "[Highlight] Shai Gilgeous-Alexander blocks Gui Santos under the rim and lets the clock run out - Thunder win.",
+      "link": "https://www.reddit.com/r/nba/comments/1rnx1iv/highlight_shai_gilgeousalexander_blocks_gui/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-08T06:05:26Z",
+      "id": "879ee45f29c3518a2efdc2faae1cbbfd"
+    },
+    {
+      "title": "Sem \u2013 Semantic version control. Entity-level diffs on top of Git",
+      "link": "https://github.com/ataraxy-labs/sem",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-08T06:08:36Z",
-      "id": "950cc7d7714cd95d26108f628507e8d2"
+      "published": "2026-03-08T06:01:26Z",
+      "id": "4bf73c90944e21f95ddb387a2b47d6d1",
+      "comments": "https://news.ycombinator.com/item?id=47294924"
     },
     {
       "title": "How I built an Arduino AVR8 emulator that runs in the browser",
@@ -101,14 +183,6 @@
       "category": "tech",
       "published": "2026-03-08T05:11:20Z",
       "id": "6b08211fac71f7186e69d4fe3a893a18"
-    },
-    {
-      "title": "BlockLike: Bridging the gap between block programming and JavaScript.",
-      "link": "https://www.reddit.com/r/programming/comments/1rnvmk7/blocklike_bridging_the_gap_between_block/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-08T04:51:45Z",
-      "id": "b9948a87a4640c3e2e9b81788b34a67d"
     },
     {
       "title": "Shipped a side project. Struggling with the gap between it and what's in my head",
@@ -191,29 +265,12 @@
       "id": "6ef0e6cd484c221a9ccb452c0ea56e4a"
     },
     {
-      "title": "Looking for textbook\ud83d\udcda: Finite Automata and Formal Languages: A Simple Approach, by A. M. Padma Reddy, published by Pearson Education India. \ud83d\udcda",
-      "link": "https://www.reddit.com/r/programming/comments/1rnu1d1/looking_for_textbook_finite_automata_and_formal/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-08T03:30:30Z",
-      "id": "9f5f814c252fc89bc55ab1afe3be3023"
-    },
-    {
       "title": "With a quarter left against Golden State, SGA has now scored 20 points or more in 125 consecutive games. One more, and he ties Wilt Chamberlain's record.",
       "link": "https://www.reddit.com/r/nba/comments/1rntznk/with_a_quarter_left_against_golden_state_sga_has/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-03-08T03:28:06Z",
       "id": "aa209f21cff2a8d6bc286c46dc432199"
-    },
-    {
-      "title": "Revisiting Time: UT1, UTC, NTP and NTS",
-      "link": "https://www.potaroo.net/ispcol/2026-03/nts.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-08T03:07:05Z",
-      "id": "ba764191cf399a9b54dd7c40bd1592ec",
-      "comments": "https://news.ycombinator.com/item?id=47293985"
     },
     {
       "title": "I ported Daniel Lemire's fast_float to c99",
@@ -257,12 +314,12 @@
       "id": "ab756b9642a5e9594e3ee9062f6f07ca"
     },
     {
-      "title": "\"Warn about PyPy being unmaintained\"",
+      "title": "Warn about PyPy being unmaintained",
       "link": "https://github.com/astral-sh/uv/pull/17643",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-08T01:35:21Z",
-      "id": "2986ab3c64a912a3ad8d0e64dc1f5f25",
+      "id": "021d3e46c8de64552e638bd5601b1c06",
       "comments": "https://news.ycombinator.com/item?id=47293415"
     },
     {
@@ -452,15 +509,6 @@
       "id": "d601db6a33e91e2e615a15e824604632"
     },
     {
-      "title": "Lisp-style C++ template meta programming",
-      "link": "https://github.com/mistivia/lmp",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-07T22:21:57Z",
-      "id": "8e9e16878c06bbd7f0942d8e46a0306e",
-      "comments": "https://news.ycombinator.com/item?id=47292029"
-    },
-    {
       "title": "JJ Redick about how he can manage Luka\u2019s competitive fire when it comes to officiating: \u201cI would much rather have someone who is trying to go out every night and kill than someone you have to revive with a defibrillator every other",
       "link": "https://www.reddit.com/r/nba/comments/1rnn3a4/jj_redick_about_how_he_can_manage_lukas/",
       "source": "r/nba",
@@ -499,15 +547,6 @@
       "category": "sports",
       "published": "2026-03-07T21:10:08Z",
       "id": "12715180935485e8c88106fb15221947"
-    },
-    {
-      "title": "LLM Writing Tropes.md",
-      "link": "https://tropes.fyi/tropes-md",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-07T21:08:40Z",
-      "id": "16c699b17ae0c903962e9df3e9a96d9f",
-      "comments": "https://news.ycombinator.com/item?id=47291513"
     },
     {
       "title": "[Pelissero] The Green Bay Packers wanted to keep LB Quay Walker and made several runs at re-signing him before the Zaire Franklin trade. But it now appears the former first-round pick will hit free agency Monday, and he is expected to have a strong market.",
@@ -746,14 +785,6 @@
       "id": "34cbf7e5e9328936a24baf172df88e72"
     },
     {
-      "title": "[Highlight] Carter Bryant blows the roof off the Spurs arena with the transition lob dunk",
-      "link": "https://www.reddit.com/r/nba/comments/1rncwga/highlight_carter_bryant_blows_the_roof_off_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-07T15:34:58Z",
-      "id": "c0c04abe862a8278ba5b6e8bd4368ab0"
-    },
-    {
       "title": "FLASH radiotherapy's bold approach to cancer treatment",
       "link": "https://spectrum.ieee.org/flash-radiotherapy",
       "source": "Hacker News",
@@ -785,14 +816,6 @@
       "category": "sports",
       "published": "2026-03-07T15:07:32Z",
       "id": "08114b7d6ab7f76dbd2e5a6e0dbf83c9"
-    },
-    {
-      "title": "Shitpost Saturday",
-      "link": "https://www.reddit.com/r/nfl/comments/1rnc2e9/shitpost_saturday/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-07T15:00:35Z",
-      "id": "f679ca8cfa058e5eead5a08966ac91aa"
     },
     {
       "title": "Due to the Crosby trade, the Raiders Have $121,725,607 to Spend on FA ($26 million more than the next highest team)",
@@ -851,14 +874,6 @@
       "category": "tech",
       "published": "2026-03-07T10:35:09Z",
       "id": "a9ee5a30807b9f0cecda1256d5eab299"
-    },
-    {
-      "title": "[Highlight] Wembanyama emotional after 25-pt comeback for the Spurs",
-      "link": "https://www.reddit.com/r/nba/comments/1rn101j/highlight_wembanyama_emotional_after_25pt/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-07T05:03:14Z",
-      "id": "c8b81e48b06d08342fab39650aa42da6"
     },
     {
       "title": "What canceled my Go context?",
@@ -939,14 +954,6 @@
       "category": "sports",
       "published": "2026-03-07T00:23:04Z",
       "id": "4f42f0bce0c1d1bfd4dac17c0c7dd4b1"
-    },
-    {
-      "title": "[Chicago Bears Network] LB Alex Anzalone is a name to watch for the Bears in free agency, per Jeremy Fowler. Anzalone was with Dennis Allen in New Orleans. via @CHGO_Bears)",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1rmv0tj/chicago_bears_network_lb_alex_anzalone_is_a_name/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-03-07T00:21:41Z",
-      "id": "db62a3b78df9e1d051632500425d56f6"
     },
     {
       "title": "Makes me feel a little bit more at ease with this trade.",
@@ -1126,14 +1133,6 @@
       "comments": "https://news.ycombinator.com/item?id=47274768"
     },
     {
-      "title": "Weekly Friday Self-Promotion and Fan Art Thread",
-      "link": "https://www.reddit.com/r/nba/comments/1rmdcbm/weekly_friday_selfpromotion_and_fan_art_thread/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-06T13:00:18Z",
-      "id": "00b3be71f3101079d33d16597925e5fe"
-    },
-    {
       "title": "The tension between fraud prevention and conversion rate is the most uncomfortable tradeoff I have had to own as an engineer",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rm8r8o/the_tension_between_fraud_prevention_and/",
       "source": "r/ExperiencedDevs",
@@ -1248,14 +1247,6 @@
       "comments": "https://news.ycombinator.com/item?id=47261858"
     },
     {
-      "title": "Senior backend dev struggling with \u201cjust ship tickets\u201d culture after working in a strong engineering team",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rlezlv/senior_backend_dev_struggling_with_just_ship/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-05T11:15:44Z",
-      "id": "42e943ec58094aea5f66c67b683182b8"
-    },
-    {
       "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
       "link": "https://thecloudlet.github.io/blog/project/emacs-02/",
       "source": "Hacker News",
@@ -1299,6 +1290,15 @@
       "comments": "https://news.ycombinator.com/item?id=47249685"
     },
     {
+      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "link": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-04T15:42:49Z",
+      "id": "0967ad52e67eb89b56fa0338e9c0d37e",
+      "comments": "https://news.ycombinator.com/item?id=47249139"
+    },
+    {
       "title": "Show HN: A weird thing that detects your pulse from the browser video",
       "link": "https://pulsefeedback.io/",
       "source": "Hacker News",
@@ -1325,6 +1325,15 @@
       "id": "59a824ce03cb1d05b774126c57030411"
     },
     {
+      "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+      "link": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-04T13:39:34Z",
+      "id": "1a56208fcb0046b403a121922c144512",
+      "comments": "https://news.ycombinator.com/item?id=47247248"
+    },
+    {
       "title": "From RGB to L*a*b* color space (2024)",
       "link": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
       "source": "Hacker News",
@@ -1340,15 +1349,6 @@
       "category": "sports",
       "published": "2026-03-04T08:29:48Z",
       "id": "80c99b0bfe3d59d34e5089c86727acea"
-    },
-    {
-      "title": "How important was the Battle of Hastings?",
-      "link": "https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-04T07:23:49Z",
-      "id": "19278e7520cd90c4ff478437b1195f7e",
-      "comments": "https://news.ycombinator.com/item?id=47244274"
     },
     {
       "title": "Trade Implications with injuries and returning picks",
@@ -1375,13 +1375,13 @@
       "id": "e7a5da15a8661fb01a95a8a46fc736c0"
     },
     {
-      "title": "Compiling Prolog to Forth [pdf]",
-      "link": "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf",
+      "title": "The Lobster Programming Language",
+      "link": "https://strlen.com/lobster/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-03T22:45:10Z",
-      "id": "3e4a1b26f49363e0821454a032a5cbac",
-      "comments": "https://news.ycombinator.com/item?id=47240169"
+      "published": "2026-03-03T22:24:54Z",
+      "id": "240f111a49a6d07881a0d59cd2dfc195",
+      "comments": "https://news.ycombinator.com/item?id=47239955"
     },
     {
       "title": "scottie pippen sotheby's auction",
