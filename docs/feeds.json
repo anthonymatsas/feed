@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-03-10T04:28:38.790508Z",
+  "last_updated": "2026-03-10T06:42:27.964664Z",
   "items": [
+    {
+      "title": "here's how I used Alchemy to improve AI Auditing.",
+      "link": "https://www.reddit.com/r/programming/comments/1rppnfa/heres_how_i_used_alchemy_to_improve_ai_auditing/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-10T06:40:22Z",
+      "id": "a334fdced50bffd1517c31a7aa96e155"
+    },
+    {
+      "title": "anyone built ML systems for manufacturing? the challenges seems fascinating and terrible",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rppe4x/anyone_built_ml_systems_for_manufacturing_the/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-10T06:24:56Z",
+      "id": "fdbb671a026b6ab02702f4cb70fed70d"
+    },
+    {
+      "title": "New open-source multi-agent framework in Go \u2014 interesting alternative to Python-based AI tooling",
+      "link": "https://www.reddit.com/r/programming/comments/1rpp76t/new_opensource_multiagent_framework_in_go/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-10T06:13:31Z",
+      "id": "9c1b0d7481f10a4bb15e342e80f1a333"
+    },
+    {
+      "title": "Claude Code, Claude Cowork and Codex #5",
+      "link": "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T05:12:54Z",
+      "id": "ceaceb5b2712576be6a4d97041e32ea2",
+      "comments": "https://news.ycombinator.com/item?id=47319294"
+    },
+    {
+      "title": "Amazon holds engineering meeting following AI-related outages",
+      "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T05:07:59Z",
+      "id": "e63c7184bf20da57c88a6bf935546d9f",
+      "comments": "https://news.ycombinator.com/item?id=47319273"
+    },
+    {
+      "title": "Senior engineers: what \u201cnon-coding\u201d skill made the biggest difference in your career?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rpo0gt/senior_engineers_what_noncoding_skill_made_the/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-10T05:05:57Z",
+      "id": "a24ad00e37901f43f1a6f9c21146cb0d"
+    },
+    {
+      "title": "Show HN: I Was Here \u2013 Draw on street view, others can find your drawings",
+      "link": "https://washere.live",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T05:04:23Z",
+      "id": "426d940bde0ebd6ef84be5d6c00a9e52",
+      "comments": "https://news.ycombinator.com/item?id=47319255"
+    },
+    {
+      "title": "Has anyone been through an AI skills round?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rpnt4f/has_anyone_been_through_an_ai_skills_round/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-10T04:54:51Z",
+      "id": "804a8c7a8ad435bf5a44ecf97e1d2a7c"
+    },
+    {
+      "title": "SGA during his 126 game streak: 32.5/4.7/6.5 and 1.5 steals on 65% TS",
+      "link": "https://www.reddit.com/r/nba/comments/1rpm94c/sga_during_his_126_game_streak_3254765_and_15/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-10T03:36:12Z",
+      "id": "822ba9bc13a87183df4f49827af1da50"
+    },
     {
       "title": "Whatever happened to just asking questions at work?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rpm839/whatever_happened_to_just_asking_questions_at_work/",
@@ -203,14 +278,6 @@
       "id": "97543711939d9e0d8bfe28de1a5968a3"
     },
     {
-      "title": "[Highlight] Shai Gilgeous-Alexander spins and banks in the mid-range jumper over Jamal Murray",
-      "link": "https://www.reddit.com/r/nba/comments/1rpi5dm/highlight_shai_gilgeousalexander_spins_and_banks/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-10T00:35:52Z",
-      "id": "d2717b5687dc2779d96143f18618d670"
-    },
-    {
       "title": "The \u201cJVG algorithm\u201d only wins on tiny numbers",
       "link": "https://scottaaronson.blog/?p=9615",
       "source": "Hacker News",
@@ -220,12 +287,12 @@
       "comments": "https://news.ycombinator.com/item?id=47317739"
     },
     {
-      "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+      "title": "Two Years of Emacs Solo",
       "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-10T00:16:44Z",
-      "id": "038b22cca222ed12410d0589f3e10f8a",
+      "id": "5420ff497b19739d9f1100c53e2316a0",
       "comments": "https://news.ycombinator.com/item?id=47317616"
     },
     {
@@ -251,6 +318,15 @@
       "category": "sports",
       "published": "2026-03-09T23:33:07Z",
       "id": "c1d8978de0fa09ecd8c4cfe316e25df8"
+    },
+    {
+      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "link": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-09T23:22:06Z",
+      "id": "d272867b4f8ab2fbf3f1509f2f521b4f",
+      "comments": "https://news.ycombinator.com/item?id=47317132"
     },
     {
       "title": "[Schultz] The #Steelers are signing former #Panthers standout RB Rico Dowdle, per multiple sources. Dowdle has had back-to-back 1,000-yard rushing seasons and now finds a new home.",
@@ -373,14 +449,6 @@
       "id": "841d34aea7015ac8bf9bffa45ede0b2c"
     },
     {
-      "title": "Building a Package Manager on Top of Meson's Wrap System\u00b6",
-      "link": "https://www.reddit.com/r/programming/comments/1rpdq72/building_a_package_manager_on_top_of_mesons_wrap/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-09T21:41:41Z",
-      "id": "9e22df4c5b100d8f6e5c16255bad98ec"
-    },
-    {
       "title": "Ensuring correctness through the type system",
       "link": "https://www.reddit.com/r/programming/comments/1rpd9lo/ensuring_correctness_through_the_type_system/",
       "source": "r/programming",
@@ -427,14 +495,6 @@
       "category": "sports",
       "published": "2026-03-09T21:16:37Z",
       "id": "fc61bc20afd7c084ebd17118d466738b"
-    },
-    {
-      "title": "WebPKI and You",
-      "link": "https://www.reddit.com/r/programming/comments/1rpd1hi/webpki_and_you/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-09T21:16:10Z",
-      "id": "4bcd0c340c0cdab1bcb9adeea4267490"
     },
     {
       "title": "Production query plans without production data",
@@ -594,15 +654,6 @@
       "comments": "https://news.ycombinator.com/item?id=47313884"
     },
     {
-      "title": "Durdraw \u2013 ANSI art editor for Unix-like systems",
-      "link": "https://durdraw.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T18:59:32Z",
-      "id": "7be1021b3245326c92cfd15f07c9876a",
-      "comments": "https://news.ycombinator.com/item?id=47313721"
-    },
-    {
       "title": "Welcome to Chicago Devin Bush \ud83d\ude2d",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rp8z7o/welcome_to_chicago_devin_bush/",
       "source": "r/CHIBears",
@@ -707,15 +758,6 @@
       "id": "eac3ae566bcf9a25b96fd87122d3ab21"
     },
     {
-      "title": "Show HN: The Mog Programming Language",
-      "link": "https://moglang.org",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T17:57:00Z",
-      "id": "4a2d0b464aafa1d06ac2c1b6111a06c6",
-      "comments": "https://news.ycombinator.com/item?id=47312728"
-    },
-    {
       "title": "Alright im sold welcome Neville",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rp7dx9/alright_im_sold_welcome_neville/",
       "source": "r/CHIBears",
@@ -730,15 +772,6 @@
       "category": "sports",
       "published": "2026-03-09T17:45:13Z",
       "id": "8fa35b40a8a10a3580eddd2212c81f85"
-    },
-    {
-      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
-      "link": "https://fixfest.therestartproject.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T17:34:27Z",
-      "id": "02769759cc8bf3b51a353e0c435eea94",
-      "comments": "https://news.ycombinator.com/item?id=47312329"
     },
     {
       "title": "[Schultz] Bryant terms: 3 yr, $40M.",
@@ -791,15 +824,6 @@
       "published": "2026-03-09T16:53:52Z",
       "id": "a7f65c860b2d2e72bbcc11466000520a",
       "comments": "https://news.ycombinator.com/item?id=47311657"
-    },
-    {
-      "title": "I don't know Apple's endgame for the Fn/Globe key\u2013or if Apple does",
-      "link": "https://aresluna.org/fn/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T16:53:14Z",
-      "id": "e3c38bc0d500403ff282c557c70af2af",
-      "comments": "https://news.ycombinator.com/item?id=47311647"
     },
     {
       "title": "[Rapoport] The #Dolphins are signing #Packers QB Malik Willis, as a new QB has landed in Miami. He gets a 3-year, $67.5M deal with $45M fully guaranteed in a contract",
@@ -900,15 +924,6 @@
       "id": "79748df089586d3d692ac9cd2f9a1548"
     },
     {
-      "title": "Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)",
-      "link": "https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T15:23:08Z",
-      "id": "2848683ad76f38d3997cb4d920d56330",
-      "comments": "https://news.ycombinator.com/item?id=47310296"
-    },
-    {
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
       "link": "https://www.reddit.com/r/programming/comments/1rp2vno/is_legal_the_same_as_legitimate_ai/",
       "source": "r/programming",
@@ -989,15 +1004,6 @@
       "category": "sports",
       "published": "2026-03-09T13:01:35Z",
       "id": "1ddc0aebe6e817e7516260537f36f20c"
-    },
-    {
-      "title": "Reverse-engineering the UniFi inform protocol",
-      "link": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T12:38:46Z",
-      "id": "77153907a1af6c61151ac8972feeed26",
-      "comments": "https://news.ycombinator.com/item?id=47308278"
     },
     {
       "title": "[Schefter] Sources: The Dolphins are releasing QB Tua Tagovailoa with a post\u2013June 1 designation. By cutting Tagovailoa, Miami will take on an NFL-record $99 million in dead money, split over two years, but new GM Jon-Eric Sullivan and HC Jeff Hafley now get a fresh start at the quarterback position",
@@ -1122,6 +1128,15 @@
       "id": "c5ff779d432bc442ff450704d48a0ac9"
     },
     {
+      "title": "Optimizing Top K in Postgres",
+      "link": "https://www.paradedb.com/blog/optimizing-top-k",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-08T22:54:17Z",
+      "id": "313754c015323c2451ac4378c7fb5d7f",
+      "comments": "https://news.ycombinator.com/item?id=47302493"
+    },
+    {
       "title": "Do lower-tier companies really offer better work-life balance?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1roiqur/do_lowertier_companies_really_offer_better/",
       "source": "r/ExperiencedDevs",
@@ -1203,23 +1218,6 @@
       "id": "db85da84433a92ac68cfd8c8d317fd84"
     },
     {
-      "title": "How does your team handle orphaned migrations on a shared dev or test environment?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ro16jq/how_does_your_team_handle_orphaned_migrations_on/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-08T10:08:21Z",
-      "id": "42f14192539cbc1e1da116f01c5d3877"
-    },
-    {
-      "title": "Rethinking Syntax: Binding by Adjacency",
-      "link": "https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-08T05:03:03Z",
-      "id": "754e2002b0249792929074b573b894b4",
-      "comments": "https://news.ycombinator.com/item?id=47294572"
-    },
-    {
       "title": "Prepair for the worst case scenario.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rnuahg/prepair_for_the_worst_case_scenario/",
       "source": "r/chicagobulls",
@@ -1268,14 +1266,6 @@
       "id": "f972860f8699c0d530c159a41f87c324"
     },
     {
-      "title": "AI Fragmentation",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rngpbv/ai_fragmentation/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-07T18:03:26Z",
-      "id": "55a629a866435f83b91a15d2e51a5422"
-    },
-    {
       "title": "Graphing how the 10k* most common English words define each other",
       "link": "https://wyattsell.com/experiments/word-graph/",
       "source": "Hacker News",
@@ -1285,12 +1275,13 @@
       "comments": "https://news.ycombinator.com/item?id=47289007"
     },
     {
-      "title": "AI timeline expectations are driving me crazy",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rncxrn/ai_timeline_expectations_are_driving_me_crazy/",
-      "source": "r/ExperiencedDevs",
+      "title": "RVA23 Ends Speculation's Monopoly in RISC-V CPUs",
+      "link": "https://semiwiki.com/ip/risc-v/367094-rva23-ends-speculations-monopoly-in-risc-v-cpus/",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-07T15:36:27Z",
-      "id": "34cbf7e5e9328936a24baf172df88e72"
+      "published": "2026-03-07T07:30:45Z",
+      "id": "5c40f9711b9aa39ccae572e705e1bca6",
+      "comments": "https://news.ycombinator.com/item?id=47285367"
     },
     {
       "title": "What is this?",
@@ -1318,6 +1309,24 @@
       "comments": "https://news.ycombinator.com/item?id=47280654"
     },
     {
+      "title": "Lotus 1-2-3 on the PC with DOS",
+      "link": "https://stonetools.ghost.io/lotus123-dos/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-06T19:11:24Z",
+      "id": "d73a0ea604eb012843648d688ff4916f",
+      "comments": "https://news.ycombinator.com/item?id=47279633"
+    },
+    {
+      "title": "A useless infinite scroll experiment",
+      "link": "https://futile.ch/en/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-06T17:03:39Z",
+      "id": "fb65fd7f0d64de83b6a6c6deec58a1cb",
+      "comments": "https://news.ycombinator.com/item?id=47277735"
+    },
+    {
       "title": "Darkrealms BBS",
       "link": "http://www.darkrealms.ca/",
       "source": "Hacker News",
@@ -1325,15 +1334,6 @@
       "published": "2026-03-06T15:40:45Z",
       "id": "73d64a855d243336b63754291b062cbe",
       "comments": "https://news.ycombinator.com/item?id=47276343"
-    },
-    {
-      "title": "Show HN: Hopalong Attractor. An old classic with a new perspective in 3D",
-      "link": "https://github.com/ratwolfzero/hopalong_python",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-06T14:38:25Z",
-      "id": "170658a86faaa35ef225264a2c3d7523",
-      "comments": "https://news.ycombinator.com/item?id=47275425"
     },
     {
       "title": "Nick Richards vs Suns Mar 5, 2026 Full Play - 9 Points, 11 Rebounds, 1 Assist, 1 Steal, 2 Blocks",
