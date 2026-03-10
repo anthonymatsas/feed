@@ -1,6 +1,123 @@
 {
-  "last_updated": "2026-03-10T09:39:19.030731Z",
+  "last_updated": "2026-03-10T12:52:38.625140Z",
   "items": [
+    {
+      "title": "Monster Scale Summit (free, virtual)",
+      "link": "https://www.reddit.com/r/programming/comments/1rpvubu/monster_scale_summit_free_virtual/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-10T12:41:08Z",
+      "id": "19c9c47f972ef4bace37a16364a71beb"
+    },
+    {
+      "title": "One pipeline, four interfaces: a design pattern I used in my image converter",
+      "link": "https://www.reddit.com/r/programming/comments/1rpvowg/one_pipeline_four_interfaces_a_design_pattern_i/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-10T12:34:04Z",
+      "id": "e1622e63ff0e1c0a8b304e08cdd79f84"
+    },
+    {
+      "title": "Containers Are Not a Security Boundary",
+      "link": "https://www.reddit.com/r/programming/comments/1rpv2dt/containers_are_not_a_security_boundary/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-10T12:03:15Z",
+      "id": "f2d7f80bf9a98ccb5cdb6e0d277c6e4d"
+    },
+    {
+      "title": "[Schefter] The NFL disapproved the Danielle Hunter and Dalton Schultz contracts that Houston submitted Monday, per league sources. Houston does not think it is an issue, it\u2019s semantics, and expects to fix those contracts as soon as possible.",
+      "link": "https://www.reddit.com/r/nfl/comments/1rpuycp/schefter_the_nfl_disapproved_the_danielle_hunter/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-10T11:58:05Z",
+      "id": "26ae9fbba7ca4b8943ea0463aa09adf6"
+    },
+    {
+      "title": "Exploring Mutable Consteval State in C++26",
+      "link": "https://www.reddit.com/r/programming/comments/1rputf4/exploring_mutable_consteval_state_in_c26/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-10T11:51:21Z",
+      "id": "8363e5a12c4382940e8ad346beafe44a"
+    },
+    {
+      "title": "Ask HN: Remember Fidonet?",
+      "link": "https://news.ycombinator.com/item?id=47321760",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T11:24:00Z",
+      "id": "edfa016d62cb2f1101596ff52b2be07e",
+      "comments": "https://news.ycombinator.com/item?id=47321760"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 09, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1rptufe/serious_next_day_thread_postgame_discussion_march/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-10T11:00:01Z",
+      "id": "c25179fabe3827fd64a56352ed702762"
+    },
+    {
+      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+      "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T10:50:30Z",
+      "id": "0f525d75e63c3801f171cc6ac8ee6c74",
+      "comments": "https://news.ycombinator.com/item?id=47321533"
+    },
+    {
+      "title": "FreeBSD 14.4-Release Announcement",
+      "link": "https://www.freebsd.org/releases/14.4R/announce/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T10:45:09Z",
+      "id": "8db38c035167eb032f5624165822f798",
+      "comments": "https://news.ycombinator.com/item?id=47321499"
+    },
+    {
+      "title": "Query Hacker News with SQL: a New Plugin for Tabularis",
+      "link": "https://www.reddit.com/r/programming/comments/1rptbfk/query_hacker_news_with_sql_a_new_plugin_for/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-10T10:30:31Z",
+      "id": "9720d5ef60689487051295fec93dd690"
+    },
+    {
+      "title": "p-fast trie: lexically ordered hash map",
+      "link": "https://www.reddit.com/r/programming/comments/1rpt5a7/pfast_trie_lexically_ordered_hash_map/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-10T10:20:38Z",
+      "id": "7e1239d3ddea2e3a0a42af33f7191a9d"
+    },
+    {
+      "title": "I put my whole life into a single database",
+      "link": "https://howisfelix.today/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T10:07:48Z",
+      "id": "17b579df78359f6734e3b8a83bafd5b0",
+      "comments": "https://news.ycombinator.com/item?id=47321233"
+    },
+    {
+      "title": "Weekly Self-Promo and Tickets/Merch Sale Thread",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1rpstnn/weekly_selfpromo_and_ticketsmerch_sale_thread/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-03-10T10:01:42Z",
+      "id": "cfc8da435bef1c3126aa50a2ccace8ab"
+    },
+    {
+      "title": "EVi, a Hard-Fork of Vim",
+      "link": "https://codeberg.org/NerdNextDoor/evi",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T09:51:24Z",
+      "id": "74a1470581e73c606eb87b35c90f1e51",
+      "comments": "https://news.ycombinator.com/item?id=47321085"
+    },
     {
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
       "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
@@ -9,14 +126,6 @@
       "published": "2026-03-10T08:54:53Z",
       "id": "3a088deb0facbc1b50fa8b3bc3222062",
       "comments": "https://news.ycombinator.com/item?id=47320661"
-    },
-    {
-      "title": "Artificial Intelligence as Infrastructure: Industrialization, Capital Expansion, and the Probability",
-      "link": "https://www.reddit.com/r/programming/comments/1rprbhi/artificial_intelligence_as_infrastructure/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-10T08:26:24Z",
-      "id": "a3b8d00e1b4b62b909d224f1a3e31d9e"
     },
     {
       "title": "Should/worth sharing life experience in IT on YouTube?",
@@ -60,6 +169,14 @@
       "comments": "https://news.ycombinator.com/item?id=47319620"
     },
     {
+      "title": "[Anthony Slater] Dort apologizes to Jokic after another flagrant in Thunder win",
+      "link": "https://www.reddit.com/r/nba/comments/1rpojxw/anthony_slater_dort_apologizes_to_jokic_after/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-10T05:36:37Z",
+      "id": "2a9c6846960233145a5ec25f4f7c04d3"
+    },
+    {
       "title": "Senior engineers: what \u201cnon-coding\u201d skill made the biggest difference in your career?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rpo0gt/senior_engineers_what_noncoding_skill_made_the/",
       "source": "r/ExperiencedDevs",
@@ -99,6 +216,22 @@
       "category": "sports",
       "published": "2026-03-10T04:40:36Z",
       "id": "012130cf01950502cac3509d9cae83b4"
+    },
+    {
+      "title": "Artist made a 3D sculpt of Burden-Nixon",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1rpn4w0/artist_made_a_3d_sculpt_of_burdennixon/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-03-10T04:18:47Z",
+      "id": "6d5a6ddcb70ba2dd140089c8caf82d92"
+    },
+    {
+      "title": "[Rapoport] The #Patriots are signing former #Jets G Alijah Vera-Tucker",
+      "link": "https://www.reddit.com/r/nfl/comments/1rpmdmx/rapoport_the_patriots_are_signing_former_jets_g/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-10T03:42:10Z",
+      "id": "6b59c7f9b7d730c7a2c74cff5566d46c"
     },
     {
       "title": "SGA during his 126 game streak: 32.5/4.7/6.5 and 1.5 steals on 65% TS",
@@ -246,20 +379,20 @@
       "id": "a8a3f9a7d8a0425013db8bb1f2a59c8f"
     },
     {
-      "title": "[Highlight] SGA drills the 3 for a 4 point Thunder lead",
-      "link": "https://www.reddit.com/r/nba/comments/1rpk9ds/highlight_sga_drills_the_3_for_a_4_point_thunder/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-10T02:06:28Z",
-      "id": "8414c24059cafe1bd8d719ad41bd78be"
-    },
-    {
       "title": "[Highlight] Jokic takes an elbow to the nose from Lu Dort",
       "link": "https://www.reddit.com/r/nba/comments/1rpk6b8/highlight_jokic_takes_an_elbow_to_the_nose_from/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-03-10T02:02:49Z",
       "id": "b08d4a978fd362b616624a107057e5ec"
+    },
+    {
+      "title": "[Siciliano] Michael Penix, Tua Tagovailoa, Drake London, Bijan Robinson. ALL left-handed.",
+      "link": "https://www.reddit.com/r/nfl/comments/1rpk49t/siciliano_michael_penix_tua_tagovailoa_drake/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-10T02:00:27Z",
+      "id": "a74dcde702e218c7a0775c91e2be6be4"
     },
     {
       "title": "[Garafolo] Sources to me and Ian Rapoport: The Carolina Panthers have agreed to terms with LB Devin Lloyd on a three-year, $45 million deal with $25 million guaranteed.",
@@ -342,15 +475,6 @@
       "category": "sports",
       "published": "2026-03-09T23:58:00Z",
       "id": "765332f5fe34c756a2dd63580956de0b"
-    },
-    {
-      "title": "Getting Started in Common Lisp",
-      "link": "https://lisp-stat.dev/blog/2026/03/09/getting-started/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T23:43:29Z",
-      "id": "513719b9b2e8dae3d8cd83d76229ff42",
-      "comments": "https://news.ycombinator.com/item?id=47317348"
     },
     {
       "title": "Like this guy already",
@@ -474,30 +598,6 @@
       "id": "7b1b2e42796d787450a34ca5fc6c8a9f"
     },
     {
-      "title": "Fixing Programmatic Tool Calling With Types",
-      "link": "https://www.reddit.com/r/programming/comments/1rpe6oa/fixing_programmatic_tool_calling_with_types/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-09T21:58:45Z",
-      "id": "25ef066d1ec1e1c9c081664e4dc68a31"
-    },
-    {
-      "title": "[Acosta] The Falcons have more lefties than the Braves starting rotation",
-      "link": "https://www.reddit.com/r/nfl/comments/1rpdxgi/acosta_the_falcons_have_more_lefties_than_the/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-09T21:49:12Z",
-      "id": "841d34aea7015ac8bf9bffa45ede0b2c"
-    },
-    {
-      "title": "Building a Package Manager on Top of Meson's Wrap System\u00b6",
-      "link": "https://www.reddit.com/r/programming/comments/1rpdq72/building_a_package_manager_on_top_of_mesons_wrap/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-09T21:41:41Z",
-      "id": "9e22df4c5b100d8f6e5c16255bad98ec"
-    },
-    {
       "title": "Ensuring correctness through the type system",
       "link": "https://www.reddit.com/r/programming/comments/1rpd9lo/ensuring_correctness_through_the_type_system/",
       "source": "r/programming",
@@ -544,14 +644,6 @@
       "category": "sports",
       "published": "2026-03-09T21:16:37Z",
       "id": "fc61bc20afd7c084ebd17118d466738b"
-    },
-    {
-      "title": "WebPKI and You",
-      "link": "https://www.reddit.com/r/programming/comments/1rpd1hi/webpki_and_you/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-09T21:16:10Z",
-      "id": "4bcd0c340c0cdab1bcb9adeea4267490"
     },
     {
       "title": "Production query plans without production data",
@@ -618,15 +710,6 @@
       "id": "bfe8763e90fc137baa7f3b47a547b08c"
     },
     {
-      "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-      "link": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T20:36:43Z",
-      "id": "95db1f3bff4e58dfd58a6d8acac9a6d0",
-      "comments": "https://news.ycombinator.com/item?id=47315128"
-    },
-    {
       "title": "[Schefter] Former Chargers DE Odafe Oweh reached agreement today on a four-year, $100 million deal including $68 million guaranteed with the Washington Commanders.",
       "link": "https://www.reddit.com/r/nfl/comments/1rpbbes/schefter_former_chargers_de_odafe_oweh_reached/",
       "source": "r/nfl",
@@ -665,15 +748,6 @@
       "category": "sports",
       "published": "2026-03-09T19:18:02Z",
       "id": "26039924d3965df51db454720278f622"
-    },
-    {
-      "title": "Notes on Baking at the South Pole",
-      "link": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T19:12:14Z",
-      "id": "12997c3e9a31a830f80510e7de93a7f6",
-      "comments": "https://news.ycombinator.com/item?id=47313934"
     },
     {
       "title": "Welcome to Chicago Devin Bush \ud83d\ude2d",
@@ -796,29 +870,12 @@
       "id": "8fa35b40a8a10a3580eddd2212c81f85"
     },
     {
-      "title": "[Schultz] Bryant terms: 3 yr, $40M.",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1rp6kj8/schultz_bryant_terms_3_yr_40m/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-03-09T17:26:48Z",
-      "id": "ac30f132a9930b08329ff8ee4d0c9b90"
-    },
-    {
       "title": "[Pelissero] The Bears are signing safety Coby Bryant, per sources.",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rp6gfx/pelissero_the_bears_are_signing_safety_coby/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-03-09T17:22:47Z",
       "id": "bdd3e3d93a7a2f0774fc8c592d11ea4f"
-    },
-    {
-      "title": "Florida judge rules red light camera tickets are unconstitutional",
-      "link": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T17:20:29Z",
-      "id": "c933e1b3e945f8a9afcc0e11ca0d8053",
-      "comments": "https://news.ycombinator.com/item?id=47312090"
     },
     {
       "title": "Building a Procedural Hex Map with Wave Function Collapse",
@@ -873,14 +930,6 @@
       "id": "bb92f251e375fdf144ae573b3bd11473"
     },
     {
-      "title": "[Schultz] Chiefs deal with Kenneth Walker is 3-years for $43.05M and it could be worth up to $45M, per sources. He gets $28.7M guaranteed.",
-      "link": "https://www.reddit.com/r/nfl/comments/1rp525f/schultz_chiefs_deal_with_kenneth_walker_is_3years/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-09T16:33:50Z",
-      "id": "6d8a1d43e81929b9ac3fddac45e5c281"
-    },
-    {
       "title": "[NBC Sports] Nikola Jokic says he can\u2019t ever see himself leaving Denver, \u2018I really found peace here\u2019",
       "link": "https://www.reddit.com/r/nba/comments/1rp4zaf/nbc_sports_nikola_jokic_says_he_cant_ever_see/",
       "source": "r/nba",
@@ -904,14 +953,6 @@
       "category": "sports",
       "published": "2026-03-09T16:23:17Z",
       "id": "32768870eabbe8004420412dccb6fae1"
-    },
-    {
-      "title": "[Schultz] The Colts and standout WR Alec Pierce have agreed to a deal, per multiple sources. Pierce had an excellent season with 47 catches (career high), 1,003 yards (career high) and 6 TDs. Indy secures a key weapon long-term.",
-      "link": "https://www.reddit.com/r/nfl/comments/1rp47z3/schultz_the_colts_and_standout_wr_alec_pierce/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-09T16:03:38Z",
-      "id": "53121fc19bf34d4d5b85e74701bc4b0b"
     },
     {
       "title": "2001-2008 Bulls Lemons",
@@ -988,14 +1029,6 @@
       "id": "6c3d31ca71d11b3c6df3b9ed9c17bd44"
     },
     {
-      "title": "2026 Free Agency Megathread",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1rp0j2c/2026_free_agency_megathread/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-03-09T13:42:04Z",
-      "id": "e4d1420731c9fb566868320755dbc4c1"
-    },
-    {
       "title": "[X&O's CHAT] Nikola Joki\u0107: \"But it would be stupid if basketball weren\u2019t better now than 30 years ago. It\u2019s like saying phones were better 30 years ago, and they weren\u2019t, because of technology, modernization. As everything modernizes, basketball modernizes too.\"",
       "link": "https://www.reddit.com/r/nba/comments/1rp092v/xos_chat_nikola_joki\u0107_but_it_would_be_stupid_if/",
       "source": "r/nba",
@@ -1020,15 +1053,6 @@
       "id": "7ef493a7df232a448e111fd227ece816"
     },
     {
-      "title": "No leap second will be introduced at the end of June 2026",
-      "link": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T12:15:07Z",
-      "id": "6a83054c6bf041372a13458ed8c9cd12",
-      "comments": "https://news.ycombinator.com/item?id=47308059"
-    },
-    {
       "title": "[Schefter] D\u2019Marco Jackson has agreed to terms to go back to Bears on a two-yr $7.5 million deal worth up to $10.9M",
       "link": "https://www.reddit.com/r/CHIBears/comments/1roxwub/schefter_dmarco_jackson_has_agreed_to_terms_to_go/",
       "source": "r/CHIBears",
@@ -1043,31 +1067,6 @@
       "category": "tech",
       "published": "2026-03-09T11:04:32Z",
       "id": "452453d0287b7b73cc437469eb067082"
-    },
-    {
-      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 08, 2026)",
-      "link": "https://www.reddit.com/r/nba/comments/1rox4ef/serious_next_day_thread_postgame_discussion_march/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-09T11:00:02Z",
-      "id": "31921a9e14c0bc3c9801846638cacd07"
-    },
-    {
-      "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-      "link": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-09T10:14:59Z",
-      "id": "24984172ffd7c20f96c73d3c4329c928",
-      "comments": "https://news.ycombinator.com/item?id=47307055"
-    },
-    {
-      "title": "Why I Hope I Get to Write a Lot of F# in 2026 \u00b7 cekrem.github.io",
-      "link": "https://www.reddit.com/r/programming/comments/1rov57a/why_i_hope_i_get_to_write_a_lot_of_f_in_2026/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-09T09:01:58Z",
-      "id": "0e6bfd6ba9f6fe91fcaadaa2c917902b"
     },
     {
       "title": "Balancing Refactoring and Delivery in Large Legacy Systems",
@@ -1183,15 +1182,6 @@
       "id": "265ca2647f6c7977c9bff9d7d5106e8e"
     },
     {
-      "title": "Flash media longevity testing \u2013 6 years later",
-      "link": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-08T16:22:24Z",
-      "id": "38133b258a2d91d1b12bc2d540759269",
-      "comments": "https://news.ycombinator.com/item?id=47298553"
-    },
-    {
       "title": "Career Crisis and Need Advice",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ro8psc/career_crisis_and_need_advice/",
       "source": "r/ExperiencedDevs",
@@ -1214,14 +1204,6 @@
       "category": "sports",
       "published": "2026-03-08T14:28:50Z",
       "id": "c74414edbda905bbea5d34109bb04a61"
-    },
-    {
-      "title": "LLM-driven large code rewrites with relicensing are the latest AI concern",
-      "link": "https://www.reddit.com/r/programming/comments/1ro2w8v/llmdriven_large_code_rewrites_with_relicensing/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-08T11:47:22Z",
-      "id": "db85da84433a92ac68cfd8c8d317fd84"
     },
     {
       "title": "Prepair for the worst case scenario.",
@@ -1257,13 +1239,31 @@
       "comments": "https://news.ycombinator.com/item?id=47289007"
     },
     {
-      "title": "Worming out molecular secrets behind collective behaviour",
-      "link": "https://iisc.ac.in/events/worming-out-molecular-secrets-behind-collective-behaviour/",
+      "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
+      "link": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-07T05:12:53Z",
-      "id": "9cc2c63c1e56e7c34e78ba2e4e9bd7d5",
-      "comments": "https://news.ycombinator.com/item?id=47284699"
+      "published": "2026-03-07T11:28:37Z",
+      "id": "d5a05c3a2ff48bc8b7907b7e32ac594c",
+      "comments": "https://news.ycombinator.com/item?id=47286657"
+    },
+    {
+      "title": "TCXO Failure Analysis",
+      "link": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-07T04:49:38Z",
+      "id": "4c924c6b298fbeb6b6219d16670630bf",
+      "comments": "https://news.ycombinator.com/item?id=47284587"
+    },
+    {
+      "title": "Practical Guide to Bare Metal C++",
+      "link": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-07T04:22:20Z",
+      "id": "5b08cfd129d1536ef946b2ad94a484b8",
+      "comments": "https://news.ycombinator.com/item?id=47284461"
     },
     {
       "title": "What is this?",
@@ -1318,13 +1318,13 @@
       "comments": "https://news.ycombinator.com/item?id=47277865"
     },
     {
-      "title": "A useless infinite scroll experiment",
-      "link": "https://futile.ch/en/",
+      "title": "Caxlsx: Ruby gem for xlsx generation with charts, images, schema validation",
+      "link": "https://github.com/caxlsx/caxlsx",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-06T17:03:39Z",
-      "id": "fb65fd7f0d64de83b6a6c6deec58a1cb",
-      "comments": "https://news.ycombinator.com/item?id=47277735"
+      "published": "2026-03-06T15:59:29Z",
+      "id": "bc4b401dae94aa01acd05748f3284338",
+      "comments": "https://news.ycombinator.com/item?id=47276644"
     },
     {
       "title": "Darkrealms BBS",
