@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-11T01:43:55.234514Z",
+  "last_updated": "2026-03-11T04:40:59.439996Z",
   "items": [
+    {
+      "title": "Writing my own text editor, and daily-driving it",
+      "link": "https://blog.jsbarretto.com/post/text-editor",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T02:04:22Z",
+      "id": "4582bdeed41b39ea3cb02dfd76c71970",
+      "comments": "https://news.ycombinator.com/item?id=47331034"
+    },
+    {
+      "title": "Zig \u2013 Type Resolution Redesign and Language Changes",
+      "link": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T01:24:47Z",
+      "id": "bc2bd4c884f84b9c3223da614f739944",
+      "comments": "https://news.ycombinator.com/item?id=47330836"
+    },
     {
       "title": "Universal vaccine against respiratory infections and allergens",
       "link": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
@@ -47,13 +65,13 @@
       "comments": "https://news.ycombinator.com/item?id=47328034"
     },
     {
-      "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
-      "link": "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive",
+      "title": "Mother of All Grease Fires (1994)",
+      "link": "https://milk.com/wall-o-shame/bucket.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-10T19:17:26Z",
-      "id": "27f3046d64c3841932cfefdb0c01d42e",
-      "comments": "https://news.ycombinator.com/item?id=47327641"
+      "published": "2026-03-10T19:56:32Z",
+      "id": "accc8a98812494ef2b94a0828286294e",
+      "comments": "https://news.ycombinator.com/item?id=47328029"
     },
     {
       "title": "Agents that run while I sleep",
@@ -74,15 +92,6 @@
       "comments": "https://news.ycombinator.com/item?id=47327473"
     },
     {
-      "title": "Networking with agents: Put them in the right conversations with Tailscale",
-      "link": "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T18:38:44Z",
-      "id": "9997055e7911e815be272c07eb51644b",
-      "comments": "https://news.ycombinator.com/item?id=47327163"
-    },
-    {
       "title": "FFmpeg-over-IP \u2013 Connect to remote FFmpeg servers",
       "link": "https://github.com/steelbrain/ffmpeg-over-ip",
       "source": "Hacker News",
@@ -90,15 +99,6 @@
       "published": "2026-03-10T18:26:39Z",
       "id": "959be71b15cfc3f3f59840b055d00c52",
       "comments": "https://news.ycombinator.com/item?id=47327015"
-    },
-    {
-      "title": "Billion-Parameter Theories",
-      "link": "https://www.worldgov.org/complexity.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T17:49:53Z",
-      "id": "8e13527664e21b1bd325016c1edc2e7d",
-      "comments": "https://news.ycombinator.com/item?id=47326555"
     },
     {
       "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
@@ -126,6 +126,15 @@
       "published": "2026-03-10T14:53:13Z",
       "id": "b0501a6677a09240c4bfa45203cfdf5d",
       "comments": "https://news.ycombinator.com/item?id=47324087"
+    },
+    {
+      "title": "We are building data breach machines and nobody cares",
+      "link": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T14:50:43Z",
+      "id": "89b023a8457ad5ae3efcf06ef376f6c4",
+      "comments": "https://news.ycombinator.com/item?id=47324058"
     },
     {
       "title": "Tony Hoare has died",
@@ -182,33 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47322815"
     },
     {
-      "title": "Online age-verification tools for child safety are surveilling adults",
-      "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T12:55:42Z",
-      "id": "70bb750861931c543c0ec5e9fd1a2772",
-      "comments": "https://news.ycombinator.com/item?id=47322635"
-    },
-    {
-      "title": "I put my whole life into a single database",
-      "link": "https://howisfelix.today/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T10:07:48Z",
-      "id": "17b579df78359f6734e3b8a83bafd5b0",
-      "comments": "https://news.ycombinator.com/item?id=47321233"
-    },
-    {
-      "title": "Show HN: What's my JND? \u2013 a colour guessing game",
-      "link": "https://www.keithcirkel.co.uk/whats-my-jnd/?r=ARUjKP__-ve-",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T10:01:58Z",
-      "id": "aa64ed4a92462d5aa1c1d5b619aca332",
-      "comments": "https://news.ycombinator.com/item?id=47321188"
-    },
-    {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "source": "Hacker News",
@@ -216,6 +198,15 @@
       "published": "2026-03-10T08:46:53Z",
       "id": "795fba4522579f524e24a4d0826d2dcb",
       "comments": "https://news.ycombinator.com/item?id=47320600"
+    },
+    {
+      "title": "EQT eyes potential $6B sale of Linux pioneer SUSE, sources say",
+      "link": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-10T03:34:52Z",
+      "id": "74f27a940dd536c85535afc5b171e28c",
+      "comments": "https://news.ycombinator.com/item?id=47318830"
     },
     {
       "title": "SSH Secret Menu",
@@ -243,6 +234,15 @@
       "published": "2026-03-08T10:01:23Z",
       "id": "2686461ec12f14e30171abb3f4fc1225",
       "comments": "https://news.ycombinator.com/item?id=47295996"
+    },
+    {
+      "title": "Julia Snail \u2013 An Emacs Development Environment for Julia Like Clojure's Cider",
+      "link": "https://github.com/gcv/julia-snail",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-08T09:27:34Z",
+      "id": "9016d68468273ade954bee987b67b12d",
+      "comments": "https://news.ycombinator.com/item?id=47295855"
     },
     {
       "title": "Invoker Commands API",
