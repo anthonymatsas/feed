@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-11T04:40:59.439996Z",
+  "last_updated": "2026-03-11T06:46:25.759849Z",
   "items": [
+    {
+      "title": "Create value for others and don\u2019t worry about the returns",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T05:45:49Z",
+      "id": "ca5901ffc892e41ed83b85cbeecd190b",
+      "comments": "https://news.ycombinator.com/item?id=47332074"
+    },
+    {
+      "title": "Standardizing source maps",
+      "link": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T04:42:23Z",
+      "id": "d0a9d4f41d09a93a6c2f7e91499016da",
+      "comments": "https://news.ycombinator.com/item?id=47331802"
+    },
     {
       "title": "Writing my own text editor, and daily-driving it",
       "link": "https://blog.jsbarretto.com/post/text-editor",
@@ -54,15 +72,6 @@
       "published": "2026-03-10T20:11:54Z",
       "id": "efa754f4584f9b1f64491b3488e0c2e2",
       "comments": "https://news.ycombinator.com/item?id=47328214"
-    },
-    {
-      "title": "Tell HN: Apple development certificate server seems down?",
-      "link": "https://news.ycombinator.com/item?id=47328034",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T19:56:52Z",
-      "id": "5b46205946b9aa61171d72ce356bcf13",
-      "comments": "https://news.ycombinator.com/item?id=47328034"
     },
     {
       "title": "Mother of All Grease Fires (1994)",
@@ -155,15 +164,6 @@
       "comments": "https://news.ycombinator.com/item?id=47323900"
     },
     {
-      "title": "Rebasing in Magit",
-      "link": "https://entropicthoughts.com/rebasing-in-magit",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T13:38:39Z",
-      "id": "57ac326e06a6611d627451f1dd1c60b0",
-      "comments": "https://news.ycombinator.com/item?id=47323105"
-    },
-    {
       "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
       "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
       "source": "Hacker News",
@@ -173,22 +173,13 @@
       "comments": "https://news.ycombinator.com/item?id=47323017"
     },
     {
-      "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
-      "link": "https://dnhkng.github.io/posts/rys/",
+      "title": "Levels of Agentic Engineering",
+      "link": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-10T13:18:55Z",
-      "id": "33b4ac1105f21c02a1780a79f7246663",
-      "comments": "https://news.ycombinator.com/item?id=47322887"
-    },
-    {
-      "title": "Intel Demos Chip to Compute with Encrypted Data",
-      "link": "https://spectrum.ieee.org/fhe-intel",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T13:10:48Z",
-      "id": "375e9f6854f318b50647ff7066774f09",
-      "comments": "https://news.ycombinator.com/item?id=47322815"
+      "published": "2026-03-10T08:48:40Z",
+      "id": "4d979b877d3f5cbe4eab547317bb73e7",
+      "comments": "https://news.ycombinator.com/item?id=47320614"
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
@@ -225,6 +216,15 @@
       "published": "2026-03-09T23:37:08Z",
       "id": "382c23db554603714d9b15b95bd83da6",
       "comments": "https://news.ycombinator.com/item?id=47317288"
+    },
+    {
+      "title": "Pike: To Exit or Not to Exit",
+      "link": "https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-08T10:51:54Z",
+      "id": "348c8a86da1d8eb2ffc6e42646303181",
+      "comments": "https://news.ycombinator.com/item?id=47296284"
     },
     {
       "title": "Bippy: React Internals Toolkit",
