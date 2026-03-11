@@ -1,37 +1,101 @@
 {
-  "last_updated": "2026-03-11T09:38:11.454193Z",
+  "last_updated": "2026-03-11T12:52:10.891599Z",
   "items": [
     {
-      "title": "I built an AI team (Squad) that manages my GitHub issues, writes PRs, and monitors Teams while I sleep",
-      "link": "https://www.reddit.com/r/programming/comments/1rqp1zl/i_built_an_ai_team_squad_that_manages_my_github/",
+      "title": "Zero to AWS Admin in 72 Hours",
+      "link": "https://www.reddit.com/r/programming/comments/1rqsr59/zero_to_aws_admin_in_72_hours/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-03-11T09:28:30Z",
-      "id": "be220f9dd05f42f00343a96eea8065f2"
+      "published": "2026-03-11T12:45:14Z",
+      "id": "8919f7a3fb31561aeca8b5100e604669"
     },
     {
-      "title": "Is it normal for a PM who is also your manager to ask engineers to track feature usage?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rqoyik/is_it_normal_for_a_pm_who_is_also_your_manager_to/",
+      "title": "Faster asin() Was Hiding In Plain Sight",
+      "link": "https://www.reddit.com/r/programming/comments/1rqsn8b/faster_asin_was_hiding_in_plain_sight/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-11T12:40:16Z",
+      "id": "573771644a5f7d68d1e4a7dbcf60d7ac"
+    },
+    {
+      "title": "How to learn AI?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rqseh7/how_to_learn_ai/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-03-11T09:22:25Z",
-      "id": "ab4064a6598aba5c69fce1cf9122c9e5"
+      "published": "2026-03-11T12:29:16Z",
+      "id": "3e3372476d791c615b58c1e3ab552923"
     },
     {
-      "title": "How to be a Software engineer",
-      "link": "https://www.reddit.com/r/programming/comments/1rqol2f/how_to_be_a_software_engineer/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-11T08:59:32Z",
-      "id": "014b6606830c79b0c72913fc9c6ee6e4"
+      "title": "[Russini] The Ravens\u2019 doctors \u2014 along with multiple independent ones \u2014 reviewed Crosby\u2019s MRI. They were unified in the belief that Crosby\u2019s short-term outlook was positive, but there were concerns about the long-term prognosis of Crosby\u2019s knee, per sources.",
+      "link": "https://www.reddit.com/r/nfl/comments/1rqr70h/russini_the_ravens_doctors_along_with_multiple/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-11T11:30:18Z",
+      "id": "1d0811b27c852052162bd5d8dc877542"
     },
     {
-      "title": "What actually helped you learn system design? Textbooks never clicked for me",
-      "link": "https://www.reddit.com/r/programming/comments/1rqogmj/what_actually_helped_you_learn_system_design/",
+      "title": "How is the LLM situation in companies outside West (China, Russia)?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rqqohv/how_is_the_llm_situation_in_companies_outside/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-11T11:02:35Z",
+      "id": "855ecd4d7ad01a570358f18c5ea3b690"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 10, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1rqqmmg/serious_next_day_thread_postgame_discussion_march/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-11T11:00:01Z",
+      "id": "5e40adf43b6dfc8ae43f39b6b47ca6b2"
+    },
+    {
+      "title": "[Rapoport] Crosby will be rehabbing in the Raiders facility and his mindset is to play for the Raiders",
+      "link": "https://www.reddit.com/r/nfl/comments/1rqqmkd/rapoport_crosby_will_be_rehabbing_in_the_raiders/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-11T10:59:56Z",
+      "id": "8a08c48f6b7413b800c27076f9ad33d3"
+    },
+    {
+      "title": "Per Schefter, multiple doctors looked at Crosby\u2019s scans which gave the Ravens cause for concern. Including well trusted and knowledgeable Dr. Daniel Cooper who is the cowboys doctor.",
+      "link": "https://www.reddit.com/r/nfl/comments/1rqqhpn/per_schefter_multiple_doctors_looked_at_crosbys/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-11T10:52:26Z",
+      "id": "583b5a6d10298afada785344a43c53f8"
+    },
+    {
+      "title": "The 8 Levels of Agentic Engineering",
+      "link": "https://www.reddit.com/r/programming/comments/1rqq7t9/the_8_levels_of_agentic_engineering/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-03-11T08:51:39Z",
-      "id": "d9edc6cc118ebe401c093470f5dfdd96"
+      "published": "2026-03-11T10:36:40Z",
+      "id": "3f9f22ba8d320b4ff0095346e6931bbd"
+    },
+    {
+      "title": "Why I stopped using NixOS and went back to Arch Linux",
+      "link": "https://www.reddit.com/r/programming/comments/1rqpuz3/why_i_stopped_using_nixos_and_went_back_to_arch/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-11T10:16:04Z",
+      "id": "aa69d89d29158d39b301022362d92e4c"
+    },
+    {
+      "title": "[Schefter] Maxx Crosby is eight weeks from having meniscus surgery and got off crutches only last week. He is on schedule, and they are working to get him ready for the regular-season opener. Here is what Crosby\u2019s knee surgeon, Dr. Neal ElAttrache, said to ESPN this morning:",
+      "link": "https://www.reddit.com/r/nfl/comments/1rqps16/schefter_maxx_crosby_is_eight_weeks_from_having/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-11T10:11:24Z",
+      "id": "6df1cc6fcb3470145a6436d979e9646e"
+    },
+    {
+      "title": "The fourth quarter of Bam\u2019s 83 point game WAS an interesting watch",
+      "link": "https://www.reddit.com/r/nba/comments/1rqoufd/the_fourth_quarter_of_bams_83_point_game_was_an/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-11T09:15:15Z",
+      "id": "517ce5c96fe163bf6869ddbc1da59fe5"
     },
     {
       "title": "Stay or leave",
@@ -42,12 +106,12 @@
       "id": "9d575eb61042c22e3a3530ca6c3a6655"
     },
     {
-      "title": "Bored at work and nothing to do to really grow",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rqnpcb/bored_at_work_and_nothing_to_do_to_really_grow/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-11T08:03:08Z",
-      "id": "4bb3e95ad534862353a076b49d3116de"
+      "title": "Flashback: Michael Beasley says that Bam Adebayo is the only player to ever beat him one-on-one. \"Y'all don't know how good Bam is.\" \"It's blasphemous that Bam ain't takin' 30 shots a game.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1rqner8/flashback_michael_beasley_says_that_bam_adebayo/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-11T07:43:58Z",
+      "id": "e8aa8522d835155a66e8f80fdbc121f7"
     },
     {
       "title": "AutoKernel: Autoresearch for GPU Kernels",
@@ -57,15 +121,6 @@
       "published": "2026-03-11T07:42:10Z",
       "id": "50804e5c17e39c02f361c111e403204f",
       "comments": "https://news.ycombinator.com/item?id=47332688"
-    },
-    {
-      "title": "I'm going to build my own OpenClaw, with blackjack and bun",
-      "link": "https://github.com/rcarmo/piclaw",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-11T07:36:18Z",
-      "id": "02b84a95fc4a4a31fb7db2e445e29cb2",
-      "comments": "https://news.ycombinator.com/item?id=47332649"
     },
     {
       "title": "Is paying per hour the new trend in the job market?",
@@ -82,14 +137,6 @@
       "category": "tech",
       "published": "2026-03-11T07:21:27Z",
       "id": "132d16d4f1ffcf9f5dccd90932007c72"
-    },
-    {
-      "title": "When is it acceptable to call someone out for sloppy work?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rqmniq/when_is_it_acceptable_to_call_someone_out_for/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-11T06:56:14Z",
-      "id": "b95f9656eefc519fc1db5774b4e43516"
     },
     {
       "title": "Are there not enough devs sharing their work experience online?",
@@ -237,14 +284,6 @@
       "category": "sports",
       "published": "2026-03-11T04:41:31Z",
       "id": "cd3687cc071e7402b96111a8531d0b6c"
-    },
-    {
-      "title": "MCP Vulnerabilities Every Developer Should Know",
-      "link": "https://www.reddit.com/r/programming/comments/1rqk9d0/mcp_vulnerabilities_every_developer_should_know/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-11T04:39:38Z",
-      "id": "766d9c2ae60ed94e02d613e9dd2804c7"
     },
     {
       "title": "ACGS Algorithm for Hidden Number Problems with Chosen Multipliers",
@@ -464,14 +503,6 @@
       "id": "b510a84dee1a956f6c8188b95e858253"
     },
     {
-      "title": "[Highlight] Bam Adebayo sets new heat record for most points in a game in the THIRD quarter",
-      "link": "https://www.reddit.com/r/nba/comments/1rqg8b2/highlight_bam_adebayo_sets_new_heat_record_for/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-11T01:31:42Z",
-      "id": "219e02c9a69165539265792f8da505d4"
-    },
-    {
       "title": "Zig \u2013 Type Resolution Redesign and Language Changes",
       "link": "https://ziglang.org/devlog/2026/#2026-03-10",
       "source": "Hacker News",
@@ -487,22 +518,6 @@
       "category": "sports",
       "published": "2026-03-11T01:17:21Z",
       "id": "589b6a81a60549d9ffdceb9c807ee98b"
-    },
-    {
-      "title": "In 2005, Roberto Garza signed with the Ravens but failed his physical and was told he \"didn't even have an ACL\" despite starting 15 games the year prior. The Bears signed him shortly after, and he became an anchor on their OL for the next decade.",
-      "link": "https://www.reddit.com/r/nfl/comments/1rqfuth/in_2005_roberto_garza_signed_with_the_ravens_but/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-11T01:15:09Z",
-      "id": "5ab0107c7a8fc04c66c861f5edf4d7c4"
-    },
-    {
-      "title": "[Highlight] Bam Adebayo with the dunk to give him 52 Points, with 5 minutes remaining in the 3rd quarter",
-      "link": "https://www.reddit.com/r/nba/comments/1rqfu2t/highlight_bam_adebayo_with_the_dunk_to_give_him/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-11T01:14:16Z",
-      "id": "5fc399c5f86fb58946878e818214c4fd"
     },
     {
       "title": "[Pelissero] One GM summarized the feelings around the league: \u201cThis is very much bullshit on Baltimore\u2019s part.\u201d",
@@ -577,14 +592,6 @@
       "id": "40c20a84a66d2fbddfad166e63018e03"
     },
     {
-      "title": "[Breer] This puts the Raiders in an incredibly difficult situation. They lose the picks, they have a bunch of deals to be finalized tomorrow done under the assumption Maxx Crosby was gone, and now they may have to .. trade him again with the medical question hovering.",
-      "link": "https://www.reddit.com/r/nfl/comments/1rqexts/breer_this_puts_the_raiders_in_an_incredibly/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-11T00:36:18Z",
-      "id": "42f237d1739067c4d1b9978c5c170368"
-    },
-    {
       "title": "Maxx Crosby physical exam",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rqexmd/maxx_crosby_physical_exam/",
       "source": "r/CHIBears",
@@ -639,14 +646,6 @@
       "category": "sports",
       "published": "2026-03-11T00:08:35Z",
       "id": "7767f5e48f44dbed49fc08dfcdfffd06"
-    },
-    {
-      "title": "Jordan Schultz: Text from a GM: \u201cBaltimore is gonna sign Trey Hendrickson. Watch.\u201d",
-      "link": "https://www.reddit.com/r/nfl/comments/1rqe9lm/jordan_schultz_text_from_a_gm_baltimore_is_gonna/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-11T00:08:22Z",
-      "id": "120763d443315e110ea1ff5d789e620c"
     },
     {
       "title": "[Bukowski] So the Dallas Cowboys missed out on Maxx Crosby, traded for Rashan Gary instead, and now have financially boxed themselves out of trading for Crosby when he's available again.",
@@ -818,14 +817,6 @@
       "category": "sports",
       "published": "2026-03-10T20:51:42Z",
       "id": "4bba03d8a55319e2d21797c4ceebd832"
-    },
-    {
-      "title": "[Highlight] Geno Smith to Rookie JSN in 2023: \"Whatever happened is on me, it ain't ever on you.\"",
-      "link": "https://www.reddit.com/r/nfl/comments/1rq8thb/highlight_geno_smith_to_rookie_jsn_in_2023/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-10T20:42:18Z",
-      "id": "d22485712d6442b674e3fb3317075835"
     },
     {
       "title": "How do you handle it when your company begins using productivity metrics?",
@@ -1102,12 +1093,12 @@
       "id": "e5573c42e9b0a00eba2c3dc6cf6666b9"
     },
     {
-      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 09, 2026)",
-      "link": "https://www.reddit.com/r/nba/comments/1rptufe/serious_next_day_thread_postgame_discussion_march/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-10T11:00:01Z",
-      "id": "c25179fabe3827fd64a56352ed702762"
+      "title": "Exploring Mutable Consteval State in C++26",
+      "link": "https://www.reddit.com/r/programming/comments/1rputf4/exploring_mutable_consteval_state_in_c26/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-10T11:51:21Z",
+      "id": "8363e5a12c4382940e8ad346beafe44a"
     },
     {
       "title": "Levels of Agentic Engineering",
@@ -1142,15 +1133,6 @@
       "category": "tech",
       "published": "2026-03-10T05:05:57Z",
       "id": "a24ad00e37901f43f1a6f9c21146cb0d"
-    },
-    {
-      "title": "EQT eyes potential $6B sale of Linux pioneer SUSE, sources say",
-      "link": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T03:34:52Z",
-      "id": "74f27a940dd536c85535afc5b171e28c",
-      "comments": "https://news.ycombinator.com/item?id=47318830"
     },
     {
       "title": "Whatever happened to just asking questions at work?",
@@ -1218,20 +1200,20 @@
       "id": "92f751f1a4a7af7d11a45a42bdeff8a4"
     },
     {
-      "title": "The hidden cost of 'lightweight' frameworks: Our journey from Tauri to native Rust",
-      "link": "https://www.reddit.com/r/programming/comments/1rp80sx/the_hidden_cost_of_lightweight_frameworks_our/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-09T18:16:23Z",
-      "id": "50aa92c600839bf54438c6d98d047a34"
-    },
-    {
       "title": "2001-2008 Bulls Lemons",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rp44h1/20012008_bulls_lemons/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-03-09T16:00:16Z",
       "id": "ac371dbf964c849f574005f39c53b14b"
+    },
+    {
+      "title": "Experiencing lack of motivation",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rp1ed9/experiencing_lack_of_motivation/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-09T14:16:55Z",
+      "id": "63807693baf3051cde7057d8e407b33c"
     },
     {
       "title": "Weekly Discussion Thread - March 09, 2026",
@@ -1308,13 +1290,13 @@
       "comments": "https://news.ycombinator.com/item?id=47295855"
     },
     {
-      "title": "Invoker Commands API",
-      "link": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
+      "title": "When the chain becomes the product: Seven years inside a token-funded venture",
+      "link": "https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-08T08:16:53Z",
-      "id": "b6bc97fc7f81340b7f26dafa1e70819e",
-      "comments": "https://news.ycombinator.com/item?id=47295559"
+      "published": "2026-03-08T08:37:02Z",
+      "id": "88541b25b517f9d3a74f764ef48dd008",
+      "comments": "https://news.ycombinator.com/item?id=47295647"
     },
     {
       "title": "Prepair for the worst case scenario.",
@@ -1351,13 +1333,22 @@
       "comments": "https://news.ycombinator.com/item?id=47291574"
     },
     {
-      "title": "Support for Aquantia AQC113 and AQC113C Ethernet Controllers on FreeBSD",
-      "link": "https://github.com/Aquantia/aqtion-freebsd/issues/32",
+      "title": "CAP theorem \u2013 Partition is a verb",
+      "link": "http://mmudama.github.io/posts/2026/cap-partitions/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-07T03:55:28Z",
-      "id": "b3e9c91e846c03444ada65473166bbdf",
-      "comments": "https://news.ycombinator.com/item?id=47284328"
+      "published": "2026-03-07T19:16:40Z",
+      "id": "d1483d83741a316d944173e01cc10dd4",
+      "comments": "https://news.ycombinator.com/item?id=47290574"
+    },
+    {
+      "title": "Exploring the ocean with Raspberry Pi\u2013powered marine robots",
+      "link": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-07T17:29:54Z",
+      "id": "06a5ed3e9be391badf377cf13b0499c8",
+      "comments": "https://news.ycombinator.com/item?id=47289590"
     },
     {
       "title": "What is this?",
@@ -1374,6 +1365,15 @@
       "category": "sports",
       "published": "2026-03-06T20:59:49Z",
       "id": "79b23c26b651144b33b7fc52ecd6e6dc"
+    },
+    {
+      "title": "Docs directories are doomed",
+      "link": "https://yagmin.com/blog/your-docs-directory-is-doomed/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-06T15:04:10Z",
+      "id": "2b4dea8bdbb574a098ecccecfc6a860b",
+      "comments": "https://news.ycombinator.com/item?id=47275743"
     },
     {
       "title": "Nick Richards vs Suns Mar 5, 2026 Full Play - 9 Points, 11 Rebounds, 1 Assist, 1 Steal, 2 Blocks",
