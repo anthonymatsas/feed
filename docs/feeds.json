@@ -1,13 +1,72 @@
 {
-  "last_updated": "2026-03-12T06:49:32.657314Z",
+  "last_updated": "2026-03-12T09:38:27.439093Z",
   "items": [
     {
-      "title": "How I validate product ideas quickly",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rrj43m/how_i_validate_product_ideas_quickly/",
+      "title": "New webdev question",
+      "link": "https://www.reddit.com/r/programming/comments/1rrlhgr/new_webdev_question/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-12T08:52:01Z",
+      "id": "acd1247799b124f5cc05e075a1f13d0c"
+    },
+    {
+      "title": "Getting away from recruitment firms managing you poorly?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rrlebl/getting_away_from_recruitment_firms_managing_you/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-03-12T06:20:37Z",
-      "id": "49cf4eb06a13b4d97bae7cfe5ac46904"
+      "published": "2026-03-12T08:46:01Z",
+      "id": "f89b4ab09104077fdbcff5323f0da7e8"
+    },
+    {
+      "title": "An ode to bzip",
+      "link": "https://www.reddit.com/r/programming/comments/1rrl86c/an_ode_to_bzip/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-12T08:34:43Z",
+      "id": "37cd668f69201a6b1e1e6f49d2e3f410"
+    },
+    {
+      "title": "3D-Knitting: The Ultimate Guide",
+      "link": "https://www.oliver-charles.com/pages/3d-knitting",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-12T08:27:16Z",
+      "id": "32edbf412cc3595411be6110d586876a",
+      "comments": "https://news.ycombinator.com/item?id=47347945"
+    },
+    {
+      "title": "I noticed AI tools were degrading my team's codebase. I tried to see the structure and the relationships between this phenomena by using math and statistics on 1.5M git events. Looking for feedback.",
+      "link": "https://www.reddit.com/r/programming/comments/1rrkjqc/i_noticed_ai_tools_were_degrading_my_teams/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-12T07:50:58Z",
+      "id": "1fce54525c29959ac7b04ca65c5fa92b"
+    },
+    {
+      "title": "Important and Useful links from all over the LeetCode",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rrjuhv/important_and_useful_links_from_all_over_the/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-12T07:05:54Z",
+      "id": "8fef5bf422e7a4e33109005e088e7c94"
+    },
+    {
+      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+      "link": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-12T06:55:56Z",
+      "id": "8eb2794541379254a05339258fe26cb4",
+      "comments": "https://news.ycombinator.com/item?id=47347362"
+    },
+    {
+      "title": "Returning to Rails in 2026",
+      "link": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-12T06:06:46Z",
+      "id": "cf94a0bfc5aa3529844843ef85363ded",
+      "comments": "https://news.ycombinator.com/item?id=47347064"
     },
     {
       "title": "Tyrese Haliburton: \"Wilt Chamberlain 100... I ain't know if I believed it... but after what I watched yesterday... Wilt had 100\"",
@@ -50,14 +109,6 @@
       "id": "0dd53a799aa15b5df72d541540f39352"
     },
     {
-      "title": "Software Engineer in Gurgaon looking to switch (Node/FastAPI/React) \u2013 referrals appreciated",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rrhqqx/software_engineer_in_gurgaon_looking_to_switch/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-12T05:03:10Z",
-      "id": "bb6b6ce03814a2bf6e01d2928f4b0c25"
-    },
-    {
       "title": "[Post Game Thread] The Los Angeles Clippers (33-32) dismantle the Minnesota Timberwolves (40-26), 153-128 behind Kawhi Leonard\u2019s 45p/5r/5a/2s on 75% shooting as they become the first team in NBA history to go above .500 after starting 0.222 or worse!",
       "link": "https://www.reddit.com/r/nba/comments/1rrhnku/post_game_thread_the_los_angeles_clippers_3332/",
       "source": "r/nba",
@@ -72,6 +123,14 @@
       "category": "sports",
       "published": "2026-03-12T04:52:48Z",
       "id": "0c04033883038c75c0c0c9e4e75d3b22"
+    },
+    {
+      "title": "Kawhi checks out after going off for 0.54 Bams in a blowout win vs. the Timberwolves: 45/5/5 | 2 steals",
+      "link": "https://www.reddit.com/r/nba/comments/1rrhjgz/kawhi_checks_out_after_going_off_for_054_bams_in/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-12T04:52:28Z",
+      "id": "3b3d97b00cbf0078aca2a0f684327150"
     },
     {
       "title": "Bears shirt",
@@ -98,13 +157,12 @@
       "id": "5259534e2e3e35e22a731967efa03c1b"
     },
     {
-      "title": "WireGuard Is Two Things",
-      "link": "https://www.proxylity.com/articles/wireguard-is-two-things.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-12T04:38:49Z",
-      "id": "ca0990b2b668a7b78719f8082fe18512",
-      "comments": "https://news.ycombinator.com/item?id=47346511"
+      "title": "[Highlight] Kawhi Leonard with the step back 3 to give him 42 points!",
+      "link": "https://www.reddit.com/r/nba/comments/1rrhagk/highlight_kawhi_leonard_with_the_step_back_3_to/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-12T04:38:54Z",
+      "id": "ea38313076253eabf001a989fe4e37eb"
     },
     {
       "title": "API security standards across teams, how do you enforce them?",
@@ -147,14 +205,6 @@
       "id": "972c81acebc2c2531cdfdabfefe73e40"
     },
     {
-      "title": "[Maxx Crosby] Everything Happens For A Reason. Believe Nothing You Hear & Half Of What You See. Im A Raider. I\u2019m Back. Run That Sh*t. \ud83e\udd85\ud83c\udff4\u200d\u2620\ufe0f",
-      "link": "https://www.reddit.com/r/nfl/comments/1rrg001/maxx_crosby_everything_happens_for_a_reason/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-12T03:34:46Z",
-      "id": "b3fb0bc07a4636804eece360df68ebac"
-    },
-    {
       "title": "Cross That Dream Off",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rrfynj/cross_that_dream_off/",
       "source": "r/CHIBears",
@@ -178,14 +228,6 @@
       "category": "sports",
       "published": "2026-03-12T03:24:01Z",
       "id": "063e78bcb8f048c69b56ec3841a7a2db"
-    },
-    {
-      "title": "Interview rejection because I couldn\u2019t write a regex from memory",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rrflfy/interview_rejection_because_i_couldnt_write_a/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-12T03:15:27Z",
-      "id": "45c86ee609122eaf17e48491a8c155d3"
     },
     {
       "title": "Jokic with the poor man's 5x5 at halftime: 6 points, 7 rebounds, 9 assists, 5 steals, and 5 turnovers",
@@ -234,24 +276,6 @@
       "category": "sports",
       "published": "2026-03-12T02:17:19Z",
       "id": "6e596fd4fd0246d5dd60506a74648cfd"
-    },
-    {
-      "title": "DHS Contracts Explorer \u2013 Hacked data from the Office of Industry Partnership",
-      "link": "https://micahflee.github.io/ice-contracts/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-12T02:03:01Z",
-      "id": "5ea99cae159e567ff378c61f7677e848",
-      "comments": "https://news.ycombinator.com/item?id=47345393"
-    },
-    {
-      "title": "Urea prices",
-      "link": "https://tradingeconomics.com/commodity/urea",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-12T01:59:47Z",
-      "id": "422797d4f49eb8fb17ec8846a8496645",
-      "comments": "https://news.ycombinator.com/item?id=47345364"
     },
     {
       "title": "[Highlight] Donovan Mitchell drops Noah Penda and hits the three",
@@ -335,15 +359,6 @@
       "id": "97a45c85358238bd4518a9921a72b7fc"
     },
     {
-      "title": "Show HN: Autoresearch@home",
-      "link": "https://www.ensue-network.ai/autoresearch",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-11T23:27:18Z",
-      "id": "9872142168255c8aa2cd861084af41ac",
-      "comments": "https://news.ycombinator.com/item?id=47343935"
-    },
-    {
       "title": "Show HN: A context-aware permission guard for Claude Code",
       "link": "https://github.com/manuelschipper/nah/",
       "source": "Hacker News",
@@ -415,22 +430,6 @@
       "category": "sports",
       "published": "2026-03-11T22:32:19Z",
       "id": "9144d45f1073db11204ffdff14e6c061"
-    },
-    {
-      "title": "Benchmarking Rust vs Spring Boot vs Quarkus for API performance",
-      "link": "https://www.reddit.com/r/programming/comments/1rr8jlr/benchmarking_rust_vs_spring_boot_vs_quarkus_for/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-11T22:23:28Z",
-      "id": "20511e00512dc4eb5234a73d3664c1fe"
-    },
-    {
-      "title": "A real-world Spring Boot microservices architecture",
-      "link": "https://www.reddit.com/r/programming/comments/1rr8iw3/a_realworld_spring_boot_microservices_architecture/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-11T22:22:40Z",
-      "id": "a62e180125ca5d044f203a2f1df11e0f"
     },
     {
       "title": "\ud83e\uddd0\ud83e\udd37",
@@ -511,15 +510,6 @@
       "category": "sports",
       "published": "2026-03-11T21:10:24Z",
       "id": "e25d0811aa7653c26707c514534cc378"
-    },
-    {
-      "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-      "link": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-11T21:06:06Z",
-      "id": "0853fcb50e1f7d37afa03d2c202200f1",
-      "comments": "https://news.ycombinator.com/item?id=47341845"
     },
     {
       "title": "[Hensley] Ravens GM Eric DeCosta said he started talks with Trey Hendrickson after losing center Tyler Linderbaum in free agency. DeCosta was looking to add Hendrickson and Maxx Crosby before the trade with Crosby was nullified.",
@@ -637,12 +627,12 @@
       "comments": "https://news.ycombinator.com/item?id=47340079"
     },
     {
-      "title": "[Charania] Golden State's Stephen Curry will miss another 10 days with his ailing knee, stretching his absence to five more games and a total of 20 consecutive, sources tell me and @anthonyVslater. Curry has started on-court work and is aiming to intensify his workouts.",
-      "link": "https://www.reddit.com/r/nba/comments/1rr3ki6/charania_golden_states_stephen_curry_will_miss/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-11T19:24:21Z",
-      "id": "f67f94b20b0cfd35b85b0ea8af56892e"
+      "title": "Book recommendations for building in the age of AI",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rr3i3y/book_recommendations_for_building_in_the_age_of_ai/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-11T19:21:58Z",
+      "id": "75eba8fecedd297de6279b0013b443a0"
     },
     {
       "title": "[Zrebiec] Ravens have agreed to terms with free agent TE Durham Smythe, sources say.",
@@ -701,6 +691,15 @@
       "id": "5baac0a88f0c972eb1ab642b7ec5270a"
     },
     {
+      "title": "Personal Computer by Perplexity",
+      "link": "https://www.perplexity.ai/personal-computer-waitlist",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T18:22:21Z",
+      "id": "ee5ce0791e7e456ecf31b0916cc17f2d",
+      "comments": "https://news.ycombinator.com/item?id=47339223"
+    },
+    {
       "title": "I was interviewed by an AI bot for a job",
       "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
       "source": "Hacker News",
@@ -724,6 +723,14 @@
       "category": "sports",
       "published": "2026-03-11T18:00:04Z",
       "id": "c62d39b01c403fc4abebf22f9d0ab5d5"
+    },
+    {
+      "title": "[Russini] Current plan is for Maxx Crosby to remain with Raiders this season.",
+      "link": "https://www.reddit.com/r/nfl/comments/1rr146h/russini_current_plan_is_for_maxx_crosby_to_remain/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-11T17:58:38Z",
+      "id": "d0b533b7e0a6bd7e373c8614d2d6d4df"
     },
     {
       "title": "Visualizing Ukkonen's Suffix Tree Algorithm",
@@ -766,6 +773,14 @@
       "id": "4a473d4e8f42907f6a8b4dda09a74efc"
     },
     {
+      "title": "Cellpond: Spatial programming without escape",
+      "link": "https://www.reddit.com/r/programming/comments/1rqz1aw/cellpond_spatial_programming_without_escape/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-11T16:46:28Z",
+      "id": "dc8941326c4eb0a07936b43404b2fb66"
+    },
+    {
       "title": "Code reviews do find bugs",
       "link": "https://www.reddit.com/r/programming/comments/1rqywa9/code_reviews_do_find_bugs/",
       "source": "r/programming",
@@ -780,14 +795,6 @@
       "category": "sports",
       "published": "2026-03-11T16:39:28Z",
       "id": "5cc7f59ae326bc9f737a312705d7b158"
-    },
-    {
-      "title": "Bypassing PatchGuard on Windows x64 (2005)",
-      "link": "https://www.reddit.com/r/programming/comments/1rqytbl/bypassing_patchguard_on_windows_x64_2005/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-11T16:38:42Z",
-      "id": "953fac483a4e0049f30eec7f4822ac52"
     },
     {
       "title": "Zig \u2013 Type Resolution Redesign and Language Changes",
@@ -1012,12 +1019,12 @@
       "id": "573771644a5f7d68d1e4a7dbcf60d7ac"
     },
     {
-      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+      "title": "BitNet: Inference framework for 1-bit LLMs",
       "link": "https://github.com/microsoft/BitNet",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-11T12:27:15Z",
-      "id": "f950f331c6e05b50de6c472625a5d7af",
+      "id": "f945117537210425eaf64ea01e18ea36",
       "comments": "https://news.ycombinator.com/item?id=47334694"
     },
     {
@@ -1052,14 +1059,6 @@
       "category": "tech",
       "published": "2026-03-11T10:16:04Z",
       "id": "aa69d89d29158d39b301022362d92e4c"
-    },
-    {
-      "title": "The fourth quarter of Bam\u2019s 83 point game WAS an interesting watch",
-      "link": "https://www.reddit.com/r/nba/comments/1rqoufd/the_fourth_quarter_of_bams_83_point_game_was_an/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-11T09:15:15Z",
-      "id": "517ce5c96fe163bf6869ddbc1da59fe5"
     },
     {
       "title": "Are there not enough devs sharing their work experience online?",
@@ -1141,14 +1140,6 @@
       "category": "tech",
       "published": "2026-03-10T23:20:33Z",
       "id": "b8c93c3a8b9dd0354924b6cac9daf0aa"
-    },
-    {
-      "title": "How Container Images Actually Work: Layers, Configs, Manifests, Indexes, and More",
-      "link": "https://www.reddit.com/r/programming/comments/1rqbnyf/how_container_images_actually_work_layers_configs/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-10T22:26:59Z",
-      "id": "c067b4982e1ea3e9b57508e7dea43128"
     },
     {
       "title": "How to recover from a career misstep?",
@@ -1299,6 +1290,15 @@
       "comments": "https://news.ycombinator.com/item?id=47308349"
     },
     {
+      "title": "Show HN: XLA-based array computing framework for R",
+      "link": "https://github.com/r-xla/anvil",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-09T06:04:24Z",
+      "id": "18ac8d0467caed61acec1b31208a84b3",
+      "comments": "https://news.ycombinator.com/item?id=47305357"
+    },
+    {
       "title": "Post Game Thread - NBA: The Kings defeat the Bulls on Mar 8, 2026, the final score is 126-110.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1ropev6/post_game_thread_nba_the_kings_defeat_the_bulls/",
       "source": "r/chicagobulls",
@@ -1313,6 +1313,15 @@
       "category": "tech",
       "published": "2026-03-09T00:00:43Z",
       "id": "758fd6fd4cd31eee2a35442c01509bfd"
+    },
+    {
+      "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
+      "link": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-09T00:00:05Z",
+      "id": "ecaee1643fe5c68c1af3a292f79c7b60",
+      "comments": "https://news.ycombinator.com/item?id=47303044"
     },
     {
       "title": "Game Thread: Sacramento Kings vs Chicago Bulls Live Score | NBA | Mar 8, 2026",
@@ -1348,13 +1357,13 @@
       "id": "c74414edbda905bbea5d34109bb04a61"
     },
     {
-      "title": "Challenging the Single-Responsibility Principle",
-      "link": "https://kiss-and-solid.com/blog/keep-it-simple",
+      "title": "Printf-Tac-Toe",
+      "link": "https://github.com/carlini/printf-tac-toe",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-08T12:59:47Z",
-      "id": "1a9ba3865f823422f7b36cfb8d4ab2cc",
-      "comments": "https://news.ycombinator.com/item?id=47296963"
+      "published": "2026-03-08T12:01:07Z",
+      "id": "a6eb7126d53475fbde24740d01862ecc",
+      "comments": "https://news.ycombinator.com/item?id=47296645"
     },
     {
       "title": "About memory pressure, lock contention, and Data-oriented Design",
@@ -1373,15 +1382,6 @@
       "published": "2026-03-08T11:44:56Z",
       "id": "c0a0fad508979d748add526e4840997e",
       "comments": "https://news.ycombinator.com/item?id=47296568"
-    },
-    {
-      "title": "CNN Explainer \u2013 Learn Convolutional Neural Network in Your Browser (2020)",
-      "link": "https://poloclub.github.io/cnn-explainer/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-08T11:22:42Z",
-      "id": "172cc82a7f39203dbe455dd59ad85eb7",
-      "comments": "https://news.ycombinator.com/item?id=47296461"
     },
     {
       "title": "Prepair for the worst case scenario.",
