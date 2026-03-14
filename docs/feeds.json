@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:40:47.762019Z",
+  "last_updated": "2026-03-14T06:39:59.706416Z",
   "items": [
     {
       "title": "Optimizing Content for Agents",
@@ -9,15 +9,6 @@
       "published": "2026-03-14T02:27:00Z",
       "id": "4a7a68f06acb2f3cabb5f2d87ec7c2f0",
       "comments": "https://news.ycombinator.com/item?id=47372672"
-    },
-    {
-      "title": "An investigation of the forces behind the age-verification bills",
-      "link": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-14T01:19:18Z",
-      "id": "dc61a5ea10de914b3efa4fc854e3599d",
-      "comments": "https://news.ycombinator.com/item?id=47372290"
     },
     {
       "title": "Our Experience with I-Ready",
@@ -36,6 +27,15 @@
       "published": "2026-03-14T00:02:37Z",
       "id": "0c1d2f6a7fc30933906e63976149ae72",
       "comments": "https://news.ycombinator.com/item?id=47371692"
+    },
+    {
+      "title": "Show HN: Simple plugin to get Claude Code to listen to you",
+      "link": "https://www.gopeek.ai",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T23:15:22Z",
+      "id": "dd7d9459ecd12bff5bff150987854083",
+      "comments": "https://news.ycombinator.com/item?id=47371284"
     },
     {
       "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
@@ -63,6 +63,15 @@
       "published": "2026-03-13T19:15:06Z",
       "id": "3ba06363348499bfb8246b082a985aa2",
       "comments": "https://news.ycombinator.com/item?id=47368430"
+    },
+    {
+      "title": "Digg is gone again",
+      "link": "https://digg.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T18:52:17Z",
+      "id": "4f28646a2512968e783783a192367af9",
+      "comments": "https://news.ycombinator.com/item?id=47368135"
     },
     {
       "title": "Mouser: An open source alternative to Logi-Plus mouse software",
@@ -128,24 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47366666"
     },
     {
-      "title": "The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702",
-      "link": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-13T16:13:30Z",
-      "id": "a066d4dcb90f84c1c62c006310531f29",
-      "comments": "https://news.ycombinator.com/item?id=47366374"
-    },
-    {
-      "title": "Launch HN: Captain (YC W26) \u2013 Automated RAG for Files",
-      "link": "https://www.runcaptain.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-13T15:45:33Z",
-      "id": "bebeb99d5d5857bdb966ce2d33f3d84a",
-      "comments": "https://news.ycombinator.com/item?id=47366011"
-    },
-    {
       "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
       "link": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
       "source": "Hacker News",
@@ -180,15 +171,6 @@
       "published": "2026-03-13T12:31:09Z",
       "id": "34ce0ab41897a743c1aaae1fae73f585",
       "comments": "https://news.ycombinator.com/item?id=47363584"
-    },
-    {
-      "title": "Source code of Swedish e-government services has been leaked",
-      "link": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-13T09:45:30Z",
-      "id": "bbe80a0c7a6ad423f043afe08c2c1a69",
-      "comments": "https://news.ycombinator.com/item?id=47362350"
     },
     {
       "title": "Lost Doctor Who episodes found",
@@ -227,6 +209,24 @@
       "comments": "https://news.ycombinator.com/item?id=47341432"
     },
     {
+      "title": "Wired headphone sales are exploding",
+      "link": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T19:37:46Z",
+      "id": "1ca7bb87f06a249da455a72106ec1bc4",
+      "comments": "https://news.ycombinator.com/item?id=47340203"
+    },
+    {
+      "title": "Atari 2600 BASIC Programming (2015)",
+      "link": "https://huguesjohnson.com/programming/atari-2600-basic/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T18:35:39Z",
+      "id": "6399a4b0c3d67244419fa4b70455341f",
+      "comments": "https://news.ycombinator.com/item?id=47339403"
+    },
+    {
       "title": "Show HN: Channel Surfer \u2013 Watch YouTube like it\u2019s cable TV",
       "link": "https://channelsurfer.tv",
       "source": "Hacker News",
@@ -236,13 +236,13 @@
       "comments": "https://news.ycombinator.com/item?id=47336100"
     },
     {
-      "title": "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
-      "link": "https://vertexclique.com/blog/kovan-from-prod-to-mr/",
+      "title": "You gotta think outside the hypercube",
+      "link": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-10T11:33:36Z",
-      "id": "9d3dd9840225f7e89cd8f922cefe8758",
-      "comments": "https://news.ycombinator.com/item?id=47321850"
+      "published": "2026-03-10T14:18:21Z",
+      "id": "77f15411e7b9f484f232c00f31d940d9",
+      "comments": "https://news.ycombinator.com/item?id=47323625"
     },
     {
       "title": "Using Thunderbird for RSS",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47319071"
     },
     {
-      "title": "Shipping Grayscale Photos at Small Scale",
-      "link": "https://underjord.io/shipping-grayscale-photos-at-small-scale.html",
+      "title": "A Survival Guide to a PhD (2016)",
+      "link": "http://karpathy.github.io/2016/09/07/phd/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-09T22:29:57Z",
-      "id": "56665c787496a363e037c980d191ab70",
-      "comments": "https://news.ycombinator.com/item?id=47316592"
+      "published": "2026-03-10T02:16:51Z",
+      "id": "ae4d07df364ad31ac29dbfd33465bf46",
+      "comments": "https://news.ycombinator.com/item?id=47318386"
     }
   ]
 }
