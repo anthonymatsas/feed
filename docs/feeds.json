@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-14T01:45:06.811930Z",
+  "last_updated": "2026-03-14T04:40:47.762019Z",
   "items": [
+    {
+      "title": "Optimizing Content for Agents",
+      "link": "https://cra.mr/optimizing-content-for-agents/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-14T02:27:00Z",
+      "id": "4a7a68f06acb2f3cabb5f2d87ec7c2f0",
+      "comments": "https://news.ycombinator.com/item?id=47372672"
+    },
+    {
+      "title": "An investigation of the forces behind the age-verification bills",
+      "link": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-14T01:19:18Z",
+      "id": "dc61a5ea10de914b3efa4fc854e3599d",
+      "comments": "https://news.ycombinator.com/item?id=47372290"
+    },
     {
       "title": "Our Experience with I-Ready",
       "link": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
@@ -9,6 +27,15 @@
       "published": "2026-03-14T00:29:50Z",
       "id": "61e2f1b859845021396fc7937af52c7f",
       "comments": "https://news.ycombinator.com/item?id=47371922"
+    },
+    {
+      "title": "Games with loot boxes to get minimum 16 age rating across Europe",
+      "link": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-14T00:02:37Z",
+      "id": "0c1d2f6a7fc30933906e63976149ae72",
+      "comments": "https://news.ycombinator.com/item?id=47371692"
     },
     {
       "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
@@ -20,22 +47,13 @@
       "comments": "https://news.ycombinator.com/item?id=47371275"
     },
     {
-      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
       "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-13T22:52:05Z",
-      "id": "65e4bd02c45b44984656c7e21a58a09a",
+      "id": "272b51fe87f375d0132cfcf1027b7ced",
       "comments": "https://news.ycombinator.com/item?id=47371064"
-    },
-    {
-      "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
-      "link": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-13T22:28:04Z",
-      "id": "c2e86f6863b00654a7513ffc0eefca12",
-      "comments": "https://news.ycombinator.com/item?id=47370822"
     },
     {
       "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
@@ -164,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47363584"
     },
     {
-      "title": "TUI Studio \u2013 visual terminal UI design tool",
-      "link": "https://tui.studio/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-13T10:32:45Z",
-      "id": "16f80cde11e97a501099d5553b6befdf",
-      "comments": "https://news.ycombinator.com/item?id=47362613"
-    },
-    {
       "title": "Source code of Swedish e-government services has been leaked",
       "link": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
       "source": "Hacker News",
@@ -182,22 +191,31 @@
       "comments": "https://news.ycombinator.com/item?id=47362350"
     },
     {
-      "title": "Bucketsquatting is finally dead",
-      "link": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-13T08:31:33Z",
-      "id": "575073dcbf2168298a95fd696d72a058",
-      "comments": "https://news.ycombinator.com/item?id=47361913"
-    },
-    {
-      "title": "Lost Doctor Who Episodes Found",
+      "title": "Lost Doctor Who episodes found",
       "link": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-13T05:18:01Z",
-      "id": "6a6e307b27782169dc6bf9c1cb45d29a",
+      "id": "5278232050d405fcb6c359b85727f0be",
       "comments": "https://news.ycombinator.com/item?id=47360978"
+    },
+    {
+      "title": "Hyperlinks in terminal emulators",
+      "link": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T03:32:18Z",
+      "id": "2b3e6a7d8ed1d3e5d811592bf1799495",
+      "comments": "https://news.ycombinator.com/item?id=47360383"
+    },
+    {
+      "title": "Coding after coders: The end of computer programming as we know it?",
+      "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-12T10:29:45Z",
+      "id": "ec6cbb5613eb1b5e46e06755821224c4",
+      "comments": "https://news.ycombinator.com/item?id=47348733"
     },
     {
       "title": "New 'negative light' technology hides data transfers in plain sight",
@@ -218,24 +236,6 @@
       "comments": "https://news.ycombinator.com/item?id=47336100"
     },
     {
-      "title": "MetaGenesis Core \u2013 offline verification for computational claims",
-      "link": "https://www.metagenesis-core.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-11T13:37:24Z",
-      "id": "d79fb4ccae7f2baf6be63c315bdcb265",
-      "comments": "https://news.ycombinator.com/item?id=47335416"
-    },
-    {
-      "title": "Exploring JEPA for real-time speech translation",
-      "link": "https://www.startpinch.com/research/en/jepa-encoder-translation/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-11T08:14:19Z",
-      "id": "92cbc9b4e3ef2a794cea51d737d6974e",
-      "comments": "https://news.ycombinator.com/item?id=47332883"
-    },
-    {
       "title": "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
       "link": "https://vertexclique.com/blog/kovan-from-prod-to-mr/",
       "source": "Hacker News",
@@ -243,15 +243,6 @@
       "published": "2026-03-10T11:33:36Z",
       "id": "9d3dd9840225f7e89cd8f922cefe8758",
       "comments": "https://news.ycombinator.com/item?id=47321850"
-    },
-    {
-      "title": "OpenTelemetry for Rust Developers",
-      "link": "https://signoz.io/blog/opentelemetry-rust/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-10T10:57:57Z",
-      "id": "dfe4bad4a47f58e7373e3db77df44a95",
-      "comments": "https://news.ycombinator.com/item?id=47321579"
     },
     {
       "title": "Using Thunderbird for RSS",
@@ -263,13 +254,22 @@
       "comments": "https://news.ycombinator.com/item?id=47320158"
     },
     {
-      "title": "Coding My Handwriting",
-      "link": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
+      "title": "Emacs and Vim in the Age of AI",
+      "link": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-09T16:01:23Z",
-      "id": "755ef089f861f7754a5c268744060a39",
-      "comments": "https://news.ycombinator.com/item?id=47310815"
+      "published": "2026-03-10T04:21:32Z",
+      "id": "95e74e100f9268d3ff30ca3dd8152b76",
+      "comments": "https://news.ycombinator.com/item?id=47319071"
+    },
+    {
+      "title": "Shipping Grayscale Photos at Small Scale",
+      "link": "https://underjord.io/shipping-grayscale-photos-at-small-scale.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-09T22:29:57Z",
+      "id": "56665c787496a363e037c980d191ab70",
+      "comments": "https://news.ycombinator.com/item?id=47316592"
     }
   ]
 }
