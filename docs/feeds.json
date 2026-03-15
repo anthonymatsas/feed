@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-15T18:33:09.417825Z",
+  "last_updated": "2026-03-15T21:23:53.991477Z",
   "items": [
+    {
+      "title": "The 49MB Web Page",
+      "link": "https://thatshubham.com/blog/news-audit",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-15T19:25:18Z",
+      "id": "66ce6c7891389fba18221fae9aa2cbe5",
+      "comments": "https://news.ycombinator.com/item?id=47390945"
+    },
+    {
+      "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+      "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-15T19:12:53Z",
+      "id": "4d09cc449cb52c83b3a65d8b0a8fe290",
+      "comments": "https://news.ycombinator.com/item?id=47390817"
+    },
+    {
+      "title": "Office.eu launches as Europe's sovereign office platform",
+      "link": "https://office.eu/media/pressrelease-20260304",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-15T18:22:36Z",
+      "id": "0a722885cb80d8556745b471e4463ca0",
+      "comments": "https://news.ycombinator.com/item?id=47390233"
+    },
+    {
+      "title": "Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-15T18:04:34Z",
+      "id": "85f9bea5f1e63816390cd69dc9f0e432",
+      "comments": "https://news.ycombinator.com/item?id=47390021"
+    },
     {
       "title": "Grandparents are glued to their phones, families are worried [video]",
       "link": "https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried",
@@ -11,13 +47,13 @@
       "comments": "https://news.ycombinator.com/item?id=47389784"
     },
     {
-      "title": "SuperTux 0.7.0",
-      "link": "https://github.com/SuperTux/supertux/releases/tag/v0.7.0",
+      "title": "LLM Architecture Gallery",
+      "link": "https://sebastianraschka.com/llm-architecture-gallery/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-15T17:00:35Z",
-      "id": "f4473a5a75350e28f7c63ae33a37877d",
-      "comments": "https://news.ycombinator.com/item?id=47389292"
+      "published": "2026-03-15T16:01:09Z",
+      "id": "7549a0a8a5254b27bf60227ea6847c99",
+      "comments": "https://news.ycombinator.com/item?id=47388676"
     },
     {
       "title": "Ask HN: How is AI-assisted coding going for you professionally?",
@@ -36,15 +72,6 @@
       "published": "2026-03-15T15:46:19Z",
       "id": "9d5caa356d9f0c92668cf3139fd3e497",
       "comments": "https://news.ycombinator.com/item?id=47388531"
-    },
-    {
-      "title": "UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence",
-      "link": "https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-15T15:45:24Z",
-      "id": "7b8afe1205c6a70ad09f26a48d4e7b24",
-      "comments": "https://news.ycombinator.com/item?id=47388519"
     },
     {
       "title": "Show HN: GDSL \u2013 800 line kernel: Lisp subset in 500, C subset in 1300",
@@ -74,22 +101,13 @@
       "comments": "https://news.ycombinator.com/item?id=47388141"
     },
     {
-      "title": "Separating the Wayland Compositor and Window Manager",
+      "title": "Separating the Wayland compositor and window manager",
       "link": "https://isaacfreund.com/blog/river-window-management/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-15T15:09:24Z",
-      "id": "6ebf6004582d8329197c74401628675f",
+      "id": "c00b1b6eb7cd5a89aad23c4bbc10df9e",
       "comments": "https://news.ycombinator.com/item?id=47388137"
-    },
-    {
-      "title": "The Webpage Has Instructions. The Agent Has Your Credentials",
-      "link": "https://openguard.sh/blog/prompt-injections/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-15T14:43:33Z",
-      "id": "4654ad2f7ba735e3d7f8b6a8c6e2b6a3",
-      "comments": "https://news.ycombinator.com/item?id=47387870"
     },
     {
       "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
@@ -173,49 +191,13 @@
       "comments": "https://news.ycombinator.com/item?id=47385935"
     },
     {
-      "title": "Rack-mount hydroponics",
-      "link": "https://sa.lj.am/rack-mount-hydroponics/",
+      "title": "Autoresearch Hub",
+      "link": "http://autoresearchhub.com/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-15T04:23:43Z",
-      "id": "896ecf7e45a28ba2bbbc19ae3d697cff",
-      "comments": "https://news.ycombinator.com/item?id=47384352"
-    },
-    {
-      "title": "A most elegant TCP hole punching algorithm",
-      "link": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-15T03:29:17Z",
-      "id": "5fe0bc238f11138531f32877af14f6ce",
-      "comments": "https://news.ycombinator.com/item?id=47384032"
-    },
-    {
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-15T02:48:33Z",
-      "id": "36cd13ff1b10d2725743cc2ddf79555e",
-      "comments": "https://news.ycombinator.com/item?id=47383804"
-    },
-    {
-      "title": "How kernel anti-cheats work",
-      "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-15T00:15:10Z",
-      "id": "5373277feaabed36beb926167aaf5560",
-      "comments": "https://news.ycombinator.com/item?id=47382791"
-    },
-    {
-      "title": "Allow me to get to know you, mistakes and all",
-      "link": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-14T22:03:47Z",
-      "id": "1a1beb9de7f30601ca80001f89b77536",
-      "comments": "https://news.ycombinator.com/item?id=47381736"
+      "published": "2026-03-14T08:35:42Z",
+      "id": "368aa86104f1b7ce80e07ec15488e890",
+      "comments": "https://news.ycombinator.com/item?id=47374572"
     },
     {
       "title": "Human Organ Atlas",
@@ -225,6 +207,33 @@
       "published": "2026-03-12T09:55:48Z",
       "id": "05639dde9629fa45a480ff053b86d72a",
       "comments": "https://news.ycombinator.com/item?id=47348502"
+    },
+    {
+      "title": "Measure of Justice: Covering the Cer\u00eede-I Adliye Covers (2017)",
+      "link": "https://www.denizcemonduygu.com/2017/05/measure-of-justice/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-12T00:39:40Z",
+      "id": "3c660ec09361dd63b065f1eb99a1f9c0",
+      "comments": "https://news.ycombinator.com/item?id=47344696"
+    },
+    {
+      "title": "Bus travel from Lima to Rio de Janeiro",
+      "link": "https://kenschutte.com/lima-to-rio-by-bus/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T19:07:12Z",
+      "id": "a8021a0d5772f8de1cee54b9e8c99df2",
+      "comments": "https://news.ycombinator.com/item?id=47339818"
+    },
+    {
+      "title": "//go:fix inline and the source-level inliner",
+      "link": "https://go.dev/blog/inliner",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T18:39:25Z",
+      "id": "b418b775253d7d6dd382b7e87988510f",
+      "comments": "https://news.ycombinator.com/item?id=47339463"
     },
     {
       "title": "Why Mathematica does not simplify sinh(arccosh(x))",
@@ -243,15 +252,6 @@
       "published": "2026-03-11T12:24:09Z",
       "id": "ba2e28100683cc92c4f4ae34ed0efeac",
       "comments": "https://news.ycombinator.com/item?id=47334668"
-    },
-    {
-      "title": "Zipp 2001 Restoration",
-      "link": "https://robot-daycare.com/posts/zipp-2001-restoration-part-1/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-11T10:39:24Z",
-      "id": "466dbf947a74a04d81fd39fe9b312d65",
-      "comments": "https://news.ycombinator.com/item?id=47333885"
     },
     {
       "title": "C++26: The Oxford Variadic Comma",
