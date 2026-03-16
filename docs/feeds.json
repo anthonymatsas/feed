@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-03-16T07:10:57.750580Z",
+  "last_updated": "2026-03-16T10:02:15.586145Z",
   "items": [
+    {
+      "title": "Starlink Mini as a Failover",
+      "link": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-16T08:07:29Z",
+      "id": "ce70aab3663c6ef967f1e5b46a0eb664",
+      "comments": "https://news.ycombinator.com/item?id=47396264"
+    },
     {
       "title": "ASCII and Unicode quotation marks (2007)",
       "link": "https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html",
@@ -29,33 +38,6 @@
       "comments": "https://news.ycombinator.com/item?id=47394022"
     },
     {
-      "title": "Quillx is an open standard for disclosing AI involvement in software projects",
-      "link": "https://github.com/QAInsights/AIx",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T01:21:39Z",
-      "id": "845c6f08543d58c3eb69a3e08322fe5b",
-      "comments": "https://news.ycombinator.com/item?id=47394004"
-    },
-    {
-      "title": "What is agentic engineering?",
-      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T01:07:47Z",
-      "id": "bcad5ad5c755db1acec2b91899f46291",
-      "comments": "https://news.ycombinator.com/item?id=47393908"
-    },
-    {
-      "title": "An experiment to use GitHub Actions as a control plane for a PaaS",
-      "link": "https://towlion.github.io",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T00:51:18Z",
-      "id": "4953a1722223f81f2e98d0388629b113",
-      "comments": "https://news.ycombinator.com/item?id=47393805"
-    },
-    {
       "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
       "link": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
       "source": "Hacker News",
@@ -74,13 +56,13 @@
       "comments": "https://news.ycombinator.com/item?id=47393388"
     },
     {
-      "title": "Nasdaq's Shame",
-      "link": "https://keubiko.substack.com/p/nasdaqs-shame",
+      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+      "link": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-15T22:16:09Z",
-      "id": "33c453e991700c3e92de30c742691a4d",
-      "comments": "https://news.ycombinator.com/item?id=47392550"
+      "published": "2026-03-15T22:15:50Z",
+      "id": "60202fd6d79a21ce4d1e46cd48850c98",
+      "comments": "https://news.ycombinator.com/item?id=47392547"
     },
     {
       "title": "Canada's bill C-22 mandates mass metadata surveillance",
@@ -182,6 +164,15 @@
       "comments": "https://news.ycombinator.com/item?id=47386116"
     },
     {
+      "title": "Six ingenious ways how Canon DSLRs used to illuminate their autofocus points",
+      "link": "https://exclusivearchitecture.com/03-technical-articles-CSDS-00-table-of-contents.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-15T09:07:52Z",
+      "id": "ab5aefb1c13a7635a9609f53d28d356c",
+      "comments": "https://news.ycombinator.com/item?id=47385579"
+    },
+    {
       "title": "The emergence of print-on-demand Amazon paperback books",
       "link": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/",
       "source": "Hacker News",
@@ -207,15 +198,6 @@
       "published": "2026-03-13T01:38:44Z",
       "id": "6cfb0929a44b4789f4313e60be36f064",
       "comments": "https://news.ycombinator.com/item?id=47359712"
-    },
-    {
-      "title": "A Plain Anabaptist Story: The Hutterites",
-      "link": "https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-12T20:41:51Z",
-      "id": "76c7cf3e85df8f68cfb1ad116c579a6c",
-      "comments": "https://news.ycombinator.com/item?id=47356782"
     },
     {
       "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
@@ -245,6 +227,15 @@
       "comments": "https://news.ycombinator.com/item?id=47349499"
     },
     {
+      "title": "Home Assistant waters my plants",
+      "link": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-12T10:19:14Z",
+      "id": "2c902dd75a07428ad2798412414f834d",
+      "comments": "https://news.ycombinator.com/item?id=47348652"
+    },
+    {
       "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
       "link": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
       "source": "Hacker News",
@@ -252,6 +243,15 @@
       "published": "2026-03-11T23:24:22Z",
       "id": "c7c4358518952d23772d1808fd184ef9",
       "comments": "https://news.ycombinator.com/item?id=47343902"
+    },
+    {
+      "title": "Kona EV Hacking",
+      "link": "http://techno-fandom.org/~hobbit/cars/ev/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-11T21:26:16Z",
+      "id": "de8522a664cbf95d4d4ddd5f145c59b1",
+      "comments": "https://news.ycombinator.com/item?id=47342185"
     },
     {
       "title": "Bus travel from Lima to Rio de Janeiro",
