@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-03-17T06:58:59.946755Z",
+  "last_updated": "2026-03-17T09:52:20.695506Z",
   "items": [
+    {
+      "title": "Grace Hopper's Revenge",
+      "link": "https://www.thefuriousopposites.com/p/grace-hoppers-revenge",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T09:26:48Z",
+      "id": "9026a22d419364fd110a0a30f0743010",
+      "comments": "https://news.ycombinator.com/item?id=47410349"
+    },
     {
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
       "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
@@ -83,15 +92,6 @@
       "comments": "https://news.ycombinator.com/item?id=47402640"
     },
     {
-      "title": "Language model teams as distributed systems",
-      "link": "https://arxiv.org/abs/2603.12229",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T17:19:13Z",
-      "id": "b67efe242df7e93564d63d69a22d435e",
-      "comments": "https://news.ycombinator.com/item?id=47401901"
-    },
-    {
       "title": "The \u201csmall web\u201d is bigger than you might think",
       "link": "https://kevinboone.me/small_web_is_big.html",
       "source": "Hacker News",
@@ -110,22 +110,13 @@
       "comments": "https://news.ycombinator.com/item?id=47401809"
     },
     {
-      "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
-      "link": "https://news.ycombinator.com/item?id=47401042",
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+      "link": "https://arxiv.org/abs/2511.04427",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-16T16:21:07Z",
-      "id": "0608a4bb916ee9220dabddc9a4b28275",
-      "comments": "https://news.ycombinator.com/item?id=47401042"
-    },
-    {
-      "title": "Show HN: Claude Code skills that build complete Godot games",
-      "link": "https://github.com/htdt/godogen",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T16:07:29Z",
-      "id": "8eb1b16d5eb0d14bc9879de047a34f38",
-      "comments": "https://news.ycombinator.com/item?id=47400868"
+      "published": "2026-03-16T17:07:37Z",
+      "id": "4d07145633e0d5350a1204f768c9d380",
+      "comments": "https://news.ycombinator.com/item?id=47401734"
     },
     {
       "title": "AirPods Max 2",
@@ -144,15 +135,6 @@
       "published": "2026-03-16T13:09:58Z",
       "id": "5899df39f4caa9ad5d103dd1b36bef27",
       "comments": "https://news.ycombinator.com/item?id=47398534"
-    },
-    {
-      "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
-      "link": "https://github.com/emin-ozata/lazycut",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T12:05:08Z",
-      "id": "4157c9d8c015c5b4765ee7c9a1e86eb4",
-      "comments": "https://news.ycombinator.com/item?id=47397857"
     },
     {
       "title": "Polymarket gamblers threaten to kill me over Iran missile story",
@@ -209,6 +191,15 @@
       "comments": "https://news.ycombinator.com/item?id=47366766"
     },
     {
+      "title": "The unlikely story of Teardown Multiplayer",
+      "link": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T16:20:00Z",
+      "id": "038196613ad648eb4378b83dd8ef04e9",
+      "comments": "https://news.ycombinator.com/item?id=47366435"
+    },
+    {
       "title": "Claude Tips for 3D Work",
       "link": "https://www.davesnider.com/posts/claude-3d",
       "source": "Hacker News",
@@ -227,13 +218,31 @@
       "comments": "https://news.ycombinator.com/item?id=47364260"
     },
     {
-      "title": "Sci-Fi Short Film \"There Is No Antimemetics Division\" [video]",
+      "title": "Sci-Fi Short Film \u201cThere Is No Antimemetics Division\u201d [video]",
       "link": "https://www.youtube.com/watch?v=3v8AsTHfAG0",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-13T11:44:27Z",
-      "id": "ad39bbd5b14ed30c466ca8b7bef55990",
+      "id": "9b40f1cc81ae3086c701b4b95c2d66c5",
       "comments": "https://news.ycombinator.com/item?id=47363133"
+    },
+    {
+      "title": "Fatal Core Dump Game",
+      "link": "https://www.robopenguins.com/core-dump-game/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T06:00:07Z",
+      "id": "d548a1a788fd2231f600da4b8517b8ea",
+      "comments": "https://news.ycombinator.com/item?id=47361151"
+    },
+    {
+      "title": "Show HN: Droeftoeter, a Terminal Coding Toy",
+      "link": "https://github.com/whtspc/droeftoeter",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T04:16:26Z",
+      "id": "27d5aa700bc550c61225d5a2277645bb",
+      "comments": "https://news.ycombinator.com/item?id=47360633"
     },
     {
       "title": "Gitana 18: the new flying Ultim trimaran",
@@ -261,15 +270,6 @@
       "published": "2026-03-13T00:02:00Z",
       "id": "598b6d46c81ba440f6082368d4e2678e",
       "comments": "https://news.ycombinator.com/item?id=47359010"
-    },
-    {
-      "title": "Canopy Height Maps v2",
-      "link": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-12T18:24:10Z",
-      "id": "3c1df1eab82514084bf5ec17129af6af",
-      "comments": "https://news.ycombinator.com/item?id=47355100"
     }
   ]
 }
