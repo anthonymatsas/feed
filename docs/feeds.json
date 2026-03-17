@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-17T09:52:20.695506Z",
+  "last_updated": "2026-03-17T13:03:00.532926Z",
   "items": [
+    {
+      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "link": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T12:01:05Z",
+      "id": "f4c7335d68f61cc5d1c0869b5ad107ba",
+      "comments": "https://news.ycombinator.com/item?id=47411480"
+    },
+    {
+      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
+      "link": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T10:39:48Z",
+      "id": "66b92300f6da413f68c3f1a8063019c6",
+      "comments": "https://news.ycombinator.com/item?id=47410870"
+    },
+    {
+      "title": "Kagi Small Web",
+      "link": "https://kagi.com/smallweb/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T09:53:53Z",
+      "id": "fb447e1726a7a3cb0eaa735b76453161",
+      "comments": "https://news.ycombinator.com/item?id=47410542"
+    },
+    {
+      "title": "Building a Shell",
+      "link": "https://healeycodes.com/building-a-shell",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T09:52:34Z",
+      "id": "2ab72c108f0a1a755413e5a451c30079",
+      "comments": "https://news.ycombinator.com/item?id=47410532"
+    },
     {
       "title": "Grace Hopper's Revenge",
       "link": "https://www.thefuriousopposites.com/p/grace-hoppers-revenge",
@@ -11,6 +47,15 @@
       "comments": "https://news.ycombinator.com/item?id=47410349"
     },
     {
+      "title": "Reverse-engineering Viktor and making it Open Source",
+      "link": "https://matijacniacki.com/blog/openviktor",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T08:15:34Z",
+      "id": "79f510ca8b8cf872fcab1df7e0c030f1",
+      "comments": "https://news.ycombinator.com/item?id=47409885"
+    },
+    {
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
       "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
       "source": "Hacker News",
@@ -18,24 +63,6 @@
       "published": "2026-03-17T04:39:42Z",
       "id": "64479cd2c500e3ac2006ea39d96c5881",
       "comments": "https://news.ycombinator.com/item?id=47408703"
-    },
-    {
-      "title": "Monkey Island for Commodore 64 Ground Up",
-      "link": "https://pixeldust.se/monkey-island-project",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T04:00:28Z",
-      "id": "0fc50f4d45fedcb0363b4b88026fd3e4",
-      "comments": "https://news.ycombinator.com/item?id=47408441"
-    },
-    {
-      "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
-      "link": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T03:46:22Z",
-      "id": "1da1d47ada501bd77d01040d2e19012a",
-      "comments": "https://news.ycombinator.com/item?id=47408360"
     },
     {
       "title": "Every layer of review makes you 10x slower",
@@ -110,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47401809"
     },
     {
-      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "link": "https://arxiv.org/abs/2511.04427",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T17:07:37Z",
-      "id": "4d07145633e0d5350a1204f768c9d380",
-      "comments": "https://news.ycombinator.com/item?id=47401734"
-    },
-    {
       "title": "AirPods Max 2",
       "link": "https://www.apple.com/airpods-max/",
       "source": "Hacker News",
@@ -135,15 +153,6 @@
       "published": "2026-03-16T13:09:58Z",
       "id": "5899df39f4caa9ad5d103dd1b36bef27",
       "comments": "https://news.ycombinator.com/item?id=47398534"
-    },
-    {
-      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
-      "link": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T12:00:06Z",
-      "id": "76f8a87fa1fcbd5708597321d239a7a1",
-      "comments": "https://news.ycombinator.com/item?id=47397822"
     },
     {
       "title": "Why I love FreeBSD",
@@ -164,13 +173,13 @@
       "comments": "https://news.ycombinator.com/item?id=47396264"
     },
     {
-      "title": "The bureaucracy blocking the chance at a cure",
-      "link": "https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance",
+      "title": "Gummy Geometry",
+      "link": "https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-15T18:32:27Z",
-      "id": "f5d326637ea19fd5870a423b1f8505a1",
-      "comments": "https://news.ycombinator.com/item?id=47390345"
+      "published": "2026-03-13T19:31:56Z",
+      "id": "49d5ff4afae1dcc1c4ef8a4bcb781225",
+      "comments": "https://news.ycombinator.com/item?id=47368660"
     },
     {
       "title": "Pyodide: a Python distribution based on WebAssembly",
@@ -182,13 +191,13 @@
       "comments": "https://news.ycombinator.com/item?id=47367298"
     },
     {
-      "title": "Show HN: Thermal Receipt Printers \u2013 Markdown and Web UI",
-      "link": "https://github.com/sadreck/ThermalMarky",
+      "title": "Font Smuggler \u2013 copy hidden brand fonts into Google Docs",
+      "link": "https://brianmoore.com/fontsmuggler/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-13T16:49:01Z",
-      "id": "304d15b11af6b787f6d4b338c4b40569",
-      "comments": "https://news.ycombinator.com/item?id=47366766"
+      "published": "2026-03-13T16:35:44Z",
+      "id": "c89fbb27bcd5f14082933dca77a2d031",
+      "comments": "https://news.ycombinator.com/item?id=47366616"
     },
     {
       "title": "The unlikely story of Teardown Multiplayer",
@@ -236,15 +245,6 @@
       "comments": "https://news.ycombinator.com/item?id=47361151"
     },
     {
-      "title": "Show HN: Droeftoeter, a Terminal Coding Toy",
-      "link": "https://github.com/whtspc/droeftoeter",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-13T04:16:26Z",
-      "id": "27d5aa700bc550c61225d5a2277645bb",
-      "comments": "https://news.ycombinator.com/item?id=47360633"
-    },
-    {
       "title": "Gitana 18: the new flying Ultim trimaran",
       "link": "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran",
       "source": "Hacker News",
@@ -254,15 +254,6 @@
       "comments": "https://news.ycombinator.com/item?id=47360293"
     },
     {
-      "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
-      "link": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-13T01:38:44Z",
-      "id": "6cfb0929a44b4789f4313e60be36f064",
-      "comments": "https://news.ycombinator.com/item?id=47359712"
-    },
-    {
       "title": "In space, no one can hear you kernel panic (2020)",
       "link": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
       "source": "Hacker News",
@@ -270,6 +261,15 @@
       "published": "2026-03-13T00:02:00Z",
       "id": "598b6d46c81ba440f6082368d4e2678e",
       "comments": "https://news.ycombinator.com/item?id=47359010"
+    },
+    {
+      "title": "What CI looks like at a 100-person team (PostHog)",
+      "link": "https://www.mendral.com/blog/ci-at-scale",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-12T15:50:09Z",
+      "id": "cd5cdb7a9858a03cefb15ed932038b47",
+      "comments": "https://news.ycombinator.com/item?id=47352578"
     }
   ]
 }
