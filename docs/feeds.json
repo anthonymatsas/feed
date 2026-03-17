@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-03-17T04:48:47.993242Z",
+  "last_updated": "2026-03-17T06:58:59.946755Z",
   "items": [
     {
-      "title": "Zenclora OS",
-      "link": "https://zenclora.org/",
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-17T04:10:31Z",
-      "id": "7f5fcc8d66d373684e88f4f0e157248c",
-      "comments": "https://news.ycombinator.com/item?id=47408497"
+      "published": "2026-03-17T04:39:42Z",
+      "id": "64479cd2c500e3ac2006ea39d96c5881",
+      "comments": "https://news.ycombinator.com/item?id=47408703"
     },
     {
       "title": "Monkey Island for Commodore 64 Ground Up",
@@ -128,15 +128,6 @@
       "comments": "https://news.ycombinator.com/item?id=47400868"
     },
     {
-      "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
-      "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T15:25:36Z",
-      "id": "beb7a6dc0b7bce92772ab9f63da97144",
-      "comments": "https://news.ycombinator.com/item?id=47400261"
-    },
-    {
       "title": "AirPods Max 2",
       "link": "https://www.apple.com/airpods-max/",
       "source": "Hacker News",
@@ -153,6 +144,15 @@
       "published": "2026-03-16T13:09:58Z",
       "id": "5899df39f4caa9ad5d103dd1b36bef27",
       "comments": "https://news.ycombinator.com/item?id=47398534"
+    },
+    {
+      "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
+      "link": "https://github.com/emin-ozata/lazycut",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-16T12:05:08Z",
+      "id": "4157c9d8c015c5b4765ee7c9a1e86eb4",
+      "comments": "https://news.ycombinator.com/item?id=47397857"
     },
     {
       "title": "Polymarket gamblers threaten to kill me over Iran missile story",
@@ -209,6 +209,15 @@
       "comments": "https://news.ycombinator.com/item?id=47366766"
     },
     {
+      "title": "Claude Tips for 3D Work",
+      "link": "https://www.davesnider.com/posts/claude-3d",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T14:53:10Z",
+      "id": "e46dcdcd4f4d41f53c2ac041412a6730",
+      "comments": "https://news.ycombinator.com/item?id=47365299"
+    },
+    {
       "title": "Show HN: Oxyde \u2013 Pydantic-native async ORM with a Rust core",
       "link": "https://github.com/mr-fatalyst/oxyde",
       "source": "Hacker News",
@@ -216,6 +225,24 @@
       "published": "2026-03-13T13:35:12Z",
       "id": "79165355642e2c65cfc4907a854ee0c4",
       "comments": "https://news.ycombinator.com/item?id=47364260"
+    },
+    {
+      "title": "Sci-Fi Short Film \"There Is No Antimemetics Division\" [video]",
+      "link": "https://www.youtube.com/watch?v=3v8AsTHfAG0",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T11:44:27Z",
+      "id": "ad39bbd5b14ed30c466ca8b7bef55990",
+      "comments": "https://news.ycombinator.com/item?id=47363133"
+    },
+    {
+      "title": "Gitana 18: the new flying Ultim trimaran",
+      "link": "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T03:16:08Z",
+      "id": "f81c6b21c1e2b403f219bf8bdc701dd2",
+      "comments": "https://news.ycombinator.com/item?id=47360293"
     },
     {
       "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
@@ -243,33 +270,6 @@
       "published": "2026-03-12T18:24:10Z",
       "id": "3c1df1eab82514084bf5ec17129af6af",
       "comments": "https://news.ycombinator.com/item?id=47355100"
-    },
-    {
-      "title": "Lf-lean: The frontier of verified software engineering",
-      "link": "https://theorem.dev/blog/lf-lean/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-12T15:37:37Z",
-      "id": "03394a9783967740eacd13aa4da3b7cc",
-      "comments": "https://news.ycombinator.com/item?id=47352353"
-    },
-    {
-      "title": "Home Assistant waters my plants",
-      "link": "https://finnian.io/blog/home-assistant-waters-my-plants/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-12T10:19:14Z",
-      "id": "2c902dd75a07428ad2798412414f834d",
-      "comments": "https://news.ycombinator.com/item?id=47348652"
-    },
-    {
-      "title": "On The Need For Understanding",
-      "link": "https://blog.information-superhighway.net/on-the-need-for-understanding",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-12T00:53:12Z",
-      "id": "c244590e304d40c391069b82e2956890",
-      "comments": "https://news.ycombinator.com/item?id=47344821"
     }
   ]
 }
