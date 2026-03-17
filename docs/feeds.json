@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-03-17T01:50:02.337151Z",
+  "last_updated": "2026-03-17T04:48:47.993242Z",
   "items": [
+    {
+      "title": "Zenclora OS",
+      "link": "https://zenclora.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T04:10:31Z",
+      "id": "7f5fcc8d66d373684e88f4f0e157248c",
+      "comments": "https://news.ycombinator.com/item?id=47408497"
+    },
+    {
+      "title": "Monkey Island for Commodore 64 Ground Up",
+      "link": "https://pixeldust.se/monkey-island-project",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T04:00:28Z",
+      "id": "0fc50f4d45fedcb0363b4b88026fd3e4",
+      "comments": "https://news.ycombinator.com/item?id=47408441"
+    },
+    {
+      "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
+      "link": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T03:46:22Z",
+      "id": "1da1d47ada501bd77d01040d2e19012a",
+      "comments": "https://news.ycombinator.com/item?id=47408360"
+    },
+    {
+      "title": "Every layer of review makes you 10x slower",
+      "link": "https://apenwarr.ca/log/20260316",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T03:20:36Z",
+      "id": "812392e9536b7f1ab9a2fc9a13acc9fb",
+      "comments": "https://news.ycombinator.com/item?id=47408205"
+    },
     {
       "title": "US SEC preparing to scrap quarterly reporting requirement",
       "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
@@ -9,15 +45,6 @@
       "published": "2026-03-17T00:02:35Z",
       "id": "52f6291cd2614033414243012583574f",
       "comments": "https://news.ycombinator.com/item?id=47406779"
-    },
-    {
-      "title": "Show HN: Trackm, a personal finance web app",
-      "link": "https://trackm.net",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T23:36:43Z",
-      "id": "931d5e1c69ef9173caf2a27ecbe47a03",
-      "comments": "https://news.ycombinator.com/item?id=47406569"
     },
     {
       "title": "AnswerThis (YC F25) Is Hiring",
@@ -29,6 +56,15 @@
       "comments": "https://news.ycombinator.com/item?id=47404801"
     },
     {
+      "title": "Beyond has dropped \u201cmeat\u201d from its name and expanded its high-protein drink line",
+      "link": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-16T20:59:49Z",
+      "id": "e1758d275100156af1b93e588d4bcdf9",
+      "comments": "https://news.ycombinator.com/item?id=47404798"
+    },
+    {
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "link": "https://mistral.ai/news/leanstral",
       "source": "Hacker News",
@@ -36,15 +72,6 @@
       "published": "2026-03-16T20:59:40Z",
       "id": "9e9b585564df5f39caac59e1fb53e671",
       "comments": "https://news.ycombinator.com/item?id=47404796"
-    },
-    {
-      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T20:01:02Z",
-      "id": "d99e49b0a55219ccdcb504466add2ac8",
-      "comments": "https://news.ycombinator.com/item?id=47404074"
     },
     {
       "title": "Meta\u2019s renewed commitment to jemalloc",
@@ -56,12 +83,12 @@
       "comments": "https://news.ycombinator.com/item?id=47402640"
     },
     {
-      "title": "Language Model Teams as Distrbuted Systems",
+      "title": "Language model teams as distributed systems",
       "link": "https://arxiv.org/abs/2603.12229",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-16T17:19:13Z",
-      "id": "d5b27bad4fd2d5ecc1911d7b43a99af5",
+      "id": "b67efe242df7e93564d63d69a22d435e",
       "comments": "https://news.ycombinator.com/item?id=47401901"
     },
     {
@@ -74,12 +101,12 @@
       "comments": "https://news.ycombinator.com/item?id=47401879"
     },
     {
-      "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
+      "title": "The American Healthcare Conundrum",
       "link": "https://github.com/rexrodeo/american-healthcare-conundrum",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-16T17:13:27Z",
-      "id": "4416365816a60b3e03ed4fee182411a5",
+      "id": "2e37fd0942c7d2479ee27e0e9ec01b80",
       "comments": "https://news.ycombinator.com/item?id=47401809"
     },
     {
@@ -110,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47400261"
     },
     {
-      "title": "US Job Market Visualizer",
-      "link": "https://karpathy.ai/jobs/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T15:10:30Z",
-      "id": "432cc07e9c0340aff8fba29b6754b0e7",
-      "comments": "https://news.ycombinator.com/item?id=47400060"
-    },
-    {
       "title": "AirPods Max 2",
       "link": "https://www.apple.com/airpods-max/",
       "source": "Hacker News",
@@ -137,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47398534"
     },
     {
-      "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
-      "link": "https://github.com/emin-ozata/lazycut",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T12:05:08Z",
-      "id": "4157c9d8c015c5b4765ee7c9a1e86eb4",
-      "comments": "https://news.ycombinator.com/item?id=47397857"
-    },
-    {
       "title": "Polymarket gamblers threaten to kill me over Iran missile story",
       "link": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
       "source": "Hacker News",
@@ -153,15 +162,6 @@
       "published": "2026-03-16T12:00:06Z",
       "id": "76f8a87fa1fcbd5708597321d239a7a1",
       "comments": "https://news.ycombinator.com/item?id=47397822"
-    },
-    {
-      "title": "Corruption erodes social trust more in democracies than in autocracies",
-      "link": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-16T11:25:31Z",
-      "id": "8369adf0e78899e5cfacdba14bcf452c",
-      "comments": "https://news.ycombinator.com/item?id=47397593"
     },
     {
       "title": "Why I love FreeBSD",
@@ -182,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47396264"
     },
     {
-      "title": "Cert Authorities Check for DNSSEC from Today",
-      "link": "https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-15T22:10:47Z",
-      "id": "345d48ab287039a0c07aef3d2a3413da",
-      "comments": "https://news.ycombinator.com/item?id=47392510"
-    },
-    {
       "title": "The bureaucracy blocking the chance at a cure",
       "link": "https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance",
       "source": "Hacker News",
@@ -198,6 +189,15 @@
       "published": "2026-03-15T18:32:27Z",
       "id": "f5d326637ea19fd5870a423b1f8505a1",
       "comments": "https://news.ycombinator.com/item?id=47390345"
+    },
+    {
+      "title": "Pyodide: a Python distribution based on WebAssembly",
+      "link": "https://github.com/pyodide/pyodide",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-13T17:34:45Z",
+      "id": "16a50184a8d4ed782d65841c5605cfa2",
+      "comments": "https://news.ycombinator.com/item?id=47367298"
     },
     {
       "title": "Show HN: Thermal Receipt Printers \u2013 Markdown and Web UI",
@@ -227,12 +227,12 @@
       "comments": "https://news.ycombinator.com/item?id=47359712"
     },
     {
-      "title": "In space, no one can hear you kernel panic",
+      "title": "In space, no one can hear you kernel panic (2020)",
       "link": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-13T00:02:00Z",
-      "id": "6614e1c97d6054fa78098397db1ac7f7",
+      "id": "598b6d46c81ba440f6082368d4e2678e",
       "comments": "https://news.ycombinator.com/item?id=47359010"
     },
     {
@@ -243,6 +243,15 @@
       "published": "2026-03-12T18:24:10Z",
       "id": "3c1df1eab82514084bf5ec17129af6af",
       "comments": "https://news.ycombinator.com/item?id=47355100"
+    },
+    {
+      "title": "Lf-lean: The frontier of verified software engineering",
+      "link": "https://theorem.dev/blog/lf-lean/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-12T15:37:37Z",
+      "id": "03394a9783967740eacd13aa4da3b7cc",
+      "comments": "https://news.ycombinator.com/item?id=47352353"
     },
     {
       "title": "Home Assistant waters my plants",
@@ -261,15 +270,6 @@
       "published": "2026-03-12T00:53:12Z",
       "id": "c244590e304d40c391069b82e2956890",
       "comments": "https://news.ycombinator.com/item?id=47344821"
-    },
-    {
-      "title": "Kona EV Hacking",
-      "link": "http://techno-fandom.org/~hobbit/cars/ev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-11T21:26:16Z",
-      "id": "de8522a664cbf95d4d4ddd5f145c59b1",
-      "comments": "https://news.ycombinator.com/item?id=47342185"
     }
   ]
 }
