@@ -1,23 +1,41 @@
 {
-  "last_updated": "2026-03-18T06:57:27.472633Z",
+  "last_updated": "2026-03-18T09:49:51.196577Z",
   "items": [
     {
-      "title": "Switzerland Built an Alternative to BGP",
-      "link": "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+      "title": "Animation 10k Starlink Satellites",
+      "link": "https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-18T05:44:23Z",
-      "id": "4240798d351f3fc3c8e96a5a0a0f7e01",
-      "comments": "https://news.ycombinator.com/item?id=47421946"
+      "published": "2026-03-18T07:02:55Z",
+      "id": "ff6d395f2c250ad8fb13906321f694be",
+      "comments": "https://news.ycombinator.com/item?id=47422437"
     },
     {
-      "title": "SSH has no Host header",
-      "link": "https://blog.exe.dev/ssh-host-header",
+      "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
+      "link": "https://ndea.com/jobs/search-guidance",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-18T05:18:02Z",
-      "id": "7291c93477079aad309484a5d7f80ede",
-      "comments": "https://news.ycombinator.com/item?id=47421828"
+      "published": "2026-03-18T07:00:13Z",
+      "id": "7bd3c30e72acd092a4facd7fa6376ee3",
+      "comments": "https://news.ycombinator.com/item?id=47422408"
+    },
+    {
+      "title": "Celebrating Tony Hoare's mark on computer science",
+      "link": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-18T06:31:14Z",
+      "id": "db9bf302d42a42c62d9086c4384365f3",
+      "comments": "https://news.ycombinator.com/item?id=47422228"
+    },
+    {
+      "title": "Review of Microsoft's ClearType Font Collection (2005)",
+      "link": "https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-18T04:44:12Z",
+      "id": "c25087b1bc7cd7aec6733ea668086cb8",
+      "comments": "https://news.ycombinator.com/item?id=47421670"
     },
     {
       "title": "Forget Flags and Scripts: Just Rename the File",
@@ -29,12 +47,12 @@
       "comments": "https://news.ycombinator.com/item?id=47421513"
     },
     {
-      "title": "Have a Fucking Website",
+      "title": "Have a fucking website",
       "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-18T03:53:42Z",
-      "id": "a711cd939dab6f78ad3d76f8a0a4ebf9",
+      "id": "29fb4431e7c1d5a7d50776ead25d39e3",
       "comments": "https://news.ycombinator.com/item?id=47421442"
     },
     {
@@ -119,24 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47416486"
     },
     {
-      "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
-      "link": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T18:01:50Z",
-      "id": "e61f9a301eb84956555076f49a4f2db7",
-      "comments": "https://news.ycombinator.com/item?id=47416081"
-    },
-    {
-      "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
-      "link": "https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T17:00:50Z",
-      "id": "d7b27749ed8cec39eeab00d3a1c6ab89",
-      "comments": "https://news.ycombinator.com/item?id=47415350"
-    },
-    {
       "title": "Unsloth Studio",
       "link": "https://unsloth.ai/docs/new/studio",
       "source": "Hacker News",
@@ -173,13 +173,13 @@
       "comments": "https://news.ycombinator.com/item?id=47411480"
     },
     {
-      "title": "Kagi Small Web",
-      "link": "https://kagi.com/smallweb/",
+      "title": "Show HN: Pgit \u2013 A Git-like CLI backed by PostgreSQL",
+      "link": "https://oseifert.ch/blog/building-pgit",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-17T09:53:53Z",
-      "id": "fb447e1726a7a3cb0eaa735b76453161",
-      "comments": "https://news.ycombinator.com/item?id=47410542"
+      "published": "2026-03-17T06:11:17Z",
+      "id": "cc093255b59686a7c8b089f51b56a6f4",
+      "comments": "https://news.ycombinator.com/item?id=47409222"
     },
     {
       "title": "I Simulated 38,612 Countryle Games to Find the Best Strategy",
@@ -191,6 +191,15 @@
       "comments": "https://news.ycombinator.com/item?id=47397605"
     },
     {
+      "title": "Write up of my homebrew CPU build",
+      "link": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-15T17:36:48Z",
+      "id": "70f0802569ec9a0648ae54a9831a95f4",
+      "comments": "https://news.ycombinator.com/item?id=47389696"
+    },
+    {
       "title": "Honda is killing its EVs",
       "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
       "source": "Hacker News",
@@ -198,6 +207,15 @@
       "published": "2026-03-15T13:38:08Z",
       "id": "6fa7a9dc088bb031068a7718a6fd70aa",
       "comments": "https://news.ycombinator.com/item?id=47387268"
+    },
+    {
+      "title": "Aggregated File System (AGFS), a modern tribute to the spirit of Plan 9",
+      "link": "https://github.com/c4pt0r/agfs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-15T06:00:34Z",
+      "id": "4fdb21375de9bfc94565a9897331c6a3",
+      "comments": "https://news.ycombinator.com/item?id=47384715"
     },
     {
       "title": "Leviathan (1651)",
@@ -209,15 +227,6 @@
       "comments": "https://news.ycombinator.com/item?id=47384653"
     },
     {
-      "title": "Arno's Engram Keyboard Layouts",
-      "link": "https://github.com/binarybottle/engram",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-14T01:47:56Z",
-      "id": "34cf9462567f5bc62258154a4b0a7ab4",
-      "comments": "https://news.ycombinator.com/item?id=47372473"
-    },
-    {
       "title": "JPEG Compression",
       "link": "https://www.sophielwang.com/blog/jpeg",
       "source": "Hacker News",
@@ -227,22 +236,13 @@
       "comments": "https://news.ycombinator.com/item?id=47372367"
     },
     {
-      "title": "Show HN: I built an interactive 3D three-body problem simulator in the browser",
-      "link": "https://structuredlabs.github.io/threebodyproblem/",
+      "title": "(Media over QUIC) on a Boat",
+      "link": "https://moq.dev/blog/on-a-boat/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-14T00:43:27Z",
-      "id": "3f725257ce442474c75125eaeaac8521",
-      "comments": "https://news.ycombinator.com/item?id=47372020"
-    },
-    {
-      "title": "Show HN: Fatal Core Dump \u2013 A debugging murder mystery played with GDB",
-      "link": "https://www.robopenguins.com/fatal_core_dump/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-14T00:12:44Z",
-      "id": "e82dbe06ac67f3d05c62adee846b5ca6",
-      "comments": "https://news.ycombinator.com/item?id=47371785"
+      "published": "2026-03-14T00:50:20Z",
+      "id": "98dc97f74ab4242ec115f595ba7ed351",
+      "comments": "https://news.ycombinator.com/item?id=47372072"
     },
     {
       "title": "Electron microscopy shows \u2018mouse bite\u2019 defects in semiconductors",
