@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-03-18T04:53:16.702895Z",
+  "last_updated": "2026-03-18T06:57:27.472633Z",
   "items": [
+    {
+      "title": "Switzerland Built an Alternative to BGP",
+      "link": "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-18T05:44:23Z",
+      "id": "4240798d351f3fc3c8e96a5a0a0f7e01",
+      "comments": "https://news.ycombinator.com/item?id=47421946"
+    },
+    {
+      "title": "SSH has no Host header",
+      "link": "https://blog.exe.dev/ssh-host-header",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-18T05:18:02Z",
+      "id": "7291c93477079aad309484a5d7f80ede",
+      "comments": "https://news.ycombinator.com/item?id=47421828"
+    },
+    {
+      "title": "Forget Flags and Scripts: Just Rename the File",
+      "link": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-18T04:11:20Z",
+      "id": "0f2651b29518970417a1215a36a536e6",
+      "comments": "https://news.ycombinator.com/item?id=47421513"
+    },
     {
       "title": "Have a Fucking Website",
       "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
@@ -83,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47416736"
     },
     {
-      "title": "Java 26 is here",
-      "link": "https://hanno.codes/2026/03/17/java-26-is-here/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T18:44:09Z",
-      "id": "f64ae2a9eb0a62d2568498022b5fd290",
-      "comments": "https://news.ycombinator.com/item?id=47416548"
-    },
-    {
       "title": "Python 3.15's JIT is now back on track",
       "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
       "source": "Hacker News",
@@ -119,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47415350"
     },
     {
-      "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-      "link": "https://theasc.com/articles/the-secret-agent-cinematography",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T15:56:09Z",
-      "id": "c13b821c52b050f1a0f63dd0e7fce1e2",
-      "comments": "https://news.ycombinator.com/item?id=47414440"
-    },
-    {
       "title": "Unsloth Studio",
       "link": "https://unsloth.ai/docs/new/studio",
       "source": "Hacker News",
@@ -144,24 +153,6 @@
       "published": "2026-03-17T15:16:29Z",
       "id": "591c49f98f9ea04a0bab651809ef871f",
       "comments": "https://news.ycombinator.com/item?id=47413876"
-    },
-    {
-      "title": "Node.js needs a virtual file system",
-      "link": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T14:28:37Z",
-      "id": "aaeb6e50cf2d05c21441ef0dd9c57d60",
-      "comments": "https://news.ycombinator.com/item?id=47413195"
-    },
-    {
-      "title": "OpenSUSE Kalpa",
-      "link": "https://kalpadesktop.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T13:54:17Z",
-      "id": "4b290f7f713126dd1db5585ad69fe7a9",
-      "comments": "https://news.ycombinator.com/item?id=47412726"
     },
     {
       "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
@@ -191,6 +182,15 @@
       "comments": "https://news.ycombinator.com/item?id=47410542"
     },
     {
+      "title": "I Simulated 38,612 Countryle Games to Find the Best Strategy",
+      "link": "https://stoffregen.io/posts/countryle/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-16T11:27:47Z",
+      "id": "d0cabca7d8ee0bba332edc836e787479",
+      "comments": "https://news.ycombinator.com/item?id=47397605"
+    },
+    {
       "title": "Honda is killing its EVs",
       "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
       "source": "Hacker News",
@@ -200,12 +200,12 @@
       "comments": "https://news.ycombinator.com/item?id=47387268"
     },
     {
-      "title": "Leviathan",
+      "title": "Leviathan (1651)",
       "link": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-15T05:46:35Z",
-      "id": "51bbcad916bfe8941266a9ba9df82e64",
+      "id": "51c9edf6840fa3e8997e098d697d5f6e",
       "comments": "https://news.ycombinator.com/item?id=47384653"
     },
     {
@@ -216,6 +216,15 @@
       "published": "2026-03-14T01:47:56Z",
       "id": "34cf9462567f5bc62258154a4b0a7ab4",
       "comments": "https://news.ycombinator.com/item?id=47372473"
+    },
+    {
+      "title": "JPEG Compression",
+      "link": "https://www.sophielwang.com/blog/jpeg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-14T01:31:48Z",
+      "id": "a72b133844668e0f795ef85ce1d52d02",
+      "comments": "https://news.ycombinator.com/item?id=47372367"
     },
     {
       "title": "Show HN: I built an interactive 3D three-body problem simulator in the browser",
@@ -236,12 +245,12 @@
       "comments": "https://news.ycombinator.com/item?id=47371785"
     },
     {
-      "title": "Electron microscopy shows 'mouse bite' defects in semiconductors",
+      "title": "Electron microscopy shows \u2018mouse bite\u2019 defects in semiconductors",
       "link": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-13T23:30:08Z",
-      "id": "34ecfbb965917faee8a848c905d90569",
+      "id": "270f6f2e6cb3e61335e294fd6eb74646",
       "comments": "https://news.ycombinator.com/item?id=47371404"
     },
     {
@@ -261,15 +270,6 @@
       "published": "2026-03-13T19:14:46Z",
       "id": "26823e3bd3cacca8f5fadbae48496e24",
       "comments": "https://news.ycombinator.com/item?id=47368425"
-    },
-    {
-      "title": "The Starving Time in Jamestown",
-      "link": "https://www.historytoday.com/archive/history-matters/starving-time-jamestown",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-13T16:03:28Z",
-      "id": "9ddbf06c793aad23807269d1a6cdfe0b",
-      "comments": "https://news.ycombinator.com/item?id=47366256"
     }
   ]
 }
