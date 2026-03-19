@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-03-19T06:53:36.982801Z",
+  "last_updated": "2026-03-19T09:38:50.353518Z",
   "items": [
+    {
+      "title": "Eniac, the First General-Purpose Digital Computer, Turns 80",
+      "link": "https://spectrum.ieee.org/eniac-80-ieee-milestone",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-19T05:53:04Z",
+      "id": "0bf6d1dcf2f90b4fe0feb3e6c23729ff",
+      "comments": "https://news.ycombinator.com/item?id=47435453"
+    },
     {
       "title": "What 81,000 people want from AI",
       "link": "https://www.anthropic.com/features/81k-interviews",
@@ -27,15 +36,6 @@
       "published": "2026-03-19T03:31:01Z",
       "id": "c723868fb4b8b45a96b5ebdf7f426b0d",
       "comments": "https://news.ycombinator.com/item?id=47434567"
-    },
-    {
-      "title": "We Have Learned Nothing",
-      "link": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-19T02:53:37Z",
-      "id": "bc951e2313abe30ee55c9738ed160313",
-      "comments": "https://news.ycombinator.com/item?id=47434311"
     },
     {
       "title": "A sufficiently detailed spec is code",
@@ -92,6 +92,15 @@
       "comments": "https://news.ycombinator.com/item?id=47431930"
     },
     {
+      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
+      "link": "https://github.com/alainnothere/llm-circuit-finder",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-18T21:31:12Z",
+      "id": "c393cc590c003adb356f3a4e00dfcf8b",
+      "comments": "https://news.ycombinator.com/item?id=47431671"
+    },
+    {
       "title": "Warranty Void If Regenerated",
       "link": "https://nearzero.software/p/warranty-void-if-regenerated",
       "source": "Hacker News",
@@ -99,15 +108,6 @@
       "published": "2026-03-18T20:45:54Z",
       "id": "629057e28787c7c4d76ac92c8afa4db3",
       "comments": "https://news.ycombinator.com/item?id=47431237"
-    },
-    {
-      "title": "Show HN: Playing LongTurn FreeCiv with Friends",
-      "link": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-18T19:01:54Z",
-      "id": "256b521ff4d966b2433ba509226c54b7",
-      "comments": "https://news.ycombinator.com/item?id=47429988"
     },
     {
       "title": "Show HN: Will my flight have Starlink?",
@@ -146,15 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=47427027"
     },
     {
-      "title": "Machine Payments Protocol (MPP)",
-      "link": "https://stripe.com/blog/machine-payments-protocol",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-18T15:24:12Z",
-      "id": "ff72edbcb3715f783aa166d6aeacc49f",
-      "comments": "https://news.ycombinator.com/item?id=47426936"
-    },
-    {
       "title": "OpenAI Has New Focus (on the IPO)",
       "link": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
       "source": "Hacker News",
@@ -182,6 +173,15 @@
       "comments": "https://news.ycombinator.com/item?id=47422759"
     },
     {
+      "title": "Stdwin: Standard window interface by Guido Van Rossum [pdf]",
+      "link": "https://ir.cwi.nl/pub/5998/5998D.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T14:48:01Z",
+      "id": "33467f1488c3d23f7f8958d0f45ebd9f",
+      "comments": "https://news.ycombinator.com/item?id=47413475"
+    },
+    {
       "title": "The math that explains why bell curves are everywhere",
       "link": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
       "source": "Hacker News",
@@ -198,6 +198,15 @@
       "published": "2026-03-16T12:06:32Z",
       "id": "e1c6feeb3c7339ac29beff97e1d1eca3",
       "comments": "https://news.ycombinator.com/item?id=47397862"
+    },
+    {
+      "title": "Why Cloudflare rule order matters?",
+      "link": "https://www.brzozowski.io/web-applications/2025/03/11/why-cloudflare-rule-order-matters.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-16T09:51:18Z",
+      "id": "3bac3d8b9bc476b7fafa7c9bd538f18b",
+      "comments": "https://news.ycombinator.com/item?id=47396973"
     },
     {
       "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
@@ -245,13 +254,13 @@
       "comments": "https://news.ycombinator.com/item?id=47385439"
     },
     {
-      "title": "Framework doesn't matter",
-      "link": "https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/",
+      "title": "Show HN: Pano, a bookmarking tool built around shareable shelves",
+      "link": "https://www.panoit.com",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-14T22:14:26Z",
-      "id": "d17a54d2ce1ca38a1e5839a53d1419ef",
-      "comments": "https://news.ycombinator.com/item?id=47381834"
+      "published": "2026-03-15T00:56:43Z",
+      "id": "ca09f43a846acc387efd912b08607da9",
+      "comments": "https://news.ycombinator.com/item?id=47383103"
     },
     {
       "title": "Book: The Emerging Science of Machine Learning Benchmarks",
@@ -261,15 +270,6 @@
       "published": "2026-03-14T20:15:03Z",
       "id": "3f4d8a6fe2d03de3540d4a2223bcfa38",
       "comments": "https://news.ycombinator.com/item?id=47380714"
-    },
-    {
-      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
-      "link": "https://huggingface.co/datasets/open-index/hacker-news",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-14T17:12:03Z",
-      "id": "2f88ab0dd126f138008fe7e225ed0a46",
-      "comments": "https://news.ycombinator.com/item?id=47378781"
     }
   ]
 }
