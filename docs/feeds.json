@@ -1,14 +1,41 @@
 {
-  "last_updated": "2026-03-19T01:54:59.095875Z",
+  "last_updated": "2026-03-19T04:50:52.636035Z",
   "items": [
     {
-      "title": "Ask HN: How do you deal with people who trust LLMs?",
-      "link": "https://news.ycombinator.com/item?id=47433702",
+      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+      "link": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-19T01:37:35Z",
-      "id": "9e0ed6aebd4a9f4492b16dcc15908d37",
-      "comments": "https://news.ycombinator.com/item?id=47433702"
+      "published": "2026-03-19T03:31:01Z",
+      "id": "c723868fb4b8b45a96b5ebdf7f426b0d",
+      "comments": "https://news.ycombinator.com/item?id=47434567"
+    },
+    {
+      "title": "We Have Learned Nothing",
+      "link": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-19T02:53:37Z",
+      "id": "bc951e2313abe30ee55c9738ed160313",
+      "comments": "https://news.ycombinator.com/item?id=47434311"
+    },
+    {
+      "title": "A sufficiently detailed spec is code",
+      "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-19T02:23:17Z",
+      "id": "5a9114baf1454bd86680f414bc3e0a42",
+      "comments": "https://news.ycombinator.com/item?id=47434047"
+    },
+    {
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "link": "https://rjcorwin.github.io/cook/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-19T02:20:34Z",
+      "id": "5588863cb2a7d2a246190e9738c559c8",
+      "comments": "https://news.ycombinator.com/item?id=47434024"
     },
     {
       "title": "Autoresearch for SAT Solvers",
@@ -47,15 +74,6 @@
       "comments": "https://news.ycombinator.com/item?id=47431930"
     },
     {
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
-      "link": "https://github.com/alainnothere/llm-circuit-finder",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-18T21:31:12Z",
-      "id": "c393cc590c003adb356f3a4e00dfcf8b",
-      "comments": "https://news.ycombinator.com/item?id=47431671"
-    },
-    {
       "title": "Warranty Void If Regenerated",
       "link": "https://nearzero.software/p/warranty-void-if-regenerated",
       "source": "Hacker News",
@@ -72,15 +90,6 @@
       "published": "2026-03-18T19:01:54Z",
       "id": "256b521ff4d966b2433ba509226c54b7",
       "comments": "https://news.ycombinator.com/item?id=47429988"
-    },
-    {
-      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
-      "link": "https://tmux.thijsverreck.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-18T17:46:25Z",
-      "id": "4158768ab98f6b38fd292c7d57228f1d",
-      "comments": "https://news.ycombinator.com/item?id=47428868"
     },
     {
       "title": "Show HN: Will my flight have Starlink?",
@@ -128,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47426936"
     },
     {
-      "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
-      "link": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-18T14:14:02Z",
-      "id": "2b2f96f0bf7dc1c56a0723d5d1ef5faf",
-      "comments": "https://news.ycombinator.com/item?id=47426057"
-    },
-    {
       "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
       "link": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c",
       "source": "Hacker News",
@@ -144,15 +144,6 @@
       "published": "2026-03-18T12:52:47Z",
       "id": "5cf978168cc21f963f1de519b3a9fb72",
       "comments": "https://news.ycombinator.com/item?id=47425176"
-    },
-    {
-      "title": "Measuring progress toward AGI: A cognitive framework",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-18T11:44:44Z",
-      "id": "c4efd846e7b62d28f9e02562a5b6b676",
-      "comments": "https://news.ycombinator.com/item?id=47424458"
     },
     {
       "title": "OpenAI Has New Focus (on the IPO)",
@@ -182,15 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47423647"
     },
     {
-      "title": "Nightingale \u2013 open-source karaoke app that works with any song on your computer",
-      "link": "https://nightingale.cafe/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-18T08:06:24Z",
-      "id": "032f93d5bca771ddf9abc87c8a368440",
-      "comments": "https://news.ycombinator.com/item?id=47422942"
-    },
-    {
       "title": "Wander \u2013 A tiny, decentralised tool to explore the small web",
       "link": "https://susam.net/wander/",
       "source": "Hacker News",
@@ -209,13 +191,22 @@
       "comments": "https://news.ycombinator.com/item?id=47401489"
     },
     {
-      "title": "Explore 19th Century Scientific Correspondence",
-      "link": "https://epsilon.ac.uk/",
+      "title": "Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold",
+      "link": "https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-15T16:38:15Z",
-      "id": "60409eaa82f3da5abc78e21a4941306e",
-      "comments": "https://news.ycombinator.com/item?id=47389055"
+      "published": "2026-03-16T12:06:32Z",
+      "id": "e1c6feeb3c7339ac29beff97e1d1eca3",
+      "comments": "https://news.ycombinator.com/item?id=47397862"
+    },
+    {
+      "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
+      "link": "https://borderhold.io/play",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-16T08:51:10Z",
+      "id": "a7d93ab8094673b5076d271b173989c8",
+      "comments": "https://news.ycombinator.com/item?id=47396496"
     },
     {
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
@@ -243,6 +234,15 @@
       "published": "2026-03-15T12:20:14Z",
       "id": "1af8413818fca8ae48cff149a88ea384",
       "comments": "https://news.ycombinator.com/item?id=47386703"
+    },
+    {
+      "title": "LotusNotes",
+      "link": "https://computer.rip/2026-03-14-lotusnotes.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-15T08:40:59Z",
+      "id": "a5a16e918dd94fb75963edc77b26da95",
+      "comments": "https://news.ycombinator.com/item?id=47385439"
     },
     {
       "title": "Book: The Emerging Science of Machine Learning Benchmarks",
