@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-03-20T04:43:32.130118Z",
+  "last_updated": "2026-03-20T06:49:49.236383Z",
   "items": [
+    {
+      "title": "Kin: Semantic version control that tracks code as entities, not files",
+      "link": "https://github.com/firelock-ai/kin",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-20T04:31:01Z",
+      "id": "d20f0552778e09ee0e8bd4d0bffc8a5b",
+      "comments": "https://news.ycombinator.com/item?id=47450514"
+    },
+    {
+      "title": "ArXiv Declares Independence from Cornell",
+      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-20T04:24:11Z",
+      "id": "fe1f5999e5b264ab308da9c99745edef",
+      "comments": "https://news.ycombinator.com/item?id=47450478"
+    },
+    {
+      "title": "Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface",
+      "link": "https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-20T02:12:41Z",
+      "id": "528ed494fefae7e78b36d06310eb77bb",
+      "comments": "https://news.ycombinator.com/item?id=47449576"
+    },
     {
       "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
       "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
@@ -38,6 +65,15 @@
       "comments": "https://news.ycombinator.com/item?id=47448328"
     },
     {
+      "title": "Bombarding gamblers with offers greatly increases betting and gambling harm",
+      "link": "https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-19T22:59:18Z",
+      "id": "82dc6a4dc52386b232ffc6bd39b56158",
+      "comments": "https://news.ycombinator.com/item?id=47447600"
+    },
+    {
       "title": "Be intentional about how AI changes your codebase",
       "link": "https://aicode.swerdlow.dev",
       "source": "Hacker News",
@@ -45,15 +81,6 @@
       "published": "2026-03-19T21:23:24Z",
       "id": "ee1fb4041529bfba6a99fc50070b1378",
       "comments": "https://news.ycombinator.com/item?id=47446373"
-    },
-    {
-      "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
-      "link": "https://esolang-bench.vercel.app/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-19T21:01:03Z",
-      "id": "eaff2c2cc2311ec9a44a798f3912faf2",
-      "comments": "https://news.ycombinator.com/item?id=47446021"
     },
     {
       "title": "Cockpit is a web-based graphical interface for servers",
@@ -74,12 +101,12 @@
       "comments": "https://news.ycombinator.com/item?id=47445246"
     },
     {
-      "title": "Clockwise acquired by Salesforce and shutting down next week",
+      "title": "Clockwise acquired by Salesforce",
       "link": "https://www.getclockwise.com",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-19T19:50:51Z",
-      "id": "0ea92a6f372a1d518746ca991a3b21ae",
+      "id": "ab07c58da404c48ed24a4e253423520c",
       "comments": "https://news.ycombinator.com/item?id=47444906"
     },
     {
@@ -108,15 +135,6 @@
       "published": "2026-03-19T18:17:15Z",
       "id": "60a87c62c4257dfae549f3e187081c4d",
       "comments": "https://news.ycombinator.com/item?id=47443588"
-    },
-    {
-      "title": "An update on Steam / GOG changes for OpenTTD",
-      "link": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-19T17:27:17Z",
-      "id": "ddee69002f49a4d47ea536cc968f7254",
-      "comments": "https://news.ycombinator.com/item?id=47442834"
     },
     {
       "title": "Google details new 24-hour process to sideload unverified Android apps",
@@ -191,24 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=47438723"
     },
     {
-      "title": "Juggalo makeup blocks facial recognition technology (2019)",
-      "link": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-19T13:02:35Z",
-      "id": "d759d02473a006bf31d75ede7778ec9c",
-      "comments": "https://news.ycombinator.com/item?id=47438675"
-    },
-    {
-      "title": "\u201cYour frustration is the product\u201d",
-      "link": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-19T11:34:24Z",
-      "id": "f84527a095c0faf1ad2952bf6c84bd0c",
-      "comments": "https://news.ycombinator.com/item?id=47437655"
-    },
-    {
       "title": "How many branches can your CPU predict?",
       "link": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
       "source": "Hacker News",
@@ -225,6 +225,15 @@
       "published": "2026-03-18T12:28:44Z",
       "id": "287c94d88cd78ab8edc266be717f3f99",
       "comments": "https://news.ycombinator.com/item?id=47424881"
+    },
+    {
+      "title": "A Journey Through Infertility",
+      "link": "https://pudding.cool/2026/03/ivf/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T19:41:19Z",
+      "id": "60e80f89c887578ce6af3a396687e79a",
+      "comments": "https://news.ycombinator.com/item?id=47417269"
     },
     {
       "title": "How the Turner twins are mythbusting modern technical apparel",
@@ -245,13 +254,13 @@
       "comments": "https://news.ycombinator.com/item?id=47406160"
     },
     {
-      "title": "My Random Forest Was Mostly Learning Time-to-Expiry Noise",
-      "link": "https://illya.sh/threads/out-of-sample-permutation-feature-importance-for-random",
+      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+      "link": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-16T18:16:26Z",
-      "id": "5bf782bcd7a10f8b89d76ebb8e13031e",
-      "comments": "https://news.ycombinator.com/item?id=47402687"
+      "published": "2026-03-16T19:49:20Z",
+      "id": "d377d91bfbf5e57ce6148dd32b7c72bd",
+      "comments": "https://news.ycombinator.com/item?id=47403905"
     },
     {
       "title": "Last love: a romance in a care home (2023)",
@@ -261,15 +270,6 @@
       "published": "2026-03-16T15:59:10Z",
       "id": "c70496f5bb7ecff2ce4e30a5a9180f8e",
       "comments": "https://news.ycombinator.com/item?id=47400744"
-    },
-    {
-      "title": "Cover Flow with Modern CSS: Scroll-Driven Animations in Action (2025)",
-      "link": "https://addyosmani.com/blog/coverflow/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-15T22:05:24Z",
-      "id": "0a6d188c8e111991258495178e42eff7",
-      "comments": "https://news.ycombinator.com/item?id=47392457"
     }
   ]
 }
