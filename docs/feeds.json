@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-21T04:24:34.571934Z",
+  "last_updated": "2026-03-21T06:37:19.353176Z",
   "items": [
+    {
+      "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
+      "link": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-21T05:06:11Z",
+      "id": "af60a6c9a17e4e22847497edcad63fd3",
+      "comments": "https://news.ycombinator.com/item?id=47464134"
+    },
+    {
+      "title": "FFmpeg 101 (2024)",
+      "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-21T02:47:13Z",
+      "id": "6b01c5c04d23aa82eabe95e5d8a3d1c5",
+      "comments": "https://news.ycombinator.com/item?id=47463547"
+    },
     {
       "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
       "link": "https://www.purl.dev/",
@@ -56,15 +74,6 @@
       "comments": "https://news.ycombinator.com/item?id=47461094"
     },
     {
-      "title": "Show HN: Baltic shadow fleet tracker \u2013 live AIS, cable proximity alerts",
-      "link": "https://github.com/FormerLab/shadow-fleet-tracker-light",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-20T21:04:11Z",
-      "id": "8b69a36e115e3e35c7fa75fd4b214332",
-      "comments": "https://news.ycombinator.com/item?id=47460528"
-    },
-    {
       "title": "OpenCode \u2013 Open source AI coding agent",
       "link": "https://opencode.ai/",
       "source": "Hacker News",
@@ -108,24 +117,6 @@
       "published": "2026-03-20T18:23:41Z",
       "id": "d7570862227c4cca8c2c1ba43da668d3",
       "comments": "https://news.ycombinator.com/item?id=47458595"
-    },
-    {
-      "title": "Show HN: I made an email app inspired by Arc browser",
-      "link": "https://demo.define.app",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-20T18:06:20Z",
-      "id": "2eb30f67242f1740e6cd1e1061c598d5",
-      "comments": "https://news.ycombinator.com/item?id=47458348"
-    },
-    {
-      "title": "Meme Buildings",
-      "link": "https://misfitsarchitecture.com/2026/03/15/meme-buildings/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-20T15:55:40Z",
-      "id": "74aa2d9a30e0fd863f82eb936d78dbb8",
-      "comments": "https://news.ycombinator.com/item?id=47456421"
     },
     {
       "title": "Molly Guard",
@@ -191,6 +182,24 @@
       "comments": "https://news.ycombinator.com/item?id=47436287"
     },
     {
+      "title": "Fujifilm X RAW STUDIO webapp clone",
+      "link": "https://github.com/eggricesoy/filmkit",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-19T04:49:33Z",
+      "id": "a05f37645279c48a88eed1cd1c2807b7",
+      "comments": "https://news.ycombinator.com/item?id=47435081"
+    },
+    {
+      "title": "A look at content scrambling in DVDs",
+      "link": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-18T21:29:14Z",
+      "id": "d4799a3da3308aae68a0001c1544204f",
+      "comments": "https://news.ycombinator.com/item?id=47431653"
+    },
+    {
       "title": "The Ugliest Airplane: An Appreciation",
       "link": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
       "source": "Hacker News",
@@ -236,6 +245,15 @@
       "comments": "https://news.ycombinator.com/item?id=47423762"
     },
     {
+      "title": "Mamba-3",
+      "link": "https://www.together.ai/blog/mamba-3",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-17T22:45:12Z",
+      "id": "95434c34982059b347a9d3430bd5ab3b",
+      "comments": "https://news.ycombinator.com/item?id=47419391"
+    },
+    {
       "title": "The Los Angeles Aqueduct Is Wild",
       "link": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
       "source": "Hacker News",
@@ -252,24 +270,6 @@
       "published": "2026-03-17T10:39:55Z",
       "id": "b1f725dbadd52ff93dbb6bb79a2db956",
       "comments": "https://news.ycombinator.com/item?id=47410871"
-    },
-    {
-      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-      "link": "https://arxiv.org/abs/2603.09229",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T05:38:26Z",
-      "id": "8bc1bce81aaabb4ed0c5bceaab46da9d",
-      "comments": "https://news.ycombinator.com/item?id=47409055"
-    },
-    {
-      "title": "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
-      "link": "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T01:02:41Z",
-      "id": "2bd45577230c9835904de434044293af",
-      "comments": "https://news.ycombinator.com/item?id=47407293"
     }
   ]
 }
