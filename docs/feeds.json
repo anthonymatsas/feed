@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-03-21T01:43:39.631352Z",
+  "last_updated": "2026-03-21T04:24:34.571934Z",
   "items": [
     {
-      "title": "Woman in Labor at Florida Hospital Brought in Zoom Court for Refusing C-Section",
-      "link": "https://www.propublica.org/article/florida-court-hearing-c-section",
+      "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
+      "link": "https://www.purl.dev/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-21T00:31:51Z",
-      "id": "6e320866d9caffd872e921f65f311aa4",
-      "comments": "https://news.ycombinator.com/item?id=47462757"
+      "published": "2026-03-21T02:09:08Z",
+      "id": "24329c52b0de8c9889cfd023b3913424",
+      "comments": "https://news.ycombinator.com/item?id=47463354"
     },
     {
       "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
@@ -47,22 +47,13 @@
       "comments": "https://news.ycombinator.com/item?id=47461321"
     },
     {
-      "title": "We rewrote our Rust WASM Parser in TypeScript \u2013 and it got 3x Faster",
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
       "link": "https://www.openui.com/blog/rust-wasm-parser",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-20T21:48:06Z",
-      "id": "5ded9d55a2674a23499f6264e611da92",
+      "id": "dcf5891ec01a08ca318181621ee6a3c3",
       "comments": "https://news.ycombinator.com/item?id=47461094"
-    },
-    {
-      "title": "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
-      "link": "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-20T21:42:16Z",
-      "id": "7ba98888f07bc82997f8171c83bc83c0",
-      "comments": "https://news.ycombinator.com/item?id=47461018"
     },
     {
       "title": "Show HN: Baltic shadow fleet tracker \u2013 live AIS, cable proximity alerts",
@@ -74,13 +65,22 @@
       "comments": "https://news.ycombinator.com/item?id=47460528"
     },
     {
-      "title": "OpenCode \u2013 The open source AI coding agent",
+      "title": "OpenCode \u2013 Open source AI coding agent",
       "link": "https://opencode.ai/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-20T21:03:52Z",
-      "id": "c45c985f7ca25fa9ed115ad2ed455661",
+      "id": "35c8ea5f93d1a85d35defed68b126b8f",
       "comments": "https://news.ycombinator.com/item?id=47460525"
+    },
+    {
+      "title": "A Japanese glossary of chopsticks faux pas",
+      "link": "https://www.nippon.com/en/japan-data/h01362/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-20T20:54:57Z",
+      "id": "8fe5c2ee4adf56160b7e2bd75cd3b05c",
+      "comments": "https://news.ycombinator.com/item?id=47460452"
     },
     {
       "title": "NumKong: 2'000 Mixed Precision Kernels for All",
@@ -128,13 +128,13 @@
       "comments": "https://news.ycombinator.com/item?id=47456421"
     },
     {
-      "title": "The Social Smolnet",
-      "link": "https://ploum.net/2026-03-20-social-smolnet.html",
+      "title": "Molly Guard",
+      "link": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-20T13:02:19Z",
-      "id": "14371c2b9635a73111f1f64ab4cca599",
-      "comments": "https://news.ycombinator.com/item?id=47453947"
+      "published": "2026-03-20T14:33:41Z",
+      "id": "1c1e1c7d2a281ad6cefe9fdc7a6ebac3",
+      "comments": "https://news.ycombinator.com/item?id=47455138"
     },
     {
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
@@ -191,13 +191,13 @@
       "comments": "https://news.ycombinator.com/item?id=47436287"
     },
     {
-      "title": "Work_mem: It's a Trap",
-      "link": "https://mydbanotebook.org/posts/work_mem-its-a-trap/",
+      "title": "The Ugliest Airplane: An Appreciation",
+      "link": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-18T20:52:30Z",
-      "id": "7e7fa4a2fbb54c8a89269ec89cd34bd5",
-      "comments": "https://news.ycombinator.com/item?id=47431304"
+      "published": "2026-03-18T16:52:58Z",
+      "id": "3796c07139a59d1252e3bc7b4c7c8c93",
+      "comments": "https://news.ycombinator.com/item?id=47428132"
     },
     {
       "title": "Lent and Lisp",
@@ -207,6 +207,15 @@
       "published": "2026-03-18T13:00:39Z",
       "id": "9ec59bd4316d5d1f1d3288638d0f7876",
       "comments": "https://news.ycombinator.com/item?id=47425257"
+    },
+    {
+      "title": "Turing Award Honors Bennett and Brassard for Quantum Information Science",
+      "link": "https://amturing.acm.org",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-18T12:16:26Z",
+      "id": "122756712707a76ed3c95e47b7331460",
+      "comments": "https://news.ycombinator.com/item?id=47424752"
     },
     {
       "title": "Parallel Perl \u2013 Autoparallelizing interpreter with JIT",
@@ -261,15 +270,6 @@
       "published": "2026-03-17T01:02:41Z",
       "id": "2bd45577230c9835904de434044293af",
       "comments": "https://news.ycombinator.com/item?id=47407293"
-    },
-    {
-      "title": "Show HN: An open-source safety net for home hemodialysis",
-      "link": "https://safehemo.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-17T00:48:15Z",
-      "id": "9502c46c1da6568e62b270983c502bca",
-      "comments": "https://news.ycombinator.com/item?id=47407184"
     }
   ]
 }
