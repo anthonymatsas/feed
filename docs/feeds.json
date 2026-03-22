@@ -1,6 +1,119 @@
 {
-  "last_updated": "2026-03-22T12:41:57.323630Z",
+  "last_updated": "2026-03-22T15:21:55.464958Z",
   "items": [
+    {
+      "title": "lshaz: a static analysis tool for finding microarchitectural latency hazards",
+      "link": "https://www.reddit.com/r/programming/comments/1s0o597/lshaz_a_static_analysis_tool_for_finding/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-22T15:12:31Z",
+      "id": "d71db9368c4944c579e9c0bd39a4bc1f"
+    },
+    {
+      "title": "iBook Clamshell",
+      "link": "https://www.ibook-clamshell.com/index.php/en/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T14:34:35Z",
+      "id": "279081445be18146cde4de5b54b28b2e",
+      "comments": "https://news.ycombinator.com/item?id=47477938"
+    },
+    {
+      "title": "WebAssembly is breaking out of the browser. From server-side computing to edge deployments and plugin systems, WASM is becoming the universal runtime that containers promised but never fully delivered.",
+      "link": "https://www.reddit.com/r/programming/comments/1s0lwp6/webassembly_is_breaking_out_of_the_browser_from/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-22T13:40:07Z",
+      "id": "ffe52d2f657208038b5a596b01b8415a"
+    },
+    {
+      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
+      "link": "https://noquiche.fyi/voodoo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T13:24:38Z",
+      "id": "cfacbcf0576c786e08a70d9feabd2a7d",
+      "comments": "https://news.ycombinator.com/item?id=47477284"
+    },
+    {
+      "title": "Bored of eating your own dogfood? Try smelling your own farts",
+      "link": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T13:12:31Z",
+      "id": "06a6c581fb7d61efad47e8c2d8a9620f",
+      "comments": "https://news.ycombinator.com/item?id=47477158"
+    },
+    {
+      "title": "Griswold on sale",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1s0l9xo/griswold_on_sale/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-03-22T13:11:58Z",
+      "id": "bbbf2a3e33481cc57b520d0148241262"
+    },
+    {
+      "title": "Convincing Is Not Persuading",
+      "link": "https://blog.alaindichiappari.dev/p/convincing-is-not-persuading",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T13:00:45Z",
+      "id": "1282ea8e5ce098c9a251c748a4985021",
+      "comments": "https://news.ycombinator.com/item?id=47477068"
+    },
+    {
+      "title": "Apple's intentional crippling of Mobile Safari continues",
+      "link": "https://pwa.gripe/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T12:55:37Z",
+      "id": "83f81fb871812d952017965e1cc9c94b",
+      "comments": "https://news.ycombinator.com/item?id=47477024"
+    },
+    {
+      "title": "Turns out your coffee addiction may be doing your brain a favor",
+      "link": "https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T12:52:58Z",
+      "id": "de76b8152640a70eb1b741830e6a66bf",
+      "comments": "https://news.ycombinator.com/item?id=47477003"
+    },
+    {
+      "title": "my first patch to the linux kernel",
+      "link": "https://www.reddit.com/r/programming/comments/1s0kr42/my_first_patch_to_the_linux_kernel/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-22T12:48:03Z",
+      "id": "7823f31323ccf3f877a06890e9e43ec9"
+    },
+    {
+      "title": "Project Nomad \u2013 Knowledge That Never Goes Offline",
+      "link": "https://www.projectnomad.us",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T12:28:38Z",
+      "id": "6e3fb5b4a93d8384e053c9b165c3bf90",
+      "comments": "https://news.ycombinator.com/item?id=47476821"
+    },
+    {
+      "title": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
+      "link": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T12:23:04Z",
+      "id": "b9580387de240087664c8e5a2daacaed",
+      "comments": "https://news.ycombinator.com/item?id=47476776"
+    },
+    {
+      "title": "$ teebot.dev \u2013 from terminal to tee in 6 seconds",
+      "link": "https://teebot.dev",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T12:22:50Z",
+      "id": "fcf4f2621ea6fbe85b56fa4087008b43",
+      "comments": "https://news.ycombinator.com/item?id=47476772"
+    },
     {
       "title": "How We Synchronized Editing for Rec Room's Multiplayer Scripting System",
       "link": "https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system",
@@ -9,6 +122,15 @@
       "published": "2026-03-22T12:14:06Z",
       "id": "5f97730e32335c3e0c614457f8194164",
       "comments": "https://news.ycombinator.com/item?id=47476707"
+    },
+    {
+      "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
+      "link": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T11:53:37Z",
+      "id": "54d1abaccc7607c06d3d0874eab782d5",
+      "comments": "https://news.ycombinator.com/item?id=47476566"
     },
     {
       "title": "More common mistakes to avoid when creating system architecture diagrams",
@@ -27,14 +149,6 @@
       "published": "2026-03-22T11:30:03Z",
       "id": "71659740b4f7dfc6354f17d91e45d14d",
       "comments": "https://news.ycombinator.com/item?id=47476422"
-    },
-    {
-      "title": "Quick question out of curiousity",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1s0izzj/quick_question_out_of_curiousity/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-03-22T11:15:04Z",
-      "id": "bac4b7ee1c302dacec84840df185d4b0"
     },
     {
       "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 21, 2026)",
@@ -70,15 +184,6 @@
       "comments": "https://news.ycombinator.com/item?id=47476060"
     },
     {
-      "title": "Windows native app development is a mess",
-      "link": "https://domenic.me/windows-native-dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-22T09:57:31Z",
-      "id": "d5bd4167cb99ad941ba9ea988e115fb4",
-      "comments": "https://news.ycombinator.com/item?id=47475938"
-    },
-    {
       "title": "Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome",
       "link": "https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/",
       "source": "Hacker News",
@@ -88,20 +193,20 @@
       "comments": "https://news.ycombinator.com/item?id=47475849"
     },
     {
-      "title": "How to stay sane during these AI-maniac time?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s0hb8x/how_to_stay_sane_during_these_aimaniac_time/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-22T09:32:00Z",
-      "id": "9d905f08c0b85cef47edf10468cfd3a9"
-    },
-    {
       "title": "The OSS Maintainer Is the Interface",
       "link": "https://www.reddit.com/r/programming/comments/1s0h37m/the_oss_maintainer_is_the_interface/",
       "source": "r/programming",
       "category": "tech",
       "published": "2026-03-22T09:17:34Z",
       "id": "5344ed97eca4c3fac0ec17fb5e81a986"
+    },
+    {
+      "title": "The Los Angeles Lakers are appealing to the NBA to rescind Luka Doncic\u2019s 16th technical foul which will otherwise result in a one-game suspension.",
+      "link": "https://www.reddit.com/r/nba/comments/1s0guin/the_los_angeles_lakers_are_appealing_to_the_nba/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-22T09:01:58Z",
+      "id": "cd20c8e6eaffff347936c719cb8fce41"
     },
     {
       "title": "Hormuz Minesweeper \u2013 Are you tired of winning?",
@@ -121,15 +226,6 @@
       "id": "e98c97bab6b759730b52ed63f06a6347"
     },
     {
-      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-      "link": "https://zenodo.org/records/18976656",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-22T07:07:15Z",
-      "id": "ba0e7f7904cd7c09c53987a390c0fd74",
-      "comments": "https://news.ycombinator.com/item?id=47475155"
-    },
-    {
       "title": "HopTab\u2013free,open source macOS app switcher and tiler that replaces Cmd+Tab",
       "link": "https://www.royalbhati.com/hoptab",
       "source": "Hacker News",
@@ -145,22 +241,6 @@
       "category": "tech",
       "published": "2026-03-22T05:59:30Z",
       "id": "38e8797376dc5b62344eee1b9cde2d1a"
-    },
-    {
-      "title": "*help*Can Anyone please tell me how to create Plugins for Horizon Desk.",
-      "link": "https://www.reddit.com/r/programming/comments/1s0d95s/helpcan_anyone_please_tell_me_how_to_create/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-22T05:19:28Z",
-      "id": "592f35a3ad1da134cfa7d03719731147"
-    },
-    {
-      "title": "I can solve problems but can\u2019t explain them properly\u2026 anyone else?",
-      "link": "https://www.reddit.com/r/programming/comments/1s0ctg8/i_can_solve_problems_but_cant_explain_them/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-22T04:54:56Z",
-      "id": "9386e0c91102cb35fcf493361d58cec3"
     },
     {
       "title": "Luka Doncic joins Wilt Chamberlain as the only players who averaged 40 points over a 9-game winning streak.",
@@ -187,15 +267,6 @@
       "id": "f93ee6f8827117f186320c56a1e8772f"
     },
     {
-      "title": "Sashiko: An agentic Linux kernel code review system",
-      "link": "https://sashiko.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-22T03:59:46Z",
-      "id": "52af27d5fb836fe1d7b2a60604ae827d",
-      "comments": "https://news.ycombinator.com/item?id=47474323"
-    },
-    {
       "title": "Fred Hoiberg has taken Nebrasketball to the Sweet 16",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s0b27f/fred_hoiberg_has_taken_nebrasketball_to_the_sweet/",
       "source": "r/chicagobulls",
@@ -212,12 +283,12 @@
       "id": "fa90dd07b21faac4f6a6813f94a4859f"
     },
     {
-      "title": "Hiring managers / founders: does \u201cbench time\u201d in service companies count as real experience?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s0ax30/hiring_managers_founders_does_bench_time_in/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-22T03:14:55Z",
-      "id": "0bae18b47d128d110d8dc1d88f1b4d46"
+      "title": "Dylan Harper shows up in his first career start vs. Pacers: 24 PTS (9/13 FG, 1/4 3PT, 5/5 FT), 4 REB, 3 AST, 0 TO, +21",
+      "link": "https://www.reddit.com/r/nba/comments/1s0aczv/dylan_harper_shows_up_in_his_first_career_start/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-22T02:46:58Z",
+      "id": "e91b8bc5e8aec782de07cca67714222d"
     },
     {
       "title": "Luka confirms Goga told him he would \u201cf*ck his whole family.\u201d during altercation that resulted in a double tech",
@@ -315,14 +386,6 @@
       "category": "tech",
       "published": "2026-03-22T01:54:40Z",
       "id": "07c2c4893ab7029c5193561e66a305a6"
-    },
-    {
-      "title": "Austin Reaves in the WIN vs the Orlando Magic: 26 PTS, 7 REB, 5 AST, 2 STL, +8",
-      "link": "https://www.reddit.com/r/nba/comments/1s099fv/austin_reaves_in_the_win_vs_the_orlando_magic_26/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-22T01:54:11Z",
-      "id": "f24179e32224aa418fe7e8882c3e0fa3"
     },
     {
       "title": "[Highlight] Luke Kennard swishes the game-winning wide open 3 and the Lakers win the game (with replays). Lakers and Magic commentaries.",
@@ -480,15 +543,6 @@
       "id": "1e031d470690f829c2b8716d29d0dab2"
     },
     {
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "link": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-21T20:32:20Z",
-      "id": "2c6e65531eba5101583193657d51d36f",
-      "comments": "https://news.ycombinator.com/item?id=47470991"
-    },
-    {
       "title": "How to change field?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s01sj3/how_to_change_field/",
       "source": "r/ExperiencedDevs",
@@ -562,15 +616,6 @@
       "id": "9b2b966cfce1c93244f795d0fe253833"
     },
     {
-      "title": "Hide macOS Tahoe's Menu Icons",
-      "link": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-21T17:46:00Z",
-      "id": "59027dea225e6cd67e4f9678a8358bc1",
-      "comments": "https://news.ycombinator.com/item?id=47469331"
-    },
-    {
       "title": "jsongrep is faster than {jq, jmespath, jsonpath-rust, jql}",
       "link": "https://www.reddit.com/r/programming/comments/1rzxlq0/jsongrep_is_faster_than_jq_jmespath_jsonpathrust/",
       "source": "r/programming",
@@ -635,15 +680,6 @@
       "id": "ccf9f114df1d2b220ae98d1f028d6fb9"
     },
     {
-      "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-21T15:30:29Z",
-      "id": "69fc99b1b0e8fd5f9758fb76befb24d5",
-      "comments": "https://news.ycombinator.com/item?id=47467913"
-    },
-    {
       "title": "Call me crazy, but he did not draft a single guy from last years top 30",
       "link": "https://www.reddit.com/r/CHIBears/comments/1rzu12e/call_me_crazy_but_he_did_not_draft_a_single_guy/",
       "source": "r/CHIBears",
@@ -658,15 +694,6 @@
       "category": "tech",
       "published": "2026-03-21T15:09:47Z",
       "id": "f4b11cbc841cb8394908281f3cbeb88d"
-    },
-    {
-      "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
-      "link": "https://grafeo.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-21T14:50:18Z",
-      "id": "056778105959289caec0582879adcae3",
-      "comments": "https://news.ycombinator.com/item?id=47467567"
     },
     {
       "title": "Some things just take time",
@@ -684,14 +711,6 @@
       "category": "sports",
       "published": "2026-03-21T14:42:55Z",
       "id": "8403730302d15049e88a7de1e4d7a832"
-    },
-    {
-      "title": "KAT (26 pts, 15 rebs) shouts out his father post game after being questionable to play (personal reasons): \"Shout out to my pops. He told me to come play today... Didn't think I was gonna play... I know you watching pops, love you man. I know you're recovering, I'mma be back with you in a sec.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1rzsc0d/kat_26_pts_15_rebs_shouts_out_his_father_post/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-21T14:05:40Z",
-      "id": "2176682cef63b4ced763bdc29ab3dd87"
     },
     {
       "title": "Pre-2000 computer graphics: a specification and challenge for classic-style game development",
@@ -990,15 +1009,6 @@
       "id": "fadc793d64030f7b956912a160645f8a"
     },
     {
-      "title": "Boomloom: Think with your hands",
-      "link": "https://www.theboomloom.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-20T17:13:28Z",
-      "id": "543b95dc3108945903bfce84f483eae5",
-      "comments": "https://news.ycombinator.com/item?id=47457570"
-    },
-    {
       "title": "Bulls Offseason Plan (If I was the GM)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rz236t/bulls_offseason_plan_if_i_was_the_gm/",
       "source": "r/chicagobulls",
@@ -1111,20 +1121,20 @@
       "id": "86c4bea697cacb585767b7654f6a0993"
     },
     {
+      "title": "Experience within a Masters in CS degree as Exp Dev?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ryp15e/experience_within_a_masters_in_cs_degree_as_exp/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-20T06:43:25Z",
+      "id": "f4bdf88f5b96534ca078bd0d3f12a88d"
+    },
+    {
       "title": "Cant sleep still pissed about our comp picks we lost out on",
       "link": "https://www.reddit.com/r/CHIBears/comments/1ryo30p/cant_sleep_still_pissed_about_our_comp_picks_we/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-03-20T05:46:32Z",
       "id": "247cccfb8b9ae2bd4496cb193e531e5f"
-    },
-    {
-      "title": "Microservices and the First Law of Distributed Objects",
-      "link": "https://www.reddit.com/r/programming/comments/1ryn7ry/microservices_and_the_first_law_of_distributed/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-20T04:57:43Z",
-      "id": "5e04ae7d332f679974be7fd34ff83d62"
     },
     {
       "title": "Personal knowledge systems - what works for you",
@@ -1207,15 +1217,6 @@
       "id": "9264df6b1caf327df9de1b5e06b7c03c"
     },
     {
-      "title": "Show HN: Time Keep \u2013 Location timezones, timers, alarms, countdowns in one place",
-      "link": "https://news.ycombinator.com/item?id=47445433",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-19T20:23:50Z",
-      "id": "c5539bed0e7c853d716d37e6a96c8ff5",
-      "comments": "https://news.ycombinator.com/item?id=47445433"
-    },
-    {
       "title": "My first patch to the Linux kernel",
       "link": "https://pooladkhay.com/posts/first-kernel-patch/",
       "source": "Hacker News",
@@ -1223,15 +1224,6 @@
       "published": "2026-03-19T19:51:07Z",
       "id": "cd636e872b206d2e647a6e32efce88e7",
       "comments": "https://news.ycombinator.com/item?id=47444909"
-    },
-    {
-      "title": "Show HN: Oku \u2013 One tab to filter out noise from feeds and content sources",
-      "link": "https://oku.io",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-19T17:27:45Z",
-      "id": "59efe4623e31f2b3c6ece0275cfc6868",
-      "comments": "https://news.ycombinator.com/item?id=47442841"
     },
     {
       "title": "[Fowler] Source: Ole Miss WR De\u2019Zhaun Stribling has visits set up with both the Chicago Bears & New England Patriots.",
@@ -1290,6 +1282,23 @@
       "id": "2461202b3a9202de568066ec8b630683"
     },
     {
+      "title": "Looking for Senior roles in 2026",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rxusg9/looking_for_senior_roles_in_2026/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-19T08:26:45Z",
+      "id": "78ed3a9a637c9283d712db84933476e1"
+    },
+    {
+      "title": "A Review of Dice That Came with the White Castle",
+      "link": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-19T06:47:54Z",
+      "id": "0301c8999e73ff50fbe03e516f6a4595",
+      "comments": "https://news.ycombinator.com/item?id=47435783"
+    },
+    {
       "title": "Electronics for Kids, 2nd Edition",
       "link": "https://nostarch.com/electronics-for-kids-2e",
       "source": "Hacker News",
@@ -1323,13 +1332,13 @@
       "id": "65865e5b7965cb56c37620c8d2a00982"
     },
     {
-      "title": "Linking Smaller Haskell Binaries (2023)",
-      "link": "https://brandon.si/code/linking-smaller-haskell-binaries/",
+      "title": "Monuses and Heaps",
+      "link": "https://doisinkidney.com/posts/2026-03-03-monus-heaps.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-18T23:41:38Z",
-      "id": "94461b2350aa5383cc745d49bf5242a5",
-      "comments": "https://news.ycombinator.com/item?id=47432789"
+      "published": "2026-03-18T23:55:42Z",
+      "id": "c038856bf62bcc8add82acf11aec4289",
+      "comments": "https://news.ycombinator.com/item?id=47432893"
     },
     {
       "title": "Who\u2019s your under-the-radar non-first-round draft crush?",
@@ -1348,14 +1357,6 @@
       "id": "ca62b884b439b2ab752051ef8e81e3b6"
     },
     {
-      "title": "Who analysts think Bears will draft at No. 25",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1rxiajh/who_analysts_think_bears_will_draft_at_no_25/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-03-18T22:20:53Z",
-      "id": "5e8d3fb13f778c5ca3f06206d83944d4"
-    },
-    {
       "title": "Ayo Dosunmu: \"In Chicago, midrange shots was really prohibited...Dosunmu took 4 \"long\" midrange shots in 45 games in Chicago this season before being traded to Minnesota. And he's taken 12 in 15 games for the Wolves. And his eFG% has stayed almost exactly the same",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rxhfmi/ayo_dosunmu_in_chicago_midrange_shots_was_really/",
       "source": "r/chicagobulls",
@@ -1372,13 +1373,13 @@
       "id": "5369c723150901d67072141ba1e2e5ed"
     },
     {
-      "title": "Bayesian statistics for confused data scientists",
-      "link": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+      "title": "Why Lab Coats Turned White",
+      "link": "https://www.asimov.press/p/lab-coat",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-18T17:52:18Z",
-      "id": "7712d2306dc1fb3811ba617f0fb5dae5",
-      "comments": "https://news.ycombinator.com/item?id=47428953"
+      "published": "2026-03-18T18:16:04Z",
+      "id": "17325c43b92f6610754ee1f1b84b151b",
+      "comments": "https://news.ycombinator.com/item?id=47429285"
     },
     {
       "title": "Is AJ Dybantsa a Perfect Fit with the Bulls?",
@@ -1406,6 +1407,14 @@
       "comments": "https://news.ycombinator.com/item?id=47428117"
     },
     {
+      "title": "Bulls should flip Tre Jones",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1rx8t1u/bulls_should_flip_tre_jones/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2026-03-18T16:35:30Z",
+      "id": "8f6fe0b94358e52c348fa87a80ad8c6e"
+    },
+    {
       "title": "25 Years of Eggs",
       "link": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
       "source": "Hacker News",
@@ -1413,15 +1422,6 @@
       "published": "2026-03-18T15:44:08Z",
       "id": "fcdc6cbe60d0749c71c66ed23dca75ec",
       "comments": "https://news.ycombinator.com/item?id=47427224"
-    },
-    {
-      "title": "It's Their Mona Lisa",
-      "link": "https://ironicsans.ghost.io/its-t-mona-lisa/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-18T12:53:15Z",
-      "id": "9b884071991c0f30ed51f085df139f93",
-      "comments": "https://news.ycombinator.com/item?id=47425186"
     },
     {
       "title": "Auto lock posts to combat astroturfing",
