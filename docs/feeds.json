@@ -1,6 +1,99 @@
 {
-  "last_updated": "2026-03-23T07:04:33.677770Z",
+  "last_updated": "2026-03-23T09:58:10.974371Z",
   "items": [
+    {
+      "title": "I've built a website called ScientiaHub with @base44! It is about scientific books, articles and so\u2026. Please rate it in the comments from 1 to 100.",
+      "link": "https://www.reddit.com/r/programming/comments/1s1cjwp/ive_built_a_website_called_scientiahub_with/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-23T09:55:43Z",
+      "id": "6df2803daa9138095bbbbd9b175ee3c3"
+    },
+    {
+      "title": "Native Instant Space Switching on MacOS",
+      "link": "https://www.reddit.com/r/programming/comments/1s1cakb/native_instant_space_switching_on_macos/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-23T09:40:05Z",
+      "id": "970f23f66b002114d6bea5ee7010f2b5"
+    },
+    {
+      "title": "Mocks vs real services in integration testing \u2014 what works better?",
+      "link": "https://www.reddit.com/r/programming/comments/1s1bwqz/mocks_vs_real_services_in_integration_testing/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-23T09:16:11Z",
+      "id": "fc601a313f5227cd5cb058faf1bab0d1"
+    },
+    {
+      "title": "POSSE \u2013 Publish on your Own Site, Syndicate Elsewhere",
+      "link": "https://indieweb.org/POSSE",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T08:29:27Z",
+      "id": "fe9ff798daf4ee722c42c2b24d204149",
+      "comments": "https://news.ycombinator.com/item?id=47486726"
+    },
+    {
+      "title": "Show HN: The King Wen Permutation: [52, 10, 2]",
+      "link": "https://gzw1987-bit.github.io/iching-math/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T08:21:57Z",
+      "id": "7974bed8cd0fde9065aa20d4a64b7747",
+      "comments": "https://news.ycombinator.com/item?id=47486680"
+    },
+    {
+      "title": "Built an open-source tool that bypasses CSP to capture UI bugs for Claude Code \u2014 Bugshot",
+      "link": "https://www.reddit.com/r/programming/comments/1s1ao2f/built_an_opensource_tool_that_bypasses_csp_to/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-23T07:55:44Z",
+      "id": "93b6056813616ea52f39466ff23a7a04"
+    },
+    {
+      "title": "Plane and ground vehicle collide at New York's LaGuardia airport halting flights",
+      "link": "https://www.bbc.com/news/articles/cy01g522ww4o",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T07:24:19Z",
+      "id": "9cc8466cbfd9800e56f95f6155bb862b",
+      "comments": "https://news.ycombinator.com/item?id=47486386"
+    },
+    {
+      "title": "Best underrated AI tools for coding in 2026 (excluding ChatGPT, Claude, Gemini)",
+      "link": "https://www.reddit.com/r/programming/comments/1s1a57n/best_underrated_ai_tools_for_coding_in_2026/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-23T07:21:54Z",
+      "id": "5715bfaa0e36ee159201688e8a6c14f0"
+    },
+    {
+      "title": "AI coding tools aren\u2019t a new abstraction layer. I think that\u2019s why the productivity gains aren\u2019t showing up",
+      "link": "https://www.reddit.com/r/programming/comments/1s19wq4/ai_coding_tools_arent_a_new_abstraction_layer_i/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-23T07:07:36Z",
+      "id": "b501a00fe8b9781318ede7f5840723b0"
+    },
+    {
+      "title": "Show HN: Agent Kernel \u2013 Three Markdown files that make any AI agent stateful",
+      "link": "https://github.com/oguzbilgic/agent-kernel",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T07:06:42Z",
+      "id": "a4525abafb67fdfcc6f1442f3a2a77c4",
+      "comments": "https://news.ycombinator.com/item?id=47486287"
+    },
+    {
+      "title": "AI Proteomics Competition 2026 \u2013 $13K Prize, Internships and Compute Support",
+      "link": "https://www.bohrium.com/competitions/9813928053?tab=introduce",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T06:42:39Z",
+      "id": "6673a4fcb280130a696fc409e9103010",
+      "comments": "https://news.ycombinator.com/item?id=47486135"
+    },
     {
       "title": "[Highlight] 2006- The Saints block a punt for a touchdown in their Superdome return",
       "link": "https://www.reddit.com/r/nfl/comments/1s18qow/highlight_2006_the_saints_block_a_punt_for_a/",
@@ -123,15 +216,6 @@
       "id": "2c8366d2cd494b15d1f834b9fc0cd2af"
     },
     {
-      "title": "\"Collaboration\" Is Bullshit",
-      "link": "https://www.joanwestenberg.com/collaboration-is-bullshit/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-23T01:43:45Z",
-      "id": "7e8a1d5b3d50452f692a9658936046a3",
-      "comments": "https://news.ycombinator.com/item?id=47484519"
-    },
-    {
       "title": "A list of big men that SGA (55.3 FG%) is shooting better from the field than this season: Wemby (50.4), Mobley (53.4), Sengun (50.9), AD (50.6), Clingan (52.7), Sabonis (54.3), Bam (44.7), Ware (52.9), Okongwu (48.1)",
       "link": "https://www.reddit.com/r/nba/comments/1s13twr/a_list_of_big_men_that_sga_553_fg_is_shooting/",
       "source": "r/nba",
@@ -189,12 +273,12 @@
       "id": "a609db2b1a3fdda446239bd26b95e885"
     },
     {
-      "title": "Migrating the American Express Payment Network, Twice",
+      "title": "Migrating the American express payment network, twice",
       "link": "https://americanexpress.io/migrating-the-payments-network-twice/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-23T00:15:10Z",
-      "id": "e27345abe8494a408458e81d0aca5cc3",
+      "id": "2ec45adff03e9dfdf4013287cc1d483f",
       "comments": "https://news.ycombinator.com/item?id=47483830"
     },
     {
@@ -270,12 +354,12 @@
       "id": "496714ef8ecddcdb63cfe604a18d92aa"
     },
     {
-      "title": "They're Vibe-Coding Spam Now",
+      "title": "They\u2019re vibe-coding spam now",
       "link": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-22T22:11:54Z",
-      "id": "87afb6b7a6f9fa999373f4ec067150e3",
+      "id": "bf17ed666cbe3ccce464b0658f567290",
       "comments": "https://news.ycombinator.com/item?id=47482760"
     },
     {
@@ -458,12 +542,12 @@
       "id": "26add979aa5b87b3798dac4a964566e2"
     },
     {
-      "title": "What Young Workers Are Doing to AI-Proof Themselves",
+      "title": "What young workers are doing to AI-proof themselves",
       "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-22T18:18:01Z",
-      "id": "b982694d07f24dd7e547b1c52ccc907f",
+      "id": "8f4ffd974192f190c9034e277980f11d",
       "comments": "https://news.ycombinator.com/item?id=47480447"
     },
     {
@@ -524,12 +608,12 @@
       "comments": "https://news.ycombinator.com/item?id=47479751"
     },
     {
-      "title": "Five Years of Running a Systems Reading Group at Microsoft",
+      "title": "Five years of running a systems reading group at Microsoft",
       "link": "https://armaansood.com/posts/systems-reading-group/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-22T17:06:38Z",
-      "id": "79bcb61dbe18e2a211f910253ecabda3",
+      "id": "0985c65178f1521a1bab08c7c08ae4da",
       "comments": "https://news.ycombinator.com/item?id=47479627"
     },
     {
@@ -666,15 +750,6 @@
       "comments": "https://news.ycombinator.com/item?id=47476821"
     },
     {
-      "title": "More common mistakes to avoid when creating system architecture diagrams",
-      "link": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-22T11:51:52Z",
-      "id": "130ef1bf2c9dc973b86fed5de3ada247",
-      "comments": "https://news.ycombinator.com/item?id=47476562"
-    },
-    {
       "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
       "link": "https://github.com/danveloper/flash-moe",
       "source": "Hacker News",
@@ -715,23 +790,6 @@
       "category": "tech",
       "published": "2026-03-22T10:51:07Z",
       "id": "38ad5f1a5ae20058d48e933eb7689615"
-    },
-    {
-      "title": "Windows native app development is a mess",
-      "link": "https://domenic.me/windows-native-dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-22T09:57:31Z",
-      "id": "d5bd4167cb99ad941ba9ea988e115fb4",
-      "comments": "https://news.ycombinator.com/item?id=47475938"
-    },
-    {
-      "title": "The OSS Maintainer Is the Interface",
-      "link": "https://www.reddit.com/r/programming/comments/1s0h37m/the_oss_maintainer_is_the_interface/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-22T09:17:34Z",
-      "id": "5344ed97eca4c3fac0ec17fb5e81a986"
     },
     {
       "title": "[Highlight] The Eagles on 4th and goal roll the dice late in the 1st half and come up clutch",
@@ -830,15 +888,6 @@
       "id": "344147b94e14e57a28656e45821e2f0a"
     },
     {
-      "title": "How to Attract AI Bots to Your Open Source Project",
-      "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-21T20:58:01Z",
-      "id": "42df12a4abb51668466c4e3bbcde4d9a",
-      "comments": "https://news.ycombinator.com/item?id=47471271"
-    },
-    {
       "title": "Storing 2 bytes of data in your Logitech mouse",
       "link": "https://www.reddit.com/r/programming/comments/1s02cq1/storing_2_bytes_of_data_in_your_logitech_mouse/",
       "source": "r/programming",
@@ -917,14 +966,6 @@
       "category": "tech",
       "published": "2026-03-21T15:09:47Z",
       "id": "f4b11cbc841cb8394908281f3cbeb88d"
-    },
-    {
-      "title": "Pre-2000 computer graphics: a specification and challenge for classic-style game development",
-      "link": "https://www.reddit.com/r/programming/comments/1rzqcnw/pre2000_computer_graphics_a_specification_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-21T12:35:13Z",
-      "id": "e47045be95204a1338b7f6b5ac7dea1d"
     },
     {
       "title": "What tools and techniques are you using to verify AI-generated code before it hits production? I tried using mathematical proofs, which helped to some extent, but the actual bugs were outside, and between, the verified code.",
@@ -1079,44 +1120,12 @@
       "id": "508411461c4d1707a3b0996f9b942027"
     },
     {
-      "title": "No Semicolons Needed",
-      "link": "https://www.reddit.com/r/programming/comments/1rz2hkx/no_semicolons_needed/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-20T17:24:02Z",
-      "id": "81babc0bd1c723b44d3b4a275d4194fa"
-    },
-    {
-      "title": "Delphi 13.1 Released, with ARM64 support",
-      "link": "https://www.reddit.com/r/programming/comments/1rz2fqq/delphi_131_released_with_arm64_support/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-20T17:22:06Z",
-      "id": "618669857ac6f71b15489e3c0f6feded"
-    },
-    {
-      "title": "What we heard about Rust's challenges, and how we can address them",
-      "link": "https://www.reddit.com/r/programming/comments/1rz2cuj/what_we_heard_about_rusts_challenges_and_how_we/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-20T17:19:10Z",
-      "id": "7f8f23dc2a452a4b3a494565fa5128ca"
-    },
-    {
       "title": "Bulls Offseason Plan (If I was the GM)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rz236t/bulls_offseason_plan_if_i_was_the_gm/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-03-20T17:09:34Z",
       "id": "c43a4458207bd53986f8bfaaf1d626ee"
-    },
-    {
-      "title": "Java is fast, code might not be",
-      "link": "https://www.reddit.com/r/programming/comments/1rz1qu3/java_is_fast_code_might_not_be/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-20T16:56:50Z",
-      "id": "400435b577313f4e1fa92422f2811af2"
     },
     {
       "title": "Kevin Byard Reveals Ben Johnson put the team through the hardest training camp he ever experienced as an NFL player: \u201cWhen you look back at it, it was so worth it. We needed that tough training camp.\u201d",
@@ -1274,6 +1283,15 @@
       "id": "254027ba455ef873a52ee00f94826f2e"
     },
     {
+      "title": "A Bilingual Localization for Pillars of Eternity (EN and ZH)",
+      "link": "https://blog.cerrorism.com/blog/2026-03-19",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-20T00:51:22Z",
+      "id": "fb736c9cf5616889a05fbe72e3515032",
+      "comments": "https://news.ycombinator.com/item?id=47448804"
+    },
+    {
       "title": "S Coby Bryant on How Much Caleb Williams Being the 1st to Contact Him After His Signing Meant, & What They Texted Each Other",
       "link": "https://www.reddit.com/r/CHIBears/comments/1ryfis8/s_coby_bryant_on_how_much_caleb_williams_being/",
       "source": "r/CHIBears",
@@ -1296,6 +1314,15 @@
       "category": "sports",
       "published": "2026-03-19T22:30:00Z",
       "id": "9264df6b1caf327df9de1b5e06b7c03c"
+    },
+    {
+      "title": "Walmart: ChatGPT checkout converted 3x worse than website",
+      "link": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-19T19:42:35Z",
+      "id": "96cca48ce5293781c209f9c7885ec500",
+      "comments": "https://news.ycombinator.com/item?id=47444812"
     },
     {
       "title": "A Massacre on Black Friday",
@@ -1337,24 +1364,6 @@
       "category": "sports",
       "published": "2026-03-19T13:54:12Z",
       "id": "7a7a4dbe5c7d422b0a9c3cfbe75b5354"
-    },
-    {
-      "title": "First and Lego Education Partnership Update",
-      "link": "https://community.firstinspires.org/first-lego-education-partnership-update",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-19T13:25:59Z",
-      "id": "c38ba367c0f3ff1d661f1622caf4f5d4",
-      "comments": "https://news.ycombinator.com/item?id=47439031"
-    },
-    {
-      "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
-      "link": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-19T04:56:25Z",
-      "id": "5181e45b1daa76117c31dc4543d7e3c5",
-      "comments": "https://news.ycombinator.com/item?id=47435127"
     },
     {
       "title": "In positive Portland pick news Clippers are only .5 game ahead of Blazers for the 8th seed.",
@@ -1405,15 +1414,6 @@
       "id": "8f6fe0b94358e52c348fa87a80ad8c6e"
     },
     {
-      "title": "25 Years of Eggs",
-      "link": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-18T15:44:08Z",
-      "id": "fcdc6cbe60d0749c71c66ed23dca75ec",
-      "comments": "https://news.ycombinator.com/item?id=47427224"
-    },
-    {
       "title": "LLMs predict my coffee",
       "link": "https://dynomight.net/coffee/",
       "source": "Hacker News",
@@ -1439,12 +1439,12 @@
       "id": "161f5337e17cb35245f3f4dd4542efd5"
     },
     {
-      "title": "Ordered Dithering with Arbitrary or Irregular Colour Palettes (2023)",
+      "title": "Ordered dithering with arbitrary or irregular colour palettes (2023)",
       "link": "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-17T15:31:52Z",
-      "id": "3ce4e717788b53f391437c733486f04d",
+      "id": "2b7c0c9419e8258c276e6e39fa8da8c9",
       "comments": "https://news.ycombinator.com/item?id=47414104"
     },
     {
