@@ -1,37 +1,138 @@
 {
-  "last_updated": "2026-03-24T09:52:30.642581Z",
+  "last_updated": "2026-03-24T13:02:58.518643Z",
   "items": [
     {
-      "title": "Introducing SCCS: A New Standard for Cannabis Classification \ud83e\uddec",
-      "link": "https://www.reddit.com/r/programming/comments/1s296is/introducing_sccs_a_new_standard_for_cannabis/",
-      "source": "r/programming",
+      "title": "NanoClaw Adopts OneCLI Agent Vault",
+      "link": "https://nanoclaw.dev/blog/nanoclaw-agent-vault/",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-24T09:41:04Z",
-      "id": "9f3c0a622ed4a671b48bc7e229de076d"
+      "published": "2026-03-24T12:48:04Z",
+      "id": "c30cb6a6a8d9bd34d4d665a29224fef7",
+      "comments": "https://news.ycombinator.com/item?id=47501840"
     },
     {
-      "title": "jj-benchmark \u2013 Evaluating AI agents on Jujutsu version control",
-      "link": "https://www.reddit.com/r/programming/comments/1s28zms/jjbenchmark_evaluating_ai_agents_on_jujutsu/",
-      "source": "r/programming",
+      "title": "LiteLLM Python package compromised by supply-chain attack",
+      "link": "https://github.com/BerriAI/litellm/issues/24512",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-24T09:29:06Z",
-      "id": "1677389bb8650137fc479d80b9bc5f77"
+      "published": "2026-03-24T12:36:20Z",
+      "id": "6f1c87613dd04db33ae6bd08ba2bb45b",
+      "comments": "https://news.ycombinator.com/item?id=47501729"
     },
     {
-      "title": "Manual coding obsolete in 6 years? LLMs like Opus 4.5 & GPT-5.2 are here",
-      "link": "https://www.reddit.com/r/programming/comments/1s28io1/manual_coding_obsolete_in_6_years_llms_like_opus/",
+      "title": "How we reduced a 20-person driver verification team to 5 with AI-assisted triage",
+      "link": "https://www.reddit.com/r/programming/comments/1s2c8zd/how_we_reduced_a_20person_driver_verification/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-03-24T08:59:42Z",
-      "id": "eaeec46b401702d21346d0474475a353"
+      "published": "2026-03-24T12:23:18Z",
+      "id": "e0cfe75d0cba3ba2dfde1c015dc31c84"
     },
     {
-      "title": "Claude Code Template for Spring Boot",
-      "link": "https://www.reddit.com/r/programming/comments/1s28ej5/claude_code_template_for_spring_boot/",
+      "title": "How often do you actually employ \u201cleetcode\u201d optimized algorithms in your work?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s2c6pq/how_often_do_you_actually_employ_leetcode/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-24T12:20:21Z",
+      "id": "da7740672d0c69c1bd9baf1bbc6df841"
+    },
+    {
+      "title": "NoraSearch - A Fuzzy Offset String Matching Algorithm Written In Go",
+      "link": "https://www.reddit.com/r/programming/comments/1s2c6fi/norasearch_a_fuzzy_offset_string_matching/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-03-24T08:52:11Z",
-      "id": "2892f7200faf5b3c2e66e57283d8c18b"
+      "published": "2026-03-24T12:19:59Z",
+      "id": "99e6e64f56d1623e7f89ebf147932f58"
+    },
+    {
+      "title": "[Associated Press] Victor Wembanyama makes his case for NBA's MVP Award: \"My first one would be that defense is 50% of the game and that it is undervalued so far in the MVP race. I believe I'm the most impactful player defensively in the league... Second argument would be that we almost swept OKC\"",
+      "link": "https://www.reddit.com/r/nba/comments/1s2c1lb/associated_press_victor_wembanyama_makes_his_case/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-24T12:13:58Z",
+      "id": "5e995f7d512f454869fdaf0f395ebcfc"
+    },
+    {
+      "title": "Free agent RB Najee Harris wants to show teams he can run, six months after torn Achilles",
+      "link": "https://www.reddit.com/r/nfl/comments/1s2bzje/free_agent_rb_najee_harris_wants_to_show_teams_he/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-24T12:11:13Z",
+      "id": "b2f7844239de5ba917b505fef339bc95"
+    },
+    {
+      "title": "Designing a Python Language Server: Lessons from Pyre that Shaped Pyrefly",
+      "link": "https://www.reddit.com/r/programming/comments/1s2bw68/designing_a_python_language_server_lessons_from/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-24T12:06:42Z",
+      "id": "4c1dd0ecd2f4c95d1b2dff94c22489a4"
+    },
+    {
+      "title": "Handheld NES on a ESP32",
+      "link": "https://www.reddit.com/r/programming/comments/1s2blu7/handheld_nes_on_a_esp32/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-24T11:53:01Z",
+      "id": "ee163c4dd4e87c0f1fcdeb6c19949cea"
+    },
+    {
+      "title": "Senior dev stuck as single point of failure in AI-driven chaos \u2013 salvageable or time to leave?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s2bgu6/senior_dev_stuck_as_single_point_of_failure_in/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-24T11:45:45Z",
+      "id": "b908d894ec8c11941419ea082e773395"
+    },
+    {
+      "title": "Why so many languages have allocators now",
+      "link": "https://www.reddit.com/r/programming/comments/1s2b2wt/why_so_many_languages_have_allocators_now/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-24T11:25:58Z",
+      "id": "dcf6e724318368664fa067d80c788ad7"
+    },
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 23, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1s2akui/serious_next_day_thread_postgame_discussion_march/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-24T11:00:04Z",
+      "id": "7683927d9828a9628ac33c2a6660a133"
+    },
+    {
+      "title": "Debunking Zswap and Zram Myths",
+      "link": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-24T10:39:21Z",
+      "id": "d0e735d8a21f10488c8834b2f15dc057",
+      "comments": "https://news.ycombinator.com/item?id=47500746"
+    },
+    {
+      "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
+      "link": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-24T10:06:02Z",
+      "id": "0fa076bf2ddca278f8e40786460f6e9e",
+      "comments": "https://news.ycombinator.com/item?id=47500522"
+    },
+    {
+      "title": "What is your mentorship style?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s29jjc/what_is_your_mentorship_style/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-24T10:02:06Z",
+      "id": "4f20672a42f1c1b5f80d9144aae53ebb"
+    },
+    {
+      "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+      "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-24T09:36:29Z",
+      "id": "41de25a1ae4fde27b835fa01e0f29b8d",
+      "comments": "https://news.ycombinator.com/item?id=47500335"
     },
     {
       "title": "Why do ci pipeline failures keep blocking deployments when nobody can agree on who owns the fix",
@@ -42,14 +143,6 @@
       "id": "758074c85c0f61b3f6e8ff18a66d0c05"
     },
     {
-      "title": "Will AI force source code to evolve - or make it extinct?",
-      "link": "https://www.reddit.com/r/programming/comments/1s28168/will_ai_force_source_code_to_evolve_or_make_it/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-24T08:27:28Z",
-      "id": "3f7c707f428c3d71dc410a6a81f0f99a"
-    },
-    {
       "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
       "link": "https://www.web-rewind.com",
       "source": "Hacker News",
@@ -57,15 +150,6 @@
       "published": "2026-03-24T07:54:02Z",
       "id": "12eefe488f47da287e79832c8643a7bf",
       "comments": "https://news.ycombinator.com/item?id=47499721"
-    },
-    {
-      "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
-      "link": "https://proofshot.argil.io/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T07:46:46Z",
-      "id": "04f49bad6f9fc8f70a75843390d8e1ae",
-      "comments": "https://news.ycombinator.com/item?id=47499672"
     },
     {
       "title": "Why my React app showed different data in different tabs \u2014 and what I didn't understand about state",
@@ -84,12 +168,12 @@
       "id": "0f79baf70055e8bf2b8fa927414f2fca"
     },
     {
-      "title": "Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}",
+      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
       "link": "https://burntsushi.net/ripgrep/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-24T06:31:39Z",
-      "id": "70d8c2a700ede4c6a90078f0b47ce77a",
+      "id": "55083bbd97b6e4de90051574212595a4",
       "comments": "https://news.ycombinator.com/item?id=47499245"
     },
     {
@@ -132,6 +216,14 @@
       "category": "sports",
       "published": "2026-03-24T05:24:45Z",
       "id": "66781de47a4f060afaa99ad2eaf8a6e7"
+    },
+    {
+      "title": "The Dallas Mavericks are eliminated from playoff contention",
+      "link": "https://www.reddit.com/r/nba/comments/1s245ai/the_dallas_mavericks_are_eliminated_from_playoff/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-24T04:33:17Z",
+      "id": "5bf97f504bcac0bdc1badc6ce77b9d7e"
     },
     {
       "title": "[Injury] Moses Moody with a gruesome non-contact knee-injury.. *GRAPHIC*",
@@ -214,24 +306,6 @@
       "id": "c25f4de32cc9f0219beede58bfc5d4bb"
     },
     {
-      "title": "Sunsetting the Techempower Framework Benchmarks",
-      "link": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T01:54:03Z",
-      "id": "c04d8a9f0cc1b4e534cb106e4669c1a7",
-      "comments": "https://news.ycombinator.com/item?id=47497763"
-    },
-    {
-      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-      "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T01:53:09Z",
-      "id": "c99c174b979392fcb03e7b3e3526ce26",
-      "comments": "https://news.ycombinator.com/item?id=47497757"
-    },
-    {
       "title": "\u201cCan you describe Patrick Williams career in a single clip?\u201d",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s20p0f/can_you_describe_patrick_williams_career_in_a/",
       "source": "r/chicagobulls",
@@ -270,14 +344,6 @@
       "category": "tech",
       "published": "2026-03-24T01:28:03Z",
       "id": "9d9729b7b26ff3cd0e583f1b6bb7bc3e"
-    },
-    {
-      "title": "Jalen Williams goes for 18/4/6 in return from injury against the 76ers",
-      "link": "https://www.reddit.com/r/nba/comments/1s203df/jalen_williams_goes_for_1846_in_return_from/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-24T01:23:27Z",
-      "id": "e3b02e7f2f58da382845226a38972443"
     },
     {
       "title": "[Highlight] Victor Wembanyama makes Norman Powell touch earth and then dunks home his own miss",
@@ -500,15 +566,6 @@
       "id": "69efeb2c001ecdb1f502eaaa46951313"
     },
     {
-      "title": "How I'm Productive with Claude Code",
-      "link": "https://neilkakkar.com/productive-with-claude-code.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-23T20:49:10Z",
-      "id": "7c3f4e62706473d5c63d13d3f783fe95",
-      "comments": "https://news.ycombinator.com/item?id=47494890"
-    },
-    {
       "title": "A retro terminal music player inspired by Winamp",
       "link": "https://github.com/bjarneo/cliamp",
       "source": "Hacker News",
@@ -550,20 +607,20 @@
       "id": "e5db2d9ed0358faf163e7a4d24a600d5"
     },
     {
-      "title": "[Charania] Former No. 1 pick Markelle Fultz is signing a 10-day contract with the Toronto Raptors, Raymond Brothers of I Am Sports & Entertainment tells ESPN. Fultz joins Toronto for his ninth NBA season after spending time with the Raptors 905 G League team.",
-      "link": "https://www.reddit.com/r/nba/comments/1s1q9jn/charania_former_no_1_pick_markelle_fultz_is/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-23T19:07:22Z",
-      "id": "0be8470c77f3883e3323e1d714b0eb2a"
-    },
-    {
       "title": "Ran into Ben Johnson today",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s1q9jr/ran_into_ben_johnson_today/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-03-23T19:07:22Z",
       "id": "67dce7df336d89e1e85db20780858771"
+    },
+    {
+      "title": "[Charania] Former No. 1 pick Markelle Fultz is signing a 10-day contract with the Toronto Raptors, Raymond Brothers of I Am Sports & Entertainment tells ESPN. Fultz joins Toronto for his ninth NBA season after spending time with the Raptors 905 G League team.",
+      "link": "https://www.reddit.com/r/nba/comments/1s1q9jn/charania_former_no_1_pick_markelle_fultz_is/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-23T19:07:22Z",
+      "id": "0be8470c77f3883e3323e1d714b0eb2a"
     },
     {
       "title": "Autoresearch on an old research idea",
@@ -597,14 +654,6 @@
       "category": "sports",
       "published": "2026-03-23T18:23:10Z",
       "id": "f5731e22c7d789172a758474ac9bcf21"
-    },
-    {
-      "title": "Daily Discussion Thread + Game Thread Index",
-      "link": "https://www.reddit.com/r/nba/comments/1s1ocj9/daily_discussion_thread_game_thread_index/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-23T18:00:03Z",
-      "id": "5495c96b1b1dd53188bf7bd77aac5eda"
     },
     {
       "title": "How to avoid being pigeonholed into tasks without a care for your specialties or interest?",
@@ -686,14 +735,6 @@
       "category": "tech",
       "published": "2026-03-23T15:40:06Z",
       "id": "9a949305fc5ddab9a5ff38dc7021881d"
-    },
-    {
-      "title": "[Schefter] Former Bears and Seahawks RB Travis Homer signed today with the Pittsburgh Steelers, per source.",
-      "link": "https://www.reddit.com/r/nfl/comments/1s1k5ng/schefter_former_bears_and_seahawks_rb_travis/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-23T15:33:26Z",
-      "id": "7494ad2a35ef320792148e45010d770f"
     },
     {
       "title": "What technical questions do you ask prior/during onboarding?",
@@ -818,14 +859,6 @@
       "id": "620bfe4ec9375399517241753cde14cc"
     },
     {
-      "title": "Scottie Pippen in new Mr. Pibb advert: \u201cWhen something has been considered second-best for so long, we just blindly accept it as gospel\u2026.A decade-long plot built on marketing, social media and multi-part documentaries.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1s1hcn5/scottie_pippen_in_new_mr_pibb_advert_when/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-23T13:47:33Z",
-      "id": "05f080655b1c82bd8ed75d7de93ebaea"
-    },
-    {
       "title": "[Schefter] ESPN Sources: Offensive Player of the Year and Super-Bowl champion Jaxon Smith-Njigba reached agreement with the Seattle Seahawks on a four-year, $168.6 million contract extension that now makes him the highest-paid WR in NFL history.",
       "link": "https://www.reddit.com/r/nfl/comments/1s1gxx0/schefter_espn_sources_offensive_player_of_the/",
       "source": "r/nfl",
@@ -873,15 +906,6 @@
       "category": "tech",
       "published": "2026-03-23T11:06:35Z",
       "id": "4353da5608b6eeb78151a835fea0067d"
-    },
-    {
-      "title": "I built an AI receptionist for a mechanic shop",
-      "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-23T10:32:33Z",
-      "id": "8e3c67f4eef82ad60a65692c1c442eea",
-      "comments": "https://news.ycombinator.com/item?id=47487536"
     },
     {
       "title": "WR 4 late rounder crazy sleeper no one knows about",
@@ -1135,14 +1159,6 @@
       "comments": "https://news.ycombinator.com/item?id=47469744"
     },
     {
-      "title": "Negotiating LLM token budget",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rzxbb9/negotiating_llm_token_budget/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-21T17:27:30Z",
-      "id": "63a6f400f7ada712152775751b8c8b7d"
-    },
-    {
       "title": "How to measure failure rate for retryable jobs without noisy jobs skewing the metric?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rztutg/how_to_measure_failure_rate_for_retryable_jobs/",
       "source": "r/ExperiencedDevs",
@@ -1151,21 +1167,13 @@
       "id": "f4b11cbc841cb8394908281f3cbeb88d"
     },
     {
-      "title": "Ju Ci: The Art of Repairing Porcelain",
-      "link": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+      "title": "MSA: Memory Sparse Attention",
+      "link": "https://github.com/EverMind-AI/MSA",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-21T15:07:29Z",
-      "id": "c6efbdd8aa319dcd2892c78efac47444",
-      "comments": "https://news.ycombinator.com/item?id=47467719"
-    },
-    {
-      "title": "What tools and techniques are you using to verify AI-generated code before it hits production? I tried using mathematical proofs, which helped to some extent, but the actual bugs were outside, and between, the verified code.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rzq738/what_tools_and_techniques_are_you_using_to_verify/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-21T12:27:27Z",
-      "id": "1c11db8dd1a3149aa3c08800d27a66d8"
+      "published": "2026-03-21T14:47:58Z",
+      "id": "8c66c093292711a90dc0e435cc4f4900",
+      "comments": "https://news.ycombinator.com/item?id=47467543"
     },
     {
       "title": "Today is 3/21",
@@ -1298,23 +1306,6 @@
       "comments": "https://news.ycombinator.com/item?id=47455961"
     },
     {
-      "title": "How to Spot a Liar: Kate White on the Techniques of Deception in Mysteries",
-      "link": "https://crimereads.com/how-to-spot-a-liar-kate-white-on-the-techniques-of-deception-in-mysteries/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-20T14:54:30Z",
-      "id": "c45f81a56d158c62fdf80b57e1a4d8b7",
-      "comments": "https://news.ycombinator.com/item?id=47455456"
-    },
-    {
-      "title": "Is \"Deep work with fewer interactions\" a result of the Engineering Role or the Company Culture?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rywn8t/is_deep_work_with_fewer_interactions_a_result_of/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-20T13:45:03Z",
-      "id": "69969a8e9c50785ed309c8275671392d"
-    },
-    {
       "title": "Internal library almost forgot everything. A good idea?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ryw0jk/internal_library_almost_forgot_everything_a_good/",
       "source": "r/ExperiencedDevs",
@@ -1329,6 +1320,15 @@
       "category": "tech",
       "published": "2026-03-20T13:13:42Z",
       "id": "d3ff78bad537c09ac7dec3a81ebcf976"
+    },
+    {
+      "title": "Overcoming the Friendship Recession",
+      "link": "https://joeprevite.com/friendship-recession/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-20T12:42:37Z",
+      "id": "03010d4d66e419ddcb2f1f10c9562aa7",
+      "comments": "https://news.ycombinator.com/item?id=47453737"
     },
     {
       "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
