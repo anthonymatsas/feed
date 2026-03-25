@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-03-25T06:57:35.826843Z",
+  "last_updated": "2026-03-25T09:50:08.687719Z",
   "items": [
+    {
+      "title": "Estoy desarrollando un framework backend para Go con sistema de addons (Keel)",
+      "link": "https://www.reddit.com/r/programming/comments/1s367wk/estoy_desarrollando_un_framework_backend_para_go/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-25T09:45:37Z",
+      "id": "17ccac0f68805bd1f19a9fcd4f400dbf"
+    },
+    {
+      "title": "Are LLMs speedrunning us into product management?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s35v2i/are_llms_speedrunning_us_into_product_management/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-25T09:23:02Z",
+      "id": "9d624ac89534fe34729fc57a597f1092"
+    },
+    {
+      "title": "How the TeamPCP attack exploited CI/CD pipelines and trusted releases to release infected Trivy and LiteLLM packages",
+      "link": "https://www.reddit.com/r/programming/comments/1s35ohw/how_the_teampcp_attack_exploited_cicd_pipelines/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-25T09:11:57Z",
+      "id": "437ea114388191fb57c70474359624a7"
+    },
+    {
+      "title": "A rant on badly written docs by LLMs",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s35dyy/a_rant_on_badly_written_docs_by_llms/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-25T08:54:00Z",
+      "id": "e4fe840651703cdde16d96426af8c42d"
+    },
+    {
+      "title": "Why I forked httpx",
+      "link": "https://tildeweb.nl/~michiel/httpxyz.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-25T08:05:17Z",
+      "id": "e3c816ee91f988727871198a8600a718",
+      "comments": "https://news.ycombinator.com/item?id=47514603"
+    },
+    {
+      "title": "Hesitate before opening a PR",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s34ayv/hesitate_before_opening_a_pr/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-25T07:43:09Z",
+      "id": "6b53424b41e6d38261d9747ec2a3b223"
+    },
     {
       "title": "Interview for my managers role?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s33enp/interview_for_my_managers_role/",
@@ -8,14 +57,6 @@
       "category": "tech",
       "published": "2026-03-25T06:48:11Z",
       "id": "f70e232c97c72a964871afb474eddfd9"
-    },
-    {
-      "title": "GCD Kernel \u2014 Domain Network",
-      "link": "https://www.reddit.com/r/programming/comments/1s32va2/gcd_kernel_domain_network/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-25T06:16:45Z",
-      "id": "d5ab59d2e081720ed6c2bb3476945054"
     },
     {
       "title": "Why Raft can\u2019t safely commit old-term entries \u2014 from an implementation/debugging perspective",
@@ -76,39 +117,12 @@
       "comments": "https://news.ycombinator.com/item?id=47513475"
     },
     {
-      "title": "Social media bans and digital curfews to be trialled on UK teenagers",
-      "link": "https://www.bbc.com/news/articles/cn89g3ngkyzo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T04:34:03Z",
-      "id": "062b4c5256c0b2ae457d0bbb6b8f2665",
-      "comments": "https://news.ycombinator.com/item?id=47513280"
-    },
-    {
-      "title": "Miscellanea: The War in Iran",
-      "link": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T04:27:14Z",
-      "id": "a39b309492b6e1e440ac5d701fc4fb3a",
-      "comments": "https://news.ycombinator.com/item?id=47513229"
-    },
-    {
       "title": "In Support of Copilot",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s30ry5/in_support_of_copilot/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-03-25T04:20:55Z",
       "id": "463c4269bc5d34cf451878477b732e8c"
-    },
-    {
-      "title": "Meta ordered to pay $375M in New Mexico trial over child exploitation",
-      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T04:04:09Z",
-      "id": "1b831d14a34ff384d8a289bba2aa6d7f",
-      "comments": "https://news.ycombinator.com/item?id=47513098"
     },
     {
       "title": "The Bears Ranked 30th in Edge Pressure and 31st in DT Run Stop and How the 2026 DL Class Stacks Up",
@@ -247,6 +261,15 @@
       "category": "tech",
       "published": "2026-03-25T01:01:19Z",
       "id": "dddc1b7ace18f4ed59a173c9cc64dfee"
+    },
+    {
+      "title": "In Edison\u2019s Revenge, Data Centers Are Transitioning From AC to DC",
+      "link": "https://spectrum.ieee.org/data-center-dc",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-25T00:44:55Z",
+      "id": "3199cd5c690e7b000d16d70187df4e03",
+      "comments": "https://news.ycombinator.com/item?id=47511703"
     },
     {
       "title": "[NextGenStats] Most 1st Downs or TDs in the 4th Quarter of One-Possession Games in 2025",
@@ -515,6 +538,15 @@
       "category": "sports",
       "published": "2026-03-24T19:27:33Z",
       "id": "52051efa36dded58d7e3e4bc4e9f033d"
+    },
+    {
+      "title": "Show HN: AI Roundtable \u2013 Let 200 models debate your question",
+      "link": "https://opper.ai/ai-roundtable/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-24T19:15:27Z",
+      "id": "25a599f36bb8f460e01b652c7d47f1aa",
+      "comments": "https://news.ycombinator.com/item?id=47507666"
     },
     {
       "title": "[Buffalo Bills] reveal renders of planned bison statues outside new Highmark Stadium. The tallest of the statues will be 27 feet tall, more than four times the height of Bills QB Josh Allen.",
@@ -806,15 +838,6 @@
       "comments": "https://news.ycombinator.com/item?id=47501950"
     },
     {
-      "title": "Why did the chicken cross the road?",
-      "link": "https://taylor.town/other-side",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T12:46:22Z",
-      "id": "f654f50c41085b61ea81aae0342a3c33",
-      "comments": "https://news.ycombinator.com/item?id=47501825"
-    },
-    {
       "title": "[Associated Press] Victor Wembanyama makes his case for NBA's MVP Award: \"My first one would be that defense is 50% of the game and that it is undervalued so far in the MVP race. I believe I'm the most impactful player defensively in the league... Second argument would be that we almost swept OKC\"",
       "link": "https://www.reddit.com/r/nba/comments/1s2c1lb/associated_press_victor_wembanyama_makes_his_case/",
       "source": "r/nba",
@@ -918,15 +941,6 @@
       "category": "sports",
       "published": "2026-03-24T02:07:26Z",
       "id": "58bcef1d903eda9103ec6e278d3d03a6"
-    },
-    {
-      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-      "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T01:53:09Z",
-      "id": "c99c174b979392fcb03e7b3e3526ce26",
-      "comments": "https://news.ycombinator.com/item?id=47497757"
     },
     {
       "title": "\u201cCan you describe Patrick Williams career in a single clip?\u201d",
@@ -1161,14 +1175,6 @@
       "id": "0c4c7fddce869f8d7383b2d420af53f7"
     },
     {
-      "title": "Node.js worker threads are problematic, but they work great for us",
-      "link": "https://www.reddit.com/r/programming/comments/1s108v7/nodejs_worker_threads_are_problematic_but_they/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-22T23:05:18Z",
-      "id": "a288a9654c1177025646055cedb24476"
-    },
-    {
       "title": "I\u2019m going through withdrawal\u2026",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s0xryp/im_going_through_withdrawal/",
       "source": "r/CHIBears",
@@ -1207,6 +1213,15 @@
       "category": "tech",
       "published": "2026-03-22T17:25:58Z",
       "id": "e97587b540fda551096ebaf31a1df96c"
+    },
+    {
+      "title": "VNDB founder Yorhel has died",
+      "link": "https://vndb.org/t24787",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-22T16:44:18Z",
+      "id": "940add750b248a8895cb82bf4bf82902",
+      "comments": "https://news.ycombinator.com/item?id=47479362"
     },
     {
       "title": "It doesn't matter, but",
@@ -1291,12 +1306,13 @@
       "comments": "https://news.ycombinator.com/item?id=47472120"
     },
     {
-      "title": "Multi-tenant fair queue implementation",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s02qp3/multitenant_fair_queue_implementation/",
-      "source": "r/ExperiencedDevs",
+      "title": "The Last Testaments of Richard II and Henry IV",
+      "link": "https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-21T21:04:28Z",
-      "id": "344147b94e14e57a28656e45821e2f0a"
+      "published": "2026-03-21T22:12:47Z",
+      "id": "29ddf868c25f5861ae4299bfd5c5e9c6",
+      "comments": "https://news.ycombinator.com/item?id=47472039"
     },
     {
       "title": "How to change field?",
@@ -1305,23 +1321,6 @@
       "category": "tech",
       "published": "2026-03-21T20:25:37Z",
       "id": "28458c693829134083b6888fc6ed704a"
-    },
-    {
-      "title": "How to measure failure rate for retryable jobs without noisy jobs skewing the metric?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rztutg/how_to_measure_failure_rate_for_retryable_jobs/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-21T15:09:47Z",
-      "id": "f4b11cbc841cb8394908281f3cbeb88d"
-    },
-    {
-      "title": "The final switch: Goldsboro, 1961",
-      "link": "https://blog.nuclearsecrecy.com/2013/09/27/final-switch-goldsboro-1961/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-21T14:55:06Z",
-      "id": "0f4c83750c0ec30aa7fe1e5a2803cba9",
-      "comments": "https://news.ycombinator.com/item?id=47467616"
     },
     {
       "title": "How to interview in the AI Era?",
@@ -1391,14 +1390,6 @@
       "id": "3a3b03106d0ba6b636d0e7018bbad8fd"
     },
     {
-      "title": "What is the BEST developer culture you've worked in? What made it special?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1rz3v4y/what_is_the_best_developer_culture_youve_worked/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-20T18:16:15Z",
-      "id": "508411461c4d1707a3b0996f9b942027"
-    },
-    {
       "title": "Bulls Offseason Plan (If I was the GM)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1rz236t/bulls_offseason_plan_if_i_was_the_gm/",
       "source": "r/chicagobulls",
@@ -1413,6 +1404,15 @@
       "category": "sports",
       "published": "2026-03-20T16:06:05Z",
       "id": "66904fee9879c68d5ceab94897272b14"
+    },
+    {
+      "title": "How the world\u2019s first electric grid was built",
+      "link": "https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-20T14:29:48Z",
+      "id": "d032146ca02aa812a1d86225356c9499",
+      "comments": "https://news.ycombinator.com/item?id=47455079"
     },
     {
       "title": "You can run a DNS server (2025)",
