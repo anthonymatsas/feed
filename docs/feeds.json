@@ -1,6 +1,105 @@
 {
-  "last_updated": "2026-03-26T07:02:13.652416Z",
+  "last_updated": "2026-03-26T09:57:04.379590Z",
   "items": [
+    {
+      "title": "Auction sell Chicago Bulls spring jacket",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1s42op2/auction_sell_chicago_bulls_spring_jacket/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2026-03-26T09:27:54Z",
+      "id": "ac9105aa5a1d3af652b12412cc7520af"
+    },
+    {
+      "title": "How I sleep knowing Caleb Williams is my quarterback and Ben Johnson is my head coach",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1s42oa6/how_i_sleep_knowing_caleb_williams_is_my/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-03-26T09:27:11Z",
+      "id": "fde64ce7afa75da5d8082775e65616db"
+    },
+    {
+      "title": "Upgrading Sea of Thieves From C++14 to C++20 Wasn't Easy Here's Why - Keith Stockdale - CppCon 2026",
+      "link": "https://www.reddit.com/r/programming/comments/1s426l8/upgrading_sea_of_thieves_from_c14_to_c20_wasnt/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-26T08:56:31Z",
+      "id": "f062d06fa18d4d76b9e2a2c2b50289bd"
+    },
+    {
+      "title": "Back to Basics: Move Semantics - Ben Saks - CppCon 2025",
+      "link": "https://www.reddit.com/r/programming/comments/1s42690/back_to_basics_move_semantics_ben_saks_cppcon_2025/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-26T08:55:54Z",
+      "id": "07e13566c9259941fe3a8cae5af439b2"
+    },
+    {
+      "title": "How C++ Finally Beats Rust at JSON Serialization - Daniel Lemire & Francisco Geiman Thiesen",
+      "link": "https://www.reddit.com/r/programming/comments/1s4261u/how_c_finally_beats_rust_at_json_serialization/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-26T08:55:31Z",
+      "id": "f8defb412a133c857b8d386c1b756bf6"
+    },
+    {
+      "title": "What is your biggest takeaway after having worked in tech for your years?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s423md/what_is_your_biggest_takeaway_after_having_worked/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-26T08:51:07Z",
+      "id": "45ff88d537ccadfe040cc2a4e22d4a84"
+    },
+    {
+      "title": "You probably don't want to buy a retro console",
+      "link": "https://medium.com/@razorbeamz/you-probably-dont-want-to-buy-a-retro-console-a-guide-for-people-who-aren-t-freaks-90031659bd21",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T08:41:11Z",
+      "id": "733e7ae85929d0c2db1c5827b84a49f4",
+      "comments": "https://news.ycombinator.com/item?id=47528006"
+    },
+    {
+      "title": "If AI can do 80% of the job in 10 sec, that doesn't mean that the remaining 20% will take 2 seconds.",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s41tn1/if_ai_can_do_80_of_the_job_in_10_sec_that_doesnt/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-26T08:32:52Z",
+      "id": "ae6874ac842362e393caa828573453f9"
+    },
+    {
+      "title": "Guide a junior dev please",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s41fxw/guide_a_junior_dev_please/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-26T08:08:35Z",
+      "id": "ac932bf263a7bc522d71f07b8c60edd9"
+    },
+    {
+      "title": "Swift 6.3 Released",
+      "link": "https://www.swift.org/blog/swift-6.3-released/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T07:27:11Z",
+      "id": "10c1a9578435af60f9ef7acae002689e",
+      "comments": "https://news.ycombinator.com/item?id=47527590"
+    },
+    {
+      "title": "Redash's Python sandbox escape gives attackers full server access. Vendor says \"use at your own risk\"",
+      "link": "https://www.reddit.com/r/programming/comments/1s40jgg/redashs_python_sandbox_escape_gives_attackers/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-26T07:10:50Z",
+      "id": "a862d76e500332d3434d76faf87d93d7"
+    },
+    {
+      "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
+      "link": "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T07:00:28Z",
+      "id": "6453d1c8dbc5bffa094051f68b493ed3",
+      "comments": "https://news.ycombinator.com/item?id=47527399"
+    },
     {
       "title": "Data is everywhere. The government is buying it without a warrant",
       "link": "https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic",
@@ -25,6 +124,14 @@
       "category": "sports",
       "published": "2026-03-26T05:32:33Z",
       "id": "0e53f482f031f59a7bbf0fd883a1e983"
+    },
+    {
+      "title": "[Highlight] All 15 points from the Minnesota Timberwolves OT comeback. They overcome a 13-point deficit, the largest OT comeback in the play-by-play era, to defeat Houston 110-108.",
+      "link": "https://www.reddit.com/r/nba/comments/1s3yg1f/highlight_all_15_points_from_the_minnesota/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-26T05:07:54Z",
+      "id": "828717e746880114f9aa5afd4c1967fe"
     },
     {
       "title": "[Highlight] Guarding in isolation with the game on the line, Rudy Gobert gets the massive stop on Kevin Durant",
@@ -114,6 +221,33 @@
       "published": "2026-03-26T03:55:52Z",
       "id": "a588e4f8bba38c59a20c497b3270163c",
       "comments": "https://news.ycombinator.com/item?id=47526486"
+    },
+    {
+      "title": "Obsolete Sounds",
+      "link": "https://citiesandmemory.com/obsolete-sounds/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T03:54:27Z",
+      "id": "517f929cf6b7cead7ac96c9bd4895f38",
+      "comments": "https://news.ycombinator.com/item?id=47526478"
+    },
+    {
+      "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
+      "link": "https://www.metropolitanreview.org/p/the-last-contract",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T03:54:13Z",
+      "id": "85807f1b938b09ac18500de86966f0f5",
+      "comments": "https://news.ycombinator.com/item?id=47526473"
+    },
+    {
+      "title": "The Cassandra of 'The Machine'",
+      "link": "https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T03:53:40Z",
+      "id": "461a81a15b6368720e0f90066613de84",
+      "comments": "https://news.ycombinator.com/item?id=47526467"
     },
     {
       "title": "Trying to process Principal-level feedback that I partially agree with",
@@ -229,6 +363,15 @@
       "id": "69defd47fe41aee91ead60749dad018d"
     },
     {
+      "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+      "link": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T00:28:38Z",
+      "id": "17e3839fda6a5e114edbf0286a6dd860",
+      "comments": "https://news.ycombinator.com/item?id=47525243"
+    },
+    {
       "title": "Your Website Is Running Code You\u2019ve Never Seen - Scott Helme - NDC Security 2026 [video]",
       "link": "https://www.reddit.com/r/programming/comments/1s3sbod/your_website_is_running_code_youve_never_seen/",
       "source": "r/programming",
@@ -253,29 +396,12 @@
       "id": "0cb6abcbe1bd8458703f0842470672f7"
     },
     {
-      "title": "[Highlight] LeBron bulldozes his way to the hoop for a lefty and-1 finish",
-      "link": "https://www.reddit.com/r/nba/comments/1s3rkp4/highlight_lebron_bulldozes_his_way_to_the_hoop/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-25T23:49:35Z",
-      "id": "d911cc68b88083bad75678bfcb67c5b8"
-    },
-    {
       "title": "D\u2019Andre Swift\u2019s 2024 Season Ranks 13th on SportsNationCo\u2019s Worst RB Season List (2018-2025)",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s3r7ok/dandre_swifts_2024_season_ranks_13th_on/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-03-25T23:34:29Z",
       "id": "a5622aaeae59d92eceac2e829fa53931"
-    },
-    {
-      "title": "Woman who never stopped updating her lost dog's chip reunites with him after 11y",
-      "link": "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T23:30:55Z",
-      "id": "921cfc83bef9d3ef8832680ffce8aad5",
-      "comments": "https://news.ycombinator.com/item?id=47524719"
     },
     {
       "title": "Show HN: A plain-text cognitive architecture for Claude Code",
@@ -301,15 +427,6 @@
       "category": "sports",
       "published": "2026-03-25T23:17:09Z",
       "id": "086b9a3547c2db98a6d17bcc6bf37bc9"
-    },
-    {
-      "title": "\"Disregard That\" Attacks",
-      "link": "https://calpaterson.com/disregard.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T23:11:34Z",
-      "id": "eabadf9efb2bac8e12a2fe36ba82e3a9",
-      "comments": "https://news.ycombinator.com/item?id=47524519"
     },
     {
       "title": "What makes a QA engineer easy and likeable to work with?",
@@ -458,21 +575,21 @@
       "comments": "https://news.ycombinator.com/item?id=47522709"
     },
     {
-      "title": "Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range",
-      "link": "https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T20:19:58Z",
-      "id": "f2cfbfa1244d3c5918a989858cf714a1",
-      "comments": "https://news.ycombinator.com/item?id=47522608"
-    },
-    {
       "title": "Rams' Puka Nacua sued over alleged antisemitic remark, bite",
       "link": "https://www.reddit.com/r/nfl/comments/1s3lx4j/rams_puka_nacua_sued_over_alleged_antisemitic/",
       "source": "r/nfl",
       "category": "sports",
       "published": "2026-03-25T20:14:04Z",
       "id": "ea6f81ca0f883f6b4e0208cebd143f8c"
+    },
+    {
+      "title": "Personal Encyclopedias",
+      "link": "https://whoami.wiki/blog/personal-encyclopedias",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-25T19:41:51Z",
+      "id": "5769985f416d2a9f9d5b4082f6962e0b",
+      "comments": "https://news.ycombinator.com/item?id=47522173"
     },
     {
       "title": "Ravens\u2019 mysterious collab with Elon Musk\u2019s tunnel company ends before it begins",
@@ -491,15 +608,6 @@
       "id": "839d19dcb91527bc4f69504020f7c7ce"
     },
     {
-      "title": "FreeCAD  v1.1",
-      "link": "https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T19:19:50Z",
-      "id": "62911e2f17617179d867fbc0612a53e4",
-      "comments": "https://news.ycombinator.com/item?id=47521945"
-    },
-    {
       "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
       "link": "https://lapcatsoftware.com/articles/2026/3/11.html",
       "source": "Hacker News",
@@ -507,15 +615,6 @@
       "published": "2026-03-25T19:14:42Z",
       "id": "fd768907e4ea0510789fdd6dad185c25",
       "comments": "https://news.ycombinator.com/item?id=47521876"
-    },
-    {
-      "title": "Updates to GitHub Copilot interaction data usage policy",
-      "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T19:09:16Z",
-      "id": "969f82caa3f82837ba79bf4a9c4f4176",
-      "comments": "https://news.ycombinator.com/item?id=47521799"
     },
     {
       "title": "[Schefter] The 49ers and Rams will play Thursday, Sept. 10 at 5:35 p.m. PT at the Melbourne Cricket Ground in Australia. Due to the 17-hour time difference, the 49ers and Rams will take the field Friday at 10:35 a.m. (AEST) in Melbourne, with the game airing Thursday evening in the United States.",
@@ -598,14 +697,6 @@
       "category": "sports",
       "published": "2026-03-25T18:05:37Z",
       "id": "6cbb2f6cdeed333befceda86d13370ab"
-    },
-    {
-      "title": "Are we about to see the mainstreaming of Formal Verification? The paradigm shift from \"generating\" code to \"proving\" it.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s3ib35/are_we_about_to_see_the_mainstreaming_of_formal/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-25T18:04:22Z",
-      "id": "f7a80c6e43c411d8feac477bf53fc5c6"
     },
     {
       "title": "Daily Discussion Thread + Game Thread Index",
@@ -861,15 +952,6 @@
       "id": "9624af269830225e6032dd9660466479"
     },
     {
-      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T10:28:49Z",
-      "id": "479a0636352709c17869f768270ee2dd",
-      "comments": "https://news.ycombinator.com/item?id=47515502"
-    },
-    {
       "title": "Small features don\u2019t feel \u201csmall\u201d anymore",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s36xha/small_features_dont_feel_small_anymore/",
       "source": "r/ExperiencedDevs",
@@ -934,14 +1016,6 @@
       "id": "c4c98d6c40d879a0aec8e746898a7bad"
     },
     {
-      "title": "T-shirt Driven Development",
-      "link": "https://www.reddit.com/r/programming/comments/1s2wfne/tshirt_driven_development/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-25T01:01:19Z",
-      "id": "dddc1b7ace18f4ed59a173c9cc64dfee"
-    },
-    {
       "title": "[NextGenStats] Most 1st Downs or TDs in the 4th Quarter of One-Possession Games in 2025",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s2vwqz/nextgenstats_most_1st_downs_or_tds_in_the_4th/",
       "source": "r/CHIBears",
@@ -980,15 +1054,6 @@
       "category": "tech",
       "published": "2026-03-24T22:22:19Z",
       "id": "7be5406679947dec61af5f56f4d9a713"
-    },
-    {
-      "title": "Jury finds Meta liable in case over child sexual exploitation on its platforms",
-      "link": "https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T21:54:27Z",
-      "id": "24c7b840196ad2a1fb07bd649fb01f3f",
-      "comments": "https://news.ycombinator.com/item?id=47509984"
     },
     {
       "title": "How often are you guys on call?",
@@ -1079,14 +1144,6 @@
       "id": "80160bf1d22bbdaf4c6acf7d5ffda1f5"
     },
     {
-      "title": "Don't Count Java out Yet",
-      "link": "https://www.reddit.com/r/programming/comments/1s2gjgv/dont_count_java_out_yet/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-24T15:12:50Z",
-      "id": "6677e93c6eff5a9b0d7f3c8d110ad86e"
-    },
-    {
       "title": "What was your favorite Bears game to watch last season?",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s2g4s0/what_was_your_favorite_bears_game_to_watch_last/",
       "source": "r/CHIBears",
@@ -1109,22 +1166,6 @@
       "category": "tech",
       "published": "2026-03-24T11:53:01Z",
       "id": "ee163c4dd4e87c0f1fcdeb6c19949cea"
-    },
-    {
-      "title": "What is your mentorship style?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s29jjc/what_is_your_mentorship_style/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-24T10:02:06Z",
-      "id": "4f20672a42f1c1b5f80d9144aae53ebb"
-    },
-    {
-      "title": "Why do ci pipeline failures keep blocking deployments when nobody can agree on who owns the fix",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s28box/why_do_ci_pipeline_failures_keep_blocking/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-24T08:46:55Z",
-      "id": "758074c85c0f61b3f6e8ff18a66d0c05"
     },
     {
       "title": "How do you evaluate whether to stay at a company or move on?",
@@ -1168,20 +1209,21 @@
       "id": "58bcef1d903eda9103ec6e278d3d03a6"
     },
     {
+      "title": "Maxell MXCP-P100 \u2013 wireless cassette player",
+      "link": "https://maxell-usa.com/product/cassetteplayer/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-24T01:56:51Z",
+      "id": "bb92c95ecefa1963aac5725e1ca269f9",
+      "comments": "https://news.ycombinator.com/item?id=47497781"
+    },
+    {
       "title": "\u201cCan you describe Patrick Williams career in a single clip?\u201d",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s20p0f/can_you_describe_patrick_williams_career_in_a/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-03-24T01:49:29Z",
       "id": "b62fb99e6c9a79904d65c1841d5d0651"
-    },
-    {
-      "title": "Generators in lone lisp",
-      "link": "https://www.reddit.com/r/programming/comments/1s2077v/generators_in_lone_lisp/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-24T01:28:03Z",
-      "id": "9d9729b7b26ff3cd0e583f1b6bb7bc3e"
     },
     {
       "title": "[The Athletic Football Show] Colston Loveland Breaking Down Plays With Robert Mays",
@@ -1214,6 +1256,15 @@
       "category": "sports",
       "published": "2026-03-23T22:21:33Z",
       "id": "6f256adeb0a8cd810e0a61b6c10acf15"
+    },
+    {
+      "title": "Niche Museums",
+      "link": "https://www.niche-museums.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T20:57:19Z",
+      "id": "0b158b54c31cd8ed378b6a4168e43c40",
+      "comments": "https://news.ycombinator.com/item?id=47495008"
     },
     {
       "title": "How I think we'll approach the draft based on positional value by round",
@@ -1273,23 +1324,6 @@
       "id": "0891d2064acf8df13e3c4eae9926bb51"
     },
     {
-      "title": "The Mystery of Rennes-Le-Ch\u00e2teau, Part 1: The Priest's Treasure",
-      "link": "https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-23T16:12:55Z",
-      "id": "16f87d13dde348f2b1e88fd35cb7e82a",
-      "comments": "https://news.ycombinator.com/item?id=47491481"
-    },
-    {
-      "title": "Is waterfall making a quiet comeback? (sort of)",
-      "link": "https://www.reddit.com/r/programming/comments/1s1jkki/is_waterfall_making_a_quiet_comeback_sort_of/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-23T15:11:41Z",
-      "id": "1e2f91f884c5c0b94a7e0d5a38eb119a"
-    },
-    {
       "title": "Chicago Bulls starting line-up 8 years ago(March 22, 2018)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s1ipj3/chicago_bulls_starting_lineup_8_years_agomarch_22/",
       "source": "r/chicagobulls",
@@ -1322,6 +1356,15 @@
       "id": "e2c7dfafbebc056e4b7f5eac48df5da3"
     },
     {
+      "title": "What came after the 486?",
+      "link": "https://dfarq.homeip.net/what-came-after-486/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T12:09:35Z",
+      "id": "322b9372278053f202775e66970e30b2",
+      "comments": "https://news.ycombinator.com/item?id=47488348"
+    },
+    {
       "title": "Software dev job postings are up 15% since mid 2025",
       "link": "https://www.reddit.com/r/programming/comments/1s1e4il/software_dev_job_postings_are_up_15_since_mid_2025/",
       "source": "r/programming",
@@ -1344,14 +1387,6 @@
       "category": "sports",
       "published": "2026-03-23T01:12:11Z",
       "id": "4fc74f373e6418b83ec64f3008a69e55"
-    },
-    {
-      "title": "Why does old Soldier Field's grass look almost sea green?",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1s12e9n/why_does_old_soldier_fields_grass_look_almost_sea/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-03-23T00:38:31Z",
-      "id": "2a062e2579b3769682df855409dd1e59"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
@@ -1394,41 +1429,6 @@
       "published": "2026-03-22T15:34:44Z",
       "id": "0d9959852c5828bd4f09d9fc7cd4bc5e",
       "comments": "https://news.ycombinator.com/item?id=47478599"
-    },
-    {
-      "title": "My astrophotography in the movie Project Hail Mary",
-      "link": "https://rpastro.square.site/s/stories/phm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-22T14:28:06Z",
-      "id": "e15b903076367e10d3f6256bc68938ab",
-      "comments": "https://news.ycombinator.com/item?id=47477873"
-    },
-    {
-      "title": "Rendering complex scripts in terminal and OSC 66",
-      "link": "https://thottingal.in/blog/2026/03/22/complex-scripts-in-terminal/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-22T09:31:08Z",
-      "id": "c90a62bef90770199c5f278c5410f4a0",
-      "comments": "https://news.ycombinator.com/item?id=47475826"
-    },
-    {
-      "title": "Fred Hoiberg has taken Nebrasketball to the Sweet 16",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1s0b27f/fred_hoiberg_has_taken_nebrasketball_to_the_sweet/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-03-22T03:22:18Z",
-      "id": "01d1c91ed641f2f1650d748d5eab5705"
-    },
-    {
-      "title": "Do Architects Still Need to Draw? (2020)",
-      "link": "https://www.lifeofanarchitect.com/do-architects-still-need-to-draw/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-22T02:43:17Z",
-      "id": "6bbe2063ce8e9f6d1f652c9887d04d95",
-      "comments": "https://news.ycombinator.com/item?id=47473946"
     },
     {
       "title": "The truth that haunts the Ramones: 'They sold more T-shirts than records'",
