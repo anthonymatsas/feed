@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-03-27T02:00:42.642352Z",
+  "last_updated": "2026-03-27T05:03:39.097981Z",
   "items": [
+    {
+      "title": "Schedule Claude Code tasks on the web",
+      "link": "https://code.claude.com/docs/en/web-scheduled-tasks",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-27T04:47:15Z",
+      "id": "d130ac93bfe6cd783bf95832d324de96",
+      "comments": "https://news.ycombinator.com/item?id=47539188"
+    },
+    {
+      "title": "I am working on something to make following tutorials alot easier.",
+      "link": "https://www.reddit.com/r/programming/comments/1s4tupd/i_am_working_on_something_to_make_following/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-27T04:07:54Z",
+      "id": "247cb943387b6f17bae7eeaf6faf9c7f"
+    },
+    {
+      "title": "Jaylen Brown \"Lu Dort smacked me upside the head like I\u2019m one of his grandkids.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1s4sw55/jaylen_brown_lu_dort_smacked_me_upside_the_head/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-27T03:21:27Z",
+      "id": "5162e7f5b79e4425833c8b4b0d840666"
+    },
+    {
+      "title": "Database Performance Bottlenecks: N+1 Queries, Missing Indexes, and Connection Pools",
+      "link": "https://www.reddit.com/r/programming/comments/1s4s96t/database_performance_bottlenecks_n1_queries/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-27T02:52:31Z",
+      "id": "5e4e9689872e5376f8d8b20eb1b2005b"
+    },
+    {
+      "title": "Quantum frontiers may be closer than they appear - Google's timeline for PQC migration",
+      "link": "https://www.reddit.com/r/programming/comments/1s4s0m1/quantum_frontiers_may_be_closer_than_they_appear/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-27T02:41:46Z",
+      "id": "c46d337cb2c28455bdefb2ee56f1b4e0"
+    },
+    {
+      "title": "ESPN \"Knueppel should win the Rookie of the Year award, and for as well as Flagg has played, the decision shouldn't be that close.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1s4rojs/espn_knueppel_should_win_the_rookie_of_the_year/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-27T02:26:20Z",
+      "id": "a4478b45f936b9185d88dbadead3a669"
+    },
+    {
+      "title": "HandyMKV for MakeMKV and HandBrake Automation",
+      "link": "https://github.com/dmars8047/handymkv",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-27T02:19:12Z",
+      "id": "2d9b3c76b4761a2b58b99d83b598491b",
+      "comments": "https://news.ycombinator.com/item?id=47538433"
+    },
+    {
+      "title": "Atlanta Hawks are 14-2 since trading for Gabe Vincent",
+      "link": "https://www.reddit.com/r/nba/comments/1s4r6q1/atlanta_hawks_are_142_since_trading_for_gabe/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-27T02:04:24Z",
+      "id": "dbd10ac19d469c63624e4d679a892b7c"
+    },
     {
       "title": "I kinda want to listen to old bears games",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s4qwrd/i_kinda_want_to_listen_to_old_bears_games/",
@@ -8,6 +74,15 @@
       "category": "sports",
       "published": "2026-03-27T01:52:21Z",
       "id": "3ac9d1c73505f05925d5d7cb5c5c4b15"
+    },
+    {
+      "title": "Agent-to-Agent Pair Programming",
+      "link": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-27T01:47:55Z",
+      "id": "9db029a885c8a7dba7dca70becd0064d",
+      "comments": "https://news.ycombinator.com/item?id=47538190"
     },
     {
       "title": "Charlotte Hornets have played 32 games with the starting lineup of LaMelo Ball, Kon Knueppel, Brandon Miller, Miles Bridges, and Moussa Diabat\u00e9. Of those 32 games, they are 27 and 5.",
@@ -67,6 +142,14 @@
       "id": "a7f255ef6331853a359707417376d2fc"
     },
     {
+      "title": "[Bill Simmons] \u2018I think this has been one of the worst coaching jobs of the year. Ime makes no adjustments, the vibes are awful\u2026I don\u2019t think he likes the team.\u2019",
+      "link": "https://www.reddit.com/r/nba/comments/1s4q6cq/bill_simmons_i_think_this_has_been_one_of_the/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-27T01:19:47Z",
+      "id": "2ddc61ddcccc633c3661ec9258fe33a6"
+    },
+    {
       "title": "3 out of 22 features had a real customer behind them",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s4pk0c/3_out_of_22_features_had_a_real_customer_behind/",
       "source": "r/ExperiencedDevs",
@@ -81,6 +164,14 @@
       "category": "sports",
       "published": "2026-03-27T00:51:34Z",
       "id": "d82bfff6815e8a04caf3fae39b9cb420"
+    },
+    {
+      "title": "NFL expected to open up local preseason rights to streamers",
+      "link": "https://www.reddit.com/r/nfl/comments/1s4pan3/nfl_expected_to_open_up_local_preseason_rights_to/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-27T00:41:08Z",
+      "id": "4d2bc515dbad29f88825723900a8c655"
     },
     {
       "title": "[Highlight] LaMelo Ball with back to back 3s, the rebound, and the assist to Kon Knueppel, who hits a 3 of his own. Knicks timeout",
@@ -197,15 +288,6 @@
       "id": "91d4bbf399e0c520acefa2d8adc454bf"
     },
     {
-      "title": "Order Granting Preliminary Injunction \u2013 Anthropic vs. U.S. Department of War [pdf]",
-      "link": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-26T23:11:45Z",
-      "id": "77d2bef09769df3f44fef92d711d0a75",
-      "comments": "https://news.ycombinator.com/item?id=47537051"
-    },
-    {
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
       "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
       "source": "Hacker News",
@@ -213,6 +295,15 @@
       "published": "2026-03-26T22:41:25Z",
       "id": "1c6a9a0bb01a065e586f53d69fa32b68",
       "comments": "https://news.ycombinator.com/item?id=47536761"
+    },
+    {
+      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+      "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T22:36:41Z",
+      "id": "2693a2bb4ada0b56e320bff795831c4e",
+      "comments": "https://news.ycombinator.com/item?id=47536712"
     },
     {
       "title": "At age 22, Victor Wembanyama is already anchoring lineups with an on-court net rating that surpasses peak seasons from LeBron, Shaq, Kobe and other all time greats, with significant room for team context to improve.",
@@ -272,12 +363,12 @@
       "id": "e33eb37316bc5d94c8ef41c805bbc7a3"
     },
     {
-      "title": "Apple discontinues the Mac Pro with no plans for future hardware",
+      "title": "Apple discontinues the Mac Pro",
       "link": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-26T21:04:50Z",
-      "id": "0602b12efb4942d362495f148c5c438c",
+      "id": "186f4380e0c0e8793d4c8a16502e581c",
       "comments": "https://news.ycombinator.com/item?id=47535708"
     },
     {
@@ -348,15 +439,6 @@
       "comments": "https://news.ycombinator.com/item?id=47534848"
     },
     {
-      "title": "How much precision can you squeeze out of a table?",
-      "link": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-26T19:47:01Z",
-      "id": "390f8aee2697f573e3d659c313952ad4",
-      "comments": "https://news.ycombinator.com/item?id=47534837"
-    },
-    {
       "title": "Sen. Bernie Sanders\u2019 bill aims to slow \u2014 or stop \u2014 teams like the Chicago Bears from moving to other states",
       "link": "https://www.reddit.com/r/nfl/comments/1s4hrmt/sen_bernie_sanders_bill_aims_to_slow_or_stop/",
       "source": "r/nfl",
@@ -372,6 +454,15 @@
       "published": "2026-03-26T19:30:35Z",
       "id": "6e06f16026e9bbf295b30dcdb4896eae",
       "comments": "https://news.ycombinator.com/item?id=47534629"
+    },
+    {
+      "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+      "link": "https://www.trychroma.com/research/context-1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T19:25:19Z",
+      "id": "c940b79844c392c5e9f735f980765aee",
+      "comments": "https://news.ycombinator.com/item?id=47534564"
     },
     {
       "title": "[Schefter] Browns Said They Aren't Trading Myles Garrett Despite Contract Adjustment",
@@ -555,15 +646,6 @@
       "id": "f445815eb3ae286fe592aa00e018d3d9"
     },
     {
-      "title": "Stripe Projects: Provision and manage services from the CLI",
-      "link": "https://projects.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-26T16:00:57Z",
-      "id": "a6ddb0f3ec8bc57a98aaccda42fac9dd",
-      "comments": "https://news.ycombinator.com/item?id=47532148"
-    },
-    {
       "title": "Building a NES Emulator from Scratch",
       "link": "https://www.reddit.com/r/programming/comments/1s4bj6i/building_a_nes_emulator_from_scratch/",
       "source": "r/programming",
@@ -603,14 +685,6 @@
       "category": "tech",
       "published": "2026-03-26T15:18:30Z",
       "id": "611024129d2150f4beb5a563d89f4ae7"
-    },
-    {
-      "title": "Cooper Flagg has scored the 7th most points in a single season by a teenager in NBA history, passing Kobe Bryant",
-      "link": "https://www.reddit.com/r/nba/comments/1s49szc/cooper_flagg_has_scored_the_7th_most_points_in_a/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-26T14:58:06Z",
-      "id": "258324d3e7cf44fe3be121d8ed3f644a"
     },
     {
       "title": "Tests as Institutional Memory",
@@ -686,14 +760,6 @@
       "id": "005320589cff80a1923cfaf135fd1361"
     },
     {
-      "title": "Bills are the favorites to win the AFC East",
-      "link": "https://www.reddit.com/r/nfl/comments/1s45ihw/bills_are_the_favorites_to_win_the_afc_east/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-26T12:01:53Z",
-      "id": "4bfdd7b8023ce27a418bbf3e3262fe60"
-    },
-    {
       "title": "From zero to a RAG system: successes and failures",
       "link": "https://www.reddit.com/r/programming/comments/1s45e9i/from_zero_to_a_rag_system_successes_and_failures/",
       "source": "r/programming",
@@ -716,15 +782,6 @@
       "category": "sports",
       "published": "2026-03-26T11:48:30Z",
       "id": "c743d4b5ef5b2896c7d5feb5bb681b70"
-    },
-    {
-      "title": "Show HN: Veil \u2013 Dark mode PDFs without destroying images, runs in the browser",
-      "link": "https://veil.simoneamico.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-26T11:47:26Z",
-      "id": "fc396bbc3a9675ed33bd885eaaf2a69c",
-      "comments": "https://news.ycombinator.com/item?id=47529306"
     },
     {
       "title": "[Berman] The Eagles Might Want a Stadium With a Roof So They Can Host a Super Bowl & Other Big Events",
@@ -791,15 +848,6 @@
       "id": "45ff88d537ccadfe040cc2a4e22d4a84"
     },
     {
-      "title": "Swift 6.3",
-      "link": "https://www.swift.org/blog/swift-6.3-released/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-26T07:27:11Z",
-      "id": "a683b4b6a8a6e6f3b16a28571ee62f77",
-      "comments": "https://news.ycombinator.com/item?id=47527590"
-    },
-    {
       "title": "Redash's Python sandbox escape gives attackers full server access. Vendor says \"use at your own risk\"",
       "link": "https://www.reddit.com/r/programming/comments/1s40jgg/redashs_python_sandbox_escape_gives_attackers/",
       "source": "r/programming",
@@ -814,22 +862,6 @@
       "category": "sports",
       "published": "2026-03-26T05:32:33Z",
       "id": "0e53f482f031f59a7bbf0fd883a1e983"
-    },
-    {
-      "title": "[Eichten] Julius Randle just now walking down the hallway to the locker room: \u201cThat shit didn\u2019t work Scott Foster\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1s3y0vk/eichten_julius_randle_just_now_walking_down_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-26T04:45:41Z",
-      "id": "483480057fdb54e7b50882b8ed018ed5"
-    },
-    {
-      "title": "[Highlight] Naz Reid is called for the offensive foul OT, the Timberwolves challenge the call, but to the surprise of the announcers and the Timberwolves players/coaches, the call was not overturned, and Scott Foster tosses Naz Reid from the game after a protest.",
-      "link": "https://www.reddit.com/r/nba/comments/1s3xviz/highlight_naz_reid_is_called_for_the_offensive/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-26T04:37:57Z",
-      "id": "89bf81cc6d99206848959dcf30710851"
     },
     {
       "title": "Trying to process Principal-level feedback that I partially agree with",
@@ -862,14 +894,6 @@
       "category": "sports",
       "published": "2026-03-26T02:30:13Z",
       "id": "776269985e0e123934d768b2c267b8cb"
-    },
-    {
-      "title": "[Highlight] Jaylen Brown catches SGA with the pumpfake",
-      "link": "https://www.reddit.com/r/nba/comments/1s3ufga/highlight_jaylen_brown_catches_sga_with_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-26T01:53:16Z",
-      "id": "c1159669d019cf868819ffd74980eae7"
     },
     {
       "title": "PSA: Supply Chain Attack will be a new normal, and we need to be cautious about it",
@@ -926,14 +950,6 @@
       "category": "sports",
       "published": "2026-03-25T22:00:03Z",
       "id": "066d7574399bb25890e4377bb5afe55a"
-    },
-    {
-      "title": "octopos: xv6 based operating system for risc-v in rust",
-      "link": "https://www.reddit.com/r/programming/comments/1s3op40/octopos_xv6_based_operating_system_for_riscv_in/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-25T21:56:42Z",
-      "id": "30225fc2da9132883abad3d5c3067bc9"
     },
     {
       "title": "Smoke Around Billy Donovan Leaving the Chicago Bulls for UNC is Growing Fast",
@@ -999,14 +1015,6 @@
       "category": "tech",
       "published": "2026-03-25T20:41:52Z",
       "id": "bc5433556afe1cf3ba421512a70fe6b7"
-    },
-    {
-      "title": "Convert Once, Consume Many: SDF for Cacheable, Typed Semantic Extraction from Web Pages",
-      "link": "https://www.reddit.com/r/programming/comments/1s3jc75/convert_once_consume_many_sdf_for_cacheable_typed/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-25T18:41:09Z",
-      "id": "1db996fd598bc5413c64cd4d8191f149"
     },
     {
       "title": "Fuck it, Sid Luckman highlights",
@@ -1283,29 +1291,12 @@
       "id": "b9d183c9ac922830e3e538f76aa36880"
     },
     {
-      "title": "Malicious litellm 1.82.8: Credential Theft and Persistent Backdoor",
-      "link": "https://www.reddit.com/r/programming/comments/1s2h4by/malicious_litellm_1828_credential_theft_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-24T15:33:36Z",
-      "id": "80160bf1d22bbdaf4c6acf7d5ffda1f5"
-    },
-    {
       "title": "What was your favorite Bears game to watch last season?",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s2g4s0/what_was_your_favorite_bears_game_to_watch_last/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-03-24T14:58:15Z",
       "id": "7fcc610d7b9acb507b7e7846c3263d29"
-    },
-    {
-      "title": "From zero to a RAG system: successes and failures",
-      "link": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T06:53:30Z",
-      "id": "e6df8cffe3f700fb6dac5b3ca785521e",
-      "comments": "https://news.ycombinator.com/item?id=47499356"
     },
     {
       "title": "World Bear Day",
@@ -1364,15 +1355,6 @@
       "id": "6f256adeb0a8cd810e0a61b6c10acf15"
     },
     {
-      "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
-      "link": "https://blog.cloudflare.com/gen13-launch/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-23T22:06:49Z",
-      "id": "5e530862523dbe863b43800227930f0d",
-      "comments": "https://news.ycombinator.com/item?id=47495795"
-    },
-    {
       "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
       "link": "https://atgreen.github.io/repl-yell/posts/whistler/",
       "source": "Hacker News",
@@ -1380,6 +1362,15 @@
       "published": "2026-03-23T21:13:16Z",
       "id": "5c655656026bdeaad6f37c0a2c1918bf",
       "comments": "https://news.ycombinator.com/item?id=47495190"
+    },
+    {
+      "title": "Every Kid Gets a Robot",
+      "link": "https://www.steamconnection.org/ekgar",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T21:03:27Z",
+      "id": "e05dbd95fddafbd953fe3aadf549ebb3",
+      "comments": "https://news.ycombinator.com/item?id=47495076"
     },
     {
       "title": "Ran into Ben Johnson today",
@@ -1413,6 +1404,15 @@
       "category": "sports",
       "published": "2026-03-23T14:11:09Z",
       "id": "d9e51bdfc24218f73a741ac1601d84ba"
+    },
+    {
+      "title": "Generators in Lone Lisp",
+      "link": "https://www.matheusmoreira.com/articles/generators-in-lone-lisp",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T13:51:03Z",
+      "id": "70a3a72c921615f48aabc6c9a2227471",
+      "comments": "https://news.ycombinator.com/item?id=47489535"
     },
     {
       "title": "Dobase \u2013 Your workspace, your server",
