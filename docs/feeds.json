@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-03-27T07:01:52.316430Z",
+  "last_updated": "2026-03-27T09:51:06.878850Z",
   "items": [
+    {
+      "title": "Want Feedback on my coding skills",
+      "link": "https://www.reddit.com/r/programming/comments/1s4ziv5/want_feedback_on_my_coding_skills/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-27T09:44:14Z",
+      "id": "02f5044e4ce2e292fb354832cc15339d"
+    },
+    {
+      "title": "Suddenly energy independence feels practical:Europeans building mini solar farms",
+      "link": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-27T08:55:43Z",
+      "id": "1333047ff92777d37408ac6564c13b48",
+      "comments": "https://news.ycombinator.com/item?id=47540383"
+    },
+    {
+      "title": "What Happened To WebAssembly",
+      "link": "https://www.reddit.com/r/programming/comments/1s4ypq8/what_happened_to_webassembly/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-27T08:53:44Z",
+      "id": "788503665a24417a5e9a508ff3e7b63c"
+    },
+    {
+      "title": "Deep Dive into Kafka Offset Commit with Spring Boot",
+      "link": "https://www.reddit.com/r/programming/comments/1s4yhua/deep_dive_into_kafka_offset_commit_with_spring/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-27T08:39:40Z",
+      "id": "b9625ee046610fd769591b4af5fd4e4c"
+    },
+    {
+      "title": "Long-harness agentic programming",
+      "link": "https://www.reddit.com/r/programming/comments/1s4ygvi/longharness_agentic_programming/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-27T08:37:52Z",
+      "id": "b2ba2b1a5f902d52eb1ece38aa1e3bd5"
+    },
+    {
+      "title": "Agentic code workflows with Nick Tune",
+      "link": "https://www.reddit.com/r/programming/comments/1s4xp76/agentic_code_workflows_with_nick_tune/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-27T07:48:54Z",
+      "id": "4297bed8f566fbf9c32848f74370a6f9"
+    },
+    {
+      "title": "Could using HTTP RESTful API for network managment be viable?",
+      "link": "https://www.reddit.com/r/programming/comments/1s4x8pt/could_using_http_restful_api_for_network/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-27T07:18:54Z",
+      "id": "bb4b10a317c7033c046e74cf456476f0"
+    },
+    {
+      "title": "A Faster Alternative to Jq",
+      "link": "https://micahkepe.com/blog/jsongrep/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-27T07:12:26Z",
+      "id": "931ba793165a1511678a3d3d2fb05932",
+      "comments": "https://news.ycombinator.com/item?id=47539825"
+    },
+    {
+      "title": "The European AllSky7 fireball network",
+      "link": "https://www.allsky7.net/#archive",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-27T07:00:49Z",
+      "id": "50e374d74bd9986e7d611a4be6b9efe9",
+      "comments": "https://news.ycombinator.com/item?id=47539767"
+    },
     {
       "title": "Secure Programming of Web Applications: Cross-Site Request Forgery (CSRF)",
       "link": "https://www.reddit.com/r/programming/comments/1s4wpxk/secure_programming_of_web_applications_crosssite/",
@@ -18,14 +93,6 @@
       "id": "2874fdae52ff604f9a3c3d2a6347793e"
     },
     {
-      "title": "Is bcrypt still a good choice in 2026, or should we be using Argon2id now?",
-      "link": "https://www.reddit.com/r/programming/comments/1s4wn5o/is_bcrypt_still_a_good_choice_in_2026_or_should/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-27T06:41:59Z",
-      "id": "b287689964af5780bd9964282b63f8d1"
-    },
-    {
       "title": "[NBC] NBA HOFer George Gervin Is Challenging Bears QB Caleb Williams' Effort to Secure Trademark Protection for the Term \"Iceman\"",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s4wkli/nbc_nba_hofer_george_gervin_is_challenging_bears/",
       "source": "r/chicagobulls",
@@ -34,12 +101,12 @@
       "id": "858975def86b337d9388ee469f039f70"
     },
     {
-      "title": "Local-first architecture in a browser extension (no APIs, no server)",
-      "link": "https://www.reddit.com/r/programming/comments/1s4w0t1/localfirst_architecture_in_a_browser_extension_no/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-27T06:04:47Z",
-      "id": "7c6cac69275115cdd0ebbae9c6d6225a"
+      "title": "Impressive stat: DeMar DeRozan has played 60 or more games every single season of his career (17 years). Averaging over 30mpg for his career",
+      "link": "https://www.reddit.com/r/nba/comments/1s4w4sr/impressive_stat_demar_derozan_has_played_60_or/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-27T06:11:03Z",
+      "id": "67bfed7a5e498a5a8796e5476916a501"
     },
     {
       "title": "Google warns quantum computers could hack encrypted systems by 2029",
@@ -65,14 +132,6 @@
       "category": "sports",
       "published": "2026-03-27T04:12:50Z",
       "id": "6928e6f058e9d56d95acd5264e870118"
-    },
-    {
-      "title": "I am working on something to make following tutorials alot easier.",
-      "link": "https://www.reddit.com/r/programming/comments/1s4tupd/i_am_working_on_something_to_make_following/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-27T04:07:54Z",
-      "id": "247cb943387b6f17bae7eeaf6faf9c7f"
     },
     {
       "title": "Jaylen Brown \"Lu Dort smacked me upside the head like I\u2019m one of his grandkids.\"",
@@ -105,15 +164,6 @@
       "category": "sports",
       "published": "2026-03-27T02:26:20Z",
       "id": "a4478b45f936b9185d88dbadead3a669"
-    },
-    {
-      "title": "HandyMKV for MakeMKV and HandBrake Automation",
-      "link": "https://github.com/dmars8047/handymkv",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-27T02:19:12Z",
-      "id": "2d9b3c76b4761a2b58b99d83b598491b",
-      "comments": "https://news.ycombinator.com/item?id=47538433"
     },
     {
       "title": "Atlanta Hawks are 14-2 since trading for Gabe Vincent",
@@ -155,15 +205,6 @@
       "category": "tech",
       "published": "2026-03-27T01:34:54Z",
       "id": "9018b4471a0209daf30411f757954b3a"
-    },
-    {
-      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
-      "link": "https://www.symbolica.ai/blog/arc-agi-3",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-27T01:32:10Z",
-      "id": "1e927606903173d8c74ab88677a6a6ed",
-      "comments": "https://news.ycombinator.com/item?id=47538078"
     },
     {
       "title": "[Post Game Thread] The Charlotte Hornets (39-34) defeat the New York Knicks (48-26), 114-103.",
@@ -309,14 +350,6 @@
       "published": "2026-03-26T23:18:38Z",
       "id": "68fae8a203a5cb08991ff21604fe1288",
       "comments": "https://news.ycombinator.com/item?id=47537106"
-    },
-    {
-      "title": "How do you know technical debt is piling up?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s4n8i4/how_do_you_know_technical_debt_is_piling_up/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-26T23:16:02Z",
-      "id": "91d4bbf399e0c520acefa2d8adc454bf"
     },
     {
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
@@ -520,15 +553,6 @@
       "id": "6c1a312a95856ad7297db4e6e44960e2"
     },
     {
-      "title": "Show HN: Turbolite \u2013 a SQLite VFS serving sub-250ms cold JOIN queries from S3",
-      "link": "https://github.com/russellromney/turbolite",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-26T18:58:19Z",
-      "id": "70c82e982ae1cea8b4fe038df1d3981a",
-      "comments": "https://news.ycombinator.com/item?id=47534283"
-    },
-    {
       "title": "[Pulli] Source: Missouri pass-rusher Zion Young has more than 10 pre-draft visits (Including Chicago Bears)",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s4gekk/pulli_source_missouri_passrusher_zion_young_has/",
       "source": "r/CHIBears",
@@ -634,14 +658,6 @@
       "category": "sports",
       "published": "2026-03-26T16:39:15Z",
       "id": "9ebdaa1769c0b3976328c3605a4ea75f"
-    },
-    {
-      "title": "Carrier Classes & Discussing Syntax - Inside Java Podcast 52",
-      "link": "https://www.reddit.com/r/programming/comments/1s4c1s1/carrier_classes_discussing_syntax_inside_java/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-26T16:18:22Z",
-      "id": "ad6db5c818d4f39003ac29ba3e970b67"
     },
     {
       "title": "OpenTelemetry profiles enters public alpha",
@@ -758,6 +774,15 @@
       "id": "00b73fb1915d231ff62161c9c05e2280"
     },
     {
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "link": "https://unterwaditzer.net/2025/codeberg.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T13:38:25Z",
+      "id": "93fea273e1c56b6a36abb2d38fa82975",
+      "comments": "https://news.ycombinator.com/item?id=47530330"
+    },
+    {
       "title": "The NBA has a problem with what counts as an assist or not. All of these shots were attributed as assists to Jokic, but are they really when the other player is creating everything himself?",
       "link": "https://www.reddit.com/r/nba/comments/1s47mmk/the_nba_has_a_problem_with_what_counts_as_an/",
       "source": "r/nba",
@@ -788,14 +813,6 @@
       "category": "tech",
       "published": "2026-03-26T11:56:35Z",
       "id": "68a3a8e14bf83c95bbaa4af7ee00d9ab"
-    },
-    {
-      "title": "How is Scott Foster still allowed to referee in the NBA?",
-      "link": "https://www.reddit.com/r/nba/comments/1s45dfz/how_is_scott_foster_still_allowed_to_referee_in/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-26T11:55:28Z",
-      "id": "636b863cecc03d6cacc367da1872533f"
     },
     {
       "title": "Dear Adam Silver, There is no tanking problem. There is, however, a gambling and officiating epidemic.",
@@ -860,15 +877,6 @@
       "category": "tech",
       "published": "2026-03-26T08:51:07Z",
       "id": "45ff88d537ccadfe040cc2a4e22d4a84"
-    },
-    {
-      "title": "Swift 6.3",
-      "link": "https://www.swift.org/blog/swift-6.3-released/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-26T07:27:11Z",
-      "id": "a683b4b6a8a6e6f3b16a28571ee62f77",
-      "comments": "https://news.ycombinator.com/item?id=47527590"
     },
     {
       "title": "Redash's Python sandbox escape gives attackers full server access. Vendor says \"use at your own risk\"",
@@ -1016,14 +1024,6 @@
       "id": "58987f8d86bfc5bf83b74644ff826354"
     },
     {
-      "title": "IntelliJ IDEA 2026.1 Is Out!",
-      "link": "https://www.reddit.com/r/programming/comments/1s3mt82/intellij_idea_20261_is_out/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-25T20:46:49Z",
-      "id": "4281db258fa9af83147609e3813d919e"
-    },
-    {
       "title": "Anyone else seeing an uptick in messages from recruiters, particularly startups?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s3mrbh/anyone_else_seeing_an_uptick_in_messages_from/",
       "source": "r/ExperiencedDevs",
@@ -1062,14 +1062,6 @@
       "category": "sports",
       "published": "2026-03-25T17:24:03Z",
       "id": "f3c86e316615c79f89620d93c2a5c3df"
-    },
-    {
-      "title": "Mojo's not (yet) Python",
-      "link": "https://www.reddit.com/r/programming/comments/1s3gbuz/mojos_not_yet_python/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-25T16:54:56Z",
-      "id": "74c4a1e73bc301da8838aaf7a4727974"
     },
     {
       "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
@@ -1225,6 +1217,14 @@
       "id": "57d33e0485492fd32c5bbcb0d384c20b"
     },
     {
+      "title": "How often are you guys on call?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s2rg8z/how_often_are_you_guys_on_call/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-24T21:43:12Z",
+      "id": "0bdc26544b24086feef2c19291b454c8"
+    },
+    {
       "title": "[Cowley] There\u2019s been growing momentum around the building that Donovan could step away from the mess and take a season to reevaluate what he wants from the profession",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s2qd5m/cowley_theres_been_growing_momentum_around_the/",
       "source": "r/chicagobulls",
@@ -1363,6 +1363,15 @@
       "id": "67dce7df336d89e1e85db20780858771"
     },
     {
+      "title": "Everything old is new again: memory optimization",
+      "link": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T18:22:33Z",
+      "id": "8467ccf8e805004b7d299fa122643a2f",
+      "comments": "https://news.ycombinator.com/item?id=47493246"
+    },
+    {
       "title": "The Legibility of Serif and Sans Serif Typefaces (2022)",
       "link": "https://library.oapen.org//handle/20.500.12657/53344",
       "source": "Hacker News",
@@ -1370,6 +1379,15 @@
       "published": "2026-03-23T17:56:31Z",
       "id": "c5c1ce721ca74a82da15fc86898f9422",
       "comments": "https://news.ycombinator.com/item?id=47492894"
+    },
+    {
+      "title": "Show HN: Minimalist library to generate SVG views of scientific data",
+      "link": "https://github.com/alefore/mini_svg/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-23T17:54:51Z",
+      "id": "7735ab32a77da65a0752905608ce813e",
+      "comments": "https://news.ycombinator.com/item?id=47492871"
     },
     {
       "title": "DOOM Over DNS",
@@ -1406,30 +1424,12 @@
       "comments": "https://news.ycombinator.com/item?id=47489535"
     },
     {
-      "title": "Dobase \u2013 Your workspace, your server",
-      "link": "https://dobase.co/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-23T13:24:59Z",
-      "id": "686ba64f56535743810440cfe2922285",
-      "comments": "https://news.ycombinator.com/item?id=47489213"
-    },
-    {
       "title": "Weekly Discussion Thread - March 23, 2026",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s1g7yh/weekly_discussion_thread_march_23_2026/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-03-23T13:01:24Z",
       "id": "e2c7dfafbebc056e4b7f5eac48df5da3"
-    },
-    {
-      "title": "Chopping my brain into bits \u2013 turning my brain into a 3D model on the web",
-      "link": "https://srg.id.au/posts/brain/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-23T08:25:55Z",
-      "id": "eae0b680349203248ee9d29639559262",
-      "comments": "https://news.ycombinator.com/item?id=47486705"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
