@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-03-28T06:54:24.985524Z",
+  "last_updated": "2026-03-28T09:33:11.462435Z",
   "items": [
+    {
+      "title": "interviewer told me i was \"too in my head\" during the system design round. i didnt even know that was feedback you could get",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s5vgn7/interviewer_told_me_i_was_too_in_my_head_during/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-28T09:05:36Z",
+      "id": "46b42544159e0e1d075dd0291a211f70"
+    },
+    {
+      "title": "How I rediscovered ( or discovered ) the right way to use Typescript Interface to do Dependency Inversion",
+      "link": "https://www.reddit.com/r/programming/comments/1s5vb70/how_i_rediscovered_or_discovered_the_right_way_to/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-28T08:57:44Z",
+      "id": "88ad53df27ed3b0271a0368022ca1e63"
+    },
+    {
+      "title": "Positive Case for AI Era",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s5v7f7/positive_case_for_ai_era/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-28T08:51:03Z",
+      "id": "4057cbae3c63659639c825bec9ce0a61"
+    },
+    {
+      "title": "The API-First Workflow That Changed How I Build Fullstack Features",
+      "link": "https://www.reddit.com/r/programming/comments/1s5uq0x/the_apifirst_workflow_that_changed_how_i_build/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-28T08:20:03Z",
+      "id": "6d452986edbfa3de9332ea387351d27d"
+    },
+    {
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-28T08:06:19Z",
+      "id": "b077dd3eaf83340fb56d1e06f2ce8939",
+      "comments": "https://news.ycombinator.com/item?id=47552562"
+    },
+    {
+      "title": "Trying to switch stacks with next position but having a really hard time of it, looking for advice",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s5tva4/trying_to_switch_stacks_with_next_position_but/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-28T07:26:41Z",
+      "id": "2ae3b5dd3e5652e9ab373bc9221364af"
+    },
     {
       "title": "Looking for some career perspective.",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s5srm4/looking_for_some_career_perspective/",
@@ -18,12 +67,12 @@
       "id": "980718a165e2f19454f0f5cfeff1d114"
     },
     {
-      "title": "How I built a superhuman AI for an imperfect information card game",
-      "link": "https://www.reddit.com/r/programming/comments/1s5sgch/how_i_built_a_superhuman_ai_for_an_imperfect/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-28T06:03:41Z",
-      "id": "4916b48c5cced83ab19d43d17e1edd19"
+      "title": "Luka Doncic records his second 40-point game in a row, 6th in the last 12 games and his 15th of the season",
+      "link": "https://www.reddit.com/r/nba/comments/1s5rj3q/luka_doncic_records_his_second_40point_game_in_a/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-28T05:11:54Z",
+      "id": "3788760f2ce68ed47616342bbe5f1c4d"
     },
     {
       "title": "[Highlight] Austin Reaves when asked about Luka's high scoring stretch: 'Yeah and he continues to drop in the MVP race..maybe he's got to score 60, I don't know'",
@@ -546,22 +595,6 @@
       "id": "dca6622d73183145578439ae88182956"
     },
     {
-      "title": "The best tanking solution: No team owning their own 1st round pick?",
-      "link": "https://www.reddit.com/r/nba/comments/1s590rx/the_best_tanking_solution_no_team_owning_their/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-27T16:27:16Z",
-      "id": "c42660e0d1837226fab7e9cdead341d3"
-    },
-    {
-      "title": "Why Software Engineering Will Never Die Revisited In The Age Of Spec Driven Development",
-      "link": "https://www.reddit.com/r/programming/comments/1s58u2f/why_software_engineering_will_never_die_revisited/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-27T16:21:00Z",
-      "id": "fdd0c25931f98c7ef98f7f08201815c5"
-    },
-    {
       "title": "[Fowler] Source: Washington iDL Anterio Thompson has a 30 visit scheduled with the Chicago Bears.",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s58n9g/fowler_source_washington_idl_anterio_thompson_has/",
       "source": "r/CHIBears",
@@ -883,14 +916,6 @@
       "id": "3ac9d1c73505f05925d5d7cb5c5c4b15"
     },
     {
-      "title": "Best way to vet a strong developer before hiring?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s4qir0/best_way_to_vet_a_strong_developer_before_hiring/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-27T01:34:54Z",
-      "id": "9018b4471a0209daf30411f757954b3a"
-    },
-    {
       "title": "3 out of 22 features had a real customer behind them",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s4pk0c/3_out_of_22_features_had_a_real_customer_behind/",
       "source": "r/ExperiencedDevs",
@@ -1021,6 +1046,15 @@
       "comments": "https://news.ycombinator.com/item?id=47532770"
     },
     {
+      "title": "Trust Signals as Sparklines for Hacker News",
+      "link": "https://hn-trustspark.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T16:43:33Z",
+      "id": "adec9d04e86c4d4c321ae3684299bba1",
+      "comments": "https://news.ycombinator.com/item?id=47532717"
+    },
+    {
       "title": "What I Learned from a $2,000 Pen Test",
       "link": "https://www.reddit.com/r/programming/comments/1s4bv9a/what_i_learned_from_a_2000_pen_test/",
       "source": "r/programming",
@@ -1115,6 +1149,15 @@
       "category": "sports",
       "published": "2026-03-26T05:32:33Z",
       "id": "0e53f482f031f59a7bbf0fd883a1e983"
+    },
+    {
+      "title": "Desperately Seeking Space Friends",
+      "link": "https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T03:53:47Z",
+      "id": "273ba9e7d8c2bec3951f8c8bbed2df1e",
+      "comments": "https://news.ycombinator.com/item?id=47526468"
     },
     {
       "title": "Trying to process Principal-level feedback that I partially agree with",
@@ -1221,15 +1264,6 @@
       "id": "fd9be382c65b9ea39175db6523b10375"
     },
     {
-      "title": "Automatically generate all 3D print files for organizing a drawer",
-      "link": "https://geniecrate.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-25T19:12:12Z",
-      "id": "fca66e31e27824b6a6e401e79c2418bf",
-      "comments": "https://news.ycombinator.com/item?id=47521845"
-    },
-    {
       "title": "Fuck it, Sid Luckman highlights",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s3izem/fuck_it_sid_luckman_highlights/",
       "source": "r/CHIBears",
@@ -1255,20 +1289,21 @@
       "comments": "https://news.ycombinator.com/item?id=47520599"
     },
     {
+      "title": "Matadisco \u2013 Decentralized Data Discovery",
+      "link": "https://matadisco.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-25T16:45:52Z",
+      "id": "dd2abaf6fefc8d1b04a26e171bca4bc1",
+      "comments": "https://news.ycombinator.com/item?id=47519845"
+    },
+    {
       "title": "[Borzello] The University of North Carolina is expected to pursue Chicago Bulls head coach Billy Donovan for their basketball coaching vacancy.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s3dwy1/borzello_the_university_of_north_carolina_is/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-03-25T15:26:50Z",
       "id": "d7a10b57c776bbdb86953283a2a10aca"
-    },
-    {
-      "title": "7 YOE - I don't want to get promoted anymore",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s3cml6/7_yoe_i_dont_want_to_get_promoted_anymore/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-25T14:39:35Z",
-      "id": "44ef665d744ce5174d8901467bd8ab0e"
     },
     {
       "title": "PRE GAME: Chicago Bulls (29-42) at Philadelphia 76ers (39-33) (March 25, 2026)",
@@ -1312,14 +1347,6 @@
       "comments": "https://news.ycombinator.com/item?id=47515783"
     },
     {
-      "title": "Are LLMs speedrunning us into product management?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s35v2i/are_llms_speedrunning_us_into_product_management/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-25T09:23:02Z",
-      "id": "9d624ac89534fe34729fc57a597f1092"
-    },
-    {
       "title": "Fets and Crosses: Tic-Tac-Toe built from 2458 discrete transistors",
       "link": "https://schilk.co/projects/fetsncrosses/",
       "source": "Hacker News",
@@ -1336,24 +1363,6 @@
       "published": "2026-03-24T23:34:06Z",
       "id": "2538a3df5fa064d404caaa8317784e58",
       "comments": "https://news.ycombinator.com/item?id=47511112"
-    },
-    {
-      "title": "Type Construction and Cycle Detection",
-      "link": "https://go.dev/blog/type-construction-and-cycle-detection",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T23:00:02Z",
-      "id": "cbd8d839bbecc1b81548f0892136fab9",
-      "comments": "https://news.ycombinator.com/item?id=47510768"
-    },
-    {
-      "title": "The Interactive Lost Place Map",
-      "link": "https://lostfoundations.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T22:40:32Z",
-      "id": "4771129363b38280014da89b3dfde652",
-      "comments": "https://news.ycombinator.com/item?id=47510561"
     },
     {
       "title": "[Cowley] There\u2019s been growing momentum around the building that Donovan could step away from the mess and take a season to reevaluate what he wants from the profession",
@@ -1395,15 +1404,6 @@
       "published": "2026-03-24T04:22:15Z",
       "id": "33bf534b710699bd730fd165c4dffb33",
       "comments": "https://news.ycombinator.com/item?id=47498571"
-    },
-    {
-      "title": "Embracing Bayesian methods in clinical trials",
-      "link": "https://jamanetwork.com/journals/jama/fullarticle/2847011",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-24T03:08:56Z",
-      "id": "5985a9fda721524f97a8eca210d54c1d",
-      "comments": "https://news.ycombinator.com/item?id=47498222"
     },
     {
       "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
