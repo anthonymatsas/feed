@@ -1,14 +1,41 @@
 {
-  "last_updated": "2026-03-30T07:21:52.387820Z",
+  "last_updated": "2026-03-30T10:13:19.296093Z",
   "items": [
     {
-      "title": "AI and bots have officially taken over the internet",
-      "link": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+      "title": "Stripe is down",
+      "link": "https://status.stripe.com/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-30T06:29:17Z",
-      "id": "4b27b0b4cba4a79e0a658e192b4d495e",
-      "comments": "https://news.ycombinator.com/item?id=47571064"
+      "published": "2026-03-30T08:51:18Z",
+      "id": "ae512ca25c2b68d2f147bceb74ce3d1c",
+      "comments": "https://news.ycombinator.com/item?id=47572000"
+    },
+    {
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "link": "https://dani2442.github.io/posts/continuous-rl/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-30T07:34:04Z",
+      "id": "c7c694c1da5503e90b52e223baa8f7c8",
+      "comments": "https://news.ycombinator.com/item?id=47571495"
+    },
+    {
+      "title": "I use excalidraw to manage my diagrams for my blog",
+      "link": "https://blog.lysk.tech/excalidraw-frame-export/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-30T07:17:06Z",
+      "id": "fdb1038c0bfbaf59d952a105bf63ed49",
+      "comments": "https://news.ycombinator.com/item?id=47571376"
+    },
+    {
+      "title": "I am definitely missing the pre-AI writing era",
+      "link": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-30T07:03:18Z",
+      "id": "df62629fcf53683006aeb23eb8a3a835",
+      "comments": "https://news.ycombinator.com/item?id=47571279"
     },
     {
       "title": "15 years, one server, 8GB RAM and 500k users \u2013 how Webminal refuses to die",
@@ -28,6 +55,14 @@
       "id": "1f80b87e73090b83fda2dc13a3f62637"
     },
     {
+      "title": "[Highlights] 2008 Ravens/Steelers MNF- The first of 44 matchups between John Harbaugh and Mike Tomlin",
+      "link": "https://www.reddit.com/r/nfl/comments/1s7i5e8/highlights_2008_ravenssteelers_mnf_the_first_of/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-30T05:46:26Z",
+      "id": "06b844b2099e01c669b613f89d5f2184"
+    },
+    {
       "title": "The curious case of retro demo scene graphics",
       "link": "https://www.datagubbe.se/aipixels/",
       "source": "Hacker News",
@@ -45,21 +80,20 @@
       "id": "2915dabc16bd71cea1167329fbda474b"
     },
     {
-      "title": "HD Audio Driver for Windows 98SE / Me",
-      "link": "https://github.com/andrew-hoffman/wdmhda",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-30T05:01:07Z",
-      "id": "f0b60f1e9a6d674b7f4fd4cd5df76543",
-      "comments": "https://news.ycombinator.com/item?id=47570547"
-    },
-    {
       "title": "JetBrains Air: The Future of Multi-Agent Coding, or Just More AI Noise?",
       "link": "https://www.reddit.com/r/programming/comments/1s7h8bw/jetbrains_air_the_future_of_multiagent_coding_or/",
       "source": "r/programming",
       "category": "tech",
       "published": "2026-03-30T04:54:36Z",
       "id": "22311ef4bbac7026f52f0112f9206aa6"
+    },
+    {
+      "title": "After the least efficient month of his prime in February, Nikola Jokic bounces back and finishes March averaging 26/14/12 on 66.2% TS. Denver are 9-2 in their last 11 games.",
+      "link": "https://www.reddit.com/r/nba/comments/1s7h5v1/after_the_least_efficient_month_of_his_prime_in/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-30T04:50:46Z",
+      "id": "b49a012f7008d7b9825a3bfd183f34cf"
     },
     {
       "title": "[Highlight] Von Miller makes two critical strip sacks of Cam Newton in Super Bowl 50.",
@@ -166,15 +200,6 @@
       "category": "sports",
       "published": "2026-03-30T02:07:18Z",
       "id": "e20e354be52bfb1e6af596e96c35d99c"
-    },
-    {
-      "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
-      "link": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-30T01:43:20Z",
-      "id": "555c2e556c0951f421922b5cab4ed8ea",
-      "comments": "https://news.ycombinator.com/item?id=47569502"
     },
     {
       "title": "Caitlin Clark on Nikola Jokic: \u201cI think he\u2019s the best player in the world.\u201d",
@@ -338,12 +363,12 @@
       "id": "3a6e3bbfc1b1737fc882821f97097dd9"
     },
     {
-      "title": "Coding Agents Could Make Free Software Matter Again",
+      "title": "Coding agents could make free software matter again",
       "link": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-29T22:21:34Z",
-      "id": "b5bcde350510cb2522dc4335ad9a14fd",
+      "id": "f3d492c5ee0d7766af91c51d5ba41cd1",
       "comments": "https://news.ycombinator.com/item?id=47568028"
     },
     {
@@ -353,15 +378,6 @@
       "category": "tech",
       "published": "2026-03-29T22:19:03Z",
       "id": "1ffe2fbd30023c74ed4e476a673a4acd"
-    },
-    {
-      "title": "Claude Code runs Git reset \u2013hard origin/main against project repo every 10 mins",
-      "link": "https://github.com/anthropics/claude-code/issues/40710",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-29T22:15:06Z",
-      "id": "314dbfd5ab5e6129847d26a7a3db4735",
-      "comments": "https://news.ycombinator.com/item?id=47567969"
     },
     {
       "title": "Reporter to Ayton at practice: \"As one guy here who's been to all the way to the Finals, what's the key for these next 8 games as preparation for a playoff run, with the group?\" Ayton pauses, then says, \"That question was so long. You're going to have to repeat it. I zoned out.\"",
@@ -394,14 +410,6 @@
       "category": "sports",
       "published": "2026-03-29T21:34:49Z",
       "id": "43799a38e5da7f0978e0065de166a3f0"
-    },
-    {
-      "title": "This guy gets an MVP vote",
-      "link": "https://www.reddit.com/r/nba/comments/1s773xx/this_guy_gets_an_mvp_vote/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-29T21:10:57Z",
-      "id": "dcd5a88c07fd7f1927dc20ca6624719d"
     },
     {
       "title": "Oh my goodness Valentine",
@@ -495,15 +503,6 @@
       "published": "2026-03-29T19:08:20Z",
       "id": "1f4feb6d2302e9f4470e0bb32c33dba7",
       "comments": "https://news.ycombinator.com/item?id=47566143"
-    },
-    {
-      "title": "Kyushu Railway Company Train Varieties",
-      "link": "https://www.jrkyushu.co.jp/english/train/index.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-29T19:08:07Z",
-      "id": "e63f9da98990384c78851a15e72f1834",
-      "comments": "https://news.ycombinator.com/item?id=47566140"
     },
     {
       "title": "[Highlight] Aaron Glenn on Geno Smith: \"There's no doubt in my mind that we brought a competent starter here...no doubt about it, he's our guy.\"",
@@ -652,14 +651,6 @@
       "id": "0b86e4fe4c8298a53fb2b6c708d03cd8"
     },
     {
-      "title": "[NBC] Bills HC Joe Brady Confirms Josh Allen Is Good to Go in Offseason Program 2 Months After Foot Surgery",
-      "link": "https://www.reddit.com/r/nfl/comments/1s6vm4d/nbc_bills_hc_joe_brady_confirms_josh_allen_is/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-29T13:50:21Z",
-      "id": "54819a1e94a4383f0f18d49a49e36063"
-    },
-    {
       "title": "The only sane way to use Linux",
       "link": "https://www.reddit.com/r/programming/comments/1s6v6w2/the_only_sane_way_to_use_linux/",
       "source": "r/programming",
@@ -716,15 +707,6 @@
       "id": "6482a4f6d07230bfb0f90425e57f751d"
     },
     {
-      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
-      "link": "https://news.ycombinator.com/item?id=47561489",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-29T08:58:24Z",
-      "id": "edc964c08f2328608abf9b94d71a802f",
-      "comments": "https://news.ycombinator.com/item?id=47561489"
-    },
-    {
       "title": "What Category Theory Teaches Us About DataFrames",
       "link": "https://www.reddit.com/r/programming/comments/1s6pvuz/what_category_theory_teaches_us_about_dataframes/",
       "source": "r/programming",
@@ -747,15 +729,6 @@
       "category": "tech",
       "published": "2026-03-29T07:35:24Z",
       "id": "fce83df0ad05bce2e3825b1fa438e5f3"
-    },
-    {
-      "title": "Moretti replication published in AER",
-      "link": "https://blog.michaelwiebe.com/p/moretti-replication-published-in",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-29T05:54:47Z",
-      "id": "5a58476d680d1cfa61329cd64dad0348",
-      "comments": "https://news.ycombinator.com/item?id=47560724"
     },
     {
       "title": "Is anyone able to help me date this cap, a hand me down from my late grandad. I couldn't find anything online.",
@@ -1178,6 +1151,15 @@
       "id": "87409c8cbd8a7bd540b8a691e79b3ba0"
     },
     {
+      "title": "When Coupled Volcanoes Talk, These Researchers Listen",
+      "link": "https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-27T15:40:23Z",
+      "id": "b6806784c868cbf764cfaf583c5b0e2a",
+      "comments": "https://news.ycombinator.com/item?id=47544114"
+    },
+    {
       "title": "[Nick Baumgardner] Reporter of The Athletic saying nobody has ever referred to Caleb as \"Iceman\"",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s579l7/nick_baumgardner_reporter_of_the_athletic_saying/",
       "source": "r/CHIBears",
@@ -1235,6 +1217,15 @@
       "id": "79a4b8b854242609c43f15ba39d35f11"
     },
     {
+      "title": "Ninja is a small build system with a focus on speed",
+      "link": "https://github.com/ninja-build/ninja",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-27T10:23:38Z",
+      "id": "444e2e5b796aa21ea1d9a016a70ef386",
+      "comments": "https://news.ycombinator.com/item?id=47540903"
+    },
+    {
       "title": "OpenTelemetry Profiles Enters Public Alpha",
       "link": "https://www.reddit.com/r/programming/comments/1s506cy/opentelemetry_profiles_enters_public_alpha/",
       "source": "r/programming",
@@ -1289,6 +1280,15 @@
       "category": "sports",
       "published": "2026-03-26T21:25:29Z",
       "id": "a43404d702ea69716497130049106262"
+    },
+    {
+      "title": "The First Video Game Was Just a Box in the Corner of a Bar",
+      "link": "https://lithub.com/the-very-first-video-game-was-just-a-box-in-the-corner-of-a-bar/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-26T21:22:32Z",
+      "id": "b7764c93f590e7079d935c5824350766",
+      "comments": "https://news.ycombinator.com/item?id=47535937"
     },
     {
       "title": "Sen. Bernie Sanders\u2019 bill aims to slow \u2014 or stop \u2014 teams like the Chicago Bears from moving to other states",
