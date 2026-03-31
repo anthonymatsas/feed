@@ -1,13 +1,63 @@
 {
-  "last_updated": "2026-03-31T07:07:17.971341Z",
+  "last_updated": "2026-03-31T10:02:12.615822Z",
   "items": [
     {
-      "title": "Working at Anthropic vs OpenAI",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s8g8z0/working_at_anthropic_vs_openai/",
+      "title": "Claude Code full source code leaked on NPM",
+      "link": "https://github.com/chatgptprojects/claude-code",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-31T09:40:12Z",
+      "id": "54012b32176edefc1bfc9378a601ff55",
+      "comments": "https://news.ycombinator.com/item?id=47584850"
+    },
+    {
+      "title": "Breaking the Warranty with go:linkname",
+      "link": "https://www.reddit.com/r/programming/comments/1s8iimd/breaking_the_warranty_with_golinkname/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-31T09:23:42Z",
+      "id": "e09ef4fb240dda3c92e1839ee5adbade"
+    },
+    {
+      "title": "Prediction: The Shopify CEO's Pull Request Will Never Be Merged Nor Closed",
+      "link": "https://www.reddit.com/r/programming/comments/1s8i9sp/prediction_the_shopify_ceos_pull_request_will/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-31T09:08:41Z",
+      "id": "c76a066f642d395dba15b1afab09d977"
+    },
+    {
+      "title": "Building agents is so depressing",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s8i68r/building_agents_is_so_depressing/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-03-31T07:03:23Z",
-      "id": "65780f82c65324336925e2d666dd0386"
+      "published": "2026-03-31T09:02:43Z",
+      "id": "6b2a9f0596fcaa282ed7832f9e23a353"
+    },
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-31T09:00:40Z",
+      "id": "c74f8e9d9c8a223890a0e3342bb66ddd",
+      "comments": "https://news.ycombinator.com/item?id=47584540"
+    },
+    {
+      "title": "Do you actually adopt new tools anymore or just evaluate them?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s8i1rg/do_you_actually_adopt_new_tools_anymore_or_just/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-03-31T08:55:51Z",
+      "id": "74245fbb15d2de4de55085c675bf5444"
+    },
+    {
+      "title": "February 2026: $3800 Claude API Bill and a Fork Bomb",
+      "link": "https://www.reddit.com/r/programming/comments/1s8hcly/february_2026_3800_claude_api_bill_and_a_fork_bomb/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-31T08:12:06Z",
+      "id": "ab4f6b1f8504f2be67871d6a9d1f3e30"
     },
     {
       "title": "RamAIn (YC W26) Is Hiring",
@@ -17,14 +67,6 @@
       "published": "2026-03-31T07:01:15Z",
       "id": "10bae7ae650ccaf8326534b3653781ac",
       "comments": "https://news.ycombinator.com/item?id=47583712"
-    },
-    {
-      "title": "Hot take: AI code review tools will cause breaches because teams think \"AI approved\" means \"secure\"",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s8fz6n/hot_take_ai_code_review_tools_will_cause_breaches/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-31T06:47:12Z",
-      "id": "c2820a1f71cc12650a89fcdd9575a24d"
     },
     {
       "title": "NFL draft incoming!",
@@ -52,13 +94,12 @@
       "comments": "https://news.ycombinator.com/item?id=47583045"
     },
     {
-      "title": "Sony halts memory card shipments due to NAND shortage",
-      "link": "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-31T05:12:35Z",
-      "id": "e477319efa89c2282b3f054237855a1a",
-      "comments": "https://news.ycombinator.com/item?id=47582990"
+      "title": "SGA has shot more free throw attempts tonight in one single game than Wemby and Jokic have in the last 5 games.",
+      "link": "https://www.reddit.com/r/nba/comments/1s8egga/sga_has_shot_more_free_throw_attempts_tonight_in/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-03-31T05:19:42Z",
+      "id": "095211b58f01aa8ab8b53d518e695060"
     },
     {
       "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
@@ -68,14 +109,6 @@
       "published": "2026-03-31T05:11:24Z",
       "id": "5ffdf6e8772e430246d537aaf200d2c7",
       "comments": "https://news.ycombinator.com/item?id=47582984"
-    },
-    {
-      "title": "Patriots' TreVeyon Henderson comes to defense of Jaden Ivey after Bulls release for anti-LGBTQ comments. \u201cBlessed are those who are persecuted for righteousness\u2019 sake!\u201d",
-      "link": "https://www.reddit.com/r/nfl/comments/1s8e3ys/patriots_treveyon_henderson_comes_to_defense_of/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-03-31T05:01:10Z",
-      "id": "38e932c7bb26817f2c4b2dcb718beae8"
     },
     {
       "title": "Charles always keeping it a buck",
@@ -157,15 +190,6 @@
       "category": "sports",
       "published": "2026-03-31T03:33:30Z",
       "id": "94d902ac1ae939e445665dec5656fb31"
-    },
-    {
-      "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
-      "link": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-31T03:28:03Z",
-      "id": "28b051c7ad66624d9c337c5c08230fe5",
-      "comments": "https://news.ycombinator.com/item?id=47582418"
     },
     {
       "title": "Victor Wembanyama just had the fastest double-double in NBA history: 8 minutes, 31 seconds",
@@ -317,14 +341,6 @@
       "id": "6ac7b75632261381aedd3b6e053d2ce7"
     },
     {
-      "title": "The Meta-Repo Pattern",
-      "link": "https://www.reddit.com/r/programming/comments/1s88ulq/the_metarepo_pattern/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-31T00:52:13Z",
-      "id": "9663fcc35c22281f57b19800208b663e"
-    },
-    {
       "title": "Jaden Ivey went live after the Chicago Bulls waived him following his recent anti-LGBTQ comments, saying: \u201cThey said your conduct has been detrimental to the team\u2026 I haven\u2019t even been with the team because I\u2019ve been rehabbing.\u201d",
       "link": "https://www.reddit.com/r/nba/comments/1s88jwv/jaden_ivey_went_live_after_the_chicago_bulls/",
       "source": "r/nba",
@@ -412,14 +428,6 @@
       "category": "tech",
       "published": "2026-03-30T22:40:01Z",
       "id": "e045bd4b90a48d6b5d4032a059162dca"
-    },
-    {
-      "title": "[Noh] I asked Joe Mazzulla what winning COTY would mean to him. \"I think it's a stupid award. They shouldn't have it. It's more about the players. It's more about the work that the staff puts in. It's that simple, and I don't ever want to be asked or talk about it again.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1s85of4/noh_i_asked_joe_mazzulla_what_winning_coty_would/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-30T22:36:19Z",
-      "id": "1a480c9551bd4e1bf6ccf2e4ce819d80"
     },
     {
       "title": "[Highlight] Joe Mazzulla talks about potentially winning NBA Coach of the Year: \"I think it's a stupid award, they shouldn't have it... I don't really ever want it to be asked or talked about again.\"",
@@ -650,14 +658,6 @@
       "comments": "https://news.ycombinator.com/item?id=47578086"
     },
     {
-      "title": "Experimental Agent Orchestration Engine",
-      "link": "https://www.reddit.com/r/programming/comments/1s7z8f5/experimental_agent_orchestration_engine/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-30T18:38:12Z",
-      "id": "e237a2d3d9635e7144503d5b1d86ee0e"
-    },
-    {
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
       "source": "Hacker News",
@@ -777,6 +777,14 @@
       "category": "sports",
       "published": "2026-03-30T17:05:21Z",
       "id": "37dd6c083c86d389a79bf936950c4d53"
+    },
+    {
+      "title": "[NBC] Scientist deemed 49ers safe from substation, per John Lynch",
+      "link": "https://www.reddit.com/r/nfl/comments/1s7we2d/nbc_scientist_deemed_49ers_safe_from_substation/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-03-30T16:59:55Z",
+      "id": "f6be3ad734b4b3df00b051faf0d67d12"
     },
     {
       "title": "Peter Woods No Matter What",
@@ -943,21 +951,30 @@
       "id": "81fc984daaf08f0326e7e578bb4465f4"
     },
     {
-      "title": "R3 Bio pitched \u201cbrainless clones\u201d to serve the role of backup human bodies",
-      "link": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-30T11:02:14Z",
-      "id": "a0ecab2343d2dd25b1bfff4bf8b678fe",
-      "comments": "https://news.ycombinator.com/item?id=47572748"
-    },
-    {
       "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (March 29, 2026)",
       "link": "https://www.reddit.com/r/nba/comments/1s7nbme/serious_next_day_thread_postgame_discussion_march/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-03-30T11:00:03Z",
       "id": "cc566d1625ca6ba5fcd1429fc98d09bf"
+    },
+    {
+      "title": "We're Pausing Asimov Press",
+      "link": "https://www.asimov.press/p/pause",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-30T09:18:47Z",
+      "id": "f3a6d68d1df121a86c52f6f809e86e1b",
+      "comments": "https://news.ycombinator.com/item?id=47572162"
+    },
+    {
+      "title": "Good CTE, Bad CTE",
+      "link": "https://boringsql.com/posts/good-cte-bad-cte/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-30T07:11:11Z",
+      "id": "9ec3938176283668d8c1958db2d28701",
+      "comments": "https://news.ycombinator.com/item?id=47571330"
     },
     {
       "title": "[ProFootballTalk] Eagles agree to one-year deal with Joe Tryon-Shoyinka.",
@@ -1047,14 +1064,6 @@
       "category": "sports",
       "published": "2026-03-29T17:39:08Z",
       "id": "96cc775b9ed84a20ede999bd6124704e"
-    },
-    {
-      "title": "How a Trip to the Movies Turned Into a System Design Session",
-      "link": "https://www.reddit.com/r/programming/comments/1s6x06g/how_a_trip_to_the_movies_turned_into_a_system/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-29T14:46:40Z",
-      "id": "082d950e09d179319aba324981b9c5e5"
     },
     {
       "title": "Genuine question: how are you all prepping for behavioural interviews?",
@@ -1208,15 +1217,6 @@
       "category": "sports",
       "published": "2026-03-28T15:43:37Z",
       "id": "0b6d1498704f4b739e9e17b8147c8278"
-    },
-    {
-      "title": "Rock Star: Reading the Rosetta Stone",
-      "link": "https://www.historytoday.com/archive/feature/original-rock-star",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-28T15:30:40Z",
-      "id": "6ebd46fdb10a9a406c941be28525b95d",
-      "comments": "https://news.ycombinator.com/item?id=47555492"
     },
     {
       "title": "I have started worrying about cost of Tokens on AI platforms paid for by my employer. Am I alone?",
