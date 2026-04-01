@@ -1,6 +1,64 @@
 {
-  "last_updated": "2026-04-01T07:14:45.969657Z",
+  "last_updated": "2026-04-01T10:03:41.712525Z",
   "items": [
+    {
+      "title": "Vibe Coding vs Vibe Engineering: Why the Difference Matters in the AI Era",
+      "link": "https://www.reddit.com/r/programming/comments/1s9fifq/vibe_coding_vs_vibe_engineering_why_the/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-01T09:22:30Z",
+      "id": "ebf2fa072761b5269c9db769192eccf7"
+    },
+    {
+      "title": "Itsid: large language model purpose-trained to preserve every input with perfect fidelity",
+      "link": "https://www.reddit.com/r/programming/comments/1s9fhph/itsid_large_language_model_purposetrained_to/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-01T09:21:17Z",
+      "id": "94b8b76dd52ca6bd7676ac878154469c"
+    },
+    {
+      "title": "Anthropic Shipped Claude Code\u2019s Entire Source Code",
+      "link": "https://www.reddit.com/r/programming/comments/1s9f8cx/anthropic_shipped_claude_codes_entire_source_code/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-01T09:05:36Z",
+      "id": "30526c51f5dd755788a15426fb2dd886"
+    },
+    {
+      "title": "In case you are interested to watch Microsoft podcast about my VS Code extension \"Blockman\" (200,000 installs). Also, can you give me some ideas for additional features? Also feel free to make any pull request (GitHub) about features, rendering/parsing/tokenizing optimization or anything.",
+      "link": "https://www.reddit.com/r/programming/comments/1s9ea0l/in_case_you_are_interested_to_watch_microsoft/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-01T08:08:31Z",
+      "id": "8211dee1a0029ac75f7beb569a9e6618"
+    },
+    {
+      "title": "We implemented PDF integrity verification that runs 72 hours before the file is created",
+      "link": "https://www.reddit.com/r/programming/comments/1s9dsom/we_implemented_pdf_integrity_verification_that/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-01T07:38:43Z",
+      "id": "c55ef8c4be979dd1560b276f6b333cab"
+    },
+    {
+      "title": "CERN levels up with new superconducting karts",
+      "link": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-01T07:27:13Z",
+      "id": "189c9c70568e4eb159548c8727a1383f",
+      "comments": "https://news.ycombinator.com/item?id=47597935"
+    },
+    {
+      "title": "Remembering Magnetic Memories and the Apollo AGC",
+      "link": "https://2earth.github.io/website/20260304.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-01T07:22:41Z",
+      "id": "2c94831650534fe4347097b1e050f5c7",
+      "comments": "https://news.ycombinator.com/item?id=47597908"
+    },
     {
       "title": "Hiring for a small team changed how I think about interviews",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s9ckwj/hiring_for_a_small_team_changed_how_i_think_about/",
@@ -18,21 +76,21 @@
       "id": "5e666eee24f09d65575499fe458ec697"
     },
     {
-      "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
-      "link": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-01T06:05:57Z",
-      "id": "bf4e5144c912ab1fdbd71024b189a26c",
-      "comments": "https://news.ycombinator.com/item?id=47597382"
-    },
-    {
       "title": "Reporter tells Luka that Wemby made his case for MVP and asks what his argument would be: \u201cI never do that so. I\u2019m not the one voting..but I think I\u2019ve been playing pretty good. We been winning. That\u2019s it. That\u2019s all I gotta say.\u201d",
       "link": "https://www.reddit.com/r/nba/comments/1s9byib/reporter_tells_luka_that_wemby_made_his_case_for/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-04-01T05:50:01Z",
       "id": "0d72950b195f80f71cb7fddb820d1238"
+    },
+    {
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "link": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-01T05:21:48Z",
+      "id": "2e1996999e5f315bb4b83d860d442b5a",
+      "comments": "https://news.ycombinator.com/item?id=47597119"
     },
     {
       "title": "Claude Code Unpacked : A visual guide",
@@ -84,6 +142,14 @@
       "id": "ccb5d96b5041a705ba19da5c92f6ddbf"
     },
     {
+      "title": "The Lakers, Spurs and Thunder went a combined 43-5 in March",
+      "link": "https://www.reddit.com/r/nba/comments/1s9aw6j/the_lakers_spurs_and_thunder_went_a_combined_435/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-01T04:52:12Z",
+      "id": "0992d39b318d81e716a1ab84a739c4f9"
+    },
+    {
       "title": "Goodell backs Rooney Rule, says diversity 'a benefit' to NFL",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s9avx3/goodell_backs_rooney_rule_says_diversity_a/",
       "source": "r/CHIBears",
@@ -100,12 +166,12 @@
       "id": "6d445002b0150a50382f742e8efc61cb"
     },
     {
-      "title": "Java, error message. web programming",
-      "link": "https://www.reddit.com/r/programming/comments/1s9alz9/java_error_message_web_programming/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-01T04:37:07Z",
-      "id": "addcbb69389dd606a0bbb15f8937fa39"
+      "title": "Luka Doncic puts up 42/5/12 with 2 steals against the Cavillers Cavaliers",
+      "link": "https://www.reddit.com/r/nba/comments/1s9av8y/luka_doncic_puts_up_42512_with_2_steals_against/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-01T04:50:46Z",
+      "id": "c0db00309f8eb7c644f28b6bd80d39db"
     },
     {
       "title": "Luka Doncic Through 3 Quarters vs The Cavs: 35 Points, 11 Assists, 0 Turnovers, 4 Rebounds. On 11-22 FG, 5-10 3PT, 8-8 FT. Lakers lead 107-83.",
@@ -195,15 +261,6 @@
       "category": "sports",
       "published": "2026-04-01T02:13:57Z",
       "id": "ed38bc33cb7beaeafe053ed72edf8550"
-    },
-    {
-      "title": "We intercepted the White House app's network traffic",
-      "link": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-01T01:58:45Z",
-      "id": "e2bb4c0ac7804f18b2a7ca07c60e1365",
-      "comments": "https://news.ycombinator.com/item?id=47595865"
     },
     {
       "title": "Why the constant reorgs?",
@@ -343,14 +400,6 @@
       "id": "bd3f2972e7ca2bc966f00b060b54ecae"
     },
     {
-      "title": "Donte DiVincenzo finally got his Ragu sponsorship",
-      "link": "https://www.reddit.com/r/nba/comments/1s90tko/donte_divincenzo_finally_got_his_ragu_sponsorship/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-31T21:31:06Z",
-      "id": "38c3d375c35c6859820b523adb8e7dd7"
-    },
-    {
       "title": "[Highlight] Cooper Flagg receives a powerful karate chop to the face from Rudy Gobert, who didn't see him (with replays).",
       "link": "https://www.reddit.com/r/nba/comments/1s90pbs/highlight_cooper_flagg_receives_a_powerful_karate/",
       "source": "r/nba",
@@ -442,23 +491,6 @@
       "category": "sports",
       "published": "2026-03-31T20:03:11Z",
       "id": "814562da83db2833ca91fbd4cd38cc0a"
-    },
-    {
-      "title": "I traced my traffic through a home Tailscale exit node",
-      "link": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-31T19:46:43Z",
-      "id": "63bfc157ce581fbfe1675e1667ee8acb",
-      "comments": "https://news.ycombinator.com/item?id=47592462"
-    },
-    {
-      "title": "How to implement Server-Sent Events in Go",
-      "link": "https://www.reddit.com/r/programming/comments/1s8xsdf/how_to_implement_serversent_events_in_go/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-31T19:41:03Z",
-      "id": "87b86c2fc885e31db5b9532d1dc5237e"
     },
     {
       "title": "With the 2 best fits at DT in the draft being red flags, could our starting DT already be on the roster?",
@@ -655,14 +687,6 @@
       "comments": "https://news.ycombinator.com/item?id=47589818"
     },
     {
-      "title": "[Highlight] Bam Adebayo on if he\u2019d ask his teammates to give up rebounds so he can break Udonis Haslem\u2019s franchise record: \u201cNah, that\u2019s unethical basketball.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1s8rz8u/highlight_bam_adebayo_on_if_hed_ask_his_teammates/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-31T16:16:29Z",
-      "id": "094a9374567600bd0ef4935b948af939"
-    },
-    {
       "title": "Where do you draw the line between overengineering and anticipating change?",
       "link": "https://www.reddit.com/r/programming/comments/1s8r9nh/where_do_you_draw_the_line_between/",
       "source": "r/programming",
@@ -742,14 +766,6 @@
       "category": "sports",
       "published": "2026-03-31T13:42:58Z",
       "id": "9934558f043030119e48f0071f8984ed"
-    },
-    {
-      "title": "Domain Separation Belongs in Your IDL",
-      "link": "https://www.reddit.com/r/programming/comments/1s8ndig/domain_separation_belongs_in_your_idl/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-31T13:25:33Z",
-      "id": "d3b302c889e0462dca16bbad017d203a"
     },
     {
       "title": "Daniel Gafford\u2019s shirt said \u2018faith isn\u2019t for the weak\u2019: \u201cFaith isn\u2019t for the weak because god gives his tests to his strongest soldiers. Most definitely, and I really can\u2019t go deep into that, with the stuff that\u2019s going on with the Ivey situation\u2026\u201d",
@@ -1060,14 +1076,6 @@
       "id": "c0d4894574d10710ef6d52b7692b1946"
     },
     {
-      "title": "C++26 is done: ISO C++ standards meeting Trip Report",
-      "link": "https://www.reddit.com/r/programming/comments/1s7xio6/c26_is_done_iso_c_standards_meeting_trip_report/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-30T17:38:17Z",
-      "id": "4aab2bff727bfd98a7a21f575a1cc92b"
-    },
-    {
       "title": "Anybody record Jaden Ivey's latest (current) instagram livestream?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s7vk02/anybody_record_jaden_iveys_latest_current/",
       "source": "r/chicagobulls",
@@ -1090,6 +1098,15 @@
       "category": "sports",
       "published": "2026-03-30T15:52:30Z",
       "id": "ee9ecd26553c17f71840896f99878408"
+    },
+    {
+      "title": "In Case of Emergency, Make Burrito Bison 3",
+      "link": "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-30T14:45:35Z",
+      "id": "dc7ef704adb8ba2559613e524d76c678",
+      "comments": "https://news.ycombinator.com/item?id=47575039"
     },
     {
       "title": "PRE GAME: Chicago Bulls (29-45) at San Antonio Spurs (56-18) (March 30, 2026)",
@@ -1116,14 +1133,6 @@
       "id": "6f143cc5caf2cf307424501787513796"
     },
     {
-      "title": "Hardware Image Compression",
-      "link": "https://www.reddit.com/r/programming/comments/1s7p1t5/hardware_image_compression/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-30T12:23:43Z",
-      "id": "81fc984daaf08f0326e7e578bb4465f4"
-    },
-    {
       "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
       "link": "https://github.com/yannick-cw/korb",
       "source": "Hacker News",
@@ -1139,15 +1148,6 @@
       "category": "sports",
       "published": "2026-03-30T03:16:11Z",
       "id": "0208ff4e5012405cc096555855653541"
-    },
-    {
-      "title": "Use string views instead of passing std:wstring by const&",
-      "link": "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-30T02:31:57Z",
-      "id": "fcd1836860e460ee560083ecc7e9f9c8",
-      "comments": "https://news.ycombinator.com/item?id=47569773"
     },
     {
       "title": "How would you feel if the Bears took a corner or LT at #25?",
@@ -1297,6 +1297,15 @@
       "id": "ef72cb6ab166fb14aacdfd0fa1baa3f1"
     },
     {
+      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "link": "https://news.future-shock.ai/the-weight-of-remembering/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-28T22:42:23Z",
+      "id": "bb4b7b035636f9cf2db647d552c25ece",
+      "comments": "https://news.ycombinator.com/item?id=47558733"
+    },
+    {
       "title": "Older, former programmer returning to work as Tier 2 Application Support?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s6c78g/older_former_programmer_returning_to_work_as_tier/",
       "source": "r/ExperiencedDevs",
@@ -1321,15 +1330,6 @@
       "published": "2026-03-28T18:39:39Z",
       "id": "54f2d43d3719174a114600079f5ac27b",
       "comments": "https://news.ycombinator.com/item?id=47557171"
-    },
-    {
-      "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
-      "link": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-28T16:29:16Z",
-      "id": "7410ba42c513d21b3bc1bca0e1085834",
-      "comments": "https://news.ycombinator.com/item?id=47556074"
     },
     {
       "title": "It\u2019s not \u201cgoodbye\u201d, it\u2019s see you later @chicagobulls, it was fun while it lasted",
