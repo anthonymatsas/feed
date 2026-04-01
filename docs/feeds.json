@@ -1,13 +1,63 @@
 {
-  "last_updated": "2026-04-01T05:20:53.058558Z",
+  "last_updated": "2026-04-01T07:14:45.969657Z",
   "items": [
     {
-      "title": "ChatLLLM - 24KB LLM that runs in your browser",
-      "link": "https://www.reddit.com/r/programming/comments/1s9bc7h/chatlllm_24kb_llm_that_runs_in_your_browser/",
-      "source": "r/programming",
+      "title": "Hiring for a small team changed how I think about interviews",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s9ckwj/hiring_for_a_small_team_changed_how_i_think_about/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-04-01T05:15:31Z",
-      "id": "52723785fbfbe696ee927bd794aa44a4"
+      "published": "2026-04-01T06:26:35Z",
+      "id": "161f531f875be87f20ddb2921cc49edf"
+    },
+    {
+      "title": "Quant & Ex-Founding Member Looking For a Co-Founder to Start a Business in the Alternative-Data Space (Alt-Data)",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s9ckqq/quant_exfounding_member_looking_for_a_cofounder/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-01T06:26:18Z",
+      "id": "5e666eee24f09d65575499fe458ec697"
+    },
+    {
+      "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+      "link": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-01T06:05:57Z",
+      "id": "bf4e5144c912ab1fdbd71024b189a26c",
+      "comments": "https://news.ycombinator.com/item?id=47597382"
+    },
+    {
+      "title": "Reporter tells Luka that Wemby made his case for MVP and asks what his argument would be: \u201cI never do that so. I\u2019m not the one voting..but I think I\u2019ve been playing pretty good. We been winning. That\u2019s it. That\u2019s all I gotta say.\u201d",
+      "link": "https://www.reddit.com/r/nba/comments/1s9byib/reporter_tells_luka_that_wemby_made_his_case_for/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-01T05:50:01Z",
+      "id": "0d72950b195f80f71cb7fddb820d1238"
+    },
+    {
+      "title": "Claude Code Unpacked : A visual guide",
+      "link": "https://ccunpacked.dev/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-01T05:15:37Z",
+      "id": "35857840ba0908f085b776fe6ac96148",
+      "comments": "https://news.ycombinator.com/item?id=47597085"
+    },
+    {
+      "title": "[Highlight] Luka Don\u010di\u0107 caps off a 42-point effort with a two-handed slam dunk. Don\u010di\u0107 becomes the third-youngest player to reach 15,000 career points in NBA history as he leads the Lakers to a 127-113 victory over the Cavaliers.",
+      "link": "https://www.reddit.com/r/nba/comments/1s9b2xo/highlight_luka_don\u010di\u0107_caps_off_a_42point_effort/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-01T05:01:46Z",
+      "id": "e8a39c656ac351582942050df8a536bb"
+    },
+    {
+      "title": "Luka Don\u010di\u0107 has averaged 40/8/7 on 64% TS in last 13 games, Lakers are 12-1 in that span.",
+      "link": "https://www.reddit.com/r/nba/comments/1s9b1w9/luka_don\u010di\u0107_has_averaged_4087_on_64_ts_in_last_13/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-01T05:00:31Z",
+      "id": "5e6bfee0c4efb62566b144fbedcc1946"
     },
     {
       "title": "JJ Redick becomes the first Lakers coach since Phil Jackson to guide back to back 50 win seasons",
@@ -137,14 +187,6 @@
       "category": "sports",
       "published": "2026-04-01T02:50:27Z",
       "id": "78779cd8bac524e7c76cc39e4d89af67"
-    },
-    {
-      "title": "The New York Knicks will go an entire month without beating a team over .500",
-      "link": "https://www.reddit.com/r/nba/comments/1s97uio/the_new_york_knicks_will_go_an_entire_month/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-01T02:26:03Z",
-      "id": "ca0a9b0555ca06b411821a0f335aad8b"
     },
     {
       "title": "Kidd on the accusations that he was in on the Luka trade: \u201cWhen are we going to move on? We have to move forward. We're focused on the present and the future..\u201d",
@@ -360,20 +402,12 @@
       "id": "855c938e10956608691d3fa1e6923f67"
     },
     {
-      "title": "Bill Simmons\u2019 list of ~ 16 things that have made this one of the wildest NBA seasons in recent history.",
-      "link": "https://www.reddit.com/r/nba/comments/1s8zypz/bill_simmons_list_of_16_things_that_have_made/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-31T20:59:01Z",
-      "id": "5c97203a4d683c528c77e4074edf6ca3"
-    },
-    {
-      "title": "Ministack (Replacement for LocalStack)",
+      "title": "MiniStack (replacement for LocalStack)",
       "link": "https://ministack.org/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-31T20:48:15Z",
-      "id": "d04771fbfb21601f74090fa6978ec485",
+      "id": "d51960ae5f8e2913ecab6f9014c04580",
       "comments": "https://news.ycombinator.com/item?id=47593285"
     },
     {
@@ -410,12 +444,12 @@
       "id": "814562da83db2833ca91fbd4cd38cc0a"
     },
     {
-      "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+      "title": "I traced my traffic through a home Tailscale exit node",
       "link": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-03-31T19:46:43Z",
-      "id": "9e3ea075580ba1eb46175a42ce9a1bf4",
+      "id": "63bfc157ce581fbfe1675e1667ee8acb",
       "comments": "https://news.ycombinator.com/item?id=47592462"
     },
     {
@@ -457,15 +491,6 @@
       "category": "sports",
       "published": "2026-03-31T19:08:04Z",
       "id": "804edc3ee6395e41ae35812f914c955d"
-    },
-    {
-      "title": "GitHub's Historic Uptime",
-      "link": "https://damrnelson.github.io/github-historical-uptime/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-31T19:01:29Z",
-      "id": "6e9d7d3e357e9582bb68efa19663492f",
-      "comments": "https://news.ycombinator.com/item?id=47591928"
     },
     {
       "title": "[Cabot] Browns HC Todd Monken Missed the NFL HC Group Photo Because He Was Getting a Haircut for the Photo",
@@ -522,14 +547,6 @@
       "category": "sports",
       "published": "2026-03-31T18:00:08Z",
       "id": "ddbf48cf4202631c33f36f2eeec17622"
-    },
-    {
-      "title": "[Charania] Amar'e Stoudemire, Candace Parker, Elena Delle Donne and Doc Rivers are among the members inducted into the Naismith Basketball Hall of Fame Class of 2026, sources tell ESPN.",
-      "link": "https://www.reddit.com/r/nba/comments/1s8un8e/charania_amare_stoudemire_candace_parker_elena/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-03-31T17:50:21Z",
-      "id": "50eefdfdf85a465834ae2786de2f7f10"
     },
     {
       "title": "[Joe Cowley] The Jaden Ivey fiasco sheds more light on a Bulls failing front office",
@@ -1075,15 +1092,6 @@
       "id": "ee9ecd26553c17f71840896f99878408"
     },
     {
-      "title": "Inside the 'self-driving' lab revolution",
-      "link": "https://www.nature.com/articles/d41586-026-00974-2",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-30T14:39:43Z",
-      "id": "c49d0117fc3afcb5487ccc0cbe4e3fb6",
-      "comments": "https://news.ycombinator.com/item?id=47574960"
-    },
-    {
       "title": "PRE GAME: Chicago Bulls (29-45) at San Antonio Spurs (56-18) (March 30, 2026)",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s7reui/pre_game_chicago_bulls_2945_at_san_antonio_spurs/",
       "source": "r/chicagobulls",
@@ -1106,6 +1114,23 @@
       "category": "sports",
       "published": "2026-03-30T13:01:30Z",
       "id": "6f143cc5caf2cf307424501787513796"
+    },
+    {
+      "title": "Hardware Image Compression",
+      "link": "https://www.reddit.com/r/programming/comments/1s7p1t5/hardware_image_compression/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-03-30T12:23:43Z",
+      "id": "81fc984daaf08f0326e7e578bb4465f4"
+    },
+    {
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "link": "https://github.com/yannick-cw/korb",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-30T06:45:58Z",
+      "id": "170ebc763415743430cefceecb797db8",
+      "comments": "https://news.ycombinator.com/item?id=47571183"
     },
     {
       "title": "[ProFootballTalk] Eagles agree to one-year deal with Joe Tryon-Shoyinka.",
@@ -1139,6 +1164,15 @@
       "category": "tech",
       "published": "2026-03-30T00:00:38Z",
       "id": "81f33ff398c2945b22d165ab5a3fce02"
+    },
+    {
+      "title": "Butterfly-collecting: The history of an insult (2017)",
+      "link": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-29T22:35:59Z",
+      "id": "44cb8c69a24665a9f9fc2edd5e14dea7",
+      "comments": "https://news.ycombinator.com/item?id=47568146"
     },
     {
       "title": "Michael Jordan on who is the GOAT \u201cThere\u2019s no such thing as a GOAT\u201d.",
@@ -1190,12 +1224,13 @@
       "comments": "https://news.ycombinator.com/item?id=47562961"
     },
     {
-      "title": "Genuine question: how are you all prepping for behavioural interviews?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s6srnm/genuine_question_how_are_you_all_prepping_for/",
-      "source": "r/ExperiencedDevs",
+      "title": "Digitizing photos from the 1998 Game Boy Camera",
+      "link": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-29T11:37:05Z",
-      "id": "6416d84b4c4158502675ae4a101599d7"
+      "published": "2026-03-29T11:50:44Z",
+      "id": "9daf031195d1be605aefaa4210d623a3",
+      "comments": "https://news.ycombinator.com/item?id=47562342"
     },
     {
       "title": "Why do only devs have to be full stack?",
@@ -1260,15 +1295,6 @@
       "category": "sports",
       "published": "2026-03-28T23:00:03Z",
       "id": "ef72cb6ab166fb14aacdfd0fa1baa3f1"
-    },
-    {
-      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "link": "https://news.future-shock.ai/the-weight-of-remembering/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-28T22:42:23Z",
-      "id": "bb4b7b035636f9cf2db647d552c25ece",
-      "comments": "https://news.ycombinator.com/item?id=47558733"
     },
     {
       "title": "Older, former programmer returning to work as Tier 2 Application Support?",
@@ -1387,14 +1413,6 @@
       "comments": "https://news.ycombinator.com/item?id=47550433"
     },
     {
-      "title": "Experienced dev but without 'industry standard' knowledge, how to prepare for mid level or senior interviews?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s5kskw/experienced_dev_but_without_industry_standard/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-27T23:51:05Z",
-      "id": "0a780ec1c10e1d561f3f14fe431a0b9b"
-    },
-    {
       "title": "4D Doom",
       "link": "https://github.com/danieldugas/HYPERHELL",
       "source": "Hacker News",
@@ -1413,15 +1431,6 @@
       "comments": "https://news.ycombinator.com/item?id=47546775"
     },
     {
-      "title": "Show HN: Forkrun \u2013 NUMA-aware shell parallelizer (50\u00d7\u2013400\u00d7 faster than parallel)",
-      "link": "https://github.com/jkool702/forkrun",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-27T12:12:20Z",
-      "id": "07a2f4c3730cbe4e47286b2fc6a0eaf4",
-      "comments": "https://news.ycombinator.com/item?id=47541746"
-    },
-    {
       "title": "TinyLoRA \u2013 Learning to Reason in 13 Parameters",
       "link": "https://arxiv.org/abs/2602.04118",
       "source": "Hacker News",
@@ -1429,15 +1438,6 @@
       "published": "2026-03-27T12:11:12Z",
       "id": "eac4ad13e01524e2aab1c59da29e4328",
       "comments": "https://news.ycombinator.com/item?id=47541733"
-    },
-    {
-      "title": "A Primer on Long-Duration Life Support",
-      "link": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-27T01:00:49Z",
-      "id": "f5e2c593aff417b00a1f9963089c192a",
-      "comments": "https://news.ycombinator.com/item?id=47537875"
     },
     {
       "title": "Auto lock posts to combat astroturfing",
