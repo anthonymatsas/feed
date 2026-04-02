@@ -1,6 +1,79 @@
 {
-  "last_updated": "2026-04-02T04:59:19.521516Z",
+  "last_updated": "2026-04-02T07:06:32.519422Z",
   "items": [
+    {
+      "title": "Secure Programming of Web Applications: SQL Code Injection",
+      "link": "https://www.reddit.com/r/programming/comments/1sa9u6e/secure_programming_of_web_applications_sql_code/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-02T06:37:19Z",
+      "id": "ffa8c478b49423d1fd610d00fe2f12e3"
+    },
+    {
+      "title": "AI-first infrastructure",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sa9nsy/aifirst_infrastructure/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-02T06:26:45Z",
+      "id": "7272730d423c192886218cf325c6ef9c"
+    },
+    {
+      "title": "Why full-stack post-quantum cryptography cannot wait",
+      "link": "https://www.reddit.com/r/programming/comments/1sa9cvn/why_fullstack_postquantum_cryptography_cannot_wait/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-02T06:08:34Z",
+      "id": "b2911f864710c297cdc536b13827fa4d"
+    },
+    {
+      "title": "r/programming bans all discussion of LLM programming",
+      "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-02T05:33:20Z",
+      "id": "96d3a3d7beeedb5ffe212d710e98be05",
+      "comments": "https://news.ycombinator.com/item?id=47610336"
+    },
+    {
+      "title": "What causes performance warnings at Senior SWE level?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sa8jip/what_causes_performance_warnings_at_senior_swe/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-02T05:22:03Z",
+      "id": "f2c312baeee84cdd14efb405507e35dc"
+    },
+    {
+      "title": "Why do I see so few seniors people trying to get a position at Apple",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sa8d5g/why_do_i_see_so_few_seniors_people_trying_to_get/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-02T05:12:12Z",
+      "id": "89a2efa4ad6e90c0a02cfa9793b3474e"
+    },
+    {
+      "title": "How it feels",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1sa8989/how_it_feels/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2026-04-02T05:06:06Z",
+      "id": "4d66289f6269a6a63de1bf09dc8f9af7"
+    },
+    {
+      "title": "[Post Game Thread] The San Antonio Spurs (58-18) defeat the Golden State Warriors (36-40), 127-113.",
+      "link": "https://www.reddit.com/r/nba/comments/1sa7po8/post_game_thread_the_san_antonio_spurs_5818/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-02T04:37:20Z",
+      "id": "af18329831a28fe20627a9b4cc23afaf"
+    },
+    {
+      "title": "[Highlight] Victor Wembanyama banks in the fadeaway jumper to give him back-to-back 40+ point games. In 29 minutes, Wembanyama gets 41 points, 18 rebounds, and 3 blocks against the Warriors.",
+      "link": "https://www.reddit.com/r/nba/comments/1sa7nav/highlight_victor_wembanyama_banks_in_the_fadeaway/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-02T04:33:50Z",
+      "id": "be1c704356c60ec65fca9542f1c721f8"
+    },
     {
       "title": "Victor Wembanyama is done for the night with a 40-piece: 41 PTS, 18 REB, 3 AST, 3 BLK, 29 MIN",
       "link": "https://www.reddit.com/r/nba/comments/1sa7khj/victor_wembanyama_is_done_for_the_night_with_a/",
@@ -10,12 +83,12 @@
       "id": "4db879f7629646cfb9b5fdce9c56d5e1"
     },
     {
-      "title": "Your sign-up form is a weapon",
+      "title": "Subscription bombing and how to mitigate it",
       "link": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-02T04:08:05Z",
-      "id": "dac5eddcdddbabd75365e16d20a41648",
+      "id": "0077fabd0f8023ec30ebb2761f229d04",
       "comments": "https://news.ycombinator.com/item?id=47609882"
     },
     {
@@ -43,12 +116,39 @@
       "id": "063cba0cc96bad6dba2b5b63b0c6f724"
     },
     {
+      "title": "The future of code search is not regex \u2013 100x faster than ripgrep",
+      "link": "https://fff.dmtrkovalenko.dev/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-02T03:45:22Z",
+      "id": "3caca528a058c32f908a1b18fb537475",
+      "comments": "https://news.ycombinator.com/item?id=47609752"
+    },
+    {
+      "title": "Show HN: NASA Artemis II Mission Timeline Tracker",
+      "link": "https://www.sunnywingsvirtual.com/artemis2/timeline.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-02T03:40:49Z",
+      "id": "f0e12d182b86cd9462c2838cf8830d15",
+      "comments": "https://news.ycombinator.com/item?id=47609725"
+    },
+    {
       "title": "Staff Engineer interview ran Senior-level loop instead \u2014 missing architecture evaluation entirely",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sa6ifz/staff_engineer_interview_ran_seniorlevel_loop/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-04-02T03:36:53Z",
       "id": "b7aa4918ca4427bf862e624dbf305d89"
+    },
+    {
+      "title": "Email obfuscation: What works in 2026?",
+      "link": "https://spencermortensen.com/articles/email-obfuscation/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-02T03:35:33Z",
+      "id": "038e13e4d400869af3c3046eee0d6e9f",
+      "comments": "https://news.ycombinator.com/item?id=47609694"
     },
     {
       "title": "Where are Ben Johnson\u2019s parents from?",
@@ -117,15 +217,6 @@
       "comments": "https://news.ycombinator.com/item?id=47609294"
     },
     {
-      "title": "Solar Balconies Take Europe by Storm",
-      "link": "https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-02T02:17:51Z",
-      "id": "b56060ff2064f4d625d097b1572891e8",
-      "comments": "https://news.ycombinator.com/item?id=47609253"
-    },
-    {
       "title": "Post Game Thread - NBA: The Pacers defeat the Bulls on Apr 1, 2026, the final score is 126-145.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1sa4s4a/post_game_thread_nba_the_pacers_defeat_the_bulls/",
       "source": "r/chicagobulls",
@@ -174,14 +265,6 @@
       "category": "sports",
       "published": "2026-04-02T01:35:29Z",
       "id": "490077f3b8e04fdcafbecfb46576f189"
-    },
-    {
-      "title": "[Post Game Thread] The Atlanta Hawks (44-33) dominate the Orlando Magic (40-36) 130-101 behind NAW's 32 point performance. Atlanta finishes 4-0 against Orlando this season",
-      "link": "https://www.reddit.com/r/nba/comments/1sa3ui8/post_game_thread_the_atlanta_hawks_4433_dominate/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-02T01:34:16Z",
-      "id": "bec8fc134b719a322a330013ac256a30"
     },
     {
       "title": "Paolo Banchero in a blowout loss to the Hawks: 11 points, 3 assists, 3 turnovers on 33% shooting",
@@ -297,15 +380,6 @@
       "category": "tech",
       "published": "2026-04-01T22:45:58Z",
       "id": "aa345f34ddedc42b456f9f8d9deb4f40"
-    },
-    {
-      "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
-      "link": "https://github.com/solvespace/solvespace/issues/1036",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-01T22:32:04Z",
-      "id": "60c0171a64ed55ad2b7390e73b11bc66",
-      "comments": "https://news.ycombinator.com/item?id=47607394"
     },
     {
       "title": "Report: Rams WR Puka Nacua checked into rehab amid recent allegations",
@@ -439,32 +513,6 @@
       "published": "2026-04-01T19:52:00Z",
       "id": "777e2d66af3bfbc63de643d68bfee954",
       "comments": "https://news.ycombinator.com/item?id=47605677"
-    },
-    {
-      "title": "Luka Doncic breaks Kobe Bryant's record for most points scored in a month for a Los Angeles Laker",
-      "link": "https://www.reddit.com/r/nba/comments/1s9vbe2/luka_doncic_breaks_kobe_bryants_record_for_most/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-01T19:49:13Z",
-      "id": "86a4b3953316936167250f9e346845a6"
-    },
-    {
-      "title": "Jax's true calling: Ray-Marching renderers on WebGL",
-      "link": "https://benoit.paris/posts/jax-ray-marcher/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-01T19:36:07Z",
-      "id": "55a92f34932d56f23017a210f5df118d",
-      "comments": "https://news.ycombinator.com/item?id=47605494"
-    },
-    {
-      "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260313002633.htm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-01T19:26:12Z",
-      "id": "62d8e1b4cbfa68813ad68c2f9ebfe733",
-      "comments": "https://news.ycombinator.com/item?id=47605374"
     },
     {
       "title": "Joe Brady: DJ Moore will keep defenses from focusing on one person",
@@ -684,15 +732,6 @@
       "category": "tech",
       "published": "2026-04-01T16:27:40Z",
       "id": "b353241fce9704c221a35a74bc14290e"
-    },
-    {
-      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
-      "link": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-01T16:17:35Z",
-      "id": "ebdf70ea350a10c9b34067b944e99987",
-      "comments": "https://news.ycombinator.com/item?id=47602879"
     },
     {
       "title": "EmDash \u2013 A spiritual successor to WordPress that solves plugin security",
@@ -953,6 +992,15 @@
       "id": "e8237ed62e85906570138177fd80b116"
     },
     {
+      "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-01T04:14:41Z",
+      "id": "19b6797c1c9815866dbabe031376b71a",
+      "comments": "https://news.ycombinator.com/item?id=47596739"
+    },
+    {
       "title": "Was watching a gaming stream when I heard this",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s99qvo/was_watching_a_gaming_stream_when_i_heard_this/",
       "source": "r/CHIBears",
@@ -983,14 +1031,6 @@
       "category": "tech",
       "published": "2026-04-01T01:16:40Z",
       "id": "85972bb4d8184553ff75d9a7f6b1166a"
-    },
-    {
-      "title": "How to understand if AI is adding value?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s963yx/how_to_understand_if_ai_is_adding_value/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-01T01:09:40Z",
-      "id": "8bdaa14a01458c05f7842d32ca5f1fac"
     },
     {
       "title": "How real is ageism in tech and how old is perceived as too old?",
@@ -1105,14 +1145,6 @@
       "id": "8f266972e922859700179be513f7bfd5"
     },
     {
-      "title": "Where do you draw the line between overengineering and anticipating change?",
-      "link": "https://www.reddit.com/r/programming/comments/1s8r9nh/where_do_you_draw_the_line_between/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-31T15:50:53Z",
-      "id": "be106c042ac6210f4e75197d6c7b0769"
-    },
-    {
       "title": "Working with vendors who release infrequently",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s8pzfj/working_with_vendors_who_release_infrequently/",
       "source": "r/ExperiencedDevs",
@@ -1169,14 +1201,6 @@
       "id": "c76a066f642d395dba15b1afab09d977"
     },
     {
-      "title": "Do you actually adopt new tools anymore or just evaluate them?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s8i1rg/do_you_actually_adopt_new_tools_anymore_or_just/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-31T08:55:51Z",
-      "id": "74245fbb15d2de4de55085c675bf5444"
-    },
-    {
       "title": "Fast and Gorgeous Erosion Filter",
       "link": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
       "source": "Hacker News",
@@ -1184,14 +1208,6 @@
       "published": "2026-03-31T08:41:24Z",
       "id": "b35c317fa84bd72ca8cc4c8ea9606bfd",
       "comments": "https://news.ycombinator.com/item?id=47584386"
-    },
-    {
-      "title": "February 2026: $3800 Claude API Bill and a Fork Bomb",
-      "link": "https://www.reddit.com/r/programming/comments/1s8hcly/february_2026_3800_claude_api_bill_and_a_fork_bomb/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-03-31T08:12:06Z",
-      "id": "ab4f6b1f8504f2be67871d6a9d1f3e30"
     },
     {
       "title": "NFL draft incoming!",
@@ -1306,14 +1322,6 @@
       "id": "ff3b4272a5b426b9018b3a9b38556e10"
     },
     {
-      "title": "1440p: 24\" versus 27\" for automation engineer eye health",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s83agr/1440p_24_versus_27_for_automation_engineer_eye/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-03-30T21:04:14Z",
-      "id": "e4206d17ccf243c80a8bed1617c66e38"
-    },
-    {
       "title": "What G\u00f6del Discovered (2020)",
       "link": "https://stopa.io/post/269",
       "source": "Hacker News",
@@ -1345,6 +1353,15 @@
       "category": "sports",
       "published": "2026-03-30T16:30:40Z",
       "id": "c032dc26e3a65fe65cf40d1769e59f67"
+    },
+    {
+      "title": "Reverse Engineering Crazy Taxi, Part 2",
+      "link": "https://wretched.computer/post/crazytaxi2",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-30T16:09:37Z",
+      "id": "a3fd21dd2e6ef0b97a496e93f95f480b",
+      "comments": "https://news.ycombinator.com/item?id=47576106"
     },
     {
       "title": "[Cronin] Some takeaways from Ben Johnson's 30-minute session at the NFC coaches breakfast:",
@@ -1388,15 +1405,6 @@
       "comments": "https://news.ycombinator.com/item?id=47573138"
     },
     {
-      "title": "Escaping the Ogallala Trap",
-      "link": "https://worksinprogress.co/issue/escaping-the-ogallala-trap/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-30T10:57:10Z",
-      "id": "a90835515beb0821d61ef2cf4058f61f",
-      "comments": "https://news.ycombinator.com/item?id=47572714"
-    },
-    {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s7b6gp/ask_experienced_devs_weekly_thread_a_weekly/",
       "source": "r/ExperiencedDevs",
@@ -1405,21 +1413,13 @@
       "id": "81f33ff398c2945b22d165ab5a3fce02"
     },
     {
-      "title": "Michael Jordan on who is the GOAT \u201cThere\u2019s no such thing as a GOAT\u201d.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1s78znz/michael_jordan_on_who_is_the_goat_theres_no_such/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-03-29T22:25:30Z",
-      "id": "3a6e3bbfc1b1737fc882821f97097dd9"
-    },
-    {
-      "title": "Ariane 6 user's manual [pdf]",
-      "link": "https://www.ariane.group/app/uploads/sites/4/2024/10/Mua-6_Issue-2_Revision-0_March-2021.pdf",
+      "title": "AI Perfected Chess. Humans Made It Unpredictable Again",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-03-28T21:00:32Z",
-      "id": "be86b795149a41158708b296ca9860a7",
-      "comments": "https://news.ycombinator.com/item?id=47558073"
+      "published": "2026-03-28T22:06:59Z",
+      "id": "fa46b54eb6842d590288e6bf4106302b",
+      "comments": "https://news.ycombinator.com/item?id=47558531"
     },
     {
       "title": "Show HN: Git bayesect \u2013 Bayesian Git bisection for non-deterministic bugs",
