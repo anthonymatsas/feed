@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-04-03T07:02:30.078782Z",
+  "last_updated": "2026-04-03T09:49:37.486291Z",
   "items": [
+    {
+      "title": "Need advice for interviews",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sb8p0z/need_advice_for_interviews/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-03T09:20:48Z",
+      "id": "e2ab89f037247d7ce1d0c4b8dacc9f93"
+    },
+    {
+      "title": "What to do if member of your project is problematic?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sb8fz4/what_to_do_if_member_of_your_project_is/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-03T09:06:00Z",
+      "id": "4d473ffa25b41d1fff4514909c5543ba"
+    },
+    {
+      "title": "Proton Meet Isn't What They Told You It Was",
+      "link": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-03T08:59:45Z",
+      "id": "9c5474b1f1991aea3e1c1d74639f3617",
+      "comments": "https://news.ycombinator.com/item?id=47624558"
+    },
+    {
+      "title": "Iam making a game (just in the beginning)",
+      "link": "https://www.reddit.com/r/programming/comments/1sb89qu/iam_making_a_game_just_in_the_beginning/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-03T08:55:37Z",
+      "id": "f13785bbbefb7859fcf0476605a6fb6c"
+    },
+    {
+      "title": "Is the \"fully agentic\" workflow actually just BS, or am I missing something?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sb85dk/is_the_fully_agentic_workflow_actually_just_bs_or/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-03T08:47:54Z",
+      "id": "ab4b4fc2200fc04508cf94bc9f628877"
+    },
+    {
+      "title": "\u00bfRealmente usan Stack Overflow?",
+      "link": "https://www.reddit.com/r/programming/comments/1sb7pch/realmente_usan_stack_overflow/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-03T08:20:16Z",
+      "id": "8025fce55b9f1bf0a07b8dddaf290f70"
+    },
+    {
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-03T08:15:12Z",
+      "id": "0e5119ceaadc96ff51d63e7a505108fe",
+      "comments": "https://news.ycombinator.com/item?id=47624317"
+    },
+    {
+      "title": "[Highlight] Vinny Testaverde runs for a 48 yard touchdown",
+      "link": "https://www.reddit.com/r/nfl/comments/1sb6qke/highlight_vinny_testaverde_runs_for_a_48_yard/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-04-03T07:20:33Z",
+      "id": "d22bdd34b102f5461925696ad4e462ef"
+    },
     {
       "title": "Engineering a Better Java Build Tool",
       "link": "https://www.reddit.com/r/programming/comments/1sb6e05/engineering_a_better_java_build_tool/",
@@ -16,6 +82,14 @@
       "category": "tech",
       "published": "2026-04-03T06:56:42Z",
       "id": "d4b51f1b0c82aeb65fd42e8a4adb0b1b"
+    },
+    {
+      "title": "[Injury] Thunder fan talking trash to Luka while he's down and AR defending Luka",
+      "link": "https://www.reddit.com/r/nba/comments/1sb66zm/injury_thunder_fan_talking_trash_to_luka_while/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-03T06:48:03Z",
+      "id": "8e4e58ba0b1d85d24770e4bfbe351d6f"
     },
     {
       "title": "AI engineering requirements in big enterprise setups",
@@ -50,14 +124,6 @@
       "id": "9730d05a216928aec00a5aa790200dd5"
     },
     {
-      "title": "How do you avoid becoming the bottleneck as the \u201cgo-to\u201d engineer?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sb56gi/how_do_you_avoid_becoming_the_bottleneck_as_the/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-03T05:48:57Z",
-      "id": "b722d6ce9af9b0561ede78f36de56a2c"
-    },
-    {
       "title": "SQL notebooks into an open source database client",
       "link": "https://www.reddit.com/r/programming/comments/1sb510k/sql_notebooks_into_an_open_source_database_client/",
       "source": "r/programming",
@@ -66,20 +132,20 @@
       "id": "735421373ffdafdf8d23f6f8ecd6bb92"
     },
     {
-      "title": "Asked to make more use of AI tools",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sb4kv5/asked_to_make_more_use_of_ai_tools/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-03T05:15:33Z",
-      "id": "e1dba67ccff2a38c4f94f4e4fcb216e9"
-    },
-    {
       "title": "chronex - an Open-source social media scheduler",
       "link": "https://www.reddit.com/r/programming/comments/1sb4hwt/chronex_an_opensource_social_media_scheduler/",
       "source": "r/programming",
       "category": "tech",
       "published": "2026-04-03T05:11:04Z",
       "id": "974af834adb98da3d7e041ffabc8aa10"
+    },
+    {
+      "title": "Fox, Castle & Harper (The Super Slash Bros) combine for 61 pts (64% FG, 50% 3pt), 14 rebs and 15 ast to lead the Wemby-less Spurs over the Clippers on the road, 118-99",
+      "link": "https://www.reddit.com/r/nba/comments/1sb4gzo/fox_castle_harper_the_super_slash_bros_combine/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-03T05:09:42Z",
+      "id": "60c5b17fa810aca9a61447cccf1f9fb1"
     },
     {
       "title": "The \"we can build it ourselves\" culture in engineering teams is actively hurting data platform delivery",
@@ -98,6 +164,15 @@
       "id": "fa489bdd22bbc274959e03d6bf410ed7"
     },
     {
+      "title": "A Rave Review of Superpowers (For Claude Code)",
+      "link": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-03T04:09:50Z",
+      "id": "e836f6bcd8b9be5cb900e4fc6d0ecfd7",
+      "comments": "https://news.ycombinator.com/item?id=47623101"
+    },
+    {
       "title": "[Post Game Thread] The Oklahoma City Thunder (61-16) obliterate the Los Angeles Lakers (50-27) behind Shai's 28/7/7 +35, 139-96.",
       "link": "https://www.reddit.com/r/nba/comments/1sb2zpf/post_game_thread_the_oklahoma_city_thunder_6116/",
       "source": "r/nba",
@@ -112,6 +187,14 @@
       "category": "sports",
       "published": "2026-04-03T03:39:30Z",
       "id": "c38a309010674b54a26d6697894f1e59"
+    },
+    {
+      "title": "[McMenamin] Luka Doncic will undergo an MRI on Friday to determine the extent of his left hamstring injury, a source familiar with Doncic's situation told ESPN.",
+      "link": "https://www.reddit.com/r/nba/comments/1sb2oo2/mcmenamin_luka_doncic_will_undergo_an_mri_on/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-03T03:37:23Z",
+      "id": "56856064fa51a68129dbbad60bdb0f21"
     },
     {
       "title": "SGA\u2019s night is done 28/7/7 on 12-25 FG and only 3 free throws in the blow out win",
@@ -162,14 +245,6 @@
       "id": "f5a8ff083147c2a7a3027904a80936c1"
     },
     {
-      "title": "The MVP battle at halftime: SGA 21/3/5 on 9/17 shooting and 0 turnovers, Luka 10/4/5 on 2/9 shooting and 4 turnovers",
-      "link": "https://www.reddit.com/r/nba/comments/1sb1k4e/the_mvp_battle_at_halftime_sga_2135_on_917/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-03T02:42:46Z",
-      "id": "3772191fa01a6214f40cc6e0320ab0e1"
-    },
-    {
       "title": "After passing the 15 minute threshold tonight, Shai Gilgeous-Alexander has met the 65-game criteria. The reigning MVP is now eligible for postseason honors.",
       "link": "https://www.reddit.com/r/nba/comments/1sb1eaz/after_passing_the_15_minute_threshold_tonight/",
       "source": "r/nba",
@@ -192,14 +267,6 @@
       "category": "sports",
       "published": "2026-04-03T02:18:37Z",
       "id": "37b73c1c70cc51f0acd388c38f46a8b0"
-    },
-    {
-      "title": "For those who met NFL football players, were they bigger or smaller than you think?",
-      "link": "https://www.reddit.com/r/nfl/comments/1sb10gm/for_those_who_met_nfl_football_players_were_they/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-04-03T02:17:07Z",
-      "id": "5944922dec369ece915655f83c94015d"
     },
     {
       "title": "The Lakers scored 21 points in the first quarter against the Thunder\u2014 8 of those 21 points came from free throws. They made 5 total field goals in 12 minutes. Lakers trail by 23.",
@@ -282,30 +349,12 @@
       "id": "e511c70bb9ab6ce538e6ce7c7286070c"
     },
     {
-      "title": "Post Mortem: axios NPM supply chain compromise",
-      "link": "https://github.com/axios/axios/issues/10636",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-03T00:00:19Z",
-      "id": "f76b1265c7bcb6632e9428bb38147229",
-      "comments": "https://news.ycombinator.com/item?id=47621792"
-    },
-    {
       "title": "Can the Law of Demeter be applied to functional programming?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1saxgcc/can_the_law_of_demeter_be_applied_to_functional/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-04-02T23:35:52Z",
       "id": "f517c4b90698ac60a6e9d7a220220db5"
-    },
-    {
-      "title": "Tor Alva: The Tallest 3D-Printed Building in the World",
-      "link": "https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-02T23:26:01Z",
-      "id": "3be8e4347e2d8e3a69100ad6349713dd",
-      "comments": "https://news.ycombinator.com/item?id=47621518"
     },
     {
       "title": "A Few Good Magazines From the 70s and 80s",
@@ -384,14 +433,6 @@
       "id": "58aec9a76944aa3c34a71baf39a77f60"
     },
     {
-      "title": "A West NBA exec cautions against drafting offense-only guards: \"There's never been a worse time to build around bad defensive guards. We see this time and time again, the flashiest offensive impact doesn't end up winning the most. It ends up being Derrick White, Jrue Holiday, Alex Caruso\"",
-      "link": "https://www.reddit.com/r/nba/comments/1sauomm/a_west_nba_exec_cautions_against_drafting/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-02T21:42:12Z",
-      "id": "990bf63ef2f3132ed3bb4c580312c228"
-    },
-    {
       "title": "Incident postmortem: January 2026 service disruptions",
       "link": "https://www.reddit.com/r/programming/comments/1sauknr/incident_postmortem_january_2026_service/",
       "source": "r/programming",
@@ -438,14 +479,6 @@
       "category": "sports",
       "published": "2026-04-02T19:53:57Z",
       "id": "446c83986783238b6638a8a119b767a0"
-    },
-    {
-      "title": "Understanding the Ultrahonk Verifier",
-      "link": "https://www.reddit.com/r/programming/comments/1sarrgw/understanding_the_ultrahonk_verifier/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-02T19:51:05Z",
-      "id": "6ed59c6e339c33bf4df6643978888c57"
     },
     {
       "title": "soak testing a desktop app in zig",
@@ -605,14 +638,6 @@
       "id": "71c0e6541a784db66666a1620884f9bf"
     },
     {
-      "title": "[Cwik] Wizards apologize after scripted April Fools joke in which 'fan' thought they won $10,000 falls flat: \"We apologize for last night's April Fools' joke that left many wondering if we had misled a fan. The skit involving our mascot and other members of our performance team was scripted...\"",
-      "link": "https://www.reddit.com/r/nba/comments/1sanrrt/cwik_wizards_apologize_after_scripted_april_fools/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-02T17:25:02Z",
-      "id": "5ab471a13b6cda96e9697cb5c148d18b"
-    },
-    {
       "title": "[Schefter] Projected No. 1 overall pick Fernando Mendoza is scheduled to visit Tuesday in Las Vegas with the Raiders, who hold the No. 1 overall pick.",
       "link": "https://www.reddit.com/r/nfl/comments/1sanlce/schefter_projected_no_1_overall_pick_fernando/",
       "source": "r/nfl",
@@ -627,14 +652,6 @@
       "category": "sports",
       "published": "2026-04-02T17:15:31Z",
       "id": "b10785630cb99d56875b32fa3f6820f3"
-    },
-    {
-      "title": "legacy work or niche skill set what is it?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1san1zf/legacy_work_or_niche_skill_set_what_is_it/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-02T16:59:44Z",
-      "id": "482e42606c8a0153e389b71bcbad7294"
     },
     {
       "title": "Its really weird that Kawhi's no show contract, which Pablo had months ago, is being spun as just a normal contract. The careful language about parts of the contract being normal while minimizing the abnormal \"beliefs clause\" at the center of the problem is horrible journalism by Baxter Holmes.",
@@ -693,6 +710,14 @@
       "published": "2026-04-02T16:00:27Z",
       "id": "21e13b1d02efab3d234e0628e3603701",
       "comments": "https://news.ycombinator.com/item?id=47616242"
+    },
+    {
+      "title": "Inherited a small microservices system (2-3 services) with almost no tests. With limited resources, where do you invest: Unit or Integration?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sal5f1/inherited_a_small_microservices_system_23/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-02T15:50:16Z",
+      "id": "6a710da6f02001b69dac1f4502247da1"
     },
     {
       "title": "[APW Sports] Top 10 Moments From 2025 Chicago Bears | What Incredible Comebacks!",
@@ -867,30 +892,12 @@
       "id": "8e0ab985441a945f2eee0c4432f54d06"
     },
     {
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "link": "https://lemonade-server.ai",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-02T11:04:51Z",
-      "id": "3a21656b2c419ba99daca19272ff5428",
-      "comments": "https://news.ycombinator.com/item?id=47612724"
-    },
-    {
       "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (April 01, 2026)",
       "link": "https://www.reddit.com/r/nba/comments/1sae7fy/serious_next_day_thread_postgame_discussion_april/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-04-02T11:00:01Z",
       "id": "5445dc13296e32671f8e1cffd2d8dc0a"
-    },
-    {
-      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-      "link": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-02T10:50:00Z",
-      "id": "e9afac5e0bd44ae1cf5a22efe2b18f6b",
-      "comments": "https://news.ycombinator.com/item?id=47612601"
     },
     {
       "title": "To successful founders: How did you actually land on your winning idea? (Dev with 15y experience here)",
@@ -1062,14 +1069,6 @@
       "id": "cd0d1746077e27ca4f756b94fabbc436"
     },
     {
-      "title": "Understanding CPUs by building one in Kotlin",
-      "link": "https://www.reddit.com/r/programming/comments/1s9r0nf/understanding_cpus_by_building_one_in_kotlin/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-01T17:21:29Z",
-      "id": "2261053c24ab81351e9f8514726a96b0"
-    },
-    {
       "title": "Great names to fill out Safety needs",
       "link": "https://www.reddit.com/r/CHIBears/comments/1s9qz22/great_names_to_fill_out_safety_needs/",
       "source": "r/CHIBears",
@@ -1092,14 +1091,6 @@
       "category": "tech",
       "published": "2026-04-01T17:04:41Z",
       "id": "a8cf97b175cc87e37e1aa6552d8ba534"
-    },
-    {
-      "title": "Experienced teams that went hard on AI, did you agree to lower your quality bar? How did it work out mid/long term?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1s9pkif/experienced_teams_that_went_hard_on_ai_did_you/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-01T16:30:45Z",
-      "id": "76bfe3bc522c5315a67e0287e8de35bf"
     },
     {
       "title": "Will & Jada meme, but it's Ben and Matt",
@@ -1214,15 +1205,6 @@
       "published": "2026-03-31T21:43:15Z",
       "id": "bdb745d5377ed3a7533b88b0eb796dd7",
       "comments": "https://news.ycombinator.com/item?id=47593861"
-    },
-    {
-      "title": "Prefer do notation over Applicative operators when assembling records (2024)",
-      "link": "https://haskellforall.com/2024/05/prefer-do-notation-over-applicative",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-31T19:57:05Z",
-      "id": "8bc689705e268ed6c1d338b0ac4aaec3",
-      "comments": "https://news.ycombinator.com/item?id=47592614"
     },
     {
       "title": "Ben Johnson Too Busy Off Season Planning for Coaches Hangout",
@@ -1361,15 +1343,6 @@
       "id": "ff3b4272a5b426b9018b3a9b38556e10"
     },
     {
-      "title": "Magic the Gathering Deck Shuffler",
-      "link": "https://mtg.jessitron.honeydemo.io/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-03-30T15:28:45Z",
-      "id": "adce29764d00456708a887d7415d0138",
-      "comments": "https://news.ycombinator.com/item?id=47575557"
-    },
-    {
       "title": "Weekly Discussion Thread - March 30, 2026",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1s7pxe6/weekly_discussion_thread_march_30_2026/",
       "source": "r/chicagobulls",
@@ -1393,6 +1366,15 @@
       "category": "tech",
       "published": "2026-03-30T00:00:38Z",
       "id": "81f33ff398c2945b22d165ab5a3fce02"
+    },
+    {
+      "title": "Researchers uncover 2k-year-old bullet inscribed with ominous message",
+      "link": "https://www.gbnews.com/science/archaeology-breakthrough-researchers-uncover-2000-year-old-bullet-ominous-message",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-29T16:37:29Z",
+      "id": "d514c748be7935484f4ac2f887d255ce",
+      "comments": "https://news.ycombinator.com/item?id=47564699"
     },
     {
       "title": "Significant progress made on Xbox 360 recompilation",
@@ -1420,6 +1402,24 @@
       "published": "2026-03-29T10:28:04Z",
       "id": "65ca0f53fc28b2d57ca6c645a912370e",
       "comments": "https://news.ycombinator.com/item?id=47561913"
+    },
+    {
+      "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+      "link": "https://www.espressif.com/en/news/ESP32_S31_Release",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-29T09:39:23Z",
+      "id": "bc1665a3ead6db7274bc2d703fddd130",
+      "comments": "https://news.ycombinator.com/item?id=47561678"
+    },
+    {
+      "title": "Working on Products People Hate",
+      "link": "https://www.seangoedecke.com/working-on-products-people-hate/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-03-29T09:23:26Z",
+      "id": "c8787606fc8e94b55bfb4c31432d4f15",
+      "comments": "https://news.ycombinator.com/item?id=47561606"
     },
     {
       "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
