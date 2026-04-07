@@ -1,6 +1,64 @@
 {
-  "last_updated": "2026-04-07T07:10:09.076519Z",
+  "last_updated": "2026-04-07T10:04:48.336149Z",
   "items": [
+    {
+      "title": "[Discussion] Intentional latency in user-facing APIs is a valid distributed systems pattern, not a dirty trick",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1serd6m/discussion_intentional_latency_in_userfacing_apis/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-07T09:45:48Z",
+      "id": "0c544174683fc08f747186728cb2a5da"
+    },
+    {
+      "title": "Development Driven Testing: Why TDD Is Not the Best Approach",
+      "link": "https://www.reddit.com/r/programming/comments/1seqwxk/development_driven_testing_why_tdd_is_not_the/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-07T09:18:28Z",
+      "id": "f11db3d554e1590104bbbfc545b2f12e"
+    },
+    {
+      "title": "5 yoe, 200+ applications, 2 interviews. what am i doing wrong",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1seqmag/5_yoe_200_applications_2_interviews_what_am_i/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-07T09:00:45Z",
+      "id": "3c47015c28605d37ccf3600dfc3b53a3"
+    },
+    {
+      "title": "I\u2019m excited to share my latest personal project",
+      "link": "https://www.reddit.com/r/programming/comments/1seqkv6/im_excited_to_share_my_latest_personal_project/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-07T08:58:26Z",
+      "id": "cb4c24ad31fd79f9eb1648e758c014e9"
+    },
+    {
+      "title": "Every GPU That Mattered",
+      "link": "https://sheets.works/data-viz/every-gpu",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-07T08:38:17Z",
+      "id": "229f608018fcf4674409de2f7cf4fcba",
+      "comments": "https://news.ycombinator.com/item?id=47672295"
+    },
+    {
+      "title": "The model is only 20% of the work \u2014 building Gmail Smart Compose taught me this",
+      "link": "https://www.reddit.com/r/programming/comments/1seq257/the_model_is_only_20_of_the_work_building_gmail/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-07T08:25:22Z",
+      "id": "f03ea4540f33705fee0a20ee86e23773"
+    },
+    {
+      "title": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
+      "link": "https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-07T06:45:08Z",
+      "id": "5e7852dda9b9f1ef8e10f7866c5f4715",
+      "comments": "https://news.ycombinator.com/item?id=47671527"
+    },
     {
       "title": "Any Interest in Gabe Jacas?",
       "link": "https://www.reddit.com/r/CHIBears/comments/1seo8tu/any_interest_in_gabe_jacas/",
@@ -24,6 +82,23 @@
       "category": "sports",
       "published": "2026-04-07T05:28:40Z",
       "id": "f0959c91564fa55b60dbe5b9348d05cb"
+    },
+    {
+      "title": "[Highlight] Jerome Bettis rushes for 1 yard\u2026. And 3 touchdowns",
+      "link": "https://www.reddit.com/r/nfl/comments/1semrij/highlight_jerome_bettis_rushes_for_1_yard_and_3/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-04-07T05:12:27Z",
+      "id": "20b7b5ff6376e28e378b00b38d3c27ac"
+    },
+    {
+      "title": "Three hundred synths, 3 hardware projects, and one app",
+      "link": "https://midi.guide/blog/three-hunded-synths-one-app/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-07T05:12:25Z",
+      "id": "d340a98e1519b6dc4496a20bb5b860c6",
+      "comments": "https://news.ycombinator.com/item?id=47670981"
     },
     {
       "title": "Nikola Jokic's stats this season: 1st in APG (10.9), 1st in RPG (12.9), highest TS% of any 20 PPG scorer (66.9%), 7th in PPG (28.0), 6th in plus-minus (+525)",
@@ -122,20 +197,21 @@
       "id": "b9af9f4fc73548e9ee38f985308a460c"
     },
     {
-      "title": "SDK that stops runaway AI API bills",
-      "link": "https://www.reddit.com/r/programming/comments/1seidut/sdk_that_stops_runaway_ai_api_bills/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-07T01:44:09Z",
-      "id": "133d2a224d4b16cdef2c0184bee75cb2"
-    },
-    {
       "title": "[Highlight] Jalen Brunson takes over late in the 4th quarter for the Knicks, scoring 12 straight points to lead a 16-8 run and cap a 30-point night. New York defeats Atlanta 108-105.",
       "link": "https://www.reddit.com/r/nba/comments/1seicsb/highlight_jalen_brunson_takes_over_late_in_the/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-04-07T01:42:53Z",
       "id": "9a08cd28dce42c01928d83a04badb024"
+    },
+    {
+      "title": "Dear Heroku: Uhh What's Going On?",
+      "link": "https://judoscale.com/blog/heroku-whats-going-on",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-07T01:42:40Z",
+      "id": "38a1950590dde4b125334758fe24a820",
+      "comments": "https://news.ycombinator.com/item?id=47669749"
     },
     {
       "title": "In his first season with Atlanta, Nickeil Alexander-Walker has secured the franchise record for most made threes in a season for the Hawks. Only Kon, Lamelo, and Luka have made more threes than NAW this season in the entire NBA.",
@@ -201,15 +277,6 @@
       "category": "sports",
       "published": "2026-04-07T00:15:02Z",
       "id": "fcc7730657865ad3e2c6c80e31bc765d"
-    },
-    {
-      "title": "After 20 years I turned off Google Adsense for my websites (2025)",
-      "link": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-06T23:23:28Z",
-      "id": "03cbdd33da8bfc5f66c926043097bb34",
-      "comments": "https://news.ycombinator.com/item?id=47668727"
     },
     {
       "title": "[ESPN] Team sources described a \"growing disconnect\" between the front office and the rest of the franchise...\"People didn't know the plan,\"...\"They didn't know the process. We needed to move on -- with a clean slate and start this thing over.\"",
@@ -433,15 +500,6 @@
       "id": "5dbcda5eb4ad1cb38df4fe55a5239413"
     },
     {
-      "title": "Show HN: TTF-DOOM \u2013 A raycaster running inside TrueType font hinting",
-      "link": "https://github.com/4RH1T3CT0R7/ttf-doom",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-06T19:25:39Z",
-      "id": "3f40123d0789193c31ddac84fa357875",
-      "comments": "https://news.ycombinator.com/item?id=47665685"
-    },
-    {
       "title": "[K.C. Johnson] Bulls will run extensive search, with CEO Michael Reinsdorf expected to address reporters at some point Tuesday. Reinsdorf, senior advisor John Paxson and Brian Hagen, Pat Connelly and JJ Polk will work collectively at top of basketball opps during search",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1se8au6/kc_johnson_bulls_will_run_extensive_search_with/",
       "source": "r/chicagobulls",
@@ -466,23 +524,6 @@
       "id": "3dbcaedaad6a59e75cf0db4a8d693dd6"
     },
     {
-      "title": "Agent Reading Test",
-      "link": "https://agentreadingtest.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-06T18:56:57Z",
-      "id": "e6860fadcc95515846b2d165348802b1",
-      "comments": "https://news.ycombinator.com/item?id=47665245"
-    },
-    {
-      "title": "Which trade was the worst from the player's perspective?",
-      "link": "https://www.reddit.com/r/nfl/comments/1se7s03/which_trade_was_the_worst_from_the_players/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-04-06T18:51:41Z",
-      "id": "b98088f7e95d6f7d5cd0dfe44c4163ad"
-    },
-    {
       "title": "[Shams Charania] BREAKING: The Chicago Bulls have dismissed executive vice president of basketball operations Arturas Karnisovas and general manager Marc Eversley, sources tell ESPN.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1se7glp/shams_charania_breaking_the_chicago_bulls_have/",
       "source": "r/chicagobulls",
@@ -497,15 +538,6 @@
       "category": "sports",
       "published": "2026-04-06T18:38:26Z",
       "id": "633bf2427771c592ca2ac33ca330e783"
-    },
-    {
-      "title": "The cult of vibe coding is dogfooding run amok",
-      "link": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-06T18:31:03Z",
-      "id": "1f36b7efecf05c959707a241de48a824",
-      "comments": "https://news.ycombinator.com/item?id=47664912"
     },
     {
       "title": "[Rapoport] Falcons edge James Pearce Jr. is not expected to be in attendance for team\u2019s voluntary offseason program when it begins tomorrow, sources say.",
@@ -832,15 +864,6 @@
       "category": "sports",
       "published": "2026-04-06T14:01:25Z",
       "id": "f457d1e9852e544518062edf5abd40df"
-    },
-    {
-      "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
-      "link": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-06T14:01:09Z",
-      "id": "7911c226bb5dfa542c6f445bf84cb735",
-      "comments": "https://news.ycombinator.com/item?id=47661065"
     },
     {
       "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
@@ -1216,6 +1239,15 @@
       "id": "adf14db113adfa5b29589f8a9ffaeae0"
     },
     {
+      "title": "Build web apps for smart glasses",
+      "link": "https://hub.evenrealities.com/docs/getting-started/overview",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-05T08:43:18Z",
+      "id": "edf0149f2e319408b5c108cad2e7b793",
+      "comments": "https://news.ycombinator.com/item?id=47647397"
+    },
+    {
       "title": "FRACTRAN: A Simple Universal Programming Language for Arithmetic",
       "link": "https://www.reddit.com/r/programming/comments/1scxso7/fractran_a_simple_universal_programming_language/",
       "source": "r/programming",
@@ -1288,23 +1320,6 @@
       "id": "189f84f90f38acc137b1c3cf758241b1"
     },
     {
-      "title": "Domain-Driven Design: Lean Aggregates",
-      "link": "https://www.reddit.com/r/programming/comments/1scjod7/domaindriven_design_lean_aggregates/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-04T20:23:45Z",
-      "id": "89fbf97b5b9f600381d315fbfa20b5d9"
-    },
-    {
-      "title": "Linux extreme performance H1 load generator",
-      "link": "https://www.gcannon.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-04T19:00:01Z",
-      "id": "e2bfd2c979599b3dbba0e65a0160dd89",
-      "comments": "https://news.ycombinator.com/item?id=47642125"
-    },
-    {
       "title": "Is this use of Postgres insane? At what point should you STOP using Postgres for everything?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1scgolz/is_this_use_of_postgres_insane_at_what_point/",
       "source": "r/ExperiencedDevs",
@@ -1322,30 +1337,6 @@
       "comments": "https://news.ycombinator.com/item?id=47641528"
     },
     {
-      "title": "Are companies actually making commensurate revenue from AI?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1scepgy/are_companies_actually_making_commensurate/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-04T17:08:44Z",
-      "id": "03ffbb5dce4dc69ff03820c466c75ee6"
-    },
-    {
-      "title": "ILLEGAL 3D Rendering Techniques (N64)",
-      "link": "https://www.reddit.com/r/programming/comments/1sceczs/illegal_3d_rendering_techniques_n64/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-04T16:55:31Z",
-      "id": "ef2dcdbf8f43b5669eaceb90a4d2e211"
-    },
-    {
-      "title": "Where do I realistically stand as a mid engineer on a senior heavy team?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1scdui5/where_do_i_realistically_stand_as_a_mid_engineer/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-04T16:35:46Z",
-      "id": "d23a4280d9bd45670f9fe01c021d1bca"
-    },
-    {
       "title": "[Tim Reynolds] There have been two days in NBA history, spanning 80 years, where at least nine games were played with an average margin of victory being at least 24 points. Only two such days. In 80 years. One was yesterday. The other was Sunday.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1scclo5/tim_reynolds_there_have_been_two_days_in_nba/",
       "source": "r/chicagobulls",
@@ -1360,6 +1351,15 @@
       "category": "sports",
       "published": "2026-04-04T14:45:07Z",
       "id": "42db0c073a62736e91e5831f31ee966e"
+    },
+    {
+      "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+      "link": "https://adashape.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-04T12:33:14Z",
+      "id": "17ddec22e44c545048be91bb5f363e22",
+      "comments": "https://news.ycombinator.com/item?id=47638498"
     },
     {
       "title": "Show HN: Tusk for macOS and Gnome",
@@ -1414,13 +1414,13 @@
       "comments": "https://news.ycombinator.com/item?id=47627998"
     },
     {
-      "title": "Graph-go \u2013 zero config, full visibility",
-      "link": "https://github.com/guilherme-grimm/graph-go",
+      "title": "Second Revision of 6502 Laptop",
+      "link": "https://codeberg.org/TechPaula/LT6502b",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-03T14:55:25Z",
-      "id": "b197c07f43b28a54dd64e64af03c5513",
-      "comments": "https://news.ycombinator.com/item?id=47627361"
+      "published": "2026-04-03T13:06:27Z",
+      "id": "06c6ae2195c4fcd365db33ddc243caf9",
+      "comments": "https://news.ycombinator.com/item?id=47626242"
     },
     {
       "title": "My Experience as a Rice Farmer",
