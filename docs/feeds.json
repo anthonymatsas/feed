@@ -1,6 +1,105 @@
 {
-  "last_updated": "2026-04-08T07:12:08.463391Z",
+  "last_updated": "2026-04-08T10:04:04.561763Z",
   "items": [
+    {
+      "title": "Most performance issues aren\u2019t in your code\u2026 and it took me too long to accept that",
+      "link": "https://www.reddit.com/r/programming/comments/1sfohg6/most_performance_issues_arent_in_your_code_and_it/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-08T10:00:58Z",
+      "id": "35d937dd4e0ce0a7448c1e900ea999ee"
+    },
+    {
+      "title": "The dangerous aspect of AI for Junior devs. This is my first article in Medium.",
+      "link": "https://www.reddit.com/r/programming/comments/1sfoa2h/the_dangerous_aspect_of_ai_for_junior_devs_this/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-08T09:49:01Z",
+      "id": "15779ca674f08849f7e0060527e08d1e"
+    },
+    {
+      "title": "It's getting harder to learn a new editor for me.",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sfo61k/its_getting_harder_to_learn_a_new_editor_for_me/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-08T09:42:13Z",
+      "id": "9e8f0e1355fdbc9582ed3d3afe646850"
+    },
+    {
+      "title": "Understand ARP in byte level",
+      "link": "https://www.reddit.com/r/programming/comments/1sfnxmi/understand_arp_in_byte_level/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-08T09:28:09Z",
+      "id": "6a13c7adcf14d582db31c20471d8020a"
+    },
+    {
+      "title": "Regex Are Not the Problem. Strings Are.",
+      "link": "https://www.reddit.com/r/programming/comments/1sfnk1y/regex_are_not_the_problem_strings_are/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-08T09:05:13Z",
+      "id": "3e4fbfcf744c9cbb5c7d4f48213fdbd9"
+    },
+    {
+      "title": "The Git Commands I Run Before Reading Any Code",
+      "link": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-08T08:53:42Z",
+      "id": "1e0f2b577de21513d1402258e11f924f",
+      "comments": "https://news.ycombinator.com/item?id=47687273"
+    },
+    {
+      "title": "\u0160koda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+      "link": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-08T08:50:37Z",
+      "id": "4bf1d1bfa43a8f2ac03499d4aa0c00ae",
+      "comments": "https://news.ycombinator.com/item?id=47687248"
+    },
+    {
+      "title": "Hashing in C++26",
+      "link": "https://www.reddit.com/r/programming/comments/1sfmt0l/hashing_in_c26/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-08T08:19:00Z",
+      "id": "b2711214a74ac8fcd3eb8b19eafd90e3"
+    },
+    {
+      "title": "A tiny distributed substrate experiment: single binary, single port, remote page retrieval with no HTTP",
+      "link": "https://www.reddit.com/r/programming/comments/1sfmp7l/a_tiny_distributed_substrate_experiment_single/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-08T08:12:40Z",
+      "id": "2b60220106c832ea9ce4f80058f8353d"
+    },
+    {
+      "title": "[arXiv] Fuzzing REST APIs in Industry: Necessary Features and Open Problems",
+      "link": "https://www.reddit.com/r/programming/comments/1sfm5e0/arxiv_fuzzing_rest_apis_in_industry_necessary/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-08T07:38:15Z",
+      "id": "5e7fc0648cc4baa43da6fabea7d92970"
+    },
+    {
+      "title": "Beyond Indexes: How Open Table Formats Optimize Query Performance \u2014 Jack Vanlightly",
+      "link": "https://www.reddit.com/r/programming/comments/1sfm3hs/beyond_indexes_how_open_table_formats_optimize/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-08T07:35:01Z",
+      "id": "a464cddac1503a34495e842f1a6f9865"
+    },
+    {
+      "title": "Veracrypt Project Update",
+      "link": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-08T07:23:39Z",
+      "id": "6c5335bcf06e9fdc45375559dd8e55bf",
+      "comments": "https://news.ycombinator.com/item?id=47686549"
+    },
     {
       "title": "Compare programming language and see them ranked with learnings!",
       "link": "https://www.reddit.com/r/programming/comments/1sflofe/compare_programming_language_and_see_them_ranked/",
@@ -18,13 +117,12 @@
       "id": "f0fbc1626e4e7e9e6a19f697f4d365ca"
     },
     {
-      "title": "Sonnet 4.6 Elevated Rate of Errors",
-      "link": "https://status.claude.com/incidents/lhws0phdvzz3",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-08T06:34:54Z",
-      "id": "409cbbaac8bcb5b0fcff07ce6f9d50eb",
-      "comments": "https://news.ycombinator.com/item?id=47686187"
+      "title": "How to solve NBA Tanking.... Dynamic beer pricing \ud83c\udf7a",
+      "link": "https://www.reddit.com/r/nba/comments/1sfkx7e/how_to_solve_nba_tanking_dynamic_beer_pricing/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-08T06:23:23Z",
+      "id": "9a34f952333362bc40cebb09973d6728"
     },
     {
       "title": "37 year old Kevin Durant is 2nd in the entire NBA in minutes played this season (2763) and has played his most games since his Achilles injury at 76",
@@ -33,6 +131,14 @@
       "category": "sports",
       "published": "2026-04-08T06:19:22Z",
       "id": "aca671d3762008641603597a7c4bad0c"
+    },
+    {
+      "title": "The Rockets and Lakers now have the same record at 50-29, LA is ahead due to tiebreaker with 3 games to go.",
+      "link": "https://www.reddit.com/r/nba/comments/1sfkh1u/the_rockets_and_lakers_now_have_the_same_record/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-08T05:58:03Z",
+      "id": "993688b27de76ef8bd5102cbb12cabb4"
     },
     {
       "title": "Revision Demoparty 2026: Razor1911 [video]",
@@ -116,6 +222,14 @@
       "id": "75022bf61b08b43ab722968b7a4e8354"
     },
     {
+      "title": "[Highlight] Devin Hester & Johnny Knox Fake Punt",
+      "link": "https://www.reddit.com/r/nfl/comments/1sfhhvm/highlight_devin_hester_johnny_knox_fake_punt/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-04-08T03:20:17Z",
+      "id": "0ce1d527b2a1ffdd2a5d16e5411f447a"
+    },
+    {
       "title": "Protect your shed",
       "link": "https://dylanbutler.dev/blog/protect-your-shed/",
       "source": "Hacker News",
@@ -141,14 +255,6 @@
       "id": "b84ac13a086e66bd0588fa12440642c9"
     },
     {
-      "title": "Lakers starting lineup tonight vs. OKC: Luke Kennard, Jake LaRavia, Rui Hachimura, Drew Timme and Deandre Ayton",
-      "link": "https://www.reddit.com/r/nba/comments/1sfgikm/lakers_starting_lineup_tonight_vs_okc_luke/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-08T02:33:50Z",
-      "id": "64a6a8f36bc02fe4c39d9bd4336d0399"
-    },
-    {
       "title": "[Post Game Thread] The Boston Celtics (53-25) defeat the Charlotte Hornets (43-36), 113-102.",
       "link": "https://www.reddit.com/r/nba/comments/1sfge7k/post_game_thread_the_boston_celtics_5325_defeat/",
       "source": "r/nba",
@@ -163,14 +269,6 @@
       "category": "sports",
       "published": "2026-04-08T02:22:12Z",
       "id": "d0e4fc18cfcadf4a10efe24bc971360b"
-    },
-    {
-      "title": "[Highlight] Tatum's stepback 3 puts Boston up by 10",
-      "link": "https://www.reddit.com/r/nba/comments/1sfg27z/highlight_tatums_stepback_3_puts_boston_up_by_10/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-08T02:13:04Z",
-      "id": "0ba0f49cf35fc906b865795d10e4fede"
     },
     {
       "title": "AKME seeing PWill ball out after getting fired",
@@ -277,14 +375,6 @@
       "category": "sports",
       "published": "2026-04-07T23:26:53Z",
       "id": "06b92ffc76d4801105315f37d96026ff"
-    },
-    {
-      "title": "Dave Garage - Why your new computer is slower than your old computer",
-      "link": "https://www.reddit.com/r/programming/comments/1sfc9cq/dave_garage_why_your_new_computer_is_slower_than/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-07T23:26:07Z",
-      "id": "eab95b5e612b7c2a1ca51c2b70153ddf"
     },
     {
       "title": "Draymond: \"I love how Giannis treats the Milwaukee Bucks organization, he treats them like 'screw y'all and I don't care what y'all gotta say', meanwhile they've given all his brothers an opportunity to play NBA basketball.\u201d",
@@ -416,15 +506,6 @@
       "id": "5f898e2c8250189475197ddc4b0d9165"
     },
     {
-      "title": "Bitcoin and quantum computing",
-      "link": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-07T20:56:23Z",
-      "id": "7c9916cb6a53f43f45acc3369368e01b",
-      "comments": "https://news.ycombinator.com/item?id=47681274"
-    },
-    {
       "title": "LIVE: Bulls President & CEO Michael Reinsdorf",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1sf8955/live_bulls_president_ceo_michael_reinsdorf/",
       "source": "r/chicagobulls",
@@ -498,14 +579,6 @@
       "category": "sports",
       "published": "2026-04-07T19:24:22Z",
       "id": "e7b99b02ffdbd0581aa65b69e39a1b4a"
-    },
-    {
-      "title": "Matt LaFleur: I\u2019ve got to do a better job of communicating with players",
-      "link": "https://www.reddit.com/r/nfl/comments/1sf5pir/matt_lafleur_ive_got_to_do_a_better_job_of/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-04-07T19:14:32Z",
-      "id": "529149c5c5ca1762c51b145160ef30bb"
     },
     {
       "title": "[Highlight] John Harbaugh on a question from Athletic reporter Dan Duggan about potential trade candidates: \"Everbody is tradeable. Everybody. Even you're tradeable, Dan. If we could get something for you, we'd trade you in a heartbeat, man.\"",
@@ -682,15 +755,6 @@
       "id": "3426e2d995da704ab5f8af6f1a5c08f5"
     },
     {
-      "title": "A blind man made it possible for others with low vision to build Lego sets",
-      "link": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-07T14:24:30Z",
-      "id": "1d23332f1f6fc37fa2d4d1ab4379e12c",
-      "comments": "https://news.ycombinator.com/item?id=47675893"
-    },
-    {
       "title": "Bears icon Steve McMichael diagnosed with CTE year after passing",
       "link": "https://www.reddit.com/r/nfl/comments/1sexebw/bears_icon_steve_mcmichael_diagnosed_with_cte/",
       "source": "r/nfl",
@@ -722,15 +786,6 @@
       "category": "sports",
       "published": "2026-04-07T14:01:08Z",
       "id": "b821c97da3ac33c4d94dde1d5a346bfe"
-    },
-    {
-      "title": "Google open-sources experimental agent orchestration testbed Scion",
-      "link": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-07T13:39:15Z",
-      "id": "ea8b20e01800661e39b2d13d570c5324",
-      "comments": "https://news.ycombinator.com/item?id=47675213"
     },
     {
       "title": "You can't cancel a JavaScript promise (except sometimes you can)",
@@ -965,14 +1020,6 @@
       "id": "1f05d23fc701bccdcaf3a548a2b52b6e"
     },
     {
-      "title": "When not to use Event Sourcing?",
-      "link": "https://www.reddit.com/r/programming/comments/1se5ezd/when_not_to_use_event_sourcing/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-06T17:27:40Z",
-      "id": "95592346afc86f7bd3100e6a9cc9e6a5"
-    },
-    {
       "title": "PDF of the current POSIX standard",
       "link": "https://www.reddit.com/r/programming/comments/1se52tt/pdf_of_the_current_posix_standard/",
       "source": "r/programming",
@@ -1013,14 +1060,6 @@
       "id": "d024035d0d31f8c596357044de088394"
     },
     {
-      "title": "Measuring Jitter: Standard Linux vs PREEMPT_RT under heavy load",
-      "link": "https://www.reddit.com/r/programming/comments/1se3lsn/measuring_jitter_standard_linux_vs_preempt_rt/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-06T16:22:41Z",
-      "id": "c8c12bcf777e5739adf9a44437b68e4f"
-    },
-    {
       "title": "I poorly estimated a year long rewrite",
       "link": "https://www.reddit.com/r/programming/comments/1se324q/i_poorly_estimated_a_year_long_rewrite/",
       "source": "r/programming",
@@ -1051,14 +1090,6 @@
       "category": "tech",
       "published": "2026-04-06T15:32:42Z",
       "id": "7af07b4d7663d232d62538ae35a99901"
-    },
-    {
-      "title": "The Data Race Hiding Behind \"Correct\" Atomics",
-      "link": "https://www.reddit.com/r/programming/comments/1se1ypz/the_data_race_hiding_behind_correct_atomics/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-06T15:23:58Z",
-      "id": "b6328110ecf36e253b60691a95033fb1"
     },
     {
       "title": "How do you interview junior developers for a potential hire?",
@@ -1125,28 +1156,12 @@
       "id": "78a1210a70a2f73b22ff931675144210"
     },
     {
-      "title": "Beyond Indexes: How Open Table Formats Optimize Query Performance",
-      "link": "https://www.reddit.com/r/programming/comments/1sdv3kd/beyond_indexes_how_open_table_formats_optimize/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-06T10:31:39Z",
-      "id": "e00cc8037fda6c2462ef9e58d3ca90b0"
-    },
-    {
       "title": "How to emotionally be content with outages or issues",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sdu31u/how_to_emotionally_be_content_with_outages_or/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-04-06T09:32:33Z",
       "id": "a07bb5acf88b6eb9eeecd68c0b1385c2"
-    },
-    {
-      "title": "Visualizing Graph Structures Using Go and Graphviz",
-      "link": "https://www.reddit.com/r/programming/comments/1sdspjj/visualizing_graph_structures_using_go_and_graphviz/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-06T08:08:02Z",
-      "id": "d8757af464968259cc25843f3d9b293f"
     },
     {
       "title": "The Image Boards of Hayao Miyazaki",
@@ -1167,6 +1182,15 @@
       "comments": "https://news.ycombinator.com/item?id=47657268"
     },
     {
+      "title": "Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)",
+      "link": "https://indraneelpatil.github.io/blog/2026/robot-vacuum/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-06T05:08:20Z",
+      "id": "fc43bd00ad22b739dfed3b5c463d2bec",
+      "comments": "https://news.ycombinator.com/item?id=47657204"
+    },
+    {
       "title": "How Linux executes binaries: ELF and dynamic linking explained",
       "link": "https://www.reddit.com/r/programming/comments/1sdp20m/how_linux_executes_binaries_elf_and_dynamic/",
       "source": "r/programming",
@@ -1183,28 +1207,12 @@
       "id": "9ddccd38236139644e9f669ee80fbdb8"
     },
     {
-      "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice, claiming that its circumvention.",
-      "link": "https://www.reddit.com/r/programming/comments/1sdnq0f/media_scraper_gallerydl_is_moving_to_codeberg/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-06T03:27:26Z",
-      "id": "1b0ba57d2b7cbfeb2ea498491d4a2948"
-    },
-    {
       "title": "[Marc Stein] League sources say this is shaping up to be a significant week in Chicago, with pressure mounting on the Bulls\u2019 front office and Billy Donovan still coveted by North Carolina.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1sdljv9/marc_stein_league_sources_say_this_is_shaping_up/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-04-06T01:46:29Z",
       "id": "ebf3e6288c17f3982e3495b41fcbed17"
-    },
-    {
-      "title": "Anomaly detection with nothing but Welford's algorithm and a KV store",
-      "link": "https://www.reddit.com/r/programming/comments/1sdlb99/anomaly_detection_with_nothing_but_welfords/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-06T01:35:40Z",
-      "id": "f6139a9ce61714e5932d9f188edd457d"
     },
     {
       "title": "Almost every top post is locked what happen to this sub over the last few days?",
@@ -1281,14 +1289,6 @@
       "comments": "https://news.ycombinator.com/item?id=47653642"
     },
     {
-      "title": "Question on CI/CD current work practices 2026",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sdc6x7/question_on_cicd_current_work_practices_2026/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-05T19:10:35Z",
-      "id": "724fc099b6eb9e232d1a4cd554173885"
-    },
-    {
       "title": "How to get better at guitar",
       "link": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
       "source": "Hacker News",
@@ -1354,13 +1354,13 @@
       "id": "379068844516757ce891537d34f27000"
     },
     {
-      "title": "ACE on a USB-HDMI Adapter",
-      "link": "https://blazelight.dev/blog/ms2160.mdx",
+      "title": "Hobby CNC machining and resin casting (2015)",
+      "link": "https://lcamtuf.coredump.cx/gcnc/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-04T21:44:55Z",
-      "id": "d6360b4f6313c24b271d86375228d1b6",
-      "comments": "https://news.ycombinator.com/item?id=47643779"
+      "published": "2026-04-04T21:00:56Z",
+      "id": "b8b1c3df77ae03062108152f4f7fed37",
+      "comments": "https://news.ycombinator.com/item?id=47643326"
     },
     {
       "title": "The perfect bears alternate doesn't exis-",
