@@ -1,6 +1,82 @@
 {
-  "last_updated": "2026-04-09T07:15:59.374828Z",
+  "last_updated": "2026-04-09T10:09:16.178766Z",
   "items": [
+    {
+      "title": "Signals Are Not Guarantees - the mismatch between what e2e tests say and what they actually check",
+      "link": "https://www.reddit.com/r/programming/comments/1sgkrif/signals_are_not_guarantees_the_mismatch_between/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-09T09:28:27Z",
+      "id": "3d9c7aa12124dfa69869817962f591e0"
+    },
+    {
+      "title": "Claude mixes up who said what and that's not OK",
+      "link": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T09:25:28Z",
+      "id": "2cc7fc65ee21e834dea1b5b3f44f07ee",
+      "comments": "https://news.ycombinator.com/item?id=47701233"
+    },
+    {
+      "title": "Creating the Futurescape for the Fifth Element [2019]",
+      "link": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T09:11:37Z",
+      "id": "ff62b687b7a3d2a15d9528306ed006ec",
+      "comments": "https://news.ycombinator.com/item?id=47701100"
+    },
+    {
+      "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+      "link": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T08:55:18Z",
+      "id": "c666da9b478c4a58713d754ae7aa5882",
+      "comments": "https://news.ycombinator.com/item?id=47700972"
+    },
+    {
+      "title": "Found a QTimer tick-drop bug : deep dive into EventLoop blocking and a minimal reproducer",
+      "link": "https://www.reddit.com/r/programming/comments/1sgjy4n/found_a_qtimer_tickdrop_bug_deep_dive_into/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-09T08:38:04Z",
+      "id": "e8ab984cc61a6766f507525561c1de19"
+    },
+    {
+      "title": "Why we used STOMP with WebSocket?",
+      "link": "https://www.reddit.com/r/programming/comments/1sgjkpc/why_we_used_stomp_with_websocket/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-09T08:15:39Z",
+      "id": "bfe44f26fdfbff28ed53be58389b84bf"
+    },
+    {
+      "title": "My fellow devs want me to give them a project/challenging task",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sgjkeu/my_fellow_devs_want_me_to_give_them_a/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-09T08:15:09Z",
+      "id": "dfa33fb98fccf54d3e508bf3ea386ce5"
+    },
+    {
+      "title": "4 YOE Frontend Dev \u2014 How to prepare for Techno-Managerial round ?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sgj2f6/4_yoe_frontend_dev_how_to_prepare_for/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-09T07:45:14Z",
+      "id": "71d0a63747786a2ebd26ecf43f901eb6"
+    },
+    {
+      "title": "Help Keep Thunderbird Alive",
+      "link": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T07:27:25Z",
+      "id": "08ad036e8301f705e0e2a9241a5c0fd2",
+      "comments": "https://news.ycombinator.com/item?id=47700388"
+    },
     {
       "title": "How do I stop burning out?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sghvld/how_do_i_stop_burning_out/",
@@ -25,6 +101,14 @@
       "category": "tech",
       "published": "2026-04-09T05:27:48Z",
       "id": "a154f99e73c7659715c108310df2cfb8"
+    },
+    {
+      "title": "SGA ends his season shooting 55.4% on 2 pointers outside of 10 feet",
+      "link": "https://www.reddit.com/r/nba/comments/1sgg83j/sga_ends_his_season_shooting_554_on_2_pointers/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-09T05:01:54Z",
+      "id": "51d12f771f98920aa2eee20b8bb65eeb"
     },
     {
       "title": "\ubc30\ud3ec \uc21c\ub2e8\uc744 \uc904\uc774\uae30 \uc704\ud55c \uad6c\uc870\uc801 \uac1c\uc120, \uc5b4\ub514\uae4c\uc9c0 \ud574\ubcf4\uc168\ub098\uc694?",
@@ -220,15 +304,6 @@
       "id": "c998367c827ad86c8af3cf78123d70f0"
     },
     {
-      "title": "Newly created Polymarket accounts win big on well-timed Iran ceasefire bets",
-      "link": "https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-09T00:55:46Z",
-      "id": "a8953e5d00f946ea8505d8746b01f786",
-      "comments": "https://news.ycombinator.com/item?id=47698082"
-    },
-    {
       "title": "Caleb On the Move Is Absurd",
       "link": "https://www.reddit.com/r/CHIBears/comments/1sgazwb/caleb_on_the_move_is_absurd/",
       "source": "r/CHIBears",
@@ -364,15 +439,6 @@
       "category": "sports",
       "published": "2026-04-08T21:36:13Z",
       "id": "1df2d2f8f1590a8b98e4fd3bd9b7de3a"
-    },
-    {
-      "title": "Show HN: Is Hormuz open yet?",
-      "link": "https://www.ishormuzopenyet.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-08T21:33:06Z",
-      "id": "7591889493291fe484e8cc1b4573fae3",
-      "comments": "https://news.ycombinator.com/item?id=47696562"
     },
     {
       "title": "Anthony Davis says he was pissed off that the Pelicans didn't give him a tribute video: \"I was f*cking hot I ended up scoring 42. I was open to returning to New Orleans later but after no tribute that door is closed.\"",
@@ -530,14 +596,6 @@
       "id": "2d58c753d9fb2ec652c2c864e754f766"
     },
     {
-      "title": "I've been trying to work towards \"Level 5\" AI-assisted development for a year. I'm not quite there, but this is the flow that's working for me.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sg1glq/ive_been_trying_to_work_towards_level_5/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-08T18:37:08Z",
-      "id": "4504a41db015c359341b4855767c83c2"
-    },
-    {
       "title": "Implementing C++ STL containers in pure C \u2014 what I learned",
       "link": "https://www.reddit.com/r/programming/comments/1sg1apu/implementing_c_stl_containers_in_pure_c_what_i/",
       "source": "r/programming",
@@ -560,15 +618,6 @@
       "category": "sports",
       "published": "2026-04-08T18:00:11Z",
       "id": "77b4ce32132af69bde5d8dcbcc4f9cbb"
-    },
-    {
-      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
-      "link": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-08T17:44:25Z",
-      "id": "24978abf6a1b3c5e2269788006bacf52",
-      "comments": "https://news.ycombinator.com/item?id=47693679"
     },
     {
       "title": "[Rapoport] The #Giants continue to add their O-line before the Draft, agreeing to terms with former #Ravens G Daniel Faalele on a 1-year deal, sources say.",
@@ -594,14 +643,6 @@
       "published": "2026-04-08T17:11:46Z",
       "id": "6a0ecbfdb5ff5609380ed5d3c38775ae",
       "comments": "https://news.ycombinator.com/item?id=47693153"
-    },
-    {
-      "title": "I am sick of push-offs that send defenders flying being presented like ankle breakers as highlights",
-      "link": "https://www.reddit.com/r/nba/comments/1sfywqs/i_am_sick_of_pushoffs_that_send_defenders_flying/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-08T17:06:42Z",
-      "id": "e93028a0c2b212e48a6d24f7c360147d"
     },
     {
       "title": "Every modern franchise each team has ever shared a division with",
@@ -634,14 +675,6 @@
       "category": "tech",
       "published": "2026-04-08T16:28:25Z",
       "id": "c685a0ac6809add02aa8008a079d463c"
-    },
-    {
-      "title": "Deep dive into Turso, the \"SQLite rewrite in Rust\"",
-      "link": "https://www.reddit.com/r/programming/comments/1sfxc3r/deep_dive_into_turso_the_sqlite_rewrite_in_rust/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-08T16:11:17Z",
-      "id": "15900183fac959fbbf888ba19d15e0f1"
     },
     {
       "title": "Muse Spark: Scaling towards personal superintelligence",
@@ -791,15 +824,6 @@
       "id": "80fd13512646c0c49c10b528be66fcbd"
     },
     {
-      "title": "US cities are axing Flock Safety surveillance technology",
-      "link": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-08T12:26:14Z",
-      "id": "5dd082d9561232c696631f28b31ab6d3",
-      "comments": "https://news.ycombinator.com/item?id=47689237"
-    },
-    {
       "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
       "link": "https://arxiv.org/abs/2604.05091",
       "source": "Hacker News",
@@ -858,14 +882,6 @@
       "id": "9e8f0e1355fdbc9582ed3d3afe646850"
     },
     {
-      "title": "Understand ARP in byte level",
-      "link": "https://www.reddit.com/r/programming/comments/1sfnxmi/understand_arp_in_byte_level/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-08T09:28:09Z",
-      "id": "6a13c7adcf14d582db31c20471d8020a"
-    },
-    {
       "title": "Git commands I run before reading any code",
       "link": "https://piechowski.io/post/git-commands-before-reading-code/",
       "source": "Hacker News",
@@ -873,14 +889,6 @@
       "published": "2026-04-08T08:53:42Z",
       "id": "f31bd182d530846713aadb4971891b99",
       "comments": "https://news.ycombinator.com/item?id=47687273"
-    },
-    {
-      "title": "Hashing in C++26",
-      "link": "https://www.reddit.com/r/programming/comments/1sfmt0l/hashing_in_c26/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-08T08:19:00Z",
-      "id": "b2711214a74ac8fcd3eb8b19eafd90e3"
     },
     {
       "title": "[arXiv] Fuzzing REST APIs in Industry: Necessary Features and Open Problems",
@@ -897,15 +905,6 @@
       "category": "tech",
       "published": "2026-04-08T07:35:01Z",
       "id": "a464cddac1503a34495e842f1a6f9865"
-    },
-    {
-      "title": "Veracrypt project update",
-      "link": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-08T07:23:39Z",
-      "id": "85c90623e6f2a292a9739fcdf1a5d746",
-      "comments": "https://news.ycombinator.com/item?id=47686549"
     },
     {
       "title": "How do larger teams communicate what actually changed after a PR?",
@@ -1111,15 +1110,6 @@
       "id": "b821c97da3ac33c4d94dde1d5a346bfe"
     },
     {
-      "title": "Audio Reactive LED Strips Are Diabolically Hard",
-      "link": "https://scottlawsonbc.com/post/audio-led",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-07T13:55:14Z",
-      "id": "932d0b4f1a5fbef3973ec072773f1848",
-      "comments": "https://news.ycombinator.com/item?id=47675446"
-    },
-    {
       "title": "You can't cancel a JavaScript promise (except sometimes you can)",
       "link": "https://www.reddit.com/r/programming/comments/1sew9fx/you_cant_cancel_a_javascript_promise_except/",
       "source": "r/programming",
@@ -1158,14 +1148,6 @@
       "category": "sports",
       "published": "2026-04-07T02:25:07Z",
       "id": "1f3f7bcb02b47f25beeef405df0b2ca3"
-    },
-    {
-      "title": "Promoted to Senior last year, now I\u2019m suddenly the tech lead on a high-visibility project and I\u2019m not sure if this is growth or a setup",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1segseo/promoted_to_senior_last_year_now_im_suddenly_the/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-07T00:34:53Z",
-      "id": "05625686f429c7d348d7b1b41075aa81"
     },
     {
       "title": "Bulls Roster Before & After AKME",
@@ -1298,6 +1280,15 @@
       "id": "543f2c5326fc3f12627a9d3983f3a685"
     },
     {
+      "title": "C# in Unity 2026: Features Most Developers Still Don't Use",
+      "link": "https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-06T13:08:17Z",
+      "id": "eb2e0c32d17711ae3333a8c011551a1b",
+      "comments": "https://news.ycombinator.com/item?id=47660434"
+    },
+    {
       "title": "Weekly Discussion Thread - April 06, 2026",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1sdy7uu/weekly_discussion_thread_april_06_2026/",
       "source": "r/chicagobulls",
@@ -1398,15 +1389,6 @@
       "id": "6c250acbc0b0874b69234a36c19aec02"
     },
     {
-      "title": "Union types in C# 15",
-      "link": "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-05T02:53:07Z",
-      "id": "dfeee6acf02400fbbed8e9704421c6b4",
-      "comments": "https://news.ycombinator.com/item?id=47645717"
-    },
-    {
       "title": "Amon Ra St Brown is missing Ben Johnson",
       "link": "https://www.reddit.com/r/CHIBears/comments/1scree6/amon_ra_st_brown_is_missing_ben_johnson/",
       "source": "r/CHIBears",
@@ -1423,6 +1405,15 @@
       "id": "6cd9412bb708659c4de8c5a98e4a00a2"
     },
     {
+      "title": "Dr. Dobb's Developer Library DVD 6",
+      "link": "https://archive.org/details/DDJDVD6",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-05T00:37:57Z",
+      "id": "461bccecfd16a0feb21c0546bd9c4570",
+      "comments": "https://news.ycombinator.com/item?id=47645010"
+    },
+    {
       "title": "Map Gesture Controls - Control maps with your hands",
       "link": "https://sanderdesnaijer.github.io/map-gesture-controls/",
       "source": "Hacker News",
@@ -1430,6 +1421,15 @@
       "published": "2026-04-04T21:50:53Z",
       "id": "5981b8fefef8253a90061ad88789bb94",
       "comments": "https://news.ycombinator.com/item?id=47643852"
+    },
+    {
+      "title": "Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store",
+      "link": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-03T20:56:25Z",
+      "id": "50c39740620a97160c724151ee3a3136",
+      "comments": "https://news.ycombinator.com/item?id=47632157"
     },
     {
       "title": "Announcement: Temporary LLM Content Ban",
