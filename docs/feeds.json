@@ -1,21 +1,75 @@
 {
-  "last_updated": "2026-04-10T07:21:40.402210Z",
+  "last_updated": "2026-04-10T10:05:21.242959Z",
   "items": [
     {
-      "title": "How I built in-browser PDF editing without uploading files",
-      "link": "https://www.reddit.com/r/programming/comments/1shf297/how_i_built_inbrowser_pdf_editing_without/",
-      "source": "r/programming",
+      "title": "Getting Laid Off Without Warning Taught Me Everything I Need to Know About Workplace Loyalty",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1shhupi/getting_laid_off_without_warning_taught_me/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-04-10T06:55:55Z",
-      "id": "d57bb97d56142ceab30a1dd208deb02d"
+      "published": "2026-04-10T09:42:11Z",
+      "id": "af3cc6b8a1b49c1846d87add07cf0cec"
     },
     {
-      "title": "How I built an API coverage comparison tool (Swagger vs Postman)",
-      "link": "https://www.reddit.com/r/programming/comments/1sheviv/how_i_built_an_api_coverage_comparison_tool/",
+      "title": "US plans to automatically register young men for military draft",
+      "link": "https://www.bbc.com/news/articles/cd6lx2lpl9xo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T09:19:56Z",
+      "id": "4f3d4c070bade9b5a5268514147c4626",
+      "comments": "https://news.ycombinator.com/item?id=47715489"
+    },
+    {
+      "title": "Show HN: Keeper \u2013 embedded secret store for Go (help me break it)",
+      "link": "https://github.com/agberohq/keeper",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T08:53:33Z",
+      "id": "f2b9f3604f8b189983d804c9b5a89a78",
+      "comments": "https://news.ycombinator.com/item?id=47715339"
+    },
+    {
+      "title": "Your AI agents remember yesterday.",
+      "link": "https://www.reddit.com/r/programming/comments/1shh0k0/your_ai_agents_remember_yesterday/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-04-10T06:45:15Z",
-      "id": "b0bb66461ad062e09893b33b72aee145"
+      "published": "2026-04-10T08:52:22Z",
+      "id": "52ba947d3da90b669823dff6ebf8e7c9"
+    },
+    {
+      "title": "Scientists invented a fake disease. AI told people it was real",
+      "link": "https://www.nature.com/articles/d41586-026-01100-y",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T08:44:37Z",
+      "id": "b67010ed94de6ae732e0b76e40284985",
+      "comments": "https://news.ycombinator.com/item?id=47715291"
+    },
+    {
+      "title": "Zero-build privacy policies with Astro",
+      "link": "https://www.openpolicy.sh/blog/no-build-astro",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T08:13:38Z",
+      "id": "aed226fea475788ce1c6f17f05c7e4f3",
+      "comments": "https://news.ycombinator.com/item?id=47715088"
+    },
+    {
+      "title": "Artemis II and the invisible hazard on the way to the Moon",
+      "link": "https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T07:04:17Z",
+      "id": "f570db5a78fbf17151d534d590a4067c",
+      "comments": "https://news.ycombinator.com/item?id=47714573"
+    },
+    {
+      "title": "Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia",
+      "link": "https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T06:15:46Z",
+      "id": "747fbe3dde6a6593258b85dc8180eb53",
+      "comments": "https://news.ycombinator.com/item?id=47714273"
     },
     {
       "title": "I\u2019m done with this franchise",
@@ -24,15 +78,6 @@
       "category": "sports",
       "published": "2026-04-10T06:15:20Z",
       "id": "12a1b3a16ea3b80cbb6d0e7879fa5483"
-    },
-    {
-      "title": "The tool that won't let AI say anything it can't cite",
-      "link": "https://github.com/grainulation/grainulator",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T06:09:47Z",
-      "id": "e76713295d32663f78aca575d9c4f096",
-      "comments": "https://news.ycombinator.com/item?id=47714239"
     },
     {
       "title": "Advice on handling toxic team member",
@@ -51,29 +96,12 @@
       "id": "a5aff5e07d64e81d2188f3c345fd6053"
     },
     {
-      "title": "Shipping an iOS App as a Backend Engineer Who Doesn't Know Swift",
-      "link": "https://www.reddit.com/r/programming/comments/1shdwp4/shipping_an_ios_app_as_a_backend_engineer_who/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-10T05:49:44Z",
-      "id": "ebe7a35dc7cd199f213b0464a0f504b6"
-    },
-    {
       "title": "OSS/Homebrew and Remotely managed laptops - a discussion",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1shd9xo/osshomebrew_and_remotely_managed_laptops_a/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-04-10T05:14:15Z",
       "id": "09da37a3c297b993d47fbffb9c5d89ef"
-    },
-    {
-      "title": "YouTube locked my accounts and I can't cancel my subscription",
-      "link": "https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T05:03:22Z",
-      "id": "be17bd214dc9970deb62322a554c0bab",
-      "comments": "https://news.ycombinator.com/item?id=47713839"
     },
     {
       "title": "LeBron when asked what this team needs from him right now with all the injuries going on: \u201cEverything, Just back to the old ways.\u201d",
@@ -142,20 +170,21 @@
       "id": "25997c9111e70090006c896a7bf94d64"
     },
     {
+      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T04:04:57Z",
+      "id": "7246f220cb681aeea892161c28d0688b",
+      "comments": "https://news.ycombinator.com/item?id=47713495"
+    },
+    {
       "title": "[Highlight] LeBron James Sr. finds LeBron James Jr. for the 3-pointer (with a replay)",
       "link": "https://www.reddit.com/r/nba/comments/1shbr3l/highlight_lebron_james_sr_finds_lebron_james_jr/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-04-10T03:54:21Z",
       "id": "91775b14aa6e22dc0fb248f506d90579"
-    },
-    {
-      "title": "Built a macOS app to stop drowning in PRs across GitHub/GitLab/Bitbucket \u2013 giving away 1 year free for App Store reviews",
-      "link": "https://www.reddit.com/r/programming/comments/1shbozi/built_a_macos_app_to_stop_drowning_in_prs_across/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-10T03:51:16Z",
-      "id": "136ddad814e926c41de40d80b033e594"
     },
     {
       "title": "Jamal Murray joins Steph Curry as the 2nd player in NBA history to shoot 43% or better from 3 (min. 7 3PA per game) while averaging 25 or more points per game. He's been having a historically efficient 3pt shooting season, and it has been flying a little bit under the radar.",
@@ -401,15 +430,6 @@
       "id": "f40e845222440a264d7f43c21cdd92bf"
     },
     {
-      "title": "Many African families spend fortunes burying their dead",
-      "link": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-09T22:10:10Z",
-      "id": "79ac62d353cbe5265d41e935398f2860",
-      "comments": "https://news.ycombinator.com/item?id=47710907"
-    },
-    {
       "title": "[Highlight] Greg Dortch makes a critical 36 yard catch to set up a James Conner TD and seal the comeback upset for the Cardinals, 35-31",
       "link": "https://www.reddit.com/r/nfl/comments/1sh3v1e/highlight_greg_dortch_makes_a_critical_36_yard/",
       "source": "r/nfl",
@@ -466,15 +486,6 @@
       "id": "3b984dd48839edff85c81769f2825b55"
     },
     {
-      "title": "Kagi Product Tips \u2013 Customize Your Search Results with URL Redirects",
-      "link": "https://blog.kagi.com/tips/redirects",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-09T21:34:11Z",
-      "id": "a5fa3f8bea719042f2ee2734790ce3e7",
-      "comments": "https://news.ycombinator.com/item?id=47710466"
-    },
-    {
       "title": "[Highlight] Jake Elliot hits the 59 yard field goal in the pouring rain to send the game into OT",
       "link": "https://www.reddit.com/r/nfl/comments/1sh2x0s/highlight_jake_elliot_hits_the_59_yard_field_goal/",
       "source": "r/nfl",
@@ -489,15 +500,6 @@
       "category": "sports",
       "published": "2026-04-09T21:16:52Z",
       "id": "267444c9d36b772d10c2ee1443890bff"
-    },
-    {
-      "title": "Moving from WordPress to Jekyll (and static site generators in general)",
-      "link": "https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-09T20:59:51Z",
-      "id": "ad2c8918fac1afbe81a3990f95b2f274",
-      "comments": "https://news.ycombinator.com/item?id=47710007"
     },
     {
       "title": "[O\u2019Connor] According to league sources, one general manager floated a nuclear option: just make the bottom three teams ineligible for the top picks entirely.",
@@ -781,15 +783,6 @@
       "id": "0f68ac920f24c6173c989c40e995cbcf"
     },
     {
-      "title": "Show HN: I built a Cargo-like build tool for C/C++",
-      "link": "https://github.com/randerson112/craft",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-09T16:04:54Z",
-      "id": "3a98ab8fc178c29a704557769307ddcf",
-      "comments": "https://news.ycombinator.com/item?id=47705413"
-    },
-    {
       "title": "[Russini] The NFL informed its teams about when they could expect to see replacement officials visiting facilities if a deal is not reached by next month, when the current CBA with the NFL Referees Association expires:",
       "link": "https://www.reddit.com/r/nfl/comments/1sgtnhu/russini_the_nfl_informed_its_teams_about_when/",
       "source": "r/nfl",
@@ -895,6 +888,14 @@
       "id": "1b2aa95b9d0cfa4caeb972ebcd117547"
     },
     {
+      "title": "HTTP Server in Rust (for JavaScript Developers)",
+      "link": "https://www.reddit.com/r/programming/comments/1sgpom9/http_server_in_rust_for_javascript_developers/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-09T13:30:04Z",
+      "id": "f1692eae21716487177330388d85367c"
+    },
+    {
       "title": "C# in Unity 2026: Features Most Developers Still Don\u2019t Use",
       "link": "https://www.reddit.com/r/programming/comments/1sgp9d2/c_in_unity_2026_features_most_developers_still/",
       "source": "r/programming",
@@ -917,15 +918,6 @@
       "category": "tech",
       "published": "2026-04-09T13:11:38Z",
       "id": "edd72a7dde9850bd1fcb4f25d0f4f2e4"
-    },
-    {
-      "title": "A WebGPU implementation of Augmented Vertex Block Descent",
-      "link": "https://github.com/jure/webphysics",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-09T12:01:31Z",
-      "id": "f9f962a7f658ae58a0316c8e3c21c942",
-      "comments": "https://news.ycombinator.com/item?id=47702541"
     },
     {
       "title": "How NASA Built Artemis II\u2019s Fault-Tolerant Computer",
@@ -966,14 +958,6 @@
       "category": "tech",
       "published": "2026-04-09T08:15:09Z",
       "id": "dfa33fb98fccf54d3e508bf3ea386ce5"
-    },
-    {
-      "title": "4 YOE Frontend Dev \u2014 How to prepare for Techno-Managerial round ?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sgj2f6/4_yoe_frontend_dev_how_to_prepare_for/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-09T07:45:14Z",
-      "id": "71d0a63747786a2ebd26ecf43f901eb6"
     },
     {
       "title": "How do I stop burning out?",
@@ -1160,6 +1144,14 @@
       "id": "6cb119221ed77d6f3337fc9b4e1e3ee8"
     },
     {
+      "title": "Technical teardown of the Rust CLI that speeds up our tests by 6x",
+      "link": "https://www.reddit.com/r/programming/comments/1sfxtj7/technical_teardown_of_the_rust_cli_that_speeds_up/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-08T16:28:25Z",
+      "id": "c685a0ac6809add02aa8008a079d463c"
+    },
+    {
       "title": "You should really consider letting some plates hit the floor.",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sfw7o5/you_should_really_consider_letting_some_plates/",
       "source": "r/ExperiencedDevs",
@@ -1192,13 +1184,12 @@
       "id": "80fd13512646c0c49c10b528be66fcbd"
     },
     {
-      "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
-      "link": "https://pvp-ai.russell-harper.com",
-      "source": "Hacker News",
+      "title": "Floating point from scratch: Hard Mode",
+      "link": "https://www.reddit.com/r/programming/comments/1sfr2i0/floating_point_from_scratch_hard_mode/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2026-04-08T12:56:58Z",
-      "id": "6d553fe79ae262d8799851215755d9ce",
-      "comments": "https://news.ycombinator.com/item?id=47689550"
+      "published": "2026-04-08T12:13:14Z",
+      "id": "e41be634624cf7e829776332d459a55a"
     },
     {
       "title": "Multi-Core By Default - by Ryan Fleury - Digital Grove",
@@ -1215,6 +1206,15 @@
       "category": "tech",
       "published": "2026-04-08T10:15:50Z",
       "id": "6f8e8126ac937440f07d49e0f0df546d"
+    },
+    {
+      "title": "The Art of Risk Management (2017)",
+      "link": "https://www.bcg.com/publications/2017/finance-function-excellence-corporate-development-art-risk-management",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-08T06:15:44Z",
+      "id": "506d40258ff56d02d6dc30a8506ef57e",
+      "comments": "https://news.ycombinator.com/item?id=47686046"
     },
     {
       "title": "AKME seeing PWill ball out after getting fired",
@@ -1342,15 +1342,6 @@
       "id": "300665a02441521fc9470a3938eecdc9"
     },
     {
-      "title": "Robots eat cars",
-      "link": "https://telemetry.endeff.com/p/robots-eat-cars",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-07T02:50:58Z",
-      "id": "2cec47e1f60c51c498821bed59f30c84",
-      "comments": "https://news.ycombinator.com/item?id=47670188"
-    },
-    {
       "title": "The Chicago Bears have reportedly shown interest in Michigan State forward Coen Carr",
       "link": "https://www.reddit.com/r/CHIBears/comments/1sejax0/the_chicago_bears_have_reportedly_shown_interest/",
       "source": "r/CHIBears",
@@ -1365,6 +1356,15 @@
       "category": "sports",
       "published": "2026-04-06T22:17:57Z",
       "id": "73c17534baf0bfad37b9869e90b24ae3"
+    },
+    {
+      "title": "War on Raze",
+      "link": "https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-06T19:40:57Z",
+      "id": "a5140407e864d4fce78791889ee7d833",
+      "comments": "https://news.ycombinator.com/item?id=47665890"
     },
     {
       "title": "[Shams Charania] BREAKING: The Chicago Bulls have dismissed executive vice president of basketball operations Arturas Karnisovas and general manager Marc Eversley, sources tell ESPN.",
