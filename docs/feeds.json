@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-11T01:56:22.723549Z",
+  "last_updated": "2026-04-11T04:51:29.683685Z",
   "items": [
+    {
+      "title": "Quien \u2013 A better WHOIS lookup tool",
+      "link": "https://github.com/retlehs/quien/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-11T03:31:30Z",
+      "id": "eb4ae5161cbea9bf7b4504962391a4ce",
+      "comments": "https://news.ycombinator.com/item?id=47727076"
+    },
     {
       "title": "Artemis II safely splashes down",
       "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
@@ -11,12 +20,12 @@
       "comments": "https://news.ycombinator.com/item?id=47725583"
     },
     {
-      "title": "Italo Calvino: A Traveller in a World of Uncertainty",
+      "title": "Italo Calvino: A traveller in a world of uncertainty",
       "link": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-10T23:48:07Z",
-      "id": "26e2bcb9dc61d58c4ef5972e05998f2b",
+      "id": "20341da50699f0adbfb94fd9aac60de8",
       "comments": "https://news.ycombinator.com/item?id=47725403"
     },
     {
@@ -38,12 +47,12 @@
       "comments": "https://news.ycombinator.com/item?id=47724352"
     },
     {
-      "title": "Installing Every* Firefox Extension",
+      "title": "Installing every* Firefox extension",
       "link": "https://jack.cab/blog/every-firefox-extension",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-10T21:56:33Z",
-      "id": "993455b8a8582f0c167bd225e1832d84",
+      "id": "670c0a6d96744067571a24664da1ddfa",
       "comments": "https://news.ycombinator.com/item?id=47724118"
     },
     {
@@ -72,15 +81,6 @@
       "published": "2026-04-10T19:03:39Z",
       "id": "8080ceb242c8fd99114548c42c2d1d1b",
       "comments": "https://news.ycombinator.com/item?id=47722262"
-    },
-    {
-      "title": "Show HN: A WYSIWYG word processor in Python",
-      "link": "https://codeberg.org/chrisecker/miniword",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T18:40:34Z",
-      "id": "9e37f074f12580405e03c45def7dd5de",
-      "comments": "https://news.ycombinator.com/item?id=47722011"
     },
     {
       "title": "Show HN: FluidCAD \u2013 Parametric CAD with JavaScript",
@@ -117,15 +117,6 @@
       "published": "2026-04-10T18:34:55Z",
       "id": "ca4cf942070790838e6e43a9e4df7fb6",
       "comments": "https://news.ycombinator.com/item?id=47721946"
-    },
-    {
-      "title": "Show HN: Eve \u2013 Managed OpenClaw for work",
-      "link": "https://eve.new/login",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T17:31:22Z",
-      "id": "74ce1d7483386918742a41f7d4939945",
-      "comments": "https://news.ycombinator.com/item?id=47721255"
     },
     {
       "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
@@ -182,15 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47719740"
     },
     {
-      "title": "You can't trust macOS Privacy and Security settings",
-      "link": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T15:28:24Z",
-      "id": "ddcb4549099681d7593d7dad1afbe394",
-      "comments": "https://news.ycombinator.com/item?id=47719602"
-    },
-    {
       "title": "Helium is hard to replace",
       "link": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
       "source": "Hacker News",
@@ -236,6 +218,33 @@
       "comments": "https://news.ycombinator.com/item?id=47701769"
     },
     {
+      "title": "A practical guide for setting up Zettelkasten method in Obsidian",
+      "link": "https://desktopcommander.app/blog/zettelkasten-obsidian/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T07:58:00Z",
+      "id": "12ae76a7cfbc442eeb5bff84a934aa95",
+      "comments": "https://news.ycombinator.com/item?id=47700556"
+    },
+    {
+      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "link": "https://playstarfling.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T01:52:47Z",
+      "id": "0436eb13d2ba992841f140b4247ee5d0",
+      "comments": "https://news.ycombinator.com/item?id=47698455"
+    },
+    {
+      "title": "Bevy game development tutorials and in-depth resources",
+      "link": "https://taintedcoders.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T00:58:47Z",
+      "id": "84c5b10289e748ab0949019617331446",
+      "comments": "https://news.ycombinator.com/item?id=47698111"
+    },
+    {
       "title": "What is RISC-V and why it matters to Canonical",
       "link": "https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical",
       "source": "Hacker News",
@@ -243,15 +252,6 @@
       "published": "2026-04-08T15:26:03Z",
       "id": "6e847b6a6e081da19f23b3cf96713991",
       "comments": "https://news.ycombinator.com/item?id=47691538"
-    },
-    {
-      "title": "Vinyl Cache and Varnish Cache",
-      "link": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-08T15:20:59Z",
-      "id": "792281c419cc5111e1f6c39c226ac014",
-      "comments": "https://news.ycombinator.com/item?id=47691464"
     },
     {
       "title": "Investigating Split Locks on x86-64",
