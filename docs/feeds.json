@@ -1,23 +1,113 @@
 {
-  "last_updated": "2026-04-13T13:18:00.737747Z",
+  "last_updated": "2026-04-13T16:08:58.742609Z",
   "items": [
     {
-      "title": "AI could be the end of the digital wave, not the next big thing",
-      "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "title": "Building a CLI for All of Cloudflare",
+      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T12:29:39Z",
-      "id": "3e280bbba80f0f5a9ef6a90ff93b6380",
-      "comments": "https://news.ycombinator.com/item?id=47751032"
+      "published": "2026-04-13T15:44:02Z",
+      "id": "35ca8a7b1d3e3fec144f36177a4ff6b7",
+      "comments": "https://news.ycombinator.com/item?id=47753689"
     },
     {
-      "title": "I went to America's worst national parks so you don't have to",
-      "link": "https://substack.com/home/post/p-193626949",
+      "title": "Stealthy RCE on Hardened Linux: Noexec and Userland Execution PoC",
+      "link": "https://hardenedlinux.org/blog/2026-04-13-stealthy-rce-on-hardened-linux-noexec--userland-execution-poc/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T12:29:35Z",
-      "id": "d6b23f34b9023824a94236090f468dd8",
-      "comments": "https://news.ycombinator.com/item?id=47751029"
+      "published": "2026-04-13T15:42:25Z",
+      "id": "68565ab55dee9e166fe121fbb68f58af",
+      "comments": "https://news.ycombinator.com/item?id=47753656"
+    },
+    {
+      "title": "Claude.ai down",
+      "link": "https://status.claude.com/incidents/6jd2m42f8mld",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T15:41:08Z",
+      "id": "b41327fb407e030236e636f61d34c16f",
+      "comments": "https://news.ycombinator.com/item?id=47753643"
+    },
+    {
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T15:31:06Z",
+      "id": "257410bcfc0086cdbaf0ef305f9b7470",
+      "comments": "https://news.ycombinator.com/item?id=47753472"
+    },
+    {
+      "title": "Alpine Divorce: A Hike That Ends a Relationship",
+      "link": "https://www.nytimes.com/2026/04/12/style/alpine-divorce-relationships-hike.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T15:29:35Z",
+      "id": "9db67e323fe76d237c2c7c49b1224c08",
+      "comments": "https://news.ycombinator.com/item?id=47753446"
+    },
+    {
+      "title": "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
+      "link": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T14:53:05Z",
+      "id": "4379eb6817466594e62f5aeff2013696",
+      "comments": "https://news.ycombinator.com/item?id=47752884"
+    },
+    {
+      "title": "Make Tmux Pretty and Usable",
+      "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T14:48:55Z",
+      "id": "72d87102c1127ca805af4807dd463bd0",
+      "comments": "https://news.ycombinator.com/item?id=47752819"
+    },
+    {
+      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+      "link": "https://spectrum.ieee.org/mems-photonics",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T14:26:02Z",
+      "id": "c003c9a26bf374d8fb77928ebff2ae0f",
+      "comments": "https://news.ycombinator.com/item?id=47752466"
+    },
+    {
+      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "link": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T13:48:24Z",
+      "id": "ec40fabec2c28150bcca88ee8abcc2de",
+      "comments": "https://news.ycombinator.com/item?id=47751936"
+    },
+    {
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "link": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T13:37:33Z",
+      "id": "9e93c4e3804b963804136887bdb3c29c",
+      "comments": "https://news.ycombinator.com/item?id=47751781"
+    },
+    {
+      "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+      "link": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T13:23:50Z",
+      "id": "7564b53f5dc4740bb184ffe0a162cdcf",
+      "comments": "https://news.ycombinator.com/item?id=47751621"
+    },
+    {
+      "title": "Servo is now available on crates.io",
+      "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T12:12:22Z",
+      "id": "c23ec76ed8fb3ff0d8bcf340e918108a",
+      "comments": "https://news.ycombinator.com/item?id=47750872"
     },
     {
       "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
@@ -56,13 +146,13 @@
       "comments": "https://news.ycombinator.com/item?id=47749674"
     },
     {
-      "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
-      "link": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
+      "title": "Programming Used to Be Free",
+      "link": "https://purplesyringa.moe/blog/programming-used-to-be-free/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T08:13:40Z",
-      "id": "13fb35955ebd9c558bfb31ce44e4dc56",
-      "comments": "https://news.ycombinator.com/item?id=47749222"
+      "published": "2026-04-13T06:24:39Z",
+      "id": "45bb0ee308e42e5576b3be3247ba0f28",
+      "comments": "https://news.ycombinator.com/item?id=47748314"
     },
     {
       "title": "The economics of software teams: Why most engineering orgs are flying blind",
@@ -72,24 +162,6 @@
       "published": "2026-04-13T05:45:32Z",
       "id": "560e1a1993975bac5a311c7877c7b05d",
       "comments": "https://news.ycombinator.com/item?id=47748064"
-    },
-    {
-      "title": "A Canonical Generalization of OBDD",
-      "link": "https://arxiv.org/abs/2604.05537",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T04:26:15Z",
-      "id": "b53ae898a7ee6e9df4e43c28591f373e",
-      "comments": "https://news.ycombinator.com/item?id=47747595"
-    },
-    {
-      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T02:53:10Z",
-      "id": "d23ea04a71edc0daa9757950e01256db",
-      "comments": "https://news.ycombinator.com/item?id=47747017"
     },
     {
       "title": "All elementary functions from a single binary operator",
@@ -155,33 +227,6 @@
       "comments": "https://news.ycombinator.com/item?id=47741527"
     },
     {
-      "title": "How long-distance couples use digital games to facilitate intimacy (2025)",
-      "link": "https://arxiv.org/abs/2505.09509",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T16:17:59Z",
-      "id": "a83b79a13eed56384a3b34ad4ac93018",
-      "comments": "https://news.ycombinator.com/item?id=47741460"
-    },
-    {
-      "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
-      "link": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T13:21:39Z",
-      "id": "6e1d9eda3cd9d0be03412752c6d4e802",
-      "comments": "https://news.ycombinator.com/item?id=47739313"
-    },
-    {
-      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-      "link": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T13:06:44Z",
-      "id": "6b49e05865bbd501b2e0e918f70fd5cb",
-      "comments": "https://news.ycombinator.com/item?id=47739174"
-    },
-    {
       "title": "We have a 99% email reputation, but Gmail disagrees",
       "link": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
       "source": "Hacker News",
@@ -207,51 +252,6 @@
       "published": "2026-04-12T12:21:26Z",
       "id": "0010703e8de948bbfaf53035493a6bca",
       "comments": "https://news.ycombinator.com/item?id=47738827"
-    },
-    {
-      "title": "JVM Options Explorer",
-      "link": "https://chriswhocodes.com/vm-options-explorer.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T10:29:26Z",
-      "id": "1fe5ed19a2d8e258d95b66e3fcd31daf",
-      "comments": "https://news.ycombinator.com/item?id=47738094"
-    },
-    {
-      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
-      "link": "https://arxiv.org/abs/2604.07902",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T09:14:30Z",
-      "id": "3f925d3bf26fb12a0ef0c2ced669eea8",
-      "comments": "https://news.ycombinator.com/item?id=47737542"
-    },
-    {
-      "title": "Phyphox \u2013 Physical Experiments Using a Smartphone",
-      "link": "https://phyphox.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T08:38:11Z",
-      "id": "374fb2fc53f6f401c8efd4696c2804e1",
-      "comments": "https://news.ycombinator.com/item?id=47737376"
-    },
-    {
-      "title": "Is math big or small?",
-      "link": "https://chessapig.github.io/talks/Big-Small",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T08:25:03Z",
-      "id": "6e924a75e6ea0fc1970d5c54ff19ad17",
-      "comments": "https://news.ycombinator.com/item?id=47737292"
-    },
-    {
-      "title": "Exploiting the most prominent AI agent benchmarks",
-      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T19:15:56Z",
-      "id": "418e7f39d73873a51f95f57660969e9f",
-      "comments": "https://news.ycombinator.com/item?id=47733217"
     },
     {
       "title": "I gave every train in New York an instrument",
