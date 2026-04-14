@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-14T02:08:43.595740Z",
+  "last_updated": "2026-04-14T05:19:38.862224Z",
   "items": [
+    {
+      "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
+      "link": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T03:32:16Z",
+      "id": "9b26ac9ebe25a7d45cd0db04f97e0cef",
+      "comments": "https://news.ycombinator.com/item?id=47760925"
+    },
+    {
+      "title": "A new spam policy for \"back button hijacking\"",
+      "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T03:06:27Z",
+      "id": "5751ff243fb70d0490a473d5d1b3eaad",
+      "comments": "https://news.ycombinator.com/item?id=47760764"
+    },
+    {
+      "title": "DaVinci Resolve releases Photo Editor",
+      "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T02:25:15Z",
+      "id": "b420a69af4a3e3b76934fbe798b3623c",
+      "comments": "https://news.ycombinator.com/item?id=47760529"
+    },
+    {
+      "title": "The Journal of C Language Translation",
+      "link": "http://jclt.iecc.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T01:12:20Z",
+      "id": "7d4cef777657f7671c701cb0ab7c16f1",
+      "comments": "https://news.ycombinator.com/item?id=47760027"
+    },
     {
       "title": "Lean proved this program correct; then I found a bug",
       "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
@@ -9,15 +45,6 @@
       "published": "2026-04-14T00:25:08Z",
       "id": "1997739e09f38d68a4064d7f975782e8",
       "comments": "https://news.ycombinator.com/item?id=47759709"
-    },
-    {
-      "title": "Why it's impossible to measure England's coastline",
-      "link": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T23:44:10Z",
-      "id": "7041ac86719f3dcb28d0f41141c15fad",
-      "comments": "https://news.ycombinator.com/item?id=47759416"
     },
     {
       "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
@@ -47,15 +74,6 @@
       "comments": "https://news.ycombinator.com/item?id=47758347"
     },
     {
-      "title": "Mathematical minimalism",
-      "link": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T20:45:39Z",
-      "id": "5066d8f832921039ec9e0fa496b83ff2",
-      "comments": "https://news.ycombinator.com/item?id=47757595"
-    },
-    {
       "title": "GitHub Stacked PRs",
       "link": "https://github.github.com/gh-stack/",
       "source": "Hacker News",
@@ -63,24 +81,6 @@
       "published": "2026-04-13T20:36:49Z",
       "id": "088368adc4fe0fb6baed45024b21c670",
       "comments": "https://news.ycombinator.com/item?id=47757495"
-    },
-    {
-      "title": "Ascending into the Realm of Japanese Charts",
-      "link": "https://www.chartography.net/p/ascending-into-the-realm-of-japanese",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T20:29:55Z",
-      "id": "4f97a91c7ce4448b7ce3efda68dfdbeb",
-      "comments": "https://news.ycombinator.com/item?id=47757426"
-    },
-    {
-      "title": "Just Enough Chimera Linux",
-      "link": "https://www.dwarmstrong.org/chimera-install-zfs/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T19:37:54Z",
-      "id": "266da20ff73ad3a270c3cf396ebfb117",
-      "comments": "https://news.ycombinator.com/item?id=47756876"
     },
     {
       "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
@@ -137,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47755573"
     },
     {
-      "title": "B-trees and database indexes (2024)",
-      "link": "https://planetscale.com/blog/btrees-and-database-indexes",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T17:22:31Z",
-      "id": "378a97ec9567624c91574a6fa425f15d",
-      "comments": "https://news.ycombinator.com/item?id=47755209"
-    },
-    {
       "title": "Building a CLI for all of Cloudflare",
       "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
       "source": "Hacker News",
@@ -173,22 +164,22 @@
       "comments": "https://news.ycombinator.com/item?id=47752819"
     },
     {
-      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
-      "link": "https://spectrum.ieee.org/mems-photonics",
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "link": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T14:26:02Z",
-      "id": "c003c9a26bf374d8fb77928ebff2ae0f",
-      "comments": "https://news.ycombinator.com/item?id=47752466"
+      "published": "2026-04-13T13:37:33Z",
+      "id": "9e93c4e3804b963804136887bdb3c29c",
+      "comments": "https://news.ycombinator.com/item?id=47751781"
     },
     {
-      "title": "Servo is now available on crates.io",
-      "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "title": "Android now stops you sharing your location in photos",
+      "link": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T12:12:22Z",
-      "id": "c23ec76ed8fb3ff0d8bcf340e918108a",
-      "comments": "https://news.ycombinator.com/item?id=47750872"
+      "published": "2026-04-13T11:48:15Z",
+      "id": "cb740fbdfe72a16bab9c8f2a224e5a68",
+      "comments": "https://news.ycombinator.com/item?id=47750669"
     },
     {
       "title": "Tracking down a 25% Regression on LLVM RISC-V",
@@ -200,21 +191,12 @@
       "comments": "https://news.ycombinator.com/item?id=47743728"
     },
     {
-      "title": "Introduction to Obsidian",
-      "link": "https://bryanhogan.com/blog/obsidian-introduction",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T11:35:02Z",
-      "id": "3887e0e708100f8bc5c16fbfdc03183f",
-      "comments": "https://news.ycombinator.com/item?id=47729694"
-    },
-    {
-      "title": "I Just Want Simple S3",
+      "title": "I just want simple S3",
       "link": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-11T10:36:15Z",
-      "id": "d52aefb91e5e88dc201fd785c7225591",
+      "id": "8c722387cfbff9858a63fe44c80a6b55",
       "comments": "https://news.ycombinator.com/item?id=47729350"
     },
     {
@@ -245,15 +227,6 @@
       "comments": "https://news.ycombinator.com/item?id=47728823"
     },
     {
-      "title": "If you started a company two years ago, many assumptions are no longer true",
-      "link": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T06:58:59Z",
-      "id": "1a868ce82faa6cd3db0c6c4685de9098",
-      "comments": "https://news.ycombinator.com/item?id=47728192"
-    },
-    {
       "title": "Design and implementation of DuckDB internals",
       "link": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
       "source": "Hacker News",
@@ -263,6 +236,24 @@
       "comments": "https://news.ycombinator.com/item?id=47718284"
     },
     {
+      "title": "Anastasia (1997) live action reference material",
+      "link": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T12:03:16Z",
+      "id": "d35981b31e75db1b52c224a44e75d998",
+      "comments": "https://news.ycombinator.com/item?id=47716805"
+    },
+    {
+      "title": "I shipped a transaction bug, so I built a linter",
+      "link": "https://leonh.fr/posts/go-transaction-linter/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T09:01:05Z",
+      "id": "07671ff113e46fc44af1d196f72e92a9",
+      "comments": "https://news.ycombinator.com/item?id=47715389"
+    },
+    {
       "title": "Tool to explore regularly sampled time series",
       "link": "https://github.com/rajivsam/tseda",
       "source": "Hacker News",
@@ -270,6 +261,15 @@
       "published": "2026-04-10T08:39:51Z",
       "id": "2451e6050b1d9cf6c2f9879582c0534e",
       "comments": "https://news.ycombinator.com/item?id=47715256"
+    },
+    {
+      "title": "Rust Threads on the GPU",
+      "link": "https://www.vectorware.com/blog/threads-on-gpu/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T19:20:10Z",
+      "id": "e0a3fc4839e72c028703c658e64ddca6",
+      "comments": "https://news.ycombinator.com/item?id=47708457"
     }
   ]
 }
