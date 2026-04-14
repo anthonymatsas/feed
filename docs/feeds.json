@@ -1,23 +1,50 @@
 {
-  "last_updated": "2026-04-14T07:24:55.330124Z",
+  "last_updated": "2026-04-14T10:12:48.202578Z",
   "items": [
     {
-      "title": "The Shinkansen",
+      "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+      "link": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T08:52:12Z",
+      "id": "adf1520160597e18f36beb432c940221",
+      "comments": "https://news.ycombinator.com/item?id=47762994"
+    },
+    {
+      "title": "An AI Vibe Coding Horror Story",
+      "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T08:35:45Z",
+      "id": "24958e08e9054c3c46a76cb7141d37de",
+      "comments": "https://news.ycombinator.com/item?id=47762901"
+    },
+    {
+      "title": "Backblaze has stopped backing up your data",
+      "link": "https://rareese.com/posts/backblaze/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T08:30:27Z",
+      "id": "d5403a03b7a1041649207a7ed1360258",
+      "comments": "https://news.ycombinator.com/item?id=47762864"
+    },
+    {
+      "title": "Introspective Diffusion Language Models",
+      "link": "https://introspective-diffusion.github.io/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T07:57:33Z",
+      "id": "63fa94ec1a6de9a40f6e757b0d61815f",
+      "comments": "https://news.ycombinator.com/item?id=47762641"
+    },
+    {
+      "title": "The secrets of the Shinkansen",
       "link": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-14T06:41:01Z",
-      "id": "5cc484f70db15f01b3fd270fd7afa4b3",
+      "id": "9c7a2b2f11c5aa405e2c169d5f1466b6",
       "comments": "https://news.ycombinator.com/item?id=47762060"
-    },
-    {
-      "title": "Can Claude Fly a Plane?",
-      "link": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T06:32:45Z",
-      "id": "d1d9c88e547227dd428c47edeca84dc1",
-      "comments": "https://news.ycombinator.com/item?id=47762006"
     },
     {
       "title": "Distributed DuckDB Instance",
@@ -29,13 +56,13 @@
       "comments": "https://news.ycombinator.com/item?id=47761997"
     },
     {
-      "title": "Roblox devs now need a subscription to share their games freely",
-      "link": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+      "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
+      "link": "https://github.com/lasect/pg_6502",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-14T06:04:31Z",
-      "id": "7b26210bcc252ed4811443d95c0adc30",
-      "comments": "https://news.ycombinator.com/item?id=47761825"
+      "published": "2026-04-14T05:46:49Z",
+      "id": "0091e595f7ce9b8d4bbed4adb2371ea3",
+      "comments": "https://news.ycombinator.com/item?id=47761723"
     },
     {
       "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
@@ -47,15 +74,6 @@
       "comments": "https://news.ycombinator.com/item?id=47761625"
     },
     {
-      "title": "UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism",
-      "link": "https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T05:29:30Z",
-      "id": "d7f3012820c755e0dea4bc0712642419",
-      "comments": "https://news.ycombinator.com/item?id=47761613"
-    },
-    {
       "title": "TanStack Start Now Support React Server Components",
       "link": "https://tanstack.com/blog/react-server-components",
       "source": "Hacker News",
@@ -65,39 +83,21 @@
       "comments": "https://news.ycombinator.com/item?id=47761609"
     },
     {
-      "title": "Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)",
-      "link": "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T04:39:11Z",
-      "id": "f367d5a4a8b59022d0b4155bc98b89ec",
-      "comments": "https://news.ycombinator.com/item?id=47761310"
-    },
-    {
-      "title": "A new spam policy for \"back button hijacking\"",
+      "title": "A new spam policy for \u201cback button hijacking\u201d",
       "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-14T03:06:27Z",
-      "id": "5751ff243fb70d0490a473d5d1b3eaad",
+      "id": "b6b49b1132f03f0f05d1b0a8b06384dd",
       "comments": "https://news.ycombinator.com/item?id=47760764"
     },
     {
-      "title": "Sometimes powerful people just do dumb shit",
-      "link": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T03:04:20Z",
-      "id": "f8fc0cff517f0b6447421d9fd367ec58",
-      "comments": "https://news.ycombinator.com/item?id=47760750"
-    },
-    {
-      "title": "DaVinci Resolve releases Photo Editor",
+      "title": "DaVinci Resolve \u2013 Photo",
       "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-14T02:25:15Z",
-      "id": "b420a69af4a3e3b76934fbe798b3623c",
+      "id": "479a65cde23496a03a3770f25444a217",
       "comments": "https://news.ycombinator.com/item?id=47760529"
     },
     {
@@ -236,22 +236,13 @@
       "comments": "https://news.ycombinator.com/item?id=47716805"
     },
     {
-      "title": "A name is succession, legacy and celebration in Japan's Kabuki theater",
-      "link": "https://apnews.com/article/kabuki-name-succession-japan-tradition-theater-d1e9621bc91385498314f36e1481b6fd",
+      "title": "Repository Pattern with Hygienic Macros in Scheme \u2013 Lisp",
+      "link": "https://jointhefreeworld.org/blog/articles/lisps/functional-repository-pattern-in-scheme-with-macros/index.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-10T11:20:38Z",
-      "id": "c90b9d9b20820d3bdc0ed177ad0f02b4",
-      "comments": "https://news.ycombinator.com/item?id=47716409"
-    },
-    {
-      "title": "I shipped a transaction bug, so I built a linter",
-      "link": "https://leonh.fr/posts/go-transaction-linter/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T09:01:05Z",
-      "id": "07671ff113e46fc44af1d196f72e92a9",
-      "comments": "https://news.ycombinator.com/item?id=47715389"
+      "published": "2026-04-10T09:45:51Z",
+      "id": "1c311823fcb784fa56fa65bb0e2a1410",
+      "comments": "https://news.ycombinator.com/item?id=47715681"
     },
     {
       "title": "A soft robot has no problem moving with no motor and no gears",
@@ -270,6 +261,15 @@
       "published": "2026-04-09T19:20:10Z",
       "id": "e0a3fc4839e72c028703c658e64ddca6",
       "comments": "https://news.ycombinator.com/item?id=47708457"
+    },
+    {
+      "title": "Lumina \u2013 a statically typed web-native language for JavaScript and WASM",
+      "link": "https://github.com/nyigoro/lumina-lang",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T16:02:11Z",
+      "id": "c653fb3b795bc62939b3ff8b23cb079a",
+      "comments": "https://news.ycombinator.com/item?id=47705390"
     }
   ]
 }
