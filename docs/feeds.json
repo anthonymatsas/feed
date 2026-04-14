@@ -1,14 +1,77 @@
 {
-  "last_updated": "2026-04-14T05:19:38.862224Z",
+  "last_updated": "2026-04-14T07:24:55.330124Z",
   "items": [
     {
-      "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
-      "link": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+      "title": "The Shinkansen",
+      "link": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-14T03:32:16Z",
-      "id": "9b26ac9ebe25a7d45cd0db04f97e0cef",
-      "comments": "https://news.ycombinator.com/item?id=47760925"
+      "published": "2026-04-14T06:41:01Z",
+      "id": "5cc484f70db15f01b3fd270fd7afa4b3",
+      "comments": "https://news.ycombinator.com/item?id=47762060"
+    },
+    {
+      "title": "Can Claude Fly a Plane?",
+      "link": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T06:32:45Z",
+      "id": "d1d9c88e547227dd428c47edeca84dc1",
+      "comments": "https://news.ycombinator.com/item?id=47762006"
+    },
+    {
+      "title": "Distributed DuckDB Instance",
+      "link": "https://github.com/citguru/openduck",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T06:31:44Z",
+      "id": "81907bcf5325d53a7fb5e8caecccc5c5",
+      "comments": "https://news.ycombinator.com/item?id=47761997"
+    },
+    {
+      "title": "Roblox devs now need a subscription to share their games freely",
+      "link": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T06:04:31Z",
+      "id": "7b26210bcc252ed4811443d95c0adc30",
+      "comments": "https://news.ycombinator.com/item?id=47761825"
+    },
+    {
+      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+      "link": "https://kirancodes.me/posts/log-distributed-llms.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T05:32:48Z",
+      "id": "e473b51beca77ff6e55dcfb00ed2187b",
+      "comments": "https://news.ycombinator.com/item?id=47761625"
+    },
+    {
+      "title": "UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism",
+      "link": "https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T05:29:30Z",
+      "id": "d7f3012820c755e0dea4bc0712642419",
+      "comments": "https://news.ycombinator.com/item?id=47761613"
+    },
+    {
+      "title": "TanStack Start Now Support React Server Components",
+      "link": "https://tanstack.com/blog/react-server-components",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T05:28:51Z",
+      "id": "1ee74c6af327fdd1b2a13bccae95ef3e",
+      "comments": "https://news.ycombinator.com/item?id=47761609"
+    },
+    {
+      "title": "Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)",
+      "link": "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T04:39:11Z",
+      "id": "f367d5a4a8b59022d0b4155bc98b89ec",
+      "comments": "https://news.ycombinator.com/item?id=47761310"
     },
     {
       "title": "A new spam policy for \"back button hijacking\"",
@@ -20,6 +83,15 @@
       "comments": "https://news.ycombinator.com/item?id=47760764"
     },
     {
+      "title": "Sometimes powerful people just do dumb shit",
+      "link": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T03:04:20Z",
+      "id": "f8fc0cff517f0b6447421d9fd367ec58",
+      "comments": "https://news.ycombinator.com/item?id=47760750"
+    },
+    {
       "title": "DaVinci Resolve releases Photo Editor",
       "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
       "source": "Hacker News",
@@ -27,15 +99,6 @@
       "published": "2026-04-14T02:25:15Z",
       "id": "b420a69af4a3e3b76934fbe798b3623c",
       "comments": "https://news.ycombinator.com/item?id=47760529"
-    },
-    {
-      "title": "The Journal of C Language Translation",
-      "link": "http://jclt.iecc.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T01:12:20Z",
-      "id": "7d4cef777657f7671c701cb0ab7c16f1",
-      "comments": "https://news.ycombinator.com/item?id=47760027"
     },
     {
       "title": "Lean proved this program correct; then I found a bug",
@@ -56,15 +119,6 @@
       "comments": "https://news.ycombinator.com/item?id=47759341"
     },
     {
-      "title": "The AI revolution in math has arrived",
-      "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T23:26:04Z",
-      "id": "fe6a60c659fe15ca98226a7527cfc47d",
-      "comments": "https://news.ycombinator.com/item?id=47759292"
-    },
-    {
       "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
       "link": "https://ndaybench.winfunc.com",
       "source": "Hacker News",
@@ -83,24 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47757495"
     },
     {
-      "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
-      "link": "https://amd-gaia.ai/docs",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T19:28:41Z",
-      "id": "e598864bc0c2e045b2c5f5efcd66015b",
-      "comments": "https://news.ycombinator.com/item?id=47756772"
-    },
-    {
-      "title": "Show HN: Ithih\u0101sas \u2013 a character explorer for Hindu epics, built in a few hours",
-      "link": "https://www.ithihasas.in",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T19:10:07Z",
-      "id": "c990ae6c29f5feda354e6b636019cd2f",
-      "comments": "https://news.ycombinator.com/item?id=47756569"
-    },
-    {
       "title": "How to make Firefox builds 17% faster",
       "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
       "source": "Hacker News",
@@ -110,15 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=47756321"
     },
     {
-      "title": "Visualizing CPU Pipelining (2024)",
-      "link": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T18:26:40Z",
-      "id": "ccc9f7ec025d634a5b305698e6c4195c",
-      "comments": "https://news.ycombinator.com/item?id=47756036"
-    },
-    {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
       "source": "Hacker News",
@@ -126,15 +153,6 @@
       "published": "2026-04-13T17:54:39Z",
       "id": "a3e2ead83df75ef4dc4af6801cb7ee18",
       "comments": "https://news.ycombinator.com/item?id=47755629"
-    },
-    {
-      "title": "New Orleans's Car-Crash Conspiracy",
-      "link": "https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T17:50:56Z",
-      "id": "9c4abf2bf8862e5c5d2847eb343c4109",
-      "comments": "https://news.ycombinator.com/item?id=47755573"
     },
     {
       "title": "Building a CLI for all of Cloudflare",
@@ -182,15 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=47750669"
     },
     {
-      "title": "Tracking down a 25% Regression on LLVM RISC-V",
-      "link": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T19:52:58Z",
-      "id": "95f4b6d989072f8dc17ee970770925d5",
-      "comments": "https://news.ycombinator.com/item?id=47743728"
-    },
-    {
       "title": "I just want simple S3",
       "link": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
       "source": "Hacker News",
@@ -200,15 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=47729350"
     },
     {
-      "title": "Air Powered Segment Display? [video]",
-      "link": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T09:32:17Z",
-      "id": "9f4e7f0e540c3aee9dc6422438c5aeb2",
-      "comments": "https://news.ycombinator.com/item?id=47729046"
-    },
-    {
       "title": "Write less code, be more responsible",
       "link": "https://blog.orhun.dev/code-responsibly/",
       "source": "Hacker News",
@@ -216,15 +216,6 @@
       "published": "2026-04-11T09:20:45Z",
       "id": "bb2ff5ac753b2b45ca5df328ff8a80b8",
       "comments": "https://news.ycombinator.com/item?id=47728970"
-    },
-    {
-      "title": "What we learned building a Rust runtime for TypeScript",
-      "link": "https://encore.dev/blog/rust-runtime",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T08:53:16Z",
-      "id": "1c2f684e7ff4ab7d4e7a5e264ed7076d",
-      "comments": "https://news.ycombinator.com/item?id=47728823"
     },
     {
       "title": "Design and implementation of DuckDB internals",
@@ -245,6 +236,15 @@
       "comments": "https://news.ycombinator.com/item?id=47716805"
     },
     {
+      "title": "A name is succession, legacy and celebration in Japan's Kabuki theater",
+      "link": "https://apnews.com/article/kabuki-name-succession-japan-tradition-theater-d1e9621bc91385498314f36e1481b6fd",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T11:20:38Z",
+      "id": "c90b9d9b20820d3bdc0ed177ad0f02b4",
+      "comments": "https://news.ycombinator.com/item?id=47716409"
+    },
+    {
       "title": "I shipped a transaction bug, so I built a linter",
       "link": "https://leonh.fr/posts/go-transaction-linter/",
       "source": "Hacker News",
@@ -254,13 +254,13 @@
       "comments": "https://news.ycombinator.com/item?id=47715389"
     },
     {
-      "title": "Tool to explore regularly sampled time series",
-      "link": "https://github.com/rajivsam/tseda",
+      "title": "A soft robot has no problem moving with no motor and no gears",
+      "link": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-10T08:39:51Z",
-      "id": "2451e6050b1d9cf6c2f9879582c0534e",
-      "comments": "https://news.ycombinator.com/item?id=47715256"
+      "published": "2026-04-09T22:33:41Z",
+      "id": "46a34fc9ab44979268dbe9924254e441",
+      "comments": "https://news.ycombinator.com/item?id=47711148"
     },
     {
       "title": "Rust Threads on the GPU",
