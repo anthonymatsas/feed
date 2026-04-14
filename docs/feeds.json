@@ -1,6 +1,51 @@
 {
-  "last_updated": "2026-04-14T13:17:33.152340Z",
+  "last_updated": "2026-04-14T16:04:08.894997Z",
   "items": [
+    {
+      "title": "Google, Microsoft, Meta All Tracking You Even When You Opt Out",
+      "link": "https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T15:46:43Z",
+      "id": "3dc9c427d82b62a013fe5ba2a94633af",
+      "comments": "https://news.ycombinator.com/item?id=47767191"
+    },
+    {
+      "title": "For the First Time in the U.S., Renewables Generate More Power Than Natural Gas",
+      "link": "https://e360.yale.edu/digest/us-renewables-natural-gas-coal",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T15:44:15Z",
+      "id": "1b800d1fdb0e1d67d37639321b8d4bb0",
+      "comments": "https://news.ycombinator.com/item?id=47767160"
+    },
+    {
+      "title": "The Future of Everything Is Lies, I Guess: Work",
+      "link": "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T15:00:45Z",
+      "id": "ef7d91794bbbe768abab1e438f577b50",
+      "comments": "https://news.ycombinator.com/item?id=47766550"
+    },
+    {
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T13:46:31Z",
+      "id": "edf13c12a80829a15c00ece94b4e1945",
+      "comments": "https://news.ycombinator.com/item?id=47765604"
+    },
+    {
+      "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
+      "link": "https://github.com/kontext-dev/kontext-cli",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T13:26:53Z",
+      "id": "fec20e91f29e8191597e083205639517",
+      "comments": "https://news.ycombinator.com/item?id=47765374"
+    },
     {
       "title": "The exponential curve behind open source backlogs",
       "link": "https://armanckeser.com/writing/jellyfin-flow",
@@ -9,15 +54,6 @@
       "published": "2026-04-14T11:37:56Z",
       "id": "5050f8bd3a741408c3e34c115809c41b",
       "comments": "https://news.ycombinator.com/item?id=47764265"
-    },
-    {
-      "title": "The Case Against Gameplay Loops",
-      "link": "https://blog.joeyschutz.com/the-case-against-gameplay-loops/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T11:26:25Z",
-      "id": "abaf125099d6908e93de8cf1baa5a8bd",
-      "comments": "https://news.ycombinator.com/item?id=47764164"
     },
     {
       "title": "NimConf 2026: Dates Announced, Registrations Open",
@@ -29,12 +65,12 @@
       "comments": "https://news.ycombinator.com/item?id=47764098"
     },
     {
-      "title": "What is jj and why should I care?",
+      "title": "jj \u2013 the CLI for Jujutsu",
       "link": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-14T10:33:39Z",
-      "id": "bcf6e9134845fce602b51b989a3d4aa4",
+      "id": "7141ad9aaae2335b35f2e1eb045c800e",
       "comments": "https://news.ycombinator.com/item?id=47763759"
     },
     {
@@ -63,15 +99,6 @@
       "published": "2026-04-14T07:57:33Z",
       "id": "63fa94ec1a6de9a40f6e757b0d61815f",
       "comments": "https://news.ycombinator.com/item?id=47762641"
-    },
-    {
-      "title": "The secrets of the Shinkansen",
-      "link": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T06:41:01Z",
-      "id": "9c7a2b2f11c5aa405e2c169d5f1466b6",
-      "comments": "https://news.ycombinator.com/item?id=47762060"
     },
     {
       "title": "Distributed DuckDB Instance",
@@ -137,15 +164,6 @@
       "comments": "https://news.ycombinator.com/item?id=47759341"
     },
     {
-      "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
-      "link": "https://ndaybench.winfunc.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T21:54:03Z",
-      "id": "16010f3029b5735261bf5713809a155b",
-      "comments": "https://news.ycombinator.com/item?id=47758347"
-    },
-    {
       "title": "GitHub Stacked PRs",
       "link": "https://github.github.com/gh-stack/",
       "source": "Hacker News",
@@ -164,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47755629"
     },
     {
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T15:31:06Z",
-      "id": "257410bcfc0086cdbaf0ef305f9b7470",
-      "comments": "https://news.ycombinator.com/item?id=47753472"
-    },
-    {
       "title": "Make tmux pretty and usable (2024)",
       "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
       "source": "Hacker News",
@@ -180,15 +189,6 @@
       "published": "2026-04-13T14:48:55Z",
       "id": "d40bd0cd7044a4b4b4684dc4d9c7870f",
       "comments": "https://news.ycombinator.com/item?id=47752819"
-    },
-    {
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "link": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T13:37:33Z",
-      "id": "9e93c4e3804b963804136887bdb3c29c",
-      "comments": "https://news.ycombinator.com/item?id=47751781"
     },
     {
       "title": "Write less code, be more responsible",
@@ -218,15 +218,6 @@
       "comments": "https://news.ycombinator.com/item?id=47722629"
     },
     {
-      "title": "Design and implementation of DuckDB internals",
-      "link": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T13:59:26Z",
-      "id": "6eb69b50e6887b95a5fff701cbfb9f83",
-      "comments": "https://news.ycombinator.com/item?id=47718284"
-    },
-    {
       "title": "The acyclic e-graph: Cranelift's mid-end optimizer",
       "link": "https://cfallin.org/blog/2026/04/09/aegraph/",
       "source": "Hacker News",
@@ -236,6 +227,24 @@
       "comments": "https://news.ycombinator.com/item?id=47717192"
     },
     {
+      "title": "Nucleus Nouns",
+      "link": "https://ben-mini.com/2026/nucleus-nouns",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T12:06:43Z",
+      "id": "02cd3d733e767a25e115b0937d4a9d18",
+      "comments": "https://news.ycombinator.com/item?id=47716840"
+    },
+    {
+      "title": "Show HN: Run GUIs as Scripts",
+      "link": "https://github.com/skinnyjames/hokusai-pocket",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T07:28:29Z",
+      "id": "9b6435eb8afe33449ac88972febb42c3",
+      "comments": "https://news.ycombinator.com/item?id=47714770"
+    },
+    {
       "title": "A soft robot has no problem moving with no motor and no gears",
       "link": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
       "source": "Hacker News",
@@ -243,15 +252,6 @@
       "published": "2026-04-09T22:33:41Z",
       "id": "46a34fc9ab44979268dbe9924254e441",
       "comments": "https://news.ycombinator.com/item?id=47711148"
-    },
-    {
-      "title": "Rust Threads on the GPU",
-      "link": "https://www.vectorware.com/blog/threads-on-gpu/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-09T19:20:10Z",
-      "id": "e0a3fc4839e72c028703c658e64ddca6",
-      "comments": "https://news.ycombinator.com/item?id=47708457"
     },
     {
       "title": "Lumina \u2013 a statically typed web-native language for JavaScript and WASM",
