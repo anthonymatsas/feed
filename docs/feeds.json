@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-14T10:12:48.202578Z",
+  "last_updated": "2026-04-14T13:17:33.152340Z",
   "items": [
+    {
+      "title": "The exponential curve behind open source backlogs",
+      "link": "https://armanckeser.com/writing/jellyfin-flow",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T11:37:56Z",
+      "id": "5050f8bd3a741408c3e34c115809c41b",
+      "comments": "https://news.ycombinator.com/item?id=47764265"
+    },
+    {
+      "title": "The Case Against Gameplay Loops",
+      "link": "https://blog.joeyschutz.com/the-case-against-gameplay-loops/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T11:26:25Z",
+      "id": "abaf125099d6908e93de8cf1baa5a8bd",
+      "comments": "https://news.ycombinator.com/item?id=47764164"
+    },
+    {
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "link": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T11:19:10Z",
+      "id": "ec1879addad8f065c532e70f142a9e6c",
+      "comments": "https://news.ycombinator.com/item?id=47764098"
+    },
+    {
+      "title": "What is jj and why should I care?",
+      "link": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T10:33:39Z",
+      "id": "bcf6e9134845fce602b51b989a3d4aa4",
+      "comments": "https://news.ycombinator.com/item?id=47763759"
+    },
     {
       "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
       "link": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
@@ -9,15 +45,6 @@
       "published": "2026-04-14T08:52:12Z",
       "id": "adf1520160597e18f36beb432c940221",
       "comments": "https://news.ycombinator.com/item?id=47762994"
-    },
-    {
-      "title": "An AI Vibe Coding Horror Story",
-      "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T08:35:45Z",
-      "id": "24958e08e9054c3c46a76cb7141d37de",
-      "comments": "https://news.ycombinator.com/item?id=47762901"
     },
     {
       "title": "Backblaze has stopped backing up your data",
@@ -74,15 +101,6 @@
       "comments": "https://news.ycombinator.com/item?id=47761625"
     },
     {
-      "title": "TanStack Start Now Support React Server Components",
-      "link": "https://tanstack.com/blog/react-server-components",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T05:28:51Z",
-      "id": "1ee74c6af327fdd1b2a13bccae95ef3e",
-      "comments": "https://news.ycombinator.com/item?id=47761609"
-    },
-    {
       "title": "A new spam policy for \u201cback button hijacking\u201d",
       "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
       "source": "Hacker News",
@@ -137,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47757495"
     },
     {
-      "title": "How to make Firefox builds 17% faster",
-      "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T18:50:08Z",
-      "id": "35010166ad46e8af7d5c91bf57e41d87",
-      "comments": "https://news.ycombinator.com/item?id=47756321"
-    },
-    {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
       "source": "Hacker News",
@@ -153,15 +162,6 @@
       "published": "2026-04-13T17:54:39Z",
       "id": "a3e2ead83df75ef4dc4af6801cb7ee18",
       "comments": "https://news.ycombinator.com/item?id=47755629"
-    },
-    {
-      "title": "Building a CLI for all of Cloudflare",
-      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T15:44:02Z",
-      "id": "382aee745919717e8a11b37e79b3c53c",
-      "comments": "https://news.ycombinator.com/item?id=47753689"
     },
     {
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
@@ -191,24 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47751781"
     },
     {
-      "title": "Android now stops you sharing your location in photos",
-      "link": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T11:48:15Z",
-      "id": "cb740fbdfe72a16bab9c8f2a224e5a68",
-      "comments": "https://news.ycombinator.com/item?id=47750669"
-    },
-    {
-      "title": "I just want simple S3",
-      "link": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T10:36:15Z",
-      "id": "8c722387cfbff9858a63fe44c80a6b55",
-      "comments": "https://news.ycombinator.com/item?id=47729350"
-    },
-    {
       "title": "Write less code, be more responsible",
       "link": "https://blog.orhun.dev/code-responsibly/",
       "source": "Hacker News",
@@ -216,6 +198,24 @@
       "published": "2026-04-11T09:20:45Z",
       "id": "bb2ff5ac753b2b45ca5df328ff8a80b8",
       "comments": "https://news.ycombinator.com/item?id=47728970"
+    },
+    {
+      "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
+      "link": "https://publicdomainreview.org/essay/the-great-majority/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T22:23:03Z",
+      "id": "c72a407a78b6a2894cb8bbb173e90fd4",
+      "comments": "https://news.ycombinator.com/item?id=47724408"
+    },
+    {
+      "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+      "link": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-10T19:33:08Z",
+      "id": "9fdbb29cbfde17dc173087d76eebaa5e",
+      "comments": "https://news.ycombinator.com/item?id=47722629"
     },
     {
       "title": "Design and implementation of DuckDB internals",
@@ -227,22 +227,13 @@
       "comments": "https://news.ycombinator.com/item?id=47718284"
     },
     {
-      "title": "Anastasia (1997) live action reference material",
-      "link": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+      "title": "The acyclic e-graph: Cranelift's mid-end optimizer",
+      "link": "https://cfallin.org/blog/2026/04/09/aegraph/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-10T12:03:16Z",
-      "id": "d35981b31e75db1b52c224a44e75d998",
-      "comments": "https://news.ycombinator.com/item?id=47716805"
-    },
-    {
-      "title": "Repository Pattern with Hygienic Macros in Scheme \u2013 Lisp",
-      "link": "https://jointhefreeworld.org/blog/articles/lisps/functional-repository-pattern-in-scheme-with-macros/index.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T09:45:51Z",
-      "id": "1c311823fcb784fa56fa65bb0e2a1410",
-      "comments": "https://news.ycombinator.com/item?id=47715681"
+      "published": "2026-04-10T12:37:27Z",
+      "id": "0a938a4c288ad7a7df7550ffb31ec6a6",
+      "comments": "https://news.ycombinator.com/item?id=47717192"
     },
     {
       "title": "A soft robot has no problem moving with no motor and no gears",
@@ -270,6 +261,15 @@
       "published": "2026-04-09T16:02:11Z",
       "id": "c653fb3b795bc62939b3ff8b23cb079a",
       "comments": "https://news.ycombinator.com/item?id=47705390"
+    },
+    {
+      "title": "The M\u00d7N problem of tool calling and open-source models",
+      "link": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-09T15:07:13Z",
+      "id": "bf2944ad3e890931e3b602f9bc44b386",
+      "comments": "https://news.ycombinator.com/item?id=47704729"
     }
   ]
 }
