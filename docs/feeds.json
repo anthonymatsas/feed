@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-04-15T13:16:34.692434Z",
+  "last_updated": "2026-04-15T16:01:57.018065Z",
   "items": [
+    {
+      "title": "Cal.com is going closed source",
+      "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T15:26:46Z",
+      "id": "b04fbbae0d89fb9f865b5c115a407670",
+      "comments": "https://news.ycombinator.com/item?id=47780456"
+    },
+    {
+      "title": "Elevated errors on Claude.ai, API, Claude Code",
+      "link": "https://claudestatus.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T14:44:00Z",
+      "id": "acc287f3af50243c8f7193fa203588c4",
+      "comments": "https://news.ycombinator.com/item?id=47779730"
+    },
+    {
+      "title": "Gemini Robotics-ER 1.6",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T14:02:31Z",
+      "id": "17ac149d7078a4644e559de107ef497c",
+      "comments": "https://news.ycombinator.com/item?id=47779094"
+    },
+    {
+      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T13:47:40Z",
+      "id": "d965cf6ac5d37a5dbbb6c43d46a5c6d5",
+      "comments": "https://news.ycombinator.com/item?id=47778920"
+    },
+    {
+      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
+      "link": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T13:34:11Z",
+      "id": "57b11aeb7e90205a8ceac8126059fc72",
+      "comments": "https://news.ycombinator.com/item?id=47778758"
+    },
+    {
+      "title": "MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints",
+      "link": "https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T13:22:10Z",
+      "id": "214524fe0800efe5d861414bdbcccc8c",
+      "comments": "https://news.ycombinator.com/item?id=47778617"
+    },
+    {
+      "title": "God Sleeps in the Minerals",
+      "link": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T13:08:10Z",
+      "id": "21d46afbe2333642b05671c78535f7c8",
+      "comments": "https://news.ycombinator.com/item?id=47778475"
+    },
+    {
+      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
+      "link": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T12:51:13Z",
+      "id": "860eaa64d6a0bf8cbaecea43418c3d95",
+      "comments": "https://news.ycombinator.com/item?id=47778308"
+    },
+    {
+      "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
+      "link": "https://tracksuccession.com/explore",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T12:51:04Z",
+      "id": "70ca24ed7a7ce24a0b1eeca0d938b323",
+      "comments": "https://news.ycombinator.com/item?id=47778306"
+    },
+    {
+      "title": "Do you even need a database?",
+      "link": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T12:26:11Z",
+      "id": "c94ba58d0ae7a744e4c082b87181c5c1",
+      "comments": "https://news.ycombinator.com/item?id=47778086"
+    },
+    {
+      "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+      "link": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T12:21:47Z",
+      "id": "7c95efe95cba62c8ad855433f72c1c24",
+      "comments": "https://news.ycombinator.com/item?id=47778050"
+    },
+    {
+      "title": "Allbirds, Inc. Announces Expansion into AI Compute Infrastructure",
+      "link": "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T12:20:13Z",
+      "id": "9cf7ceebc3ce010a5e4e167c29f5fab9",
+      "comments": "https://news.ycombinator.com/item?id=47778038"
+    },
     {
       "title": "Proliferate (YC S25) Is Hiring Founding Engineers",
       "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
@@ -11,13 +119,22 @@
       "comments": "https://news.ycombinator.com/item?id=47777902"
     },
     {
-      "title": "New bill would let New Yorkers hang solar panels from windows",
-      "link": "https://gothamist.com/news/here-comes-the-sun-new-bill-would-let-new-yorkers-hang-solar-panels-from-windows",
+      "title": "Academic fraud may be the symptom of a more systemic problem",
+      "link": "https://www.voxweb.nl/en/academic-fraud-may-be-the-symptom-of-a-much-more-systemic-problem",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-15T11:58:28Z",
-      "id": "8653a682d2fb138270e452e3d51c4f49",
-      "comments": "https://news.ycombinator.com/item?id=47777882"
+      "published": "2026-04-15T11:08:25Z",
+      "id": "60d50c1ae899be8fc95dd3d8a25b0745",
+      "comments": "https://news.ycombinator.com/item?id=47777449"
+    },
+    {
+      "title": "Your Backpack Got Worse on Purpose",
+      "link": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T10:42:28Z",
+      "id": "9df27c4528cf581a08930a6fb83a7f92",
+      "comments": "https://news.ycombinator.com/item?id=47777209"
     },
     {
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
@@ -29,15 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=47776796"
     },
     {
-      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
-      "link": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T09:24:31Z",
-      "id": "a34a7fad0ebdad863a786ba9e0af61cc",
-      "comments": "https://news.ycombinator.com/item?id=47776667"
-    },
-    {
       "title": "Good Sleep, Good Learning (2012)",
       "link": "https://super-memory.com/articles/sleep.htm",
       "source": "Hacker News",
@@ -47,22 +155,22 @@
       "comments": "https://news.ycombinator.com/item?id=47776557"
     },
     {
-      "title": "Wacli \u2013 WhatsApp CLI: sync, search, send",
+      "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+      "link": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T08:05:18Z",
+      "id": "653822242b9cfed5c6088bd2110d51b9",
+      "comments": "https://news.ycombinator.com/item?id=47776035"
+    },
+    {
+      "title": "Wacli \u2013 WhatsApp CLI",
       "link": "https://github.com/steipete/wacli",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-15T07:04:45Z",
-      "id": "ffe7c3992add5f810081b4f4a221dcc6",
+      "id": "2142b36bcffd1532f2fc25e47c4f70ec",
       "comments": "https://news.ycombinator.com/item?id=47775628"
-    },
-    {
-      "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
-      "link": "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T05:54:29Z",
-      "id": "44f3293428beb0d1543ab56645eb00db",
-      "comments": "https://news.ycombinator.com/item?id=47775183"
     },
     {
       "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
@@ -92,76 +200,13 @@
       "comments": "https://news.ycombinator.com/item?id=47773812"
     },
     {
-      "title": "Stop Flock",
-      "link": "https://stopflock.com",
+      "title": "New Modern Greek",
+      "link": "https://redas.dev/NewModernGreek/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-14T21:56:05Z",
-      "id": "76eced191c6b2245600cef92ca851990",
-      "comments": "https://news.ycombinator.com/item?id=47772012"
-    },
-    {
-      "title": "Tell HN: Fiverr left customer files public and searchable",
-      "link": "https://news.ycombinator.com/item?id=47769796",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T18:56:40Z",
-      "id": "32eaa521ffc6cf655794cff95274547f",
-      "comments": "https://news.ycombinator.com/item?id=47769796"
-    },
-    {
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T17:09:43Z",
-      "id": "79a0af13b805df5b175809dac77eec83",
-      "comments": "https://news.ycombinator.com/item?id=47768339"
-    },
-    {
-      "title": "Claude Code Routines",
-      "link": "https://code.claude.com/docs/en/routines",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T16:54:33Z",
-      "id": "95477fefc73f698670291444c287b0eb",
-      "comments": "https://news.ycombinator.com/item?id=47768133"
-    },
-    {
-      "title": "5NF and Database Design",
-      "link": "https://kb.databasedesignbook.com/posts/5nf/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T16:22:49Z",
-      "id": "234ee0ae317556a1307eddc4afb3c38d",
-      "comments": "https://news.ycombinator.com/item?id=47767676"
-    },
-    {
-      "title": "Rare concert recordings are landing on the Internet Archive",
-      "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T13:46:31Z",
-      "id": "edf13c12a80829a15c00ece94b4e1945",
-      "comments": "https://news.ycombinator.com/item?id=47765604"
-    },
-    {
-      "title": "The dangers of California's legislation to censor 3D printing",
-      "link": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T23:44:24Z",
-      "id": "c8afc81c8212c4209d2741563627907a",
-      "comments": "https://news.ycombinator.com/item?id=47759420"
-    },
-    {
-      "title": "Let's talk space toilets",
-      "link": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T22:41:19Z",
-      "id": "29d697945fbe7a88ffc3625015751299",
-      "comments": "https://news.ycombinator.com/item?id=47758870"
+      "published": "2026-04-12T17:52:03Z",
+      "id": "0e09f314f221b2e8041da47ffcfc7ed1",
+      "comments": "https://news.ycombinator.com/item?id=47742430"
     },
     {
       "title": "MIT Radiation Laboratory",
@@ -191,67 +236,22 @@
       "comments": "https://news.ycombinator.com/item?id=47739278"
     },
     {
-      "title": "What Is in Road Flares?",
-      "link": "https://www.spiegl.org/rocket/flare/flare.html",
+      "title": "We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS) [video]",
+      "link": "https://www.youtube.com/watch?v=cltnlks2-uU",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-11T22:40:42Z",
-      "id": "008f97b8b62f7f622804763a194436f8",
-      "comments": "https://news.ycombinator.com/item?id=47734629"
+      "published": "2026-04-11T17:59:14Z",
+      "id": "fb9877b09c720e3653bee05c7c4c0f2b",
+      "comments": "https://news.ycombinator.com/item?id=47732623"
     },
     {
-      "title": "The Orange Pi 6 Plus",
-      "link": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+      "title": "Forcing an Inversion of Control on the SaaS Stack",
+      "link": "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-11T17:48:02Z",
-      "id": "390184fb47cbd25fbc5272658d3a8519",
-      "comments": "https://news.ycombinator.com/item?id=47732535"
-    },
-    {
-      "title": "Picasso\u2019s Guernica (Gigapixel)",
-      "link": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T08:27:06Z",
-      "id": "6a895cb9f2fa768897cb78a38d6bc869",
-      "comments": "https://news.ycombinator.com/item?id=47728662"
-    },
-    {
-      "title": "Installing OpenBSD on the Pomera DM250 Writerdeck",
-      "link": "https://jcs.org/2026/04/09/openbsd-dm250",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T00:47:06Z",
-      "id": "c9176a473216746b7426ee13e27f26e2",
-      "comments": "https://news.ycombinator.com/item?id=47725897"
-    },
-    {
-      "title": "A communist Apple II and fourteen years of not knowing what you're testing",
-      "link": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T22:36:24Z",
-      "id": "8089708ab037fc09d691f2c048da4ef2",
-      "comments": "https://news.ycombinator.com/item?id=47724571"
-    },
-    {
-      "title": "PCBWay sponsorship: full-size SD module for Arduino projects",
-      "link": "https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T19:41:45Z",
-      "id": "3087f4b7697ad820d48b7e7d1d3c4384",
-      "comments": "https://news.ycombinator.com/item?id=47722731"
-    },
-    {
-      "title": "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
-      "link": "https://hypirion.com/musings/understanding-persistent-vector-pt-1",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T17:14:18Z",
-      "id": "6b1ea888b302a92e0204871e158a6689",
-      "comments": "https://news.ycombinator.com/item?id=47721076"
+      "published": "2026-04-10T17:01:26Z",
+      "id": "af9dd5f36a1df46fab61d10ff38b7c6d",
+      "comments": "https://news.ycombinator.com/item?id=47720926"
     },
     {
       "title": "Metro stop is Ancient Rome's new attraction",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47708710"
     },
     {
-      "title": "Guide.world: A compendium of travel guides",
-      "link": "https://guide.world/",
+      "title": "Pretty Fish: A better mermaid diagram editor",
+      "link": "https://pretty.fish/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-09T18:17:32Z",
-      "id": "877f88d50e6f751c0992a17c0248e9c0",
-      "comments": "https://news.ycombinator.com/item?id=47707382"
+      "published": "2026-04-09T19:32:20Z",
+      "id": "f41635880bc22c6e16e65db9d0bc5244",
+      "comments": "https://news.ycombinator.com/item?id=47708627"
     }
   ]
 }
