@@ -1,13 +1,58 @@
 {
-  "last_updated": "2026-04-15T07:25:16.649844Z",
+  "last_updated": "2026-04-15T10:13:38.767140Z",
   "items": [
     {
-      "title": "Peter Steinberger \u2013 WhatsApp CLI: sync, search, send",
+      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+      "link": "https://prog21.dadgum.com/30.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T09:41:19Z",
+      "id": "178dadb6ef1736a97970c4e151955207",
+      "comments": "https://news.ycombinator.com/item?id=47776796"
+    },
+    {
+      "title": "'Seeking connection': video game where players stopped shooting, started talking",
+      "link": "https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T09:31:03Z",
+      "id": "6906b6a24023e9c2ec85ca5916a09bd2",
+      "comments": "https://news.ycombinator.com/item?id=47776723"
+    },
+    {
+      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
+      "link": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T09:24:31Z",
+      "id": "a34a7fad0ebdad863a786ba9e0af61cc",
+      "comments": "https://news.ycombinator.com/item?id=47776667"
+    },
+    {
+      "title": "Good Sleep, Good Learning (2012)",
+      "link": "https://super-memory.com/articles/sleep.htm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T09:11:18Z",
+      "id": "095d211ea1248fce3b5f08d92d750789",
+      "comments": "https://news.ycombinator.com/item?id=47776557"
+    },
+    {
+      "title": "My AI-Assisted Workflow",
+      "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T07:08:18Z",
+      "id": "79d19ae3dd9d663ef7d70edc1490ec06",
+      "comments": "https://news.ycombinator.com/item?id=47775653"
+    },
+    {
+      "title": "Wacli \u2013 WhatsApp CLI: sync, search, send",
       "link": "https://github.com/steipete/wacli",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-15T07:04:45Z",
-      "id": "c6ac8bff41fb2a9b673ca685b78ba91e",
+      "id": "ffe7c3992add5f810081b4f4a221dcc6",
       "comments": "https://news.ycombinator.com/item?id=47775628"
     },
     {
@@ -29,6 +74,15 @@
       "comments": "https://news.ycombinator.com/item?id=47775183"
     },
     {
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T05:19:06Z",
+      "id": "eda80dad06bff5af032a1a1ab68f52ec",
+      "comments": "https://news.ycombinator.com/item?id=47774971"
+    },
+    {
       "title": "Fixing a 20-year-old bug in Enlightenment E16",
       "link": "https://iczelia.net/posts/e16-20-year-old-bug/",
       "source": "Hacker News",
@@ -36,15 +90,6 @@
       "published": "2026-04-15T04:47:00Z",
       "id": "ef5a59423786c25f951acf27a230ef46",
       "comments": "https://news.ycombinator.com/item?id=47774789"
-    },
-    {
-      "title": "Saying goodbye to Agile",
-      "link": "https://lewiscampbell.tech/blog/260414.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T04:45:37Z",
-      "id": "dcce15021f12797fd5e697db96bc450e",
-      "comments": "https://news.ycombinator.com/item?id=47774781"
     },
     {
       "title": "Dependency cooldowns turn you into a free-rider",
@@ -65,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47773788"
     },
     {
-      "title": "Don't feel like exercising? Maybe it's the wrong time of day for you",
-      "link": "https://www.bbc.com/news/articles/cd6lzpxwx50o",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T00:20:58Z",
-      "id": "304a32d0332ca1ebb1352db3f609e6b1",
-      "comments": "https://news.ycombinator.com/item?id=47773168"
-    },
-    {
       "title": "Stop Flock",
       "link": "https://stopflock.com",
       "source": "Hacker News",
@@ -83,15 +119,6 @@
       "comments": "https://news.ycombinator.com/item?id=47772012"
     },
     {
-      "title": "Trusted access for the next era of cyber defense",
-      "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T20:07:20Z",
-      "id": "f5d50f141e92296ba84724ee501fc757",
-      "comments": "https://news.ycombinator.com/item?id=47770770"
-    },
-    {
       "title": "Tell HN: Fiverr left customer files public and searchable",
       "link": "https://news.ycombinator.com/item?id=47769796",
       "source": "Hacker News",
@@ -99,24 +126,6 @@
       "published": "2026-04-14T18:56:40Z",
       "id": "32eaa521ffc6cf655794cff95274547f",
       "comments": "https://news.ycombinator.com/item?id=47769796"
-    },
-    {
-      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-      "link": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T17:47:00Z",
-      "id": "64d627077e1cb48fe76546a504d503ee",
-      "comments": "https://news.ycombinator.com/item?id=47768813"
-    },
-    {
-      "title": "Show HN: Plain \u2013 The full-stack Python framework designed for humans and agents",
-      "link": "https://github.com/dropseed/plain",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T17:43:17Z",
-      "id": "a8bd6db7e2b610a86e388e59ed12a2a4",
-      "comments": "https://news.ycombinator.com/item?id=47768750"
     },
     {
       "title": "Turn your best AI prompts into one-click tools in Chrome",
@@ -182,15 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47739278"
     },
     {
-      "title": "Troubleshooting Email Delivery to Microsoft Users",
-      "link": "https://rozumem.xyz/posts/14",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T12:40:34Z",
-      "id": "28bb2276440b528bdeae9e094dc2f13e",
-      "comments": "https://news.ycombinator.com/item?id=47738962"
-    },
-    {
       "title": "Founders Need to Be Ruthless When Chasing Deals",
       "link": "https://steveblank.com/2024/04/16/founders-need-to-be-ruthless-when-chasing-deals/",
       "source": "Hacker News",
@@ -198,6 +198,15 @@
       "published": "2026-04-12T05:09:37Z",
       "id": "7822411ab3aaf79b80e84ab7bbd23a70",
       "comments": "https://news.ycombinator.com/item?id=47736308"
+    },
+    {
+      "title": "What Is in Road Flares?",
+      "link": "https://www.spiegl.org/rocket/flare/flare.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-11T22:40:42Z",
+      "id": "008f97b8b62f7f622804763a194436f8",
+      "comments": "https://news.ycombinator.com/item?id=47734629"
     },
     {
       "title": "The Orange Pi 6 Plus",
@@ -234,15 +243,6 @@
       "published": "2026-04-10T22:36:24Z",
       "id": "8089708ab037fc09d691f2c048da4ef2",
       "comments": "https://news.ycombinator.com/item?id=47724571"
-    },
-    {
-      "title": "Game: Print Gallery Of An Artist, A brief exploration of recursive spaces",
-      "link": "https://managore.itch.io/print-gallery-of-an-artist",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T21:13:12Z",
-      "id": "5655cfe0002915f82bac63fb41d4b42b",
-      "comments": "https://news.ycombinator.com/item?id=47723729"
     },
     {
       "title": "PCBWay sponsorship: full-size SD module for Arduino projects",
