@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-04-16T13:21:49.197901Z",
+  "last_updated": "2026-04-16T16:19:06.176830Z",
   "items": [
     {
-      "title": "Show HN: 48 absurd web projects \u2013 one every month",
-      "link": "https://news.ycombinator.com/item?id=47792026",
+      "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
+      "link": "https://www.zatanna.ai/kampala",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T12:29:33Z",
-      "id": "4e592911feebe98c5728287f469179b4",
-      "comments": "https://news.ycombinator.com/item?id=47792026"
+      "published": "2026-04-16T15:19:54Z",
+      "id": "775de11a997e81a9122114ce3f2ebb6d",
+      "comments": "https://news.ycombinator.com/item?id=47794514"
+    },
+    {
+      "title": "Laravel raised money and now injects ads directly into your agent",
+      "link": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T14:51:13Z",
+      "id": "cd8f7dfcb6ccebe59be23d2ee05215c2",
+      "comments": "https://news.ycombinator.com/item?id=47793926"
+    },
+    {
+      "title": "Claude Opus 4.7 Model Card",
+      "link": "https://anthropic.com/claude-opus-4-7-system-card",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T14:32:24Z",
+      "id": "1f7a49289aea3a65879b1736097237f4",
+      "comments": "https://news.ycombinator.com/item?id=47793546"
+    },
+    {
+      "title": "Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T14:23:50Z",
+      "id": "829a630074b277726c5504e1d4d0eefb",
+      "comments": "https://news.ycombinator.com/item?id=47793411"
+    },
+    {
+      "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+      "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T13:36:27Z",
+      "id": "c0206f078a70c125f610f13a57f75bab",
+      "comments": "https://news.ycombinator.com/item?id=47792764"
+    },
+    {
+      "title": "The future of everything is lies, I guess: Where do we go from here?",
+      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T13:32:13Z",
+      "id": "752eb4727516271aaf2231d214fc2a6c",
+      "comments": "https://news.ycombinator.com/item?id=47792718"
+    },
+    {
+      "title": "Cloudflare Email Service",
+      "link": "https://blog.cloudflare.com/email-for-agents/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T13:21:53Z",
+      "id": "bbf6ddd7c14cef620f57b20826461daa",
+      "comments": "https://news.ycombinator.com/item?id=47792593"
+    },
+    {
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "link": "https://blog.cloudflare.com/ai-platform/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T13:17:37Z",
+      "id": "d663f6b79fb1c6f520577e8056fec776",
+      "comments": "https://news.ycombinator.com/item?id=47792538"
+    },
+    {
+      "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
+      "link": "https://github.com/SeanFDZ/macmind",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T13:16:29Z",
+      "id": "b1f4bbaa85d98acd3754b6d77d99fe4e",
+      "comments": "https://news.ycombinator.com/item?id=47792525"
+    },
+    {
+      "title": "Artifacts: Versioned storage that speaks Git",
+      "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T13:02:03Z",
+      "id": "24308e97e826c69be985856a1b6a0f0a",
+      "comments": "https://news.ycombinator.com/item?id=47792374"
+    },
+    {
+      "title": "Mozilla Thunderbolt",
+      "link": "https://www.thunderbolt.io/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T13:01:36Z",
+      "id": "2d84c13df87390d406b25837e5e83f11",
+      "comments": "https://news.ycombinator.com/item?id=47792368"
+    },
+    {
+      "title": "Show HN: Agent-cache \u2013 Multi-tier LLM/tool/session caching for Valkey and Redis",
+      "link": "https://news.ycombinator.com/item?id=47792122",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T12:37:56Z",
+      "id": "ca7798a615484f9bc39a2c7827fbf324",
+      "comments": "https://news.ycombinator.com/item?id=47792122"
     },
     {
       "title": "\u20ac54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
@@ -18,24 +117,6 @@
       "published": "2026-04-16T12:13:30Z",
       "id": "72cc78a0a08ee20245c1f58563185f9a",
       "comments": "https://news.ycombinator.com/item?id=47791871"
-    },
-    {
-      "title": "Apple accelerates eco progress with highest-ever recycled materials",
-      "link": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T12:11:17Z",
-      "id": "73ea5045b35419a9ef33a08a2ba857b3",
-      "comments": "https://news.ycombinator.com/item?id=47791855"
-    },
-    {
-      "title": "The noise we make is hurting animals. Can we learn to shut up?",
-      "link": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T11:25:05Z",
-      "id": "09f683db693eba4f4b773891fde27cf0",
-      "comments": "https://news.ycombinator.com/item?id=47791507"
     },
     {
       "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
@@ -74,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47789607"
     },
     {
-      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-      "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T05:01:05Z",
-      "id": "a871d16c9f28bce3c8426ea9abaa720f",
-      "comments": "https://news.ycombinator.com/item?id=47788818"
-    },
-    {
       "title": "Darkbloom \u2013 Private inference on idle Macs",
       "link": "https://darkbloom.dev",
       "source": "Hacker News",
@@ -119,15 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47788398"
     },
     {
-      "title": "I made a terminal pager",
-      "link": "https://theleo.zone/posts/pager/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T22:27:54Z",
-      "id": "fc143622ced26c10b7acc398870f5bb8",
-      "comments": "https://news.ycombinator.com/item?id=47786164"
-    },
-    {
       "title": "ChatGPT for Excel",
       "link": "https://chatgpt.com/apps/spreadsheets/",
       "source": "Hacker News",
@@ -137,42 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=47785397"
     },
     {
-      "title": "Google broke its promise to me \u2013 now ICE has my data",
-      "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T17:44:26Z",
-      "id": "2df7094fb52a233bd31388e1ec562044",
-      "comments": "https://news.ycombinator.com/item?id=47782570"
-    },
-    {
-      "title": "CRISPR takes important step toward silencing Down syndrome\u2019s extra chromosome",
-      "link": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T16:19:48Z",
-      "id": "acd4d722fefe15e68c952cce75e9a69e",
-      "comments": "https://news.ycombinator.com/item?id=47781286"
-    },
-    {
-      "title": "Cal.com is going closed source",
-      "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T15:26:46Z",
-      "id": "b04fbbae0d89fb9f865b5c115a407670",
-      "comments": "https://news.ycombinator.com/item?id=47780456"
-    },
-    {
-      "title": "Retrofitting JIT Compilers into C Interpreters",
-      "link": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T12:00:24Z",
-      "id": "179a18f8ac28a6c1a675ba0158d482f5",
-      "comments": "https://news.ycombinator.com/item?id=47777897"
-    },
-    {
       "title": "IPv6 traffic crosses the 50% mark",
       "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
       "source": "Hacker News",
@@ -180,15 +207,6 @@
       "published": "2026-04-15T11:59:49Z",
       "id": "d33288a4ce77bade172f98b5fcccade4",
       "comments": "https://news.ycombinator.com/item?id=47777894"
-    },
-    {
-      "title": "The Accurs\u00e8d Alphabetical Clock",
-      "link": "https://boat.horse/clock/index.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T02:39:05Z",
-      "id": "f7976454cf4af2587d5dc96a19b67e15",
-      "comments": "https://news.ycombinator.com/item?id=47774039"
     },
     {
       "title": "Cybersecurity looks like proof of work now",
@@ -218,13 +236,13 @@
       "comments": "https://news.ycombinator.com/item?id=47750486"
     },
     {
-      "title": "Introduction to spherical harmonics for graphics programmers",
-      "link": "https://gpfault.net/posts/sph.html",
+      "title": "Six Characters",
+      "link": "https://ajitem.com/blog/iron-core-part-2-six-characters/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T09:05:45Z",
-      "id": "320daf56107457e1be45781a3cbe7f79",
-      "comments": "https://news.ycombinator.com/item?id=47749548"
+      "published": "2026-04-13T09:24:44Z",
+      "id": "96d67f49fa4a4befae06c4f9e23cc40c",
+      "comments": "https://news.ycombinator.com/item?id=47749659"
     },
     {
       "title": "The paper computer",
@@ -236,31 +254,13 @@
       "comments": "https://news.ycombinator.com/item?id=47747770"
     },
     {
-      "title": "Fast and Easy Levenshtein distance using a Trie (2011)",
-      "link": "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T12:00:43Z",
-      "id": "d750b6a7a68c3bacc3c3cb8e9332a368",
-      "comments": "https://news.ycombinator.com/item?id=47738673"
-    },
-    {
       "title": "Modern Microprocessors \u2013 A 90-Minute Guide",
-      "link": "https://www.lighterra.com/articles/",
+      "link": "https://www.lighterra.com/papers/modernmicroprocessors/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-12T09:05:29Z",
-      "id": "3f6df93ed5d535810db88ca8780fef03",
+      "id": "876f8177c4701182ee29a9c449436d62",
       "comments": "https://news.ycombinator.com/item?id=47737499"
-    },
-    {
-      "title": "FIXAPL",
-      "link": "https://fixapl.netlify.app/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T06:36:23Z",
-      "id": "dc5490f0437b810e903011d63fd9f1d0",
-      "comments": "https://news.ycombinator.com/item?id=47736738"
     },
     {
       "title": "Long Instruction Word architectures and the ELI-512",
