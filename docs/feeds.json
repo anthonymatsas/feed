@@ -1,14 +1,32 @@
 {
-  "last_updated": "2026-04-16T05:27:05.154808Z",
+  "last_updated": "2026-04-16T07:25:51.399361Z",
   "items": [
     {
-      "title": "IPv8 Proposal",
-      "link": "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T05:07:05Z",
-      "id": "1975500d90d1df0c8ad035df47e41a8f",
-      "comments": "https://news.ycombinator.com/item?id=47788857"
+      "published": "2026-04-16T07:01:29Z",
+      "id": "879c520d746a076f2ebaf4a73f8ddeae",
+      "comments": "https://news.ycombinator.com/item?id=47789607"
+    },
+    {
+      "title": "Sal Khan's AI revolution hasn't happened yet",
+      "link": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T05:05:44Z",
+      "id": "0405d64d9c83f1fe0ef00d13afb21bc4",
+      "comments": "https://news.ycombinator.com/item?id=47788845"
+    },
+    {
+      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+      "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T05:01:05Z",
+      "id": "a871d16c9f28bce3c8426ea9abaa720f",
+      "comments": "https://news.ycombinator.com/item?id=47788818"
     },
     {
       "title": "A Look into NaviDial, Japan's Legacy Phone Service",
@@ -47,13 +65,22 @@
       "comments": "https://news.ycombinator.com/item?id=47788424"
     },
     {
-      "title": "Show HN: Hiraeth \u2013 AWS Emulator",
-      "link": "https://github.com/SethPyle376/hiraeth",
+      "title": "North American English Dialects",
+      "link": "https://aschmann.net/AmEng/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T02:28:18Z",
-      "id": "e58a779e889098ea1f89b3fe0d2eafb2",
-      "comments": "https://news.ycombinator.com/item?id=47787947"
+      "published": "2026-04-16T03:38:45Z",
+      "id": "91d8df3455e3acf7b7ee9e47cea85cf9",
+      "comments": "https://news.ycombinator.com/item?id=47788398"
+    },
+    {
+      "title": "Stop Using Ollama",
+      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T03:35:11Z",
+      "id": "07e04e33180786760352d8e0be17add4",
+      "comments": "https://news.ycombinator.com/item?id=47788385"
     },
     {
       "title": "Stealth signals are bypassing Iran\u2019s internet blackout",
@@ -72,15 +99,6 @@
       "published": "2026-04-16T00:19:40Z",
       "id": "668352ebf39f8654a7e68af82698e3e8",
       "comments": "https://news.ycombinator.com/item?id=47787127"
-    },
-    {
-      "title": "YouTube users get option to set their Shorts time limit to zero minutes",
-      "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T23:36:56Z",
-      "id": "114edf2f9ed8cdc548917ea8126bc0cb",
-      "comments": "https://news.ycombinator.com/item?id=47786791"
     },
     {
       "title": "I made a terminal pager",
@@ -137,24 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47782570"
     },
     {
-      "title": "The Gemini app is now on Mac",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T17:25:52Z",
-      "id": "ad6050607cc7da26f325cd6223ce7c76",
-      "comments": "https://news.ycombinator.com/item?id=47782256"
-    },
-    {
-      "title": "Adaptional (YC S25) is hiring AI engineers",
-      "link": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T17:00:56Z",
-      "id": "33486cfa9952cffe7f4040957ad24414",
-      "comments": "https://news.ycombinator.com/item?id=47781912"
-    },
-    {
       "title": "CRISPR takes important step toward silencing Down syndrome\u2019s extra chromosome",
       "link": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
       "source": "Hacker News",
@@ -162,6 +162,15 @@
       "published": "2026-04-15T16:19:48Z",
       "id": "acd4d722fefe15e68c952cce75e9a69e",
       "comments": "https://news.ycombinator.com/item?id=47781286"
+    },
+    {
+      "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
+      "link": "https://github.com/saffron-health/libretto",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T15:57:54Z",
+      "id": "d949dc2d1ceffecc54b6a863838d513a",
+      "comments": "https://news.ycombinator.com/item?id=47780971"
     },
     {
       "title": "Cal.com is going closed source",
@@ -182,24 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47778920"
     },
     {
-      "title": "God sleeps in the minerals",
-      "link": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T13:08:10Z",
-      "id": "ef75c8007a6262a625566deedde624cc",
-      "comments": "https://news.ycombinator.com/item?id=47778475"
-    },
-    {
-      "title": "Do you even need a database?",
-      "link": "https://www.dbpro.app/blog/do-you-even-need-a-database",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T12:26:11Z",
-      "id": "c94ba58d0ae7a744e4c082b87181c5c1",
-      "comments": "https://news.ycombinator.com/item?id=47778086"
-    },
-    {
       "title": "Retrofitting JIT Compilers into C Interpreters",
       "link": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
       "source": "Hacker News",
@@ -209,13 +200,13 @@
       "comments": "https://news.ycombinator.com/item?id=47777897"
     },
     {
-      "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
-      "link": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+      "title": "IPv6 traffic crosses the 50% mark",
+      "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-15T08:05:18Z",
-      "id": "653822242b9cfed5c6088bd2110d51b9",
-      "comments": "https://news.ycombinator.com/item?id=47776035"
+      "published": "2026-04-15T11:59:49Z",
+      "id": "d33288a4ce77bade172f98b5fcccade4",
+      "comments": "https://news.ycombinator.com/item?id=47777894"
     },
     {
       "title": "Cybersecurity looks like proof of work now",
@@ -263,13 +254,22 @@
       "comments": "https://news.ycombinator.com/item?id=47738673"
     },
     {
-      "title": "Intel Xpress Resurrection: Reviving a Forgotten EISA Beast",
-      "link": "https://x86.fr/intel-xpress-resurrection-reviving-a-forgotten-eisa-beast/",
+      "title": "FIXAPL",
+      "link": "https://fixapl.netlify.app/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-12T09:32:11Z",
-      "id": "0a4a0c3d46e6f614df2fec8869c19e2e",
-      "comments": "https://news.ycombinator.com/item?id=47737663"
+      "published": "2026-04-12T06:36:23Z",
+      "id": "dc5490f0437b810e903011d63fd9f1d0",
+      "comments": "https://news.ycombinator.com/item?id=47736738"
+    },
+    {
+      "title": "Rewriting a 20-year-old Python library",
+      "link": "https://www.b-list.org/weblog/2026/mar/23/20-year-library/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-11T14:12:45Z",
+      "id": "7d7f8b4c10027d8ee205a56a7bafa23d",
+      "comments": "https://news.ycombinator.com/item?id=47730799"
     }
   ]
 }
