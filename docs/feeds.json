@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-16T16:19:06.176830Z",
+  "last_updated": "2026-04-16T19:06:36.500433Z",
   "items": [
+    {
+      "title": "Europe has \"maybe 6 weeks of jet fuel left\"",
+      "link": "https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T19:00:09Z",
+      "id": "a8a1c46b1cb5f349356a716f0cc4d87c",
+      "comments": "https://news.ycombinator.com/item?id=47797911"
+    },
+    {
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T17:37:20Z",
+      "id": "fcc80c9882e14258a24a109b3b754c31",
+      "comments": "https://news.ycombinator.com/item?id=47796830"
+    },
+    {
+      "title": "Codex for Almost Everything",
+      "link": "https://openai.com/index/codex-for-almost-everything/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T17:12:19Z",
+      "id": "f9a35b876d5d0abc95dff806aaedf225",
+      "comments": "https://news.ycombinator.com/item?id=47796469"
+    },
+    {
+      "title": "Japan implements language proficiency requirements for certain visa applicants",
+      "link": "https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T16:53:32Z",
+      "id": "4fb015a84368d6e775407ea8ba5f2ca1",
+      "comments": "https://news.ycombinator.com/item?id=47796197"
+    },
     {
       "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
       "link": "https://www.zatanna.ai/kampala",
@@ -9,6 +45,15 @@
       "published": "2026-04-16T15:19:54Z",
       "id": "775de11a997e81a9122114ce3f2ebb6d",
       "comments": "https://news.ycombinator.com/item?id=47794514"
+    },
+    {
+      "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+      "link": "https://andonlabs.com/blog/andon-market-launch",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T15:13:13Z",
+      "id": "6e2fccbccc4bd69fca4a4f63d10c72f7",
+      "comments": "https://news.ycombinator.com/item?id=47794391"
     },
     {
       "title": "Laravel raised money and now injects ads directly into your agent",
@@ -38,12 +83,12 @@
       "comments": "https://news.ycombinator.com/item?id=47793411"
     },
     {
-      "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-16T13:36:27Z",
-      "id": "c0206f078a70c125f610f13a57f75bab",
+      "id": "5f1e265827ff5696505c5b29d058d92d",
       "comments": "https://news.ycombinator.com/item?id=47792764"
     },
     {
@@ -101,33 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=47792368"
     },
     {
-      "title": "Show HN: Agent-cache \u2013 Multi-tier LLM/tool/session caching for Valkey and Redis",
-      "link": "https://news.ycombinator.com/item?id=47792122",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T12:37:56Z",
-      "id": "ca7798a615484f9bc39a2c7827fbf324",
-      "comments": "https://news.ycombinator.com/item?id=47792122"
-    },
-    {
-      "title": "\u20ac54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-      "link": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T12:13:30Z",
-      "id": "72cc78a0a08ee20245c1f58563185f9a",
-      "comments": "https://news.ycombinator.com/item?id=47791871"
-    },
-    {
-      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
-      "link": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T10:57:13Z",
-      "id": "c7ddf1f90fb00dc71e18ad8470bb335f",
-      "comments": "https://news.ycombinator.com/item?id=47791282"
-    },
-    {
       "title": "AI cybersecurity is not proof of work",
       "link": "https://antirez.com/news/163",
       "source": "Hacker News",
@@ -164,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47788542"
     },
     {
-      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-      "link": "https://github.com/Nightmare-Eclipse/RedSun",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T03:54:21Z",
-      "id": "d9bd8af7d3316aba813c7b8c9fa1d57c",
-      "comments": "https://news.ycombinator.com/item?id=47788473"
-    },
-    {
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "link": "https://daedal.io/@thomzane/116410863009847575",
       "source": "Hacker News",
@@ -180,15 +189,6 @@
       "published": "2026-04-16T03:44:38Z",
       "id": "aa04be20c5eaa474d23cc72c75090cfe",
       "comments": "https://news.ycombinator.com/item?id=47788424"
-    },
-    {
-      "title": "North American English Dialects",
-      "link": "https://aschmann.net/AmEng/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T03:38:45Z",
-      "id": "91d8df3455e3acf7b7ee9e47cea85cf9",
-      "comments": "https://news.ycombinator.com/item?id=47788398"
     },
     {
       "title": "ChatGPT for Excel",
@@ -227,13 +227,13 @@
       "comments": "https://news.ycombinator.com/item?id=47763959"
     },
     {
-      "title": "Too much discussion of the XOR swap trick",
-      "link": "https://heather.cafe/posts/too_much_xor_swap_trick/",
+      "title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task",
+      "link": "https://github.com/AgentSeal/codeburn",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T11:22:22Z",
-      "id": "daa9c31205a10e0d2fbd7b28fea362ae",
-      "comments": "https://news.ycombinator.com/item?id=47750486"
+      "published": "2026-04-13T22:57:05Z",
+      "id": "fe09e538bfa52835db6380dd23495809",
+      "comments": "https://news.ycombinator.com/item?id=47759035"
     },
     {
       "title": "Six Characters",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47737499"
     },
     {
-      "title": "Long Instruction Word architectures and the ELI-512",
-      "link": "https://dl.acm.org/doi/10.1145/800046.801649",
+      "title": "PCI Express over Fiber [video]",
+      "link": "https://www.youtube.com/watch?v=XaDa9bBucEI",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-11T15:04:31Z",
-      "id": "aa2017e90a0653511e9ad00f74d1375b",
-      "comments": "https://news.ycombinator.com/item?id=47731254"
+      "published": "2026-04-11T18:54:58Z",
+      "id": "cae328e49c444e12c2a2764bdd6fd1dc",
+      "comments": "https://news.ycombinator.com/item?id=47733059"
     }
   ]
 }
