@@ -1,14 +1,77 @@
 {
-  "last_updated": "2026-04-16T19:06:36.500433Z",
+  "last_updated": "2026-04-16T21:38:51.096609Z",
   "items": [
     {
-      "title": "Europe has \"maybe 6 weeks of jet fuel left\"",
-      "link": "https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703",
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "link": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T19:00:09Z",
-      "id": "a8a1c46b1cb5f349356a716f0cc4d87c",
-      "comments": "https://news.ycombinator.com/item?id=47797911"
+      "published": "2026-04-16T21:14:02Z",
+      "id": "5259bbacee27d146f36801b558418508",
+      "comments": "https://news.ycombinator.com/item?id=47799573"
+    },
+    {
+      "title": "Join Akkari's Founding Team (YC P26) as an Engineer",
+      "link": "https://news.ycombinator.com/item?id=47799454",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T21:00:33Z",
+      "id": "e4510db7d5b1fe75f27cb485352dd30f",
+      "comments": "https://news.ycombinator.com/item?id=47799454"
+    },
+    {
+      "title": "The Beginning of Scarcity in AI",
+      "link": "https://tomtunguz.com/ai-compute-crisis-2026/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T20:49:35Z",
+      "id": "c50a8a5785c3f089d29d4e44f3d91407",
+      "comments": "https://news.ycombinator.com/item?id=47799322"
+    },
+    {
+      "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
+      "link": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T20:31:52Z",
+      "id": "5cbe15641ee0e56025565882ee07e3ec",
+      "comments": "https://news.ycombinator.com/item?id=47799120"
+    },
+    {
+      "title": "European civil servants are being forced off WhatsApp",
+      "link": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T19:40:14Z",
+      "id": "23e92c6b907eb131af82c3a273f04905",
+      "comments": "https://news.ycombinator.com/item?id=47798456"
+    },
+    {
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "link": "https://clojure.org/about/documentary",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T19:32:18Z",
+      "id": "e0a440fcb221669363d6debe6a942454",
+      "comments": "https://news.ycombinator.com/item?id=47798345"
+    },
+    {
+      "title": "GPT\u2011Rosalind for life sciences research",
+      "link": "https://openai.com/index/introducing-gpt-rosalind/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T19:24:50Z",
+      "id": "ce704765a278076f277de2025779adc4",
+      "comments": "https://news.ycombinator.com/item?id=47798244"
+    },
+    {
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "link": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T18:39:59Z",
+      "id": "33e81d2d6fe69e9dc8b0c934aa8c4c10",
+      "comments": "https://news.ycombinator.com/item?id=47797665"
     },
     {
       "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
@@ -20,12 +83,12 @@
       "comments": "https://news.ycombinator.com/item?id=47796830"
     },
     {
-      "title": "Codex for Almost Everything",
+      "title": "Codex for almost everything",
       "link": "https://openai.com/index/codex-for-almost-everything/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-16T17:12:19Z",
-      "id": "f9a35b876d5d0abc95dff806aaedf225",
+      "id": "5c21638aa3bb333ac16d5eb6cfa7756d",
       "comments": "https://news.ycombinator.com/item?id=47796469"
     },
     {
@@ -45,33 +108,6 @@
       "published": "2026-04-16T15:19:54Z",
       "id": "775de11a997e81a9122114ce3f2ebb6d",
       "comments": "https://news.ycombinator.com/item?id=47794514"
-    },
-    {
-      "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "link": "https://andonlabs.com/blog/andon-market-launch",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T15:13:13Z",
-      "id": "6e2fccbccc4bd69fca4a4f63d10c72f7",
-      "comments": "https://news.ycombinator.com/item?id=47794391"
-    },
-    {
-      "title": "Laravel raised money and now injects ads directly into your agent",
-      "link": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T14:51:13Z",
-      "id": "cd8f7dfcb6ccebe59be23d2ee05215c2",
-      "comments": "https://news.ycombinator.com/item?id=47793926"
-    },
-    {
-      "title": "Claude Opus 4.7 Model Card",
-      "link": "https://anthropic.com/claude-opus-4-7-system-card",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T14:32:24Z",
-      "id": "1f7a49289aea3a65879b1736097237f4",
-      "comments": "https://news.ycombinator.com/item?id=47793546"
     },
     {
       "title": "Claude Opus 4.7",
@@ -137,15 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47792374"
     },
     {
-      "title": "Mozilla Thunderbolt",
-      "link": "https://www.thunderbolt.io/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T13:01:36Z",
-      "id": "2d84c13df87390d406b25837e5e83f11",
-      "comments": "https://news.ycombinator.com/item?id=47792368"
-    },
-    {
       "title": "AI cybersecurity is not proof of work",
       "link": "https://antirez.com/news/163",
       "source": "Hacker News",
@@ -164,42 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47791212"
     },
     {
-      "title": "RamAIn (YC W26) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T07:01:29Z",
-      "id": "879c520d746a076f2ebaf4a73f8ddeae",
-      "comments": "https://news.ycombinator.com/item?id=47789607"
-    },
-    {
-      "title": "Darkbloom \u2013 Private inference on idle Macs",
-      "link": "https://darkbloom.dev",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T04:06:39Z",
-      "id": "a963543249b7fb1cbf5ed89d8d29cf99",
-      "comments": "https://news.ycombinator.com/item?id=47788542"
-    },
-    {
-      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "link": "https://daedal.io/@thomzane/116410863009847575",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T03:44:38Z",
-      "id": "aa04be20c5eaa474d23cc72c75090cfe",
-      "comments": "https://news.ycombinator.com/item?id=47788424"
-    },
-    {
-      "title": "ChatGPT for Excel",
-      "link": "https://chatgpt.com/apps/spreadsheets/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T21:21:05Z",
-      "id": "6743f059e4dc76719240b7be3f6ad40f",
-      "comments": "https://news.ycombinator.com/item?id=47785397"
-    },
-    {
       "title": "IPv6 traffic crosses the 50% mark",
       "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
       "source": "Hacker News",
@@ -207,24 +198,6 @@
       "published": "2026-04-15T11:59:49Z",
       "id": "d33288a4ce77bade172f98b5fcccade4",
       "comments": "https://news.ycombinator.com/item?id=47777894"
-    },
-    {
-      "title": "Cybersecurity looks like proof of work now",
-      "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T18:08:14Z",
-      "id": "87d8c93c98b7f3bb8af3bb318d4c9294",
-      "comments": "https://news.ycombinator.com/item?id=47769089"
-    },
-    {
-      "title": "PHP 8.6 Closure Optimizations",
-      "link": "https://wiki.php.net/rfc/closure-optimizations",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T10:59:33Z",
-      "id": "fcffee2008440d6208e5b0232eb42f11",
-      "comments": "https://news.ycombinator.com/item?id=47763959"
     },
     {
       "title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task",
@@ -236,6 +209,15 @@
       "comments": "https://news.ycombinator.com/item?id=47759035"
     },
     {
+      "title": "Circuit Transformations, Loop Fusion, and Inductive Proof",
+      "link": "https://natetyoung.github.io/carry_save_fusion/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T16:23:23Z",
+      "id": "23be2d29107121f8e5ad0181f9b2d5a2",
+      "comments": "https://news.ycombinator.com/item?id=47754383"
+    },
+    {
       "title": "Six Characters",
       "link": "https://ajitem.com/blog/iron-core-part-2-six-characters/",
       "source": "Hacker News",
@@ -245,13 +227,13 @@
       "comments": "https://news.ycombinator.com/item?id=47749659"
     },
     {
-      "title": "The paper computer",
-      "link": "https://jsomers.net/blog/the-paper-computer",
+      "title": "Put your SSH keys in your TPM chip",
+      "link": "https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T04:57:48Z",
-      "id": "7aa58b86893a0089309fe7c0115dfc77",
-      "comments": "https://news.ycombinator.com/item?id=47747770"
+      "published": "2026-04-12T11:38:46Z",
+      "id": "3d6accf32ac133de627ae59208457d67",
+      "comments": "https://news.ycombinator.com/item?id=47738520"
     },
     {
       "title": "Modern Microprocessors \u2013 A 90-Minute Guide",
@@ -261,6 +243,24 @@
       "published": "2026-04-12T09:05:29Z",
       "id": "876f8177c4701182ee29a9c449436d62",
       "comments": "https://news.ycombinator.com/item?id=47737499"
+    },
+    {
+      "title": "How the Roll Function Works (In APL\\360 and Its Descendants)",
+      "link": "https://www.jsoftware.com/papers/roll.htm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-12T07:45:35Z",
+      "id": "91b02d07b28c882b002c10a5a562cd8c",
+      "comments": "https://news.ycombinator.com/item?id=47737041"
+    },
+    {
+      "title": "TigerBeetle: A Trillion Transactions [video]",
+      "link": "https://www.youtube.com/watch?v=y2_BqkKTbD8",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-12T05:14:52Z",
+      "id": "3f978bcd167517c86f150b006d5661d5",
+      "comments": "https://news.ycombinator.com/item?id=47736331"
     },
     {
       "title": "PCI Express over Fiber [video]",
