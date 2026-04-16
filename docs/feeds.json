@@ -1,32 +1,86 @@
 {
-  "last_updated": "2026-04-16T02:13:12.576546Z",
+  "last_updated": "2026-04-16T05:27:05.154808Z",
   "items": [
     {
-      "title": "The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks",
-      "link": "https://zenodo.org/records/19600206",
+      "title": "IPv8 Proposal",
+      "link": "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-15T23:42:06Z",
-      "id": "1ca5f998d78e6063a6d2e74703e1127a",
-      "comments": "https://news.ycombinator.com/item?id=47786836"
+      "published": "2026-04-16T05:07:05Z",
+      "id": "1975500d90d1df0c8ad035df47e41a8f",
+      "comments": "https://news.ycombinator.com/item?id=47788857"
     },
     {
-      "title": "YouTube now lets you turn off Shorts",
+      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+      "link": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T04:22:56Z",
+      "id": "fc8414dd9f118228bdd1afc241d51746",
+      "comments": "https://news.ycombinator.com/item?id=47788633"
+    },
+    {
+      "title": "Darkbloom \u2013 Private inference on idle Macs",
+      "link": "https://darkbloom.dev",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T04:06:39Z",
+      "id": "a963543249b7fb1cbf5ed89d8d29cf99",
+      "comments": "https://news.ycombinator.com/item?id=47788542"
+    },
+    {
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "link": "https://github.com/Nightmare-Eclipse/RedSun",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T03:54:21Z",
+      "id": "d9bd8af7d3316aba813c7b8c9fa1d57c",
+      "comments": "https://news.ycombinator.com/item?id=47788473"
+    },
+    {
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "link": "https://daedal.io/@thomzane/116410863009847575",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T03:44:38Z",
+      "id": "aa04be20c5eaa474d23cc72c75090cfe",
+      "comments": "https://news.ycombinator.com/item?id=47788424"
+    },
+    {
+      "title": "Show HN: Hiraeth \u2013 AWS Emulator",
+      "link": "https://github.com/SethPyle376/hiraeth",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T02:28:18Z",
+      "id": "e58a779e889098ea1f89b3fe0d2eafb2",
+      "comments": "https://news.ycombinator.com/item?id=47787947"
+    },
+    {
+      "title": "Stealth signals are bypassing Iran\u2019s internet blackout",
+      "link": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T02:16:50Z",
+      "id": "4c3a12cbee42a3802cc4f38f4aa1fb98",
+      "comments": "https://news.ycombinator.com/item?id=47787877"
+    },
+    {
+      "title": "Agent - Native Mac OS X coding ide/harness",
+      "link": "https://github.com/macOS26/Agent",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T00:19:40Z",
+      "id": "668352ebf39f8654a7e68af82698e3e8",
+      "comments": "https://news.ycombinator.com/item?id=47787127"
+    },
+    {
+      "title": "YouTube users get option to set their Shorts time limit to zero minutes",
       "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-15T23:36:56Z",
-      "id": "e646ad41e31fb402fba9cba94c4a88d7",
+      "id": "114edf2f9ed8cdc548917ea8126bc0cb",
       "comments": "https://news.ycombinator.com/item?id=47786791"
-    },
-    {
-      "title": "Atlassian defends firing engineer for suggesting CEO is 'rich jerk'",
-      "link": "https://www.afr.com/technology/atlassian-defends-firing-engineer-for-suggesting-ceo-is-rich-jerk-20260317-p5ob1w",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T23:26:01Z",
-      "id": "28197490ffab38f12fa67f5039ec856e",
-      "comments": "https://news.ycombinator.com/item?id=47786700"
     },
     {
       "title": "I made a terminal pager",
@@ -38,15 +92,6 @@
       "comments": "https://news.ycombinator.com/item?id=47786164"
     },
     {
-      "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
-      "link": "https://www.bbc.com/news/technology-39576394",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T22:05:44Z",
-      "id": "a85c42a09397d7a0aba4f2a5296a7be8",
-      "comments": "https://news.ycombinator.com/item?id=47785948"
-    },
-    {
       "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
       "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
       "source": "Hacker News",
@@ -56,31 +101,13 @@
       "comments": "https://news.ycombinator.com/item?id=47785738"
     },
     {
-      "title": "Hacker News CLI",
-      "link": "https://pythonhosted.org/hackernews-cli/commands.html",
+      "title": "ChatGPT for Excel",
+      "link": "https://chatgpt.com/apps/spreadsheets/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-15T21:35:38Z",
-      "id": "e51618b5f293be5bea9ddf30b2bcfb6c",
-      "comments": "https://news.ycombinator.com/item?id=47785582"
-    },
-    {
-      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "link": "https://github.com/gastownhall/gastown/issues/3649",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T20:49:48Z",
-      "id": "2553e61407996ee965db2b00b5dc02f1",
-      "comments": "https://news.ycombinator.com/item?id=47785053"
-    },
-    {
-      "title": "One interface, every protocol",
-      "link": "https://openbindings.com/blog/one-interface-every-protocol",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T19:56:36Z",
-      "id": "28303ab4f4ba487d849368568740bd8a",
-      "comments": "https://news.ycombinator.com/item?id=47784397"
+      "published": "2026-04-15T21:21:05Z",
+      "id": "6743f059e4dc76719240b7be3f6ad40f",
+      "comments": "https://news.ycombinator.com/item?id=47785397"
     },
     {
       "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
@@ -90,15 +117,6 @@
       "published": "2026-04-15T19:45:47Z",
       "id": "0d169efaf24215f116d1fcd52c8ddd4e",
       "comments": "https://news.ycombinator.com/item?id=47784244"
-    },
-    {
-      "title": "Ask HN: Who is using OpenClaw?",
-      "link": "https://news.ycombinator.com/item?id=47783940",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T19:22:10Z",
-      "id": "72ce8510959a95eb473cf482cdecf16e",
-      "comments": "https://news.ycombinator.com/item?id=47783940"
     },
     {
       "title": "Live Nation illegally monopolized ticketing market, jury finds",
@@ -146,15 +164,6 @@
       "comments": "https://news.ycombinator.com/item?id=47781286"
     },
     {
-      "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
-      "link": "https://github.com/saffron-health/libretto",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T15:57:54Z",
-      "id": "d949dc2d1ceffecc54b6a863838d513a",
-      "comments": "https://news.ycombinator.com/item?id=47780971"
-    },
-    {
       "title": "Cal.com is going closed source",
       "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
       "source": "Hacker News",
@@ -162,6 +171,15 @@
       "published": "2026-04-15T15:26:46Z",
       "id": "b04fbbae0d89fb9f865b5c115a407670",
       "comments": "https://news.ycombinator.com/item?id=47780456"
+    },
+    {
+      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T13:47:40Z",
+      "id": "d965cf6ac5d37a5dbbb6c43d46a5c6d5",
+      "comments": "https://news.ycombinator.com/item?id=47778920"
     },
     {
       "title": "God sleeps in the minerals",
@@ -200,15 +218,6 @@
       "comments": "https://news.ycombinator.com/item?id=47776035"
     },
     {
-      "title": "How can I keep from singing?",
-      "link": "https://blog.danieljanus.pl/singing/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T18:18:39Z",
-      "id": "25b8446b1232d0c70fe90f55d12c566d",
-      "comments": "https://news.ycombinator.com/item?id=47769245"
-    },
-    {
       "title": "Cybersecurity looks like proof of work now",
       "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
       "source": "Hacker News",
@@ -218,58 +227,49 @@
       "comments": "https://news.ycombinator.com/item?id=47769089"
     },
     {
-      "title": "Introduction to Spherical Harmonics for Graphics Programmers",
+      "title": "Too much discussion of the XOR swap trick",
+      "link": "https://heather.cafe/posts/too_much_xor_swap_trick/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T11:22:22Z",
+      "id": "daa9c31205a10e0d2fbd7b28fea362ae",
+      "comments": "https://news.ycombinator.com/item?id=47750486"
+    },
+    {
+      "title": "Introduction to spherical harmonics for graphics programmers",
       "link": "https://gpfault.net/posts/sph.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-13T09:05:45Z",
-      "id": "2b6513ba7a1d33a4145c1c0bc7984bba",
+      "id": "320daf56107457e1be45781a3cbe7f79",
       "comments": "https://news.ycombinator.com/item?id=47749548"
     },
     {
-      "title": "Costasiella kuroshimae",
-      "link": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
+      "title": "The paper computer",
+      "link": "https://jsomers.net/blog/the-paper-computer",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-12T15:26:24Z",
-      "id": "9e280b341f133feb1298a5f4ff02e9bc",
-      "comments": "https://news.ycombinator.com/item?id=47740840"
+      "published": "2026-04-13T04:57:48Z",
+      "id": "7aa58b86893a0089309fe7c0115dfc77",
+      "comments": "https://news.ycombinator.com/item?id=47747770"
     },
     {
-      "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
-      "link": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
+      "title": "Fast and Easy Levenshtein distance using a Trie",
+      "link": "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-12T10:27:08Z",
-      "id": "f9d19201b6faaab737c5497314e3109d",
-      "comments": "https://news.ycombinator.com/item?id=47738081"
+      "published": "2026-04-12T12:00:43Z",
+      "id": "0034cabee52bec9ca3d51833e619f1c8",
+      "comments": "https://news.ycombinator.com/item?id=47738673"
     },
     {
-      "title": "Monsters in the Archives by Caroline Bicks \u2013 The Writing Secrets of Stephen King",
-      "link": "https://www.theguardian.com/books/2026/mar/30/monsters-in-the-archives-by-caroline-bicks-review-the-writing-secrets-of-stephen-king",
+      "title": "Intel Xpress Resurrection: Reviving a Forgotten EISA Beast",
+      "link": "https://x86.fr/intel-xpress-resurrection-reviving-a-forgotten-eisa-beast/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-12T00:43:51Z",
-      "id": "c7ca5d70dc744d882c002d918318a627",
-      "comments": "https://news.ycombinator.com/item?id=47735216"
-    },
-    {
-      "title": "PBS Nova: Terror in Space (1998)",
-      "link": "https://www.pbs.org/wgbh/nova/mir/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T23:17:50Z",
-      "id": "e80f2866b21e79abcd0d6f6be5d213fa",
-      "comments": "https://news.ycombinator.com/item?id=47734815"
-    },
-    {
-      "title": "Forcing an inversion of control on the SaaS stack",
-      "link": "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-10T17:01:26Z",
-      "id": "97f01c79c4d5f57d621c9a9db014b766",
-      "comments": "https://news.ycombinator.com/item?id=47720926"
+      "published": "2026-04-12T09:32:11Z",
+      "id": "0a4a0c3d46e6f614df2fec8869c19e2e",
+      "comments": "https://news.ycombinator.com/item?id=47737663"
     }
   ]
 }
