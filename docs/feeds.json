@@ -1,23 +1,32 @@
 {
-  "last_updated": "2026-04-17T18:54:32.635055Z",
+  "last_updated": "2026-04-17T21:37:47.525586Z",
   "items": [
     {
-      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder",
+      "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
+      "link": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T21:00:08Z",
+      "id": "e56d047e64b46b79c22b7d963fc06bcd",
+      "comments": "https://news.ycombinator.com/item?id=47810507"
+    },
+    {
+      "title": "Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD",
+      "link": "https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T19:00:07Z",
+      "id": "817a2821138bdf9242bb40450087bc44",
+      "comments": "https://news.ycombinator.com/item?id=47809347"
+    },
+    {
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
       "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-17T18:17:01Z",
-      "id": "a9cea43670fdf982646f36b0a706d8c6",
+      "id": "ef629862ce282efa045c57803896a5bc",
       "comments": "https://news.ycombinator.com/item?id=47808913"
-    },
-    {
-      "title": "NeoGeo AES+: SNK announces reissue of retro console without emulation",
-      "link": "https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T18:05:12Z",
-      "id": "5bc6acf571a2483cebc767c404fd0599",
-      "comments": "https://news.ycombinator.com/item?id=47808770"
     },
     {
       "title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines",
@@ -29,24 +38,6 @@
       "comments": "https://news.ycombinator.com/item?id=47808268"
     },
     {
-      "title": "Random musings: 80s hardware, cyberdecks",
-      "link": "https://strangelyentangled.com/blog/musings-80s-hardware/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T17:10:17Z",
-      "id": "515875f8268032aa19048235a8928615",
-      "comments": "https://news.ycombinator.com/item?id=47808174"
-    },
-    {
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "link": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T17:01:13Z",
-      "id": "a0f4a01116e8a3173366c4cde43ab980",
-      "comments": "https://news.ycombinator.com/item?id=47808047"
-    },
-    {
       "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
       "link": "https://github.com/paniclock/paniclock/",
       "source": "Hacker News",
@@ -54,6 +45,15 @@
       "published": "2026-04-17T16:38:44Z",
       "id": "0678dacb7c7cd851ed3330f9b0728e15",
       "comments": "https://news.ycombinator.com/item?id=47807809"
+    },
+    {
+      "title": "I'm spending 3 months coding the old way",
+      "link": "https://miguelconner.substack.com/p/im-coding-by-hand",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T16:19:53Z",
+      "id": "d69319eb874e66223872a528be93142a",
+      "comments": "https://news.ycombinator.com/item?id=47807583"
     },
     {
       "title": "Detecting DOSBox from Within the Box",
@@ -146,15 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=47806304"
     },
     {
-      "title": "Scan your website to see how ready it is for AI agents",
-      "link": "https://isitagentready.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T13:55:25Z",
-      "id": "d9602ebb20da85330dbdf8f87653faa7",
-      "comments": "https://news.ycombinator.com/item?id=47805998"
-    },
-    {
       "title": "Isaac Asimov: The Last Question (1956)",
       "link": "https://hex.ooo/library/last_question.html",
       "source": "Hacker News",
@@ -182,15 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47803844"
     },
     {
-      "title": "FIM \u2013 Linux framebuffer image viewer",
-      "link": "https://www.nongnu.org/fbi-improved/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T07:20:46Z",
-      "id": "b459060bb5c5d4987f23e7be83b497f6",
-      "comments": "https://news.ycombinator.com/item?id=47803323"
-    },
-    {
       "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
       "link": "https://github.com/dacracot/Klondike3-Simulator",
       "source": "Hacker News",
@@ -207,6 +189,24 @@
       "published": "2026-04-16T17:36:29Z",
       "id": "0403a840c3a501e15f3dee18f4b31ca4",
       "comments": "https://news.ycombinator.com/item?id=47796818"
+    },
+    {
+      "title": "Introducing: ShaderPad",
+      "link": "https://rileyjshaw.com/blog/introducing-shaderpad/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T16:59:08Z",
+      "id": "011acafab9bccfe07b3b6593731e8f8a",
+      "comments": "https://news.ycombinator.com/item?id=47781889"
+    },
+    {
+      "title": "I built a 3D printing business and ran it for 8 months",
+      "link": "https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T13:59:07Z",
+      "id": "d63f166e126c390883770b1b3904d7e6",
+      "comments": "https://news.ycombinator.com/item?id=47779049"
     },
     {
       "title": "Designing the Transport Typeface",
@@ -227,13 +227,22 @@
       "comments": "https://news.ycombinator.com/item?id=47776663"
     },
     {
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "link": "https://cadquery.github.io/",
+      "title": "The GNU libc atanh is correctly rounded",
+      "link": "https://inria.hal.science/hal-05591661",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-14T23:20:39Z",
-      "id": "6fc1f4b85899ecac7f3c51f552bf6c3d",
-      "comments": "https://news.ycombinator.com/item?id=47772725"
+      "published": "2026-04-15T01:47:46Z",
+      "id": "4ff3e2da27466b5def4ae2ca67a63e63",
+      "comments": "https://news.ycombinator.com/item?id=47773722"
+    },
+    {
+      "title": "Why, After All These Years, MZI-Based Transistorlessness Might Finally Be Here",
+      "link": "https://write.as/mnggfj7asl07k",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T19:37:51Z",
+      "id": "2c401bcfc6c581832344b982c54819dc",
+      "comments": "https://news.ycombinator.com/item?id=47770405"
     },
     {
       "title": "Reflections on 30 years of HPC programming",
@@ -252,15 +261,6 @@
       "published": "2026-04-13T21:51:30Z",
       "id": "1cdc5ac48303f2043355b662dc83d103",
       "comments": "https://news.ycombinator.com/item?id=47758309"
-    },
-    {
-      "title": "A Python Interpreter Written in Python",
-      "link": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T17:25:50Z",
-      "id": "85b2582944b4c81032f740ea2a10345b",
-      "comments": "https://news.ycombinator.com/item?id=47755261"
     },
     {
       "title": "Average is all you need",
