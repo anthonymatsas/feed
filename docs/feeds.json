@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-17T05:24:06.450443Z",
+  "last_updated": "2026-04-17T07:26:33.987556Z",
   "items": [
+    {
+      "title": "FCC exempts Netgear from ban on foreign routers, doesn't explain why",
+      "link": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T04:13:52Z",
+      "id": "8aacc1c4b0d4de7ce62c3ff607830acf",
+      "comments": "https://news.ycombinator.com/item?id=47802394"
+    },
     {
       "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
       "link": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
@@ -9,6 +18,15 @@
       "published": "2026-04-17T03:59:22Z",
       "id": "0e9299758ff95ecdbe360c538f66e889",
       "comments": "https://news.ycombinator.com/item?id=47802330"
+    },
+    {
+      "title": "Human Accelerated Region 1",
+      "link": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T03:55:54Z",
+      "id": "035a94fbf9a0b61b08a4e948357e57aa",
+      "comments": "https://news.ycombinator.com/item?id=47802312"
     },
     {
       "title": "Discourse Is Not Going Closed Source",
@@ -38,12 +56,12 @@
       "comments": "https://news.ycombinator.com/item?id=47801991"
     },
     {
-      "title": "Show HN: Spice simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+      "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
       "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-17T00:37:47Z",
-      "id": "60cbd4292a5cca1de43fc0b0b353caa1",
+      "id": "9b9c1c99ba9fec5d01647128a8bf4fc9",
       "comments": "https://news.ycombinator.com/item?id=47801255"
     },
     {
@@ -90,15 +108,6 @@
       "published": "2026-04-16T20:49:35Z",
       "id": "2cab8469b46342139ad73608d68e553e",
       "comments": "https://news.ycombinator.com/item?id=47799322"
-    },
-    {
-      "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
-      "link": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T20:31:52Z",
-      "id": "5cbe15641ee0e56025565882ee07e3ec",
-      "comments": "https://news.ycombinator.com/item?id=47799120"
     },
     {
       "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
@@ -155,15 +164,6 @@
       "comments": "https://news.ycombinator.com/item?id=47796469"
     },
     {
-      "title": "Show HN: Marky \u2013 A lightweight Markdown viewer for agentic coding",
-      "link": "https://github.com/GRVYDEV/marky",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T16:08:05Z",
-      "id": "d4101db80ad7378e9634ea7b62d1cb79",
-      "comments": "https://news.ycombinator.com/item?id=47795468"
-    },
-    {
       "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
       "link": "https://www.zatanna.ai/kampala",
       "source": "Hacker News",
@@ -209,24 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=47792538"
     },
     {
-      "title": "Artifacts: Versioned storage that speaks Git",
-      "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T13:02:03Z",
-      "id": "24308e97e826c69be985856a1b6a0f0a",
-      "comments": "https://news.ycombinator.com/item?id=47792374"
-    },
-    {
-      "title": "AI cybersecurity is not proof of work",
-      "link": "https://antirez.com/news/163",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T10:48:00Z",
-      "id": "da1cefc40264c1215ab12bb73cd8ab25",
-      "comments": "https://news.ycombinator.com/item?id=47791236"
-    },
-    {
       "title": "Codex Hacked a Samsung TV",
       "link": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
       "source": "Hacker News",
@@ -245,6 +227,15 @@
       "comments": "https://news.ycombinator.com/item?id=47772725"
     },
     {
+      "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
+      "link": "https://chapel-lang.org/blog/posts/30years/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T23:45:58Z",
+      "id": "7baf5a733eb869ad33051eda0953c1ca",
+      "comments": "https://news.ycombinator.com/item?id=47759436"
+    },
+    {
       "title": "A Python Interpreter Written in Python",
       "link": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
       "source": "Hacker News",
@@ -261,6 +252,15 @@
       "published": "2026-04-13T11:39:12Z",
       "id": "85c06b6987de4491cd76cb455606d296",
       "comments": "https://news.ycombinator.com/item?id=47750600"
+    },
+    {
+      "title": "Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth",
+      "link": "https://ieeexplore.ieee.org/document/1715264",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T11:09:09Z",
+      "id": "09ac4807afa3620e767ede26ce1efcc8",
+      "comments": "https://news.ycombinator.com/item?id=47750364"
     },
     {
       "title": "A Git helper tool that breaks large merges into parallelizable tasks",
