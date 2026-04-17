@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-04-17T15:56:25.435894Z",
+  "last_updated": "2026-04-17T18:54:32.635055Z",
   "items": [
+    {
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder",
+      "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T18:17:01Z",
+      "id": "a9cea43670fdf982646f36b0a706d8c6",
+      "comments": "https://news.ycombinator.com/item?id=47808913"
+    },
+    {
+      "title": "NeoGeo AES+: SNK announces reissue of retro console without emulation",
+      "link": "https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T18:05:12Z",
+      "id": "5bc6acf571a2483cebc767c404fd0599",
+      "comments": "https://news.ycombinator.com/item?id=47808770"
+    },
+    {
+      "title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines",
+      "link": "https://github.com/smol-machines/smolvm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T17:18:58Z",
+      "id": "f521e56c503eee7895350b2e2699ef37",
+      "comments": "https://news.ycombinator.com/item?id=47808268"
+    },
+    {
+      "title": "Random musings: 80s hardware, cyberdecks",
+      "link": "https://strangelyentangled.com/blog/musings-80s-hardware/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T17:10:17Z",
+      "id": "515875f8268032aa19048235a8928615",
+      "comments": "https://news.ycombinator.com/item?id=47808174"
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "link": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T17:01:13Z",
+      "id": "a0f4a01116e8a3173366c4cde43ab980",
+      "comments": "https://news.ycombinator.com/item?id=47808047"
+    },
+    {
+      "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
+      "link": "https://github.com/paniclock/paniclock/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T16:38:44Z",
+      "id": "0678dacb7c7cd851ed3330f9b0728e15",
+      "comments": "https://news.ycombinator.com/item?id=47807809"
+    },
+    {
+      "title": "Detecting DOSBox from Within the Box",
+      "link": "https://datagirl.xyz/posts/dos_inside_the_box.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T16:13:26Z",
+      "id": "cdfab776f0632cb35bac1c36a5c8e14f",
+      "comments": "https://news.ycombinator.com/item?id=47807503"
+    },
+    {
+      "title": "NASA Force",
+      "link": "https://nasaforce.gov/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T15:47:41Z",
+      "id": "bf999c6311ad28466f06421d2dadc7a3",
+      "comments": "https://news.ycombinator.com/item?id=47807209"
+    },
+    {
+      "title": "Claude Opus 4.7 costs 20\u201330% more per session",
+      "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T15:29:36Z",
+      "id": "c7a404443875d93190f4e0f23c291689",
+      "comments": "https://news.ycombinator.com/item?id=47807006"
+    },
+    {
+      "title": "The Gregorio project \u2013 GPL tools for typesetting Gregorian chant",
+      "link": "https://gregorio-project.github.io/index.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T15:20:45Z",
+      "id": "fea5a8cd67c81ea98190e7575dba6b05",
+      "comments": "https://news.ycombinator.com/item?id=47806899"
+    },
     {
       "title": "NIST gives up enriching most CVEs",
       "link": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
@@ -38,30 +128,21 @@
       "comments": "https://news.ycombinator.com/item?id=47806440"
     },
     {
-      "title": "IETF draft-meow-mrrp-00",
-      "link": "https://www.ietf.org/archive/id/draft-meow-mrrp-00.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T14:32:22Z",
-      "id": "72c9f59f500f05389b3d67f2408db68e",
-      "comments": "https://news.ycombinator.com/item?id=47806379"
-    },
-    {
-      "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
+      "title": "Healthchecks.io now uses self-hosted object storage",
       "link": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-17T14:29:11Z",
-      "id": "88307fe4ac17c5a55f3416a9cc1b0ae4",
+      "id": "725d2fe74a2910157c8c03ff6b3b28cb",
       "comments": "https://news.ycombinator.com/item?id=47806348"
     },
     {
-      "title": "It Is Time to Ban the Sale of Precise Geolocation",
+      "title": "Ban the sale of precise geolocation",
       "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-17T14:25:46Z",
-      "id": "8fb89223e4cbeaea35820e60b9119605",
+      "id": "b39b19a189a69255edcb4b997cbd59c2",
       "comments": "https://news.ycombinator.com/item?id=47806304"
     },
     {
@@ -92,12 +173,12 @@
       "comments": "https://news.ycombinator.com/item?id=47803992"
     },
     {
-      "title": "Ada, Its Design, and the Language That Built the Languages",
+      "title": "Ada, its design, and the language that built the languages",
       "link": "https://www.iqiipi.com/the-quiet-colossus.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-17T08:51:38Z",
-      "id": "08675d11266727fb27346f93c9c859a5",
+      "id": "ae4bbc4654c79d97e612d405317fbfaf",
       "comments": "https://news.ycombinator.com/item?id=47803844"
     },
     {
@@ -110,76 +191,13 @@
       "comments": "https://news.ycombinator.com/item?id=47803323"
     },
     {
-      "title": "Human Accelerated Region 1",
-      "link": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+      "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
+      "link": "https://github.com/dacracot/Klondike3-Simulator",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-17T03:55:54Z",
-      "id": "035a94fbf9a0b61b08a4e948357e57aa",
-      "comments": "https://news.ycombinator.com/item?id=47802312"
-    },
-    {
-      "title": "Substrate AI Is Hiring Harness Engineers",
-      "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T02:53:16Z",
-      "id": "f3615195976796bbd80bc05624943a91",
-      "comments": "https://news.ycombinator.com/item?id=47802016"
-    },
-    {
-      "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
-      "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T00:37:47Z",
-      "id": "9b9c1c99ba9fec5d01647128a8bf4fc9",
-      "comments": "https://news.ycombinator.com/item?id=47801255"
-    },
-    {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "link": "https://github.com/gainsec/autoprober",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T21:56:37Z",
-      "id": "2aecc3087f89bc1df2b414cac7ba5c61",
-      "comments": "https://news.ycombinator.com/item?id=47800033"
-    },
-    {
-      "title": "A Better R Programming Experience Thanks to Tree-sitter",
-      "link": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T21:14:02Z",
-      "id": "5259bbacee27d146f36801b558418508",
-      "comments": "https://news.ycombinator.com/item?id=47799573"
-    },
-    {
-      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "link": "https://clojure.org/about/documentary",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T19:32:18Z",
-      "id": "e0a440fcb221669363d6debe6a942454",
-      "comments": "https://news.ycombinator.com/item?id=47798345"
-    },
-    {
-      "title": "Playdate\u2019s handheld changed how Duke University teaches game design",
-      "link": "https://news.play.date/news/duke-playdate-education/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T19:18:31Z",
-      "id": "753c09942325b6e49041210d7c988ce7",
-      "comments": "https://news.ycombinator.com/item?id=47798176"
-    },
-    {
-      "title": "Android CLI: Build Android apps 3x faster using any agent",
-      "link": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T18:39:59Z",
-      "id": "33e81d2d6fe69e9dc8b0c934aa8c4c10",
-      "comments": "https://news.ycombinator.com/item?id=47797665"
+      "published": "2026-04-17T01:38:01Z",
+      "id": "5e3e13a42e0289f74d8b9d1f66e2dd06",
+      "comments": "https://news.ycombinator.com/item?id=47801639"
     },
     {
       "title": "Show HN: Stage \u2013 Putting humans back in control of code review",
@@ -191,22 +209,22 @@
       "comments": "https://news.ycombinator.com/item?id=47796818"
     },
     {
-      "title": "Codex for almost everything",
-      "link": "https://openai.com/index/codex-for-almost-everything/",
+      "title": "Designing the Transport Typeface",
+      "link": "https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T17:12:19Z",
-      "id": "5c21638aa3bb333ac16d5eb6cfa7756d",
-      "comments": "https://news.ycombinator.com/item?id=47796469"
+      "published": "2026-04-15T13:13:20Z",
+      "id": "9a220ca11f7fd264d0af7cae3b274632",
+      "comments": "https://news.ycombinator.com/item?id=47778524"
     },
     {
-      "title": "Claude Opus 4.7",
-      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "title": "Connie Converse was a folk-music genius. Then she vanished",
+      "link": "https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T14:23:50Z",
-      "id": "829a630074b277726c5504e1d4d0eefb",
-      "comments": "https://news.ycombinator.com/item?id=47793411"
+      "published": "2026-04-15T09:24:06Z",
+      "id": "f408e86825e8acd6461ac51c173f2a21",
+      "comments": "https://news.ycombinator.com/item?id=47776663"
     },
     {
       "title": "CadQuery is an open-source Python library for building 3D CAD models",
@@ -218,13 +236,22 @@
       "comments": "https://news.ycombinator.com/item?id=47772725"
     },
     {
-      "title": "Reflections on 30 Years of HPC Programming",
+      "title": "Reflections on 30 years of HPC programming",
       "link": "https://chapel-lang.org/blog/posts/30years/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-13T23:45:58Z",
-      "id": "4a273a2a6b88a5cc8adfb5e92c489e10",
+      "id": "bd2921ed770aedf1c71052bae12bf140",
       "comments": "https://news.ycombinator.com/item?id=47759436"
+    },
+    {
+      "title": "Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech",
+      "link": "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-13T21:51:30Z",
+      "id": "1cdc5ac48303f2043355b662dc83d103",
+      "comments": "https://news.ycombinator.com/item?id=47758309"
     },
     {
       "title": "A Python Interpreter Written in Python",
@@ -236,40 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47755261"
     },
     {
-      "title": "The Utopia of the Family Computer",
-      "link": "https://mudmapmagazine.com/the-utopia-of-the-family-computer/",
+      "title": "Average is all you need",
+      "link": "https://rawquery.dev/blog/average-is-all-you-need",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T13:41:25Z",
-      "id": "14d7730242fbeeb359967c2528bfbc4c",
-      "comments": "https://news.ycombinator.com/item?id=47751830"
-    },
-    {
-      "title": "\u4e2d\u6587 Literacy Speedrun II: Character Cyclotron",
-      "link": "https://blog.kevinzwu.com/character-cyclotron/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T12:28:35Z",
-      "id": "d1a19b7af68d41ac6061c42ad0e65a03",
-      "comments": "https://news.ycombinator.com/item?id=47751011"
-    },
-    {
-      "title": "ReBot-DevArm: open-source Robotic Arm",
-      "link": "https://github.com/Seeed-Projects/reBot-DevArm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T11:39:12Z",
-      "id": "85c06b6987de4491cd76cb455606d296",
-      "comments": "https://news.ycombinator.com/item?id=47750600"
-    },
-    {
-      "title": "A Git helper tool that breaks large merges into parallelizable tasks",
-      "link": "https://github.com/mwallner/mergetopus",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T07:12:45Z",
-      "id": "b8f5027492fdc8b63f0f9033c772346f",
-      "comments": "https://news.ycombinator.com/item?id=47748733"
+      "published": "2026-04-13T16:36:42Z",
+      "id": "1590ac700445f3da519f6c6537c63181",
+      "comments": "https://news.ycombinator.com/item?id=47754603"
     }
   ]
 }
