@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-04-16T21:38:51.096609Z",
+  "last_updated": "2026-04-17T02:09:31.613731Z",
   "items": [
+    {
+      "title": "Show HN: Spice simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+      "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T00:37:47Z",
+      "id": "60cbd4292a5cca1de43fc0b0b353caa1",
+      "comments": "https://news.ycombinator.com/item?id=47801255"
+    },
+    {
+      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan",
+      "link": "https://www.bbc.com/news/articles/clyrd818gd2o",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T23:29:07Z",
+      "id": "7ba47544f4f528d936d05e558ae9c7ec",
+      "comments": "https://news.ycombinator.com/item?id=47800839"
+    },
+    {
+      "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
+      "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T23:17:47Z",
+      "id": "0f4544ace9b14e6daa501571bd2ac663",
+      "comments": "https://news.ycombinator.com/item?id=47800765"
+    },
+    {
+      "title": "Everything we like is a psyop",
+      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T23:15:33Z",
+      "id": "382f9034dca044276f2facc39e5baef6",
+      "comments": "https://news.ycombinator.com/item?id=47800738"
+    },
+    {
+      "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T22:08:53Z",
+      "id": "9e7ec4cf610500def3f9ba36adebcbb9",
+      "comments": "https://news.ycombinator.com/item?id=47800166"
+    },
+    {
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "link": "https://github.com/gainsec/autoprober",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T21:56:37Z",
+      "id": "2aecc3087f89bc1df2b414cac7ba5c61",
+      "comments": "https://news.ycombinator.com/item?id=47800033"
+    },
     {
       "title": "A Better R Programming Experience Thanks to Tree-sitter",
       "link": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
@@ -20,15 +74,6 @@
       "comments": "https://news.ycombinator.com/item?id=47799454"
     },
     {
-      "title": "The Beginning of Scarcity in AI",
-      "link": "https://tomtunguz.com/ai-compute-crisis-2026/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T20:49:35Z",
-      "id": "c50a8a5785c3f089d29d4e44f3d91407",
-      "comments": "https://news.ycombinator.com/item?id=47799322"
-    },
-    {
       "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
       "link": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
       "source": "Hacker News",
@@ -36,15 +81,6 @@
       "published": "2026-04-16T20:31:52Z",
       "id": "5cbe15641ee0e56025565882ee07e3ec",
       "comments": "https://news.ycombinator.com/item?id=47799120"
-    },
-    {
-      "title": "European civil servants are being forced off WhatsApp",
-      "link": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T19:40:14Z",
-      "id": "23e92c6b907eb131af82c3a273f04905",
-      "comments": "https://news.ycombinator.com/item?id=47798456"
     },
     {
       "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
@@ -63,6 +99,15 @@
       "published": "2026-04-16T19:24:50Z",
       "id": "ce704765a278076f277de2025779adc4",
       "comments": "https://news.ycombinator.com/item?id=47798244"
+    },
+    {
+      "title": "Playdate\u2019s handheld changed how Duke University teaches game design",
+      "link": "https://news.play.date/news/duke-playdate-education/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T19:18:31Z",
+      "id": "753c09942325b6e49041210d7c988ce7",
+      "comments": "https://news.ycombinator.com/item?id=47798176"
     },
     {
       "title": "Android CLI: Build Android apps 3x faster using any agent",
@@ -92,13 +137,13 @@
       "comments": "https://news.ycombinator.com/item?id=47796469"
     },
     {
-      "title": "Japan implements language proficiency requirements for certain visa applicants",
-      "link": "https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/",
+      "title": "Show HN: Marky \u2013 A lightweight Markdown viewer for agentic coding",
+      "link": "https://github.com/GRVYDEV/marky",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T16:53:32Z",
-      "id": "4fb015a84368d6e775407ea8ba5f2ca1",
-      "comments": "https://news.ycombinator.com/item?id=47796197"
+      "published": "2026-04-16T16:08:05Z",
+      "id": "d4101db80ad7378e9634ea7b62d1cb79",
+      "comments": "https://news.ycombinator.com/item?id=47795468"
     },
     {
       "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
@@ -137,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47792718"
     },
     {
-      "title": "Cloudflare Email Service",
-      "link": "https://blog.cloudflare.com/email-for-agents/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T13:21:53Z",
-      "id": "bbf6ddd7c14cef620f57b20826461daa",
-      "comments": "https://news.ycombinator.com/item?id=47792593"
-    },
-    {
       "title": "Cloudflare's AI Platform: an inference layer designed for agents",
       "link": "https://blog.cloudflare.com/ai-platform/",
       "source": "Hacker News",
@@ -173,15 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=47792374"
     },
     {
-      "title": "AI cybersecurity is not proof of work",
-      "link": "https://antirez.com/news/163",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T10:48:00Z",
-      "id": "da1cefc40264c1215ab12bb73cd8ab25",
-      "comments": "https://news.ycombinator.com/item?id=47791236"
-    },
-    {
       "title": "Codex Hacked a Samsung TV",
       "link": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
       "source": "Hacker News",
@@ -191,13 +218,22 @@
       "comments": "https://news.ycombinator.com/item?id=47791212"
     },
     {
-      "title": "IPv6 traffic crosses the 50% mark",
-      "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "link": "https://cadquery.github.io/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-15T11:59:49Z",
-      "id": "d33288a4ce77bade172f98b5fcccade4",
-      "comments": "https://news.ycombinator.com/item?id=47777894"
+      "published": "2026-04-14T23:20:39Z",
+      "id": "6fc1f4b85899ecac7f3c51f552bf6c3d",
+      "comments": "https://news.ycombinator.com/item?id=47772725"
+    },
+    {
+      "title": "\"Wretches, Speak Evil of Me\": Goethe and Schiller's Xenions (1896 Edition)",
+      "link": "https://publicdomainreview.org/collection/xenions/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T06:45:49Z",
+      "id": "9b53ee03020554c99adf244c3ff849b6",
+      "comments": "https://news.ycombinator.com/item?id=47762082"
     },
     {
       "title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task",
@@ -218,58 +254,22 @@
       "comments": "https://news.ycombinator.com/item?id=47754383"
     },
     {
-      "title": "Six Characters",
-      "link": "https://ajitem.com/blog/iron-core-part-2-six-characters/",
+      "title": "288,493 Requests \u2013 How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio",
+      "link": "https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T09:24:44Z",
-      "id": "96d67f49fa4a4befae06c4f9e23cc40c",
-      "comments": "https://news.ycombinator.com/item?id=47749659"
+      "published": "2026-04-13T13:22:52Z",
+      "id": "df1b3715f16d8979a8eab139399d4a4d",
+      "comments": "https://news.ycombinator.com/item?id=47751608"
     },
     {
-      "title": "Put your SSH keys in your TPM chip",
-      "link": "https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html",
+      "title": "IBM AP-101 general-purpose computer [pdf]",
+      "link": "https://gandalfddi.z19.web.core.windows.net/Shuttle/IBM%20AP-101S%20General%20Purpose%20Computer%20With%20Shuttle%20Instruction%20Set.pdf",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-12T11:38:46Z",
-      "id": "3d6accf32ac133de627ae59208457d67",
-      "comments": "https://news.ycombinator.com/item?id=47738520"
-    },
-    {
-      "title": "Modern Microprocessors \u2013 A 90-Minute Guide",
-      "link": "https://www.lighterra.com/papers/modernmicroprocessors/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T09:05:29Z",
-      "id": "876f8177c4701182ee29a9c449436d62",
-      "comments": "https://news.ycombinator.com/item?id=47737499"
-    },
-    {
-      "title": "How the Roll Function Works (In APL\\360 and Its Descendants)",
-      "link": "https://www.jsoftware.com/papers/roll.htm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T07:45:35Z",
-      "id": "91b02d07b28c882b002c10a5a562cd8c",
-      "comments": "https://news.ycombinator.com/item?id=47737041"
-    },
-    {
-      "title": "TigerBeetle: A Trillion Transactions [video]",
-      "link": "https://www.youtube.com/watch?v=y2_BqkKTbD8",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-12T05:14:52Z",
-      "id": "3f978bcd167517c86f150b006d5661d5",
-      "comments": "https://news.ycombinator.com/item?id=47736331"
-    },
-    {
-      "title": "PCI Express over Fiber [video]",
-      "link": "https://www.youtube.com/watch?v=XaDa9bBucEI",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-11T18:54:58Z",
-      "id": "cae328e49c444e12c2a2764bdd6fd1dc",
-      "comments": "https://news.ycombinator.com/item?id=47733059"
+      "published": "2026-04-13T03:56:41Z",
+      "id": "84900acd39fff04d0cbd666586aaa132",
+      "comments": "https://news.ycombinator.com/item?id=47747407"
     }
   ]
 }
