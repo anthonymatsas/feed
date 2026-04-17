@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-17T02:09:31.613731Z",
+  "last_updated": "2026-04-17T05:24:06.450443Z",
   "items": [
+    {
+      "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
+      "link": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T03:59:22Z",
+      "id": "0e9299758ff95ecdbe360c538f66e889",
+      "comments": "https://news.ycombinator.com/item?id=47802330"
+    },
+    {
+      "title": "Discourse Is Not Going Closed Source",
+      "link": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T03:36:26Z",
+      "id": "c6265056c906771ef203a4d005e4e395",
+      "comments": "https://news.ycombinator.com/item?id=47802233"
+    },
+    {
+      "title": "Substrate AI Is Hiring Harness Engineers",
+      "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T02:53:16Z",
+      "id": "f3615195976796bbd80bc05624943a91",
+      "comments": "https://news.ycombinator.com/item?id=47802016"
+    },
+    {
+      "title": "US Bill Mandates On-Device Age Verification",
+      "link": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T02:50:02Z",
+      "id": "fec2e5636259bcb1d9e056c1648368a0",
+      "comments": "https://news.ycombinator.com/item?id=47801991"
+    },
     {
       "title": "Show HN: Spice simulation \u2192 oscilloscope \u2192 verification with Claude Code",
       "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
@@ -11,30 +47,12 @@
       "comments": "https://news.ycombinator.com/item?id=47801255"
     },
     {
-      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan",
-      "link": "https://www.bbc.com/news/articles/clyrd818gd2o",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T23:29:07Z",
-      "id": "7ba47544f4f528d936d05e558ae9c7ec",
-      "comments": "https://news.ycombinator.com/item?id=47800839"
-    },
-    {
-      "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
-      "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T23:17:47Z",
-      "id": "0f4544ace9b14e6daa501571bd2ac663",
-      "comments": "https://news.ycombinator.com/item?id=47800765"
-    },
-    {
-      "title": "Everything we like is a psyop",
+      "title": "Everything we like is a psyop?",
       "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-16T23:15:33Z",
-      "id": "382f9034dca044276f2facc39e5baef6",
+      "id": "475501ea921db23e248f973ac5057574",
       "comments": "https://news.ycombinator.com/item?id=47800738"
     },
     {
@@ -65,13 +83,13 @@
       "comments": "https://news.ycombinator.com/item?id=47799573"
     },
     {
-      "title": "Join Akkari's Founding Team (YC P26) as an Engineer",
-      "link": "https://news.ycombinator.com/item?id=47799454",
+      "title": "The beginning of scarcity in AI",
+      "link": "https://tomtunguz.com/ai-compute-crisis-2026/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T21:00:33Z",
-      "id": "e4510db7d5b1fe75f27cb485352dd30f",
-      "comments": "https://news.ycombinator.com/item?id=47799454"
+      "published": "2026-04-16T20:49:35Z",
+      "id": "2cab8469b46342139ad73608d68e553e",
+      "comments": "https://news.ycombinator.com/item?id=47799322"
     },
     {
       "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
@@ -191,15 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=47792538"
     },
     {
-      "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
-      "link": "https://github.com/SeanFDZ/macmind",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T13:16:29Z",
-      "id": "b1f4bbaa85d98acd3754b6d77d99fe4e",
-      "comments": "https://news.ycombinator.com/item?id=47792525"
-    },
-    {
       "title": "Artifacts: Versioned storage that speaks Git",
       "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
       "source": "Hacker News",
@@ -207,6 +216,15 @@
       "published": "2026-04-16T13:02:03Z",
       "id": "24308e97e826c69be985856a1b6a0f0a",
       "comments": "https://news.ycombinator.com/item?id=47792374"
+    },
+    {
+      "title": "AI cybersecurity is not proof of work",
+      "link": "https://antirez.com/news/163",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T10:48:00Z",
+      "id": "da1cefc40264c1215ab12bb73cd8ab25",
+      "comments": "https://news.ycombinator.com/item?id=47791236"
     },
     {
       "title": "Codex Hacked a Samsung TV",
@@ -227,49 +245,31 @@
       "comments": "https://news.ycombinator.com/item?id=47772725"
     },
     {
-      "title": "\"Wretches, Speak Evil of Me\": Goethe and Schiller's Xenions (1896 Edition)",
-      "link": "https://publicdomainreview.org/collection/xenions/",
+      "title": "A Python Interpreter Written in Python",
+      "link": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-14T06:45:49Z",
-      "id": "9b53ee03020554c99adf244c3ff849b6",
-      "comments": "https://news.ycombinator.com/item?id=47762082"
+      "published": "2026-04-13T17:25:50Z",
+      "id": "85b2582944b4c81032f740ea2a10345b",
+      "comments": "https://news.ycombinator.com/item?id=47755261"
     },
     {
-      "title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task",
-      "link": "https://github.com/AgentSeal/codeburn",
+      "title": "ReBot-DevArm: open-source Robotic Arm",
+      "link": "https://github.com/Seeed-Projects/reBot-DevArm",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T22:57:05Z",
-      "id": "fe09e538bfa52835db6380dd23495809",
-      "comments": "https://news.ycombinator.com/item?id=47759035"
+      "published": "2026-04-13T11:39:12Z",
+      "id": "85c06b6987de4491cd76cb455606d296",
+      "comments": "https://news.ycombinator.com/item?id=47750600"
     },
     {
-      "title": "Circuit Transformations, Loop Fusion, and Inductive Proof",
-      "link": "https://natetyoung.github.io/carry_save_fusion/",
+      "title": "A Git helper tool that breaks large merges into parallelizable tasks",
+      "link": "https://github.com/mwallner/mergetopus",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T16:23:23Z",
-      "id": "23be2d29107121f8e5ad0181f9b2d5a2",
-      "comments": "https://news.ycombinator.com/item?id=47754383"
-    },
-    {
-      "title": "288,493 Requests \u2013 How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio",
-      "link": "https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T13:22:52Z",
-      "id": "df1b3715f16d8979a8eab139399d4a4d",
-      "comments": "https://news.ycombinator.com/item?id=47751608"
-    },
-    {
-      "title": "IBM AP-101 general-purpose computer [pdf]",
-      "link": "https://gandalfddi.z19.web.core.windows.net/Shuttle/IBM%20AP-101S%20General%20Purpose%20Computer%20With%20Shuttle%20Instruction%20Set.pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T03:56:41Z",
-      "id": "84900acd39fff04d0cbd666586aaa132",
-      "comments": "https://news.ycombinator.com/item?id=47747407"
+      "published": "2026-04-13T07:12:45Z",
+      "id": "b8f5027492fdc8b63f0f9033c772346f",
+      "comments": "https://news.ycombinator.com/item?id=47748733"
     }
   ]
 }
