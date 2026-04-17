@@ -1,23 +1,95 @@
 {
-  "last_updated": "2026-04-17T13:10:07.848052Z",
+  "last_updated": "2026-04-17T15:56:25.435894Z",
   "items": [
     {
-      "title": "Isaac Asimov: The Last Question",
+      "title": "NIST gives up enriching most CVEs",
+      "link": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T15:09:14Z",
+      "id": "7b4783e3fce90b8493c5cef4479be760",
+      "comments": "https://news.ycombinator.com/item?id=47806777"
+    },
+    {
+      "title": "Claude Design",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T15:04:09Z",
+      "id": "dd5c70eb087ffeb856154a4e4006a227",
+      "comments": "https://news.ycombinator.com/item?id=47806725"
+    },
+    {
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "link": "https://www.thehistoryblog.com/archives/75848",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T14:41:49Z",
+      "id": "37f24c42d00f3315d0460c623a628bc2",
+      "comments": "https://news.ycombinator.com/item?id=47806484"
+    },
+    {
+      "title": "Iceye Open Data",
+      "link": "https://www.iceye.com/open-data-initiative",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T14:37:16Z",
+      "id": "79b8a2a40dd3a455bc3faee62492ccea",
+      "comments": "https://news.ycombinator.com/item?id=47806440"
+    },
+    {
+      "title": "IETF draft-meow-mrrp-00",
+      "link": "https://www.ietf.org/archive/id/draft-meow-mrrp-00.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T14:32:22Z",
+      "id": "72c9f59f500f05389b3d67f2408db68e",
+      "comments": "https://news.ycombinator.com/item?id=47806379"
+    },
+    {
+      "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
+      "link": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T14:29:11Z",
+      "id": "88307fe4ac17c5a55f3416a9cc1b0ae4",
+      "comments": "https://news.ycombinator.com/item?id=47806348"
+    },
+    {
+      "title": "It Is Time to Ban the Sale of Precise Geolocation",
+      "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T14:25:46Z",
+      "id": "8fb89223e4cbeaea35820e60b9119605",
+      "comments": "https://news.ycombinator.com/item?id=47806304"
+    },
+    {
+      "title": "Scan your website to see how ready it is for AI agents",
+      "link": "https://isitagentready.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T13:55:25Z",
+      "id": "d9602ebb20da85330dbdf8f87653faa7",
+      "comments": "https://news.ycombinator.com/item?id=47805998"
+    },
+    {
+      "title": "Isaac Asimov: The Last Question (1956)",
       "link": "https://hex.ooo/library/last_question.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-17T12:01:19Z",
-      "id": "cfc5533ee6607e01fd5c9803a5f58b94",
+      "id": "035a8f2f67665fc4c73e533ec20cb0e2",
       "comments": "https://news.ycombinator.com/item?id=47804965"
     },
     {
-      "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
-      "link": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
+      "title": "Teddy Roosevelt and Abraham Lincoln in the same photo (2010)",
+      "link": "https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-17T11:22:05Z",
-      "id": "150d7b85fdde3a32d11d5daaf57e3f44",
-      "comments": "https://news.ycombinator.com/item?id=47804708"
+      "published": "2026-04-17T09:18:16Z",
+      "id": "7f9ae2cadf6981dc8fd9797edfa6ebfe",
+      "comments": "https://news.ycombinator.com/item?id=47803992"
     },
     {
       "title": "Ada, Its Design, and the Language That Built the Languages",
@@ -29,15 +101,6 @@
       "comments": "https://news.ycombinator.com/item?id=47803844"
     },
     {
-      "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
-      "link": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T08:32:54Z",
-      "id": "53070c70945e22fbe299538daf2a4b0b",
-      "comments": "https://news.ycombinator.com/item?id=47803745"
-    },
-    {
       "title": "FIM \u2013 Linux framebuffer image viewer",
       "link": "https://www.nongnu.org/fbi-improved/",
       "source": "Hacker News",
@@ -45,15 +108,6 @@
       "published": "2026-04-17T07:20:46Z",
       "id": "b459060bb5c5d4987f23e7be83b497f6",
       "comments": "https://news.ycombinator.com/item?id=47803323"
-    },
-    {
-      "title": "PROBoter \u2013 Open-source platform for automated PCB analysis",
-      "link": "https://www.schutzwerk.com/en/blog/proboter-01/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T06:19:45Z",
-      "id": "99e4f85d391afa1011c8134e7fbe430d",
-      "comments": "https://news.ycombinator.com/item?id=47802971"
     },
     {
       "title": "Human Accelerated Region 1",
@@ -72,15 +126,6 @@
       "published": "2026-04-17T02:53:16Z",
       "id": "f3615195976796bbd80bc05624943a91",
       "comments": "https://news.ycombinator.com/item?id=47802016"
-    },
-    {
-      "title": "US Bill Mandates On-Device Age Verification",
-      "link": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T02:50:02Z",
-      "id": "fec2e5636259bcb1d9e056c1648368a0",
-      "comments": "https://news.ycombinator.com/item?id=47801991"
     },
     {
       "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
@@ -110,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47799573"
     },
     {
-      "title": "The beginning of scarcity in AI",
-      "link": "https://tomtunguz.com/ai-compute-crisis-2026/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T20:49:35Z",
-      "id": "2cab8469b46342139ad73608d68e553e",
-      "comments": "https://news.ycombinator.com/item?id=47799322"
-    },
-    {
       "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
       "link": "https://clojure.org/about/documentary",
       "source": "Hacker News",
@@ -146,6 +182,15 @@
       "comments": "https://news.ycombinator.com/item?id=47797665"
     },
     {
+      "title": "Show HN: Stage \u2013 Putting humans back in control of code review",
+      "link": "https://stagereview.app/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T17:36:29Z",
+      "id": "0403a840c3a501e15f3dee18f4b31ca4",
+      "comments": "https://news.ycombinator.com/item?id=47796818"
+    },
+    {
       "title": "Codex for almost everything",
       "link": "https://openai.com/index/codex-for-almost-everything/",
       "source": "Hacker News",
@@ -164,33 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=47793411"
     },
     {
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T13:36:27Z",
-      "id": "5f1e265827ff5696505c5b29d058d92d",
-      "comments": "https://news.ycombinator.com/item?id=47792764"
-    },
-    {
-      "title": "The future of everything is lies, I guess: Where do we go from here?",
-      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T13:32:13Z",
-      "id": "752eb4727516271aaf2231d214fc2a6c",
-      "comments": "https://news.ycombinator.com/item?id=47792718"
-    },
-    {
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "link": "https://blog.cloudflare.com/ai-platform/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T13:17:37Z",
-      "id": "d663f6b79fb1c6f520577e8056fec776",
-      "comments": "https://news.ycombinator.com/item?id=47792538"
-    },
-    {
       "title": "CadQuery is an open-source Python library for building 3D CAD models",
       "link": "https://cadquery.github.io/",
       "source": "Hacker News",
@@ -200,12 +218,12 @@
       "comments": "https://news.ycombinator.com/item?id=47772725"
     },
     {
-      "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
+      "title": "Reflections on 30 Years of HPC Programming",
       "link": "https://chapel-lang.org/blog/posts/30years/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-13T23:45:58Z",
-      "id": "7baf5a733eb869ad33051eda0953c1ca",
+      "id": "4a273a2a6b88a5cc8adfb5e92c489e10",
       "comments": "https://news.ycombinator.com/item?id=47759436"
     },
     {
@@ -218,13 +236,13 @@
       "comments": "https://news.ycombinator.com/item?id=47755261"
     },
     {
-      "title": "Average Is All You Need",
-      "link": "https://rawquery.dev/blog/average-is-all-you-need",
+      "title": "The Utopia of the Family Computer",
+      "link": "https://mudmapmagazine.com/the-utopia-of-the-family-computer/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T16:36:42Z",
-      "id": "d729d09249030cecf428b5d31855af2e",
-      "comments": "https://news.ycombinator.com/item?id=47754603"
+      "published": "2026-04-13T13:41:25Z",
+      "id": "14d7730242fbeeb359967c2528bfbc4c",
+      "comments": "https://news.ycombinator.com/item?id=47751830"
     },
     {
       "title": "\u4e2d\u6587 Literacy Speedrun II: Character Cyclotron",
@@ -245,15 +263,6 @@
       "comments": "https://news.ycombinator.com/item?id=47750600"
     },
     {
-      "title": "Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth (2006)",
-      "link": "https://ieeexplore.ieee.org/document/1715264",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T11:09:09Z",
-      "id": "8ac58f239e56943865e7f96a62a7ebe7",
-      "comments": "https://news.ycombinator.com/item?id=47750364"
-    },
-    {
       "title": "A Git helper tool that breaks large merges into parallelizable tasks",
       "link": "https://github.com/mwallner/mergetopus",
       "source": "Hacker News",
@@ -261,15 +270,6 @@
       "published": "2026-04-13T07:12:45Z",
       "id": "b8f5027492fdc8b63f0f9033c772346f",
       "comments": "https://news.ycombinator.com/item?id=47748733"
-    },
-    {
-      "title": "Taking a Look at Compression Algorithms \u2013 Moncef Abboud",
-      "link": "https://cefboud.com/posts/compression/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-13T05:32:33Z",
-      "id": "15bca5c82cac4c632735bdc1b7e684ae",
-      "comments": "https://news.ycombinator.com/item?id=47747986"
     }
   ]
 }
