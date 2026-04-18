@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T05:03:04.754368Z",
+  "last_updated": "2026-04-18T07:01:45.277064Z",
   "items": [
     {
       "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
@@ -92,6 +92,15 @@
       "comments": "https://news.ycombinator.com/item?id=47807619"
     },
     {
+      "title": "Spending 3 months coding by hand",
+      "link": "https://miguelconner.substack.com/p/im-coding-by-hand",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T16:19:53Z",
+      "id": "b2653f5dab6b066221afc9e79d7494de",
+      "comments": "https://news.ycombinator.com/item?id=47807583"
+    },
+    {
       "title": "NASA Force",
       "link": "https://nasaforce.gov/",
       "source": "Hacker News",
@@ -146,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47806484"
     },
     {
-      "title": "Healthchecks.io now uses self-hosted object storage",
-      "link": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T14:29:11Z",
-      "id": "725d2fe74a2910157c8c03ff6b3b28cb",
-      "comments": "https://news.ycombinator.com/item?id=47806348"
-    },
-    {
       "title": "Ban the sale of precise geolocation",
       "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
       "source": "Hacker News",
@@ -191,15 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47794311"
     },
     {
-      "title": "Ben Lerner's Big Feelings",
-      "link": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T05:43:09Z",
-      "id": "88b74cdefaf7bb1e517418f3dcadef3e",
-      "comments": "https://news.ycombinator.com/item?id=47789087"
-    },
-    {
       "title": "Generating a color spectrum for an image",
       "link": "https://amandahinton.com/blog/generating-a-color-spectrum-for-an-image",
       "source": "Hacker News",
@@ -216,6 +207,15 @@
       "published": "2026-04-15T16:59:08Z",
       "id": "011acafab9bccfe07b3b6593731e8f8a",
       "comments": "https://news.ycombinator.com/item?id=47781889"
+    },
+    {
+      "title": "Making Wax Sealed Letters at Scale",
+      "link": "https://waxletter.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T14:14:31Z",
+      "id": "15ea404c1bce55688dea110a9d2c124c",
+      "comments": "https://news.ycombinator.com/item?id=47779274"
     },
     {
       "title": "I built a 3D printing business and ran it for 8 months",
@@ -245,15 +245,6 @@
       "comments": "https://news.ycombinator.com/item?id=47778922"
     },
     {
-      "title": "Connie Converse was a folk-music genius. Then she vanished",
-      "link": "https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T09:24:06Z",
-      "id": "f408e86825e8acd6461ac51c173f2a21",
-      "comments": "https://news.ycombinator.com/item?id=47776663"
-    },
-    {
       "title": "The GNU libc atanh is correctly rounded",
       "link": "https://inria.hal.science/hal-05591661",
       "source": "Hacker News",
@@ -261,6 +252,15 @@
       "published": "2026-04-15T01:47:46Z",
       "id": "4ff3e2da27466b5def4ae2ca67a63e63",
       "comments": "https://news.ycombinator.com/item?id=47773722"
+    },
+    {
+      "title": "Rewriting Every Syscall in a Linux Binary at Load Time",
+      "link": "https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T01:26:06Z",
+      "id": "261495ef20b2ec2f06ab4f545d697be5",
+      "comments": "https://news.ycombinator.com/item?id=47760135"
     },
     {
       "title": "Brunost: The Nynorsk Programming Language",
