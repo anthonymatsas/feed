@@ -1,14 +1,41 @@
 {
-  "last_updated": "2026-04-18T09:42:49.591652Z",
+  "last_updated": "2026-04-18T12:54:27.605044Z",
   "items": [
     {
-      "title": "America Lost the Mandate of Heaven",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html",
+      "title": "Flock Condemns False Child Predator Allegations, Yet Calls Critics Terrorists",
+      "link": "https://ipvm.com/reports/flock-allegations-critics",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-18T07:56:18Z",
-      "id": "64227cb88fc6042ff7aa1b97f421030d",
-      "comments": "https://news.ycombinator.com/item?id=47814073"
+      "published": "2026-04-18T12:08:31Z",
+      "id": "8374b3cb62dfd6137572d0ec1c2b94f7",
+      "comments": "https://news.ycombinator.com/item?id=47815269"
+    },
+    {
+      "title": "The quiet disappearance of the free-range childhood",
+      "link": "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T11:43:57Z",
+      "id": "568b53ffc6245b53fb8f45490c9d428a",
+      "comments": "https://news.ycombinator.com/item?id=47815127"
+    },
+    {
+      "title": "State of Kdenlive",
+      "link": "https://kdenlive.org/news/2026/state-2026/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T11:42:37Z",
+      "id": "2c6ae39d8444787224751f8ea911298d",
+      "comments": "https://news.ycombinator.com/item?id=47815118"
+    },
+    {
+      "title": "Claude Code Opus 4.7 keeps checking on malware",
+      "link": "https://news.ycombinator.com/item?id=47814832",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T10:46:17Z",
+      "id": "7716e86e2fd2f03985b047971f176527",
+      "comments": "https://news.ycombinator.com/item?id=47814832"
     },
     {
       "title": "Category Theory Illustrated \u2013 Orders",
@@ -29,15 +56,6 @@
       "comments": "https://news.ycombinator.com/item?id=47813566"
     },
     {
-      "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
-      "link": "https://runxiyu.org/comp/doubleslash/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T05:47:10Z",
-      "id": "273dcb68503be637de773b31efc18a74",
-      "comments": "https://news.ycombinator.com/item?id=47813454"
-    },
-    {
       "title": "Show HN: Sfsym \u2013 Export Apple SF Symbols as Vector SVG/PDF/PNG",
       "link": "https://github.com/yapstudios/sfsym",
       "source": "Hacker News",
@@ -54,15 +72,6 @@
       "published": "2026-04-18T01:15:43Z",
       "id": "69b88f6629b01678ed350412fe24cf52",
       "comments": "https://news.ycombinator.com/item?id=47812341"
-    },
-    {
-      "title": "Casus Belli Engineering",
-      "link": "https://marcosmagueta.com/blog/casus-belli-engineering/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T01:14:02Z",
-      "id": "d20a91d021255a986c700e995f8485dc",
-      "comments": "https://news.ycombinator.com/item?id=47812331"
     },
     {
       "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
@@ -191,15 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=47806484"
     },
     {
-      "title": "The Unix executable as a Smalltalk method (2025) [video]",
-      "link": "https://www.youtube.com/watch?v=sZjPQ7vtLNA",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T15:09:07Z",
-      "id": "2bc68d657119cf08c7bf881439704016",
-      "comments": "https://news.ycombinator.com/item?id=47794311"
-    },
-    {
       "title": "The simple geometry behind any road",
       "link": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
       "source": "Hacker News",
@@ -216,15 +216,6 @@
       "published": "2026-04-15T18:07:46Z",
       "id": "01ad629aa37f8f00e2348e4e1d7e8ef2",
       "comments": "https://news.ycombinator.com/item?id=47782925"
-    },
-    {
-      "title": "Introducing: ShaderPad",
-      "link": "https://rileyjshaw.com/blog/introducing-shaderpad/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T16:59:08Z",
-      "id": "011acafab9bccfe07b3b6593731e8f8a",
-      "comments": "https://news.ycombinator.com/item?id=47781889"
     },
     {
       "title": "Towards trust in Emacs",
@@ -245,13 +236,22 @@
       "comments": "https://news.ycombinator.com/item?id=47778922"
     },
     {
-      "title": "The GNU libc atanh is correctly rounded",
-      "link": "https://inria.hal.science/hal-05591661",
+      "title": "It's OK to compare floating-points for equality",
+      "link": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-15T01:47:46Z",
-      "id": "4ff3e2da27466b5def4ae2ca67a63e63",
-      "comments": "https://news.ycombinator.com/item?id=47773722"
+      "published": "2026-04-14T16:00:49Z",
+      "id": "caa5b95ec302c3490371d9d7925bec31",
+      "comments": "https://news.ycombinator.com/item?id=47767398"
+    },
+    {
+      "title": "A Dumb Introduction to Z3",
+      "link": "https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-14T02:45:27Z",
+      "id": "ef2fd04660d276af8ce509fa18646678",
+      "comments": "https://news.ycombinator.com/item?id=47760648"
     },
     {
       "title": "Rewriting Every Syscall in a Linux Binary at Load Time",
