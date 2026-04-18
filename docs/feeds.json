@@ -1,14 +1,23 @@
 {
-  "last_updated": "2026-04-18T02:00:33.391415Z",
+  "last_updated": "2026-04-18T05:03:04.754368Z",
   "items": [
     {
-      "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
-      "link": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "link": "https://victorpoughon.github.io/interval-calculator/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-17T22:53:18Z",
-      "id": "12a2075095da43bd90a763d9e3644dab",
-      "comments": "https://news.ycombinator.com/item?id=47811442"
+      "published": "2026-04-18T01:15:43Z",
+      "id": "69b88f6629b01678ed350412fe24cf52",
+      "comments": "https://news.ycombinator.com/item?id=47812341"
+    },
+    {
+      "title": "Casus Belli Engineering",
+      "link": "https://marcosmagueta.com/blog/casus-belli-engineering/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T01:14:02Z",
+      "id": "d20a91d021255a986c700e995f8485dc",
+      "comments": "https://news.ycombinator.com/item?id=47812331"
     },
     {
       "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
@@ -38,12 +47,12 @@
       "comments": "https://news.ycombinator.com/item?id=47810507"
     },
     {
-      "title": "Even \"cat readme.txt\" is not safe",
+      "title": "\"cat readme.txt\" is not safe if you use iTerm2",
       "link": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-17T18:43:32Z",
-      "id": "062ff4b7a734100c7aacd028b8a6e3c0",
+      "id": "f37fe9f77d4cf2b185d7e3de8aaa3fe0",
       "comments": "https://news.ycombinator.com/item?id=47809190"
     },
     {
@@ -81,15 +90,6 @@
       "published": "2026-04-17T16:23:22Z",
       "id": "9555094ff97bc7ac56cdb77b682856df",
       "comments": "https://news.ycombinator.com/item?id=47807619"
-    },
-    {
-      "title": "Spending 3 months coding by hand",
-      "link": "https://miguelconner.substack.com/p/im-coding-by-hand",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T16:19:53Z",
-      "id": "b2653f5dab6b066221afc9e79d7494de",
-      "comments": "https://news.ycombinator.com/item?id=47807583"
     },
     {
       "title": "NASA Force",
@@ -146,15 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=47806484"
     },
     {
-      "title": "Iceye Open Data",
-      "link": "https://www.iceye.com/open-data-initiative",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T14:37:16Z",
-      "id": "79b8a2a40dd3a455bc3faee62492ccea",
-      "comments": "https://news.ycombinator.com/item?id=47806440"
-    },
-    {
       "title": "Healthchecks.io now uses self-hosted object storage",
       "link": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
       "source": "Hacker News",
@@ -191,22 +182,22 @@
       "comments": "https://news.ycombinator.com/item?id=47796818"
     },
     {
-      "title": "Nintendo's Empire of Secrets with Keza MacDonald \u2013 Factually with Adam Conover",
-      "link": "https://art19.com/shows/factually--with-adam-conover/episodes/5154e9af-8885-4149-9721-173c02c46bb7/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T16:40:49Z",
-      "id": "e6700d0265f4a517150d7abdb92ceff7",
-      "comments": "https://news.ycombinator.com/item?id=47796016"
-    },
-    {
-      "title": "The Unix Executable as a Smalltalk Method [video]",
+      "title": "The Unix executable as a Smalltalk method (2025) [video]",
       "link": "https://www.youtube.com/watch?v=sZjPQ7vtLNA",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-16T15:09:07Z",
-      "id": "1ef49a1096484eb75e1b282a5fb550c3",
+      "id": "2bc68d657119cf08c7bf881439704016",
       "comments": "https://news.ycombinator.com/item?id=47794311"
+    },
+    {
+      "title": "Ben Lerner's Big Feelings",
+      "link": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T05:43:09Z",
+      "id": "88b74cdefaf7bb1e517418f3dcadef3e",
+      "comments": "https://news.ycombinator.com/item?id=47789087"
     },
     {
       "title": "Generating a color spectrum for an image",
@@ -236,6 +227,15 @@
       "comments": "https://news.ycombinator.com/item?id=47779049"
     },
     {
+      "title": "Towards trust in Emacs",
+      "link": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T13:49:15Z",
+      "id": "ca78cb889eb1a59ec4e70342b168b92f",
+      "comments": "https://news.ycombinator.com/item?id=47778938"
+    },
+    {
       "title": "Are the costs of AI agents also rising exponentially? (2025)",
       "link": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
       "source": "Hacker News",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47773722"
     },
     {
-      "title": "Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech",
-      "link": "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/",
+      "title": "Brunost: The Nynorsk Programming Language",
+      "link": "https://lindbakk.com/blog/introducing-brunost",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T21:51:30Z",
-      "id": "1cdc5ac48303f2043355b662dc83d103",
-      "comments": "https://news.ycombinator.com/item?id=47758309"
+      "published": "2026-04-13T18:49:55Z",
+      "id": "05a22f0d4976903dc847cac05d2887c2",
+      "comments": "https://news.ycombinator.com/item?id=47756320"
     }
   ]
 }
