@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-19T07:13:31.273336Z",
+  "last_updated": "2026-04-19T09:42:46.974641Z",
   "items": [
+    {
+      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T08:45:48Z",
+      "id": "fa7a83da708401340f00bbf650b44063",
+      "comments": "https://news.ycombinator.com/item?id=47822805"
+    },
+    {
+      "title": "The RAM shortage could last years",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T07:18:44Z",
+      "id": "e188fc5e052431290aa530452bfb3fc3",
+      "comments": "https://news.ycombinator.com/item?id=47822414"
+    },
+    {
+      "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+      "link": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T07:05:17Z",
+      "id": "c2c7d347f83a28b33ab6b7128f0f1ab4",
+      "comments": "https://news.ycombinator.com/item?id=47822356"
+    },
+    {
+      "title": "The world in which IPv6 was a good design",
+      "link": "https://apenwarr.ca/log/20170810",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T02:50:43Z",
+      "id": "d35ed3170fdf2f70c4545866ab14e14e",
+      "comments": "https://news.ycombinator.com/item?id=47821429"
+    },
     {
       "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
       "link": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
@@ -92,15 +128,6 @@
       "comments": "https://news.ycombinator.com/item?id=47816629"
     },
     {
-      "title": "Fuzix OS",
-      "link": "https://www.fuzix.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T15:24:18Z",
-      "id": "74c8453dbdec9e9d5239ae74c2b1dc44",
-      "comments": "https://news.ycombinator.com/item?id=47816625"
-    },
-    {
       "title": "Migrating from DigitalOcean to Hetzner",
       "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
       "source": "Hacker News",
@@ -128,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47815118"
     },
     {
-      "title": "I dug into the Postgres sources to write my own WAL receiver",
-      "link": "https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T03:47:57Z",
-      "id": "da1abf84be7c6f1e6acf214e9645ad46",
-      "comments": "https://news.ycombinator.com/item?id=47812973"
-    },
-    {
       "title": "What are skiplists good for?",
       "link": "https://antithesis.com/blog/2026/skiptrees/",
       "source": "Hacker News",
@@ -146,13 +164,13 @@
       "comments": "https://news.ycombinator.com/item?id=47806021"
     },
     {
-      "title": "Floating Point Fun on Cortex-M Processors",
-      "link": "https://danielmangum.com/posts/floating-point-cortex-m/",
+      "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
+      "link": "https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-17T10:32:49Z",
-      "id": "0822894fed7584234125d4abc8ced5b3",
-      "comments": "https://news.ycombinator.com/item?id=47804423"
+      "published": "2026-04-16T19:05:20Z",
+      "id": "57d55fa8a4860a3bbbaf5bb98edc0f4b",
+      "comments": "https://news.ycombinator.com/item?id=47797987"
     },
     {
       "title": "Bypassing the kernel for 56ns cross-language IPC",
@@ -191,12 +209,12 @@
       "comments": "https://news.ycombinator.com/item?id=47791771"
     },
     {
-      "title": "The becquerel as an SI unit for request rate",
+      "title": "SI Units for Request Rate (2024)",
       "link": "https://entropicthoughts.com/si-units-for-request-rate",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-16T08:42:05Z",
-      "id": "36289c6cd2c0bd05a7c0e7401b0be095",
+      "id": "5e735369d7c5a26b50bae33295927656",
       "comments": "https://news.ycombinator.com/item?id=47790337"
     },
     {
@@ -236,13 +254,13 @@
       "comments": "https://news.ycombinator.com/item?id=47779659"
     },
     {
-      "title": "Show HN: SmallDocs \u2013 Markdown without the frustrations",
-      "link": "https://news.ycombinator.com/item?id=47777633",
+      "title": "It's cool to care (2025)",
+      "link": "https://alexwlchan.net/2025/cool-to-care/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-15T11:29:12Z",
-      "id": "bf57ae9b576db2cadc9ccef875b0bb51",
-      "comments": "https://news.ycombinator.com/item?id=47777633"
+      "published": "2026-04-15T14:20:42Z",
+      "id": "a4a8f491b07def2b8a6aa56e17ff102b",
+      "comments": "https://news.ycombinator.com/item?id=47779372"
     },
     {
       "title": "Understanding the FFT Algorithm (2013)",
@@ -252,24 +270,6 @@
       "published": "2026-04-15T02:29:39Z",
       "id": "3d0735f1a6e3ea7d338d0ce1f62c5964",
       "comments": "https://news.ycombinator.com/item?id=47773969"
-    },
-    {
-      "title": "80386 Memory Pipeline",
-      "link": "https://nand2mario.github.io/posts/2026/80386_memory_pipeline/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T16:00:49Z",
-      "id": "3206188a9ff66b469eefe5d11f4ecbc3",
-      "comments": "https://news.ycombinator.com/item?id=47767397"
-    },
-    {
-      "title": "It's OK to compare floating-points for equality",
-      "link": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T16:00:49Z",
-      "id": "caa5b95ec302c3490371d9d7925bec31",
-      "comments": "https://news.ycombinator.com/item?id=47767398"
     }
   ]
 }
