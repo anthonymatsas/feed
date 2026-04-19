@@ -1,23 +1,59 @@
 {
-  "last_updated": "2026-04-18T21:30:22.271013Z",
+  "last_updated": "2026-04-19T02:13:45.561086Z",
   "items": [
     {
-      "title": "PostgreSQL production incident caused by transaction ID wraparound",
-      "link": "https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem",
+      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+      "link": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-18T20:34:31Z",
-      "id": "edde8ade04cd9a78701b6e701887f835",
-      "comments": "https://news.ycombinator.com/item?id=47819305"
+      "published": "2026-04-18T23:47:45Z",
+      "id": "f0187b884f1fa40379969b17ebd9eefa",
+      "comments": "https://news.ycombinator.com/item?id=47820531"
     },
     {
-      "title": "Young sons of U.S. marshal ride horseback from Oklahoma to New York (2018)",
-      "link": "https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/",
+      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+      "link": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-18T19:19:50Z",
-      "id": "4a1b6ec252ba112ae39c38e459b99ed4",
-      "comments": "https://news.ycombinator.com/item?id=47818704"
+      "published": "2026-04-18T22:46:13Z",
+      "id": "f0a433385d1a4852b72162659a381ac8",
+      "comments": "https://news.ycombinator.com/item?id=47820195"
+    },
+    {
+      "title": "Dad brains: How fatherhood rewires the male mind",
+      "link": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T22:24:47Z",
+      "id": "e0f870a33e5a63e0abd8358f09413f6d",
+      "comments": "https://news.ycombinator.com/item?id=47820046"
+    },
+    {
+      "title": "My first impressions on ROCm and Strix Halo",
+      "link": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T21:50:48Z",
+      "id": "230620231e365f18a0d074cf8dcc8f4d",
+      "comments": "https://news.ycombinator.com/item?id=47819823"
+    },
+    {
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T20:54:17Z",
+      "id": "5ef0ee473e37bec2ef9dae4939f1cc07",
+      "comments": "https://news.ycombinator.com/item?id=47819453"
+    },
+    {
+      "title": "Optimizing Ruby Path Methods",
+      "link": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T20:42:29Z",
+      "id": "bf6335afaa7d6c7257d5cec99b34b0f0",
+      "comments": "https://news.ycombinator.com/item?id=47819369"
     },
     {
       "title": "Thoughts and feelings around Claude Design",
@@ -36,24 +72,6 @@
       "published": "2026-04-18T19:00:00Z",
       "id": "743c4a9d5818fab3b542b8b35f5e3333",
       "comments": "https://news.ycombinator.com/item?id=47818485"
-    },
-    {
-      "title": "4-bit floating point FP4",
-      "link": "https://www.johndcook.com/blog/2026/04/17/fp4/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T17:21:02Z",
-      "id": "eaa4f34a18ee73860b459300b7f0368b",
-      "comments": "https://news.ycombinator.com/item?id=47817639"
-    },
-    {
-      "title": "Graphs that explain the state of AI in 2026",
-      "link": "https://spectrum.ieee.org/state-of-ai-index-2026",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T17:12:44Z",
-      "id": "88a1223e6466ac2911993254b656e371",
-      "comments": "https://news.ycombinator.com/item?id=47817581"
     },
     {
       "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
@@ -83,12 +101,12 @@
       "comments": "https://news.ycombinator.com/item?id=47817132"
     },
     {
-      "title": "Opus 4.7 to 4.6 Inflation is ~45%",
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "link": "https://tokens.billchambers.me/leaderboard",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-18T16:05:43Z",
-      "id": "4b6e77e3961840c90370546767f511f0",
+      "id": "5504a3a9158a224c57ce4a7dd5af4a6e",
       "comments": "https://news.ycombinator.com/item?id=47816960"
     },
     {
@@ -128,15 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=47815395"
     },
     {
-      "title": "The quiet disappearance of the free-range childhood",
-      "link": "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T11:43:57Z",
-      "id": "568b53ffc6245b53fb8f45490c9d428a",
-      "comments": "https://news.ycombinator.com/item?id=47815127"
-    },
-    {
       "title": "State of Kdenlive",
       "link": "https://kdenlive.org/news/2026/state-2026/",
       "source": "Hacker News",
@@ -164,22 +173,13 @@
       "comments": "https://news.ycombinator.com/item?id=47813566"
     },
     {
-      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "link": "https://victorpoughon.github.io/interval-calculator/",
+      "title": "A story about how I dug into the PostgreSQL sources to write my own WAL receiver",
+      "link": "https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-18T01:15:43Z",
-      "id": "69b88f6629b01678ed350412fe24cf52",
-      "comments": "https://news.ycombinator.com/item?id=47812341"
-    },
-    {
-      "title": "Show HN: AI Subroutines \u2013 Run automation scripts inside your browser tab",
-      "link": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T21:03:18Z",
-      "id": "b71cb4ad2bc28df34c5c4eb7ff548d0f",
-      "comments": "https://news.ycombinator.com/item?id=47810533"
+      "published": "2026-04-18T03:47:57Z",
+      "id": "b8fe0178cca004d450dca7afe7860b58",
+      "comments": "https://news.ycombinator.com/item?id=47812973"
     },
     {
       "title": "Floating Point Fun on Cortex-M Processors",
@@ -191,6 +191,15 @@
       "comments": "https://news.ycombinator.com/item?id=47804423"
     },
     {
+      "title": "Updating Gun Rocket through 10 years of Unity Engine",
+      "link": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T12:00:00Z",
+      "id": "82589b66c4f8f69e7056a4c7f6d67eb8",
+      "comments": "https://news.ycombinator.com/item?id=47791771"
+    },
+    {
       "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
       "link": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
       "source": "Hacker News",
@@ -200,12 +209,12 @@
       "comments": "https://news.ycombinator.com/item?id=47784395"
     },
     {
-      "title": "Scientists discover \"cleaner ants\" that groom giant ants in Arizona desert",
+      "title": "Scientists discover \u201ccleaner ants\u201d that groom giant ants in Arizona desert",
       "link": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-15T19:46:16Z",
-      "id": "c0feae448decc076de627e78083e7fc3",
+      "id": "7af055b971fe27bf844a27aed77f3a5b",
       "comments": "https://news.ycombinator.com/item?id=47784250"
     },
     {
@@ -218,13 +227,22 @@
       "comments": "https://news.ycombinator.com/item?id=47782925"
     },
     {
-      "title": "Towards trust in Emacs",
-      "link": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+      "title": "Modern Common Lisp with FSet",
+      "link": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-15T13:49:15Z",
-      "id": "ca78cb889eb1a59ec4e70342b168b92f",
-      "comments": "https://news.ycombinator.com/item?id=47778938"
+      "published": "2026-04-15T14:38:38Z",
+      "id": "48d8e3e8e5a515599b232cded5f9f908",
+      "comments": "https://news.ycombinator.com/item?id=47779659"
+    },
+    {
+      "title": "Show HN: SmallDocs \u2013 Markdown without the frustrations",
+      "link": "https://news.ycombinator.com/item?id=47777633",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-15T11:29:12Z",
+      "id": "bf57ae9b576db2cadc9ccef875b0bb51",
+      "comments": "https://news.ycombinator.com/item?id=47777633"
     },
     {
       "title": "Understanding the FFT Algorithm (2013)",
@@ -245,31 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47767397"
     },
     {
-      "title": "It's OK to compare floating-points for equality",
-      "link": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
+      "title": "Brunost: The Nynorsk Programming Language",
+      "link": "https://lindbakk.com/blog/introducing-brunost",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-14T16:00:49Z",
-      "id": "caa5b95ec302c3490371d9d7925bec31",
-      "comments": "https://news.ycombinator.com/item?id=47767398"
-    },
-    {
-      "title": "Show HN: Remoroo. trying to fix memory in long-running coding agents",
-      "link": "https://www.remoroo.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T13:51:31Z",
-      "id": "3f3d92c9ec46a0ef58a28ed2c24a0e0b",
-      "comments": "https://news.ycombinator.com/item?id=47765662"
-    },
-    {
-      "title": "A Dumb Introduction to Z3 (2025)",
-      "link": "https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-14T02:45:27Z",
-      "id": "d68552ed8585837de8909a5d6f080d33",
-      "comments": "https://news.ycombinator.com/item?id=47760648"
+      "published": "2026-04-13T18:49:55Z",
+      "id": "05a22f0d4976903dc847cac05d2887c2",
+      "comments": "https://news.ycombinator.com/item?id=47756320"
     }
   ]
 }
