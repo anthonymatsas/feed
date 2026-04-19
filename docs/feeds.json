@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T02:13:45.561086Z",
+  "last_updated": "2026-04-19T05:25:02.878867Z",
   "items": [
     {
       "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
@@ -18,15 +18,6 @@
       "published": "2026-04-18T22:46:13Z",
       "id": "f0a433385d1a4852b72162659a381ac8",
       "comments": "https://news.ycombinator.com/item?id=47820195"
-    },
-    {
-      "title": "Dad brains: How fatherhood rewires the male mind",
-      "link": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T22:24:47Z",
-      "id": "e0f870a33e5a63e0abd8358f09413f6d",
-      "comments": "https://news.ycombinator.com/item?id=47820046"
     },
     {
       "title": "My first impressions on ROCm and Strix Halo",
@@ -155,31 +146,22 @@
       "comments": "https://news.ycombinator.com/item?id=47815118"
     },
     {
-      "title": "Category Theory Illustrated \u2013 Orders",
-      "link": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T06:40:47Z",
-      "id": "b71ec2af732ccfb6defa483e3161d927",
-      "comments": "https://news.ycombinator.com/item?id=47813668"
-    },
-    {
-      "title": "Amiga Graphics Archive",
-      "link": "https://amiga.lychesis.net/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T06:20:04Z",
-      "id": "6063aeca99f95dcce4b81f8b18f34d6b",
-      "comments": "https://news.ycombinator.com/item?id=47813566"
-    },
-    {
-      "title": "A story about how I dug into the PostgreSQL sources to write my own WAL receiver",
+      "title": "I dug into the Postgres sources to write my own WAL receiver",
       "link": "https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-18T03:47:57Z",
-      "id": "b8fe0178cca004d450dca7afe7860b58",
+      "id": "da1abf84be7c6f1e6acf214e9645ad46",
       "comments": "https://news.ycombinator.com/item?id=47812973"
+    },
+    {
+      "title": "What Are Skiplists Good For?",
+      "link": "https://antithesis.com/blog/2026/skiptrees/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T13:57:27Z",
+      "id": "013c58dcb6f21f16737e3a21036ef554",
+      "comments": "https://news.ycombinator.com/item?id=47806021"
     },
     {
       "title": "Floating Point Fun on Cortex-M Processors",
@@ -189,6 +171,24 @@
       "published": "2026-04-17T10:32:49Z",
       "id": "0822894fed7584234125d4abc8ced5b3",
       "comments": "https://news.ycombinator.com/item?id=47804423"
+    },
+    {
+      "title": "Bypassing the kernel for 56ns cross-language IPC",
+      "link": "https://github.com/riyaneel/Tachyon/tree/main/docs/adr",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T17:13:50Z",
+      "id": "7dfe282d378459e6df816b1902bfb267",
+      "comments": "https://news.ycombinator.com/item?id=47796496"
+    },
+    {
+      "title": "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
+      "link": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T15:08:33Z",
+      "id": "2f7c4ea30bbc5f871fe11909bb452006",
+      "comments": "https://news.ycombinator.com/item?id=47794299"
     },
     {
       "title": "Updating Gun Rocket through 10 years of Unity Engine",
@@ -218,13 +218,13 @@
       "comments": "https://news.ycombinator.com/item?id=47784250"
     },
     {
-      "title": "Michael Rabin has died",
-      "link": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+      "title": "Metatextual Literacy",
+      "link": "https://www.jenn.site/metatextual-literacy/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-15T18:07:46Z",
-      "id": "593402d01f94d87edc0f8cc3319a27cd",
-      "comments": "https://news.ycombinator.com/item?id=47782925"
+      "published": "2026-04-15T19:18:38Z",
+      "id": "9e64903be4f2f7faa0cb545f9e7609f4",
+      "comments": "https://news.ycombinator.com/item?id=47783890"
     },
     {
       "title": "Modern Common Lisp with FSet",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47767397"
     },
     {
-      "title": "Brunost: The Nynorsk Programming Language",
-      "link": "https://lindbakk.com/blog/introducing-brunost",
+      "title": "It's OK to compare floating-points for equality",
+      "link": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-13T18:49:55Z",
-      "id": "05a22f0d4976903dc847cac05d2887c2",
-      "comments": "https://news.ycombinator.com/item?id=47756320"
+      "published": "2026-04-14T16:00:49Z",
+      "id": "caa5b95ec302c3490371d9d7925bec31",
+      "comments": "https://news.ycombinator.com/item?id=47767398"
     }
   ]
 }
