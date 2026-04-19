@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-04-19T09:42:46.974641Z",
+  "last_updated": "2026-04-19T12:54:01.915322Z",
   "items": [
+    {
+      "title": "Why Zip drives dominated the 90s, then vanished almost overnight",
+      "link": "https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T10:55:38Z",
+      "id": "a3f0c6ec2e0c17f01d9168482e0dd085",
+      "comments": "https://news.ycombinator.com/item?id=47823362"
+    },
+    {
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T10:36:29Z",
+      "id": "646dab30aef26f54eafda6f570ecc894",
+      "comments": "https://news.ycombinator.com/item?id=47823270"
+    },
+    {
+      "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
+      "link": "https://news.ycombinator.com/item?id=47822940",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T09:17:12Z",
+      "id": "273a2b6bd2822129f0b90bfe979765a9",
+      "comments": "https://news.ycombinator.com/item?id=47822940"
+    },
     {
       "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
       "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
@@ -11,13 +38,22 @@
       "comments": "https://news.ycombinator.com/item?id=47822805"
     },
     {
-      "title": "The RAM shortage could last years",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "title": "Binary GCD",
+      "link": "https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T07:18:44Z",
-      "id": "e188fc5e052431290aa530452bfb3fc3",
-      "comments": "https://news.ycombinator.com/item?id=47822414"
+      "published": "2026-04-19T08:33:38Z",
+      "id": "a6d1582e36a8bc59fd4bb8832c4a7d95",
+      "comments": "https://news.ycombinator.com/item?id=47822737"
+    },
+    {
+      "title": "The seven programming ur-languages (2022)",
+      "link": "https://madhadron.com/programming/seven_ur_languages.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T07:38:08Z",
+      "id": "9beab30cf68cf7485dfb37cb1dd65211",
+      "comments": "https://news.ycombinator.com/item?id=47822486"
     },
     {
       "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
@@ -38,15 +74,6 @@
       "comments": "https://news.ycombinator.com/item?id=47821429"
     },
     {
-      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-      "link": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T23:47:45Z",
-      "id": "f0187b884f1fa40379969b17ebd9eefa",
-      "comments": "https://news.ycombinator.com/item?id=47820531"
-    },
-    {
       "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
       "link": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
       "source": "Hacker News",
@@ -54,15 +81,6 @@
       "published": "2026-04-18T22:46:13Z",
       "id": "f0a433385d1a4852b72162659a381ac8",
       "comments": "https://news.ycombinator.com/item?id=47820195"
-    },
-    {
-      "title": "My first impressions on ROCm and Strix Halo",
-      "link": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T21:50:48Z",
-      "id": "230620231e365f18a0d074cf8dcc8f4d",
-      "comments": "https://news.ycombinator.com/item?id=47819823"
     },
     {
       "title": "NIST scientists create 'any wavelength' lasers",
@@ -119,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47816960"
     },
     {
-      "title": "Show HN: MDV \u2013 a Markdown superset for docs, dashboards, and slides with data",
-      "link": "https://github.com/drasimwagan/mdv",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T15:24:39Z",
-      "id": "e6cf40f4b90c8abc71d91d87ac17376b",
-      "comments": "https://news.ycombinator.com/item?id=47816629"
-    },
-    {
       "title": "Migrating from DigitalOcean to Hetzner",
       "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
       "source": "Hacker News",
@@ -155,6 +164,15 @@
       "comments": "https://news.ycombinator.com/item?id=47815118"
     },
     {
+      "title": "Archive of Byte magazine, starting with issue #1 in 1975",
+      "link": "https://archive.org/details/byte-magazine-1975-09",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T14:07:28Z",
+      "id": "512031fd232929154e719b45d18b6bb5",
+      "comments": "https://news.ycombinator.com/item?id=47806096"
+    },
+    {
       "title": "What are skiplists good for?",
       "link": "https://antithesis.com/blog/2026/skiptrees/",
       "source": "Hacker News",
@@ -171,6 +189,15 @@
       "published": "2026-04-16T19:05:20Z",
       "id": "57d55fa8a4860a3bbbaf5bb98edc0f4b",
       "comments": "https://news.ycombinator.com/item?id=47797987"
+    },
+    {
+      "title": "Shader Lab, like Photoshop but for shaders",
+      "link": "https://eng.basement.studio/tools/shader-lab",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T17:32:33Z",
+      "id": "226d0673e85370a8af4c9de9b9d1be39",
+      "comments": "https://news.ycombinator.com/item?id=47796759"
     },
     {
       "title": "Bypassing the kernel for 56ns cross-language IPC",
@@ -191,12 +218,12 @@
       "comments": "https://news.ycombinator.com/item?id=47794299"
     },
     {
-      "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
+      "title": "Game devs explain the tricks involved with letting you pause a game",
       "link": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-16T14:05:10Z",
-      "id": "119a38495a257b453a5dcd9748fcc750",
+      "id": "c1c736312789f63f0b250d12ff3e3d94",
       "comments": "https://news.ycombinator.com/item?id=47793161"
     },
     {
@@ -209,15 +236,6 @@
       "comments": "https://news.ycombinator.com/item?id=47791771"
     },
     {
-      "title": "SI Units for Request Rate (2024)",
-      "link": "https://entropicthoughts.com/si-units-for-request-rate",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-16T08:42:05Z",
-      "id": "5e735369d7c5a26b50bae33295927656",
-      "comments": "https://news.ycombinator.com/item?id=47790337"
-    },
-    {
       "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
       "link": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
       "source": "Hacker News",
@@ -225,15 +243,6 @@
       "published": "2026-04-15T19:56:31Z",
       "id": "374916433ad61a5c338f3d77c825d26e",
       "comments": "https://news.ycombinator.com/item?id=47784395"
-    },
-    {
-      "title": "Scientists discover \u201ccleaner ants\u201d that groom giant ants in Arizona desert",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T19:46:16Z",
-      "id": "7af055b971fe27bf844a27aed77f3a5b",
-      "comments": "https://news.ycombinator.com/item?id=47784250"
     },
     {
       "title": "Metatextual Literacy",
@@ -261,15 +270,6 @@
       "published": "2026-04-15T14:20:42Z",
       "id": "a4a8f491b07def2b8a6aa56e17ff102b",
       "comments": "https://news.ycombinator.com/item?id=47779372"
-    },
-    {
-      "title": "Understanding the FFT Algorithm (2013)",
-      "link": "https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T02:29:39Z",
-      "id": "3d0735f1a6e3ea7d338d0ce1f62c5964",
-      "comments": "https://news.ycombinator.com/item?id=47773969"
     }
   ]
 }
