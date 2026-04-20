@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-20T08:00:03.633827Z",
+  "last_updated": "2026-04-20T10:43:42.629300Z",
   "items": [
+    {
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "link": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T10:00:35Z",
+      "id": "433591b2b33967fcffb80270c5766d94",
+      "comments": "https://news.ycombinator.com/item?id=47832222"
+    },
+    {
+      "title": "GitHub's Fake Star Economy",
+      "link": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T08:26:52Z",
+      "id": "005a9ca27310d0e1381f8a7bbf1a5705",
+      "comments": "https://news.ycombinator.com/item?id=47831621"
+    },
+    {
+      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+      "link": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T07:49:48Z",
+      "id": "83cfd7868cd7375259fcf4b462ce55b2",
+      "comments": "https://news.ycombinator.com/item?id=47831437"
+    },
+    {
+      "title": "IEA: Solar overtakes all energy sources in a major global first",
+      "link": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T07:19:27Z",
+      "id": "e5c77dae2be8d19ec8af1d533db53b2a",
+      "comments": "https://news.ycombinator.com/item?id=47831272"
+    },
     {
       "title": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds",
       "link": "https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds",
@@ -38,15 +74,6 @@
       "comments": "https://news.ycombinator.com/item?id=47829178"
     },
     {
-      "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
-      "link": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T00:21:24Z",
-      "id": "60ba8cd41665699489f2445052c3d358",
-      "comments": "https://news.ycombinator.com/item?id=47828968"
-    },
-    {
       "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
       "link": "https://github.com/shivampkumar/trellis-mac",
       "source": "Hacker News",
@@ -81,15 +108,6 @@
       "published": "2026-04-19T20:09:09Z",
       "id": "e96cdc46e9cb119af75a8eebbfeebeae",
       "comments": "https://news.ycombinator.com/item?id=47827259"
-    },
-    {
-      "title": "I wrote a CHIP-8 emulator in my own programming language",
-      "link": "https://github.com/navid-m/chip8emu",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T19:21:22Z",
-      "id": "c323132ff1ce6038d876e720c493bd44",
-      "comments": "https://news.ycombinator.com/item?id=47826852"
     },
     {
       "title": "Scientific datasets are riddled with copy-paste errors",
@@ -137,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47824463"
     },
     {
-      "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
-      "link": "https://teamchong.github.io/turboquant-wasm/draw.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T11:17:27Z",
-      "id": "1901992cf3070b4bbf57b0f2e3a2b6b7",
-      "comments": "https://news.ycombinator.com/item?id=47823460"
-    },
-    {
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
       "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
       "source": "Hacker News",
@@ -153,15 +162,6 @@
       "published": "2026-04-19T10:36:29Z",
       "id": "646dab30aef26f54eafda6f570ecc894",
       "comments": "https://news.ycombinator.com/item?id=47823270"
-    },
-    {
-      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-      "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T08:45:48Z",
-      "id": "fa7a83da708401340f00bbf650b44063",
-      "comments": "https://news.ycombinator.com/item?id=47822805"
     },
     {
       "title": "A Brief History of Fish Sauce",
@@ -191,13 +191,22 @@
       "comments": "https://news.ycombinator.com/item?id=47819410"
     },
     {
-      "title": "Interesting Map Geometry and Mathematics",
-      "link": "https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/",
+      "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+      "link": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-18T06:25:38Z",
-      "id": "bd593dd1eca277eff95164764b66fbeb",
-      "comments": "https://news.ycombinator.com/item?id=47813597"
+      "published": "2026-04-17T21:03:09Z",
+      "id": "737bb9c13c85c8494581490d312a67c7",
+      "comments": "https://news.ycombinator.com/item?id=47810531"
+    },
+    {
+      "title": "Two Motorola Transistors Became the Default NPNs",
+      "link": "https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T20:27:49Z",
+      "id": "741e93bcd893bc62b02985d10a0289c2",
+      "comments": "https://news.ycombinator.com/item?id=47810211"
     },
     {
       "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
@@ -227,6 +236,15 @@
       "comments": "https://news.ycombinator.com/item?id=47801200"
     },
     {
+      "title": "I Made the \"Next-Level\" Camera and I love it",
+      "link": "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-16T18:19:24Z",
+      "id": "f98a160b287db3e1d7dc15192b5753aa",
+      "comments": "https://news.ycombinator.com/item?id=47797382"
+    },
+    {
       "title": "Knitout and Kniterate 3",
       "link": "https://soup.agnescameron.info//2026/04/01/transfers.html",
       "source": "Hacker News",
@@ -245,15 +263,6 @@
       "comments": "https://news.ycombinator.com/item?id=47789087"
     },
     {
-      "title": "Prove you are a robot: CAPTCHAs for agents",
-      "link": "https://browser-use.com/posts/prove-you-are-a-robot",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T17:03:39Z",
-      "id": "15760e1a742fbede18a11e3ffaeb8018",
-      "comments": "https://news.ycombinator.com/item?id=47781950"
-    },
-    {
       "title": "Mechanical Keyboard Sounds \u2013 A listening Museum",
       "link": "https://sheets.works/data-viz/keyboard-sounds",
       "source": "Hacker News",
@@ -261,15 +270,6 @@
       "published": "2026-04-15T15:45:45Z",
       "id": "7052736aa8aba1fb2447983d2f459f35",
       "comments": "https://news.ycombinator.com/item?id=47780743"
-    },
-    {
-      "title": "Nanopass Framework: Clean Compiler Creation Language",
-      "link": "https://nanopass.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-15T11:38:22Z",
-      "id": "85dcfd15f70c22c051732e4d78c6b8c6",
-      "comments": "https://news.ycombinator.com/item?id=47777715"
     }
   ]
 }
