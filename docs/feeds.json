@@ -1,14 +1,23 @@
 {
-  "last_updated": "2026-04-20T02:14:00.335399Z",
+  "last_updated": "2026-04-20T05:36:27.742615Z",
   "items": [
     {
-      "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
-      "link": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/",
+      "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+      "link": "https://github.com/esutcu/planb-lpm",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T00:34:39Z",
-      "id": "ddad2e9aea39eb50d8ee676c96d7442a",
-      "comments": "https://news.ycombinator.com/item?id=47829058"
+      "published": "2026-04-20T03:24:21Z",
+      "id": "415a5e1e8213f6a4e5abf319096d9ca0",
+      "comments": "https://news.ycombinator.com/item?id=47830071"
+    },
+    {
+      "title": "Claude Token Counter, now with model comparisons",
+      "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T00:56:40Z",
+      "id": "5429eda4c80427d9741bf1f4dc884072",
+      "comments": "https://news.ycombinator.com/item?id=47829178"
     },
     {
       "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
@@ -20,12 +29,12 @@
       "comments": "https://news.ycombinator.com/item?id=47828968"
     },
     {
-      "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon \u2013 no Nvidia GPU needed",
+      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
       "link": "https://github.com/shivampkumar/trellis-mac",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-20T00:07:16Z",
-      "id": "4773cc56774df6a97489e19206800fa0",
+      "id": "653e78de7f19d837f10ad3f29f86f30d",
       "comments": "https://news.ycombinator.com/item?id=47828896"
     },
     {
@@ -47,15 +56,6 @@
       "comments": "https://news.ycombinator.com/item?id=47828444"
     },
     {
-      "title": "Got an Old Kindle? It Might Not Work Anymore",
-      "link": "https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T22:56:32Z",
-      "id": "d2a623c9604fc5ef8d27876dd7369375",
-      "comments": "https://news.ycombinator.com/item?id=47828427"
-    },
-    {
       "title": "2,100 Swiss municipalities showing which provider handles their official email",
       "link": "https://mxmap.ch/",
       "source": "Hacker News",
@@ -63,15 +63,6 @@
       "published": "2026-04-19T22:55:47Z",
       "id": "42156cbc79269681979c875b4e406421",
       "comments": "https://news.ycombinator.com/item?id=47828420"
-    },
-    {
-      "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
-      "link": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T22:30:19Z",
-      "id": "57cad771571d10e88cc4bd0aa05b34ea",
-      "comments": "https://news.ycombinator.com/item?id=47828225"
     },
     {
       "title": "Stop trying to engineer your way out of listening to people",
@@ -110,15 +101,6 @@
       "comments": "https://news.ycombinator.com/item?id=47826502"
     },
     {
-      "title": "Uber\u2019s Anthropic AI push hits a wall",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T18:13:32Z",
-      "id": "68473da3cddcb55865f260ac78057add",
-      "comments": "https://news.ycombinator.com/item?id=47826328"
-    },
-    {
       "title": "Show HN: Faceoff \u2013 A terminal UI for following NHL games",
       "link": "https://www.vincentgregoire.com/faceoff/",
       "source": "Hacker News",
@@ -153,6 +135,15 @@
       "published": "2026-04-19T14:14:38Z",
       "id": "41c636c995a75b372e5b9e3fa91c3fd5",
       "comments": "https://news.ycombinator.com/item?id=47824463"
+    },
+    {
+      "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+      "link": "https://teamchong.github.io/turboquant-wasm/draw.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T11:17:27Z",
+      "id": "1901992cf3070b4bbf57b0f2e3a2b6b7",
+      "comments": "https://news.ycombinator.com/item?id=47823460"
     },
     {
       "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
@@ -209,6 +200,15 @@
       "comments": "https://news.ycombinator.com/item?id=47813597"
     },
     {
+      "title": "A Common MVP Evolution: Service to System Integration to Product (2017)",
+      "link": "https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T20:15:40Z",
+      "id": "c4509a66684b3e42cf5ca96365a1ca16",
+      "comments": "https://news.ycombinator.com/item?id=47810109"
+    },
+    {
       "title": "Show HN: A working reference implementation of context engineering",
       "link": "https://github.com/outcomeops/context-engineering",
       "source": "Hacker News",
@@ -227,13 +227,13 @@
       "comments": "https://news.ycombinator.com/item?id=47806096"
     },
     {
-      "title": "What are skiplists good for?",
-      "link": "https://antithesis.com/blog/2026/skiptrees/",
+      "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+      "link": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-17T13:57:27Z",
-      "id": "9417ca652dec15cf969394893e7e916f",
-      "comments": "https://news.ycombinator.com/item?id=47806021"
+      "published": "2026-04-17T09:50:53Z",
+      "id": "0bacb810c59ba4124f886d0f5461885a",
+      "comments": "https://news.ycombinator.com/item?id=47804178"
     },
     {
       "title": "Prove you are a robot: CAPTCHAs for agents",
@@ -245,12 +245,12 @@
       "comments": "https://news.ycombinator.com/item?id=47781950"
     },
     {
-      "title": "Mechanical Keyboard Sounds - A listening Museum",
+      "title": "Mechanical Keyboard Sounds \u2013 A listening Museum",
       "link": "https://sheets.works/data-viz/keyboard-sounds",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-15T15:45:45Z",
-      "id": "d64268ac3935ea0e74c812a8ddb41397",
+      "id": "7052736aa8aba1fb2447983d2f459f35",
       "comments": "https://news.ycombinator.com/item?id=47780743"
     },
     {
