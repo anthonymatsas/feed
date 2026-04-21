@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-04-21T16:07:23.755747Z",
+  "last_updated": "2026-04-21T19:05:52.752707Z",
   "items": [
+    {
+      "title": "Framework Laptop 13 Pro",
+      "link": "https://frame.work/laptop13pro",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T18:00:34Z",
+      "id": "cde0516547d04e34fe9b3d1c6d5fc90d",
+      "comments": "https://news.ycombinator.com/item?id=47852177"
+    },
+    {
+      "title": "Cal.diy: open-source community edition of cal.com",
+      "link": "https://github.com/calcom/cal.diy",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T17:58:21Z",
+      "id": "ba0a64fca0558ecc68ff672b8f97ea28",
+      "comments": "https://news.ycombinator.com/item?id=47852155"
+    },
+    {
+      "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
+      "link": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T17:40:39Z",
+      "id": "53fbf8f20ac92d1effc1c56475fce892",
+      "comments": "https://news.ycombinator.com/item?id=47851948"
+    },
+    {
+      "title": "Britannica11.org \u2013 a structured edition of the 1911 Encyclop\u00e6dia Britannica",
+      "link": "https://britannica11.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T17:33:50Z",
+      "id": "c52019e83f14a02caa9ec8270e3a9819",
+      "comments": "https://news.ycombinator.com/item?id=47851885"
+    },
+    {
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T17:14:35Z",
+      "id": "88f31b7de202fe9d36326c3a05315b83",
+      "comments": "https://news.ycombinator.com/item?id=47851634"
+    },
+    {
+      "title": "Ibuilt a tiny Unix\u2011like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
+      "link": "https://github.com/Arc1011/KernelUNO",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T17:14:26Z",
+      "id": "adeb35a24f82cb459d9e587463fa373c",
+      "comments": "https://news.ycombinator.com/item?id=47851630"
+    },
+    {
+      "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
+      "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T17:01:15Z",
+      "id": "c11539fcedda819b406193c8bb5d6023",
+      "comments": "https://news.ycombinator.com/item?id=47851456"
+    },
+    {
+      "title": "A Periodic Map of Cheese",
+      "link": "https://cheesemap.netlify.app/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T16:31:21Z",
+      "id": "1e6ef5c303cbc36a4f4c196836abceff",
+      "comments": "https://news.ycombinator.com/item?id=47851077"
+    },
+    {
+      "title": "Show HN: Daemons \u2013 we pivoted from building agents to cleaning up after them",
+      "link": "https://charlielabs.ai/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T16:16:41Z",
+      "id": "ebb1df45b737cd248125a2b4078bdb35",
+      "comments": "https://news.ycombinator.com/item?id=47850907"
+    },
+    {
+      "title": "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
+      "link": "https://github.com/Yus314/kasane",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T15:53:22Z",
+      "id": "c1810c7b370912790b563e2cc94f9b0f",
+      "comments": "https://news.ycombinator.com/item?id=47850542"
+    },
     {
       "title": "Original GrapheneOS responses to WIRED fact checker",
       "link": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
@@ -9,15 +99,6 @@
       "published": "2026-04-21T15:04:24Z",
       "id": "6079c0feb86b9efba3571283b3881649",
       "comments": "https://news.ycombinator.com/item?id=47849854"
-    },
-    {
-      "title": "As Oceans Warm, Great White Sharks Are Overheating",
-      "link": "https://e360.yale.edu/digest/great-white-sharks-climate",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T14:48:55Z",
-      "id": "b95551d8fc9fff68a446859bb3979fac",
-      "comments": "https://news.ycombinator.com/item?id=47849592"
     },
     {
       "title": "Fusion Power Plant Simulator",
@@ -29,31 +110,13 @@
       "comments": "https://news.ycombinator.com/item?id=47849315"
     },
     {
-      "title": "Your favorite brands got worse on purpose",
-      "link": "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T14:19:49Z",
-      "id": "9838001b64f375748bc42251d8d43eee",
-      "comments": "https://news.ycombinator.com/item?id=47849221"
-    },
-    {
-      "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
       "link": "https://github.com/ENTERPILOT/GOModel/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-21T14:11:53Z",
-      "id": "00f809cece3fb2f84d60cecb363a72eb",
+      "id": "fc31b093af033b9eeb7db5aca5e2c551",
       "comments": "https://news.ycombinator.com/item?id=47849097"
-    },
-    {
-      "title": "Vera C. Rubin Observatory has Discovered 11,000 New Asteroids",
-      "link": "https://www.universetoday.com/articles/the-vera-c-rubin-observatory-has-discovered-11000-new-asteroids-and-its-barely-even-started",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T13:24:34Z",
-      "id": "f0fe2bde6379e3ecca1a24dee3fac91f",
-      "comments": "https://news.ycombinator.com/item?id=47848487"
     },
     {
       "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
@@ -101,15 +164,6 @@
       "comments": "https://news.ycombinator.com/item?id=47847179"
     },
     {
-      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
-      "link": "https://fsfe.org/news/2026/news-20260420-01.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T10:57:53Z",
-      "id": "2190be74abea03b4ff2fb4e858c5f906",
-      "comments": "https://news.ycombinator.com/item?id=47847124"
-    },
-    {
       "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
       "link": "https://codemix.com/graph",
       "source": "Hacker News",
@@ -117,51 +171,6 @@
       "published": "2026-04-21T10:33:24Z",
       "id": "bfaecaa5f7ee16ca09854dcf32255274",
       "comments": "https://news.ycombinator.com/item?id=47846946"
-    },
-    {
-      "title": "Less human AI agents, please",
-      "link": "https://nial.se/blog/less-human-ai-agents-please/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T06:58:08Z",
-      "id": "78f431f3888fcf11bf064c146eea32dc",
-      "comments": "https://news.ycombinator.com/item?id=47845429"
-    },
-    {
-      "title": "Louis Zocchi, games industry pioneer, has died",
-      "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T06:19:15Z",
-      "id": "4796421b789ea99b98e1bdd85c901785",
-      "comments": "https://news.ycombinator.com/item?id=47845231"
-    },
-    {
-      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-      "link": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T05:27:35Z",
-      "id": "ee80275f235b5ae171e5191a0fafc8b2",
-      "comments": "https://news.ycombinator.com/item?id=47844890"
-    },
-    {
-      "title": "The Beauty of Bonsai Styles",
-      "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T04:31:30Z",
-      "id": "7a2be8ca4c4dd17eaea11445386ca417",
-      "comments": "https://news.ycombinator.com/item?id=47844539"
-    },
-    {
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T04:12:12Z",
-      "id": "f0691c35ede5d1d6fe0de03bd0d6fd03",
-      "comments": "https://news.ycombinator.com/item?id=47844431"
     },
     {
       "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
@@ -173,31 +182,31 @@
       "comments": "https://news.ycombinator.com/item?id=47844269"
     },
     {
-      "title": "How to make a fast dynamic language interpreter",
-      "link": "https://zef-lang.dev/implementation",
+      "title": "Colorado River disappeared record for 5M years: now we know where it was",
+      "link": "https://phys.org/news/2026-04-colorado-river-geological-million-years.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-21T00:48:07Z",
-      "id": "b2b83f5b40ad38fcd8f27def159b9c42",
-      "comments": "https://news.ycombinator.com/item?id=47843194"
+      "published": "2026-04-20T17:05:29Z",
+      "id": "44806500187a47762df5be227579118e",
+      "comments": "https://news.ycombinator.com/item?id=47837260"
     },
     {
-      "title": "John Ternus to become Apple CEO",
-      "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "title": "Show HN: Ctx \u2013 a /resume that works across Claude Code and Codex",
+      "link": "https://github.com/dchu917/ctx",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T20:39:32Z",
-      "id": "65c18bfc5171daba694711c05afe1f4c",
-      "comments": "https://news.ycombinator.com/item?id=47840219"
+      "published": "2026-04-20T16:35:05Z",
+      "id": "22ddf55446f528859ddaa9de8d28edd0",
+      "comments": "https://news.ycombinator.com/item?id=47836740"
     },
     {
-      "title": "Kimi vendor verifier \u2013 verify accuracy of inference providers",
-      "link": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "title": "Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
+      "link": "https://mediator.ai/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T18:39:53Z",
-      "id": "2d55f41f3c91d3bda7f7c44909cea9b4",
-      "comments": "https://news.ycombinator.com/item?id=47838703"
+      "published": "2026-04-20T15:07:04Z",
+      "id": "225b059b5207453cdb3c420977dc1403",
+      "comments": "https://news.ycombinator.com/item?id=47835411"
     },
     {
       "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
@@ -209,31 +218,22 @@
       "comments": "https://news.ycombinator.com/item?id=47834689"
     },
     {
-      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "title": "Theseus, a Static Windows Emulator",
+      "link": "https://neugierig.org/software/blog/2026/04/theseus.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T14:05:34Z",
-      "id": "be02347a1ad04aad2fa5d9cccb3b2f9b",
-      "comments": "https://news.ycombinator.com/item?id=47834565"
+      "published": "2026-04-20T04:14:48Z",
+      "id": "232ad6900c421071c64016036437f132",
+      "comments": "https://news.ycombinator.com/item?id=47830332"
     },
     {
-      "title": "Slava's Monoid Zoo",
-      "link": "https://factorcode.org/slava/monoids.html",
+      "title": "Modern Front end Complexity: essential or accidental?",
+      "link": "https://binaryigor.com/modern-frontend-complexity.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T23:13:46Z",
-      "id": "06e49987be3060c0e78b08bef50fdc40",
-      "comments": "https://news.ycombinator.com/item?id=47828568"
-    },
-    {
-      "title": "High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction",
-      "link": "https://jchandra.com/posts/hae-ols/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T11:35:23Z",
-      "id": "2096943381458f8987ca8c84ffe6a376",
-      "comments": "https://news.ycombinator.com/item?id=47823549"
+      "published": "2026-04-19T13:10:51Z",
+      "id": "e47796653e097cd733f20f4b0b817ee1",
+      "comments": "https://news.ycombinator.com/item?id=47824051"
     },
     {
       "title": "Clojure: Transducers",
@@ -245,13 +245,13 @@
       "comments": "https://news.ycombinator.com/item?id=47823365"
     },
     {
-      "title": "The purist's guide to ph\u1edf in Hanoi",
-      "link": "https://connla.substack.com/p/pho-in-hanoi-a-purists-guide",
+      "title": "Edit store price tags using Flipper Zero",
+      "link": "https://github.com/i12bp8/TagTinker",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T08:34:10Z",
-      "id": "e68dcdd075777ae7deaadf23c31edc0e",
-      "comments": "https://news.ycombinator.com/item?id=47822742"
+      "published": "2026-04-19T09:26:04Z",
+      "id": "0a008d56331c10bb7f421f90381d96bd",
+      "comments": "https://news.ycombinator.com/item?id=47822978"
     },
     {
       "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
