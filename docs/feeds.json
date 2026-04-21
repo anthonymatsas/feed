@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-21T19:05:52.752707Z",
+  "last_updated": "2026-04-21T21:41:09.697415Z",
   "items": [
+    {
+      "title": "Claude Code removed from Anthropic's Pro plan",
+      "link": "https://claude.com/pricing",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T21:03:04Z",
+      "id": "cc8e61998b24463308d64c40cdc8a8e5",
+      "comments": "https://news.ycombinator.com/item?id=47854477"
+    },
+    {
+      "title": "California has more money than projected after admin miscalculated state budget",
+      "link": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T20:28:57Z",
+      "id": "40475d6ee3b8d8b802d6688a5a830961",
+      "comments": "https://news.ycombinator.com/item?id=47854125"
+    },
+    {
+      "title": "Zindex \u2013 Diagram Infrastructure for Agents",
+      "link": "https://zindex.ai/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T20:27:37Z",
+      "id": "f3fc36832a7f4959c7d893bb6e14d0cd",
+      "comments": "https://news.ycombinator.com/item?id=47854116"
+    },
+    {
+      "title": "I don't want your PRs anymore",
+      "link": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T20:21:40Z",
+      "id": "8f62c9d0511df854744c6faad9fd0c49",
+      "comments": "https://news.ycombinator.com/item?id=47854051"
+    },
     {
       "title": "Framework Laptop 13 Pro",
       "link": "https://frame.work/laptop13pro",
@@ -74,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47851077"
     },
     {
-      "title": "Show HN: Daemons \u2013 we pivoted from building agents to cleaning up after them",
-      "link": "https://charlielabs.ai/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T16:16:41Z",
-      "id": "ebb1df45b737cd248125a2b4078bdb35",
-      "comments": "https://news.ycombinator.com/item?id=47850907"
-    },
-    {
       "title": "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
       "link": "https://github.com/Yus314/kasane",
       "source": "Hacker News",
@@ -90,15 +117,6 @@
       "published": "2026-04-21T15:53:22Z",
       "id": "c1810c7b370912790b563e2cc94f9b0f",
       "comments": "https://news.ycombinator.com/item?id=47850542"
-    },
-    {
-      "title": "Original GrapheneOS responses to WIRED fact checker",
-      "link": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T15:04:24Z",
-      "id": "6079c0feb86b9efba3571283b3881649",
-      "comments": "https://news.ycombinator.com/item?id=47849854"
     },
     {
       "title": "Fusion Power Plant Simulator",
@@ -117,24 +135,6 @@
       "published": "2026-04-21T14:11:53Z",
       "id": "fc31b093af033b9eeb7db5aca5e2c551",
       "comments": "https://news.ycombinator.com/item?id=47849097"
-    },
-    {
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T13:08:25Z",
-      "id": "0d2b05d04fb5218a35095d6c7e3c56e2",
-      "comments": "https://news.ycombinator.com/item?id=47848276"
-    },
-    {
-      "title": "Tindie store under \"scheduled maintenance\" for days",
-      "link": "https://www.tindie.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T13:02:00Z",
-      "id": "c2b11f3bb6989365143bf73c61b2262d",
-      "comments": "https://news.ycombinator.com/item?id=47848195"
     },
     {
       "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
@@ -173,15 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47846946"
     },
     {
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "link": "https://docs.openclaw.ai/providers/anthropic",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T03:43:03Z",
-      "id": "30850d43f780d772b7a1245e7107543f",
-      "comments": "https://news.ycombinator.com/item?id=47844269"
-    },
-    {
       "title": "Colorado River disappeared record for 5M years: now we know where it was",
       "link": "https://phys.org/news/2026-04-colorado-river-geological-million-years.html",
       "source": "Hacker News",
@@ -198,6 +189,15 @@
       "published": "2026-04-20T16:35:05Z",
       "id": "22ddf55446f528859ddaa9de8d28edd0",
       "comments": "https://news.ycombinator.com/item?id=47836740"
+    },
+    {
+      "title": "My practitioner view of program analysis",
+      "link": "https://sawyer.dev/posts/practitioner-program-analysis/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T15:27:30Z",
+      "id": "5051106900ed021bae6c633a89aa8790",
+      "comments": "https://news.ycombinator.com/item?id=47835728"
     },
     {
       "title": "Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
@@ -236,13 +236,13 @@
       "comments": "https://news.ycombinator.com/item?id=47824051"
     },
     {
-      "title": "Clojure: Transducers",
-      "link": "https://clojure.org/reference/transducers",
+      "title": "In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition",
+      "link": "https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T10:56:20Z",
-      "id": "0115887916a3b9aa6abb301c37ae9c7d",
-      "comments": "https://news.ycombinator.com/item?id=47823365"
+      "published": "2026-04-19T10:15:41Z",
+      "id": "41d41a904f1ed9f3ee785baca5f9fe63",
+      "comments": "https://news.ycombinator.com/item?id=47823179"
     },
     {
       "title": "Edit store price tags using Flipper Zero",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47815462"
     },
     {
-      "title": "Leonardo, Borgia, and Machiavelli: A Fateful Collusion",
-      "link": "https://www.historytoday.com/archive/leonardo-borgia-and-machiavelli-fateful-collusion",
+      "title": "10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+      "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T06:38:43Z",
-      "id": "7b2ae6f133a0bb5761eb31e41bbcbc8a",
-      "comments": "https://news.ycombinator.com/item?id=47789445"
+      "published": "2026-04-18T10:53:42Z",
+      "id": "28a5a989e1bf3d5df2938455b34c3617",
+      "comments": "https://news.ycombinator.com/item?id=47814874"
     }
   ]
 }
