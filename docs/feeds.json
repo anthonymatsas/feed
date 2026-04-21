@@ -1,15 +1,6 @@
 {
-  "last_updated": "2026-04-21T07:43:01.745462Z",
+  "last_updated": "2026-04-21T10:16:01.395634Z",
   "items": [
-    {
-      "title": "Less human AI agents, please",
-      "link": "https://nial.se/blog/less-human-ai-agents-please/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T06:58:08Z",
-      "id": "78f431f3888fcf11bf064c146eea32dc",
-      "comments": "https://news.ycombinator.com/item?id=47845429"
-    },
     {
       "title": "Using Changesets in a polyglot monorepo",
       "link": "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/",
@@ -81,15 +72,6 @@
       "published": "2026-04-21T03:43:03Z",
       "id": "30850d43f780d772b7a1245e7107543f",
       "comments": "https://news.ycombinator.com/item?id=47844269"
-    },
-    {
-      "title": "Prediction markets are breaking the news and becoming their own beat",
-      "link": "https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T01:46:14Z",
-      "id": "fa44338e6067049e5cf56680f966b293",
-      "comments": "https://news.ycombinator.com/item?id=47843569"
     },
     {
       "title": "How to make a fast dynamic language interpreter",
@@ -164,6 +146,15 @@
       "comments": "https://news.ycombinator.com/item?id=47835411"
     },
     {
+      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "link": "http://mnt.stanleylieber.com/reform/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T14:14:52Z",
+      "id": "bb04145b5db90d24bfdb9351722447c4",
+      "comments": "https://news.ycombinator.com/item?id=47834689"
+    },
+    {
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
       "source": "Hacker News",
@@ -191,6 +182,15 @@
       "comments": "https://news.ycombinator.com/item?id=47833558"
     },
     {
+      "title": "WebUSB Extension for Firefox",
+      "link": "https://github.com/ArcaneNibble/awawausb",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T11:51:04Z",
+      "id": "37dd3754632ba28215eb88ed1cf49590",
+      "comments": "https://news.ycombinator.com/item?id=47832969"
+    },
+    {
       "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
       "link": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
       "source": "Hacker News",
@@ -200,22 +200,13 @@
       "comments": "https://news.ycombinator.com/item?id=47831742"
     },
     {
-      "title": "Corner-Case RCU Implementations",
-      "link": "https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations",
+      "title": "Edit store price tags using Flipper Zero",
+      "link": "https://github.com/i12bp8/TagTinker",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T00:13:39Z",
-      "id": "eebad27c3f9fa0bd01f3d29c06f51703",
-      "comments": "https://news.ycombinator.com/item?id=47828927"
-    },
-    {
-      "title": "Tim Davis \u2013 Probabilistic engineering and the 24-7 employee",
-      "link": "https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T10:03:01Z",
-      "id": "9b28c6904c6a87f06e1127b42b18557d",
-      "comments": "https://news.ycombinator.com/item?id=47823135"
+      "published": "2026-04-19T09:26:04Z",
+      "id": "0a008d56331c10bb7f421f90381d96bd",
+      "comments": "https://news.ycombinator.com/item?id=47822978"
     },
     {
       "title": "Modern Rendering Culling Techniques",
@@ -263,12 +254,21 @@
       "comments": "https://news.ycombinator.com/item?id=47811668"
     },
     {
-      "title": "How a subsea cable is repaired",
+      "title": "Kefir C17/C23 Compiler",
+      "link": "https://sr.ht/~jprotopopov/kefir/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T22:12:59Z",
+      "id": "862c9ec31d79f4cb28bf22682d3fc200",
+      "comments": "https://news.ycombinator.com/item?id=47811154"
+    },
+    {
+      "title": "How a subsea cable is repaired (2021)",
       "link": "https://www.onesteppower.com/post/subsea-cable-repair",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-16T18:25:28Z",
-      "id": "cc960959ce636ae8bc440b602056c0fa",
+      "id": "3ddfc0d245241425ef2be52ee8fb3a13",
       "comments": "https://news.ycombinator.com/item?id=47797457"
     }
   ]
