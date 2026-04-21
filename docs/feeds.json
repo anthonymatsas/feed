@@ -1,68 +1,86 @@
 {
-  "last_updated": "2026-04-20T21:42:00.020693Z",
+  "last_updated": "2026-04-21T02:10:03.744937Z",
   "items": [
     {
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
+      "title": "How to Make a Fast Dynamic Language Interpreter",
+      "link": "https://zef-lang.dev/implementation",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T00:48:07Z",
+      "id": "9361e49a5f02d03720f5adb904c2bd28",
+      "comments": "https://news.ycombinator.com/item?id=47843194"
+    },
+    {
+      "title": "Even 'uncensored' models can't say what they want",
+      "link": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T22:43:29Z",
+      "id": "4c9b11bedf677444b7758fa793fa79a3",
+      "comments": "https://news.ycombinator.com/item?id=47842021"
+    },
+    {
+      "title": "Monero Community Crowdfunding System",
+      "link": "https://ccs.getmonero.org/ideas/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T21:33:15Z",
+      "id": "3f65bc2ed71cbaf8765383fadd8f3dff",
+      "comments": "https://news.ycombinator.com/item?id=47841149"
+    },
+    {
+      "title": "Jujutsu megamerges for fun and profit",
+      "link": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T21:32:10Z",
+      "id": "82045f00eacf1dc270699283ea3e51fe",
+      "comments": "https://news.ycombinator.com/item?id=47841129"
+    },
+    {
+      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \u201cprompt relevance\u201d",
       "link": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-20T21:20:52Z",
-      "id": "afa8772d6518bc689227d7f5bf133eaa",
+      "id": "2b98199596e33387100dd1620d2ca946",
       "comments": "https://news.ycombinator.com/item?id=47840980"
     },
     {
-      "title": "Show HN: Docker Compose for VM's",
+      "title": "Show HN: Holos \u2013 QEMU/KVM with a compose-style YAML, GPUs and health checks",
       "link": "https://github.com/zeroecco/holos",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-20T21:13:49Z",
-      "id": "e957cb6041a8f7d2a9eb15da3db30beb",
+      "id": "e0dded425ebf0ef28057b520b4bb5f12",
       "comments": "https://news.ycombinator.com/item?id=47840851"
     },
     {
-      "title": "Tim Cook to become Apple Executive Chairman. John Ternus to become CEO",
+      "title": "John Ternus to become Apple CEO",
       "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-20T20:39:32Z",
-      "id": "ad4ce547d241c4cf0ffcb2c6f2aeed53",
+      "id": "65c18bfc5171daba694711c05afe1f4c",
       "comments": "https://news.ycombinator.com/item?id=47840219"
     },
     {
-      "title": "Tim Cook Stepping Down",
-      "link": "https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T20:35:54Z",
-      "id": "ce3cf012902fb4df0f3d39f25d6e9e05",
-      "comments": "https://news.ycombinator.com/item?id=47840165"
-    },
-    {
-      "title": "AI Resistance Is Growing",
-      "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T20:19:13Z",
-      "id": "c1f320112f438b1a27559d45cf6469ac",
-      "comments": "https://news.ycombinator.com/item?id=47839951"
-    },
-    {
-      "title": "F-35 is a masterpiece built for the wrong war",
+      "title": "F-35 is built for the wrong war",
       "link": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-20T20:07:35Z",
-      "id": "ad249d8172f8eeeee6cbf5ce121cd7ad",
+      "id": "487c27a093d58e112782cc93c8d302fd",
       "comments": "https://news.ycombinator.com/item?id=47839835"
     },
     {
-      "title": "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
-      "link": "https://github.com/Luce-Org/lucebox-hub",
+      "title": "Soul Player C64 \u2013 A real transformer running on a 1 MHz Commodore 64",
+      "link": "https://github.com/gizmo64k/soulplayer-c64",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T18:46:22Z",
-      "id": "5aab11df456264b618a30cf2826209b7",
-      "comments": "https://news.ycombinator.com/item?id=47838788"
+      "published": "2026-04-20T19:51:07Z",
+      "id": "9d9bc2e7d49ec909508ba6c30296641f",
+      "comments": "https://news.ycombinator.com/item?id=47839645"
     },
     {
       "title": "Kimi vendor verifier \u2013 verify accuracy of inference providers",
@@ -92,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47836784"
     },
     {
-      "title": "We accepted surveillance as default",
-      "link": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T16:34:25Z",
-      "id": "26f0c1f8aa16711242a6b6bf76e89554",
-      "comments": "https://news.ycombinator.com/item?id=47836730"
-    },
-    {
       "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
       "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
       "source": "Hacker News",
@@ -108,15 +117,6 @@
       "published": "2026-04-20T15:41:02Z",
       "id": "aac5aa22d73791754864b6519f3b99ae",
       "comments": "https://news.ycombinator.com/item?id=47835928"
-    },
-    {
-      "title": "Not buying another Kindle",
-      "link": "https://www.androidauthority.com/amazon-kindle-2026-3657863/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T15:30:17Z",
-      "id": "f6d0941994474e5d1cf3c3dd6a438896",
-      "comments": "https://news.ycombinator.com/item?id=47835775"
     },
     {
       "title": "Kimi K2.6: Advancing open-source coding",
@@ -135,6 +135,15 @@
       "published": "2026-04-20T14:05:34Z",
       "id": "be02347a1ad04aad2fa5d9cccb3b2f9b",
       "comments": "https://news.ycombinator.com/item?id=47834565"
+    },
+    {
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T13:41:25Z",
+      "id": "84e321da8f3dca2faca5a689e5cf7ced",
+      "comments": "https://news.ycombinator.com/item?id=47834195"
     },
     {
       "title": "Sauna effect on heart rate",
@@ -173,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47832969"
     },
     {
-      "title": "Figma's woes compound with Claude Design",
-      "link": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T10:26:35Z",
-      "id": "829ad1f37507ae7b7cd888844a664b38",
-      "comments": "https://news.ycombinator.com/item?id=47832366"
-    },
-    {
       "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
       "source": "Hacker News",
@@ -200,24 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=47831742"
     },
     {
-      "title": "GitHub's fake star economy",
-      "link": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T08:26:52Z",
-      "id": "105aa1a181c6bc84f209a861cf1de602",
-      "comments": "https://news.ycombinator.com/item?id=47831621"
-    },
-    {
-      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-      "link": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T07:49:48Z",
-      "id": "83cfd7868cd7375259fcf4b462ce55b2",
-      "comments": "https://news.ycombinator.com/item?id=47831437"
-    },
-    {
       "title": "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
       "link": "https://mastodon.social/@jdm_/116429380667467307",
       "source": "Hacker News",
@@ -225,15 +207,6 @@
       "published": "2026-04-19T19:19:48Z",
       "id": "625c822f6fa42dd4feee26e11234dffe",
       "comments": "https://news.ycombinator.com/item?id=47826839"
-    },
-    {
-      "title": "The Work Runs on Different Maps",
-      "link": "https://yusufaytas.com/the-work-runs-on-different-maps",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T10:09:56Z",
-      "id": "b5adc49c6591a6d362a286a6635415a0",
-      "comments": "https://news.ycombinator.com/item?id=47823153"
     },
     {
       "title": "Modern Rendering Culling Techniques",
@@ -245,6 +218,24 @@
       "comments": "https://news.ycombinator.com/item?id=47822549"
     },
     {
+      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "link": "https://prismml.com/news/ternary-bonsai",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T02:51:34Z",
+      "id": "c0d6aedb9cc80b99890ef48954ebf4b1",
+      "comments": "https://news.ycombinator.com/item?id=47812749"
+    },
+    {
+      "title": "Japan's Cherry Blossom Database, 1,200 Years Old, Has a New Keeper",
+      "link": "https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T23:22:38Z",
+      "id": "4350a20d27f1f6d40e775cfe07abd273",
+      "comments": "https://news.ycombinator.com/item?id=47811668"
+    },
+    {
       "title": "Kefir C17/C23 Compiler",
       "link": "https://sr.ht/~jprotopopov/kefir/",
       "source": "Hacker News",
@@ -254,22 +245,31 @@
       "comments": "https://news.ycombinator.com/item?id=47811154"
     },
     {
-      "title": "Writing string.h functions using string instructions in asm x86-64",
+      "title": "Year of the IPv6 Overlay Network",
+      "link": "https://www.defined.net/blog/year-of-the-ipv6-overlay-network/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-17T18:58:36Z",
+      "id": "e08d6f4d6ebc7c06a688e81e59d8d1ad",
+      "comments": "https://news.ycombinator.com/item?id=47809338"
+    },
+    {
+      "title": "Writing string.h functions using string instructions in asm x86-64 (2025)",
       "link": "https://pmasschelier.github.io/x86_64_strings/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-17T16:22:36Z",
-      "id": "7d9c8a2374533bafb8c69f239abb03e5",
+      "id": "0a487f9dffc0348981a6d7da60878f8b",
       "comments": "https://news.ycombinator.com/item?id=47807609"
     },
     {
-      "title": "I learned Unity the wrong way",
-      "link": "https://darkounity.com/blog/how-i-learned-unity-the-wrong-way",
+      "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
+      "link": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-16T07:59:34Z",
-      "id": "42678585092185529e3d567dcb9317fa",
-      "comments": "https://news.ycombinator.com/item?id=47790041"
+      "published": "2026-04-16T06:11:40Z",
+      "id": "2ff2b3f65bcee581ccf1e6dbabd43b1d",
+      "comments": "https://news.ycombinator.com/item?id=47789291"
     }
   ]
 }
