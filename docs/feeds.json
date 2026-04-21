@@ -1,14 +1,59 @@
 {
-  "last_updated": "2026-04-21T10:16:01.395634Z",
+  "last_updated": "2026-04-21T13:16:51.894195Z",
   "items": [
     {
-      "title": "Using Changesets in a polyglot monorepo",
-      "link": "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/",
+      "title": "Show HN: Antenna \u2013 RSS reader with a built-in MCP server",
+      "link": "https://antennafeed.com/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-21T06:25:50Z",
-      "id": "a8629e78b27a159d86215be675a12746",
-      "comments": "https://news.ycombinator.com/item?id=47845274"
+      "published": "2026-04-21T12:53:44Z",
+      "id": "22c78b55087d50dc78d1afd342681d50",
+      "comments": "https://news.ycombinator.com/item?id=47848110"
+    },
+    {
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "link": "https://vidstudio.app/video-editor",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T11:58:16Z",
+      "id": "2667b3e560dc812545637710cfb35d0c",
+      "comments": "https://news.ycombinator.com/item?id=47847558"
+    },
+    {
+      "title": "Tim Cook's Impeccable Timing",
+      "link": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T11:30:03Z",
+      "id": "aab37c1948caa7f43cdc15dfd72c7a11",
+      "comments": "https://news.ycombinator.com/item?id=47847324"
+    },
+    {
+      "title": "Laws of Software Engineering",
+      "link": "https://lawsofsoftwareengineering.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T11:04:56Z",
+      "id": "74bf7adfeaa716534ba7e71fc43f7e43",
+      "comments": "https://news.ycombinator.com/item?id=47847179"
+    },
+    {
+      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+      "link": "https://fsfe.org/news/2026/news-20260420-01.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T10:57:53Z",
+      "id": "2190be74abea03b4ff2fb4e858c5f906",
+      "comments": "https://news.ycombinator.com/item?id=47847124"
+    },
+    {
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "link": "https://codemix.com/graph",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T10:33:24Z",
+      "id": "bfaecaa5f7ee16ca09854dcf32255274",
+      "comments": "https://news.ycombinator.com/item?id=47846946"
     },
     {
       "title": "Louis Zocchi, inventor of the d100, has died",
@@ -18,15 +63,6 @@
       "published": "2026-04-21T06:19:15Z",
       "id": "dfcd168b04b3ae6db2b580351655a43b",
       "comments": "https://news.ycombinator.com/item?id=47845231"
-    },
-    {
-      "title": "A mad undertaking: An undefinitive guide to the Aadam Jacobs collection",
-      "link": "https://aadamjacobscollection.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T06:12:41Z",
-      "id": "a3b55d8481a3bf0fa1e94e1322c79b35",
-      "comments": "https://news.ycombinator.com/item?id=47845187"
     },
     {
       "title": "Types and Neural Networks",
@@ -92,15 +128,6 @@
       "comments": "https://news.ycombinator.com/item?id=47841149"
     },
     {
-      "title": "Jujutsu megamerges for fun and profit",
-      "link": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T21:32:10Z",
-      "id": "82045f00eacf1dc270699283ea3e51fe",
-      "comments": "https://news.ycombinator.com/item?id=47841129"
-    },
-    {
       "title": "John Ternus to become Apple CEO",
       "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
       "source": "Hacker News",
@@ -108,15 +135,6 @@
       "published": "2026-04-20T20:39:32Z",
       "id": "65c18bfc5171daba694711c05afe1f4c",
       "comments": "https://news.ycombinator.com/item?id=47840219"
-    },
-    {
-      "title": "Soul Player C64 \u2013 A real transformer running on a 1 MHz Commodore 64",
-      "link": "https://github.com/gizmo64k/soulplayer-c64",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T19:51:07Z",
-      "id": "9d9bc2e7d49ec909508ba6c30296641f",
-      "comments": "https://news.ycombinator.com/item?id=47839645"
     },
     {
       "title": "Kimi vendor verifier \u2013 verify accuracy of inference providers",
@@ -164,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47834565"
     },
     {
-      "title": "All phones sold in the EU to have replaceable batteries from 2027",
-      "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T13:41:25Z",
-      "id": "84e321da8f3dca2faca5a689e5cf7ced",
-      "comments": "https://news.ycombinator.com/item?id=47834195"
-    },
-    {
       "title": "ggsql: A Grammar of Graphics for SQL",
       "link": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
       "source": "Hacker News",
@@ -180,15 +189,6 @@
       "published": "2026-04-20T12:51:20Z",
       "id": "43d50323608b171493f935af026efca9",
       "comments": "https://news.ycombinator.com/item?id=47833558"
-    },
-    {
-      "title": "WebUSB Extension for Firefox",
-      "link": "https://github.com/ArcaneNibble/awawausb",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T11:51:04Z",
-      "id": "37dd3754632ba28215eb88ed1cf49590",
-      "comments": "https://news.ycombinator.com/item?id=47832969"
     },
     {
       "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
@@ -200,22 +200,22 @@
       "comments": "https://news.ycombinator.com/item?id=47831742"
     },
     {
-      "title": "Edit store price tags using Flipper Zero",
-      "link": "https://github.com/i12bp8/TagTinker",
+      "title": "High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction",
+      "link": "https://jchandra.com/posts/hae-ols/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T09:26:04Z",
-      "id": "0a008d56331c10bb7f421f90381d96bd",
-      "comments": "https://news.ycombinator.com/item?id=47822978"
+      "published": "2026-04-19T11:35:23Z",
+      "id": "2096943381458f8987ca8c84ffe6a376",
+      "comments": "https://news.ycombinator.com/item?id=47823549"
     },
     {
-      "title": "Modern Rendering Culling Techniques",
-      "link": "https://krupitskas.com/posts/modern_culling_techniques/",
+      "title": "The purist's guide to ph\u1edf in Hanoi",
+      "link": "https://connla.substack.com/p/pho-in-hanoi-a-purists-guide",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T07:54:11Z",
-      "id": "01e3d9d128a370d9bc9b8f470f6289b0",
-      "comments": "https://news.ycombinator.com/item?id=47822549"
+      "published": "2026-04-19T08:34:10Z",
+      "id": "e68dcdd075777ae7deaadf23c31edc0e",
+      "comments": "https://news.ycombinator.com/item?id=47822742"
     },
     {
       "title": "Bullshit About Bullshit Machines [pdf]",
@@ -236,6 +236,15 @@
       "comments": "https://news.ycombinator.com/item?id=47819738"
     },
     {
+      "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
+      "link": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-18T12:41:00Z",
+      "id": "69cf2340a5b14f1af83c830eb3cbb09e",
+      "comments": "https://news.ycombinator.com/item?id=47815462"
+    },
+    {
       "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
       "link": "https://prismml.com/news/ternary-bonsai",
       "source": "Hacker News",
@@ -252,15 +261,6 @@
       "published": "2026-04-17T23:22:38Z",
       "id": "00fb6154b82612a1a633524a0f41ad50",
       "comments": "https://news.ycombinator.com/item?id=47811668"
-    },
-    {
-      "title": "Kefir C17/C23 Compiler",
-      "link": "https://sr.ht/~jprotopopov/kefir/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-17T22:12:59Z",
-      "id": "862c9ec31d79f4cb28bf22682d3fc200",
-      "comments": "https://news.ycombinator.com/item?id=47811154"
     },
     {
       "title": "How a subsea cable is repaired (2021)",
