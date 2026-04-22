@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-22T05:21:40.377375Z",
+  "last_updated": "2026-04-22T07:26:41.071526Z",
   "items": [
+    {
+      "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T06:38:05Z",
+      "id": "197a51d61ea5f10e4ce5bb086b210049",
+      "comments": "https://news.ycombinator.com/item?id=47859861"
+    },
     {
       "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
       "link": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
@@ -11,13 +20,13 @@
       "comments": "https://news.ycombinator.com/item?id=47858246"
     },
     {
-      "title": "Global growth in solar \"the largest ever observed for any source\"",
-      "link": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+      "title": "Kuri \u2013 Zig based agent-browser alternative",
+      "link": "https://github.com/justrach/kuri",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T01:25:04Z",
-      "id": "070d178289ac12f170d97cff30a893b3",
-      "comments": "https://news.ycombinator.com/item?id=47857509"
+      "published": "2026-04-22T02:15:38Z",
+      "id": "57c9fd8a0716217d7e393a814e9de2aa",
+      "comments": "https://news.ycombinator.com/item?id=47857964"
     },
     {
       "title": "Drunk post: Things I've learned as a senior engineer (2021)",
@@ -110,13 +119,13 @@
       "comments": "https://news.ycombinator.com/item?id=47850212"
     },
     {
-      "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
-      "link": "https://github.com/ENTERPILOT/GOModel/",
+      "title": "Fusion Power Plant Simulator",
+      "link": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-21T14:11:53Z",
-      "id": "fc31b093af033b9eeb7db5aca5e2c551",
-      "comments": "https://news.ycombinator.com/item?id=47849097"
+      "published": "2026-04-21T14:26:52Z",
+      "id": "5a8b24dbf1468a9d55fa4ae251ebb99c",
+      "comments": "https://news.ycombinator.com/item?id=47849315"
     },
     {
       "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
@@ -173,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47835837"
     },
     {
-      "title": "My practitioner view of program analysis",
-      "link": "https://sawyer.dev/posts/practitioner-program-analysis/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T15:27:30Z",
-      "id": "5051106900ed021bae6c633a89aa8790",
-      "comments": "https://news.ycombinator.com/item?id=47835728"
-    },
-    {
       "title": "Acetaminophen vs. ibuprofen",
       "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
       "source": "Hacker News",
@@ -189,15 +189,6 @@
       "published": "2026-04-20T15:21:16Z",
       "id": "725ea1ca5032e11ddae559b74a57c48c",
       "comments": "https://news.ycombinator.com/item?id=47835635"
-    },
-    {
-      "title": "Theseus, a Static Windows Emulator",
-      "link": "https://neugierig.org/software/blog/2026/04/theseus.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T04:14:48Z",
-      "id": "232ad6900c421071c64016036437f132",
-      "comments": "https://news.ycombinator.com/item?id=47830332"
     },
     {
       "title": "Hunting a 34 year old pointer bug in EtherSlip",
@@ -209,15 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=47827991"
     },
     {
-      "title": "Clarus, Moofo, and Lackey",
-      "link": "https://www.storybytes.com/view-moof/articles/mim.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T19:10:21Z",
-      "id": "e865a7eed5186bd6002109f2cb828504",
-      "comments": "https://news.ycombinator.com/item?id=47826768"
-    },
-    {
       "title": "Some secret management belongs in your HTTP proxy",
       "link": "https://blog.exe.dev/http-proxy-secrets",
       "source": "Hacker News",
@@ -227,6 +209,15 @@
       "comments": "https://news.ycombinator.com/item?id=47825888"
     },
     {
+      "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
+      "link": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T11:53:31Z",
+      "id": "c30c9d89209d8f1bd44efa99fa4b346c",
+      "comments": "https://news.ycombinator.com/item?id=47823654"
+    },
+    {
       "title": "Edit store price tags using Flipper Zero",
       "link": "https://github.com/i12bp8/TagTinker",
       "source": "Hacker News",
@@ -234,6 +225,15 @@
       "published": "2026-04-19T09:26:04Z",
       "id": "0a008d56331c10bb7f421f90381d96bd",
       "comments": "https://news.ycombinator.com/item?id=47822978"
+    },
+    {
+      "title": "Garbage Collection Without Unsafe Code",
+      "link": "https://fitzgen.com/2024/02/06/safe-gc.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T04:41:59Z",
+      "id": "caa77f3d5f9e027de429dc308b2901ab",
+      "comments": "https://news.ycombinator.com/item?id=47821853"
     },
     {
       "title": "Windows Server 2025 Runs Better on ARM",
