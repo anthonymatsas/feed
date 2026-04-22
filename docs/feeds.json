@@ -1,23 +1,32 @@
 {
-  "last_updated": "2026-04-22T07:26:41.071526Z",
+  "last_updated": "2026-04-22T10:16:36.773244Z",
   "items": [
     {
-      "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+      "title": "Windows 9x Subsystem for Linux",
+      "link": "https://social.hails.org/@hailey/116446826733136456",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T06:38:05Z",
-      "id": "197a51d61ea5f10e4ce5bb086b210049",
-      "comments": "https://news.ycombinator.com/item?id=47859861"
+      "published": "2026-04-22T09:52:52Z",
+      "id": "ab9bbc45d9cd0423848892e0d1cc5687",
+      "comments": "https://news.ycombinator.com/item?id=47861270"
     },
     {
-      "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
-      "link": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
+      "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+      "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T02:49:40Z",
-      "id": "c3e1aece345e88b3ec84e0a060307dc3",
-      "comments": "https://news.ycombinator.com/item?id=47858246"
+      "published": "2026-04-22T09:02:46Z",
+      "id": "51e4fc14521eda7f4bcb3994b7df7365",
+      "comments": "https://news.ycombinator.com/item?id=47860961"
+    },
+    {
+      "title": "What Async Promised and What It Delivered",
+      "link": "https://causality.blog/essays/what-async-promised/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T05:28:58Z",
+      "id": "e31a23521928290f5d6b1e3eeddbddb2",
+      "comments": "https://news.ycombinator.com/item?id=47859442"
     },
     {
       "title": "Kuri \u2013 Zig based agent-browser alternative",
@@ -128,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47849315"
     },
     {
-      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-      "link": "https://vidstudio.app/video-editor",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T11:58:16Z",
-      "id": "2667b3e560dc812545637710cfb35d0c",
-      "comments": "https://news.ycombinator.com/item?id=47847558"
-    },
-    {
       "title": "Laws of Software Engineering",
       "link": "https://lawsofsoftwareengineering.com",
       "source": "Hacker News",
@@ -191,22 +191,31 @@
       "comments": "https://news.ycombinator.com/item?id=47835635"
     },
     {
-      "title": "Hunting a 34 year old pointer bug in EtherSlip",
-      "link": "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html",
+      "title": "All your agents are going async",
+      "link": "https://zknill.io/posts/all-your-agents-are-going-async/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T21:57:25Z",
-      "id": "b9bf2643dd19a9c00ea2ebaa2bbd5546",
-      "comments": "https://news.ycombinator.com/item?id=47827991"
+      "published": "2026-04-20T11:18:57Z",
+      "id": "fc96b95b0616814ce5aa8a475fd4707b",
+      "comments": "https://news.ycombinator.com/item?id=47832720"
     },
     {
-      "title": "Some secret management belongs in your HTTP proxy",
-      "link": "https://blog.exe.dev/http-proxy-secrets",
+      "title": "Rock carving facts \u2013 Tanum Sweden",
+      "link": "https://www.tanumworldheritage.se/rock-carving-facts/?lang=en",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T17:19:32Z",
-      "id": "4e82b15c5b2325730ac6250731d1e97f",
-      "comments": "https://news.ycombinator.com/item?id=47825888"
+      "published": "2026-04-20T05:21:12Z",
+      "id": "37be5db73a77893e11e29da218e77260",
+      "comments": "https://news.ycombinator.com/item?id=47830633"
+    },
+    {
+      "title": "Context Is Software, Weights Are Hardware",
+      "link": "https://www.aravindjayendran.com/writing/context-is-not-learning",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T12:29:35Z",
+      "id": "25d1bc5f7fa83f963632280d5a294732",
+      "comments": "https://news.ycombinator.com/item?id=47823814"
     },
     {
       "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
@@ -245,22 +254,13 @@
       "comments": "https://news.ycombinator.com/item?id=47821801"
     },
     {
-      "title": "20000 Gates and 20 MIPS [pdf]",
-      "link": "https://bitsavers.org/pdf/amdahl/history/20000_Gates_and_20_MIPS_199011.pdf",
+      "title": "MuJoCo \u2013 Advanced Physics Simulation",
+      "link": "https://github.com/google-deepmind/mujoco",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-18T22:08:48Z",
-      "id": "c1d73491f5ad545402bc2fc35aa299f1",
-      "comments": "https://news.ycombinator.com/item?id=47819939"
-    },
-    {
-      "title": "Running a Minecraft Server and more on a 1960s UNIVAC Computer",
-      "link": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T12:41:00Z",
-      "id": "4ca444b7dbdded821f8afba5f00f945d",
-      "comments": "https://news.ycombinator.com/item?id=47815462"
+      "published": "2026-04-19T00:34:11Z",
+      "id": "0afe4238bbc4d40207232e970e73cdf9",
+      "comments": "https://news.ycombinator.com/item?id=47820791"
     },
     {
       "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
