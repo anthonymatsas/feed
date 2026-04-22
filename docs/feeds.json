@@ -1,23 +1,50 @@
 {
-  "last_updated": "2026-04-21T21:41:09.697415Z",
+  "last_updated": "2026-04-22T02:08:25.832629Z",
   "items": [
     {
-      "title": "Claude Code removed from Anthropic's Pro plan",
-      "link": "https://claude.com/pricing",
+      "title": "Global growth in solar \"the largest ever observed for any source\"",
+      "link": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-21T21:03:04Z",
-      "id": "cc8e61998b24463308d64c40cdc8a8e5",
-      "comments": "https://news.ycombinator.com/item?id=47854477"
+      "published": "2026-04-22T01:25:04Z",
+      "id": "070d178289ac12f170d97cff30a893b3",
+      "comments": "https://news.ycombinator.com/item?id=47857509"
     },
     {
-      "title": "California has more money than projected after admin miscalculated state budget",
-      "link": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
+      "title": "San Diego rents declined more than 19 of 20 top US markets after surge in supply",
+      "link": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-21T20:28:57Z",
-      "id": "40475d6ee3b8d8b802d6688a5a830961",
-      "comments": "https://news.ycombinator.com/item?id=47854125"
+      "published": "2026-04-22T01:21:09Z",
+      "id": "4e4df67664e4c907c4964c7053eea734",
+      "comments": "https://news.ycombinator.com/item?id=47857477"
+    },
+    {
+      "title": "I'm Sick of AI Everything",
+      "link": "https://news.ycombinator.com/item?id=47857461",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T01:19:30Z",
+      "id": "173ffedcca9e06673e8935ec6d1dcfec",
+      "comments": "https://news.ycombinator.com/item?id=47857461"
+    },
+    {
+      "title": "Drunk Post: Things I've Learned as a Senior Engineer",
+      "link": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T23:53:45Z",
+      "id": "8e97d99df9aa68204001253160ccec46",
+      "comments": "https://news.ycombinator.com/item?id=47856535"
+    },
+    {
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "link": "https://twitter.com/spacex/status/2046713419978453374",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T22:13:18Z",
+      "id": "2493fa70ed2bdfca1b12354ef4516fde",
+      "comments": "https://news.ycombinator.com/item?id=47855293"
     },
     {
       "title": "Zindex \u2013 Diagram Infrastructure for Agents",
@@ -29,13 +56,13 @@
       "comments": "https://news.ycombinator.com/item?id=47854116"
     },
     {
-      "title": "I don't want your PRs anymore",
-      "link": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+      "title": "ChatGPT Images 2.0",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-21T20:21:40Z",
-      "id": "8f62c9d0511df854744c6faad9fd0c49",
-      "comments": "https://news.ycombinator.com/item?id=47854051"
+      "published": "2026-04-21T18:50:00Z",
+      "id": "dd1ac485470fa7b260fb491a09bcbe88",
+      "comments": "https://news.ycombinator.com/item?id=47852835"
     },
     {
       "title": "Framework Laptop 13 Pro",
@@ -56,12 +83,12 @@
       "comments": "https://news.ycombinator.com/item?id=47852155"
     },
     {
-      "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
-      "link": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
+      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-21T17:40:39Z",
-      "id": "53fbf8f20ac92d1effc1c56475fce892",
+      "id": "d7ac6f7dba0fadaa915ac1f2513611d2",
       "comments": "https://news.ycombinator.com/item?id=47851948"
     },
     {
@@ -101,31 +128,13 @@
       "comments": "https://news.ycombinator.com/item?id=47851456"
     },
     {
-      "title": "A Periodic Map of Cheese",
-      "link": "https://cheesemap.netlify.app/",
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "link": "https://www.brex.com/crabtrap",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-21T16:31:21Z",
-      "id": "1e6ef5c303cbc36a4f4c196836abceff",
-      "comments": "https://news.ycombinator.com/item?id=47851077"
-    },
-    {
-      "title": "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
-      "link": "https://github.com/Yus314/kasane",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T15:53:22Z",
-      "id": "c1810c7b370912790b563e2cc94f9b0f",
-      "comments": "https://news.ycombinator.com/item?id=47850542"
-    },
-    {
-      "title": "Fusion Power Plant Simulator",
-      "link": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T14:26:52Z",
-      "id": "5a8b24dbf1468a9d55fa4ae251ebb99c",
-      "comments": "https://news.ycombinator.com/item?id=47849315"
+      "published": "2026-04-21T15:29:16Z",
+      "id": "178c83cbaa5ad18fd006904ddf4905c8",
+      "comments": "https://news.ycombinator.com/item?id=47850212"
     },
     {
       "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
@@ -146,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47847558"
     },
     {
-      "title": "Tim Cook's Impeccable Timing",
-      "link": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T11:30:03Z",
-      "id": "aab37c1948caa7f43cdc15dfd72c7a11",
-      "comments": "https://news.ycombinator.com/item?id=47847324"
-    },
-    {
       "title": "Laws of Software Engineering",
       "link": "https://lawsofsoftwareengineering.com",
       "source": "Hacker News",
@@ -173,22 +173,13 @@
       "comments": "https://news.ycombinator.com/item?id=47846946"
     },
     {
-      "title": "Colorado River disappeared record for 5M years: now we know where it was",
-      "link": "https://phys.org/news/2026-04-colorado-river-geological-million-years.html",
+      "title": "Changes to GitHub Copilot individual plans",
+      "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T17:05:29Z",
-      "id": "44806500187a47762df5be227579118e",
-      "comments": "https://news.ycombinator.com/item?id=47837260"
-    },
-    {
-      "title": "Show HN: Ctx \u2013 a /resume that works across Claude Code and Codex",
-      "link": "https://github.com/dchu917/ctx",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T16:35:05Z",
-      "id": "22ddf55446f528859ddaa9de8d28edd0",
-      "comments": "https://news.ycombinator.com/item?id=47836740"
+      "published": "2026-04-20T18:24:05Z",
+      "id": "dfb3565294f1806f4a6eefd243c61bb1",
+      "comments": "https://news.ycombinator.com/item?id=47838508"
     },
     {
       "title": "My practitioner view of program analysis",
@@ -200,22 +191,22 @@
       "comments": "https://news.ycombinator.com/item?id=47835728"
     },
     {
-      "title": "Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
-      "link": "https://mediator.ai/",
+      "title": "The Mystery in the Medicine Cabinet: Acetaminophen, ibuprofen, and what to know",
+      "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T15:07:04Z",
-      "id": "225b059b5207453cdb3c420977dc1403",
-      "comments": "https://news.ycombinator.com/item?id=47835411"
+      "published": "2026-04-20T15:21:16Z",
+      "id": "a0e4002a45bbff4418611837b487c630",
+      "comments": "https://news.ycombinator.com/item?id=47835635"
     },
     {
-      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
-      "link": "http://mnt.stanleylieber.com/reform/",
+      "title": "Fields Medal Video: Maryna Viazovska (2022)",
+      "link": "https://www.simonsfoundation.org/2022/07/05/fields-medal-video-maryna-viazovska/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T14:14:52Z",
-      "id": "bb04145b5db90d24bfdb9351722447c4",
-      "comments": "https://news.ycombinator.com/item?id=47834689"
+      "published": "2026-04-20T05:30:06Z",
+      "id": "4b7b0a5bcc819dcaa3a75c093aef450c",
+      "comments": "https://news.ycombinator.com/item?id=47830687"
     },
     {
       "title": "Theseus, a Static Windows Emulator",
@@ -225,15 +216,6 @@
       "published": "2026-04-20T04:14:48Z",
       "id": "232ad6900c421071c64016036437f132",
       "comments": "https://news.ycombinator.com/item?id=47830332"
-    },
-    {
-      "title": "Modern Front end Complexity: essential or accidental?",
-      "link": "https://binaryigor.com/modern-frontend-complexity.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T13:10:51Z",
-      "id": "e47796653e097cd733f20f4b0b817ee1",
-      "comments": "https://news.ycombinator.com/item?id=47824051"
     },
     {
       "title": "In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition",
@@ -254,6 +236,24 @@
       "comments": "https://news.ycombinator.com/item?id=47822978"
     },
     {
+      "title": "Show HN: Backlit Keyboard API for Python",
+      "link": "https://github.com/itsmeadarsh2008/backlit-kbd",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T06:52:00Z",
+      "id": "ff49d9e86e0aff8c2ebb9c9a6e276f2b",
+      "comments": "https://news.ycombinator.com/item?id=47822301"
+    },
+    {
+      "title": "Windows Server 2025 Runs Better on ARM",
+      "link": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T04:28:31Z",
+      "id": "f53a848e93d75ffd768cfe176751d5dd",
+      "comments": "https://news.ycombinator.com/item?id=47821801"
+    },
+    {
       "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
       "link": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
       "source": "Hacker News",
@@ -263,12 +263,12 @@
       "comments": "https://news.ycombinator.com/item?id=47815462"
     },
     {
-      "title": "10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
       "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-18T10:53:42Z",
-      "id": "28a5a989e1bf3d5df2938455b34c3617",
+      "id": "076b379647a0bb6e7ada4f5aeaf52149",
       "comments": "https://news.ycombinator.com/item?id=47814874"
     }
   ]
