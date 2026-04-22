@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-04-22T10:16:36.773244Z",
+  "last_updated": "2026-04-22T13:18:13.570100Z",
   "items": [
+    {
+      "title": "Columnar Storage Is Normalization",
+      "link": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T12:30:14Z",
+      "id": "fcbc2e8d588e9b0532c3a0921aa4e0ff",
+      "comments": "https://news.ycombinator.com/item?id=47862626"
+    },
+    {
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T12:15:29Z",
+      "id": "ffbbf3b8152314276ed1de62aac58453",
+      "comments": "https://news.ycombinator.com/item?id=47862497"
+    },
+    {
+      "title": "3.4M Solar Panels",
+      "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T12:04:30Z",
+      "id": "70a692b49d6e1d1eb540cdbfe15567c7",
+      "comments": "https://news.ycombinator.com/item?id=47862386"
+    },
+    {
+      "title": "GitHub CLI now collects pseudoanonymous telemetry",
+      "link": "https://cli.github.com/telemetry",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T11:58:58Z",
+      "id": "d966ab4ee35aeb29e17bdf13313f5347",
+      "comments": "https://news.ycombinator.com/item?id=47862331"
+    },
+    {
+      "title": "Kernel code removals driven by LLM-created security reports",
+      "link": "https://lwn.net/Articles/1068928/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T11:48:07Z",
+      "id": "bce103afe17083c30632cedef369c125",
+      "comments": "https://news.ycombinator.com/item?id=47862230"
+    },
+    {
+      "title": "Nobody Got Fired for Uber's $8M Ledger Mistake?",
+      "link": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T10:54:49Z",
+      "id": "0dc454c5340e74d5ab298a3dbda0b578",
+      "comments": "https://news.ycombinator.com/item?id=47861731"
+    },
+    {
+      "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+      "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T10:51:09Z",
+      "id": "f241f5dde3ae9f0d46e86d45b2490c69",
+      "comments": "https://news.ycombinator.com/item?id=47861703"
+    },
     {
       "title": "Windows 9x Subsystem for Linux",
       "link": "https://social.hails.org/@hailey/116446826733136456",
@@ -11,31 +74,22 @@
       "comments": "https://news.ycombinator.com/item?id=47861270"
     },
     {
-      "title": "Meta employees are up in arms over a mandatory program to train AI on their",
-      "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+      "title": "How the Heck Does GPS Work?",
+      "link": "https://perthirtysix.com/how-the-heck-does-gps-work",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T09:02:46Z",
-      "id": "51e4fc14521eda7f4bcb3994b7df7365",
-      "comments": "https://news.ycombinator.com/item?id=47860961"
+      "published": "2026-04-22T09:22:05Z",
+      "id": "0f136ca5a6be61d862ba91fb3efe34c7",
+      "comments": "https://news.ycombinator.com/item?id=47861087"
     },
     {
-      "title": "What Async Promised and What It Delivered",
-      "link": "https://causality.blog/essays/what-async-promised/",
+      "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T05:28:58Z",
-      "id": "e31a23521928290f5d6b1e3eeddbddb2",
-      "comments": "https://news.ycombinator.com/item?id=47859442"
-    },
-    {
-      "title": "Kuri \u2013 Zig based agent-browser alternative",
-      "link": "https://github.com/justrach/kuri",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T02:15:38Z",
-      "id": "57c9fd8a0716217d7e393a814e9de2aa",
-      "comments": "https://news.ycombinator.com/item?id=47857964"
+      "published": "2026-04-22T06:38:05Z",
+      "id": "197a51d61ea5f10e4ce5bb086b210049",
+      "comments": "https://news.ycombinator.com/item?id=47859861"
     },
     {
       "title": "Drunk post: Things I've learned as a senior engineer (2021)",
@@ -56,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47855293"
     },
     {
-      "title": "Claude Code to be removed from Anthropic's Pro plan?",
-      "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T21:03:04Z",
-      "id": "316b4e7396f4c3a2b4a4293c54394189",
-      "comments": "https://news.ycombinator.com/item?id=47854477"
-    },
-    {
       "title": "ChatGPT Images 2.0",
       "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "source": "Hacker News",
@@ -72,24 +117,6 @@
       "published": "2026-04-21T18:50:00Z",
       "id": "dd1ac485470fa7b260fb491a09bcbe88",
       "comments": "https://news.ycombinator.com/item?id=47852835"
-    },
-    {
-      "title": "Framework Laptop 13 Pro",
-      "link": "https://frame.work/laptop13pro",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T18:00:34Z",
-      "id": "cde0516547d04e34fe9b3d1c6d5fc90d",
-      "comments": "https://news.ycombinator.com/item?id=47852177"
-    },
-    {
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "link": "https://github.com/calcom/cal.diy",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T17:58:21Z",
-      "id": "ba0a64fca0558ecc68ff672b8f97ea28",
-      "comments": "https://news.ycombinator.com/item?id=47852155"
     },
     {
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
@@ -117,24 +144,6 @@
       "published": "2026-04-21T17:14:35Z",
       "id": "88f31b7de202fe9d36326c3a05315b83",
       "comments": "https://news.ycombinator.com/item?id=47851634"
-    },
-    {
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "link": "https://www.brex.com/crabtrap",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T15:29:16Z",
-      "id": "178c83cbaa5ad18fd006904ddf4905c8",
-      "comments": "https://news.ycombinator.com/item?id=47850212"
-    },
-    {
-      "title": "Fusion Power Plant Simulator",
-      "link": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T14:26:52Z",
-      "id": "5a8b24dbf1468a9d55fa4ae251ebb99c",
-      "comments": "https://news.ycombinator.com/item?id=47849315"
     },
     {
       "title": "Laws of Software Engineering",
@@ -173,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47838508"
     },
     {
-      "title": "A printing press for biological data",
-      "link": "https://www.owlposting.com/p/the-printing-press-for-biological",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T15:34:45Z",
-      "id": "cfd082a34351eb7747520920add913d4",
-      "comments": "https://news.ycombinator.com/item?id=47835837"
-    },
-    {
       "title": "Acetaminophen vs. ibuprofen",
       "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
       "source": "Hacker News",
@@ -189,6 +189,15 @@
       "published": "2026-04-20T15:21:16Z",
       "id": "725ea1ca5032e11ddae559b74a57c48c",
       "comments": "https://news.ycombinator.com/item?id=47835635"
+    },
+    {
+      "title": "I don't chain everything in JavaScript anymore",
+      "link": "https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T12:58:55Z",
+      "id": "b04ccd12970c945030e1b0c94e33f504",
+      "comments": "https://news.ycombinator.com/item?id=47833651"
     },
     {
       "title": "All your agents are going async",
@@ -200,24 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=47832720"
     },
     {
-      "title": "Rock carving facts \u2013 Tanum Sweden",
-      "link": "https://www.tanumworldheritage.se/rock-carving-facts/?lang=en",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T05:21:12Z",
-      "id": "37be5db73a77893e11e29da218e77260",
-      "comments": "https://news.ycombinator.com/item?id=47830633"
-    },
-    {
-      "title": "Context Is Software, Weights Are Hardware",
-      "link": "https://www.aravindjayendran.com/writing/context-is-not-learning",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T12:29:35Z",
-      "id": "25d1bc5f7fa83f963632280d5a294732",
-      "comments": "https://news.ycombinator.com/item?id=47823814"
-    },
-    {
       "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
       "link": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
       "source": "Hacker News",
@@ -227,13 +218,22 @@
       "comments": "https://news.ycombinator.com/item?id=47823654"
     },
     {
-      "title": "Edit store price tags using Flipper Zero",
-      "link": "https://github.com/i12bp8/TagTinker",
+      "title": "Why Musicians Are Manufacturing Sold-Out Shows",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T09:26:04Z",
-      "id": "0a008d56331c10bb7f421f90381d96bd",
-      "comments": "https://news.ycombinator.com/item?id=47822978"
+      "published": "2026-04-19T09:23:27Z",
+      "id": "40c3d4473506366915a79dd0fa358af4",
+      "comments": "https://news.ycombinator.com/item?id=47822968"
+    },
+    {
+      "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
+      "link": "https://arxiv.org/abs/2604.15039",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T05:58:16Z",
+      "id": "af8f8a263ecb1e7d759c453d118db4d3",
+      "comments": "https://news.ycombinator.com/item?id=47822117"
     },
     {
       "title": "Garbage Collection Without Unsafe Code",
