@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-22T13:18:13.570100Z",
+  "last_updated": "2026-04-22T16:06:17.819053Z",
   "items": [
+    {
+      "title": "DuckDB 1.5.2 \u2013 SQL database that runs on laptop, server, in the browser",
+      "link": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T14:49:02Z",
+      "id": "614f9aeae0bb41ddc8bfbe11769eff92",
+      "comments": "https://news.ycombinator.com/item?id=47864454"
+    },
+    {
+      "title": "Show HN submissions tripled and now mostly have the same vibe-coded look",
+      "link": "https://www.adriankrebs.ch/blog/design-slop/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T14:44:32Z",
+      "id": "aa184782c6a157fd6ea71e234c68e14e",
+      "comments": "https://news.ycombinator.com/item?id=47864393"
+    },
+    {
+      "title": "Treetops glowing during storms captured on film for first time",
+      "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T13:28:40Z",
+      "id": "29ee342764e66c6c24c368b792abbb09",
+      "comments": "https://news.ycombinator.com/item?id=47863324"
+    },
+    {
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "link": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T13:19:58Z",
+      "id": "9e258537d651bd24996fbd2edcc9c695",
+      "comments": "https://news.ycombinator.com/item?id=47863217"
+    },
     {
       "title": "Columnar Storage Is Normalization",
       "link": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
@@ -74,12 +110,12 @@
       "comments": "https://news.ycombinator.com/item?id=47861270"
     },
     {
-      "title": "How the Heck Does GPS Work?",
+      "title": "How does GPS work?",
       "link": "https://perthirtysix.com/how-the-heck-does-gps-work",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-22T09:22:05Z",
-      "id": "0f136ca5a6be61d862ba91fb3efe34c7",
+      "id": "30e0bd0bd036ac2a7044c6060863c7b1",
       "comments": "https://news.ycombinator.com/item?id=47861087"
     },
     {
@@ -110,6 +146,15 @@
       "comments": "https://news.ycombinator.com/item?id=47855293"
     },
     {
+      "title": "Another Day Has Come",
+      "link": "https://daringfireball.net/2026/04/another_day_has_come",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T20:52:19Z",
+      "id": "b29a8ae573cc53e2fc7b07f8ac994bdc",
+      "comments": "https://news.ycombinator.com/item?id=47854365"
+    },
+    {
       "title": "ChatGPT Images 2.0",
       "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "source": "Hacker News",
@@ -117,24 +162,6 @@
       "published": "2026-04-21T18:50:00Z",
       "id": "dd1ac485470fa7b260fb491a09bcbe88",
       "comments": "https://news.ycombinator.com/item?id=47852835"
-    },
-    {
-      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T17:40:39Z",
-      "id": "d7ac6f7dba0fadaa915ac1f2513611d2",
-      "comments": "https://news.ycombinator.com/item?id=47851948"
-    },
-    {
-      "title": "Britannica11.org \u2013 a structured edition of the 1911 Encyclop\u00e6dia Britannica",
-      "link": "https://britannica11.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T17:33:50Z",
-      "id": "c52019e83f14a02caa9ec8270e3a9819",
-      "comments": "https://news.ycombinator.com/item?id=47851885"
     },
     {
       "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
@@ -146,24 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47851634"
     },
     {
-      "title": "Laws of Software Engineering",
-      "link": "https://lawsofsoftwareengineering.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T11:04:56Z",
-      "id": "74bf7adfeaa716534ba7e71fc43f7e43",
-      "comments": "https://news.ycombinator.com/item?id=47847179"
-    },
-    {
-      "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-      "link": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T10:19:49Z",
-      "id": "34405d6bcfda9cdcd0345933844b5663",
-      "comments": "https://news.ycombinator.com/item?id=47846861"
-    },
-    {
       "title": "Making RAM at Home [video]",
       "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
       "source": "Hacker News",
@@ -173,13 +182,13 @@
       "comments": "https://news.ycombinator.com/item?id=47842569"
     },
     {
-      "title": "Changes to GitHub Copilot individual plans",
-      "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "title": "Expansion Artifacts",
+      "link": "https://mattstromawn.com/writing/expansion-artifacts/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T18:24:05Z",
-      "id": "dfb3565294f1806f4a6eefd243c61bb1",
-      "comments": "https://news.ycombinator.com/item?id=47838508"
+      "published": "2026-04-20T18:38:22Z",
+      "id": "f5e56d599c5a61dac509751d05528b84",
+      "comments": "https://news.ycombinator.com/item?id=47838680"
     },
     {
       "title": "Acetaminophen vs. ibuprofen",
@@ -189,15 +198,6 @@
       "published": "2026-04-20T15:21:16Z",
       "id": "725ea1ca5032e11ddae559b74a57c48c",
       "comments": "https://news.ycombinator.com/item?id=47835635"
-    },
-    {
-      "title": "I don't chain everything in JavaScript anymore",
-      "link": "https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T12:58:55Z",
-      "id": "b04ccd12970c945030e1b0c94e33f504",
-      "comments": "https://news.ycombinator.com/item?id=47833651"
     },
     {
       "title": "All your agents are going async",
@@ -218,13 +218,13 @@
       "comments": "https://news.ycombinator.com/item?id=47823654"
     },
     {
-      "title": "Why Musicians Are Manufacturing Sold-Out Shows",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows",
+      "title": "Monitor your Pi / OMP sessions",
+      "link": "https://github.com/BlackBeltTechnology/pi-agent-dashboard",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-19T09:23:27Z",
-      "id": "40c3d4473506366915a79dd0fa358af4",
-      "comments": "https://news.ycombinator.com/item?id=47822968"
+      "published": "2026-04-19T08:42:09Z",
+      "id": "4a353913f858f0410e6adff54fe6ddd6",
+      "comments": "https://news.ycombinator.com/item?id=47822783"
     },
     {
       "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47820791"
     },
     {
-      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-      "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "title": "Bodega Cats of New York",
+      "link": "https://bodegacatsofnewyork.com",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-18T10:53:42Z",
-      "id": "076b379647a0bb6e7ada4f5aeaf52149",
-      "comments": "https://news.ycombinator.com/item?id=47814874"
+      "published": "2026-04-18T02:26:57Z",
+      "id": "670da91a07340393cc3d5bac84f3392e",
+      "comments": "https://news.ycombinator.com/item?id=47812649"
     }
   ]
 }
