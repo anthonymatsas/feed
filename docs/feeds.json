@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-04-22T16:06:17.819053Z",
+  "last_updated": "2026-04-22T19:07:31.247046Z",
   "items": [
+    {
+      "title": "OpenAI: Workspace Agents for Business",
+      "link": "https://openai.com/business/workspace-agents/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T18:04:07Z",
+      "id": "4e8fb164c0309fb12640046d786b657e",
+      "comments": "https://news.ycombinator.com/item?id=47867085"
+    },
+    {
+      "title": "Website streamed live directly from a model",
+      "link": "https://flipbook.page/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T18:01:18Z",
+      "id": "51d15ae51f3cea73f476197c0a8c2271",
+      "comments": "https://news.ycombinator.com/item?id=47867048"
+    },
+    {
+      "title": "Coding Models Are Doing Too Much",
+      "link": "https://nrehiew.github.io/blog/minimal_editing/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T17:51:17Z",
+      "id": "46e032efa01f3dfcfea5dbd4cc876afa",
+      "comments": "https://news.ycombinator.com/item?id=47866913"
+    },
+    {
+      "title": "Workspace Agents in ChatGPT",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T17:47:07Z",
+      "id": "422bce9b28c57eba3744fd2b5aa530f3",
+      "comments": "https://news.ycombinator.com/item?id=47866860"
+    },
+    {
+      "title": "Parallel Agents in Zed",
+      "link": "https://zed.dev/blog/parallel-agents",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T17:38:57Z",
+      "id": "182274e1ca6a70a85451c0610a389415",
+      "comments": "https://news.ycombinator.com/item?id=47866750"
+    },
+    {
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T17:35:03Z",
+      "id": "bd46c64d4cb17204bae0661e9111250b",
+      "comments": "https://news.ycombinator.com/item?id=47866697"
+    },
+    {
+      "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+      "link": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T17:13:19Z",
+      "id": "f37cd38428d23d66d2b4d1f519fbfa72",
+      "comments": "https://news.ycombinator.com/item?id=47866395"
+    },
+    {
+      "title": "Anker made its own chip to bring AI to all its products",
+      "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T17:10:46Z",
+      "id": "3212a8916a6c19933edf981797c7e48a",
+      "comments": "https://news.ycombinator.com/item?id=47866368"
+    },
+    {
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T16:29:25Z",
+      "id": "45093990da519e26a6a24c5f299627ec",
+      "comments": "https://news.ycombinator.com/item?id=47865868"
+    },
+    {
+      "title": "Martin Fowler: Technical, Cognitive, and Intent Debt",
+      "link": "https://martinfowler.com/fragments/2026-04-14.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T16:11:23Z",
+      "id": "af7b5ee50d684fa421c07f7159ed508c",
+      "comments": "https://news.ycombinator.com/item?id=47865661"
+    },
+    {
+      "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+      "link": "https://github.com/besimple-oss/broccoli",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T16:09:56Z",
+      "id": "25ac87b5feec948e62af685590361bc3",
+      "comments": "https://news.ycombinator.com/item?id=47865642"
+    },
+    {
+      "title": "Youth Suicides Declined After Creation of National Hotline",
+      "link": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T16:07:56Z",
+      "id": "4dfe2ccbdd2ff602d08e2373418f9877",
+      "comments": "https://news.ycombinator.com/item?id=47865622"
+    },
     {
       "title": "DuckDB 1.5.2 \u2013 SQL database that runs on laptop, server, in the browser",
       "link": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
@@ -11,21 +119,21 @@
       "comments": "https://news.ycombinator.com/item?id=47864454"
     },
     {
-      "title": "Show HN submissions tripled and now mostly have the same vibe-coded look",
+      "title": "Scoring Show HN submissions for AI design patterns",
       "link": "https://www.adriankrebs.ch/blog/design-slop/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-22T14:44:32Z",
-      "id": "aa184782c6a157fd6ea71e234c68e14e",
+      "id": "b694c6b98297dd6b129ff2dd053b1dd1",
       "comments": "https://news.ycombinator.com/item?id=47864393"
     },
     {
-      "title": "Treetops glowing during storms captured on film for first time",
+      "title": "Ultraviolet corona discharges on treetops",
       "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-22T13:28:40Z",
-      "id": "29ee342764e66c6c24c368b792abbb09",
+      "id": "f5d21d96d6db9a5de78a6392af0a382c",
       "comments": "https://news.ycombinator.com/item?id=47863324"
     },
     {
@@ -74,33 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47862331"
     },
     {
-      "title": "Kernel code removals driven by LLM-created security reports",
-      "link": "https://lwn.net/Articles/1068928/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T11:48:07Z",
-      "id": "bce103afe17083c30632cedef369c125",
-      "comments": "https://news.ycombinator.com/item?id=47862230"
-    },
-    {
-      "title": "Nobody Got Fired for Uber's $8M Ledger Mistake?",
-      "link": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T10:54:49Z",
-      "id": "0dc454c5340e74d5ab298a3dbda0b578",
-      "comments": "https://news.ycombinator.com/item?id=47861731"
-    },
-    {
-      "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-      "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T10:51:09Z",
-      "id": "f241f5dde3ae9f0d46e86d45b2490c69",
-      "comments": "https://news.ycombinator.com/item?id=47861703"
-    },
-    {
       "title": "Windows 9x Subsystem for Linux",
       "link": "https://social.hails.org/@hailey/116446826733136456",
       "source": "Hacker News",
@@ -137,15 +218,6 @@
       "comments": "https://news.ycombinator.com/item?id=47856535"
     },
     {
-      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "link": "https://twitter.com/spacex/status/2046713419978453374",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T22:13:18Z",
-      "id": "2493fa70ed2bdfca1b12354ef4516fde",
-      "comments": "https://news.ycombinator.com/item?id=47855293"
-    },
-    {
       "title": "Another Day Has Come",
       "link": "https://daringfireball.net/2026/04/another_day_has_come",
       "source": "Hacker News",
@@ -153,24 +225,6 @@
       "published": "2026-04-21T20:52:19Z",
       "id": "b29a8ae573cc53e2fc7b07f8ac994bdc",
       "comments": "https://news.ycombinator.com/item?id=47854365"
-    },
-    {
-      "title": "ChatGPT Images 2.0",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T18:50:00Z",
-      "id": "dd1ac485470fa7b260fb491a09bcbe88",
-      "comments": "https://news.ycombinator.com/item?id=47852835"
-    },
-    {
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T17:14:35Z",
-      "id": "88f31b7de202fe9d36326c3a05315b83",
-      "comments": "https://news.ycombinator.com/item?id=47851634"
     },
     {
       "title": "Making RAM at Home [video]",
@@ -182,85 +236,31 @@
       "comments": "https://news.ycombinator.com/item?id=47842569"
     },
     {
-      "title": "Expansion Artifacts",
-      "link": "https://mattstromawn.com/writing/expansion-artifacts/",
+      "title": "Who Killed the Florida Orange?",
+      "link": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T18:38:22Z",
-      "id": "f5e56d599c5a61dac509751d05528b84",
-      "comments": "https://news.ycombinator.com/item?id=47838680"
+      "published": "2026-04-20T21:00:43Z",
+      "id": "47ce00bc11bf55cd3853fd82a871b084",
+      "comments": "https://news.ycombinator.com/item?id=47840618"
     },
     {
-      "title": "Acetaminophen vs. ibuprofen",
-      "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+      "title": "Anonymous credentials: an illustrated primer (Part 2)",
+      "link": "https://blog.cryptographyengineering.com/2026/04/17/anonymous-credentials-an-illustrated-primer-part-2/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T15:21:16Z",
-      "id": "725ea1ca5032e11ddae559b74a57c48c",
-      "comments": "https://news.ycombinator.com/item?id=47835635"
+      "published": "2026-04-20T17:58:13Z",
+      "id": "6ac13958261c633c5d2e7f4295806e3a",
+      "comments": "https://news.ycombinator.com/item?id=47838134"
     },
     {
-      "title": "All your agents are going async",
-      "link": "https://zknill.io/posts/all-your-agents-are-going-async/",
+      "title": "5x5 Pixel font for tiny screens",
+      "link": "https://maurycyz.com/projects/mcufont/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T11:18:57Z",
-      "id": "fc96b95b0616814ce5aa8a475fd4707b",
-      "comments": "https://news.ycombinator.com/item?id=47832720"
-    },
-    {
-      "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-      "link": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T11:53:31Z",
-      "id": "c30c9d89209d8f1bd44efa99fa4b346c",
-      "comments": "https://news.ycombinator.com/item?id=47823654"
-    },
-    {
-      "title": "Monitor your Pi / OMP sessions",
-      "link": "https://github.com/BlackBeltTechnology/pi-agent-dashboard",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T08:42:09Z",
-      "id": "4a353913f858f0410e6adff54fe6ddd6",
-      "comments": "https://news.ycombinator.com/item?id=47822783"
-    },
-    {
-      "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
-      "link": "https://arxiv.org/abs/2604.15039",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T05:58:16Z",
-      "id": "af8f8a263ecb1e7d759c453d118db4d3",
-      "comments": "https://news.ycombinator.com/item?id=47822117"
-    },
-    {
-      "title": "Garbage Collection Without Unsafe Code",
-      "link": "https://fitzgen.com/2024/02/06/safe-gc.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T04:41:59Z",
-      "id": "caa77f3d5f9e027de429dc308b2901ab",
-      "comments": "https://news.ycombinator.com/item?id=47821853"
-    },
-    {
-      "title": "Windows Server 2025 Runs Better on ARM",
-      "link": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T04:28:31Z",
-      "id": "f53a848e93d75ffd768cfe176751d5dd",
-      "comments": "https://news.ycombinator.com/item?id=47821801"
-    },
-    {
-      "title": "MuJoCo \u2013 Advanced Physics Simulation",
-      "link": "https://github.com/google-deepmind/mujoco",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T00:34:11Z",
-      "id": "0afe4238bbc4d40207232e970e73cdf9",
-      "comments": "https://news.ycombinator.com/item?id=47820791"
+      "published": "2026-04-19T15:19:28Z",
+      "id": "bea7902c7f07691147506a63e077dce9",
+      "comments": "https://news.ycombinator.com/item?id=47824943"
     },
     {
       "title": "Bodega Cats of New York",
