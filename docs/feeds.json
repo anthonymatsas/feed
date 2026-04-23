@@ -1,13 +1,67 @@
 {
-  "last_updated": "2026-04-23T13:19:11.595451Z",
+  "last_updated": "2026-04-23T16:26:11.258469Z",
   "items": [
     {
-      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+      "title": "If America's So Rich, How'd It Get So Sad?",
+      "link": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T16:05:30Z",
+      "id": "f21c0b24e0b0b27ba97240e68243367e",
+      "comments": "https://news.ycombinator.com/item?id=47877429"
+    },
+    {
+      "title": "France confirms data breach at government agency that manages citizens' IDs",
+      "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T15:59:55Z",
+      "id": "c627ea6be772e21b3ea498558e1f55f3",
+      "comments": "https://news.ycombinator.com/item?id=47877366"
+    },
+    {
+      "title": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
+      "link": "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T15:08:54Z",
+      "id": "b8476b47b9896d601bf0300612837e5e",
+      "comments": "https://news.ycombinator.com/item?id=47876647"
+    },
+    {
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "link": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T14:17:08Z",
+      "id": "e7a51235c6c67cd6edbcd763d0baac6c",
+      "comments": "https://news.ycombinator.com/item?id=47876043"
+    },
+    {
+      "title": "The end of responsive images",
+      "link": "https://piccalil.li/blog/the-end-of-responsive-images/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T13:17:55Z",
+      "id": "90abba32f92e846ebb9df671a153920b",
+      "comments": "https://news.ycombinator.com/item?id=47875420"
+    },
+    {
+      "title": "Raylib v6.0",
+      "link": "https://github.com/raysan5/raylib/releases/tag/6.0",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T12:16:16Z",
+      "id": "e03654ac18823206289b82965e209bf9",
+      "comments": "https://news.ycombinator.com/item?id=47874854"
+    },
+    {
+      "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
       "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-23T12:12:03Z",
-      "id": "f06b163f9ae82ab9bdad23adcbf71f1b",
+      "id": "cd10c8a16df0bacc183ba568e51ff217",
       "comments": "https://news.ycombinator.com/item?id=47874814"
     },
     {
@@ -29,40 +83,13 @@
       "comments": "https://news.ycombinator.com/item?id=47874647"
     },
     {
-      "title": "Sneaky spam in conversational replies to blog posts",
-      "link": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T11:50:25Z",
-      "id": "e8ce14b0e37e018bca1b9aafc60a3fad",
-      "comments": "https://news.ycombinator.com/item?id=47874631"
-    },
-    {
-      "title": "Show HN: Built a daily game where you sort historical events chronologically",
-      "link": "https://hisorty.app/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T10:14:46Z",
-      "id": "91b53584dae33e0e4df64a9c4c25adf3",
-      "comments": "https://news.ycombinator.com/item?id=47873966"
-    },
-    {
-      "title": "Writing a C Compiler, in Zig",
+      "title": "Writing a C Compiler, in Zig (2025)",
       "link": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-23T09:20:47Z",
-      "id": "86095ea456d80aebfb62e9576e18d474",
+      "id": "b87eff1503b5231e19ceb505ffe4944d",
       "comments": "https://news.ycombinator.com/item?id=47873694"
-    },
-    {
-      "title": "Email could have been X.400 times better",
-      "link": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T08:10:09Z",
-      "id": "34597fbd30386098ba526cfbdafaf914",
-      "comments": "https://news.ycombinator.com/item?id=47873323"
     },
     {
       "title": "Our newsroom AI policy",
@@ -92,15 +119,6 @@
       "comments": "https://news.ycombinator.com/item?id=47871519"
     },
     {
-      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
-      "link": "https://tempest.homemade.systems",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T01:02:32Z",
-      "id": "2979c2091b2991844eb83b401a980995",
-      "comments": "https://news.ycombinator.com/item?id=47871195"
-    },
-    {
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
       "source": "Hacker News",
@@ -126,15 +144,6 @@
       "published": "2026-04-22T17:51:17Z",
       "id": "b9c6615892d025732e1e3b40e0f2e301",
       "comments": "https://news.ycombinator.com/item?id=47866913"
-    },
-    {
-      "title": "Parallel agents in Zed",
-      "link": "https://zed.dev/blog/parallel-agents",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T17:38:57Z",
-      "id": "1f78cde2e0aea085643cd7bfa426643f",
-      "comments": "https://news.ycombinator.com/item?id=47866750"
     },
     {
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
@@ -173,24 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47864785"
     },
     {
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "link": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T13:19:58Z",
-      "id": "9e258537d651bd24996fbd2edcc9c695",
-      "comments": "https://news.ycombinator.com/item?id=47863217"
-    },
-    {
-      "title": "Work with the Garage Door Up",
-      "link": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T17:13:29Z",
-      "id": "f24cda2cbe825e523d675e117dac9d93",
-      "comments": "https://news.ycombinator.com/item?id=47851613"
-    },
-    {
       "title": "A Renaissance gambling dispute spawned probability theory",
       "link": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
       "source": "Hacker News",
@@ -227,6 +218,15 @@
       "comments": "https://news.ycombinator.com/item?id=47846688"
     },
     {
+      "title": "A DIY Watch You Can Actually Wear",
+      "link": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T08:52:33Z",
+      "id": "d11fbea0c49be324bcf9b7793c2e29c7",
+      "comments": "https://news.ycombinator.com/item?id=47846307"
+    },
+    {
       "title": "The Onion to Take over InfoWars",
       "link": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
       "source": "Hacker News",
@@ -245,6 +245,15 @@
       "comments": "https://news.ycombinator.com/item?id=47840520"
     },
     {
+      "title": "A History of Erasures Learning to Write Like Leyl\u00e2 Erbil",
+      "link": "https://thepointmag.com/criticism/a-history-of-erasures/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T17:39:40Z",
+      "id": "7a86db50a9c431b027653a13fb554ba3",
+      "comments": "https://news.ycombinator.com/item?id=47837857"
+    },
+    {
       "title": "Highlights from Git 2.54",
       "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
       "source": "Hacker News",
@@ -252,15 +261,6 @@
       "published": "2026-04-20T17:29:51Z",
       "id": "00559f31c1240b01ae60fc9b4abca5f6",
       "comments": "https://news.ycombinator.com/item?id=47837698"
-    },
-    {
-      "title": "Books are not too expensive",
-      "link": "https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T15:22:08Z",
-      "id": "48182191850e6bef27181bfa22a09ea8",
-      "comments": "https://news.ycombinator.com/item?id=47835647"
     },
     {
       "title": "5x5 Pixel font for tiny screens",
