@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-23T02:12:19.658384Z",
+  "last_updated": "2026-04-23T05:26:16.873767Z",
   "items": [
+    {
+      "title": "I am building a cloud",
+      "link": "https://crawshaw.io/blog/building-a-cloud",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T04:44:19Z",
+      "id": "2da44dbd485b8038dc8cf150d1c69f31",
+      "comments": "https://news.ycombinator.com/item?id=47872324"
+    },
+    {
+      "title": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
+      "link": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T04:17:14Z",
+      "id": "c661a532c1f83402fde5e7f2a27180c5",
+      "comments": "https://news.ycombinator.com/item?id=47872200"
+    },
+    {
+      "title": "Borrow-checking without type-checking",
+      "link": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T02:55:17Z",
+      "id": "4c55f8c70a54331e1da8171936bc8196",
+      "comments": "https://news.ycombinator.com/item?id=47871817"
+    },
+    {
+      "title": "Flow Map Learning via Nongradient Vector Flow [pdf]",
+      "link": "https://openreview.net/pdf?id=C1bkDPqvDW",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T02:52:00Z",
+      "id": "ae765c7acc84b07b931d6ce92d9dbbef",
+      "comments": "https://news.ycombinator.com/item?id=47871800"
+    },
     {
       "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
       "link": "https://tempest.homemade.systems",
@@ -9,6 +45,15 @@
       "published": "2026-04-23T01:02:32Z",
       "id": "2979c2091b2991844eb83b401a980995",
       "comments": "https://news.ycombinator.com/item?id=47871195"
+    },
+    {
+      "title": "OpenAI's response to the Axios developer tool compromise",
+      "link": "https://openai.com/index/axios-developer-tool-compromise/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T00:45:01Z",
+      "id": "c82c3ca1225a113f9ab13cb345003bfc",
+      "comments": "https://news.ycombinator.com/item?id=47871077"
     },
     {
       "title": "Approximating Hyperbolic Tangent",
@@ -47,24 +92,6 @@
       "comments": "https://news.ycombinator.com/item?id=47868867"
     },
     {
-      "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
-      "link": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T20:24:05Z",
-      "id": "7a985d8f6d30379047d1f73a972cbf23",
-      "comments": "https://news.ycombinator.com/item?id=47868832"
-    },
-    {
-      "title": "New study compares growing corn for energy to solar production",
-      "link": "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T19:21:46Z",
-      "id": "261ed9c6366ae9092cff72c618b92423",
-      "comments": "https://news.ycombinator.com/item?id=47868063"
-    },
-    {
       "title": "Website streamed live directly from a model",
       "link": "https://flipbook.page/",
       "source": "Hacker News",
@@ -81,15 +108,6 @@
       "published": "2026-04-22T17:51:17Z",
       "id": "b9c6615892d025732e1e3b40e0f2e301",
       "comments": "https://news.ycombinator.com/item?id=47866913"
-    },
-    {
-      "title": "Workspace Agents in ChatGPT",
-      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T17:47:07Z",
-      "id": "422bce9b28c57eba3744fd2b5aa530f3",
-      "comments": "https://news.ycombinator.com/item?id=47866860"
     },
     {
       "title": "Parallel agents in Zed",
@@ -173,42 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47863217"
     },
     {
-      "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T12:15:29Z",
-      "id": "ffbbf3b8152314276ed1de62aac58453",
-      "comments": "https://news.ycombinator.com/item?id=47862497"
-    },
-    {
-      "title": "3.4M Solar Panels",
-      "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T12:04:30Z",
-      "id": "70a692b49d6e1d1eb540cdbfe15567c7",
-      "comments": "https://news.ycombinator.com/item?id=47862386"
-    },
-    {
-      "title": "GitHub CLI now collects pseudoanonymous telemetry",
-      "link": "https://cli.github.com/telemetry",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T11:58:58Z",
-      "id": "d966ab4ee35aeb29e17bdf13313f5347",
-      "comments": "https://news.ycombinator.com/item?id=47862331"
-    },
-    {
-      "title": "Windows 9x Subsystem for Linux",
-      "link": "https://social.hails.org/@hailey/116446826733136456",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T09:52:52Z",
-      "id": "ab9bbc45d9cd0423848892e0d1cc5687",
-      "comments": "https://news.ycombinator.com/item?id=47861270"
-    },
-    {
       "title": "Another Day Has Come",
       "link": "https://daringfireball.net/2026/04/another_day_has_come",
       "source": "Hacker News",
@@ -216,6 +198,24 @@
       "published": "2026-04-21T20:52:19Z",
       "id": "b29a8ae573cc53e2fc7b07f8ac994bdc",
       "comments": "https://news.ycombinator.com/item?id=47854365"
+    },
+    {
+      "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
+      "link": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T09:55:49Z",
+      "id": "1b4ae1605d72eb7d846ab010cca51174",
+      "comments": "https://news.ycombinator.com/item?id=47846718"
+    },
+    {
+      "title": "The Onion to Take over InfoWars",
+      "link": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T01:23:23Z",
+      "id": "77c207206039d2e61a429571df7adc87",
+      "comments": "https://news.ycombinator.com/item?id=47843434"
     },
     {
       "title": "What killed the Florida orange?",
@@ -245,13 +245,13 @@
       "comments": "https://news.ycombinator.com/item?id=47836035"
     },
     {
-      "title": "The great Scouse pasty war",
-      "link": "https://www.livpost.co.uk/the-great-scouse-pasty-war/",
+      "title": "How does Shazam work?",
+      "link": "https://perthirtysix.com/how-the-heck-does-shazam-work",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T06:45:01Z",
-      "id": "54b4e3154b1075b98943567c775c2cca",
-      "comments": "https://news.ycombinator.com/item?id=47831085"
+      "published": "2026-04-20T15:04:04Z",
+      "id": "00b568a9b8ffd2d62740e7bcd625d0f9",
+      "comments": "https://news.ycombinator.com/item?id=47835366"
     },
     {
       "title": "5x5 Pixel font for tiny screens",
