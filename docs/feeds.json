@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-23T07:44:55.945437Z",
+  "last_updated": "2026-04-23T10:18:33.897339Z",
   "items": [
     {
-      "title": "Ars Technica: Our newsroom AI policy",
+      "title": "Our newsroom AI policy",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-23T05:14:05Z",
-      "id": "14d2adcb5c70807c7145ff4bba573e38",
+      "id": "16ad70346a0499ff76648056cfa4d0e1",
       "comments": "https://news.ycombinator.com/item?id=47872452"
     },
     {
@@ -29,13 +29,22 @@
       "comments": "https://news.ycombinator.com/item?id=47871817"
     },
     {
-      "title": "Flow Map Learning via Nongradient Vector Flow [pdf]",
-      "link": "https://openreview.net/pdf?id=C1bkDPqvDW",
+      "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+      "link": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-23T02:52:00Z",
-      "id": "ae765c7acc84b07b931d6ce92d9dbbef",
-      "comments": "https://news.ycombinator.com/item?id=47871800"
+      "published": "2026-04-23T01:59:08Z",
+      "id": "8662848de2d9ead85a0552cfcc2b4e1a",
+      "comments": "https://news.ycombinator.com/item?id=47871519"
+    },
+    {
+      "title": "Fundamental Theorem of Calculus",
+      "link": "https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T01:09:56Z",
+      "id": "50f13f2390dcadcb99a04e02cbf33743",
+      "comments": "https://news.ycombinator.com/item?id=47871246"
     },
     {
       "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
@@ -56,21 +65,12 @@
       "comments": "https://news.ycombinator.com/item?id=47871077"
     },
     {
-      "title": "Approximating Hyperbolic Tangent",
-      "link": "https://jtomschroeder.com/blog/approximating-tanh/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T23:46:38Z",
-      "id": "d195ecb16321add351ddf91db5e430c1",
-      "comments": "https://news.ycombinator.com/item?id=47870709"
-    },
-    {
-      "title": "Bring your own Agent to MS Teams",
+      "title": "Bring Your Agent to Teams",
       "link": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-22T22:25:28Z",
-      "id": "603893777dcf4e50b4c5c7f680b5a49c",
+      "id": "0f2c91f35dd1a53b235a684ea3aa9ac3",
       "comments": "https://news.ycombinator.com/item?id=47870108"
     },
     {
@@ -99,15 +99,6 @@
       "published": "2026-04-22T17:51:17Z",
       "id": "b9c6615892d025732e1e3b40e0f2e301",
       "comments": "https://news.ycombinator.com/item?id=47866913"
-    },
-    {
-      "title": "Workspace Agents in ChatGPT",
-      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T17:47:07Z",
-      "id": "422bce9b28c57eba3744fd2b5aa530f3",
-      "comments": "https://news.ycombinator.com/item?id=47866860"
     },
     {
       "title": "Parallel agents in Zed",
@@ -164,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47864393"
     },
     {
-      "title": "The handmade beauty of Machine Age data visualizations",
-      "link": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T14:15:44Z",
-      "id": "103edd003f31b0c8bfa628cfa281b744",
-      "comments": "https://news.ycombinator.com/item?id=47864011"
-    },
-    {
       "title": "Ultraviolet corona discharges on treetops during storms",
       "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
       "source": "Hacker News",
@@ -218,6 +200,15 @@
       "comments": "https://news.ycombinator.com/item?id=47846718"
     },
     {
+      "title": "Your hex editor should color-code bytes",
+      "link": "https://simonomi.dev/blog/color-code-your-bytes/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T09:52:09Z",
+      "id": "72def17fd722fe871d9b8b1db4ee2196",
+      "comments": "https://news.ycombinator.com/item?id=47846688"
+    },
+    {
       "title": "The Onion to Take over InfoWars",
       "link": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
       "source": "Hacker News",
@@ -227,13 +218,13 @@
       "comments": "https://news.ycombinator.com/item?id=47843434"
     },
     {
-      "title": "What killed the Florida orange?",
-      "link": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
+      "title": "Isopods of the world",
+      "link": "https://isopod.site/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T21:00:43Z",
-      "id": "1645858837df441878a0915ccd8163d0",
-      "comments": "https://news.ycombinator.com/item?id=47840618"
+      "published": "2026-04-20T20:56:02Z",
+      "id": "b49cfc639edb68fa264dd48d513c8bf0",
+      "comments": "https://news.ycombinator.com/item?id=47840520"
     },
     {
       "title": "Verus is a tool for verifying the correctness of code written in Rust",
@@ -243,6 +234,15 @@
       "published": "2026-04-20T20:42:05Z",
       "id": "e76d93c1b5fa751e16f1b132c567d90c",
       "comments": "https://news.ycombinator.com/item?id=47840252"
+    },
+    {
+      "title": "Books are not too expensive",
+      "link": "https://www.millersbookreview.com/p/no-books-are-not-remotely-too-expensive",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T15:22:08Z",
+      "id": "48182191850e6bef27181bfa22a09ea8",
+      "comments": "https://news.ycombinator.com/item?id=47835647"
     },
     {
       "title": "5x5 Pixel font for tiny screens",
