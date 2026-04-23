@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-23T05:26:16.873767Z",
+  "last_updated": "2026-04-23T07:44:55.945437Z",
   "items": [
+    {
+      "title": "Ars Technica: Our newsroom AI policy",
+      "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T05:14:05Z",
+      "id": "14d2adcb5c70807c7145ff4bba573e38",
+      "comments": "https://news.ycombinator.com/item?id=47872452"
+    },
     {
       "title": "I am building a cloud",
       "link": "https://crawshaw.io/blog/building-a-cloud",
@@ -9,15 +18,6 @@
       "published": "2026-04-23T04:44:19Z",
       "id": "2da44dbd485b8038dc8cf150d1c69f31",
       "comments": "https://news.ycombinator.com/item?id=47872324"
-    },
-    {
-      "title": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
-      "link": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T04:17:14Z",
-      "id": "c661a532c1f83402fde5e7f2a27180c5",
-      "comments": "https://news.ycombinator.com/item?id=47872200"
     },
     {
       "title": "Borrow-checking without type-checking",
@@ -74,15 +74,6 @@
       "comments": "https://news.ycombinator.com/item?id=47870108"
     },
     {
-      "title": "The Neon King of New Orleans",
-      "link": "https://gardenandgun.com/new-orleans-neon-king",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T21:26:38Z",
-      "id": "b4029ac986efcd462b74237a4678ca23",
-      "comments": "https://news.ycombinator.com/item?id=47869496"
-    },
-    {
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
       "source": "Hacker News",
@@ -108,6 +99,15 @@
       "published": "2026-04-22T17:51:17Z",
       "id": "b9c6615892d025732e1e3b40e0f2e301",
       "comments": "https://news.ycombinator.com/item?id=47866913"
+    },
+    {
+      "title": "Workspace Agents in ChatGPT",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T17:47:07Z",
+      "id": "422bce9b28c57eba3744fd2b5aa530f3",
+      "comments": "https://news.ycombinator.com/item?id=47866860"
     },
     {
       "title": "Parallel agents in Zed",
@@ -191,13 +191,22 @@
       "comments": "https://news.ycombinator.com/item?id=47863217"
     },
     {
-      "title": "Another Day Has Come",
-      "link": "https://daringfireball.net/2026/04/another_day_has_come",
+      "title": "Windows 9x Subsystem for Linux",
+      "link": "https://social.hails.org/@hailey/116446826733136456",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-21T20:52:19Z",
-      "id": "b29a8ae573cc53e2fc7b07f8ac994bdc",
-      "comments": "https://news.ycombinator.com/item?id=47854365"
+      "published": "2026-04-22T09:52:52Z",
+      "id": "ab9bbc45d9cd0423848892e0d1cc5687",
+      "comments": "https://news.ycombinator.com/item?id=47861270"
+    },
+    {
+      "title": "An amateur historian's favorite books about the Silk Road",
+      "link": "https://bookdna.com/best-books/silk-road",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T11:01:37Z",
+      "id": "213ce353e8666d1ea9388d913575d9e6",
+      "comments": "https://news.ycombinator.com/item?id=47847153"
     },
     {
       "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
@@ -236,24 +245,6 @@
       "comments": "https://news.ycombinator.com/item?id=47840252"
     },
     {
-      "title": "Effectful Recursion Schemes",
-      "link": "https://effekt-lang.org/blog/recursion-schemes/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T15:48:19Z",
-      "id": "ba1bf38cd89f055377b148d794079704",
-      "comments": "https://news.ycombinator.com/item?id=47836035"
-    },
-    {
-      "title": "How does Shazam work?",
-      "link": "https://perthirtysix.com/how-the-heck-does-shazam-work",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-20T15:04:04Z",
-      "id": "00b568a9b8ffd2d62740e7bcd625d0f9",
-      "comments": "https://news.ycombinator.com/item?id=47835366"
-    },
-    {
       "title": "5x5 Pixel font for tiny screens",
       "link": "https://maurycyz.com/projects/mcufont/",
       "source": "Hacker News",
@@ -261,6 +252,15 @@
       "published": "2026-04-19T15:19:28Z",
       "id": "bea7902c7f07691147506a63e077dce9",
       "comments": "https://news.ycombinator.com/item?id=47824943"
+    },
+    {
+      "title": "Plexus P/20 Emulator",
+      "link": "https://spritetm.github.io/plexus_20_emu/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-19T11:53:32Z",
+      "id": "d9e9365e0dc98cbfec0bd22921b272b8",
+      "comments": "https://news.ycombinator.com/item?id=47823655"
     },
     {
       "title": "Bodega cats of New York",
