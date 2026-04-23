@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-04-23T10:18:33.897339Z",
+  "last_updated": "2026-04-23T13:19:11.595451Z",
   "items": [
+    {
+      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+      "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T12:12:03Z",
+      "id": "f06b163f9ae82ab9bdad23adcbf71f1b",
+      "comments": "https://news.ycombinator.com/item?id=47874814"
+    },
+    {
+      "title": "Jiga (YC W21) Is Hiring",
+      "link": "https://jiga.io/about-us/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T12:02:44Z",
+      "id": "39633bab0ca0568bd9f696d3d75b2587",
+      "comments": "https://news.ycombinator.com/item?id=47874734"
+    },
+    {
+      "title": "Show HN: Honker \u2013 Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "link": "https://github.com/russellromney/honker",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T11:53:11Z",
+      "id": "5003cb4999b2aa319c0158effb51ffe9",
+      "comments": "https://news.ycombinator.com/item?id=47874647"
+    },
+    {
+      "title": "Sneaky spam in conversational replies to blog posts",
+      "link": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T11:50:25Z",
+      "id": "e8ce14b0e37e018bca1b9aafc60a3fad",
+      "comments": "https://news.ycombinator.com/item?id=47874631"
+    },
+    {
+      "title": "Show HN: Built a daily game where you sort historical events chronologically",
+      "link": "https://hisorty.app/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T10:14:46Z",
+      "id": "91b53584dae33e0e4df64a9c4c25adf3",
+      "comments": "https://news.ycombinator.com/item?id=47873966"
+    },
+    {
+      "title": "Writing a C Compiler, in Zig",
+      "link": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T09:20:47Z",
+      "id": "86095ea456d80aebfb62e9576e18d474",
+      "comments": "https://news.ycombinator.com/item?id=47873694"
+    },
+    {
+      "title": "Email could have been X.400 times better",
+      "link": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T08:10:09Z",
+      "id": "34597fbd30386098ba526cfbdafaf914",
+      "comments": "https://news.ycombinator.com/item?id=47873323"
+    },
     {
       "title": "Our newsroom AI policy",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
@@ -20,15 +83,6 @@
       "comments": "https://news.ycombinator.com/item?id=47872324"
     },
     {
-      "title": "Borrow-checking without type-checking",
-      "link": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T02:55:17Z",
-      "id": "4c55f8c70a54331e1da8171936bc8196",
-      "comments": "https://news.ycombinator.com/item?id=47871817"
-    },
-    {
       "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
       "link": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
       "source": "Hacker News",
@@ -38,15 +92,6 @@
       "comments": "https://news.ycombinator.com/item?id=47871519"
     },
     {
-      "title": "Fundamental Theorem of Calculus",
-      "link": "https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T01:09:56Z",
-      "id": "50f13f2390dcadcb99a04e02cbf33743",
-      "comments": "https://news.ycombinator.com/item?id=47871246"
-    },
-    {
       "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
       "link": "https://tempest.homemade.systems",
       "source": "Hacker News",
@@ -54,24 +99,6 @@
       "published": "2026-04-23T01:02:32Z",
       "id": "2979c2091b2991844eb83b401a980995",
       "comments": "https://news.ycombinator.com/item?id=47871195"
-    },
-    {
-      "title": "OpenAI's response to the Axios developer tool compromise",
-      "link": "https://openai.com/index/axios-developer-tool-compromise/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T00:45:01Z",
-      "id": "c82c3ca1225a113f9ab13cb345003bfc",
-      "comments": "https://news.ycombinator.com/item?id=47871077"
-    },
-    {
-      "title": "Bring Your Agent to Teams",
-      "link": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T22:25:28Z",
-      "id": "0f2c91f35dd1a53b235a684ea3aa9ac3",
-      "comments": "https://news.ycombinator.com/item?id=47870108"
     },
     {
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
@@ -146,24 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47864785"
     },
     {
-      "title": "Scoring Show HN submissions for AI design patterns",
-      "link": "https://www.adriankrebs.ch/blog/design-slop/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T14:44:32Z",
-      "id": "b694c6b98297dd6b129ff2dd053b1dd1",
-      "comments": "https://news.ycombinator.com/item?id=47864393"
-    },
-    {
-      "title": "Ultraviolet corona discharges on treetops during storms",
-      "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T13:28:40Z",
-      "id": "ebe528f46dbe9ed0f1ad75e0b9d0fe49",
-      "comments": "https://news.ycombinator.com/item?id=47863324"
-    },
-    {
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "link": "https://qwen.ai/blog?id=qwen3.6-27b",
       "source": "Hacker News",
@@ -173,13 +182,22 @@
       "comments": "https://news.ycombinator.com/item?id=47863217"
     },
     {
-      "title": "Windows 9x Subsystem for Linux",
-      "link": "https://social.hails.org/@hailey/116446826733136456",
+      "title": "Work with the Garage Door Up",
+      "link": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T09:52:52Z",
-      "id": "ab9bbc45d9cd0423848892e0d1cc5687",
-      "comments": "https://news.ycombinator.com/item?id=47861270"
+      "published": "2026-04-21T17:13:29Z",
+      "id": "f24cda2cbe825e523d675e117dac9d93",
+      "comments": "https://news.ycombinator.com/item?id=47851613"
+    },
+    {
+      "title": "A Renaissance gambling dispute spawned probability theory",
+      "link": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T12:59:59Z",
+      "id": "f400893150413a70d91aa8d61e56ecab",
+      "comments": "https://news.ycombinator.com/item?id=47848162"
     },
     {
       "title": "An amateur historian's favorite books about the Silk Road",
@@ -227,13 +245,13 @@
       "comments": "https://news.ycombinator.com/item?id=47840520"
     },
     {
-      "title": "Verus is a tool for verifying the correctness of code written in Rust",
-      "link": "https://verus-lang.github.io/verus/guide/",
+      "title": "Highlights from Git 2.54",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T20:42:05Z",
-      "id": "e76d93c1b5fa751e16f1b132c567d90c",
-      "comments": "https://news.ycombinator.com/item?id=47840252"
+      "published": "2026-04-20T17:29:51Z",
+      "id": "00559f31c1240b01ae60fc9b4abca5f6",
+      "comments": "https://news.ycombinator.com/item?id=47837698"
     },
     {
       "title": "Books are not too expensive",
@@ -252,24 +270,6 @@
       "published": "2026-04-19T15:19:28Z",
       "id": "bea7902c7f07691147506a63e077dce9",
       "comments": "https://news.ycombinator.com/item?id=47824943"
-    },
-    {
-      "title": "Plexus P/20 Emulator",
-      "link": "https://spritetm.github.io/plexus_20_emu/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-19T11:53:32Z",
-      "id": "d9e9365e0dc98cbfec0bd22921b272b8",
-      "comments": "https://news.ycombinator.com/item?id=47823655"
-    },
-    {
-      "title": "Bodega cats of New York",
-      "link": "https://bodegacatsofnewyork.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-18T02:26:57Z",
-      "id": "58931de5add14f8e9a2eb95d74069ed6",
-      "comments": "https://news.ycombinator.com/item?id=47812649"
     }
   ]
 }
