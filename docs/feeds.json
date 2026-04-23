@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-04-22T21:46:40.045528Z",
+  "last_updated": "2026-04-23T02:12:19.658384Z",
   "items": [
+    {
+      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+      "link": "https://tempest.homemade.systems",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T01:02:32Z",
+      "id": "2979c2091b2991844eb83b401a980995",
+      "comments": "https://news.ycombinator.com/item?id=47871195"
+    },
+    {
+      "title": "Approximating Hyperbolic Tangent",
+      "link": "https://jtomschroeder.com/blog/approximating-tanh/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T23:46:38Z",
+      "id": "d195ecb16321add351ddf91db5e430c1",
+      "comments": "https://news.ycombinator.com/item?id=47870709"
+    },
+    {
+      "title": "Bring your own Agent to MS Teams",
+      "link": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T22:25:28Z",
+      "id": "603893777dcf4e50b4c5c7f680b5a49c",
+      "comments": "https://news.ycombinator.com/item?id=47870108"
+    },
     {
       "title": "The Neon King of New Orleans",
       "link": "https://gardenandgun.com/new-orleans-neon-king",
@@ -9,15 +36,6 @@
       "published": "2026-04-22T21:26:38Z",
       "id": "b4029ac986efcd462b74237a4678ca23",
       "comments": "https://news.ycombinator.com/item?id=47869496"
-    },
-    {
-      "title": "Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind",
-      "link": "https://codeberg.org/jjba23/olive-css",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T20:50:21Z",
-      "id": "48a3fe96b7c558f5d1bb5a1f2f81c519",
-      "comments": "https://news.ycombinator.com/item?id=47869130"
     },
     {
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
@@ -38,13 +56,13 @@
       "comments": "https://news.ycombinator.com/item?id=47868832"
     },
     {
-      "title": "Scores decline again for 13-year-old students in reading and mathematics",
-      "link": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+      "title": "New study compares growing corn for energy to solar production",
+      "link": "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T18:57:20Z",
-      "id": "c2b65de59e38938dcc7f0d9bfe50770b",
-      "comments": "https://news.ycombinator.com/item?id=47867755"
+      "published": "2026-04-22T19:21:46Z",
+      "id": "261ed9c6366ae9092cff72c618b92423",
+      "comments": "https://news.ycombinator.com/item?id=47868063"
     },
     {
       "title": "Website streamed live directly from a model",
@@ -74,12 +92,12 @@
       "comments": "https://news.ycombinator.com/item?id=47866860"
     },
     {
-      "title": "Parallel Agents in Zed",
+      "title": "Parallel agents in Zed",
       "link": "https://zed.dev/blog/parallel-agents",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-22T17:38:57Z",
-      "id": "182274e1ca6a70a85451c0610a389415",
+      "id": "1f78cde2e0aea085643cd7bfa426643f",
       "comments": "https://news.ycombinator.com/item?id=47866750"
     },
     {
@@ -92,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47866697"
     },
     {
-      "title": "Surveillance Pricing: Exploiting Information Asymmetries",
-      "link": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T17:13:19Z",
-      "id": "f37cd38428d23d66d2b4d1f519fbfa72",
-      "comments": "https://news.ycombinator.com/item?id=47866395"
-    },
-    {
       "title": "Alberta startup sells no-tech tractors for half price",
       "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
       "source": "Hacker News",
@@ -110,31 +119,13 @@
       "comments": "https://news.ycombinator.com/item?id=47865868"
     },
     {
-      "title": "Martin Fowler: Technical, Cognitive, and Intent Debt",
-      "link": "https://martinfowler.com/fragments/2026-04-14.html",
+      "title": "Technical, cognitive, and intent debt",
+      "link": "https://martinfowler.com/fragments/2026-04-02.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-22T16:11:23Z",
-      "id": "af7b5ee50d684fa421c07f7159ed508c",
+      "id": "dcb6207cf371e02697db50d11dd1eba4",
       "comments": "https://news.ycombinator.com/item?id=47865661"
-    },
-    {
-      "title": "Show HN: Broccoli, one shot coding agent on the cloud",
-      "link": "https://github.com/besimple-oss/broccoli",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T16:09:56Z",
-      "id": "25ac87b5feec948e62af685590361bc3",
-      "comments": "https://news.ycombinator.com/item?id=47865642"
-    },
-    {
-      "title": "Youth Suicides Declined After Creation of National Hotline",
-      "link": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T16:07:56Z",
-      "id": "4dfe2ccbdd2ff602d08e2373418f9877",
-      "comments": "https://news.ycombinator.com/item?id=47865622"
     },
     {
       "title": "Ping-pong robot beats top-level human players",
@@ -155,6 +146,15 @@
       "comments": "https://news.ycombinator.com/item?id=47864393"
     },
     {
+      "title": "The handmade beauty of Machine Age data visualizations",
+      "link": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T14:15:44Z",
+      "id": "103edd003f31b0c8bfa628cfa281b744",
+      "comments": "https://news.ycombinator.com/item?id=47864011"
+    },
+    {
       "title": "Ultraviolet corona discharges on treetops during storms",
       "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
       "source": "Hacker News",
@@ -171,15 +171,6 @@
       "published": "2026-04-22T13:19:58Z",
       "id": "9e258537d651bd24996fbd2edcc9c695",
       "comments": "https://news.ycombinator.com/item?id=47863217"
-    },
-    {
-      "title": "Columnar Storage Is Normalization",
-      "link": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T12:30:14Z",
-      "id": "fcbc2e8d588e9b0532c3a0921aa4e0ff",
-      "comments": "https://news.ycombinator.com/item?id=47862626"
     },
     {
       "title": "Our eighth generation TPUs: two chips for the agentic era",
@@ -218,31 +209,40 @@
       "comments": "https://news.ycombinator.com/item?id=47861270"
     },
     {
-      "title": "You don't need advice from editors on rejected manuscripts",
-      "link": "https://twitter.com/orsonscottcard/status/2046702294406680751",
+      "title": "Another Day Has Come",
+      "link": "https://daringfireball.net/2026/04/another_day_has_come",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T08:25:32Z",
-      "id": "6aed6e8fa185a7e9a9ba18822d89d83a",
-      "comments": "https://news.ycombinator.com/item?id=47860682"
+      "published": "2026-04-21T20:52:19Z",
+      "id": "b29a8ae573cc53e2fc7b07f8ac994bdc",
+      "comments": "https://news.ycombinator.com/item?id=47854365"
     },
     {
-      "title": "A Vompeccc Case Study: Spotify as Pure ICR in Emacs",
-      "link": "https://www.chiply.dev/post-vompeccc-spot",
+      "title": "What killed the Florida orange?",
+      "link": "https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-21T13:23:17Z",
-      "id": "c7625803cf81f6a476af76e180bbfbea",
-      "comments": "https://news.ycombinator.com/item?id=47848470"
+      "published": "2026-04-20T21:00:43Z",
+      "id": "1645858837df441878a0915ccd8163d0",
+      "comments": "https://news.ycombinator.com/item?id=47840618"
     },
     {
-      "title": "Anonymous credentials: an illustrated primer (Part 2)",
-      "link": "https://blog.cryptographyengineering.com/2026/04/17/anonymous-credentials-an-illustrated-primer-part-2/",
+      "title": "Verus is a tool for verifying the correctness of code written in Rust",
+      "link": "https://verus-lang.github.io/verus/guide/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T17:58:13Z",
-      "id": "6ac13958261c633c5d2e7f4295806e3a",
-      "comments": "https://news.ycombinator.com/item?id=47838134"
+      "published": "2026-04-20T20:42:05Z",
+      "id": "e76d93c1b5fa751e16f1b132c567d90c",
+      "comments": "https://news.ycombinator.com/item?id=47840252"
+    },
+    {
+      "title": "Effectful Recursion Schemes",
+      "link": "https://effekt-lang.org/blog/recursion-schemes/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-20T15:48:19Z",
+      "id": "ba1bf38cd89f055377b148d794079704",
+      "comments": "https://news.ycombinator.com/item?id=47836035"
     },
     {
       "title": "The great Scouse pasty war",
