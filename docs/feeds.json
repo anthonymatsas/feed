@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-04-24T18:42:47.804703Z",
+  "last_updated": "2026-04-24T21:42:46.445651Z",
   "items": [
+    {
+      "title": "Tell HN: Claude 4.7 is ignoring stop hooks",
+      "link": "https://news.ycombinator.com/item?id=47895029",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T19:55:09Z",
+      "id": "e67702bf999af11bf62a3531b260bcca",
+      "comments": "https://news.ycombinator.com/item?id=47895029"
+    },
+    {
+      "title": "My audio interface has SSH enabled by default",
+      "link": "https://hhh.hn/rodecaster-duo-fw/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T19:30:46Z",
+      "id": "d8a7512a2df90a5d0b07d16934713439",
+      "comments": "https://news.ycombinator.com/item?id=47894747"
+    },
+    {
+      "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
+      "link": "https://gdm-tipsv2.github.io/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T19:28:32Z",
+      "id": "22c30a4f55b51c54457250ec97c458ae",
+      "comments": "https://news.ycombinator.com/item?id=47894734"
+    },
+    {
+      "title": "Could a Claude Code routine watch my finances?",
+      "link": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T19:25:15Z",
+      "id": "061687d9fd98119181bbd7138bc9e3a8",
+      "comments": "https://news.ycombinator.com/item?id=47894690"
+    },
+    {
+      "title": "Show HN: HNswered \u2013 watches for replies to your Hacker News posts and comments",
+      "link": "https://github.com/adam-s/HNswered",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T19:19:53Z",
+      "id": "98ef508e91113ada711490ed98f56e04",
+      "comments": "https://news.ycombinator.com/item?id=47894638"
+    },
+    {
+      "title": "The Classic American Diner",
+      "link": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T19:01:09Z",
+      "id": "0bf44be630e07e4f640b9f1d8559e2e4",
+      "comments": "https://news.ycombinator.com/item?id=47894435"
+    },
+    {
+      "title": "SFO Quiet Airport (2025)",
+      "link": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T18:29:53Z",
+      "id": "929dd26d7553c6517350bc1b48aaa0d7",
+      "comments": "https://news.ycombinator.com/item?id=47894081"
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "link": "https://developers.openai.com/api/docs/changelog",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T18:23:32Z",
+      "id": "caf665de2b69d49ed12694f909339d7f",
+      "comments": "https://news.ycombinator.com/item?id=47894000"
+    },
+    {
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "link": "https://arxiv.org/abs/2604.21691",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T18:06:05Z",
+      "id": "d11180c18f39186993109879ca908c35",
+      "comments": "https://news.ycombinator.com/item?id=47893779"
+    },
+    {
+      "title": "CC-Canary: Detect early signs of regressions in Claude Code",
+      "link": "https://github.com/delta-hq/cc-canary",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T17:53:37Z",
+      "id": "01f63dbdb14a6764687ebfdc8250499f",
+      "comments": "https://news.ycombinator.com/item?id=47893620"
+    },
     {
       "title": "CSS as a Query Language",
       "link": "https://evdc.me/blog/css-query",
@@ -9,24 +99,6 @@
       "published": "2026-04-24T17:39:37Z",
       "id": "472a7db610a5f74fcc746086dc6b469d",
       "comments": "https://news.ycombinator.com/item?id=47893427"
-    },
-    {
-      "title": "Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses",
-      "link": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T17:11:24Z",
-      "id": "34b85e8c175d32960fe899571a069a97",
-      "comments": "https://news.ycombinator.com/item?id=47893060"
-    },
-    {
-      "title": "Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
-      "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T16:51:46Z",
-      "id": "172a603f5eb0d9995842752354eac08f",
-      "comments": "https://news.ycombinator.com/item?id=47892765"
     },
     {
       "title": "Redesigning the Recurse Center application to inspire curious programmers",
@@ -56,22 +128,22 @@
       "comments": "https://news.ycombinator.com/item?id=47892236"
     },
     {
-      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+      "title": "Google Plans to Invest Up to $40B in Anthropic",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T16:04:41Z",
+      "id": "dc232352f2d1cfa15b300314ea857b22",
+      "comments": "https://news.ycombinator.com/item?id=47892074"
+    },
+    {
+      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
       "link": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-24T15:59:19Z",
-      "id": "854c4922a74a355c9ecaf799051dccea",
+      "id": "1046740cbe5905fbbe91f74f9aab9256",
       "comments": "https://news.ycombinator.com/item?id=47892019"
-    },
-    {
-      "title": "Refuse to let your doctor record you",
-      "link": "https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T15:48:16Z",
-      "id": "b9bd959e120b345ff20567044def6f39",
-      "comments": "https://news.ycombinator.com/item?id=47891872"
     },
     {
       "title": "I'm done making desktop applications (2009)",
@@ -81,15 +153,6 @@
       "published": "2026-04-24T15:44:03Z",
       "id": "4cd5d82a011ddd215df5ad0cb57f9923",
       "comments": "https://news.ycombinator.com/item?id=47891801"
-    },
-    {
-      "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T14:45:10Z",
-      "id": "20d9971f1ca73c58abae512806817835",
-      "comments": "https://news.ycombinator.com/item?id=47891019"
     },
     {
       "title": "Different Language Models Learn Similar Number Representations",
@@ -119,40 +182,13 @@
       "comments": "https://news.ycombinator.com/item?id=47890799"
     },
     {
-      "title": "Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
+      "title": "ML supports existence of unrecognized transient astronomical phenomena",
       "link": "https://arxiv.org/abs/2604.18799",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-24T14:01:43Z",
-      "id": "a8e83df2573c0fe6434e21c25d987144",
+      "id": "b25a4313aaadd074dc82adfb6ee0cf78",
       "comments": "https://news.ycombinator.com/item?id=47890456"
-    },
-    {
-      "title": "The operating cost of adult and gambling startups",
-      "link": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T12:27:18Z",
-      "id": "331e1b5a89cdf772a4cbec02e9f0b5e2",
-      "comments": "https://news.ycombinator.com/item?id=47889279"
-    },
-    {
-      "title": "Show HN: Atomic \u2013 Local-first, AI-augmented personal knowledge base",
-      "link": "https://atomicapp.ai/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T12:07:30Z",
-      "id": "3d30fc26601dbdd8a26cde52318b8f77",
-      "comments": "https://news.ycombinator.com/item?id=47889110"
-    },
-    {
-      "title": "8087 Emulation on 8086 Systems",
-      "link": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T11:27:14Z",
-      "id": "6d5b9f6aa25d651a790e1a6fa80c424b",
-      "comments": "https://news.ycombinator.com/item?id=47888694"
     },
     {
       "title": "Hear your agent suffer through your code",
@@ -173,15 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=47888372"
     },
     {
-      "title": "Mounting tar archives as a filesystem in WebAssembly",
-      "link": "https://jeroen.github.io/notes/webassembly-tar/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T10:13:26Z",
-      "id": "121086ea44dbb59626729a076b36a660",
-      "comments": "https://news.ycombinator.com/item?id=47888124"
-    },
-    {
       "title": "Spinel: Ruby AOT Native Compiler",
       "link": "https://github.com/matz/spinel",
       "source": "Hacker News",
@@ -189,24 +216,6 @@
       "published": "2026-04-24T08:28:47Z",
       "id": "c616527fc42dd17cc92d4b323f698beb",
       "comments": "https://news.ycombinator.com/item?id=47887334"
-    },
-    {
-      "title": "Composition shouldn't be this hard",
-      "link": "https://www.cambra.dev/blog/announcement/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T07:22:31Z",
-      "id": "1fab2083e3658c6de30b2aabbd6cfc1d",
-      "comments": "https://news.ycombinator.com/item?id=47886773"
-    },
-    {
-      "title": "Show HN: Gova \u2013 The declarative GUI framework for Go",
-      "link": "https://github.com/NV404/gova",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T06:16:47Z",
-      "id": "c955955e404db454ce041844f3dabcf4",
-      "comments": "https://news.ycombinator.com/item?id=47886272"
     },
     {
       "title": "DeepSeek v4",
@@ -218,15 +227,6 @@
       "comments": "https://news.ycombinator.com/item?id=47884971"
     },
     {
-      "title": "Why I Write (1946)",
-      "link": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T02:26:23Z",
-      "id": "1ea24cd853a613bb399121501c025bbe",
-      "comments": "https://news.ycombinator.com/item?id=47884768"
-    },
-    {
       "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
       "link": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
       "source": "Hacker News",
@@ -236,40 +236,40 @@
       "comments": "https://news.ycombinator.com/item?id=47884225"
     },
     {
-      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-      "link": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "title": "Email could have been X.400 times better",
+      "link": "https://buttondown.com/blog/x400-vs-smtp-email",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-23T21:56:15Z",
-      "id": "bb622d7cbecd55d3f57236ce809bdf71",
-      "comments": "https://news.ycombinator.com/item?id=47882645"
+      "published": "2026-04-23T08:10:09Z",
+      "id": "34597fbd30386098ba526cfbdafaf914",
+      "comments": "https://news.ycombinator.com/item?id=47873323"
     },
     {
-      "title": "GPT-5.5",
-      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "title": "MacBook Neo and how the iPad should be",
+      "link": "https://craigmod.com/essays/ipad_neo/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-23T18:01:39Z",
-      "id": "05a7112d5ea253859bb1dd926fbb4728",
-      "comments": "https://news.ycombinator.com/item?id=47879092"
+      "published": "2026-04-23T04:40:31Z",
+      "id": "d2349c99b727e25110eec3eec9b6dfd5",
+      "comments": "https://news.ycombinator.com/item?id=47872306"
     },
     {
-      "title": "An update on recent Claude Code quality reports",
-      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "title": "Iliad fragment found in Roman-era mummy",
+      "link": "https://www.thehistoryblog.com/archives/75877",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-23T17:48:38Z",
-      "id": "1b11715d486c20e8a1a103d0d4f5c393",
-      "comments": "https://news.ycombinator.com/item?id=47878905"
+      "published": "2026-04-22T14:18:35Z",
+      "id": "917140d1a55660fa5b4d7b26bc597127",
+      "comments": "https://news.ycombinator.com/item?id=47864056"
     },
     {
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "link": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "title": "Work with the garage door up",
+      "link": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-23T14:17:08Z",
-      "id": "6727f88667ecd4f22a021b6922c0a8b3",
-      "comments": "https://news.ycombinator.com/item?id=47876043"
+      "published": "2026-04-21T17:13:29Z",
+      "id": "8ee13ffe551320fcb65a9a6ad8f51905",
+      "comments": "https://news.ycombinator.com/item?id=47851613"
     }
   ]
 }
