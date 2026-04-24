@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-04-24T16:01:38.034436Z",
+  "last_updated": "2026-04-24T18:42:47.804703Z",
   "items": [
+    {
+      "title": "CSS as a Query Language",
+      "link": "https://evdc.me/blog/css-query",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T17:39:37Z",
+      "id": "472a7db610a5f74fcc746086dc6b469d",
+      "comments": "https://news.ycombinator.com/item?id=47893427"
+    },
+    {
+      "title": "Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses",
+      "link": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T17:11:24Z",
+      "id": "34b85e8c175d32960fe899571a069a97",
+      "comments": "https://news.ycombinator.com/item?id=47893060"
+    },
+    {
+      "title": "Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
+      "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T16:51:46Z",
+      "id": "172a603f5eb0d9995842752354eac08f",
+      "comments": "https://news.ycombinator.com/item?id=47892765"
+    },
+    {
+      "title": "Redesigning the Recurse Center application to inspire curious programmers",
+      "link": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T16:45:10Z",
+      "id": "8391f250153397db4e66f246ed4e13a5",
+      "comments": "https://news.ycombinator.com/item?id=47892660"
+    },
+    {
+      "title": "SDL Now Supports DOS",
+      "link": "https://github.com/libsdl-org/SDL/pull/15377",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T16:20:15Z",
+      "id": "8132f6cbb5c6e39e3e9b81ecbc217fe3",
+      "comments": "https://news.ycombinator.com/item?id=47892291"
+    },
+    {
+      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+      "link": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T16:16:49Z",
+      "id": "5375021eeaf6e5fd22e5029510b0f839",
+      "comments": "https://news.ycombinator.com/item?id=47892236"
+    },
+    {
+      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+      "link": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T15:59:19Z",
+      "id": "854c4922a74a355c9ecaf799051dccea",
+      "comments": "https://news.ycombinator.com/item?id=47892019"
+    },
     {
       "title": "Refuse to let your doctor record you",
       "link": "https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/",
@@ -11,12 +74,12 @@
       "comments": "https://news.ycombinator.com/item?id=47891872"
     },
     {
-      "title": "Why I'm Done Making Desktop Applications",
+      "title": "I'm done making desktop applications (2009)",
       "link": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-24T15:44:03Z",
-      "id": "3b3a254288da24ea30e31c8a33af6b60",
+      "id": "4cd5d82a011ddd215df5ad0cb57f9923",
       "comments": "https://news.ycombinator.com/item?id=47891801"
     },
     {
@@ -38,6 +101,15 @@
       "comments": "https://news.ycombinator.com/item?id=47890873"
     },
     {
+      "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
+      "link": "https://github.com/browser-use/browser-harness",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T14:31:38Z",
+      "id": "bd519fbd8da8bcbe5ca98af609f43d22",
+      "comments": "https://news.ycombinator.com/item?id=47890841"
+    },
+    {
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
       "source": "Hacker News",
@@ -56,22 +128,13 @@
       "comments": "https://news.ycombinator.com/item?id=47890456"
     },
     {
-      "title": "Linux 7.1 Removes Drivers for Bus Mouse Support",
-      "link": "https://www.phoronix.com/news/Linux-7.1-Input",
+      "title": "The operating cost of adult and gambling startups",
+      "link": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-24T13:54:53Z",
-      "id": "169e31d41c71834aa25baf605447adc2",
-      "comments": "https://news.ycombinator.com/item?id=47890365"
-    },
-    {
-      "title": "Affirm Retooled for Agentic Software Development in One Week",
-      "link": "https://medium.com/@affirmtechnology/how-affirm-retooled-its-engineering-organization-for-agentic-software-development-in-one-week-1fd35268fde6",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T13:50:15Z",
-      "id": "6bc80329e9ed6c961d96dd91b0aa6643",
-      "comments": "https://news.ycombinator.com/item?id=47890302"
+      "published": "2026-04-24T12:27:18Z",
+      "id": "331e1b5a89cdf772a4cbec02e9f0b5e2",
+      "comments": "https://news.ycombinator.com/item?id=47889279"
     },
     {
       "title": "Show HN: Atomic \u2013 Local-first, AI-augmented personal knowledge base",
@@ -101,15 +164,6 @@
       "comments": "https://news.ycombinator.com/item?id=47888465"
     },
     {
-      "title": "Show HN: leaf \u2013 a terminal Markdown previewer with a GUI-like experience",
-      "link": "https://github.com/RivoLink/leaf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T10:54:26Z",
-      "id": "5c2b2b8afd64f58e1e999ce0da680636",
-      "comments": "https://news.ycombinator.com/item?id=47888423"
-    },
-    {
       "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
       "link": "https://nate.leaflet.pub/3mk4xkaxobc2p",
       "source": "Hacker News",
@@ -128,15 +182,6 @@
       "comments": "https://news.ycombinator.com/item?id=47888124"
     },
     {
-      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T09:17:57Z",
-      "id": "91f74cb946101178c984e9ad63b835ab",
-      "comments": "https://news.ycombinator.com/item?id=47887683"
-    },
-    {
       "title": "Spinel: Ruby AOT Native Compiler",
       "link": "https://github.com/matz/spinel",
       "source": "Hacker News",
@@ -146,13 +191,13 @@
       "comments": "https://news.ycombinator.com/item?id=47887334"
     },
     {
-      "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
-      "link": "https://ynarwal.github.io/how-llms-work/",
+      "title": "Composition shouldn't be this hard",
+      "link": "https://www.cambra.dev/blog/announcement/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-24T06:48:53Z",
-      "id": "718281737de43ecb39dec39836d54e0b",
-      "comments": "https://news.ycombinator.com/item?id=47886517"
+      "published": "2026-04-24T07:22:31Z",
+      "id": "1fab2083e3658c6de30b2aabbd6cfc1d",
+      "comments": "https://news.ycombinator.com/item?id=47886773"
     },
     {
       "title": "Show HN: Gova \u2013 The declarative GUI framework for Go",
@@ -182,13 +227,13 @@
       "comments": "https://news.ycombinator.com/item?id=47884768"
     },
     {
-      "title": "Show HN: Tolaria \u2013 Open-source macOS app to manage Markdown knowledge bases",
-      "link": "https://github.com/refactoringhq/tolaria",
+      "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
+      "link": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-23T22:01:59Z",
-      "id": "d5da6a5571d60c8b455980bffdec919f",
-      "comments": "https://news.ycombinator.com/item?id=47882697"
+      "published": "2026-04-24T00:57:05Z",
+      "id": "7930f227c48237c17e82d4351ee94c28",
+      "comments": "https://news.ycombinator.com/item?id=47884225"
     },
     {
       "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
@@ -198,33 +243,6 @@
       "published": "2026-04-23T21:56:15Z",
       "id": "bb622d7cbecd55d3f57236ce809bdf71",
       "comments": "https://news.ycombinator.com/item?id=47882645"
-    },
-    {
-      "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
-      "link": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T20:53:27Z",
-      "id": "335e74244aef5a22b3e3f4fe5298d306",
-      "comments": "https://news.ycombinator.com/item?id=47881786"
-    },
-    {
-      "title": "Using the internet like it's 1999",
-      "link": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T20:14:29Z",
-      "id": "1f2d18db90730524cee9f1b69d626036",
-      "comments": "https://news.ycombinator.com/item?id=47881198"
-    },
-    {
-      "title": "Meta tells staff it will cut 10% of jobs",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T18:55:32Z",
-      "id": "73555139f9aee7151702c5cda6beee63",
-      "comments": "https://news.ycombinator.com/item?id=47879986"
     },
     {
       "title": "GPT-5.5",
@@ -245,15 +263,6 @@
       "comments": "https://news.ycombinator.com/item?id=47878905"
     },
     {
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "link": "https://blog.meshcore.io/2026/04/23/the-split",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T16:55:13Z",
-      "id": "9bfb7d7a02cd1439c89cca2eb6fc6a01",
-      "comments": "https://news.ycombinator.com/item?id=47878117"
-    },
-    {
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "link": "https://socket.dev/blog/bitwarden-cli-compromised",
       "source": "Hacker News",
@@ -261,15 +270,6 @@
       "published": "2026-04-23T14:17:08Z",
       "id": "6727f88667ecd4f22a021b6922c0a8b3",
       "comments": "https://news.ycombinator.com/item?id=47876043"
-    },
-    {
-      "title": "UK Biobank health data keeps ending up on GitHub",
-      "link": "https://biobank.rocher.lc",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T13:58:03Z",
-      "id": "d406887978c44f575a2aa060181968d1",
-      "comments": "https://news.ycombinator.com/item?id=47875843"
     }
   ]
 }
