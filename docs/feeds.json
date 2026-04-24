@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-24T07:56:40.216446Z",
+  "last_updated": "2026-04-24T10:17:47.608944Z",
   "items": [
+    {
+      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+      "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T09:17:57Z",
+      "id": "f0a5b78431dd92ec870fc1b5202acb84",
+      "comments": "https://news.ycombinator.com/item?id=47887683"
+    },
+    {
+      "title": "Spinel: Ruby AOT Native Compiler",
+      "link": "https://github.com/matz/spinel",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T08:28:47Z",
+      "id": "c616527fc42dd17cc92d4b323f698beb",
+      "comments": "https://news.ycombinator.com/item?id=47887334"
+    },
     {
       "title": "Composition Shouldn't be this Hard",
       "link": "https://www.cambra.dev/blog/announcement/",
@@ -9,6 +27,15 @@
       "published": "2026-04-24T07:22:31Z",
       "id": "0ac11249ddb449c974fe5cac9917f508",
       "comments": "https://news.ycombinator.com/item?id=47886773"
+    },
+    {
+      "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
+      "link": "https://ynarwal.github.io/how-llms-work/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T06:48:53Z",
+      "id": "718281737de43ecb39dec39836d54e0b",
+      "comments": "https://news.ycombinator.com/item?id=47886517"
     },
     {
       "title": "Show HN: Gova \u2013 The declarative GUI framework for Go",
@@ -173,15 +200,6 @@
       "comments": "https://news.ycombinator.com/item?id=47877644"
     },
     {
-      "title": "French government agency confirms breach as hacker offers to sell data",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T15:59:55Z",
-      "id": "2d6be3c1ccb47cb72e9dc26d57757ecf",
-      "comments": "https://news.ycombinator.com/item?id=47877366"
-    },
-    {
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "link": "https://socket.dev/blog/bitwarden-cli-compromised",
       "source": "Hacker News",
@@ -218,15 +236,6 @@
       "comments": "https://news.ycombinator.com/item?id=47873694"
     },
     {
-      "title": "I am building a cloud",
-      "link": "https://crawshaw.io/blog/building-a-cloud",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T04:44:19Z",
-      "id": "2da44dbd485b8038dc8cf150d1c69f31",
-      "comments": "https://news.ycombinator.com/item?id=47872324"
-    },
-    {
       "title": "Alberta startup sells no-tech tractors for half price",
       "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
       "source": "Hacker News",
@@ -243,15 +252,6 @@
       "published": "2026-04-22T16:25:28Z",
       "id": "57c73145dc94f790d70199e0ff1fa097",
       "comments": "https://news.ycombinator.com/item?id=47865822"
-    },
-    {
-      "title": "Your hex editor should color-code bytes",
-      "link": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T09:52:09Z",
-      "id": "72def17fd722fe871d9b8b1db4ee2196",
-      "comments": "https://news.ycombinator.com/item?id=47846688"
     },
     {
       "title": "A programmable watch you can actually wear",
