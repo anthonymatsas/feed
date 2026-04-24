@@ -1,13 +1,49 @@
 {
-  "last_updated": "2026-04-24T05:31:08.184225Z",
+  "last_updated": "2026-04-24T07:56:40.216446Z",
   "items": [
     {
-      "title": "Ubuntu 26.04 LTS Released",
+      "title": "Composition Shouldn't be this Hard",
+      "link": "https://www.cambra.dev/blog/announcement/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T07:22:31Z",
+      "id": "0ac11249ddb449c974fe5cac9917f508",
+      "comments": "https://news.ycombinator.com/item?id=47886773"
+    },
+    {
+      "title": "Show HN: Gova \u2013 The declarative GUI framework for Go",
+      "link": "https://github.com/NV404/gova",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T06:16:47Z",
+      "id": "c955955e404db454ce041844f3dabcf4",
+      "comments": "https://news.ycombinator.com/item?id=47886272"
+    },
+    {
+      "title": "Why Not Venus?",
+      "link": "https://mceglowski.substack.com/p/why-not-venus",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T05:01:10Z",
+      "id": "997ce7140b73e45eaf3405b5a5786d5e",
+      "comments": "https://news.ycombinator.com/item?id=47885739"
+    },
+    {
+      "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
+      "link": "https://felixbarbalet.com/familiarity-is-the-enemy/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T04:48:54Z",
+      "id": "a2002b1f71929f625f358b9ec9ee4211",
+      "comments": "https://news.ycombinator.com/item?id=47885668"
+    },
+    {
+      "title": "Ubuntu 26.04",
       "link": "https://lwn.net/Articles/1069399/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-24T04:38:37Z",
-      "id": "50bea71367cbf9a0c8ab0d8d995fe0d5",
+      "id": "e1fd1888cfc7e5f743b9734ddd1b6504",
       "comments": "https://news.ycombinator.com/item?id=47885596"
     },
     {
@@ -18,24 +54,6 @@
       "published": "2026-04-24T04:04:42Z",
       "id": "59167cd59a31acd6e97d919d67f4b8fa",
       "comments": "https://news.ycombinator.com/item?id=47885377"
-    },
-    {
-      "title": "A quick look at Mythos run on Firefox: too much hype?",
-      "link": "https://xark.es/b/mythos-firefox-150",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T03:12:30Z",
-      "id": "1598906f1d835273f9e6a965e863ab96",
-      "comments": "https://news.ycombinator.com/item?id=47885042"
-    },
-    {
-      "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T03:07:54Z",
-      "id": "4840eb4dbd2b9471218fa35219966043",
-      "comments": "https://news.ycombinator.com/item?id=47885014"
     },
     {
       "title": "DeepSeek v4",
@@ -90,15 +108,6 @@
       "published": "2026-04-23T20:14:29Z",
       "id": "1f2d18db90730524cee9f1b69d626036",
       "comments": "https://news.ycombinator.com/item?id=47881198"
-    },
-    {
-      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
-      "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T19:09:40Z",
-      "id": "3f8dd5b0f6694dfceb5d63cbe4a5e059",
-      "comments": "https://news.ycombinator.com/item?id=47880189"
     },
     {
       "title": "Meta tells staff it will cut 10% of jobs",
@@ -234,15 +243,6 @@
       "published": "2026-04-22T16:25:28Z",
       "id": "57c73145dc94f790d70199e0ff1fa097",
       "comments": "https://news.ycombinator.com/item?id=47865822"
-    },
-    {
-      "title": "Advanced Packaging Limits Come into Focus",
-      "link": "https://semiengineering.com/advanced-packaging-limits-come-into-focus/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T14:50:40Z",
-      "id": "6214ffba6be1bd7c523d51e6cadf7bfe",
-      "comments": "https://news.ycombinator.com/item?id=47849628"
     },
     {
       "title": "Your hex editor should color-code bytes",
