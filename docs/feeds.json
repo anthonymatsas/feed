@@ -1,14 +1,50 @@
 {
-  "last_updated": "2026-04-24T21:42:46.445651Z",
+  "last_updated": "2026-04-25T02:02:59.568442Z",
   "items": [
     {
-      "title": "Tell HN: Claude 4.7 is ignoring stop hooks",
-      "link": "https://news.ycombinator.com/item?id=47895029",
+      "title": "Education must go beyond the mere production of words",
+      "link": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-24T19:55:09Z",
-      "id": "e67702bf999af11bf62a3531b260bcca",
-      "comments": "https://news.ycombinator.com/item?id=47895029"
+      "published": "2026-04-25T00:11:43Z",
+      "id": "af221f80775c6a16a5f39333efc19675",
+      "comments": "https://news.ycombinator.com/item?id=47897349"
+    },
+    {
+      "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
+      "link": "https://github.com/manankharwar/fusioncore",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T22:36:38Z",
+      "id": "cc3ec5ff74ee1c1fc1b9e0b0c46be361",
+      "comments": "https://news.ycombinator.com/item?id=47896670"
+    },
+    {
+      "title": "Show HN: I've built a nice home server OS",
+      "link": "https://lightwhale.asklandd.dk/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T21:42:26Z",
+      "id": "4c8ebe581cdda79d4cc38153af4999fc",
+      "comments": "https://news.ycombinator.com/item?id=47896163"
+    },
+    {
+      "title": "Generalised plusequals",
+      "link": "https://leontrolski.github.io/alt.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T21:34:25Z",
+      "id": "372fa26b9cfea28dd5a166d43f7cdf3b",
+      "comments": "https://news.ycombinator.com/item?id=47896086"
+    },
+    {
+      "title": "Google Flow Music",
+      "link": "https://www.flowmusic.app/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T21:01:50Z",
+      "id": "c2a62c6618c926f6bb2a3f17118f4ca5",
+      "comments": "https://news.ycombinator.com/item?id=47895765"
     },
     {
       "title": "My audio interface has SSH enabled by default",
@@ -18,33 +54,6 @@
       "published": "2026-04-24T19:30:46Z",
       "id": "d8a7512a2df90a5d0b07d16934713439",
       "comments": "https://news.ycombinator.com/item?id=47894747"
-    },
-    {
-      "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
-      "link": "https://gdm-tipsv2.github.io/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T19:28:32Z",
-      "id": "22c30a4f55b51c54457250ec97c458ae",
-      "comments": "https://news.ycombinator.com/item?id=47894734"
-    },
-    {
-      "title": "Could a Claude Code routine watch my finances?",
-      "link": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T19:25:15Z",
-      "id": "061687d9fd98119181bbd7138bc9e3a8",
-      "comments": "https://news.ycombinator.com/item?id=47894690"
-    },
-    {
-      "title": "Show HN: HNswered \u2013 watches for replies to your Hacker News posts and comments",
-      "link": "https://github.com/adam-s/HNswered",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T19:19:53Z",
-      "id": "98ef508e91113ada711490ed98f56e04",
-      "comments": "https://news.ycombinator.com/item?id=47894638"
     },
     {
       "title": "The Classic American Diner",
@@ -92,24 +101,6 @@
       "comments": "https://news.ycombinator.com/item?id=47893620"
     },
     {
-      "title": "CSS as a Query Language",
-      "link": "https://evdc.me/blog/css-query",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T17:39:37Z",
-      "id": "472a7db610a5f74fcc746086dc6b469d",
-      "comments": "https://news.ycombinator.com/item?id=47893427"
-    },
-    {
-      "title": "Redesigning the Recurse Center application to inspire curious programmers",
-      "link": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T16:45:10Z",
-      "id": "8391f250153397db4e66f246ed4e13a5",
-      "comments": "https://news.ycombinator.com/item?id=47892660"
-    },
-    {
       "title": "SDL Now Supports DOS",
       "link": "https://github.com/libsdl-org/SDL/pull/15377",
       "source": "Hacker News",
@@ -128,12 +119,12 @@
       "comments": "https://news.ycombinator.com/item?id=47892236"
     },
     {
-      "title": "Google Plans to Invest Up to $40B in Anthropic",
+      "title": "Google plans to invest up to $40B in Anthropic",
       "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-24T16:04:41Z",
-      "id": "dc232352f2d1cfa15b300314ea857b22",
+      "id": "f046bf7c7afd248daaf24f59fbc1fc14",
       "comments": "https://news.ycombinator.com/item?id=47892074"
     },
     {
@@ -180,24 +171,6 @@
       "published": "2026-04-24T14:28:52Z",
       "id": "a03ba630b637beef9e3fd183fb7f99a7",
       "comments": "https://news.ycombinator.com/item?id=47890799"
-    },
-    {
-      "title": "ML supports existence of unrecognized transient astronomical phenomena",
-      "link": "https://arxiv.org/abs/2604.18799",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T14:01:43Z",
-      "id": "b25a4313aaadd074dc82adfb6ee0cf78",
-      "comments": "https://news.ycombinator.com/item?id=47890456"
-    },
-    {
-      "title": "Hear your agent suffer through your code",
-      "link": "https://github.com/AndrewVos/endless-toil",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T10:58:45Z",
-      "id": "8530865e8e6470fff07645511e332ff7",
-      "comments": "https://news.ycombinator.com/item?id=47888465"
     },
     {
       "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
@@ -263,13 +236,40 @@
       "comments": "https://news.ycombinator.com/item?id=47864056"
     },
     {
-      "title": "Work with the garage door up",
+      "title": "The Overtom Chess Computer Museum",
+      "link": "https://tluif.home.xs4all.nl/chescom/Engindex.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T08:55:21Z",
+      "id": "ffaacb49ae47eae2f5db3ee652eabaa2",
+      "comments": "https://news.ycombinator.com/item?id=47860911"
+    },
+    {
+      "title": "Humpback whales are forming super-groups",
+      "link": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T02:55:49Z",
+      "id": "faa18579b1b688bc964d7869831ee2d6",
+      "comments": "https://news.ycombinator.com/item?id=47858294"
+    },
+    {
+      "title": "Work with the garage door up (2024)",
       "link": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-21T17:13:29Z",
-      "id": "8ee13ffe551320fcb65a9a6ad8f51905",
+      "id": "0a7b6c494ad4d39ef93433b7aa2bfd44",
       "comments": "https://news.ycombinator.com/item?id=47851613"
+    },
+    {
+      "title": "You don't want long-lived keys",
+      "link": "https://argemma.com/blog/long-lived-keys/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T16:55:04Z",
+      "id": "dd9479b745692588cead6f192dfb1127",
+      "comments": "https://news.ycombinator.com/item?id=47851377"
     }
   ]
 }
