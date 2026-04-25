@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-04-25T09:48:21.116408Z",
+  "last_updated": "2026-04-25T12:55:58.939185Z",
   "items": [
+    {
+      "title": "Lambda Calculus Benchmark for AI",
+      "link": "https://victortaelin.github.io/lambench/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T11:16:23Z",
+      "id": "6a91e899d974eb09c4647306f2b34fd7",
+      "comments": "https://news.ycombinator.com/item?id=47900506"
+    },
+    {
+      "title": "A web-based RDP client built with Go WebAssembly and grdp",
+      "link": "https://github.com/nakagami/grdpwasm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T10:59:29Z",
+      "id": "eb649b926d4c8c625821f47d41ae26b8",
+      "comments": "https://news.ycombinator.com/item?id=47900440"
+    },
+    {
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "link": "https://github.com/MartinGalway/C64_music",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T10:46:14Z",
+      "id": "bd3621c41ccae73da2454cc35c897fb9",
+      "comments": "https://news.ycombinator.com/item?id=47900398"
+    },
     {
       "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
       "link": "https://github.com/nex-crm/wuphf",
@@ -83,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47897349"
     },
     {
-      "title": "Show HN: I've built a nice home server OS",
-      "link": "https://lightwhale.asklandd.dk/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T21:42:26Z",
-      "id": "4c8ebe581cdda79d4cc38153af4999fc",
-      "comments": "https://news.ycombinator.com/item?id=47896163"
-    },
-    {
       "title": "My audio interface has SSH enabled by default",
       "link": "https://hhh.hn/rodecaster-duo-fw/",
       "source": "Hacker News",
@@ -117,15 +135,6 @@
       "published": "2026-04-24T18:06:05Z",
       "id": "d11180c18f39186993109879ca908c35",
       "comments": "https://news.ycombinator.com/item?id=47893779"
-    },
-    {
-      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
-      "link": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T16:16:49Z",
-      "id": "5375021eeaf6e5fd22e5029510b0f839",
-      "comments": "https://news.ycombinator.com/item?id=47892236"
     },
     {
       "title": "Google plans to invest up to $40B in Anthropic",
@@ -164,15 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47873323"
     },
     {
-      "title": "MacBook Neo and how the iPad should be",
-      "link": "https://craigmod.com/essays/ipad_neo/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T04:40:31Z",
-      "id": "d2349c99b727e25110eec3eec9b6dfd5",
-      "comments": "https://news.ycombinator.com/item?id=47872306"
-    },
-    {
       "title": "PCR is a surprisingly near-optimal technology",
       "link": "https://nikomc.com/2026/04/22/pcr/",
       "source": "Hacker News",
@@ -209,13 +209,22 @@
       "comments": "https://news.ycombinator.com/item?id=47862541"
     },
     {
-      "title": "Reverse-engineering infrared-based electronic shelf labels",
-      "link": "https://www.furrtek.org/?a=esl",
+      "title": "A Man Who Invented the Future",
+      "link": "https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T04:24:32Z",
-      "id": "d8c00c9be2842e20c646509fa50c0ff4",
-      "comments": "https://news.ycombinator.com/item?id=47858982"
+      "published": "2026-04-22T05:44:27Z",
+      "id": "cd1bd882021cdd9ad7e6777dfe738fa8",
+      "comments": "https://news.ycombinator.com/item?id=47859543"
+    },
+    {
+      "title": "Panipat: The Rise of the Mughals",
+      "link": "https://www.historytoday.com/archive/feature/panipat-rise-mughals",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T05:38:53Z",
+      "id": "bf4f447d4f96b51d155a75caaf5469a8",
+      "comments": "https://news.ycombinator.com/item?id=47859514"
     },
     {
       "title": "Paraloid B-72",
@@ -252,15 +261,6 @@
       "published": "2026-04-21T17:13:29Z",
       "id": "0a7b6c494ad4d39ef93433b7aa2bfd44",
       "comments": "https://news.ycombinator.com/item?id=47851613"
-    },
-    {
-      "title": "You don't want long-lived keys",
-      "link": "https://argemma.com/blog/long-lived-keys/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T16:55:04Z",
-      "id": "dd9479b745692588cead6f192dfb1127",
-      "comments": "https://news.ycombinator.com/item?id=47851377"
     },
     {
       "title": "The mail sent to a video game publisher",
