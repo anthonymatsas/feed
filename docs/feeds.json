@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-04-25T02:02:59.568442Z",
+  "last_updated": "2026-04-25T05:07:40.977420Z",
   "items": [
+    {
+      "title": "Oxford All Souls College General Examination [pdf]",
+      "link": "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T04:36:27Z",
+      "id": "4ff0a7c5c175505485e0f732b125d77b",
+      "comments": "https://news.ycombinator.com/item?id=47898680"
+    },
+    {
+      "title": "Turbo Vision 2.0 \u2013 a modern port",
+      "link": "https://github.com/magiblot/tvision",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T04:18:01Z",
+      "id": "2fdd0e47bd2ab80a3b3a06331a1eff38",
+      "comments": "https://news.ycombinator.com/item?id=47898597"
+    },
+    {
+      "title": "Show HN: VT Code \u2013 Rust TUI coding agent with multi-provider support",
+      "link": "https://github.com/vinhnx/VTCode",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T03:17:19Z",
+      "id": "8b14623fbd93becc75f2d56f3b1e6a65",
+      "comments": "https://news.ycombinator.com/item?id=47898308"
+    },
+    {
+      "title": "Firefox Has Integrated Brave's Adblock Engine",
+      "link": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T01:47:33Z",
+      "id": "e9a58416f6a3eea1c58cc9191025cb3d",
+      "comments": "https://news.ycombinator.com/item?id=47897891"
+    },
+    {
+      "title": "(Blender) Cosmology with Geometry Nodes",
+      "link": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T01:08:14Z",
+      "id": "0eadaa6b1ef255e7dd76fe442a770569",
+      "comments": "https://news.ycombinator.com/item?id=47897706"
+    },
+    {
+      "title": "\"Plain text has been around for decades and it's here to stay.\" \u2013 Unsung",
+      "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T01:03:09Z",
+      "id": "4d4b9b846579f38e1a3408890c97fffa",
+      "comments": "https://news.ycombinator.com/item?id=47897681"
+    },
+    {
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T00:58:38Z",
+      "id": "2c8523c31663f2def49e2b5a40823b2b",
+      "comments": "https://news.ycombinator.com/item?id=47897647"
+    },
     {
       "title": "Education must go beyond the mere production of words",
       "link": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
@@ -29,24 +92,6 @@
       "comments": "https://news.ycombinator.com/item?id=47896163"
     },
     {
-      "title": "Generalised plusequals",
-      "link": "https://leontrolski.github.io/alt.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T21:34:25Z",
-      "id": "372fa26b9cfea28dd5a166d43f7cdf3b",
-      "comments": "https://news.ycombinator.com/item?id=47896086"
-    },
-    {
-      "title": "Google Flow Music",
-      "link": "https://www.flowmusic.app/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T21:01:50Z",
-      "id": "c2a62c6618c926f6bb2a3f17118f4ca5",
-      "comments": "https://news.ycombinator.com/item?id=47895765"
-    },
-    {
       "title": "My audio interface has SSH enabled by default",
       "link": "https://hhh.hn/rodecaster-duo-fw/",
       "source": "Hacker News",
@@ -65,24 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47894435"
     },
     {
-      "title": "SFO Quiet Airport (2025)",
-      "link": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T18:29:53Z",
-      "id": "929dd26d7553c6517350bc1b48aaa0d7",
-      "comments": "https://news.ycombinator.com/item?id=47894081"
-    },
-    {
-      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "link": "https://developers.openai.com/api/docs/changelog",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T18:23:32Z",
-      "id": "caf665de2b69d49ed12694f909339d7f",
-      "comments": "https://news.ycombinator.com/item?id=47894000"
-    },
-    {
       "title": "There Will Be a Scientific Theory of Deep Learning",
       "link": "https://arxiv.org/abs/2604.21691",
       "source": "Hacker News",
@@ -90,24 +117,6 @@
       "published": "2026-04-24T18:06:05Z",
       "id": "d11180c18f39186993109879ca908c35",
       "comments": "https://news.ycombinator.com/item?id=47893779"
-    },
-    {
-      "title": "CC-Canary: Detect early signs of regressions in Claude Code",
-      "link": "https://github.com/delta-hq/cc-canary",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T17:53:37Z",
-      "id": "01f63dbdb14a6764687ebfdc8250499f",
-      "comments": "https://news.ycombinator.com/item?id=47893620"
-    },
-    {
-      "title": "SDL Now Supports DOS",
-      "link": "https://github.com/libsdl-org/SDL/pull/15377",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T16:20:15Z",
-      "id": "8132f6cbb5c6e39e3e9b81ecbc217fe3",
-      "comments": "https://news.ycombinator.com/item?id=47892291"
     },
     {
       "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
@@ -146,24 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47891801"
     },
     {
-      "title": "Different Language Models Learn Similar Number Representations",
-      "link": "https://arxiv.org/abs/2604.20817",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T14:34:23Z",
-      "id": "853f806546baa7621959673986028df4",
-      "comments": "https://news.ycombinator.com/item?id=47890873"
-    },
-    {
-      "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
-      "link": "https://github.com/browser-use/browser-harness",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T14:31:38Z",
-      "id": "bd519fbd8da8bcbe5ca98af609f43d22",
-      "comments": "https://news.ycombinator.com/item?id=47890841"
-    },
-    {
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
       "source": "Hacker News",
@@ -182,31 +173,13 @@
       "comments": "https://news.ycombinator.com/item?id=47888372"
     },
     {
-      "title": "Spinel: Ruby AOT Native Compiler",
-      "link": "https://github.com/matz/spinel",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T08:28:47Z",
-      "id": "c616527fc42dd17cc92d4b323f698beb",
-      "comments": "https://news.ycombinator.com/item?id=47887334"
-    },
-    {
       "title": "DeepSeek v4",
-      "link": "https://api-docs.deepseek.com/",
+      "link": "https://api-docs.deepseek.com/news/news260424",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-24T03:01:21Z",
-      "id": "ab277775d0dec752432384de1f605e84",
+      "id": "4358a4ee1303461d1a70cf0ef80b6774",
       "comments": "https://news.ycombinator.com/item?id=47884971"
-    },
-    {
-      "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
-      "link": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T00:57:05Z",
-      "id": "7930f227c48237c17e82d4351ee94c28",
-      "comments": "https://news.ycombinator.com/item?id=47884225"
     },
     {
       "title": "Email could have been X.400 times better",
@@ -216,6 +189,15 @@
       "published": "2026-04-23T08:10:09Z",
       "id": "34597fbd30386098ba526cfbdafaf914",
       "comments": "https://news.ycombinator.com/item?id=47873323"
+    },
+    {
+      "title": "A disabled kea parrot is the alpha male of his circus",
+      "link": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T05:07:51Z",
+      "id": "bf503c52c5746500a9fff6ce14432968",
+      "comments": "https://news.ycombinator.com/item?id=47872418"
     },
     {
       "title": "MacBook Neo and how the iPad should be",
@@ -243,6 +225,24 @@
       "published": "2026-04-22T08:55:21Z",
       "id": "ffaacb49ae47eae2f5db3ee652eabaa2",
       "comments": "https://news.ycombinator.com/item?id=47860911"
+    },
+    {
+      "title": "Reverse-engineering infrared-based electronic shelf labels",
+      "link": "https://www.furrtek.org/?a=esl",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T04:24:32Z",
+      "id": "d8c00c9be2842e20c646509fa50c0ff4",
+      "comments": "https://news.ycombinator.com/item?id=47858982"
+    },
+    {
+      "title": "Paraloid B-72",
+      "link": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T04:17:07Z",
+      "id": "779776b2594f6d5b0ef224c6f133d6be",
+      "comments": "https://news.ycombinator.com/item?id=47858939"
     },
     {
       "title": "Humpback whales are forming super-groups",
