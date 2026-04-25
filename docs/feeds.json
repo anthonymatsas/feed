@@ -1,13 +1,22 @@
 {
-  "last_updated": "2026-04-25T05:07:40.977420Z",
+  "last_updated": "2026-04-25T07:08:58.299914Z",
   "items": [
     {
-      "title": "Oxford All Souls College General Examination [pdf]",
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T05:56:12Z",
+      "id": "75f912d4b967c2a1f6642f896d8bf5f8",
+      "comments": "https://news.ycombinator.com/item?id=47899053"
+    },
+    {
+      "title": "Oxford All Souls College General Examination (2025) [pdf]",
       "link": "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-25T04:36:27Z",
-      "id": "4ff0a7c5c175505485e0f732b125d77b",
+      "id": "b17112798713b519e681c5520bb7c481",
       "comments": "https://news.ycombinator.com/item?id=47898680"
     },
     {
@@ -20,15 +29,6 @@
       "comments": "https://news.ycombinator.com/item?id=47898597"
     },
     {
-      "title": "Show HN: VT Code \u2013 Rust TUI coding agent with multi-provider support",
-      "link": "https://github.com/vinhnx/VTCode",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T03:17:19Z",
-      "id": "8b14623fbd93becc75f2d56f3b1e6a65",
-      "comments": "https://news.ycombinator.com/item?id=47898308"
-    },
-    {
       "title": "Firefox Has Integrated Brave's Adblock Engine",
       "link": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
       "source": "Hacker News",
@@ -36,6 +36,15 @@
       "published": "2026-04-25T01:47:33Z",
       "id": "e9a58416f6a3eea1c58cc9191025cb3d",
       "comments": "https://news.ycombinator.com/item?id=47897891"
+    },
+    {
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "link": "https://alash3al.github.io/stash?_v01",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T01:24:40Z",
+      "id": "64293e056db5072d69c07e3e4810476e",
+      "comments": "https://news.ycombinator.com/item?id=47897790"
     },
     {
       "title": "(Blender) Cosmology with Geometry Nodes",
@@ -72,15 +81,6 @@
       "published": "2026-04-25T00:11:43Z",
       "id": "af221f80775c6a16a5f39333efc19675",
       "comments": "https://news.ycombinator.com/item?id=47897349"
-    },
-    {
-      "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
-      "link": "https://github.com/manankharwar/fusioncore",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T22:36:38Z",
-      "id": "cc3ec5ff74ee1c1fc1b9e0b0c46be361",
-      "comments": "https://news.ycombinator.com/item?id=47896670"
     },
     {
       "title": "Show HN: I've built a nice home server OS",
@@ -137,24 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47892074"
     },
     {
-      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-      "link": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T15:59:19Z",
-      "id": "1046740cbe5905fbbe91f74f9aab9256",
-      "comments": "https://news.ycombinator.com/item?id=47892019"
-    },
-    {
-      "title": "I'm done making desktop applications (2009)",
-      "link": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T15:44:03Z",
-      "id": "4cd5d82a011ddd215df5ad0cb57f9923",
-      "comments": "https://news.ycombinator.com/item?id=47891801"
-    },
-    {
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
       "source": "Hacker News",
@@ -162,15 +144,6 @@
       "published": "2026-04-24T14:28:52Z",
       "id": "a03ba630b637beef9e3fd183fb7f99a7",
       "comments": "https://news.ycombinator.com/item?id=47890799"
-    },
-    {
-      "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
-      "link": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T10:48:14Z",
-      "id": "28ba63e607d11164231580ce1bc170e4",
-      "comments": "https://news.ycombinator.com/item?id=47888372"
     },
     {
       "title": "DeepSeek v4",
@@ -209,6 +182,15 @@
       "comments": "https://news.ycombinator.com/item?id=47872306"
     },
     {
+      "title": "PCR Is a (Surprisingly) Near-Optimal Technology",
+      "link": "https://nikomc.com/2026/04/22/pcr/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T16:57:35Z",
+      "id": "d90932710461b628c166b31065465dcb",
+      "comments": "https://news.ycombinator.com/item?id=47866215"
+    },
+    {
       "title": "Iliad fragment found in Roman-era mummy",
       "link": "https://www.thehistoryblog.com/archives/75877",
       "source": "Hacker News",
@@ -218,13 +200,13 @@
       "comments": "https://news.ycombinator.com/item?id=47864056"
     },
     {
-      "title": "The Overtom Chess Computer Museum",
-      "link": "https://tluif.home.xs4all.nl/chescom/Engindex.html",
+      "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
+      "link": "https://clad.you/blog/posts/questionnaire-mlp/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-22T08:55:21Z",
-      "id": "ffaacb49ae47eae2f5db3ee652eabaa2",
-      "comments": "https://news.ycombinator.com/item?id=47860911"
+      "published": "2026-04-22T12:20:01Z",
+      "id": "2f59dc4de26f5cc382a3b5d66b147b71",
+      "comments": "https://news.ycombinator.com/item?id=47862541"
     },
     {
       "title": "Reverse-engineering infrared-based electronic shelf labels",
@@ -254,6 +236,15 @@
       "comments": "https://news.ycombinator.com/item?id=47858294"
     },
     {
+      "title": "ENIAC's Architects Wove Stories Through Computing",
+      "link": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T00:33:47Z",
+      "id": "4a0fe99d0d48c76fc93ec286132bda56",
+      "comments": "https://news.ycombinator.com/item?id=47856997"
+    },
+    {
       "title": "Work with the garage door up (2024)",
       "link": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
       "source": "Hacker News",
@@ -270,6 +261,15 @@
       "published": "2026-04-21T16:55:04Z",
       "id": "dd9479b745692588cead6f192dfb1127",
       "comments": "https://news.ycombinator.com/item?id=47851377"
+    },
+    {
+      "title": "The mail sent to a video game publisher",
+      "link": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-21T14:39:04Z",
+      "id": "14d223aac29116a31bc3e04ef39b3bbb",
+      "comments": "https://news.ycombinator.com/item?id=47849455"
     }
   ]
 }
