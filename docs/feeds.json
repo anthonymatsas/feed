@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-04-26T02:25:18.573783Z",
+  "last_updated": "2026-04-26T05:35:10.646515Z",
   "items": [
+    {
+      "title": "AGPLv3\u00a774 Empowers Users to Thwart Badgeware Like OnlyOffice",
+      "link": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T05:06:58Z",
+      "id": "ed48eadc40c4bf8ce97bdd136ba0b8ad",
+      "comments": "https://news.ycombinator.com/item?id=47907543"
+    },
+    {
+      "title": "My Homemade PBX (2002)",
+      "link": "https://wandel.ca/homepage/pbx.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T03:58:17Z",
+      "id": "e9c6303f065c9005c6461d5e00e42bd1",
+      "comments": "https://news.ycombinator.com/item?id=47907205"
+    },
+    {
+      "title": "EU Age Control: The trojan horse for digital IDs",
+      "link": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T03:44:28Z",
+      "id": "e71ad0d5f1600aa5c934b0c2b26623d1",
+      "comments": "https://news.ycombinator.com/item?id=47907130"
+    },
+    {
+      "title": "GnuPG \u2013 post-quantum crypto landing in mainline",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T03:25:02Z",
+      "id": "3ddc09161be2718583c218d9bc1e4061",
+      "comments": "https://news.ycombinator.com/item?id=47907018"
+    },
+    {
+      "title": "Reviving BrowserID in 2026",
+      "link": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T02:38:51Z",
+      "id": "e4cbcec6498f047b0e241c850af7e82d",
+      "comments": "https://news.ycombinator.com/item?id=47906770"
+    },
+    {
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "link": "https://news.ycombinator.com/item?id=47906253",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T00:50:56Z",
+      "id": "d7186c755ef0e1a845ce82fc0da0780b",
+      "comments": "https://news.ycombinator.com/item?id=47906253"
+    },
+    {
+      "title": "The Super Nintendo Cartridges",
+      "link": "https://fabiensanglard.net/snes_carts/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T00:38:01Z",
+      "id": "d2f2c9ecce8db9161202e8b165bd5ba1",
+      "comments": "https://news.ycombinator.com/item?id=47906161"
+    },
     {
       "title": "Why has there been so little progress on Alzheimer's disease?",
       "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
@@ -11,31 +74,13 @@
       "comments": "https://news.ycombinator.com/item?id=47905984"
     },
     {
-      "title": "Agents Aren't Coworkers, Embed Them in Your Software",
-      "link": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
+      "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
+      "link": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-25T23:53:40Z",
-      "id": "5b8fff209cc98268d56b8a6348336a02",
-      "comments": "https://news.ycombinator.com/item?id=47905837"
-    },
-    {
-      "title": "Her Life Savings Mysteriously Disappeared After a Systems Glitch",
-      "link": "https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T23:32:18Z",
-      "id": "8758d99770eed7e84f622e19e80800c9",
-      "comments": "https://news.ycombinator.com/item?id=47905681"
-    },
-    {
-      "title": "Colorado Adds Open-Source Exemption to Age-Verification Bill",
-      "link": "https://fosstodon.org/@carlrichell/116460505717380644",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T22:41:05Z",
-      "id": "0f5800cb9c53d3a05a95069602a7fc0a",
-      "comments": "https://news.ycombinator.com/item?id=47905304"
+      "published": "2026-04-25T23:44:05Z",
+      "id": "05c8e69bf3b4cb0d0cc4223d4bcdb4bc",
+      "comments": "https://news.ycombinator.com/item?id=47905768"
     },
     {
       "title": "USB Cheat Sheet (2022)",
@@ -47,15 +92,6 @@
       "comments": "https://news.ycombinator.com/item?id=47904876"
     },
     {
-      "title": "Can you stop beans from making you gassy?",
-      "link": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T20:17:41Z",
-      "id": "66230d532f6da546b61518a688e98fce",
-      "comments": "https://news.ycombinator.com/item?id=47904224"
-    },
-    {
       "title": "America's Geothermal Breakthrough",
       "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
       "source": "Hacker News",
@@ -65,15 +101,6 @@
       "comments": "https://news.ycombinator.com/item?id=47903945"
     },
     {
-      "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
-      "link": "https://getkloak.io/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T19:03:01Z",
-      "id": "0dc91e4bac79d14a8f9892112ae5ae19",
-      "comments": "https://news.ycombinator.com/item?id=47903690"
-    },
-    {
       "title": "Mine, an IDE for Coalton and Common Lisp",
       "link": "https://coalton-lang.github.io/mine/",
       "source": "Hacker News",
@@ -81,6 +108,24 @@
       "published": "2026-04-25T17:47:02Z",
       "id": "d54a73792afea8f8478b3378e3d2666b",
       "comments": "https://news.ycombinator.com/item?id=47903173"
+    },
+    {
+      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
+      "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T17:40:38Z",
+      "id": "f9f1e2e6eac5ed6432a3c6116995076a",
+      "comments": "https://news.ycombinator.com/item?id=47903126"
+    },
+    {
+      "title": "Hokusai and Tesselations",
+      "link": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T17:21:22Z",
+      "id": "4eed25b3d64f30135abf39051137f7f7",
+      "comments": "https://news.ycombinator.com/item?id=47902993"
     },
     {
       "title": "Simulacrum of Knowledge Work",
@@ -101,42 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=47902525"
     },
     {
-      "title": "GPT\u20115.5 Bio Bug Bounty",
-      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T14:17:31Z",
-      "id": "352a1bc1b64364646db6226c0ea3f970",
-      "comments": "https://news.ycombinator.com/item?id=47901734"
-    },
-    {
-      "title": "Discret 11, the French TV encryption of the 80s",
-      "link": "https://fabiensanglard.net/discret11/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T11:10:41Z",
-      "id": "10f122a05ff1683b8316a1b037a0ba2a",
-      "comments": "https://news.ycombinator.com/item?id=47900478"
-    },
-    {
-      "title": "A web-based RDP client built with Go WebAssembly and grdp",
-      "link": "https://github.com/nakagami/grdpwasm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T10:59:29Z",
-      "id": "eb649b926d4c8c625821f47d41ae26b8",
-      "comments": "https://news.ycombinator.com/item?id=47900440"
-    },
-    {
-      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-      "link": "https://github.com/MartinGalway/C64_music",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T10:46:14Z",
-      "id": "bd3621c41ccae73da2454cc35c897fb9",
-      "comments": "https://news.ycombinator.com/item?id=47900398"
-    },
-    {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
       "source": "Hacker News",
@@ -146,22 +155,22 @@
       "comments": "https://news.ycombinator.com/item?id=47899053"
     },
     {
-      "title": "Which one is more important: more parameters or more computation? (2021)",
-      "link": "https://parl.ai/projects/params_vs_compute/",
+      "title": "Mahjong: A Visual Guide",
+      "link": "https://themahjong.guide/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-24T16:44:57Z",
-      "id": "4b083c30b175a7172ebd1349eb8a6a48",
-      "comments": "https://news.ycombinator.com/item?id=47892655"
+      "published": "2026-04-24T03:41:09Z",
+      "id": "c62dcbd489504c588905edcb348639c1",
+      "comments": "https://news.ycombinator.com/item?id=47885239"
     },
     {
-      "title": "How Hard Is It to Open a File?",
-      "link": "https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/",
+      "title": "The George Business, by Roger Zelazny (1980)",
+      "link": "https://www.eternal-flame.org/library/oldlibrary/georgebusiness.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-24T02:01:40Z",
-      "id": "d1cecee9db7632cff2d864c51f3fee17",
-      "comments": "https://news.ycombinator.com/item?id=47884625"
+      "published": "2026-04-24T02:07:59Z",
+      "id": "bf17e39a7af54bc229d4c044a35342e0",
+      "comments": "https://news.ycombinator.com/item?id=47884662"
     },
     {
       "title": "The Long Reply",
@@ -171,6 +180,15 @@
       "published": "2026-04-23T19:33:59Z",
       "id": "085659236940e7cc7ac54b6ecbd02681",
       "comments": "https://news.ycombinator.com/item?id=47880565"
+    },
+    {
+      "title": "Shall We Play a Game?",
+      "link": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T16:34:40Z",
+      "id": "6d0a14c1cde2e8d557a6f3c788e2f477",
+      "comments": "https://news.ycombinator.com/item?id=47877811"
     },
     {
       "title": "Math Is Hard \u2013 OpenBSD Stories",
@@ -198,24 +216,6 @@
       "published": "2026-04-23T00:14:55Z",
       "id": "b73b8a34e9759b05417ac1608670ac26",
       "comments": "https://news.ycombinator.com/item?id=47870901"
-    },
-    {
-      "title": "Lute: A Standalone Runtime for Luau",
-      "link": "https://lute.luau.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T22:41:57Z",
-      "id": "b1c21ab865a2c01231e74960156abc24",
-      "comments": "https://news.ycombinator.com/item?id=47870245"
-    },
-    {
-      "title": "Insights into firewood use by early Middle Pleistocene hominins",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0277379126001824",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T20:42:06Z",
-      "id": "9239671edaf651714a7e581d79dbc236",
-      "comments": "https://news.ycombinator.com/item?id=47869042"
     },
     {
       "title": "Flickr: The first and last great photo platform",
@@ -263,13 +263,13 @@
       "comments": "https://news.ycombinator.com/item?id=47859442"
     },
     {
-      "title": "Desmond Morris has died",
-      "link": "https://www.bbc.com/news/articles/c51y797v200o",
+      "title": "Per-image PCA characterization of the Kodak image suite (PDF and JSON)",
+      "link": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization/tree/main/baseline",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-20T21:32:47Z",
-      "id": "41266c1b3163a0d9c427b535acc685f7",
-      "comments": "https://news.ycombinator.com/item?id=47841141"
+      "published": "2026-04-21T20:37:22Z",
+      "id": "4e848ec7f7e1696d8c9346c23a4533e4",
+      "comments": "https://news.ycombinator.com/item?id=47854221"
     }
   ]
 }
