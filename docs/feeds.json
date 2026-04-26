@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-04-26T07:23:16.149648Z",
+  "last_updated": "2026-04-26T09:51:04.234799Z",
   "items": [
+    {
+      "title": "APL is more French than English",
+      "link": "https://www.jsoftware.com/papers/perlis78.htm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T07:24:07Z",
+      "id": "84f79cda321d5aa9d6d38f5d5dafc978",
+      "comments": "https://news.ycombinator.com/item?id=47908166"
+    },
+    {
+      "title": "Exposing Floating Point \u2013 Bartosz Ciechanowski (2019)",
+      "link": "https://ciechanow.ski/exposing-floating-point/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T07:19:20Z",
+      "id": "9a8e94489d944c23d74fb9a95cf3398d",
+      "comments": "https://news.ycombinator.com/item?id=47908139"
+    },
+    {
+      "title": "Tip: Web requests should not be measured in Hz [Hertz]",
+      "link": "https://mastodon.catgirl.cloud/@sophie/116467789133733136",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T07:13:08Z",
+      "id": "708dca2cee722479633b0984a0c0e5ba",
+      "comments": "https://news.ycombinator.com/item?id=47908105"
+    },
     {
       "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
       "link": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
@@ -146,24 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47902525"
     },
     {
-      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-      "link": "https://github.com/MartinGalway/C64_music",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T10:46:14Z",
-      "id": "bd3621c41ccae73da2454cc35c897fb9",
-      "comments": "https://news.ycombinator.com/item?id=47900398"
-    },
-    {
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T05:56:12Z",
-      "id": "75f912d4b967c2a1f6642f896d8bf5f8",
-      "comments": "https://news.ycombinator.com/item?id=47899053"
-    },
-    {
       "title": "Quirks of Human Anatomy",
       "link": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
       "source": "Hacker News",
@@ -189,6 +198,15 @@
       "published": "2026-04-23T16:34:40Z",
       "id": "1ec05fcc66cdaafcd115fcb047f4bd99",
       "comments": "https://news.ycombinator.com/item?id=47877811"
+    },
+    {
+      "title": "I spent 6 years building my Kanban as I hated how managers run the boards",
+      "link": "https://www.npmjs.com/package/ooko",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T15:53:22Z",
+      "id": "7c509d01ffd1632dfe91715451779ccb",
+      "comments": "https://news.ycombinator.com/item?id=47877277"
     },
     {
       "title": "Math Is Hard \u2013 OpenBSD Stories",
@@ -245,15 +263,6 @@
       "comments": "https://news.ycombinator.com/item?id=47866127"
     },
     {
-      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-22T13:46:23Z",
-      "id": "eafbc0dadc82f9380496e9434aed4e10",
-      "comments": "https://news.ycombinator.com/item?id=47863570"
-    },
-    {
       "title": "The Free Universal Construction Kit",
       "link": "https://fffff.at/free-universal-construction-kit/",
       "source": "Hacker News",
@@ -261,15 +270,6 @@
       "published": "2026-04-22T07:20:23Z",
       "id": "bf51f75d1cb2a3b2783f72a1f525d479",
       "comments": "https://news.ycombinator.com/item?id=47860198"
-    },
-    {
-      "title": "Per-image PCA characterization of the Kodak image suite (PDF and JSON)",
-      "link": "https://github.com/PearsonZero/kodak-pcd0992-statistical-characterization/tree/main/baseline",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-21T20:37:22Z",
-      "id": "4e848ec7f7e1696d8c9346c23a4533e4",
-      "comments": "https://news.ycombinator.com/item?id=47854221"
     }
   ]
 }
