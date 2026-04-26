@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-04-26T12:58:05.964938Z",
+  "last_updated": "2026-04-26T15:38:22.963435Z",
   "items": [
+    {
+      "title": "GitHub unwanted UX change: issue links now open in a popup",
+      "link": "https://github.com/orgs/community/discussions/192666",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T14:18:38Z",
+      "id": "ba3a584ba8af4de59c3a72b97de28460",
+      "comments": "https://news.ycombinator.com/item?id=47910546"
+    },
+    {
+      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+      "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T13:58:13Z",
+      "id": "0f4a94294aa92d83a19966c75ad183e5",
+      "comments": "https://news.ycombinator.com/item?id=47910388"
+    },
+    {
+      "title": "QNX on the Commodore 900 \u2013 Raiders of the lost hard drive [video]",
+      "link": "https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T12:55:53Z",
+      "id": "072c9b0315b2bdff839c92f174184340",
+      "comments": "https://news.ycombinator.com/item?id=47909945"
+    },
     {
       "title": "Asahi Linux Progress Linux 7.0",
       "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
@@ -11,15 +38,6 @@
       "comments": "https://news.ycombinator.com/item?id=47909226"
     },
     {
-      "title": "Show HN: A free ESG stock screener that publishes its losses and methodology",
-      "link": "https://jumpstartsignal.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T09:50:21Z",
-      "id": "e08ec6483211c16f4851e38604de3520",
-      "comments": "https://news.ycombinator.com/item?id=47908912"
-    },
-    {
       "title": "Statecharts: hierarchical state machines",
       "link": "https://statecharts.dev/",
       "source": "Hacker News",
@@ -27,15 +45,6 @@
       "published": "2026-04-26T09:32:22Z",
       "id": "6beeec9376f66e9d3445b18b3e521581",
       "comments": "https://news.ycombinator.com/item?id=47908833"
-    },
-    {
-      "title": "Eden AI \u2013 European Alternative to OpenRouter",
-      "link": "https://www.edenai.co",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T08:18:09Z",
-      "id": "f20c1ee913c26df01d61ad3eb7134ee0",
-      "comments": "https://news.ycombinator.com/item?id=47908433"
     },
     {
       "title": "Exposing Floating Point \u2013 Bartosz Ciechanowski (2019)",
@@ -137,24 +146,6 @@
       "comments": "https://news.ycombinator.com/item?id=47903126"
     },
     {
-      "title": "Hokusai and Tesselations",
-      "link": "https://dl.ndl.go.jp/pid/1899550/1/11/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T17:21:22Z",
-      "id": "4eed25b3d64f30135abf39051137f7f7",
-      "comments": "https://news.ycombinator.com/item?id=47902993"
-    },
-    {
-      "title": "Simulacrum of Knowledge Work",
-      "link": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T17:20:34Z",
-      "id": "74bc87c84beece1e0848f91fd7c4a965",
-      "comments": "https://news.ycombinator.com/item?id=47902987"
-    },
-    {
       "title": "Using coding assistance tools to revive projects you never were going to finish",
       "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
       "source": "Hacker News",
@@ -171,6 +162,33 @@
       "published": "2026-04-25T04:31:14Z",
       "id": "eed32758b40c639053578b20e6b99697",
       "comments": "https://news.ycombinator.com/item?id=47898660"
+    },
+    {
+      "title": "Show HN: HNswered \u2013 watches for replies to your Hacker News posts and comments",
+      "link": "https://github.com/adam-s/HNswered",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T19:19:53Z",
+      "id": "98ef508e91113ada711490ed98f56e04",
+      "comments": "https://news.ycombinator.com/item?id=47894638"
+    },
+    {
+      "title": "The Nintendo Switch Switch (2019)",
+      "link": "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T18:33:35Z",
+      "id": "d5bec04220024cdc3e0ee201c3b6864e",
+      "comments": "https://news.ycombinator.com/item?id=47894124"
+    },
+    {
+      "title": "Mine, a Coalton and Common Lisp IDE",
+      "link": "https://coalton-lang.github.io/20260424-mine/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T18:24:42Z",
+      "id": "dcaa6c5e5fef0cc25a4280e661a95114",
+      "comments": "https://news.ycombinator.com/item?id=47894014"
     },
     {
       "title": "My .config Ship of Theseus",
@@ -198,24 +216,6 @@
       "published": "2026-04-23T16:34:40Z",
       "id": "1ec05fcc66cdaafcd115fcb047f4bd99",
       "comments": "https://news.ycombinator.com/item?id=47877811"
-    },
-    {
-      "title": "I spent 6 years building my Kanban as I hated how managers run the boards",
-      "link": "https://www.npmjs.com/package/ooko",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T15:53:22Z",
-      "id": "7c509d01ffd1632dfe91715451779ccb",
-      "comments": "https://news.ycombinator.com/item?id=47877277"
-    },
-    {
-      "title": "Math Is Hard \u2013 OpenBSD Stories",
-      "link": "http://miod.online.fr/software/openbsd/stories/vaxfp.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T15:29:50Z",
-      "id": "c1c2dffcfb721ee0b33be647ebf30db1",
-      "comments": "https://news.ycombinator.com/item?id=47876930"
     },
     {
       "title": "Show HN: Turning a Gaussian Splat into a videogame",
