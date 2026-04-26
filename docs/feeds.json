@@ -1,14 +1,41 @@
 {
-  "last_updated": "2026-04-26T09:51:04.234799Z",
+  "last_updated": "2026-04-26T12:58:05.964938Z",
   "items": [
     {
-      "title": "APL is more French than English",
-      "link": "https://www.jsoftware.com/papers/perlis78.htm",
+      "title": "Asahi Linux Progress Linux 7.0",
+      "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-26T07:24:07Z",
-      "id": "84f79cda321d5aa9d6d38f5d5dafc978",
-      "comments": "https://news.ycombinator.com/item?id=47908166"
+      "published": "2026-04-26T10:50:32Z",
+      "id": "9e1276b00dc67ae57fbf55f3294a2810",
+      "comments": "https://news.ycombinator.com/item?id=47909226"
+    },
+    {
+      "title": "Show HN: A free ESG stock screener that publishes its losses and methodology",
+      "link": "https://jumpstartsignal.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T09:50:21Z",
+      "id": "e08ec6483211c16f4851e38604de3520",
+      "comments": "https://news.ycombinator.com/item?id=47908912"
+    },
+    {
+      "title": "Statecharts: hierarchical state machines",
+      "link": "https://statecharts.dev/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T09:32:22Z",
+      "id": "6beeec9376f66e9d3445b18b3e521581",
+      "comments": "https://news.ycombinator.com/item?id=47908833"
+    },
+    {
+      "title": "Eden AI \u2013 European Alternative to OpenRouter",
+      "link": "https://www.edenai.co",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T08:18:09Z",
+      "id": "f20c1ee913c26df01d61ad3eb7134ee0",
+      "comments": "https://news.ycombinator.com/item?id=47908433"
     },
     {
       "title": "Exposing Floating Point \u2013 Bartosz Ciechanowski (2019)",
@@ -20,15 +47,6 @@
       "comments": "https://news.ycombinator.com/item?id=47908139"
     },
     {
-      "title": "Tip: Web requests should not be measured in Hz [Hertz]",
-      "link": "https://mastodon.catgirl.cloud/@sophie/116467789133733136",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T07:13:08Z",
-      "id": "708dca2cee722479633b0984a0c0e5ba",
-      "comments": "https://news.ycombinator.com/item?id=47908105"
-    },
-    {
       "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
       "link": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
       "source": "Hacker News",
@@ -38,22 +56,13 @@
       "comments": "https://news.ycombinator.com/item?id=47908047"
     },
     {
-      "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+      "title": "The West forgot how to make things, now it\u2019s forgetting how to code",
       "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-26T06:24:42Z",
-      "id": "d5e8aea22b278b81c030cfe15d91f3cc",
+      "id": "98dacb04d0d66e0e40c35adc68621b14",
       "comments": "https://news.ycombinator.com/item?id=47907879"
-    },
-    {
-      "title": "AGPLv3\u00a774 Empowers Users to Thwart Badgeware Like OnlyOffice",
-      "link": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T05:06:58Z",
-      "id": "ed48eadc40c4bf8ce97bdd136ba0b8ad",
-      "comments": "https://news.ycombinator.com/item?id=47907543"
     },
     {
       "title": "EU Age Control: The trojan horse for digital IDs",
@@ -72,15 +81,6 @@
       "published": "2026-04-26T03:25:02Z",
       "id": "3ddc09161be2718583c218d9bc1e4061",
       "comments": "https://news.ycombinator.com/item?id=47907018"
-    },
-    {
-      "title": "Reviving BrowserID in 2026",
-      "link": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T02:38:51Z",
-      "id": "e4cbcec6498f047b0e241c850af7e82d",
-      "comments": "https://news.ycombinator.com/item?id=47906770"
     },
     {
       "title": "Tell HN: An app is silently installing itself on my iPhone every day",
@@ -108,15 +108,6 @@
       "published": "2026-04-26T00:12:47Z",
       "id": "4dbb2cd8c67e2c4cfb6daee4ef46c3e1",
       "comments": "https://news.ycombinator.com/item?id=47905984"
-    },
-    {
-      "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
-      "link": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T23:44:05Z",
-      "id": "05c8e69bf3b4cb0d0cc4223d4bcdb4bc",
-      "comments": "https://news.ycombinator.com/item?id=47905768"
     },
     {
       "title": "USB Cheat Sheet (2022)",
@@ -182,6 +173,15 @@
       "comments": "https://news.ycombinator.com/item?id=47898660"
     },
     {
+      "title": "My .config Ship of Theseus",
+      "link": "https://shift1w.com/blog/config-of-theseus/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T06:00:14Z",
+      "id": "89c0f322c2a9083fcd6bd5992d31b5d9",
+      "comments": "https://news.ycombinator.com/item?id=47886157"
+    },
+    {
       "title": "Mahjong: A Visual Guide",
       "link": "https://themahjong.guide/",
       "source": "Hacker News",
@@ -218,22 +218,13 @@
       "comments": "https://news.ycombinator.com/item?id=47876930"
     },
     {
-      "title": "Optimizing Datalog for the GPU",
-      "link": "https://dl.acm.org/doi/10.1145/3669940.3707274",
+      "title": "Show HN: Turning a Gaussian Splat into a videogame",
+      "link": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-23T13:34:47Z",
-      "id": "c5644832aebe27fd5301a83e664f7de4",
-      "comments": "https://news.ycombinator.com/item?id=47875597"
-    },
-    {
-      "title": "Rediscovering the Handcart",
-      "link": "https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T07:50:17Z",
-      "id": "4170d14a576e50cc949efd21b982db15",
-      "comments": "https://news.ycombinator.com/item?id=47873192"
+      "published": "2026-04-23T14:18:52Z",
+      "id": "ef91eefc371161bc63161ff202ad3f13",
+      "comments": "https://news.ycombinator.com/item?id=47876071"
     },
     {
       "title": "OpenAI Privacy Filter",
@@ -261,6 +252,15 @@
       "published": "2026-04-22T16:50:27Z",
       "id": "2b7c98c019d3fce0986f496217770082",
       "comments": "https://news.ycombinator.com/item?id=47866127"
+    },
+    {
+      "title": "Cheating at Tetris",
+      "link": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T13:12:57Z",
+      "id": "d271ffc96143430cca81b6e60b260b77",
+      "comments": "https://news.ycombinator.com/item?id=47863103"
     },
     {
       "title": "The Free Universal Construction Kit",
