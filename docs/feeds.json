@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-04-27T13:44:01.187594Z",
+  "last_updated": "2026-04-27T16:23:33.392411Z",
   "items": [
     {
-      "title": "Tim Cook Is Leaving. Good",
-      "link": "https://routerjockey.com/tim-cook-is-leaving-good/",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-27T13:11:31Z",
-      "id": "62cdc11ba9bc430a82575f80998adddd",
-      "comments": "https://news.ycombinator.com/item?id=47921130"
+      "published": "2026-04-27T16:03:08Z",
+      "id": "92b34fafa570ea9a5ca3725aa1ba5e52",
+      "comments": "https://news.ycombinator.com/item?id=47923357"
+    },
+    {
+      "title": "Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case",
+      "link": "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T15:45:13Z",
+      "id": "4b16808c62d74ad3b510ed6f1f4b7bc1",
+      "comments": "https://news.ycombinator.com/item?id=47923121"
+    },
+    {
+      "title": "Apple is dropping AFP/TimeCapsule support in macOS 27",
+      "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T15:36:12Z",
+      "id": "3557f578c86f519080a5c32843c88a7a",
+      "comments": "https://news.ycombinator.com/item?id=47923010"
+    },
+    {
+      "title": "The Woes of Sanitizing SVGs",
+      "link": "https://muffin.ink/blog/scratch-svg-sanitization/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T15:31:36Z",
+      "id": "c22cf3910eb0ccd5b997c29e0ceaf8e8",
+      "comments": "https://news.ycombinator.com/item?id=47922957"
+    },
+    {
+      "title": "US Supreme Court Reviews Police Use of Cell Location Data to Find Criminals",
+      "link": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T15:29:41Z",
+      "id": "3d8063318bf02e40e427aeb0bc98bfb8",
+      "comments": "https://news.ycombinator.com/item?id=47922940"
+    },
+    {
+      "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+      "link": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T15:12:41Z",
+      "id": "377503faea15ac90d6a769af04fe06c2",
+      "comments": "https://news.ycombinator.com/item?id=47922712"
+    },
+    {
+      "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T14:58:48Z",
+      "id": "2bf704924035479847fbc57c600319fc",
+      "comments": "https://news.ycombinator.com/item?id=47922518"
+    },
+    {
+      "title": "\"Why not just use Lean?\"",
+      "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T14:24:53Z",
+      "id": "401b03d1c581050961cce676c02157d9",
+      "comments": "https://news.ycombinator.com/item?id=47922079"
+    },
+    {
+      "title": "Show HN: Utilyze \u2013 an open source GPU monitoring tool more accurate than nvtop",
+      "link": "https://www.systalyze.com/utilyze",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T13:55:43Z",
+      "id": "b7f447a401ad9a231cb35df5e3b2879b",
+      "comments": "https://news.ycombinator.com/item?id=47921626"
+    },
+    {
+      "title": "Tendril \u2013 a self-extending agent that builds and registers its own tools",
+      "link": "https://github.com/serverless-dna/tendril",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T13:34:48Z",
+      "id": "3c32670065c4a00ec742d2c9924ebb4d",
+      "comments": "https://news.ycombinator.com/item?id=47921377"
+    },
+    {
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T13:22:42Z",
+      "id": "079e60a379658463710bf541b89d808e",
+      "comments": "https://news.ycombinator.com/item?id=47921248"
+    },
+    {
+      "title": "Running local LLMs offline on a ten-hour flight",
+      "link": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T13:05:59Z",
+      "id": "01e67b580ace6d68e2264340bbf09013",
+      "comments": "https://news.ycombinator.com/item?id=47921064"
     },
     {
       "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
@@ -29,22 +128,13 @@
       "comments": "https://news.ycombinator.com/item?id=47920289"
     },
     {
-      "title": "Men Who Stare at Walls",
+      "title": "Men who stare at walls",
       "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-27T11:08:26Z",
-      "id": "9ff5038a88722b42f7a53884bcc892c0",
+      "id": "86097f85f648f76583676c24d759b824",
       "comments": "https://news.ycombinator.com/item?id=47920074"
-    },
-    {
-      "title": "Show HN: I built a dual crossword puzzle where two crosswords share one grid",
-      "link": "https://forkle.co.uk/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T10:57:18Z",
-      "id": "15505f3f85ca1a2c44647eca084c53dc",
-      "comments": "https://news.ycombinator.com/item?id=47920007"
     },
     {
       "title": "Pgbackrest is no longer being maintained",
@@ -65,15 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47919733"
     },
     {
-      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
-      "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T10:14:15Z",
-      "id": "647e561c1010731e107e7d89b9ecc861",
-      "comments": "https://news.ycombinator.com/item?id=47919725"
-    },
-    {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
       "link": "https://app.oravys.com/blog/mercor-breach-2026",
       "source": "Hacker News",
@@ -90,15 +171,6 @@
       "published": "2026-04-27T08:54:57Z",
       "id": "ea4b61212ec3c4f6c7577f2eafb94559",
       "comments": "https://news.ycombinator.com/item?id=47919240"
-    },
-    {
-      "title": "It's OK to abandon your side-project (2024)",
-      "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T08:11:16Z",
-      "id": "54fda54a54f988788a41bdf1fb377ae1",
-      "comments": "https://news.ycombinator.com/item?id=47918961"
     },
     {
       "title": "The Prompt API",
@@ -119,15 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47916890"
     },
     {
-      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-      "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T20:56:30Z",
-      "id": "4fb9caa9a5e3171fe57e4e98c6144c92",
-      "comments": "https://news.ycombinator.com/item?id=47914350"
-    },
-    {
       "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
       "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
       "source": "Hacker News",
@@ -135,15 +198,6 @@
       "published": "2026-04-26T20:41:06Z",
       "id": "dec9aff2522bd46da3be9a753bd2679e",
       "comments": "https://news.ycombinator.com/item?id=47914165"
-    },
-    {
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T20:18:37Z",
-      "id": "4332581a7f29251b99b6c6eb8ab924ab",
-      "comments": "https://news.ycombinator.com/item?id=47913855"
     },
     {
       "title": "AI should elevate your thinking, not replace it",
@@ -155,24 +209,6 @@
       "comments": "https://news.ycombinator.com/item?id=47913650"
     },
     {
-      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
-      "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T13:58:13Z",
-      "id": "667ed079bcb8ee3d652399c99d8fa385",
-      "comments": "https://news.ycombinator.com/item?id=47910388"
-    },
-    {
-      "title": "Branimir Lambov from IBM on Cassandra",
-      "link": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T13:45:03Z",
-      "id": "13ff08a8e895fb1bd1ff6d466055b5a5",
-      "comments": "https://news.ycombinator.com/item?id=47910287"
-    },
-    {
       "title": "Self-updating screenshots",
       "link": "https://interblah.net/self-updating-screenshots",
       "source": "Hacker News",
@@ -182,15 +218,6 @@
       "comments": "https://news.ycombinator.com/item?id=47908051"
     },
     {
-      "title": "A Guide to CubeSat Mission and Bus Design",
-      "link": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T02:15:36Z",
-      "id": "1e1af8dce1527e63cb33e24d5a1fc5bd",
-      "comments": "https://news.ycombinator.com/item?id=47906666"
-    },
-    {
       "title": "Understanding the short circuit in solid-state batteries",
       "link": "https://www.mpie.de/5151287/short-circuit-solid-state-batteries",
       "source": "Hacker News",
@@ -198,15 +225,6 @@
       "published": "2026-04-25T23:43:19Z",
       "id": "a4823c3f507a4543f8e75f6d2a060262",
       "comments": "https://news.ycombinator.com/item?id=47905761"
-    },
-    {
-      "title": "Three constraints before I build anything",
-      "link": "https://jordanlord.co.uk/blog/3-constraints/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T18:41:03Z",
-      "id": "16e27fb35b405b420feea48520833042",
-      "comments": "https://news.ycombinator.com/item?id=47903541"
     },
     {
       "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
@@ -227,40 +245,22 @@
       "comments": "https://news.ycombinator.com/item?id=47900649"
     },
     {
-      "title": "Rust Memory Management: Ownership vs. Reference Counting",
-      "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+      "title": "Managing the Unmanaged Switch",
+      "link": "https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-25T09:20:55Z",
-      "id": "75f74e733c041daaf61796401f891a02",
-      "comments": "https://news.ycombinator.com/item?id=47899989"
+      "published": "2026-04-25T07:11:55Z",
+      "id": "b57694e380e6201e7e95277318b3bbfd",
+      "comments": "https://news.ycombinator.com/item?id=47899399"
     },
     {
-      "title": "Mystery Cpuid Bit",
-      "link": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
+      "title": "Den stora \u00c4lgvandringen \u2013 The great moose migration (live)",
+      "link": "https://www.svtplay.se/video/jXv3A5G/den-stora-algvandringen/idag-00-00",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-25T06:27:06Z",
-      "id": "273a1214a036d68f2ad17eaeab4eb3e8",
-      "comments": "https://news.ycombinator.com/item?id=47899199"
-    },
-    {
-      "title": "Electrostatics and High Voltage Links",
-      "link": "http://amasci.com/static/electrostatic1.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T09:47:21Z",
-      "id": "ad7f0865f3d6c36c1f4d31b6bbc14bdb",
-      "comments": "https://news.ycombinator.com/item?id=47887907"
-    },
-    {
-      "title": "Box to save memory in Rust",
-      "link": "https://dystroy.org/blog/box-to-save-memory/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T17:02:24Z",
-      "id": "34fc90013415a8cf60416350ce4c59d2",
-      "comments": "https://news.ycombinator.com/item?id=47878231"
+      "published": "2026-04-24T17:45:52Z",
+      "id": "6d2b12dab37c022edcfe3384fc028aba",
+      "comments": "https://news.ycombinator.com/item?id=47893516"
     },
     {
       "title": "Flipdiscs",
