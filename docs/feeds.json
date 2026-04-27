@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-04-27T16:23:33.392411Z",
+  "last_updated": "2026-04-27T19:13:07.723795Z",
   "items": [
+    {
+      "title": "Our principles",
+      "link": "https://openai.com/index/our-principles/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T18:55:06Z",
+      "id": "e54287da4b3dbcf06dc41b353c7a6267",
+      "comments": "https://news.ycombinator.com/item?id=47925679"
+    },
+    {
+      "title": "United Wizards of the Coast",
+      "link": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T18:34:30Z",
+      "id": "b6f4aaa52e4695b643eb9b85807d206a",
+      "comments": "https://news.ycombinator.com/item?id=47925425"
+    },
+    {
+      "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
+      "link": "https://zsnes.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T17:50:10Z",
+      "id": "987d5a2b7f8d66f68e149f30117fae6e",
+      "comments": "https://news.ycombinator.com/item?id=47924877"
+    },
+    {
+      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+      "link": "https://github.com/Hanqaqa/Easyduino",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T17:45:02Z",
+      "id": "1a00005748118454491a8686b666e4c8",
+      "comments": "https://news.ycombinator.com/item?id=47924813"
+    },
+    {
+      "title": "GitHub is having issues now",
+      "link": "https://www.githubstatus.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T17:42:19Z",
+      "id": "d96d20a0e871bb714f57d6cf83ca8e8e",
+      "comments": "https://news.ycombinator.com/item?id=47924775"
+    },
+    {
+      "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
+      "link": "https://deepmind.google/blog/decoupled-diloco/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T16:57:34Z",
+      "id": "dc9ed221ca0bb969eb4a0686a2498433",
+      "comments": "https://news.ycombinator.com/item?id=47924181"
+    },
     {
       "title": "GitHub Copilot is moving to usage-based billing",
       "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
@@ -11,66 +65,39 @@
       "comments": "https://news.ycombinator.com/item?id=47923357"
     },
     {
-      "title": "Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case",
-      "link": "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T15:45:13Z",
-      "id": "4b16808c62d74ad3b510ed6f1f4b7bc1",
-      "comments": "https://news.ycombinator.com/item?id=47923121"
-    },
-    {
-      "title": "Apple is dropping AFP/TimeCapsule support in macOS 27",
+      "title": "Networking changes coming in macOS\u00a027",
       "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-27T15:36:12Z",
-      "id": "3557f578c86f519080a5c32843c88a7a",
+      "id": "0b1ca2746d0795509c9c8e3165d9f602",
       "comments": "https://news.ycombinator.com/item?id=47923010"
     },
     {
-      "title": "The Woes of Sanitizing SVGs",
+      "title": "The woes of sanitizing SVGs",
       "link": "https://muffin.ink/blog/scratch-svg-sanitization/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-27T15:31:36Z",
-      "id": "c22cf3910eb0ccd5b997c29e0ceaf8e8",
+      "id": "2df29313b98e1d724e0a50b9f6a2251e",
       "comments": "https://news.ycombinator.com/item?id=47922957"
     },
     {
-      "title": "US Supreme Court Reviews Police Use of Cell Location Data to Find Criminals",
+      "title": "US Supreme Court reviews police use of cell location data",
       "link": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-27T15:29:41Z",
-      "id": "3d8063318bf02e40e427aeb0bc98bfb8",
+      "id": "725d97b126d550c9c7857e51ec8721dc",
       "comments": "https://news.ycombinator.com/item?id=47922940"
     },
     {
-      "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
-      "link": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T15:12:41Z",
-      "id": "377503faea15ac90d6a769af04fe06c2",
-      "comments": "https://news.ycombinator.com/item?id=47922712"
-    },
-    {
-      "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T14:58:48Z",
-      "id": "2bf704924035479847fbc57c600319fc",
-      "comments": "https://news.ycombinator.com/item?id=47922518"
-    },
-    {
-      "title": "\"Why not just use Lean?\"",
+      "title": "\u201cWhy not just use Lean?\u201d",
       "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-27T14:24:53Z",
-      "id": "401b03d1c581050961cce676c02157d9",
+      "id": "0a1e14bb9d68261286c6490cb1d86954",
       "comments": "https://news.ycombinator.com/item?id=47922079"
     },
     {
@@ -101,15 +128,6 @@
       "comments": "https://news.ycombinator.com/item?id=47921248"
     },
     {
-      "title": "Running local LLMs offline on a ten-hour flight",
-      "link": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T13:05:59Z",
-      "id": "01e67b580ace6d68e2264340bbf09013",
-      "comments": "https://news.ycombinator.com/item?id=47921064"
-    },
-    {
       "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
       "link": "https://github.com/dirac-run/dirac",
       "source": "Hacker News",
@@ -119,13 +137,13 @@
       "comments": "https://news.ycombinator.com/item?id=47920787"
     },
     {
-      "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
-      "link": "https://github.com/garritfra/cell",
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-27T11:39:49Z",
-      "id": "c66b0684f106b2772147e33df6f69fa9",
-      "comments": "https://news.ycombinator.com/item?id=47920289"
+      "published": "2026-04-27T11:43:59Z",
+      "id": "523a54e6f3d7a58da76e9183a17afeed",
+      "comments": "https://news.ycombinator.com/item?id=47920315"
     },
     {
       "title": "Men who stare at walls",
@@ -146,12 +164,12 @@
       "comments": "https://news.ycombinator.com/item?id=47919997"
     },
     {
-      "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+      "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
       "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-27T10:15:17Z",
-      "id": "e1d21f9a73304f2c57791f9b78d0dac0",
+      "id": "f7cd4e3f414789e433b7a8da06633c3a",
       "comments": "https://news.ycombinator.com/item?id=47919733"
     },
     {
@@ -173,24 +191,6 @@
       "comments": "https://news.ycombinator.com/item?id=47919240"
     },
     {
-      "title": "The Prompt API",
-      "link": "https://developer.chrome.com/docs/ai/prompt-api",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T02:18:58Z",
-      "id": "e5970886bdec7d29cf10a5e0018a9b3f",
-      "comments": "https://news.ycombinator.com/item?id=47917026"
-    },
-    {
-      "title": "TurboQuant: A first-principles walkthrough",
-      "link": "https://arkaung.github.io/interactive-turboquant/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T01:54:32Z",
-      "id": "8ee1a763c5a4fce18e30707f229c50b1",
-      "comments": "https://news.ycombinator.com/item?id=47916890"
-    },
-    {
       "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
       "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
       "source": "Hacker News",
@@ -209,22 +209,31 @@
       "comments": "https://news.ycombinator.com/item?id=47913650"
     },
     {
-      "title": "Self-updating screenshots",
-      "link": "https://interblah.net/self-updating-screenshots",
+      "title": "Magic by Return of Post: How Mail Order Delivered the Occult",
+      "link": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-26T07:00:39Z",
-      "id": "78c1daf9449d1de45074640d5274931c",
-      "comments": "https://news.ycombinator.com/item?id=47908051"
+      "published": "2026-04-25T21:17:02Z",
+      "id": "4eafa7e0450f43c038bcfa9bdd055afc",
+      "comments": "https://news.ycombinator.com/item?id=47904615"
     },
     {
-      "title": "Understanding the short circuit in solid-state batteries",
-      "link": "https://www.mpie.de/5151287/short-circuit-solid-state-batteries",
+      "title": "Adding a team was the wrong strategic decision",
+      "link": "https://learnings.aleixmorgadas.dev/p/adding-a-team-was-the-wrong-strategic",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-25T23:43:19Z",
-      "id": "a4823c3f507a4543f8e75f6d2a060262",
-      "comments": "https://news.ycombinator.com/item?id=47905761"
+      "published": "2026-04-25T19:53:41Z",
+      "id": "a1cacbab2975a54aef982c513b5d5c76",
+      "comments": "https://news.ycombinator.com/item?id=47904053"
+    },
+    {
+      "title": "The Quiet Resurgence of RF Engineering",
+      "link": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T18:25:54Z",
+      "id": "c746ba5efece6cf900a17f5d7e62064d",
+      "comments": "https://news.ycombinator.com/item?id=47903439"
     },
     {
       "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
@@ -234,15 +243,6 @@
       "published": "2026-04-25T13:28:29Z",
       "id": "de727250132c0d3d6ea0be289bec1ed1",
       "comments": "https://news.ycombinator.com/item?id=47901433"
-    },
-    {
-      "title": "Getting my daily news from a dot matrix printer 2024",
-      "link": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T11:39:53Z",
-      "id": "f5eb4ef0c1aaf1eda16ed54cc0dd2b9d",
-      "comments": "https://news.ycombinator.com/item?id=47900649"
     },
     {
       "title": "Managing the Unmanaged Switch",
