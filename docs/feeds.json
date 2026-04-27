@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-27T08:15:19.317316Z",
+  "last_updated": "2026-04-27T10:59:14.355410Z",
   "items": [
+    {
+      "title": "It's OK to abandon your side-project (2024)",
+      "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T08:11:16Z",
+      "id": "54fda54a54f988788a41bdf1fb377ae1",
+      "comments": "https://news.ycombinator.com/item?id=47918961"
+    },
     {
       "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
       "link": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
@@ -74,15 +83,6 @@
       "comments": "https://news.ycombinator.com/item?id=47914165"
     },
     {
-      "title": "MoQ Boy",
-      "link": "https://moq.dev/blog/moq-boy/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T20:40:50Z",
-      "id": "bc7c3f567eb76a8508db64f7c350db7e",
-      "comments": "https://news.ycombinator.com/item?id=47914161"
-    },
-    {
       "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
       "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
       "source": "Hacker News",
@@ -110,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47913382"
     },
     {
-      "title": "The Visible Zorker: Zork 1",
-      "link": "https://eblong.com/infocom/visi/zork1/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T16:42:19Z",
-      "id": "bc06f12560417ed5aa184a3af49bd6ec",
-      "comments": "https://news.ycombinator.com/item?id=47911644"
-    },
-    {
       "title": "An AI agent deleted our production database. The agent's confession is below",
       "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
       "source": "Hacker News",
@@ -126,15 +117,6 @@
       "published": "2026-04-26T16:27:29Z",
       "id": "8b01ce02548cf52e7882a67653b6daf8",
       "comments": "https://news.ycombinator.com/item?id=47911524"
-    },
-    {
-      "title": "Clay PCB Tutorial",
-      "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T16:02:14Z",
-      "id": "953971a5ab9fc400aad0c3c7029ff796",
-      "comments": "https://news.ycombinator.com/item?id=47911350"
     },
     {
       "title": "Show HN: Free textbook on engineering thermodynamics",
@@ -146,15 +128,6 @@
       "comments": "https://news.ycombinator.com/item?id=47911013"
     },
     {
-      "title": "Lessons from building multiplayer browsers",
-      "link": "https://www.alejandro.pe/writing/sail-muddy-lessons",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T14:59:37Z",
-      "id": "72db091bf3baf3da3792696583d6f9d5",
-      "comments": "https://news.ycombinator.com/item?id=47910877"
-    },
-    {
       "title": "SWE-bench Verified no longer measures frontier coding capabilities",
       "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
       "source": "Hacker News",
@@ -162,6 +135,15 @@
       "published": "2026-04-26T13:58:13Z",
       "id": "667ed079bcb8ee3d652399c99d8fa385",
       "comments": "https://news.ycombinator.com/item?id=47910388"
+    },
+    {
+      "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T12:42:11Z",
+      "id": "0da452ab4e2bacd4dd493175e027da05",
+      "comments": "https://news.ycombinator.com/item?id=47909860"
     },
     {
       "title": "Self-updating screenshots",
@@ -209,13 +191,22 @@
       "comments": "https://news.ycombinator.com/item?id=47903541"
     },
     {
-      "title": "The Military Rockets That Launched the Space Age (2023)",
-      "link": "https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age",
+      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+      "link": "https://github.com/WeebLabs/DSPi",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-25T12:14:26Z",
-      "id": "4da9044db21d738e29ced59b3d3eb5cc",
-      "comments": "https://news.ycombinator.com/item?id=47900820"
+      "published": "2026-04-25T13:28:29Z",
+      "id": "de727250132c0d3d6ea0be289bec1ed1",
+      "comments": "https://news.ycombinator.com/item?id=47901433"
+    },
+    {
+      "title": "Rust Memory Management: Ownership vs. Reference Counting",
+      "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T09:20:55Z",
+      "id": "75f74e733c041daaf61796401f891a02",
+      "comments": "https://news.ycombinator.com/item?id=47899989"
     },
     {
       "title": "Mystery Cpuid Bit",
@@ -234,6 +225,15 @@
       "published": "2026-04-25T04:31:14Z",
       "id": "eed32758b40c639053578b20e6b99697",
       "comments": "https://news.ycombinator.com/item?id=47898660"
+    },
+    {
+      "title": "Electrostatics and High Voltage Links",
+      "link": "http://amasci.com/static/electrostatic1.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-24T09:47:21Z",
+      "id": "ad7f0865f3d6c36c1f4d31b6bbc14bdb",
+      "comments": "https://news.ycombinator.com/item?id=47887907"
     },
     {
       "title": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
