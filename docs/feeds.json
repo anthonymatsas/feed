@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-04-27T10:59:14.355410Z",
+  "last_updated": "2026-04-27T13:44:01.187594Z",
   "items": [
+    {
+      "title": "Tim Cook Is Leaving. Good",
+      "link": "https://routerjockey.com/tim-cook-is-leaving-good/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T13:11:31Z",
+      "id": "62cdc11ba9bc430a82575f80998adddd",
+      "comments": "https://news.ycombinator.com/item?id=47921130"
+    },
+    {
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "link": "https://github.com/dirac-run/dirac",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T12:35:55Z",
+      "id": "e476f76e1f09f2a05e23646937540eb7",
+      "comments": "https://news.ycombinator.com/item?id=47920787"
+    },
+    {
+      "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
+      "link": "https://github.com/garritfra/cell",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T11:39:49Z",
+      "id": "c66b0684f106b2772147e33df6f69fa9",
+      "comments": "https://news.ycombinator.com/item?id=47920289"
+    },
+    {
+      "title": "Men Who Stare at Walls",
+      "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T11:08:26Z",
+      "id": "9ff5038a88722b42f7a53884bcc892c0",
+      "comments": "https://news.ycombinator.com/item?id=47920074"
+    },
+    {
+      "title": "Show HN: I built a dual crossword puzzle where two crosswords share one grid",
+      "link": "https://forkle.co.uk/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T10:57:18Z",
+      "id": "15505f3f85ca1a2c44647eca084c53dc",
+      "comments": "https://news.ycombinator.com/item?id=47920007"
+    },
+    {
+      "title": "Pgbackrest is no longer being maintained",
+      "link": "https://github.com/pgbackrest/pgbackrest",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T10:56:34Z",
+      "id": "484d7af43c73cb954293554171e7e6ad",
+      "comments": "https://news.ycombinator.com/item?id=47919997"
+    },
+    {
+      "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T10:15:17Z",
+      "id": "e1d21f9a73304f2c57791f9b78d0dac0",
+      "comments": "https://news.ycombinator.com/item?id=47919733"
+    },
+    {
+      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
+      "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T10:14:15Z",
+      "id": "647e561c1010731e107e7d89b9ecc861",
+      "comments": "https://news.ycombinator.com/item?id=47919725"
+    },
+    {
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "link": "https://app.oravys.com/blog/mercor-breach-2026",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T09:57:10Z",
+      "id": "8e6567668d3e1fca6f5f827f2c095618",
+      "comments": "https://news.ycombinator.com/item?id=47919630"
+    },
+    {
+      "title": "Quarkdown \u2013 Markdown with Superpowers",
+      "link": "https://quarkdown.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T08:54:57Z",
+      "id": "ea4b61212ec3c4f6c7577f2eafb94559",
+      "comments": "https://news.ycombinator.com/item?id=47919240"
+    },
     {
       "title": "It's OK to abandon your side-project (2024)",
       "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
@@ -9,15 +99,6 @@
       "published": "2026-04-27T08:11:16Z",
       "id": "54fda54a54f988788a41bdf1fb377ae1",
       "comments": "https://news.ycombinator.com/item?id=47918961"
-    },
-    {
-      "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
-      "link": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T07:21:17Z",
-      "id": "88f3522d22fac6acf4d8942c1b0963e0",
-      "comments": "https://news.ycombinator.com/item?id=47918657"
     },
     {
       "title": "The Prompt API",
@@ -29,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47917026"
     },
     {
-      "title": "EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
-      "link": "https://github.com/evanklem/evanflow",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T01:56:39Z",
-      "id": "fdf1bf25cf85221c777b0cfb0046c0b0",
-      "comments": "https://news.ycombinator.com/item?id=47916909"
-    },
-    {
       "title": "TurboQuant: A first-principles walkthrough",
       "link": "https://arkaung.github.io/interactive-turboquant/",
       "source": "Hacker News",
@@ -45,24 +117,6 @@
       "published": "2026-04-27T01:54:32Z",
       "id": "8ee1a763c5a4fce18e30707f229c50b1",
       "comments": "https://news.ycombinator.com/item?id=47916890"
-    },
-    {
-      "title": "FreeBSD Device Drivers Book",
-      "link": "https://github.com/ebrandi/FDD-book",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T22:53:06Z",
-      "id": "02abf40b9890da586be16cdd55dc9f4a",
-      "comments": "https://news.ycombinator.com/item?id=47915632"
-    },
-    {
-      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
-      "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T21:23:20Z",
-      "id": "2068f5860c98d3cf179c8c45f6a78d17",
-      "comments": "https://news.ycombinator.com/item?id=47914677"
     },
     {
       "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
@@ -101,33 +155,6 @@
       "comments": "https://news.ycombinator.com/item?id=47913650"
     },
     {
-      "title": "Chernobyl wildlife forty years on",
-      "link": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T19:42:59Z",
-      "id": "b8c6004a25e4c8b26cff42b5ae5d2b0b",
-      "comments": "https://news.ycombinator.com/item?id=47913382"
-    },
-    {
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T16:27:29Z",
-      "id": "8b01ce02548cf52e7882a67653b6daf8",
-      "comments": "https://news.ycombinator.com/item?id=47911524"
-    },
-    {
-      "title": "Show HN: Free textbook on engineering thermodynamics",
-      "link": "https://thermodynamicsbook.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T15:17:34Z",
-      "id": "59f7dde4fd772f79e9fe049ba2c30ed3",
-      "comments": "https://news.ycombinator.com/item?id=47911013"
-    },
-    {
       "title": "SWE-bench Verified no longer measures frontier coding capabilities",
       "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
       "source": "Hacker News",
@@ -137,13 +164,13 @@
       "comments": "https://news.ycombinator.com/item?id=47910388"
     },
     {
-      "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
-      "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+      "title": "Branimir Lambov from IBM on Cassandra",
+      "link": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-26T12:42:11Z",
-      "id": "0da452ab4e2bacd4dd493175e027da05",
-      "comments": "https://news.ycombinator.com/item?id=47909860"
+      "published": "2026-04-26T13:45:03Z",
+      "id": "13ff08a8e895fb1bd1ff6d466055b5a5",
+      "comments": "https://news.ycombinator.com/item?id=47910287"
     },
     {
       "title": "Self-updating screenshots",
@@ -164,22 +191,13 @@
       "comments": "https://news.ycombinator.com/item?id=47906666"
     },
     {
-      "title": "When the cheap one is the cool one",
-      "link": "https://arun.is/blog/cheap-cool/",
+      "title": "Understanding the short circuit in solid-state batteries",
+      "link": "https://www.mpie.de/5151287/short-circuit-solid-state-batteries",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-26T01:25:13Z",
-      "id": "93dc3ca91ea4e6f9bc7ed7814718e672",
-      "comments": "https://news.ycombinator.com/item?id=47906420"
-    },
-    {
-      "title": "Revocation of X.509 Certificates",
-      "link": "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T19:40:10Z",
-      "id": "ca515dddc3530abfe571cc0823ee4512",
-      "comments": "https://news.ycombinator.com/item?id=47903959"
+      "published": "2026-04-25T23:43:19Z",
+      "id": "a4823c3f507a4543f8e75f6d2a060262",
+      "comments": "https://news.ycombinator.com/item?id=47905761"
     },
     {
       "title": "Three constraints before I build anything",
@@ -200,6 +218,15 @@
       "comments": "https://news.ycombinator.com/item?id=47901433"
     },
     {
+      "title": "Getting my daily news from a dot matrix printer 2024",
+      "link": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T11:39:53Z",
+      "id": "f5eb4ef0c1aaf1eda16ed54cc0dd2b9d",
+      "comments": "https://news.ycombinator.com/item?id=47900649"
+    },
+    {
       "title": "Rust Memory Management: Ownership vs. Reference Counting",
       "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
       "source": "Hacker News",
@@ -218,15 +245,6 @@
       "comments": "https://news.ycombinator.com/item?id=47899199"
     },
     {
-      "title": "Quirks of Human Anatomy",
-      "link": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T04:31:14Z",
-      "id": "eed32758b40c639053578b20e6b99697",
-      "comments": "https://news.ycombinator.com/item?id=47898660"
-    },
-    {
       "title": "Electrostatics and High Voltage Links",
       "link": "http://amasci.com/static/electrostatic1.html",
       "source": "Hacker News",
@@ -234,24 +252,6 @@
       "published": "2026-04-24T09:47:21Z",
       "id": "ad7f0865f3d6c36c1f4d31b6bbc14bdb",
       "comments": "https://news.ycombinator.com/item?id=47887907"
-    },
-    {
-      "title": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
-      "link": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T04:57:16Z",
-      "id": "42ec39ef3648a107cd46626d2f298a93",
-      "comments": "https://news.ycombinator.com/item?id=47885719"
-    },
-    {
-      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
-      "link": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T00:03:20Z",
-      "id": "5ae80c16520089693c3de98afedf13cc",
-      "comments": "https://news.ycombinator.com/item?id=47883839"
     },
     {
       "title": "Box to save memory in Rust",
