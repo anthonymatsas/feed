@@ -1,14 +1,32 @@
 {
-  "last_updated": "2026-04-27T02:27:32.624763Z",
+  "last_updated": "2026-04-27T05:49:29.295713Z",
   "items": [
     {
-      "title": "Show HN: The Unix Magic poster, annotated (updated)",
-      "link": "https://github.com/drio/unixmagic",
+      "title": "The Prompt API",
+      "link": "https://developer.chrome.com/docs/ai/prompt-api",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-27T01:32:44Z",
-      "id": "99bb103a0bcc17d0faaf2b472e423af7",
-      "comments": "https://news.ycombinator.com/item?id=47916769"
+      "published": "2026-04-27T02:18:58Z",
+      "id": "e5970886bdec7d29cf10a5e0018a9b3f",
+      "comments": "https://news.ycombinator.com/item?id=47917026"
+    },
+    {
+      "title": "EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
+      "link": "https://github.com/evanklem/evanflow",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T01:56:39Z",
+      "id": "fdf1bf25cf85221c777b0cfb0046c0b0",
+      "comments": "https://news.ycombinator.com/item?id=47916909"
+    },
+    {
+      "title": "TurboQuant: A first-principles walkthrough",
+      "link": "https://arkaung.github.io/interactive-turboquant/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T01:54:32Z",
+      "id": "8ee1a763c5a4fce18e30707f229c50b1",
+      "comments": "https://news.ycombinator.com/item?id=47916890"
     },
     {
       "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
@@ -27,15 +45,6 @@
       "published": "2026-04-26T22:53:06Z",
       "id": "02abf40b9890da586be16cdd55dc9f4a",
       "comments": "https://news.ycombinator.com/item?id=47915632"
-    },
-    {
-      "title": "Show HN: Startup Equity Adventure Game",
-      "link": "https://options-game-polymathrobotics.pythonanywhere.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T22:14:59Z",
-      "id": "d8b556f5393b19db926e05a6a44ccf0c",
-      "comments": "https://news.ycombinator.com/item?id=47915274"
     },
     {
       "title": "Butterflies are in decline across North America, a look at the Western Monarch",
@@ -164,24 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47910388"
     },
     {
-      "title": "The fastest Linux timestamps",
-      "link": "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T13:00:50Z",
-      "id": "01f0e65952abecf07edeab3668981baf",
-      "comments": "https://news.ycombinator.com/item?id=47909979"
-    },
-    {
-      "title": "Statecharts: hierarchical state machines",
-      "link": "https://statecharts.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-26T09:32:22Z",
-      "id": "6beeec9376f66e9d3445b18b3e521581",
-      "comments": "https://news.ycombinator.com/item?id=47908833"
-    },
-    {
       "title": "Self-updating screenshots",
       "link": "https://interblah.net/self-updating-screenshots",
       "source": "Hacker News",
@@ -189,6 +180,15 @@
       "published": "2026-04-26T07:00:39Z",
       "id": "78c1daf9449d1de45074640d5274931c",
       "comments": "https://news.ycombinator.com/item?id=47908051"
+    },
+    {
+      "title": "A Guide to CubeSat Mission and Bus Design",
+      "link": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T02:15:36Z",
+      "id": "1e1af8dce1527e63cb33e24d5a1fc5bd",
+      "comments": "https://news.ycombinator.com/item?id=47906666"
     },
     {
       "title": "When the cheap one is the cool one",
@@ -200,6 +200,15 @@
       "comments": "https://news.ycombinator.com/item?id=47906420"
     },
     {
+      "title": "Revocation of X.509 Certificates",
+      "link": "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T19:40:10Z",
+      "id": "ca515dddc3530abfe571cc0823ee4512",
+      "comments": "https://news.ycombinator.com/item?id=47903959"
+    },
+    {
       "title": "Three constraints before I build anything",
       "link": "https://jordanlord.co.uk/blog/3-constraints/",
       "source": "Hacker News",
@@ -207,24 +216,6 @@
       "published": "2026-04-25T18:41:03Z",
       "id": "16e27fb35b405b420feea48520833042",
       "comments": "https://news.ycombinator.com/item?id=47903541"
-    },
-    {
-      "title": "Music of the BBC Microcomputer System",
-      "link": "https://www.acornelectron.co.uk/eug/72/a-musi.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T14:31:43Z",
-      "id": "0d3c0401a581cc19aaeef77ae0d4b195",
-      "comments": "https://news.ycombinator.com/item?id=47901819"
-    },
-    {
-      "title": "The QEII garden \u2013 built from its own ruins \u2013 opens in Regent's Park",
-      "link": "https://www.ianvisits.co.uk/articles/a-garden-built-from-its-own-ruins-opens-in-regents-park-89152/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T08:38:47Z",
-      "id": "9d296fa2d11132666e5aa71114424030",
-      "comments": "https://news.ycombinator.com/item?id=47899774"
     },
     {
       "title": "Quirks of Human Anatomy",
@@ -245,15 +236,6 @@
       "comments": "https://news.ycombinator.com/item?id=47885719"
     },
     {
-      "title": "XOXO Festival Archive",
-      "link": "https://xoxofest.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-24T02:40:39Z",
-      "id": "191a4e7dfa79183ed80cf24e4d68c776",
-      "comments": "https://news.ycombinator.com/item?id=47884850"
-    },
-    {
       "title": "Magic: The Gathering took me from N2 to Japanese fluency",
       "link": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
       "source": "Hacker News",
@@ -270,6 +252,24 @@
       "published": "2026-04-23T17:02:24Z",
       "id": "34fc90013415a8cf60416350ce4c59d2",
       "comments": "https://news.ycombinator.com/item?id=47878231"
+    },
+    {
+      "title": "Flipdiscs",
+      "link": "https://flipdisc.io",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T13:54:31Z",
+      "id": "e92ff5351960439bda2c724c0ef867a3",
+      "comments": "https://news.ycombinator.com/item?id=47875795"
+    },
+    {
+      "title": "When Your Digital Life Vanishes",
+      "link": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-22T22:31:24Z",
+      "id": "c37141c9e936a307ff3a27d8df4f9fbb",
+      "comments": "https://news.ycombinator.com/item?id=47870162"
     }
   ]
 }
