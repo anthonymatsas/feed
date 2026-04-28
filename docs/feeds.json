@@ -1,14 +1,32 @@
 {
-  "last_updated": "2026-04-28T05:55:06.381795Z",
+  "last_updated": "2026-04-28T08:19:25.837017Z",
   "items": [
     {
-      "title": "San Francisco, AI capital of the world, is an economic laggard",
-      "link": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+      "title": "Scraping 241 UK council planning portals \u2013 2.6M decisions so far",
+      "link": "https://news.ycombinator.com/item?id=47931470",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-28T04:32:42Z",
-      "id": "faa5066bf7f26d32e787c4f49a05247e",
-      "comments": "https://news.ycombinator.com/item?id=47930483"
+      "published": "2026-04-28T07:34:03Z",
+      "id": "4fda124a9bbd7d6b390768e1c983d293",
+      "comments": "https://news.ycombinator.com/item?id=47931470"
+    },
+    {
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-28T06:27:39Z",
+      "id": "4dd319313f864f0f9e47f630ae4efbbf",
+      "comments": "https://news.ycombinator.com/item?id=47931035"
+    },
+    {
+      "title": "WASM is not quite a stack machine",
+      "link": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-28T04:34:29Z",
+      "id": "9690ad109e82c703b195155570dd3d1c",
+      "comments": "https://news.ycombinator.com/item?id=47930493"
     },
     {
       "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
@@ -20,21 +38,12 @@
       "comments": "https://news.ycombinator.com/item?id=47930170"
     },
     {
-      "title": "Show HN: AgentSwift \u2013 Open-source iOS builder agent",
-      "link": "https://github.com/hpennington/agentswift",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-28T01:14:31Z",
-      "id": "02e461e4a9d777bd5eb5f9b2dde4c110",
-      "comments": "https://news.ycombinator.com/item?id=47929375"
-    },
-    {
-      "title": "Ted Nyman \u2013 High Performance Git",
+      "title": "High Performance Git",
       "link": "https://gitperf.com/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-28T00:32:04Z",
-      "id": "2ef4d7ebecce6edbc222587866859a5f",
+      "id": "8a5cdc8bc88d68e26a9b53648a1b01f9",
       "comments": "https://news.ycombinator.com/item?id=47929035"
     },
     {
@@ -74,15 +83,6 @@
       "comments": "https://news.ycombinator.com/item?id=47926861"
     },
     {
-      "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
-      "link": "https://zsnes.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T17:50:10Z",
-      "id": "987d5a2b7f8d66f68e149f30117fae6e",
-      "comments": "https://news.ycombinator.com/item?id=47924877"
-    },
-    {
       "title": "Easyduino: Open Source PCB Devboards for KiCad",
       "link": "https://github.com/Hanqaqa/Easyduino",
       "source": "Hacker News",
@@ -119,15 +119,6 @@
       "comments": "https://news.ycombinator.com/item?id=47922957"
     },
     {
-      "title": "\u201cWhy not just use Lean?\u201d",
-      "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T14:24:53Z",
-      "id": "0a1e14bb9d68261286c6490cb1d86954",
-      "comments": "https://news.ycombinator.com/item?id=47922079"
-    },
-    {
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
       "source": "Hacker News",
@@ -135,24 +126,6 @@
       "published": "2026-04-27T13:22:42Z",
       "id": "079e60a379658463710bf541b89d808e",
       "comments": "https://news.ycombinator.com/item?id=47921248"
-    },
-    {
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "link": "https://github.com/dirac-run/dirac",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T12:35:55Z",
-      "id": "e476f76e1f09f2a05e23646937540eb7",
-      "comments": "https://news.ycombinator.com/item?id=47920787"
-    },
-    {
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T11:43:59Z",
-      "id": "523a54e6f3d7a58da76e9183a17afeed",
-      "comments": "https://news.ycombinator.com/item?id=47920315"
     },
     {
       "title": "Men who stare at walls",
@@ -189,6 +162,24 @@
       "published": "2026-04-27T09:57:10Z",
       "id": "8e6567668d3e1fca6f5f827f2c095618",
       "comments": "https://news.ycombinator.com/item?id=47919630"
+    },
+    {
+      "title": "Quarkdown \u2013 Markdown with Superpowers",
+      "link": "https://quarkdown.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T08:54:57Z",
+      "id": "ea4b61212ec3c4f6c7577f2eafb94559",
+      "comments": "https://news.ycombinator.com/item?id=47919240"
+    },
+    {
+      "title": "Can You Find the Comet?",
+      "link": "https://apod.nasa.gov/apod/ap260427.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T07:59:37Z",
+      "id": "367e9347ad841c85eb43cb030829c9a6",
+      "comments": "https://news.ycombinator.com/item?id=47918891"
     },
     {
       "title": "Lessons from building multiplayer browsers",
@@ -270,6 +261,15 @@
       "published": "2026-04-25T08:16:19Z",
       "id": "e67a5a50527e52d5c67306132a27374d",
       "comments": "https://news.ycombinator.com/item?id=47899669"
+    },
+    {
+      "title": "First G-SHOCK with a heart rate monitor, also featuring Smartphone Link",
+      "link": "https://gshock.casio.com/intl/products/g-lide/gbx-h5600/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-23T17:13:25Z",
+      "id": "f92f85e313e2e3834f2b6e108a448a91",
+      "comments": "https://news.ycombinator.com/item?id=47878396"
     }
   ]
 }
