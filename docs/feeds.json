@@ -1,22 +1,58 @@
 {
-  "last_updated": "2026-04-27T21:51:02.044565Z",
+  "last_updated": "2026-04-28T02:34:54.247471Z",
   "items": [
     {
-      "title": "NPM Website Is Down",
-      "link": "https://status.npmjs.org",
+      "title": "I quit drinking for a year",
+      "link": "https://dynomight.net/drinking/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-27T21:26:25Z",
-      "id": "691866320aa803c3aa76c4b48bf55237",
-      "comments": "https://news.ycombinator.com/item?id=47927526"
+      "published": "2026-04-28T01:26:03Z",
+      "id": "676eab5b4b12f9798bf38473d2f945ff",
+      "comments": "https://news.ycombinator.com/item?id=47929454"
     },
     {
-      "title": "Three men are facing 44 charges in Toronto SMS Blaster arrests",
+      "title": "Show HN: AgentSwift \u2013 Open-source iOS builder agent",
+      "link": "https://github.com/hpennington/agentswift",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-28T01:14:31Z",
+      "id": "02e461e4a9d777bd5eb5f9b2dde4c110",
+      "comments": "https://news.ycombinator.com/item?id=47929375"
+    },
+    {
+      "title": "Ted Nyman \u2013 High Performance Git",
+      "link": "https://gitperf.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-28T00:32:04Z",
+      "id": "2ef4d7ebecce6edbc222587866859a5f",
+      "comments": "https://news.ycombinator.com/item?id=47929035"
+    },
+    {
+      "title": "Integrated by Design",
+      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T23:14:26Z",
+      "id": "0d5022d092fb51206131d71f9ba01086",
+      "comments": "https://news.ycombinator.com/item?id=47928554"
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T21:55:48Z",
+      "id": "9e50b44a062d797a7fedca651d7be736",
+      "comments": "https://news.ycombinator.com/item?id=47927903"
+    },
+    {
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
       "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-27T20:44:16Z",
-      "id": "5e1703ce01bafbd51e1df6239b8a2b1f",
+      "id": "1d6fc58d110d4992e6097a64280c532a",
       "comments": "https://news.ycombinator.com/item?id=47927070"
     },
     {
@@ -27,33 +63,6 @@
       "published": "2026-04-27T20:24:33Z",
       "id": "2aea42e104a2024d40617e141d410b23",
       "comments": "https://news.ycombinator.com/item?id=47926861"
-    },
-    {
-      "title": "L123: A Lotus 1-2-3\u2013style terminal spreadsheet with modern Excel compatibility",
-      "link": "https://github.com/duane1024/l123",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T19:53:29Z",
-      "id": "3faa076a30070b9eb4c78c98eb647945",
-      "comments": "https://news.ycombinator.com/item?id=47926480"
-    },
-    {
-      "title": "Our principles",
-      "link": "https://openai.com/index/our-principles/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T18:55:06Z",
-      "id": "e54287da4b3dbcf06dc41b353c7a6267",
-      "comments": "https://news.ycombinator.com/item?id=47925679"
-    },
-    {
-      "title": "United Wizards of the Coast",
-      "link": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T18:34:30Z",
-      "id": "b6f4aaa52e4695b643eb9b85807d206a",
-      "comments": "https://news.ycombinator.com/item?id=47925425"
     },
     {
       "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
@@ -74,15 +83,6 @@
       "comments": "https://news.ycombinator.com/item?id=47924813"
     },
     {
-      "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
-      "link": "https://deepmind.google/blog/decoupled-diloco/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T16:57:34Z",
-      "id": "dc9ed221ca0bb969eb4a0686a2498433",
-      "comments": "https://news.ycombinator.com/item?id=47924181"
-    },
-    {
       "title": "GitHub Copilot is moving to usage-based billing",
       "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
       "source": "Hacker News",
@@ -90,15 +90,6 @@
       "published": "2026-04-27T16:03:08Z",
       "id": "92b34fafa570ea9a5ca3725aa1ba5e52",
       "comments": "https://news.ycombinator.com/item?id=47923357"
-    },
-    {
-      "title": "Supreme Court to hear arguments in landmark Roundup weedkiller case",
-      "link": "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T15:45:13Z",
-      "id": "ad9aedcfc70cb24b71db480926a3493c",
-      "comments": "https://news.ycombinator.com/item?id=47923121"
     },
     {
       "title": "Networking changes coming in macOS\u00a027",
@@ -119,15 +110,6 @@
       "comments": "https://news.ycombinator.com/item?id=47922957"
     },
     {
-      "title": "US Supreme Court reviews police use of cell location data",
-      "link": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T15:29:41Z",
-      "id": "725d97b126d550c9c7857e51ec8721dc",
-      "comments": "https://news.ycombinator.com/item?id=47922940"
-    },
-    {
       "title": "\u201cWhy not just use Lean?\u201d",
       "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
       "source": "Hacker News",
@@ -135,15 +117,6 @@
       "published": "2026-04-27T14:24:53Z",
       "id": "0a1e14bb9d68261286c6490cb1d86954",
       "comments": "https://news.ycombinator.com/item?id=47922079"
-    },
-    {
-      "title": "Show HN: Utilyze \u2013 an open source GPU monitoring tool more accurate than nvtop",
-      "link": "https://www.systalyze.com/utilyze",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-27T13:55:43Z",
-      "id": "b7f447a401ad9a231cb35df5e3b2879b",
-      "comments": "https://news.ycombinator.com/item?id=47921626"
     },
     {
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
@@ -218,6 +191,15 @@
       "comments": "https://news.ycombinator.com/item?id=47919240"
     },
     {
+      "title": "The Secret Life of NaN (2018)",
+      "link": "https://anniecherkaev.com/the-secret-life-of-nan",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T10:56:24Z",
+      "id": "dc4b0f7adbe6a72cb7b55e20148a8ac7",
+      "comments": "https://news.ycombinator.com/item?id=47909252"
+    },
+    {
       "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
       "link": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
       "source": "Hacker News",
@@ -225,6 +207,24 @@
       "published": "2026-04-26T03:52:43Z",
       "id": "a4f5132ead24aa0ac39bc66f661c7382",
       "comments": "https://news.ycombinator.com/item?id=47907175"
+    },
+    {
+      "title": "Meetings are forcing functions",
+      "link": "https://www.mooreds.com/wordpress/archives/3734",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-26T03:12:04Z",
+      "id": "9cd06e5749f1d9f43dd9d6c8ad6a7fef",
+      "comments": "https://news.ycombinator.com/item?id=47906942"
+    },
+    {
+      "title": "How I leared what a decoupling capacitor is for, the hard way",
+      "link": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T22:27:44Z",
+      "id": "a66ee2172b4bebc0680b50aee683945b",
+      "comments": "https://news.ycombinator.com/item?id=47905208"
     },
     {
       "title": "Magic by return of post: How mail order delivered the occult",
@@ -236,15 +236,6 @@
       "comments": "https://news.ycombinator.com/item?id=47904615"
     },
     {
-      "title": "Adding a team was the wrong strategic decision",
-      "link": "https://learnings.aleixmorgadas.dev/p/adding-a-team-was-the-wrong-strategic",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-25T19:53:41Z",
-      "id": "a1cacbab2975a54aef982c513b5d5c76",
-      "comments": "https://news.ycombinator.com/item?id=47904053"
-    },
-    {
       "title": "The quiet resurgence of RF engineering",
       "link": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
       "source": "Hacker News",
@@ -254,6 +245,24 @@
       "comments": "https://news.ycombinator.com/item?id=47903439"
     },
     {
+      "title": "Mo RAM, Mo Problems (2025)",
+      "link": "https://fabiensanglard.net/curse/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T15:41:54Z",
+      "id": "d39e7b3de984ebec987e2310c1877e8d",
+      "comments": "https://news.ycombinator.com/item?id=47902269"
+    },
+    {
+      "title": "Radar Laboratory \u2013 Interactive Radar Phenomenology",
+      "link": "https://radarlaboratory.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-25T14:24:47Z",
+      "id": "ab2a1fbb32cada7ed0aee38a435f4fd3",
+      "comments": "https://news.ycombinator.com/item?id=47901776"
+    },
+    {
       "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
       "link": "https://github.com/WeebLabs/DSPi",
       "source": "Hacker News",
@@ -261,15 +270,6 @@
       "published": "2026-04-25T13:28:29Z",
       "id": "de727250132c0d3d6ea0be289bec1ed1",
       "comments": "https://news.ycombinator.com/item?id=47901433"
-    },
-    {
-      "title": "Flipdiscs",
-      "link": "https://flipdisc.io",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-23T13:54:31Z",
-      "id": "e92ff5351960439bda2c724c0ef867a3",
-      "comments": "https://news.ycombinator.com/item?id=47875795"
     }
   ]
 }
