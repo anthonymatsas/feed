@@ -1,14 +1,96 @@
 {
-  "last_updated": "2026-04-30T08:13:46.505898Z",
+  "last_updated": "2026-04-30T10:51:02.167580Z",
   "items": [
     {
-      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
-      "link": "https://scottaaronson.blog/?p=9718",
+      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "link": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-30T06:30:30Z",
-      "id": "19b8317f33cd6666ad4be823a20a15f0",
-      "comments": "https://news.ycombinator.com/item?id=47958942"
+      "published": "2026-04-30T10:31:17Z",
+      "id": "1dbd676c785a1faf38ac84cd88a1d91c",
+      "comments": "https://news.ycombinator.com/item?id=47960507"
+    },
+    {
+      "title": "What Code Review Can't See (And Bad Data Always Finds)",
+      "link": "https://www.reddit.com/r/programming/comments/1szs6p3/what_code_review_cant_see_and_bad_data_always/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-30T10:29:10Z",
+      "id": "5c5252ea640fb80bef98bba80e957e10"
+    },
+    {
+      "title": "How to stay motivated when a peer is promoted to Tech Lead over equally experienced senior devs?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1szrwbi/how_to_stay_motivated_when_a_peer_is_promoted_to/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-30T10:13:05Z",
+      "id": "4e681ea195ea4a72afe19a0bae8a020d"
+    },
+    {
+      "title": "Copy Fail: an exploit for all Linux distributions since 2017",
+      "link": "https://www.reddit.com/r/programming/comments/1szrkre/copy_fail_an_exploit_for_all_linux_distributions/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-30T09:55:21Z",
+      "id": "95a167dc30708d2b24fc2e5bf4b36790"
+    },
+    {
+      "title": "Product thinking for open source library design \u2014 lessons from a dying project",
+      "link": "https://www.reddit.com/r/programming/comments/1szrdyo/product_thinking_for_open_source_library_design/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-30T09:44:19Z",
+      "id": "87f0213ee59919810e0b52f3152766f6"
+    },
+    {
+      "title": "agents write code 10x faster but debugging is the same speed it was in 2019",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1szr1n0/agents_write_code_10x_faster_but_debugging_is_the/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-30T09:24:16Z",
+      "id": "763e55f46f88d31872089c9b2a849eb9"
+    },
+    {
+      "title": "Amber-Lang 0.6.0 - New release (Bash transpiler)",
+      "link": "https://www.reddit.com/r/programming/comments/1szqpxo/amberlang_060_new_release_bash_transpiler/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-04-30T09:05:34Z",
+      "id": "23bb52391b13c8582009e7d77f90e127"
+    },
+    {
+      "title": "Laid off, 17 YOE, am I done?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1szq0nk/laid_off_17_yoe_am_i_done/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-04-30T08:24:15Z",
+      "id": "8cf6039f27136b30efca54f32f5ecc42"
+    },
+    {
+      "title": "DataCenter.FM \u2013 background noise app featuring the sound of the AI bubble",
+      "link": "https://datacenter.fm/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-30T07:52:12Z",
+      "id": "110a20d6959e43882068b34135026a33",
+      "comments": "https://news.ycombinator.com/item?id=47959513"
+    },
+    {
+      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "link": "https://github.com/mozilla/standards-positions/issues/1213",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-30T07:43:55Z",
+      "id": "ec69e4e34978ca86a3fe716c1a25991a",
+      "comments": "https://news.ycombinator.com/item?id=47959463"
+    },
+    {
+      "title": "LeBron James responds to the comments made by Jabari Smith Jr: \"I don't care about shit like that ... I'm too old for that shit.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1szofgs/lebron_james_responds_to_the_comments_made_by/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-30T06:52:16Z",
+      "id": "f78e509ce9a6e261664ea25c73e7a81a"
     },
     {
       "title": "Interviewer got upset with me because I refused to provide an example of how I implemented a concurrency control policy in my former employer's production codebase. How would you handle this?",
@@ -57,6 +139,14 @@
       "category": "sports",
       "published": "2026-04-30T04:50:04Z",
       "id": "07aa317c41724bd7a96288eddbf8778b"
+    },
+    {
+      "title": "James Harden in this series vs the Raptors is averaging 22/4/6 on 64.5 TS%",
+      "link": "https://www.reddit.com/r/nba/comments/1szm4ua/james_harden_in_this_series_vs_the_raptors_is/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-30T04:47:26Z",
+      "id": "84e2c73a337cc20d7e191964196d9b3e"
     },
     {
       "title": "[Highlights] Reed Sheppard hits the jumper over Deandre Ayton, strips LeBron James and finishes with the fastbreak dunk, putting the Rockets up 7 (with replays)",
@@ -176,20 +266,12 @@
       "id": "0d0331c50237f1e8b7cfc76c9ba03da4"
     },
     {
-      "title": "[Post Game Thread] The Cleveland Cavaliers (3-2) defeat the Toronto Raptors (2-3), 125-120 to take a 3-2 series lead.",
-      "link": "https://www.reddit.com/r/nba/comments/1szj21u/post_game_thread_the_cleveland_cavaliers_32/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-30T02:18:17Z",
-      "id": "492d2ef41fb8ae536b8864a23ed0e0ff"
-    },
-    {
-      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-30T02:15:47Z",
-      "id": "817c3ead8d896dff8b5b4ca446cd7e29",
+      "id": "5eafce96c151f987548fd7b370607be8",
       "comments": "https://news.ycombinator.com/item?id=47957294"
     },
     {
@@ -382,15 +464,6 @@
       "id": "b93db27b5beae99a54e8fd146abe1f2f"
     },
     {
-      "title": "Vera: a programming language designed for machines to write",
-      "link": "https://github.com/aallan/vera",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-29T21:41:32Z",
-      "id": "b3805f3aabe7133e5da158f578a0d3ca",
-      "comments": "https://news.ycombinator.com/item?id=47955118"
-    },
-    {
       "title": "Zavion Thomas practice reps (some against Delane)",
       "link": "https://www.reddit.com/r/CHIBears/comments/1szcbhg/zavion_thomas_practice_reps_some_against_delane/",
       "source": "r/CHIBears",
@@ -453,14 +526,6 @@
       "category": "sports",
       "published": "2026-04-29T20:52:01Z",
       "id": "4563776d17b42137d992d7395e4ed4f8"
-    },
-    {
-      "title": "No team in the last 12 seasons has gone onto to win the championship if the first round series lasted more than five games. The last team to do it were the 2014 Spurs who defeated the Mavs in 7 games.",
-      "link": "https://www.reddit.com/r/nba/comments/1szaqwj/no_team_in_the_last_12_seasons_has_gone_onto_to/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-29T20:32:06Z",
-      "id": "ac4332993f9d683c2518f042a23b14e4"
     },
     {
       "title": "[Henderson] League sources including Doris Burke are saying the Portland Trailblazers treatment of Tiago Splitter is \"the most vicious and disrespectful thing they've encountered in 30+ years\" as they're likely looking for the cheapest coach available",
@@ -783,15 +848,6 @@
       "id": "ea365cf68bb14f3d8c9c01d77cdeb240"
     },
     {
-      "title": "How to Build the Future: Demis Hassabis [video]",
-      "link": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-29T14:05:42Z",
-      "id": "cb98fab5b9b9984e0184123dba1c5243",
-      "comments": "https://news.ycombinator.com/item?id=47948664"
-    },
-    {
       "title": "Water Cooler Wednesday",
       "link": "https://www.reddit.com/r/nfl/comments/1syztd2/water_cooler_wednesday/",
       "source": "r/nfl",
@@ -839,14 +895,6 @@
       "category": "sports",
       "published": "2026-04-29T13:47:46Z",
       "id": "46e7b2717ffa63c5a9950e37a5f6c292"
-    },
-    {
-      "title": "Set up automated dependency scanning after the recent npm/PyPI supply chain attacks",
-      "link": "https://www.reddit.com/r/programming/comments/1syz1bl/set_up_automated_dependency_scanning_after_the/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-29T13:36:21Z",
-      "id": "db0573fba1e38b8f7988c5d2331c07f4"
     },
     {
       "title": "What is the point of LinearB",
@@ -911,14 +959,6 @@
       "category": "tech",
       "published": "2026-04-29T12:04:02Z",
       "id": "c26f3c776966797ff71004d9028c18b0"
-    },
-    {
-      "title": "Juniors & AI",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sywp4r/juniors_ai/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-29T11:59:36Z",
-      "id": "0afcace7fb4986cbaccba8ba8746e6f9"
     },
     {
       "title": "Why I still reach for Lisp and Scheme instead of Haskell",
@@ -1043,14 +1083,6 @@
       "id": "6f748695a9f5f8f089e2a3aa4e006a1c"
     },
     {
-      "title": "E2EE for a healthcare SaaS with Auth0 SSO \u2014 replacing PIN with WebAuthn PRF, am I missing something?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1syc76v/e2ee_for_a_healthcare_saas_with_auth0_sso/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-28T19:50:55Z",
-      "id": "205b103fb68d0dd02bfb245813b84831"
-    },
-    {
       "title": "Scotty Miller visiting with Lions, set to try out with Bears",
       "link": "https://www.reddit.com/r/CHIBears/comments/1sybmn5/scotty_miller_visiting_with_lions_set_to_try_out/",
       "source": "r/CHIBears",
@@ -1073,14 +1105,6 @@
       "category": "sports",
       "published": "2026-04-28T17:52:51Z",
       "id": "76719422fdedcc44cd25be39bf0bdec0"
-    },
-    {
-      "title": "Does This Interview Process Sound Weird To You?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sy8nnt/does_this_interview_process_sound_weird_to_you/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-04-28T17:46:31Z",
-      "id": "17e851bb33bb46044e495b89c0c0378b"
     },
     {
       "title": "Codebase has hundreds of isinstance() and getattr(). How to convince colleague to fix?",
@@ -1124,23 +1148,6 @@
       "comments": "https://news.ycombinator.com/item?id=47936610"
     },
     {
-      "title": "A 25-Year-Fight over a 2-Second Sample",
-      "link": "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-28T16:00:13Z",
-      "id": "2828a63c15087c66b60138950d16f397",
-      "comments": "https://news.ycombinator.com/item?id=47936288"
-    },
-    {
-      "title": "Email address deep dive for programmers",
-      "link": "https://www.reddit.com/r/programming/comments/1sy4kep/email_address_deep_dive_for_programmers/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-28T15:23:45Z",
-      "id": "4dc543d5bb9657af9eceb4040b865043"
-    },
-    {
       "title": "Company got acquired, new company likes certs behind the name. Quick hits?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1sy487u/company_got_acquired_new_company_likes_certs/",
       "source": "r/ExperiencedDevs",
@@ -1165,14 +1172,6 @@
       "id": "cf6e55a4c49c533db3c3300ee513e3a9"
     },
     {
-      "title": "From CVS to Git: thirty years of source control, lived from inside",
-      "link": "https://www.reddit.com/r/programming/comments/1sy1edx/from_cvs_to_git_thirty_years_of_source_control/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-28T13:25:43Z",
-      "id": "5777d94d5ccedd03c624b328e7c86ece"
-    },
-    {
       "title": "POV: The Bears Pivot Organizational Strategy after not getting Comp Picks for Ian Cunningham:",
       "link": "https://www.reddit.com/r/CHIBears/comments/1sy0ls9/pov_the_bears_pivot_organizational_strategy_after/",
       "source": "r/CHIBears",
@@ -1187,15 +1186,6 @@
       "category": "tech",
       "published": "2026-04-28T12:30:09Z",
       "id": "c1243b6a4d696211ebfbafcbd7f08979"
-    },
-    {
-      "title": "The Silent Frequency That Makes Old Buildings Feel Haunted",
-      "link": "https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-28T12:29:50Z",
-      "id": "402dab7be94dadc661a8db77656ab5bd",
-      "comments": "https://news.ycombinator.com/item?id=47933608"
     },
     {
       "title": "How do you handle more senior teammates who raise flags, but never propose solutions?",
@@ -1214,14 +1204,6 @@
       "id": "6f5c222bbe1278b2697f28ebc3792395"
     },
     {
-      "title": "Wasm is not quite a stack machine",
-      "link": "https://www.reddit.com/r/programming/comments/1sxvxmq/wasm_is_not_quite_a_stack_machine/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-04-28T09:02:24Z",
-      "id": "b3057e87147d9ffdce30889eca5c801b"
-    },
-    {
       "title": "Consequences of passing too few register parameters to a C function",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
       "source": "Hacker News",
@@ -1229,6 +1211,15 @@
       "published": "2026-04-28T02:55:49Z",
       "id": "e331b4cfc0f54fb466cb75c22ee50563",
       "comments": "https://news.ycombinator.com/item?id=47930003"
+    },
+    {
+      "title": "Why isn't AMD's MI300X competitive?",
+      "link": "https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-28T01:11:23Z",
+      "id": "6a966420a101c74094e044de77770004",
+      "comments": "https://news.ycombinator.com/item?id=47929354"
     },
     {
       "title": "Here\u2019s Grandpa Van Den Berg",
@@ -1302,6 +1293,15 @@
       "category": "sports",
       "published": "2026-04-27T16:25:37Z",
       "id": "db5f7c30e4966b7c5093740269728c0e"
+    },
+    {
+      "title": "\"Parse, don't validate\" through the years with C++",
+      "link": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-27T16:08:34Z",
+      "id": "c4d35102c46b16f27b4ee78e2c5a19ad",
+      "comments": "https://news.ycombinator.com/item?id=47923429"
     },
     {
       "title": "Michigan State WR Omari Kelly, who signed with the Bears as an UFA, posted a picture of a Cheese Grater on his Instagram story",
