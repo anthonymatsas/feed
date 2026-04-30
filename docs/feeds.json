@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-04-30T05:54:29.182316Z",
+  "last_updated": "2026-04-30T08:13:46.505898Z",
   "items": [
+    {
+      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+      "link": "https://scottaaronson.blog/?p=9718",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-30T06:30:30Z",
+      "id": "19b8317f33cd6666ad4be823a20a15f0",
+      "comments": "https://news.ycombinator.com/item?id=47958942"
+    },
     {
       "title": "Interviewer got upset with me because I refused to provide an example of how I implemented a concurrency control policy in my former employer's production codebase. How would you handle this?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1szmyze/interviewer_got_upset_with_me_because_i_refused/",
@@ -16,15 +25,6 @@
       "category": "tech",
       "published": "2026-04-30T05:14:43Z",
       "id": "7fac45e48db25fb77e50439d6cdc760a"
-    },
-    {
-      "title": "Copy Fail: 732 Bytes to Root on Every Major Linux Distribution",
-      "link": "https://xint.io/blog/copy-fail-linux-distributions",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-30T05:07:21Z",
-      "id": "2124906bfe93de63e8724778df22d3f9",
-      "comments": "https://news.ycombinator.com/item?id=47958364"
     },
     {
       "title": "Understanding CORS: What Actually Blocks Your API Requests",
@@ -110,21 +110,21 @@
       "comments": "https://news.ycombinator.com/item?id=47957688"
     },
     {
-      "title": "Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
       "link": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-30T03:11:51Z",
-      "id": "c5a78628a01f5e1871b478b1633d422c",
+      "id": "d79513ce106b052f55fab54cb225f04f",
       "comments": "https://news.ycombinator.com/item?id=47957627"
     },
     {
-      "title": "Functional Programmers need to take a look at Zig",
+      "title": "Functional programmers need to take a look at Zig",
       "link": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-30T03:11:33Z",
-      "id": "a560183d83bfb08e2dee7acc6460b83b",
+      "id": "2a65d680a604ced34235c1080fe0d864",
       "comments": "https://news.ycombinator.com/item?id=47957624"
     },
     {
@@ -176,6 +176,14 @@
       "id": "0d0331c50237f1e8b7cfc76c9ba03da4"
     },
     {
+      "title": "[Post Game Thread] The Cleveland Cavaliers (3-2) defeat the Toronto Raptors (2-3), 125-120 to take a 3-2 series lead.",
+      "link": "https://www.reddit.com/r/nba/comments/1szj21u/post_game_thread_the_cleveland_cavaliers_32/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-04-30T02:18:17Z",
+      "id": "492d2ef41fb8ae536b8864a23ed0e0ff"
+    },
+    {
       "title": "The Zig project's rationale for their firm anti-AI contribution policy",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
       "source": "Hacker News",
@@ -185,12 +193,12 @@
       "comments": "https://news.ycombinator.com/item?id=47957294"
     },
     {
-      "title": "A Grounded Conceptual Model for Ownership Types in Rust",
+      "title": "A grounded conceptual model for ownership types in Rust",
       "link": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-04-30T01:47:19Z",
-      "id": "f1b6d7ac8f87d044162f1f565972c625",
+      "id": "6f6262c64449ea79917233e66a492e74",
       "comments": "https://news.ycombinator.com/item?id=47957116"
     },
     {
@@ -602,15 +610,6 @@
       "id": "e546beda47680dfed1c1016c3c7721b3"
     },
     {
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-04-29T17:44:21Z",
-      "id": "ea3b1f63e2354fbbc75ae2a95e306068",
-      "comments": "https://news.ycombinator.com/item?id=47951786"
-    },
-    {
       "title": "Jeremy Lin: How are the 8th seeded Magic up 3-1 on the 60 win Pistons",
       "link": "https://www.reddit.com/r/nba/comments/1sz5b20/jeremy_lin_how_are_the_8th_seeded_magic_up_31_on/",
       "source": "r/nba",
@@ -732,14 +731,6 @@
       "category": "sports",
       "published": "2026-04-29T15:03:19Z",
       "id": "887dea5e37c5a7315f5bba69ac4badd7"
-    },
-    {
-      "title": "Anthony Davis on his goals before retiring: \u201cI haven\u2019t got MVP. I haven\u2019t got DPOY. I want the parade for a championship, so I want to be able to do that again\u2026 it\u2019s still things I want to try to get. I want to get 20,000 points. I want to play 20 years.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1sz1a1p/anthony_davis_on_his_goals_before_retiring_i/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-04-29T14:58:49Z",
-      "id": "cf73d5e20b97f64b2fea876c4e7c410e"
     },
     {
       "title": "Mike LaFleur knew 'Mr. Grumpy' and the Rams 'always really liked' Ty Simpson",
@@ -1133,6 +1124,15 @@
       "comments": "https://news.ycombinator.com/item?id=47936610"
     },
     {
+      "title": "A 25-Year-Fight over a 2-Second Sample",
+      "link": "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-04-28T16:00:13Z",
+      "id": "2828a63c15087c66b60138950d16f397",
+      "comments": "https://news.ycombinator.com/item?id=47936288"
+    },
+    {
       "title": "Email address deep dive for programmers",
       "link": "https://www.reddit.com/r/programming/comments/1sy4kep/email_address_deep_dive_for_programmers/",
       "source": "r/programming",
@@ -1189,13 +1189,13 @@
       "id": "c1243b6a4d696211ebfbafcbd7f08979"
     },
     {
-      "title": "DRAM Crunch: Lessons for System Design",
-      "link": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
+      "title": "The Silent Frequency That Makes Old Buildings Feel Haunted",
+      "link": "https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-28T12:07:55Z",
-      "id": "749d73691d9836aed6a46d3ccf97436a",
-      "comments": "https://news.ycombinator.com/item?id=47933359"
+      "published": "2026-04-28T12:29:50Z",
+      "id": "402dab7be94dadc661a8db77656ab5bd",
+      "comments": "https://news.ycombinator.com/item?id=47933608"
     },
     {
       "title": "How do you handle more senior teammates who raise flags, but never propose solutions?",
