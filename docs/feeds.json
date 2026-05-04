@@ -1,50 +1,86 @@
 {
-  "last_updated": "2026-05-03T21:37:13.217439Z",
+  "last_updated": "2026-05-04T02:31:47.348384Z",
   "items": [
     {
-      "title": "Make Your Own Microforest",
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "link": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-03T23:59:02Z",
+      "id": "a4585d93e440febb7009a9bdc6969570",
+      "comments": "https://news.ycombinator.com/item?id=48002938"
+    },
+    {
+      "title": "Let's Buy Spirit Air",
+      "link": "https://letsbuyspiritair.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-03T23:36:11Z",
+      "id": "6c92736943ff0c39ddc2e54e804b7a58",
+      "comments": "https://news.ycombinator.com/item?id=48002777"
+    },
+    {
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "link": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-03T23:12:02Z",
+      "id": "68d7ad6fde841c84826d85723eebcc10",
+      "comments": "https://news.ycombinator.com/item?id=48002607"
+    },
+    {
+      "title": "Agentic Coding Is a Trap",
+      "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-03T22:52:07Z",
+      "id": "4c1272f9549ec095ef69ce405c85ef87",
+      "comments": "https://news.ycombinator.com/item?id=48002442"
+    },
+    {
+      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "link": "https://github.com/aattaran/deepclaude",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-03T22:13:20Z",
+      "id": "0d0f0b49b88afe37315ce467420d0fbe",
+      "comments": "https://news.ycombinator.com/item?id=48002136"
+    },
+    {
+      "title": "Introduction to Atom",
+      "link": "https://validator.w3.org/feed/docs/atom.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-03T22:08:47Z",
+      "id": "2399f3a0eefab1a1c02c4cb8ba86fe2c",
+      "comments": "https://news.ycombinator.com/item?id=48002089"
+    },
+    {
+      "title": "Make your own microforest (2025)",
       "link": "https://ambrook.com/offrange/environment/a-forest-in-your-pocket",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-03T19:31:35Z",
-      "id": "509e4234e4bb2d927d07709cb25a8131",
+      "id": "8cb8cf5453f799a74b3c123886405977",
       "comments": "https://news.ycombinator.com/item?id=48000507"
     },
     {
-      "title": "Statue of a man blinded by a flag put up by Banksy in central London",
+      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
       "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-03T18:54:28Z",
-      "id": "fcfc5ec270595cd447e4269f5e85d804",
+      "id": "cd0e0052c464e3c5331fdb298eec1f5b",
       "comments": "https://news.ycombinator.com/item?id=48000152"
     },
     {
-      "title": "Why TUIs Are Back",
+      "title": "Why TUIs are back",
       "link": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-03T18:42:28Z",
-      "id": "0a573f16919e5ad34a154c117e922583",
+      "id": "01a548070a7bb86f425db5f1ae856a72",
       "comments": "https://news.ycombinator.com/item?id=48000028"
-    },
-    {
-      "title": "Talking to Transformers",
-      "link": "https://miraos.org/blog/2026/05/02/talking-to-transformers",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-03T18:17:18Z",
-      "id": "1be5a75891172469d79045f81831c41a",
-      "comments": "https://news.ycombinator.com/item?id=47999776"
-    },
-    {
-      "title": "Show HN: Ableton Live MCP",
-      "link": "https://github.com/bschoepke/ableton-live-mcp",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-03T18:05:28Z",
-      "id": "cc9d37e08e36e97a39534b2d37092321",
-      "comments": "https://news.ycombinator.com/item?id=47999656"
     },
     {
       "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
@@ -54,6 +90,15 @@
       "published": "2026-05-03T18:03:14Z",
       "id": "dbf9a15c92f271b46f15524ff6e3249a",
       "comments": "https://news.ycombinator.com/item?id=47999636"
+    },
+    {
+      "title": "LLMs Are Not a Higher Level of Abstraction",
+      "link": "https://www.lelanthran.com/chap15/content.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-03T17:51:58Z",
+      "id": "e4e39ce67a4da7813b7b12b9d5b6fe81",
+      "comments": "https://news.ycombinator.com/item?id=47999520"
     },
     {
       "title": "I recreated the Apple Lisa computer inside an FPGA [video]",
@@ -92,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=47998790"
     },
     {
-      "title": "Underwater robot tracks sperm whale conversations in real time",
-      "link": "https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-03T16:35:20Z",
-      "id": "3a7cd27403fe9c154533ca5c4b2f2ec2",
-      "comments": "https://news.ycombinator.com/item?id=47998664"
-    },
-    {
       "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
       "link": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
       "source": "Hacker News",
@@ -137,33 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=47997418"
     },
     {
-      "title": "Modern jet engine turbines: each blade a single crystal (2015)",
-      "link": "https://www.americanscientist.org/article/each-blade-a-single-crystal",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-03T14:02:33Z",
-      "id": "a20af2ccb2e3172aa6ea33c3cbb473c4",
-      "comments": "https://news.ycombinator.com/item?id=47997059"
-    },
-    {
-      "title": "Alert-driven monitoring",
-      "link": "https://simpleobservability.com/docs/alert-driven-monitoring",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-03T14:02:23Z",
-      "id": "6c7f7c9f00cf8cafd73c67aa4355f5fc",
-      "comments": "https://news.ycombinator.com/item?id=47997056"
-    },
-    {
-      "title": "Nuclear receptor 4A1 linked to health effects of coffee: study",
-      "link": "https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-03T11:12:29Z",
-      "id": "3ce469b8a1eebdbe32f58d45ead9fcb1",
-      "comments": "https://news.ycombinator.com/item?id=47995757"
-    },
-    {
       "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
       "link": "https://github.com/bring-shrubbery/ml-sharp-web",
       "source": "Hacker News",
@@ -182,22 +191,22 @@
       "comments": "https://news.ycombinator.com/item?id=47991981"
     },
     {
-      "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "title": "Using \"underdrawings\" for accurate text and numbers",
+      "link": "https://samcollins.blog/underdrawings/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-03T00:01:14Z",
-      "id": "af59b4a023fbce3590b4c7796fbc34b6",
-      "comments": "https://news.ycombinator.com/item?id=47991802"
+      "published": "2026-05-01T18:07:28Z",
+      "id": "52ec6aff913c30a14346d195f73771de",
+      "comments": "https://news.ycombinator.com/item?id=47977990"
     },
     {
-      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
-      "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+      "title": "K3sup \u2013 bootstrap K3s over SSH in < 60s",
+      "link": "https://github.com/alexellis/k3sup",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-02T12:44:02Z",
-      "id": "2609a5e79fef59c7ac5ea7274803c41d",
-      "comments": "https://news.ycombinator.com/item?id=47985932"
+      "published": "2026-05-01T14:16:38Z",
+      "id": "b3a87de222acd191679c3d9df9b8cb78",
+      "comments": "https://news.ycombinator.com/item?id=47975069"
     },
     {
       "title": "US\u2013Indian space mission maps extreme subsidence in Mexico City",
@@ -227,15 +236,6 @@
       "comments": "https://news.ycombinator.com/item?id=47972392"
     },
     {
-      "title": "Brain scans reveal 3 ADHD subtypes",
-      "link": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-01T02:03:57Z",
-      "id": "0ccd7f0890f7584a3ab901ff1a39a1c2",
-      "comments": "https://news.ycombinator.com/item?id=47970597"
-    },
-    {
       "title": "Text-to-CAD",
       "link": "https://github.com/earthtojake/text-to-cad",
       "source": "Hacker News",
@@ -245,13 +245,13 @@
       "comments": "https://news.ycombinator.com/item?id=47970497"
     },
     {
-      "title": "Cordouan Lighthouse",
-      "link": "https://en.wikipedia.org/wiki/Cordouan_Lighthouse",
+      "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+      "link": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-04-29T13:40:20Z",
-      "id": "7bbed9e8c9a70e1aef8c925f8d4dfbdb",
-      "comments": "https://news.ycombinator.com/item?id=47948338"
+      "published": "2026-04-30T12:03:38Z",
+      "id": "0ce39dc43a7d0efd85b426b4d98547c5",
+      "comments": "https://news.ycombinator.com/item?id=47961208"
     },
     {
       "title": "I built my own hair electrolysis machine",
