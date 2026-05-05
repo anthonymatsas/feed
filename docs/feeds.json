@@ -1,13 +1,55 @@
 {
-  "last_updated": "2026-05-05T05:38:43.744695Z",
+  "last_updated": "2026-05-05T08:02:58.135668Z",
   "items": [
     {
-      "title": "2 years in dev, but I think I don\u2019t enjoy programming anymore. Skill issue or time to pivot?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t46f15/2_years_in_dev_but_i_think_i_dont_enjoy/",
+      "title": "anyone here migrated from auth0 to descope? how did you approach it?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t48rs7/anyone_here_migrated_from_auth0_to_descope_how/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-05-05T05:37:45Z",
-      "id": "e675afe5a653189c8c9f333cbb9b737c"
+      "published": "2026-05-05T07:53:54Z",
+      "id": "71292550b9d5689074d4f53bbfe3df2f"
+    },
+    {
+      "title": "Async Rust never left the MVP state",
+      "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-05T07:26:03Z",
+      "id": "b9947b9d971a53ea21e675b0b827f53e",
+      "comments": "https://news.ycombinator.com/item?id=48019163"
+    },
+    {
+      "title": "Bun is being rewritten to Rust",
+      "link": "https://www.reddit.com/r/programming/comments/1t480nm/bun_is_being_rewritten_to_rust/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-05T07:08:20Z",
+      "id": "7548ce0ffdbb512e548cab78fe5e09e4"
+    },
+    {
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-05T07:05:25Z",
+      "id": "d086e20be5717dd75960f99089c24bf4",
+      "comments": "https://news.ycombinator.com/item?id=48019025"
+    },
+    {
+      "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+      "link": "https://www.reddit.com/r/programming/comments/1t47018/formatting_an_entire_25_million_line_codebase/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-05T06:09:54Z",
+      "id": "a16b029c7a04923986c6fe96d9e2a0f8"
+    },
+    {
+      "title": "Made it to the final round for 2 startups - looking for some advice on them",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t46x1w/made_it_to_the_final_round_for_2_startups_looking/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-05T06:05:16Z",
+      "id": "446578c0c0dc1c7e7b730025164653da"
     },
     {
       "title": "First time interviewing candidates \u2013 what are the best React/frontend questions to ask?",
@@ -18,14 +60,6 @@
       "id": "63963526b75290f2c0b56930d7c63c58"
     },
     {
-      "title": "How to collaborate with your team in an efficient way",
-      "link": "https://www.reddit.com/r/programming/comments/1t45wyn/how_to_collaborate_with_your_team_in_an_efficient/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-05T05:11:15Z",
-      "id": "ff7c3d7049837e82bd4da87226dea442"
-    },
-    {
       "title": "Chris Finch on Victor Wembanyama\u2019s historic night: \u201cHe had a lot of blocks\u2026 He had a couple of uncalled goaltendings too. Those are valuable points we\u2019d like to have back.\u201d",
       "link": "https://www.reddit.com/r/nba/comments/1t45fq7/chris_finch_on_victor_wembanyamas_historic_night/",
       "source": "r/nba",
@@ -34,13 +68,13 @@
       "id": "ba40e8a74fd05956b40ad5308f222b12"
     },
     {
-      "title": "OpenAI can't build working RSS feeds",
-      "link": "https://openai.com/news/rss.xml",
+      "title": "Kids bypass age verification with fake moustaches",
+      "link": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-05T04:40:34Z",
-      "id": "68393580de8cc6e55130c4c18f60a9de",
-      "comments": "https://news.ycombinator.com/item?id=48018098"
+      "published": "2026-05-05T04:36:24Z",
+      "id": "d1db99bbf5e7796e258c85edf5197f30",
+      "comments": "https://news.ycombinator.com/item?id=48018080"
     },
     {
       "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
@@ -58,6 +92,15 @@
       "category": "sports",
       "published": "2026-05-05T04:29:31Z",
       "id": "11dd50e11af97798275f718d7ee8af3e"
+    },
+    {
+      "title": "2-D Mathematical Curves",
+      "link": "https://www.2dcurves.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-05T04:27:32Z",
+      "id": "e9257deaeb76162b39198b9c44596923",
+      "comments": "https://news.ycombinator.com/item?id=48018034"
     },
     {
       "title": "Anthony Edwards: \"I made so many mistakes at the end of the game. I'm disappointed in myself. For me 75% of the game for me is my mind. My mind gotta be where it needs to be. The last 2 minutes it wasn't, I gave up 2 offensive rebounds, turned the ball over. I'll be better\"",
@@ -100,6 +143,14 @@
       "id": "adf27b5db1ac55051f45d50e21b5eca5"
     },
     {
+      "title": "Victor Wembanyama with a historic night despite the loss: 11 PTS, 15 REB, 5 AST, 12 BLK",
+      "link": "https://www.reddit.com/r/nba/comments/1t44rua/victor_wembanyama_with_a_historic_night_despite/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-05T04:13:02Z",
+      "id": "b510d226de36356be75f6d34b81b3139"
+    },
+    {
       "title": "Train Your Own LLM from Scratch",
       "link": "https://github.com/angelos-p/llm-from-scratch",
       "source": "Hacker News",
@@ -107,6 +158,15 @@
       "published": "2026-05-05T04:09:17Z",
       "id": "16367abbf1b7c26d6b430cbe31463211",
       "comments": "https://news.ycombinator.com/item?id=48017948"
+    },
+    {
+      "title": "Hand Drawn QR Codes",
+      "link": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-05T04:02:01Z",
+      "id": "4912538cb9ef469327da93d6853e4939",
+      "comments": "https://news.ycombinator.com/item?id=48017907"
     },
     {
       "title": "[Highlight] Wemby collects NBA playoff-record 11th block on the night",
@@ -132,6 +192,15 @@
       "category": "sports",
       "published": "2026-05-05T03:40:06Z",
       "id": "2b740f587d2f950ae41e7aedca2d4729"
+    },
+    {
+      "title": "Biscuit",
+      "link": "https://github.com/yattsu/biscuit",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-05T03:09:56Z",
+      "id": "3629ea3885f6738e51563356e1d93ca7",
+      "comments": "https://news.ycombinator.com/item?id=48017641"
     },
     {
       "title": "No growth in title - still Application Developer after 13 YoE",
@@ -164,15 +233,6 @@
       "category": "sports",
       "published": "2026-05-05T02:43:30Z",
       "id": "b8cd64abd361514deec32c9a7f7f777a"
-    },
-    {
-      "title": "Pulitzer Prize Winner in International Reporting",
-      "link": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-05T02:22:21Z",
-      "id": "9046cbd572c2547bff5ce992f50e5200",
-      "comments": "https://news.ycombinator.com/item?id=48017399"
     },
     {
       "title": "Joel Embiid checks out in the loss: 14/4 on 3/11 FG",
@@ -298,12 +358,12 @@
       "id": "eebb977cdd8055d577de98053da89545"
     },
     {
-      "title": "Y Combinator's Stake in OpenAI (0.6%)",
+      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
       "link": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-05T00:09:01Z",
-      "id": "b12658d46428f41ff736bd2aafd3127a",
+      "id": "52e9f20a11ebe7acca8df861f2b7b3b3",
       "comments": "https://news.ycombinator.com/item?id=48016534"
     },
     {
@@ -492,23 +552,6 @@
       "category": "sports",
       "published": "2026-05-04T20:03:30Z",
       "id": "cca6496091ec45bafdaf366f77c8e916"
-    },
-    {
-      "title": "Transformers Are Inherently Succinct (2025)",
-      "link": "https://arxiv.org/abs/2510.19315",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-04T20:03:08Z",
-      "id": "50e33744ea9465452735a0ad1996c33b",
-      "comments": "https://news.ycombinator.com/item?id=48014197"
-    },
-    {
-      "title": "[Starkand] JJ Redick was asked about the key when it comes to playing through contact against the Thunder: \"They don't foul, so the whistles aren't gonna be there. You accept that going in. They don't foul.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1t3swit/starkand_jj_redick_was_asked_about_the_key_when/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-04T20:01:15Z",
-      "id": "0f737e82f50af3b26952cd7f95e64a1f"
     },
     {
       "title": "[McLane] The #Eagles have extended contracts for assistant GM Jon Ferrari and Senior Advisor to the General Manager/Chief Security Officer/Gameday Coaching Operations Dom DiSandro, NFL sources said.",
@@ -709,23 +752,6 @@
       "id": "8edaf31acd945df065ea59c436864f14"
     },
     {
-      "title": "Do you create deep modules?",
-      "link": "https://www.reddit.com/r/programming/comments/1t3kqq6/do_you_create_deep_modules/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-04T15:18:17Z",
-      "id": "8bb8e229b424d7a4e8747364384cb30d"
-    },
-    {
-      "title": "UK Fuel Price Intelligence \u2013 Market analytics from reporting stations",
-      "link": "https://www.fuelinsight.co.uk",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-04T15:15:21Z",
-      "id": "fc14b62e53b1261eec0eded281bc54c6",
-      "comments": "https://news.ycombinator.com/item?id=48009747"
-    },
-    {
       "title": "Daily Discussion Thread + Game Thread Index | Playoffs",
       "link": "https://www.reddit.com/r/nba/comments/1t3k7w2/daily_discussion_thread_game_thread_index_playoffs/",
       "source": "r/nba",
@@ -756,15 +782,6 @@
       "category": "sports",
       "published": "2026-05-04T14:52:55Z",
       "id": "b6b184624bb83c0fcb884d6a8aefed01"
-    },
-    {
-      "title": "Pomiferous: The most extensive apples (pommes) database",
-      "link": "https://pomiferous.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-04T14:47:41Z",
-      "id": "33bf558157dd4a11dc624164c42e2f0a",
-      "comments": "https://news.ycombinator.com/item?id=48009441"
     },
     {
       "title": "Utilizing SSH Keys to minimize existence of PAT Tokens and making authentication safer",
@@ -972,15 +989,6 @@
       "id": "28646e9db9c7ef63720a37d8ff9729f1"
     },
     {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-04T09:31:12Z",
-      "id": "6c1bd2e0b1a073669a03c602ccb5eb75",
-      "comments": "https://news.ycombinator.com/item?id=48006402"
-    },
-    {
       "title": "That Derrick Rose edit..",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1t3cmgk/that_derrick_rose_edit/",
       "source": "r/chicagobulls",
@@ -1174,6 +1182,15 @@
       "id": "6d0efd880efb2adec677cb3925c34b73"
     },
     {
+      "title": "Farewell to a Giant of Botany",
+      "link": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-02T21:03:48Z",
+      "id": "3afe54ca1801b14a33e727ea118056ef",
+      "comments": "https://news.ycombinator.com/item?id=47990491"
+    },
+    {
       "title": "Unsigned sizes: a five year mistake",
       "link": "https://www.reddit.com/r/programming/comments/1t20rdz/unsigned_sizes_a_five_year_mistake/",
       "source": "r/programming",
@@ -1223,15 +1240,6 @@
       "comments": "https://news.ycombinator.com/item?id=47988439"
     },
     {
-      "title": "18th-century mechanical volcano roars to life 250 years later",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-02T16:21:53Z",
-      "id": "c6150b347164f5c3d9832f735ae25728",
-      "comments": "https://news.ycombinator.com/item?id=47987738"
-    },
-    {
       "title": "How are experienced teams preventing architectural drift as AI-assisted development scales?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t1scp3/how_are_experienced_teams_preventing/",
       "source": "r/ExperiencedDevs",
@@ -1254,14 +1262,6 @@
       "category": "sports",
       "published": "2026-05-02T12:29:44Z",
       "id": "a9c10026eef160ae215600615dd67b4e"
-    },
-    {
-      "title": "Showcase side projects",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t1ojic/showcase_side_projects/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-02T12:28:05Z",
-      "id": "bfd214aa09a8af703dfecc11509f66bb"
     },
     {
       "title": "Architecture decisions made in meetings disappear faster than the ones written in PRs",
