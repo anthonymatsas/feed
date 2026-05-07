@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-05-07T08:38:16.007628Z",
+  "last_updated": "2026-05-07T11:06:46.705977Z",
   "items": [
+    {
+      "title": "[SERIOUS NEXT DAY THREAD] Post-Game Discussion (May 06, 2026)",
+      "link": "https://www.reddit.com/r/nba/comments/1t673ud/serious_next_day_thread_postgame_discussion_may/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-07T11:00:01Z",
+      "id": "795b662d2f038687b59a9d7c00cf9354"
+    },
+    {
+      "title": "What does 5x faster software delivery actually look like in practice? Has anyone seen it?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t66jz0/what_does_5x_faster_software_delivery_actually/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-07T10:31:35Z",
+      "id": "b5cb72616386c2c2c0e52781c6b6f857"
+    },
+    {
+      "title": "Migrate from Radix UI to Base UI in 9 Easy Steps",
+      "link": "https://www.reddit.com/r/programming/comments/1t66hmi/migrate_from_radix_ui_to_base_ui_in_9_easy_steps/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-07T10:28:07Z",
+      "id": "9115d74211c1d91a108b5ac50311cbb3"
+    },
+    {
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "link": "https://www.reddit.com/r/programming/comments/1t66d0u/idempotency_is_easy_until_the_second_request_is/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-07T10:21:24Z",
+      "id": "ecc8941502a440eb4383cbb5cf52f7eb"
+    },
+    {
+      "title": "Time off and architectural decisions",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t668f3/time_off_and_architectural_decisions/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-07T10:14:39Z",
+      "id": "2ffc680608a725f55739132ab4d3b114"
+    },
+    {
+      "title": "Coding Adventure: Solving the Rubik's Cube",
+      "link": "https://www.reddit.com/r/programming/comments/1t666dw/coding_adventure_solving_the_rubiks_cube/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-07T10:11:31Z",
+      "id": "8c89919183068f0c50e826a2f22973bc"
+    },
+    {
+      "title": "Devizes pupil wins national coding competition with racing game",
+      "link": "https://www.reddit.com/r/programming/comments/1t65hwz/devizes_pupil_wins_national_coding_competition/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-07T09:34:22Z",
+      "id": "728db9e2e735128deb9a20d06ff14f37"
+    },
+    {
+      "title": "Spurs fans trolling Ant with a Raid sign. Ant saw it and started laughing",
+      "link": "https://www.reddit.com/r/nba/comments/1t65glp/spurs_fans_trolling_ant_with_a_raid_sign_ant_saw/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-07T09:32:15Z",
+      "id": "13deec1a1d7bdc6781fa077595b67def"
+    },
+    {
+      "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+      "link": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-07T08:56:51Z",
+      "id": "6e203ec1849b24c567cdfb6ba2a49a9b",
+      "comments": "https://news.ycombinator.com/item?id=48047082"
+    },
+    {
+      "title": "Show HN: Social Network for Corporate Cringe",
+      "link": "https://CringeOut.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-07T08:26:36Z",
+      "id": "0f31d68193fc155b4187800420cc9060",
+      "comments": "https://news.ycombinator.com/item?id=48046874"
+    },
     {
       "title": "Is the premise for a hackathon that product managers are setting wrong priorities?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t636m2/is_the_premise_for_a_hackathon_that_product/",
@@ -8,6 +90,15 @@
       "category": "tech",
       "published": "2026-05-07T07:16:28Z",
       "id": "ddda70e92cb1fad2587d420b92ab9f62"
+    },
+    {
+      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+      "link": "https://unsloth.ai/blog/nvidia-collab",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-07T07:15:11Z",
+      "id": "0bda993a2931599abe75d58a830f0691",
+      "comments": "https://news.ycombinator.com/item?id=48046397"
     },
     {
       "title": "Implementing C#-style Async/Await in raw x86-64 Assembly: Lessons from building the FluxSharp compiler",
@@ -41,6 +132,23 @@
       "published": "2026-05-07T06:12:25Z",
       "id": "53a3b4f115fd49161bd812773cac10ba",
       "comments": "https://news.ycombinator.com/item?id=48046023"
+    },
+    {
+      "title": "Show HN: Trust \u2013 Coding Rust like it's 1989",
+      "link": "https://github.com/wojtczyk/trust",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-07T05:58:52Z",
+      "id": "c6c18de5e8950ef72d9a6c0adcf77c56",
+      "comments": "https://news.ycombinator.com/item?id=48045939"
+    },
+    {
+      "title": "Every 1st overall QB picked since 1970 and if they started or won a Super Bowl",
+      "link": "https://www.reddit.com/r/nfl/comments/1t61rog/every_1st_overall_qb_picked_since_1970_and_if/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-05-07T05:56:51Z",
+      "id": "8e92a2a07cdee91e6852868137e140dc"
     },
     {
       "title": "Anthony Edwards on getting blown out and bouncing back - \u201cMy mama used to say a hard head makes a soft ass, and that\u2019s what happened tonight\u201d",
@@ -89,15 +197,6 @@
       "category": "sports",
       "published": "2026-05-07T04:26:31Z",
       "id": "33ede1e93437551a9c0bdfddce9263ab"
-    },
-    {
-      "title": "Building the TD4 4-Bit CPU",
-      "link": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-07T04:25:43Z",
-      "id": "c963a8f21f041336d38471160bb9142e",
-      "comments": "https://news.ycombinator.com/item?id=48045384"
     },
     {
       "title": "[Post Game Thread] The San Antonio Spurs (1-1) Obliterate the Minnesota Timberwolves (1-1), 133-95.",
@@ -256,14 +355,6 @@
       "comments": "https://news.ycombinator.com/item?id=48044311"
     },
     {
-      "title": "[Highlight] Christian McCaffrey, Cam Heyward, & Michael Strahan Sing \"You Are Special\" by Fred Rogers With Kids in the NFL's \"Inspire Change\" Commercial",
-      "link": "https://www.reddit.com/r/nfl/comments/1t5w0dq/highlight_christian_mccaffrey_cam_heyward_michael/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-05-07T01:16:11Z",
-      "id": "84b4b3507a3fcda21e405e4cf264067f"
-    },
-    {
       "title": "Patriots QB Maye backs Vrabel, not worried about distraction",
       "link": "https://www.reddit.com/r/nfl/comments/1t5vtr3/patriots_qb_maye_backs_vrabel_not_worried_about/",
       "source": "r/nfl",
@@ -280,28 +371,12 @@
       "id": "a94f713fa7fab6f81b265b7bd1fe9d61"
     },
     {
-      "title": "Jaylen Brown reacts to the fine he got: \u201cThey fined me $50K. Season is over. Embiid cooked us. I\u2019m moving on.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1t5vq44/jaylen_brown_reacts_to_the_fine_he_got_they_fined/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-07T01:03:24Z",
-      "id": "b790c672414bda737be1d1b23831ed05"
-    },
-    {
       "title": "Jaylen Brown: \u201cI hate that our president of basketball operations even had to respond to this. Me and Brad have a great relationship. I love Boston. If it was up to me I could play here for the next 10 years. This was my favorite season of my career.\u201d",
       "link": "https://www.reddit.com/r/nba/comments/1t5voth/jaylen_brown_i_hate_that_our_president_of/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-05-07T01:01:47Z",
       "id": "894259150ec6320404cd190dc45bc7c8"
-    },
-    {
-      "title": "I think my frontend architecture framework is missing something. What?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t5vmor/i_think_my_frontend_architecture_framework_is/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-07T00:59:12Z",
-      "id": "3ec6f90b17cf713e3147878e4ee60f8c"
     },
     {
       "title": "[Highlight] The Knick faithful erupt after KAT beats Drummond to the basketball",
@@ -312,12 +387,12 @@
       "id": "355016f7d456e5455eef4632ef6cf3b0"
     },
     {
-      "title": "RSS Feeds Send Me More Traffic Than Google",
+      "title": "RSS feeds send me more traffic than Google",
       "link": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-07T00:40:06Z",
-      "id": "5124f9ef7f3814dd9841c07def19843e",
+      "id": "613ff353ae2c0d876b73c4035fdab89d",
       "comments": "https://news.ycombinator.com/item?id=48043964"
     },
     {
@@ -383,15 +458,6 @@
       "category": "sports",
       "published": "2026-05-06T23:04:27Z",
       "id": "cc9e933d3f1804903b0641c4b6a96e19"
-    },
-    {
-      "title": "Ads on Apple Maps",
-      "link": "https://ads.apple.com/maps",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-06T23:00:01Z",
-      "id": "b2ade72a5337b2d38b2c0c7612d42dee",
-      "comments": "https://news.ycombinator.com/item?id=48043010"
     },
     {
       "title": "[Schutz] NEW: Mayor Johnson might have more juice in Springfield now than in the past. State Sen. Willie Preston says he supports the mayors position and says Bears Megaproject legislation is a non-starter with him. \"I don't accept the premise that the Bears can't stay in Chicago.\"",
@@ -547,15 +613,6 @@
       "id": "13dc656264dadd99823f705e653d320b"
     },
     {
-      "title": "Programming Still Sucks",
-      "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-06T19:06:41Z",
-      "id": "8b23d01b0d2c7571a5a0c838a7d73f47",
-      "comments": "https://news.ycombinator.com/item?id=48040269"
-    },
-    {
       "title": "How to sell \"soft skills\"",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t5mi1c/how_to_sell_soft_skills/",
       "source": "r/ExperiencedDevs",
@@ -679,15 +736,6 @@
       "comments": "https://news.ycombinator.com/item?id=48038827"
     },
     {
-      "title": "SoundOff: Low-Cost Passive Ultrasound Tags",
-      "link": "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-06T17:13:54Z",
-      "id": "51f33b16167f6cb2cd1746d4ca2fb34f",
-      "comments": "https://news.ycombinator.com/item?id=48038750"
-    },
-    {
       "title": "LIVE: Bryson Graham, Bulls EVP of Basketball Operations, Introductory Press Conference",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1t5j265/live_bryson_graham_bulls_evp_of_basketball/",
       "source": "r/chicagobulls",
@@ -726,14 +774,6 @@
       "category": "sports",
       "published": "2026-05-06T16:56:07Z",
       "id": "8494d70cac829d76156757f12e3d6667"
-    },
-    {
-      "title": "I\u2019m Dave McMenamin \u2014 I spent time with LeBron James ahead of the NBA Playoffs. Ask me anything on May 6 at 3pm ET / 12pm PT",
-      "link": "https://www.reddit.com/r/nba/comments/1t5ighz/im_dave_mcmenamin_i_spent_time_with_lebron_james/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-06T16:46:25Z",
-      "id": "38e13a7f08a4b0025eb2b89be555c40f"
     },
     {
       "title": "Show HN: Hallucinopedia",
@@ -781,15 +821,6 @@
       "comments": "https://news.ycombinator.com/item?id=48037128"
     },
     {
-      "title": "Ted Turner has died",
-      "link": "https://www.cnn.com/2026/05/06/us/ted-turner-death",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-06T14:56:37Z",
-      "id": "a0b352d8983bb1765b6078d01aace1f7",
-      "comments": "https://news.ycombinator.com/item?id=48037009"
-    },
-    {
       "title": "[Highlight] Some of the craziest first career touchdowns from current NFL stars",
       "link": "https://www.reddit.com/r/nfl/comments/1t5f1j4/highlight_some_of_the_craziest_first_career/",
       "source": "r/nfl",
@@ -830,20 +861,12 @@
       "id": "3be5c626adfb9490e0e23e17aa204819"
     },
     {
-      "title": "What I Learned Making an App for Family",
-      "link": "https://www.reddit.com/r/programming/comments/1t5dqg4/what_i_learned_making_an_app_for_family/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-06T13:58:04Z",
-      "id": "add1ab02d8dea3620f054c972de52162"
-    },
-    {
-      "title": "What I Learned Making an App for My Family",
+      "title": "What I learned making an app for my family",
       "link": "https://mendelgreenberg.com/posts/ourcar/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-06T13:44:59Z",
-      "id": "90a48b0190798a3c0f1cfc86d1529fdf",
+      "id": "e3930ea0152f353bdca222949e3c0985",
       "comments": "https://news.ycombinator.com/item?id=48036190"
     },
     {
@@ -1040,6 +1063,15 @@
       "id": "483f8eddc2ba42b606b03a20f232fb1c"
     },
     {
+      "title": "SingleRide: Longest route on NYC Subway without visiting the same station twice",
+      "link": "https://singleride.nyc/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-05T22:02:35Z",
+      "id": "5187a7d62533b672f453ccd11714611f",
+      "comments": "https://news.ycombinator.com/item?id=48029261"
+    },
+    {
       "title": "Hey Bulls fans thought I share this... I promise Bryson Graham is the perfect guy to turn things around",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1t4syxb/hey_bulls_fans_thought_i_share_this_i_promise/",
       "source": "r/chicagobulls",
@@ -1073,6 +1105,15 @@
       "comments": "https://news.ycombinator.com/item?id=48027455"
     },
     {
+      "title": "The Brave Souls Who Bought a Used, 340k-Mile Rental Camper Van",
+      "link": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-05T18:43:14Z",
+      "id": "0867c2a4d896434971aa0180e16e2d5d",
+      "comments": "https://news.ycombinator.com/item?id=48026710"
+    },
+    {
       "title": "Looking for feedback on AI content in r/programming and the April no-AI trial",
       "link": "https://www.reddit.com/r/programming/comments/1t4odyl/looking_for_feedback_on_ai_content_in/",
       "source": "r/programming",
@@ -1088,31 +1129,6 @@
       "published": "2026-05-05T17:18:21Z",
       "id": "26c41ed2ddae968571c9aff4d9bb70a6",
       "comments": "https://news.ycombinator.com/item?id=48025540"
-    },
-    {
-      "title": "Code coverage tells you what you didn't test \u2014 not whether your tests are good",
-      "link": "https://www.reddit.com/r/programming/comments/1t4luwo/code_coverage_tells_you_what_you_didnt_test_not/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-05T17:14:37Z",
-      "id": "680dc4d0b2c291bbbe1a53095f962e45"
-    },
-    {
-      "title": "Take the new job - engineers are still valuable",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t4krb3/take_the_new_job_engineers_are_still_valuable/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-05T16:37:08Z",
-      "id": "8f78efda5e1a2f7475a2995ac413679e"
-    },
-    {
-      "title": "Finding the differences in a series of power supplies",
-      "link": "https://www.lttlabs.com/articles/2026/05/05/testing-psu-series",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-05T15:50:15Z",
-      "id": "137e06d2445cb4cd1b3ef48a3b708b72",
-      "comments": "https://news.ycombinator.com/item?id=48024164"
     },
     {
       "title": "New Orleans columnist shares insight on new Bulls lead executive Bryson Graham | Mully & Haugh",
@@ -1179,22 +1195,6 @@
       "published": "2026-05-05T08:09:41Z",
       "id": "7ec8ce024e1eb7bad08e05c1567c7725",
       "comments": "https://news.ycombinator.com/item?id=48019414"
-    },
-    {
-      "title": "Bun is being rewritten to Rust",
-      "link": "https://www.reddit.com/r/programming/comments/1t480nm/bun_is_being_rewritten_to_rust/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-05T07:08:20Z",
-      "id": "7548ce0ffdbb512e548cab78fe5e09e4"
-    },
-    {
-      "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
-      "link": "https://www.reddit.com/r/programming/comments/1t47018/formatting_an_entire_25_million_line_codebase/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-05T06:09:54Z",
-      "id": "a16b029c7a04923986c6fe96d9e2a0f8"
     },
     {
       "title": "Favorite pictures from this season?",
@@ -1277,6 +1277,15 @@
       "id": "4f414bc50c13877c74dabcd286c991e8"
     },
     {
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "link": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-04T20:28:24Z",
+      "id": "57c4a7d9532d09994392854730f2d7a4",
+      "comments": "https://news.ycombinator.com/item?id=48014521"
+    },
+    {
       "title": "Late for Work: Veteran Bears Center Named a Potential Trade Target for the Ravens",
       "link": "https://www.reddit.com/r/CHIBears/comments/1t3sywn/late_for_work_veteran_bears_center_named_a/",
       "source": "r/CHIBears",
@@ -1300,15 +1309,6 @@
       "published": "2026-05-04T19:27:30Z",
       "id": "7976c10eee60db86c15bd2fe3532e613",
       "comments": "https://news.ycombinator.com/item?id=48013750"
-    },
-    {
-      "title": "Perturb-MARS: Reading mouse experiments through a human lens",
-      "link": "https://www.noetik.blog/p/perturb-mars-reading-mouse-experiments",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-04T18:44:31Z",
-      "id": "970d392cbab00059b51d91f2e343c181",
-      "comments": "https://news.ycombinator.com/item?id=48013083"
     },
     {
       "title": "Chevrolet Performance eCrate package (400v/200hp)",
