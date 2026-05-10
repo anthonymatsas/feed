@@ -1,13 +1,55 @@
 {
-  "last_updated": "2026-05-10T06:07:17.324844Z",
+  "last_updated": "2026-05-10T10:10:18.689340Z",
   "items": [
     {
-      "title": "Enterprise software is a pain in the ass",
-      "link": "https://www.reddit.com/r/programming/comments/1t8yhws/enterprise_software_is_a_pain_in_the_ass/",
+      "title": "Rotten Dot Com",
+      "link": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-10T08:25:55Z",
+      "id": "ccb3fb4bcbad08a5bc9f1cca5c6646a5",
+      "comments": "https://news.ycombinator.com/item?id=48082039"
+    },
+    {
+      "title": "Is The Bear trolling us, or trying to say something?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1t914wz/is_the_bear_trolling_us_or_trying_to_say_something/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-05-10T08:24:19Z",
+      "id": "9b71d773ebb89e55ed0a371028e59121"
+    },
+    {
+      "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+      "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-10T08:03:15Z",
+      "id": "379e1766f844d3cc6af8fca6d389f2f6",
+      "comments": "https://news.ycombinator.com/item?id=48081942"
+    },
+    {
+      "title": "How to be a good interviewer",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t904xi/how_to_be_a_good_interviewer/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-10T07:26:39Z",
+      "id": "379e4417e70fc799f42987c0dc9c8b2b"
+    },
+    {
+      "title": "Prediction - The next road playoff game",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1t8zst8/prediction_the_next_road_playoff_game/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-05-10T07:07:38Z",
+      "id": "e84908d02b02c3d0dd9e7ac6eb2ccdda"
+    },
+    {
+      "title": "wgsl.run - a WGSL sandbox with live WebGPU preview",
+      "link": "https://www.reddit.com/r/programming/comments/1t8zlr8/wgslrun_a_wgsl_sandbox_with_live_webgpu_preview/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-05-10T05:56:54Z",
-      "id": "4e2c544a4e504312322a5ec030c977db"
+      "published": "2026-05-10T06:57:06Z",
+      "id": "047c606b04b7d6572274b6bc0bab8e8d"
     },
     {
       "title": "[Highlight] The Bears are who Dennis Green thinks they are",
@@ -16,6 +58,24 @@
       "category": "sports",
       "published": "2026-05-10T05:29:27Z",
       "id": "ca40d5b9a235b5139b4d75e5d51e48cd"
+    },
+    {
+      "title": "Debian must ship reproducible packages",
+      "link": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-10T05:26:03Z",
+      "id": "99e0193c8285745d4dd7bc6d380a1e88",
+      "comments": "https://news.ycombinator.com/item?id=48081245"
+    },
+    {
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "link": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-10T04:47:45Z",
+      "id": "81fbe8d00e3c0e851d22fbed5513fbe9",
+      "comments": "https://news.ycombinator.com/item?id=48081094"
     },
     {
       "title": "[Highlight] Champ Bailey talks about the strongest receiver he's ever faced",
@@ -42,12 +102,28 @@
       "id": "ad03e8be6471e653e2847f65f7907949"
     },
     {
+      "title": "Dirk Nowitzki after game 2: \"The Lakers are always the ones who usually win the free throw battle. This is new to them that they're getting clobbered more often.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1t8w35f/dirk_nowitzki_after_game_2_the_lakers_are_always/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-10T03:53:37Z",
+      "id": "8f6a91f93a0cee76732ef35e9b0cb6d7"
+    },
+    {
       "title": "[Barkely] \u201cI really hope OKC gets a top 4 pick tomorrow. That will show those tanking teams\u2026. Karma I really hope it happens\u201d",
       "link": "https://www.reddit.com/r/nba/comments/1t8vxed/barkely_i_really_hope_okc_gets_a_top_4_pick/",
       "source": "r/nba",
       "category": "sports",
       "published": "2026-05-10T03:45:49Z",
       "id": "992f48f70ec03f7a101e88ae2422406a"
+    },
+    {
+      "title": "LeBron asked if this Thunder team compares to the 90s Bulls and 17-18 Warriors - \"They're pretty damn good from top to bottom. They don't let their foot off the gas\"",
+      "link": "https://www.reddit.com/r/nba/comments/1t8vvcn/lebron_asked_if_this_thunder_team_compares_to_the/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-10T03:43:01Z",
+      "id": "d6972ca124d7fbda10063fc9511d9018"
     },
     {
       "title": "Charles Barkley brings out the broom and starts sweeping the floor as the Thunder take a 3-0 over the Lakers",
@@ -64,14 +140,6 @@
       "category": "sports",
       "published": "2026-05-10T03:27:11Z",
       "id": "59040f1c0be0dd5d00c4b6b2f4bf768b"
-    },
-    {
-      "title": "I deleted 5 helper functions from my test suite by making test data declarative",
-      "link": "https://www.reddit.com/r/programming/comments/1t8vhzo/i_deleted_5_helper_functions_from_my_test_suite/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-10T03:24:37Z",
-      "id": "b4725ebbaa87809aa17af944a8d11f7e"
     },
     {
       "title": "Gemini API File Search is now multimodal",
@@ -245,23 +313,6 @@
       "id": "a00f72172c3403c54a2168d78d86bc0d"
     },
     {
-      "title": "The Cavs are 5-0 at home and 0-5 on the road this playoffs.",
-      "link": "https://www.reddit.com/r/nba/comments/1t8oy42/the_cavs_are_50_at_home_and_05_on_the_road_this/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-09T22:23:03Z",
-      "id": "4a03dda8eb7fd35dbf90150f279c0283"
-    },
-    {
-      "title": "France moves to break encrypted messaging",
-      "link": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-09T22:14:35Z",
-      "id": "f3116b805e387a54e3826dc68fe96a39",
-      "comments": "https://news.ycombinator.com/item?id=48078811"
-    },
-    {
       "title": "Against Query Based Compilers",
       "link": "https://www.reddit.com/r/programming/comments/1t8oq9k/against_query_based_compilers/",
       "source": "r/programming",
@@ -292,14 +343,6 @@
       "category": "sports",
       "published": "2026-05-09T21:52:53Z",
       "id": "5699d7955793732d6190b739a7aeef56"
-    },
-    {
-      "title": "[Highlight] James Harden keeps it and finds nylon on the 3, Cavs lead by 4 with 25.9 remaining",
-      "link": "https://www.reddit.com/r/nba/comments/1t8o5cd/highlight_james_harden_keeps_it_and_finds_nylon/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-09T21:49:29Z",
-      "id": "8770416a0acfbc35350286b1a4a7ac19"
     },
     {
       "title": "[Highlight] James Harden hits the step back jumper to put the Cavaliers up 4, with 89 seconds remaining in regulation (with replays)",
@@ -431,15 +474,6 @@
       "category": "sports",
       "published": "2026-05-09T18:42:35Z",
       "id": "b9ff636da67d54351c708f25a2b0727e"
-    },
-    {
-      "title": "Meta's embrace of AI is making its employees miserable",
-      "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-09T18:33:36Z",
-      "id": "bb763d659dcc4e29a06f1380502118c4",
-      "comments": "https://news.ycombinator.com/item?id=48077126"
     },
     {
       "title": "1 day left until the NBA Lottery",
@@ -631,14 +665,6 @@
       "id": "964d5888a83c2ecdf6933e8362e8a550"
     },
     {
-      "title": "NFC North All-time 53 man roster",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1t85mhi/nfc_north_alltime_53_man_roster/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-05-09T13:53:00Z",
-      "id": "33a891b96602c1a04f2a3ccfc5945cfa"
-    },
-    {
       "title": "The hypocrisy of cyberlibertarianism",
       "link": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
       "source": "Hacker News",
@@ -788,6 +814,14 @@
       "comments": "https://news.ycombinator.com/item?id=48072190"
     },
     {
+      "title": "The two kinds of error",
+      "link": "https://www.reddit.com/r/programming/comments/1t7vicb/the_two_kinds_of_error/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-09T05:11:34Z",
+      "id": "bdbd968f0644c14c13a1be7a9b892edc"
+    },
+    {
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "link": "https://twitter.com/trq212/status/2052809885763747935",
       "source": "Hacker News",
@@ -908,15 +942,6 @@
       "category": "tech",
       "published": "2026-05-08T19:56:46Z",
       "id": "6b4640dc6e67668e30cc3fcda8c8479f"
-    },
-    {
-      "title": "Production engineering when trading billions of dollars a day [video]",
-      "link": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-08T19:45:21Z",
-      "id": "0d5d773a1d3fd47e0ec1d0f6311b2622",
-      "comments": "https://news.ycombinator.com/item?id=48067786"
     },
     {
       "title": "My drunken purchase from the other night, I think I did well.",
@@ -1151,6 +1176,15 @@
       "id": "217cf07191ec00959623ab1cb2664b3d"
     },
     {
+      "title": "Cooking the Hashish Cookbook",
+      "link": "https://cookingthehashishcookbook.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-07T20:03:20Z",
+      "id": "923f4e05e34ebda57823e04a686244e1",
+      "comments": "https://news.ycombinator.com/item?id=48054154"
+    },
+    {
       "title": "[Bears Communications] Zah Frazier has been Waived",
       "link": "https://www.reddit.com/r/CHIBears/comments/1t6lp4l/bears_communications_zah_frazier_has_been_waived/",
       "source": "r/CHIBears",
@@ -1183,32 +1217,6 @@
       "id": "f0b96aa3d66b590fef7c3b24b628c1fe"
     },
     {
-      "title": "A construction of the Hat tilings by a Markov partition",
-      "link": "https://www.mathstat.dal.ca/~selinger/hat-partition/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-07T18:03:15Z",
-      "id": "30d3db6fe6f13b0d12cab3bb02f57b3d",
-      "comments": "https://news.ycombinator.com/item?id=48052656"
-    },
-    {
-      "title": "[bearswire] Bears HC Ben Johnson explains why he had to have rookie Zavion Thomas",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1t6hx2b/bearswire_bears_hc_ben_johnson_explains_why_he/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-05-07T17:48:23Z",
-      "id": "e210b7f84dc9281394ca0b30b33d9338"
-    },
-    {
-      "title": "OpenAI\u2019s WebRTC problem",
-      "link": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-07T17:11:59Z",
-      "id": "72c174e23f638a462b25a3eb3831f03d",
-      "comments": "https://news.ycombinator.com/item?id=48051951"
-    },
-    {
       "title": "Is it me or have interviews gotten way more convoluted even with more experience?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t6ggvf/is_it_me_or_have_interviews_gotten_way_more/",
       "source": "r/ExperiencedDevs",
@@ -1233,29 +1241,12 @@
       "id": "b580f004e8ccdba98c2466e10fc7376f"
     },
     {
-      "title": "Is anyone else experiencing major service degradation with Microsoft SaaS products lately?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t6d4z8/is_anyone_else_experiencing_major_service/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-07T15:02:03Z",
-      "id": "c24497e78686636648ca3ee94897cb44"
-    },
-    {
       "title": "Exclusive interview with Bulls EVP of Basketball Operations Bryson Graham | By The Horns",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1t6cz01/exclusive_interview_with_bulls_evp_of_basketball/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-05-07T14:56:23Z",
       "id": "546863b667b68accb1b341fa2c01de9e"
-    },
-    {
-      "title": "The Serial TTL connector we deserve",
-      "link": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-07T14:19:55Z",
-      "id": "b63a0a35090e44c98f24b4acf467687d",
-      "comments": "https://news.ycombinator.com/item?id=48049828"
     },
     {
       "title": "For One Afternoon, the Bulls Sounded Different",
@@ -1299,6 +1290,15 @@
       "published": "2026-05-07T12:09:47Z",
       "id": "7369413a910a5169d26b602dbfe83f3c",
       "comments": "https://news.ycombinator.com/item?id=48048407"
+    },
+    {
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "link": "https://blog.dochia.dev/blog/idempotency/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-07T11:02:28Z",
+      "id": "155efe2a90e6c3a257e67dec747baed5",
+      "comments": "https://news.ycombinator.com/item?id=48047930"
     },
     {
       "title": "Most Telling Quotes From Bryson Graham's First Bulls Press Conference",
