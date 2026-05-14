@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-05-14T06:20:43.373400Z",
+  "last_updated": "2026-05-14T11:11:26.643187Z",
   "items": [
+    {
+      "title": "Per Stenstr\u00f6m on why we never actually replaced the Von Neumann architecture \u2014 and whether we ever will",
+      "link": "https://www.reddit.com/r/programming/comments/1tcuwhv/per_stenstr\u00f6m_on_why_we_never_actually_replaced/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-14T11:09:30Z",
+      "id": "345a99b5fb19a910a8e3a2f9ce32eeb3"
+    },
+    {
+      "title": "Switching from Express to NestJS? Here's exactly what changes (and what doesn't)",
+      "link": "https://www.reddit.com/r/programming/comments/1tcuw48/switching_from_express_to_nestjs_heres_exactly/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-14T11:08:59Z",
+      "id": "77dbe0628bba7e939e5f2fad807e6aa1"
+    },
+    {
+      "title": "Show HN: Running the second public ODoH relay",
+      "link": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-14T10:44:50Z",
+      "id": "37979bc057a8d574566178bd48a598f2",
+      "comments": "https://news.ycombinator.com/item?id=48133561"
+    },
+    {
+      "title": "Rewrite Bun in Rust has been merged",
+      "link": "https://www.reddit.com/r/programming/comments/1tcuebe/rewrite_bun_in_rust_has_been_merged/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-14T10:44:42Z",
+      "id": "25eb783d0c8d365e76169d0c905429e2"
+    },
+    {
+      "title": "Please! Help me system design for the following app.",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tctt8k/please_help_me_system_design_for_the_following_app/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-14T10:13:50Z",
+      "id": "0524c88b0b44e0dd98cb2ec9baa4d776"
+    },
+    {
+      "title": "I attended a \"mob programming\" coding dojo that forced teams to communicate with sticky notes!",
+      "link": "https://www.reddit.com/r/programming/comments/1tctrih/i_attended_a_mob_programming_coding_dojo_that/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-14T10:11:16Z",
+      "id": "c9d543e568ff13656e656b3841dd5979"
+    },
+    {
+      "title": "How to build a programming language after civilization collapses",
+      "link": "https://www.reddit.com/r/programming/comments/1tcsy80/how_to_build_a_programming_language_after/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-14T09:27:31Z",
+      "id": "c29ca5601b6705c3e18981520ede038d"
+    },
+    {
+      "title": "Decision Trees",
+      "link": "https://www.reddit.com/r/programming/comments/1tcrdbf/decision_trees/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-14T07:58:49Z",
+      "id": "9399ebbcb2ddefade4aad6405a73ede2"
+    },
+    {
+      "title": "The Emacsification of Software",
+      "link": "https://www.reddit.com/r/programming/comments/1tcr624/the_emacsification_of_software/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-14T07:47:06Z",
+      "id": "fd86bc9f2f7c52c4da4eb5254aa7ab32"
+    },
+    {
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "link": "https://classic7.lol/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-14T07:03:18Z",
+      "id": "f91fc17f8afdcb42944c2bd2b5064503",
+      "comments": "https://news.ycombinator.com/item?id=48132030"
+    },
+    {
+      "title": "My company spends $1,800/month on AI coding credits for me. Here's what I use for my own projects ($25/month).",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tcptaz/my_company_spends_1800month_on_ai_coding_credits/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-14T06:31:53Z",
+      "id": "a7254dc8ae82d4b07c4bd260dd725756"
+    },
+    {
+      "title": "Caleb Wilson reposts TikTok Edit: \"The Future of Chicago\"",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1tcppeh/caleb_wilson_reposts_tiktok_edit_the_future_of/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2026-05-14T06:26:07Z",
+      "id": "4e5539cff6adf94db3d5201f8c97f5f4"
+    },
     {
       "title": "Cameron Carr (6\u20195, 7\u20191 wingspan) exploded in the NBA Draft Combine scrimmage: 30 PTS | 9-18 FG | 6-12 3PT | 7 REB",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1tcpbjs/cameron_carr_65_71_wingspan_exploded_in_the_nba/",
@@ -18,12 +116,12 @@
       "id": "1d7ab764890d4e973ddc240f469c4c05"
     },
     {
-      "title": "Don't Be Discouraged to Code by Hand",
-      "link": "https://www.reddit.com/r/programming/comments/1tcoh3j/dont_be_discouraged_to_code_by_hand/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-14T05:21:36Z",
-      "id": "c9630cea82f15552542eddba7ea59576"
+      "title": "Slow motion replay of the contact between Thompson and Allen at the end of regulation (Pistons v Cavs Game 5)",
+      "link": "https://www.reddit.com/r/nba/comments/1tcoq6z/slow_motion_replay_of_the_contact_between/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-14T05:34:51Z",
+      "id": "58b7254e3cb6d736040f2e195de3abba"
     },
     {
       "title": "Potential complete schedule revealed on TikTok",
@@ -131,13 +229,13 @@
       "id": "b1a8723966ad555df45afb145d321d92"
     },
     {
-      "title": "Arena AI Model ELO History",
-      "link": "https://mayerwin.github.io/AI-Arena-History/",
+      "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+      "link": "https://github.com/DrCatHicks/learning-opportunities",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-14T03:19:05Z",
-      "id": "533d2277a16e1f9b649052bc44d77801",
-      "comments": "https://news.ycombinator.com/item?id=48130711"
+      "published": "2026-05-14T03:13:31Z",
+      "id": "2c971f83e204d1233f9474f104b5373a",
+      "comments": "https://news.ycombinator.com/item?id=48130679"
     },
     {
       "title": "[accdigitalnetwork] Duke vs. North Carolina Full Game Replay | 2025-26 ACC Men's Basketball",
@@ -329,15 +427,6 @@
       "id": "fdc6b50e5fbb2da4345e948929f24904"
     },
     {
-      "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
-      "link": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-14T00:54:18Z",
-      "id": "4e0ec8655efab2b71ab5e309e69598f0",
-      "comments": "https://news.ycombinator.com/item?id=48129789"
-    },
-    {
       "title": "Scorched Earth 2000 \u2013 Web",
       "link": "http://www.scorch2000.com/web/",
       "source": "Hacker News",
@@ -345,23 +434,6 @@
       "published": "2026-05-14T00:41:29Z",
       "id": "3817350c02c2ef5fa1351243304bc059",
       "comments": "https://news.ycombinator.com/item?id=48129694"
-    },
-    {
-      "title": "Has AI adoption affected the quality of junior developers joining your teams?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tci7h8/has_ai_adoption_affected_the_quality_of_junior/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-14T00:35:37Z",
-      "id": "92923c25d38acb6ce3c0b22021f5c6b7"
-    },
-    {
-      "title": "The other half of AI safety",
-      "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-14T00:27:20Z",
-      "id": "0162fed8e3a64b26f5b9be638d7a52d8",
-      "comments": "https://news.ycombinator.com/item?id=48129561"
     },
     {
       "title": "A moment of silence in Detroit for Brandon Clarke and Jason Collins before the game. Rest in Peace. \ud83d\ude4f\u2764\ufe0f",
@@ -394,14 +466,6 @@
       "category": "sports",
       "published": "2026-05-14T00:12:29Z",
       "id": "20eb43a5ba7de228fea117516446a66e"
-    },
-    {
-      "title": "USAF just launched their AMS GRA and A-GRA reference architectures to the public.",
-      "link": "https://www.reddit.com/r/programming/comments/1tchf5u/usaf_just_launched_their_ams_gra_and_agra/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-14T00:01:08Z",
-      "id": "59288eb21cf626538b28be9a3a6802f6"
     },
     {
       "title": "[wgntv] Caleb Wilson on KG comparisons, playing against Cam Boozer, and Bulls' SLAP acronym | GN Sports",
@@ -597,14 +661,6 @@
       "id": "ba7e4b00097a5a52b6e95dfe04e0ab35"
     },
     {
-      "title": "curl | bash | hacked: The Unseen Dangers in Your Dev Lifecycle I Steve Poole",
-      "link": "https://www.reddit.com/r/programming/comments/1tc9vb5/curl_bash_hacked_the_unseen_dangers_in_your_dev/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-13T19:19:50Z",
-      "id": "dfcb4c8f58b25338316a7620a6eeb83e"
-    },
-    {
       "title": "[Finkelstein] AJ Dybantsa\u2019s preference is to remain in Utah and get drafted by the Utah Jazz.",
       "link": "https://www.reddit.com/r/nba/comments/1tc9t1z/finkelstein_aj_dybantsas_preference_is_to_remain/",
       "source": "r/nba",
@@ -643,14 +699,6 @@
       "category": "sports",
       "published": "2026-05-13T18:55:22Z",
       "id": "19fcf8346511cf21e4b36c525e6c0927"
-    },
-    {
-      "title": "[Keown] Mark Daigneault on Sam Presti's evaluation process: \"One time we were discussing a player, and he said to me, 'All the guys are standing there watching film before practice, and I'm just imagining him standing there with them, and I just don't see him fitting in.' And that was it.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1tc92ib/keown_mark_daigneault_on_sam_prestis_evaluation/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-13T18:52:27Z",
-      "id": "7ccb90cacb0c6c99b70d59cae64954bb"
     },
     {
       "title": "Two Spurs fans re-enact Wemby's elbow on the jumbotron during Game 5",
@@ -692,14 +740,6 @@
       "category": "tech",
       "published": "2026-05-13T17:38:24Z",
       "id": "db29d9049a8046175c10ca48d6cd2f57"
-    },
-    {
-      "title": "May I recommend... understanding Emacs's patterns",
-      "link": "https://www.reddit.com/r/programming/comments/1tc6d0n/may_i_recommend_understanding_emacss_patterns/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-13T17:21:19Z",
-      "id": "c3c298e1c971767fd9f747127945bdaf"
     },
     {
       "title": "How we made WINDOW JOIN parallel and vectorized",
@@ -781,15 +821,6 @@
       "category": "sports",
       "published": "2026-05-13T15:53:25Z",
       "id": "c03a70a022ad2cf1249d51584304c7f3"
-    },
-    {
-      "title": "S-100 Virtual Workbench",
-      "link": "https://grantmestrength.github.io/S100/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-13T15:52:00Z",
-      "id": "d2234a38938ccbc666c4dbc398a0fa45",
-      "comments": "https://news.ycombinator.com/item?id=48123546"
     },
     {
       "title": "NFL teams will combine to travel more than 627,000 air miles this season. The 49ers lead the league at 38,105 miles traveled. On the other end, the Panthers will travel the fewest miles at 8,740.",
@@ -970,14 +1001,6 @@
       "id": "1533611abf754cd47aa61c10e5e1d1d9"
     },
     {
-      "title": "Learnings From Crawling Technical Documentation",
-      "link": "https://www.reddit.com/r/programming/comments/1tbu23o/learnings_from_crawling_technical_documentation/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-13T09:02:35Z",
-      "id": "9a4eadbbfbbe53e629d9726fff3c37ed"
-    },
-    {
       "title": "Metldown at a new job",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tbtodt/metldown_at_a_new_job/",
       "source": "r/ExperiencedDevs",
@@ -1133,6 +1156,15 @@
       "comments": "https://news.ycombinator.com/item?id=48111896"
     },
     {
+      "title": "The Deathbed Notes of Henry James (1968)",
+      "link": "https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-12T17:44:58Z",
+      "id": "d5ca19771ad7d05182bcd96eca93e437",
+      "comments": "https://news.ycombinator.com/item?id=48111652"
+    },
+    {
       "title": "Who do the Bulls target this free agency?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1tb8kqb/who_do_the_bulls_target_this_free_agency/",
       "source": "r/chicagobulls",
@@ -1155,22 +1187,6 @@
       "category": "sports",
       "published": "2026-05-12T17:24:08Z",
       "id": "5c79e414aec8a2cc62a1160079e78953"
-    },
-    {
-      "title": "cost of enum-to-string: C++26 reflection vs the old ways",
-      "link": "https://www.reddit.com/r/programming/comments/1tb89rx/cost_of_enumtostring_c26_reflection_vs_the_old/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-12T17:20:42Z",
-      "id": "f1c582ac980aea40639fd097e1be32a7"
-    },
-    {
-      "title": "How to test the waters with a career pivot without overhauling all of your media (Linkedin, resume, cover letter)? QA -> Backend",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tb7wv3/how_to_test_the_waters_with_a_career_pivot/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-12T17:08:31Z",
-      "id": "bb9b511bdfed71b814f17e244e0b85d5"
     },
     {
       "title": "Problem with git management",
@@ -1254,14 +1270,6 @@
       "id": "61085fa75e5b1b8781709efb10d6666f"
     },
     {
-      "title": "Mass npm Supply Chain Attack Hits TanStack, Mistral AI, and 170+ Packages",
-      "link": "https://www.reddit.com/r/programming/comments/1tapmvi/mass_npm_supply_chain_attack_hits_tanstack/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-12T03:29:29Z",
-      "id": "163a3b2864f206b940f2856df2a609c0"
-    },
-    {
       "title": "Is a repo owner making their own commit with my changes normal in open source?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tant1d/is_a_repo_owner_making_their_own_commit_with_my/",
       "source": "r/ExperiencedDevs",
@@ -1311,23 +1319,6 @@
       "id": "f73c5f826d3cb158419945c962703e8c"
     },
     {
-      "title": "Who do you go with? One or the other?",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1taelim/who_do_you_go_with_one_or_the_other/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-05-11T19:59:42Z",
-      "id": "f15b2bbe8afed39357aac2964d3017d7"
-    },
-    {
-      "title": "Golden Testing a CAD Library",
-      "link": "https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-11T19:12:34Z",
-      "id": "d708d7dc46cc8a007e9c1726fd929340",
-      "comments": "https://news.ycombinator.com/item?id=48099347"
-    },
-    {
       "title": "Are daily stand ups at your company just \u201clist out all your accomplishments of yesterday\u201d?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ta9ici/are_daily_stand_ups_at_your_company_just_list_out/",
       "source": "r/ExperiencedDevs",
@@ -1343,15 +1334,6 @@
       "published": "2026-05-11T16:00:19Z",
       "id": "ce2bb38c31cb6fc4ef48a80f2ef10a64",
       "comments": "https://news.ycombinator.com/item?id=48096760"
-    },
-    {
-      "title": "Marco Polo: Finding a friend with only distance and motion",
-      "link": "https://www.jackhogan.me/blog/marco-polo",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-11T14:52:25Z",
-      "id": "4e3952896bfe3cd635014cc1b4174af4",
-      "comments": "https://news.ycombinator.com/item?id=48095782"
     },
     {
       "title": "How can Apple deal with the memory shortage?",
@@ -1371,6 +1353,15 @@
       "id": "4689588b81c8cde2ed2a918bb1645ea1"
     },
     {
+      "title": "Saying Goodbye to one line of APL",
+      "link": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-11T10:38:12Z",
+      "id": "0802dfcafe65ebd93c19c7cb2d235a6e",
+      "comments": "https://news.ycombinator.com/item?id=48093244"
+    },
+    {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t9n1wz/ask_experienced_devs_weekly_thread_a_weekly/",
       "source": "r/ExperiencedDevs",
@@ -1386,6 +1377,24 @@
       "published": "2026-05-10T20:54:06Z",
       "id": "2250f7178ce68ac951c0887941fab311",
       "comments": "https://news.ycombinator.com/item?id=48087887"
+    },
+    {
+      "title": "Technical Dimensions of Live Feedback in Programming Systems",
+      "link": "https://joshuahhh.com/dims-of-feedback/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-10T14:56:05Z",
+      "id": "263d40aade41db85cdd8d03cfa863267",
+      "comments": "https://news.ycombinator.com/item?id=48084516"
+    },
+    {
+      "title": "Leaving the Physical World",
+      "link": "https://www.eff.org/pages/leaving-physical-world",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-10T13:54:54Z",
+      "id": "f5695ac57b514ee51593cc23887ad379",
+      "comments": "https://news.ycombinator.com/item?id=48084012"
     },
     {
       "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
@@ -1404,15 +1413,6 @@
       "published": "2026-05-09T20:25:55Z",
       "id": "c1917cb01e8eeaa430b10a2058b0128e",
       "comments": "https://news.ycombinator.com/item?id=48077924"
-    },
-    {
-      "title": "'A Four-Eyed World' Review: The Story of Spectacles",
-      "link": "https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-09T18:02:23Z",
-      "id": "0c285d7f854aad0f86f47203b37a2043",
-      "comments": "https://news.ycombinator.com/item?id=48076888"
     },
     {
       "title": "A History of IDEs at Google",
