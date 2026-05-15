@@ -1,6 +1,134 @@
 {
-  "last_updated": "2026-05-15T06:30:38.827068Z",
+  "last_updated": "2026-05-15T11:18:11.690471Z",
   "items": [
+    {
+      "title": "I've been coding for 30+ years. All I ever wanted was to stop typing.",
+      "link": "https://www.reddit.com/r/programming/comments/1tdt7pb/ive_been_coding_for_30_years_all_i_ever_wanted/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-15T11:15:34Z",
+      "id": "ccf435e90488cf407f15526a50020a2d"
+    },
+    {
+      "title": "O(x)Caml in Space",
+      "link": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T10:55:51Z",
+      "id": "0a84c576900fb2f6622a77b8ffb1dd65",
+      "comments": "https://news.ycombinator.com/item?id=48147058"
+    },
+    {
+      "title": "Steve Jobs Next Computer: His Forgotten Exile Years",
+      "link": "https://spectrum.ieee.org/steve-jobs-next-computer",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T10:34:58Z",
+      "id": "51431d0e25066f4885622a6dca551187",
+      "comments": "https://news.ycombinator.com/item?id=48146908"
+    },
+    {
+      "title": "A lightweight sandbox runtime for short-lived scripts and constrained execution",
+      "link": "https://www.reddit.com/r/programming/comments/1tds73t/a_lightweight_sandbox_runtime_for_shortlived/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-15T10:25:58Z",
+      "id": "0ffca1097a939b8ea1c695f1701110b5"
+    },
+    {
+      "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T09:57:03Z",
+      "id": "b875ed20bd7615f93fd0d74625089298",
+      "comments": "https://news.ycombinator.com/item?id=48146656"
+    },
+    {
+      "title": "Geography is four-dimensional",
+      "link": "https://sive.rs/4d",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T09:47:28Z",
+      "id": "8c146d6710582b1426d4b2ca9596e70b",
+      "comments": "https://news.ycombinator.com/item?id=48146577"
+    },
+    {
+      "title": "UK sovereign LLM inference",
+      "link": "https://relax.ai/docs",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T09:27:26Z",
+      "id": "058e0ca9fc5d2b2275f39bebed695511",
+      "comments": "https://news.ycombinator.com/item?id=48146424"
+    },
+    {
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "link": "https://github.com/Andyyyy64/whichllm",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T09:19:24Z",
+      "id": "c9a2339c9baf876c94773f50b81aa438",
+      "comments": "https://news.ycombinator.com/item?id=48146369"
+    },
+    {
+      "title": "Leiningen for windows - build and run Clojure programs",
+      "link": "https://www.reddit.com/r/programming/comments/1tdqnll/leiningen_for_windows_build_and_run_clojure/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-15T09:00:36Z",
+      "id": "8e7c16c18243167482c528ae7499e73e"
+    },
+    {
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "link": "https://explorer.samismith.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T08:45:36Z",
+      "id": "8cfd6ff8112a7a5371c0dfa5eb896301",
+      "comments": "https://news.ycombinator.com/item?id=48146129"
+    },
+    {
+      "title": "What kind of songs or background audio do you listen to while coding or solving problems?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tdq7dk/what_kind_of_songs_or_background_audio_do_you/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-15T08:34:58Z",
+      "id": "d28c6433b12530c6eee27fe7fbd724ab"
+    },
+    {
+      "title": "C3 0.8.0 replaces builtins, simplifies reflection, and rethinks unsigned sizes",
+      "link": "https://www.reddit.com/r/programming/comments/1tdq64x/c3_080_replaces_builtins_simplifies_reflection/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-15T08:33:05Z",
+      "id": "4e6a110ab00f33c131b8a927fcc9ec83"
+    },
+    {
+      "title": "Where's Ed: Anthropic Told Court $5B but Public $19B",
+      "link": "https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T08:16:39Z",
+      "id": "c239513a50b563a761e71568ab75ead2",
+      "comments": "https://news.ycombinator.com/item?id=48145913"
+    },
+    {
+      "title": "How to deal with demotivation in current work environment and increased lack of interest in coding?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tdp6yd/how_to_deal_with_demotivation_in_current_work/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-15T07:38:11Z",
+      "id": "cb092cf82c2745db974d2a3159fc7e41"
+    },
+    {
+      "title": "Pre-Submission vs. Formal Merge/Pull Request Code Reviews",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tdoanj/presubmission_vs_formal_mergepull_request_code/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-15T06:48:21Z",
+      "id": "6325d460fd317583cb13323af74371e1"
+    },
     {
       "title": "Is This Modular Monolith Architecture Good? or a Massive Future Mistake?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tdn56n/is_this_modular_monolith_architecture_good_or_a/",
@@ -26,21 +154,21 @@
       "id": "ada3eb7c1c1611e1deda510d34d583fe"
     },
     {
+      "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
+      "link": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T04:48:23Z",
+      "id": "60f3c06b232150a3f5ea57be3b583c52",
+      "comments": "https://news.ycombinator.com/item?id=48144670"
+    },
+    {
       "title": "Metrics is used to measure performance with other teammates? What were your experience?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tdlfg5/metrics_is_used_to_measure_performance_with_other/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-05-15T04:18:50Z",
       "id": "f8311af6e03cfc193f45430f0e8fce04"
-    },
-    {
-      "title": "How Claude Code works in large codebases",
-      "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T04:15:31Z",
-      "id": "13f7b96f7f1c008094663c9a31ccea01",
-      "comments": "https://news.ycombinator.com/item?id=48144494"
     },
     {
       "title": "Solar-based sleep patterns compared to modern norms",
@@ -50,15 +178,6 @@
       "published": "2026-05-15T04:15:24Z",
       "id": "88333158156073351e9da2ac28817dd1",
       "comments": "https://news.ycombinator.com/item?id=48144490"
-    },
-    {
-      "title": "Coldkey \u2013 Post-quantum age key generation and paper backup tool",
-      "link": "https://github.com/pike00/coldkey",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T04:02:09Z",
-      "id": "d4c661f3d69c3aae8bb6489af5a0257f",
-      "comments": "https://news.ycombinator.com/item?id=48144410"
     },
     {
       "title": "An in-season video from the Milwaukee Bucks had AJ Green, Kevin Porter Jr., and Myles Turner asked \u201cWho\u2019s always the last one on the bus?\u201d Green immediately passed, Porter Jr. said \u201cno snitching,\u201d and Turner just stared into the camera with an awkward smile.",
@@ -100,15 +219,6 @@
       "category": "tech",
       "published": "2026-05-15T02:55:51Z",
       "id": "b12ef98055fc46a2b7f4b99a2442ae5c"
-    },
-    {
-      "title": "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
-      "link": "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T02:51:41Z",
-      "id": "568c5f5ca6727064f19837e1c48e4a1b",
-      "comments": "https://news.ycombinator.com/item?id=48143997"
     },
     {
       "title": "Mullvad exit IPs are surprisingly identifying",
@@ -215,15 +325,6 @@
       "category": "sports",
       "published": "2026-05-15T01:07:26Z",
       "id": "1ff9a21fe217bb6b802068d9cd274952"
-    },
-    {
-      "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
-      "link": "https://www.theembeddedrustacean.com/uferris",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T01:04:13Z",
-      "id": "58a42d6a4883e4aad3f8bfea14d826bf",
-      "comments": "https://news.ycombinator.com/item?id=48143256"
     },
     {
       "title": "The Chicago Bears are 1 of 8 teams to receive 6+ primetime games",
@@ -386,15 +487,6 @@
       "id": "f329817ffb32f039c21a187765e7105a"
     },
     {
-      "title": "LLM Policy for Rust Compiler",
-      "link": "https://github.com/rust-lang/rust-forge/pull/1040",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-14T23:37:21Z",
-      "id": "8cbfe157621316731c892fad6350edcb",
-      "comments": "https://news.ycombinator.com/item?id=48142650"
-    },
-    {
       "title": "[ChicagoBears] Happy little matchups \ud83c\udfa8 | Chicago Bears 2026 Schedule Release",
       "link": "https://www.reddit.com/r/CHIBears/comments/1tdf21z/chicagobears_happy_little_matchups_chicago_bears/",
       "source": "r/CHIBears",
@@ -443,22 +535,13 @@
       "id": "4078a76a372880a17036862a6ec81fe1"
     },
     {
-      "title": "More than sixty percent of the United States is experiencing drought conditions",
-      "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "title": "UK government replaces Palantir software with internally-built refugee system",
+      "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-14T22:38:18Z",
-      "id": "bb01ab0333e3edfa0e0a93565022c554",
-      "comments": "https://news.ycombinator.com/item?id=48142193"
-    },
-    {
-      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-14T22:37:40Z",
-      "id": "e54051ee34fa5df9eeac3ebbcd38ccb8",
-      "comments": "https://news.ycombinator.com/item?id=48142188"
+      "published": "2026-05-14T22:44:16Z",
+      "id": "51348600ee9822776aadd5500c50c0e8",
+      "comments": "https://news.ycombinator.com/item?id=48142251"
     },
     {
       "title": "A few words on DS4",
@@ -478,15 +561,6 @@
       "id": "a6706c122dce9848b9b1f65911925128"
     },
     {
-      "title": "Show HN: GridTravel- A community based travel app for users to share routes",
-      "link": "https://www.gridtravel.app",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-14T22:05:30Z",
-      "id": "213eaa334a4550a4b106dcd408555e23",
-      "comments": "https://news.ycombinator.com/item?id=48141902"
-    },
-    {
       "title": "Future of software consulting companies",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tdcokh/future_of_software_consulting_companies/",
       "source": "r/ExperiencedDevs",
@@ -501,15 +575,6 @@
       "category": "sports",
       "published": "2026-05-14T21:51:43Z",
       "id": "96226b783f551baf21d65c5b09444bf5"
-    },
-    {
-      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
-      "link": "https://www.openvehicles.com/home",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-14T21:50:17Z",
-      "id": "ed30c6e71866a70a8cc533badeb58bf4",
-      "comments": "https://news.ycombinator.com/item?id=48141732"
     },
     {
       "title": "Memorial created by Grizzlies fans for Brandon Clarke outside the FedEx Forum.",
@@ -574,6 +639,15 @@
       "category": "sports",
       "published": "2026-05-14T21:15:02Z",
       "id": "d905187851bbd8e09e7961c054e4d231"
+    },
+    {
+      "title": "Claude for Legal",
+      "link": "https://github.com/anthropics/claude-for-legal",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-14T21:05:05Z",
+      "id": "66aa51886e81389765643abd8003d6b4",
+      "comments": "https://news.ycombinator.com/item?id=48141234"
     },
     {
       "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
@@ -749,15 +823,6 @@
       "id": "f50e5dba8b89b477a6c9f7109314329e"
     },
     {
-      "title": "The Power of a Free Popsicle (2018)",
-      "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-14T18:33:47Z",
-      "id": "4f9b7056ade503b598ed998a6ea4f1ca",
-      "comments": "https://news.ycombinator.com/item?id=48139316"
-    },
-    {
       "title": "Inject Straight Into My Veins",
       "link": "https://www.reddit.com/r/CHIBears/comments/1td6yac/inject_straight_into_my_veins/",
       "source": "r/CHIBears",
@@ -872,6 +937,15 @@
       "category": "sports",
       "published": "2026-05-14T16:30:05Z",
       "id": "0a51702e87b405aba2750754877d90fb"
+    },
+    {
+      "title": "Building ML framework with Rust and Category Theory",
+      "link": "https://hghalebi.github.io/category_theory_transformer_rs/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-14T16:24:28Z",
+      "id": "d415510460f3d817801b850c278e64bd",
+      "comments": "https://news.ycombinator.com/item?id=48137629"
     },
     {
       "title": "HDD Firmware Hacking",
@@ -1044,14 +1118,6 @@
       "id": "345a99b5fb19a910a8e3a2f9ce32eeb3"
     },
     {
-      "title": "Switching from Express to NestJS? Here's exactly what changes (and what doesn't)",
-      "link": "https://www.reddit.com/r/programming/comments/1tcuw48/switching_from_express_to_nestjs_heres_exactly/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-14T11:08:59Z",
-      "id": "77dbe0628bba7e939e5f2fad807e6aa1"
-    },
-    {
       "title": "Rewrite Bun in Rust has been merged",
       "link": "https://www.reddit.com/r/programming/comments/1tcuebe/rewrite_bun_in_rust_has_been_merged/",
       "source": "r/programming",
@@ -1066,15 +1132,6 @@
       "category": "tech",
       "published": "2026-05-14T09:27:31Z",
       "id": "c29ca5601b6705c3e18981520ede038d"
-    },
-    {
-      "title": "Rewrite Bun in Rust has been merged",
-      "link": "https://github.com/oven-sh/bun/pull/30412",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-14T08:15:31Z",
-      "id": "e38a5ecbdae1db03fc5f474e17804ca3",
-      "comments": "https://news.ycombinator.com/item?id=48132488"
     },
     {
       "title": "Decision Trees",
@@ -1189,14 +1246,6 @@
       "id": "dd8c4c1ce087ca1a984200b12950afe8"
     },
     {
-      "title": "Unreal Engine for Programmers: A Quick Start with C++ on the Mac",
-      "link": "https://www.reddit.com/r/programming/comments/1tce7e6/unreal_engine_for_programmers_a_quick_start_with/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-13T21:53:32Z",
-      "id": "daa4abea23d2bd433ef0ff910e5caad3"
-    },
-    {
       "title": "The Lions will host the Bears on Thanksgiving per Jordan Schultz",
       "link": "https://www.reddit.com/r/CHIBears/comments/1tcc6be/the_lions_will_host_the_bears_on_thanksgiving_per/",
       "source": "r/CHIBears",
@@ -1235,14 +1284,6 @@
       "category": "tech",
       "published": "2026-05-13T17:11:29Z",
       "id": "9b9a229070ff309dd0d64366fe4cd324"
-    },
-    {
-      "title": "Intellectual Control vs Statistical Control",
-      "link": "https://www.reddit.com/r/programming/comments/1tc628z/intellectual_control_vs_statistical_control/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-13T17:11:08Z",
-      "id": "51211b99d2566bc621a8258200338dd4"
     },
     {
       "title": "Dealing with huge PR culture",
@@ -1293,14 +1334,6 @@
       "id": "bbdcb0aab368e911a03c5129d6917d45"
     },
     {
-      "title": "Best Upskilling Courses / Books",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tbzyaz/best_upskilling_courses_books/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-13T13:38:21Z",
-      "id": "823edf7c03481a9b56f333136ae18337"
-    },
-    {
       "title": "Things I used to be proud of doing well - Modern AI just does better",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tbz4jc/things_i_used_to_be_proud_of_doing_well_modern_ai/",
       "source": "r/ExperiencedDevs",
@@ -1333,14 +1366,6 @@
       "id": "8943a6f076e90622658d2836bf65e915"
     },
     {
-      "title": "How SIMD improved vector search performance in Elasticsearch",
-      "link": "https://www.reddit.com/r/programming/comments/1tbse80/how_simd_improved_vector_search_performance_in/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-13T07:26:13Z",
-      "id": "fac9ff9c9030ab9e4901dce4d2773c9b"
-    },
-    {
       "title": "First time in a position reviewing pull requests and finding it difficult.",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tbqunh/first_time_in_a_position_reviewing_pull_requests/",
       "source": "r/ExperiencedDevs",
@@ -1365,14 +1390,6 @@
       "id": "447a0164ef30a061a3686660c8de94eb"
     },
     {
-      "title": "I'm thinking about creating a portfolio",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tbco9n/im_thinking_about_creating_a_portfolio/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-12T19:51:31Z",
-      "id": "611ebe02c270c483b96ddccf36d85fe2"
-    },
-    {
       "title": "Hi I\u2019m Bucky Brooks, former NFL player and scout, current NFL Network analyst \u2014 Ask Me Anything!",
       "link": "https://www.reddit.com/r/nfl/comments/1tb8dfo/hi_im_bucky_brooks_former_nfl_player_and_scout/",
       "source": "r/nfl",
@@ -1388,23 +1405,6 @@
       "published": "2026-05-12T13:11:16Z",
       "id": "460a6cb70ebccc39864fa4e2ccc86906",
       "comments": "https://news.ycombinator.com/item?id=48107766"
-    },
-    {
-      "title": "I can't take Software Development anymore",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tarbcf/i_cant_take_software_development_anymore/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-12T04:50:37Z",
-      "id": "81fdc206c391d2e69a7dc0bae2827b3c"
-    },
-    {
-      "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
-      "link": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-11T20:39:21Z",
-      "id": "f34c9aa11891e854995b38537858abb6",
-      "comments": "https://news.ycombinator.com/item?id=48100368"
     },
     {
       "title": "Porting 3D Movie Maker to Linux",
