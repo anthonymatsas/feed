@@ -1,14 +1,23 @@
 {
-  "last_updated": "2026-05-16T05:50:49.651026Z",
+  "last_updated": "2026-05-16T07:58:09.947655Z",
   "items": [
     {
-      "title": "'No way to prevent this,' says only package manager where this regularly happens",
-      "link": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "title": "The CTF scene is dead",
+      "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-16T00:36:02Z",
-      "id": "c0d54e3d986c8c55eb792383d106ed4d",
-      "comments": "https://news.ycombinator.com/item?id=48155690"
+      "published": "2026-05-16T07:01:55Z",
+      "id": "c865eabf0c7ae4554e24e6f5d60519a0",
+      "comments": "https://news.ycombinator.com/item?id=48157559"
+    },
+    {
+      "title": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
+      "link": "https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-16T03:42:30Z",
+      "id": "f40f13acbe88a2d1c436c8eba54540d0",
+      "comments": "https://news.ycombinator.com/item?id=48156628"
     },
     {
       "title": "Show HN: Epiq \u2013 Distributed Git based issue tracker TUI",
@@ -20,12 +29,12 @@
       "comments": "https://news.ycombinator.com/item?id=48155570"
     },
     {
-      "title": "NYT and Vaping: How to Lie by Saying Only True Things (2022)",
+      "title": "NYT and vaping: How to lie by saying only true things (2022)",
       "link": "https://gwern.net/vaping",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-16T00:15:53Z",
-      "id": "858849917b5053332013e949de3df569",
+      "id": "faec02d3343004daaf9e759b5bcd7b84",
       "comments": "https://news.ycombinator.com/item?id=48155555"
     },
     {
@@ -92,15 +101,6 @@
       "comments": "https://news.ycombinator.com/item?id=48152994"
     },
     {
-      "title": "ABC News has taken all FiveThirtyEight articles offline",
-      "link": "https://twitter.com/baseballot/status/2055309076209492208",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T19:07:08Z",
-      "id": "aac70d87ccaeaaf8c962ef77440ce20d",
-      "comments": "https://news.ycombinator.com/item?id=48152553"
-    },
-    {
       "title": "The Zulip Foundation",
       "link": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
       "source": "Hacker News",
@@ -108,15 +108,6 @@
       "published": "2026-05-15T18:37:01Z",
       "id": "045dee3507fe0b1d0db0f16baf4e6d4f",
       "comments": "https://news.ycombinator.com/item?id=48152168"
-    },
-    {
-      "title": "Waymo updates 3,800 robotaxis after they 'drive into standing water'",
-      "link": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T18:00:43Z",
-      "id": "e53f7d43d0c42491b0b7b79a489f7198",
-      "comments": "https://news.ycombinator.com/item?id=48151767"
     },
     {
       "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
@@ -182,15 +173,6 @@
       "comments": "https://news.ycombinator.com/item?id=48148460"
     },
     {
-      "title": "Radicle: Sovereign {code forge} built on Git",
-      "link": "https://radicle.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T12:07:55Z",
-      "id": "98c016e6265b6b60d5d99644a11118df",
-      "comments": "https://news.ycombinator.com/item?id=48147603"
-    },
-    {
       "title": "The sigmoids won't save you",
       "link": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
       "source": "Hacker News",
@@ -236,6 +218,15 @@
       "comments": "https://news.ycombinator.com/item?id=48132106"
     },
     {
+      "title": "Gaining control of every projector and camera on campus",
+      "link": "https://www.edna.land/blogs/posts/scanning/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-14T02:37:22Z",
+      "id": "82fea9522160b35a4c47ad8ebcf4fe5e",
+      "comments": "https://news.ycombinator.com/item?id=48130468"
+    },
+    {
       "title": "ESP-EEG is an affordable 8-channel biosensing board",
       "link": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
       "source": "Hacker News",
@@ -243,6 +234,15 @@
       "published": "2026-05-13T13:00:09Z",
       "id": "eb330ef52e9abfb83a51125dc552bb12",
       "comments": "https://news.ycombinator.com/item?id=48121333"
+    },
+    {
+      "title": "Matlab: Communications Toolbox",
+      "link": "https://www.mathworks.com/products/communications.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-13T12:39:44Z",
+      "id": "1e2ade7a6fd19f34d3422782ee652e60",
+      "comments": "https://news.ycombinator.com/item?id=48121143"
     },
     {
       "title": "England Runestones",
