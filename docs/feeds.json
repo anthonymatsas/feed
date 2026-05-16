@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-05-16T07:58:09.947655Z",
+  "last_updated": "2026-05-16T10:11:06.891703Z",
   "items": [
     {
-      "title": "The CTF scene is dead",
+      "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+      "link": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-16T08:30:51Z",
+      "id": "8e6c2e3fea693ecd17c0af046dda9e1d",
+      "comments": "https://news.ycombinator.com/item?id=48158110"
+    },
+    {
+      "title": "Frontier AI has broken the open CTF format",
       "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-16T07:01:55Z",
-      "id": "c865eabf0c7ae4554e24e6f5d60519a0",
+      "id": "33b9d0db658540c85c100c9477f51a3d",
       "comments": "https://news.ycombinator.com/item?id=48157559"
-    },
-    {
-      "title": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "link": "https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-16T03:42:30Z",
-      "id": "f40f13acbe88a2d1c436c8eba54540d0",
-      "comments": "https://news.ycombinator.com/item?id=48156628"
     },
     {
       "title": "Show HN: Epiq \u2013 Distributed Git based issue tracker TUI",
@@ -27,15 +27,6 @@
       "published": "2026-05-16T00:18:03Z",
       "id": "0b3f18ae64671c85849da3668a2e7beb",
       "comments": "https://news.ycombinator.com/item?id=48155570"
-    },
-    {
-      "title": "NYT and vaping: How to lie by saying only true things (2022)",
-      "link": "https://gwern.net/vaping",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-16T00:15:53Z",
-      "id": "faec02d3343004daaf9e759b5bcd7b84",
-      "comments": "https://news.ycombinator.com/item?id=48155555"
     },
     {
       "title": "The main thing about P2P meth is that there's so much of it (2021)",
@@ -92,12 +83,12 @@
       "comments": "https://news.ycombinator.com/item?id=48153379"
     },
     {
-      "title": "California bill would require patches or refunds when online games shut down",
+      "title": "Bill to block publishers from killing online games advances in California",
       "link": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-15T19:48:48Z",
-      "id": "56aa17ed5cae165ac2012474586ccab6",
+      "id": "72fe20260040c71baa3b3e24d3310a58",
       "comments": "https://news.ycombinator.com/item?id=48152994"
     },
     {
@@ -110,15 +101,6 @@
       "comments": "https://news.ycombinator.com/item?id=48152168"
     },
     {
-      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "link": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T17:28:24Z",
-      "id": "0dcc77c85e2ca8a2ea8fd4db67fd298a",
-      "comments": "https://news.ycombinator.com/item?id=48151383"
-    },
-    {
       "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
       "link": "https://github.com/gdevic/FPGA-Calculator",
       "source": "Hacker News",
@@ -126,6 +108,15 @@
       "published": "2026-05-15T17:15:58Z",
       "id": "d5c1ac613c9580456be7efe545302562",
       "comments": "https://news.ycombinator.com/item?id=48151237"
+    },
+    {
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "link": "https://github.com/oven-sh/bun/issues/30719",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T16:51:25Z",
+      "id": "9320365e79bde0428be8415abfde5ee6",
+      "comments": "https://news.ycombinator.com/item?id=48150900"
     },
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
@@ -227,6 +218,15 @@
       "comments": "https://news.ycombinator.com/item?id=48130468"
     },
     {
+      "title": "EMiX: Emulating Beyond Single-FPGA Limits",
+      "link": "https://arxiv.org/abs/2604.27012",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-13T14:47:13Z",
+      "id": "a7fd12da22830f692b5f8645b76259fa",
+      "comments": "https://news.ycombinator.com/item?id=48122657"
+    },
+    {
       "title": "ESP-EEG is an affordable 8-channel biosensing board",
       "link": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
       "source": "Hacker News",
@@ -234,15 +234,6 @@
       "published": "2026-05-13T13:00:09Z",
       "id": "eb330ef52e9abfb83a51125dc552bb12",
       "comments": "https://news.ycombinator.com/item?id=48121333"
-    },
-    {
-      "title": "Matlab: Communications Toolbox",
-      "link": "https://www.mathworks.com/products/communications.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-13T12:39:44Z",
-      "id": "1e2ade7a6fd19f34d3422782ee652e60",
-      "comments": "https://news.ycombinator.com/item?id=48121143"
     },
     {
       "title": "England Runestones",
@@ -270,6 +261,15 @@
       "published": "2026-05-12T20:39:04Z",
       "id": "a130568e509db41584e008712106923a",
       "comments": "https://news.ycombinator.com/item?id=48114208"
+    },
+    {
+      "title": "Charity \u2013 Categorical programming language (1998)",
+      "link": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-12T18:17:37Z",
+      "id": "2d48936bd0d174aa8f45439008a32603",
+      "comments": "https://news.ycombinator.com/item?id=48112129"
     }
   ]
 }
