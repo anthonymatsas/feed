@@ -1,23 +1,14 @@
 {
-  "last_updated": "2026-05-16T02:35:07.779857Z",
+  "last_updated": "2026-05-16T05:50:49.651026Z",
   "items": [
     {
-      "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
+      "title": "'No way to prevent this,' says only package manager where this regularly happens",
       "link": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-16T00:36:02Z",
-      "id": "ef2dbe986a0be11c21ebb98545f46467",
+      "id": "c0d54e3d986c8c55eb792383d106ed4d",
       "comments": "https://news.ycombinator.com/item?id=48155690"
-    },
-    {
-      "title": "I broke AppLovin's mediation cipher protocol",
-      "link": "https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-16T00:35:01Z",
-      "id": "aff9e2e6a420743a7cf9e3a90b3a15af",
-      "comments": "https://news.ycombinator.com/item?id=48155678"
     },
     {
       "title": "Show HN: Epiq \u2013 Distributed Git based issue tracker TUI",
@@ -29,12 +20,21 @@
       "comments": "https://news.ycombinator.com/item?id=48155570"
     },
     {
-      "title": "The main thing about P2P meth is that there's so much of it (2022)",
+      "title": "NYT and Vaping: How to Lie by Saying Only True Things (2022)",
+      "link": "https://gwern.net/vaping",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-16T00:15:53Z",
+      "id": "858849917b5053332013e949de3df569",
+      "comments": "https://news.ycombinator.com/item?id=48155555"
+    },
+    {
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
       "link": "https://dynomight.net/p2p-meth/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-15T23:37:32Z",
-      "id": "75d6c6fcf9743b5476dccb885a9397a1",
+      "id": "88223015cf4b381a8ad00d41b69c1998",
       "comments": "https://news.ycombinator.com/item?id=48155324"
     },
     {
@@ -47,13 +47,22 @@
       "comments": "https://news.ycombinator.com/item?id=48155297"
     },
     {
-      "title": "Spectre Programming Language",
-      "link": "https://spectre-docs.pages.dev",
+      "title": "SQL patterns I use to catch transaction fraud",
+      "link": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-15T23:14:51Z",
-      "id": "1857a3563092d48b1349fbe636bdbc52",
-      "comments": "https://news.ycombinator.com/item?id=48155159"
+      "published": "2026-05-15T23:22:30Z",
+      "id": "3a7aadff11f8d7b3be82fd6edfaf5aff",
+      "comments": "https://news.ycombinator.com/item?id=48155212"
+    },
+    {
+      "title": "Orthrus-Qwen3: up to 7.8\u00d7tokens/forward on Qwen3, identical output distribution",
+      "link": "https://github.com/chiennv2000/orthrus",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-15T22:38:58Z",
+      "id": "459e264aed9c7e1d5f7c15149fb1ea85",
+      "comments": "https://news.ycombinator.com/item?id=48154865"
     },
     {
       "title": "How to Write to SSDs [pdf]",
@@ -72,15 +81,6 @@
       "published": "2026-05-15T20:26:47Z",
       "id": "bf5e07771b7fa2f5ff52b1f26f8ab701",
       "comments": "https://news.ycombinator.com/item?id=48153379"
-    },
-    {
-      "title": "Microscale Thermite Reaction",
-      "link": "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T20:03:17Z",
-      "id": "6c393406a563bc51e03d3353fc37ca20",
-      "comments": "https://news.ycombinator.com/item?id=48153142"
     },
     {
       "title": "California bill would require patches or refunds when online games shut down",
@@ -137,15 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=48151237"
     },
     {
-      "title": "Hightouch (YC S19) Is Hiring",
-      "link": "https://hightouch.com/careers",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T17:01:15Z",
-      "id": "93ff314ed97f19dd45f8128372775dba",
-      "comments": "https://news.ycombinator.com/item?id=48151034"
-    },
-    {
       "title": "Project Gutenberg \u2013 keeps getting better",
       "link": "https://www.gutenberg.org/",
       "source": "Hacker News",
@@ -191,13 +182,13 @@
       "comments": "https://news.ycombinator.com/item?id=48148460"
     },
     {
-      "title": "O(x)Caml in Space",
-      "link": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "link": "https://radicle.dev/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-15T10:55:51Z",
-      "id": "0a84c576900fb2f6622a77b8ffb1dd65",
-      "comments": "https://news.ycombinator.com/item?id=48147058"
+      "published": "2026-05-15T12:07:55Z",
+      "id": "98c016e6265b6b60d5d99644a11118df",
+      "comments": "https://news.ycombinator.com/item?id=48147603"
     },
     {
       "title": "The sigmoids won't save you",
@@ -207,15 +198,6 @@
       "published": "2026-05-15T10:51:13Z",
       "id": "34eff90e3023e92e9d66b2f46e9dddd4",
       "comments": "https://news.ycombinator.com/item?id=48147021"
-    },
-    {
-      "title": "Steve Jobs in Exile \u2013 New book on Steve Jobs\u2019s years at NeXT Computer",
-      "link": "https://spectrum.ieee.org/steve-jobs-next-computer",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-15T10:34:58Z",
-      "id": "66b00d6eafe355458121af3f4160ab3a",
-      "comments": "https://news.ycombinator.com/item?id=48146908"
     },
     {
       "title": "Show HN: Watch a neural net learn to play Snake",
@@ -236,22 +218,22 @@
       "comments": "https://news.ycombinator.com/item?id=48136000"
     },
     {
-      "title": "The Bird Eye Was Pushed to an Evolutionary Extreme",
+      "title": "Research on mildew contamination affecting the sound quality of analog tapes",
+      "link": "https://www.nature.com/articles/s40494-026-02592-7",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-14T11:55:43Z",
+      "id": "a63a36e950cd4c758a27d0d9fdce4f3d",
+      "comments": "https://news.ycombinator.com/item?id=48134135"
+    },
+    {
+      "title": "The bird eye was pushed to an evolutionary extreme",
       "link": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-14T07:17:16Z",
-      "id": "2e602da8c6856def5fdd87d8d2f03387",
+      "id": "033adb028716ed4be2da5805e3fd7ec5",
       "comments": "https://news.ycombinator.com/item?id=48132106"
-    },
-    {
-      "title": "The nuclear-physics infrastructure behind PET scans",
-      "link": "https://www.lanl.gov/media/publications/1663/proton-power-for-public-health",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-13T14:13:12Z",
-      "id": "d9b2353233410fde85ecc8fa9aa8b680",
-      "comments": "https://news.ycombinator.com/item?id=48122172"
     },
     {
       "title": "ESP-EEG is an affordable 8-channel biosensing board",
@@ -261,6 +243,24 @@
       "published": "2026-05-13T13:00:09Z",
       "id": "eb330ef52e9abfb83a51125dc552bb12",
       "comments": "https://news.ycombinator.com/item?id=48121333"
+    },
+    {
+      "title": "England Runestones",
+      "link": "https://en.wikipedia.org/wiki/England_runestones",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-13T06:25:01Z",
+      "id": "b807656b35e293783f6e6c917f456ba8",
+      "comments": "https://news.ycombinator.com/item?id=48118478"
+    },
+    {
+      "title": "I Bought a \u201cJunk\u201d PSP From Japan",
+      "link": "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-12T22:26:51Z",
+      "id": "b820972ef7d32153c255a8a838179f8b",
+      "comments": "https://news.ycombinator.com/item?id=48115425"
     },
     {
       "title": "Ploopy Bean: a trackpoint for every computer",
