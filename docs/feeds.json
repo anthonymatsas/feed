@@ -1,6 +1,89 @@
 {
-  "last_updated": "2026-05-20T06:45:12.006420Z",
+  "last_updated": "2026-05-20T11:46:39.604266Z",
   "items": [
+    {
+      "title": "Virtual Museum with Every Operating System You Can Think Of",
+      "link": "https://www.reddit.com/r/programming/comments/1tij6js/virtual_museum_with_every_operating_system_you/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-20T11:45:28Z",
+      "id": "275279fdefb90ab2e94e93f7e4dbb315"
+    },
+    {
+      "title": "New NGINX Vulnerability Allows Unauthenticated RCE",
+      "link": "https://www.reddit.com/r/programming/comments/1tiil62/new_nginx_vulnerability_allows_unauthenticated_rce/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-20T11:17:53Z",
+      "id": "c56b583be08a3eeeacaa0b466e6c6b92"
+    },
+    {
+      "title": "How to deal with working memory exhaustion and mental fatigue?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tii1tu/how_to_deal_with_working_memory_exhaustion_and/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-20T10:52:20Z",
+      "id": "63da46f0e88a114338d68f569c572b54"
+    },
+    {
+      "title": "Map of Metal",
+      "link": "https://mapofmetal.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-20T10:47:20Z",
+      "id": "44a085fc7ca984e71fa675ee37199ef0",
+      "comments": "https://news.ycombinator.com/item?id=48205699"
+    },
+    {
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-20T10:04:28Z",
+      "id": "87847512148613ef8d4ae24adea9d1fd",
+      "comments": "https://news.ycombinator.com/item?id=48205415"
+    },
+    {
+      "title": "How to I learn about advanced LLM techniques outside of work?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tigxmx/how_to_i_learn_about_advanced_llm_techniques/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-20T09:55:10Z",
+      "id": "3017eb3d2bb016d734fc07131394d1fd"
+    },
+    {
+      "title": "The weird, wild story of humanity's obsession with gold",
+      "link": "https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-20T09:09:40Z",
+      "id": "5b2c2e3b46c67f43ff04e5bc4d0863c3",
+      "comments": "https://news.ycombinator.com/item?id=48205026"
+    },
+    {
+      "title": "Am I the only who feels this way abou AI generated code?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tifd5z/am_i_the_only_who_feels_this_way_abou_ai/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-20T08:26:31Z",
+      "id": "e25b1b23375c67380446eb69d9bc2c80"
+    },
+    {
+      "title": "For engineers shipping AI agents - who authors the policy file your enforcement layer (Devenex, Claude tool-use, etc.) checks against?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tieo2a/for_engineers_shipping_ai_agents_who_authors_the/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-20T07:46:58Z",
+      "id": "c4451dc96b98dbfecca19aa5ec24912b"
+    },
+    {
+      "title": "Opensource Rust build cache for worktrees and CI",
+      "link": "https://www.reddit.com/r/programming/comments/1tieiq7/opensource_rust_build_cache_for_worktrees_and_ci/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-20T07:38:20Z",
+      "id": "d59e52bd81dbc0cb6c484562716ed7a9"
+    },
     {
       "title": "Everything in C is undefined behavior",
       "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
@@ -11,21 +94,13 @@
       "comments": "https://news.ycombinator.com/item?id=48203698"
     },
     {
-      "title": "You can just do things",
-      "link": "https://www.reddit.com/r/programming/comments/1tics92/you_can_just_do_things/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-20T06:04:15Z",
-      "id": "096c446e105ddf87ba643dc1214d2728"
-    },
-    {
-      "title": "Ex-Apple engineer says Apple deliberately slows older phones via updates",
-      "link": "https://www.macobserver.com/news/ex-apple-software-engineer-claims-apple-deliberately-slows-down-old-iphone-models/",
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "link": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-20T05:56:02Z",
-      "id": "2bbc17e21a4178f550df1f3039745917",
-      "comments": "https://news.ycombinator.com/item?id=48203628"
+      "published": "2026-05-20T05:43:51Z",
+      "id": "4a43ee1b370e78a7f4d5951935982bc1",
+      "comments": "https://news.ycombinator.com/item?id=48203536"
     },
     {
       "title": "Old Playoff Hype Video",
@@ -36,31 +111,12 @@
       "id": "3b96c4a286966d8cf7f79cb201c4b1cf"
     },
     {
-      "title": "India's hottest district shuts at 10 am as mercury breaches 48 C mark",
-      "link": "https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-20T05:07:23Z",
-      "id": "b2ef2c0ace264f128795577c54e9e8fe",
-      "comments": "https://news.ycombinator.com/item?id=48203333"
-    },
-    {
-      "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
-      "link": "https://andlukyane.com//blog/minimax-m27-workflows",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-20T04:51:42Z",
-      "id": "cb116c4849eed0d1143aa468350e2768",
-      "comments": "https://news.ycombinator.com/item?id=48203249"
-    },
-    {
-      "title": "GitHub Compromised",
-      "link": "https://twitter.com/github/status/2056949168208552080",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-20T04:12:48Z",
-      "id": "b5dc09e78d9a8c80dbf8ccb18336f600",
-      "comments": "https://news.ycombinator.com/item?id=48202993"
+      "title": "[Highlight] Chet gestures at Wemby's foot, then steps on it to prevent him from getting an offensive rebound during a free throw",
+      "link": "https://www.reddit.com/r/nba/comments/1tiahct/highlight_chet_gestures_at_wembys_foot_then_steps/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-20T04:07:01Z",
+      "id": "82ee8b11292b5a096824396c884bccfc"
     },
     {
       "title": "Engineering For AI/ML Systems",
@@ -95,15 +151,6 @@
       "id": "5bfaca263fa87be63d76104b87ea25d7"
     },
     {
-      "title": "Evals will break",
-      "link": "https://wanglun1996.github.io/blog/your-evals-will-break.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-20T03:10:30Z",
-      "id": "6b276a9873c5f813508627de8134d271",
-      "comments": "https://news.ycombinator.com/item?id=48202658"
-    },
-    {
       "title": "AITA for flagging code quality issues on a team where no one else seems to care?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ti98fp/aita_for_flagging_code_quality_issues_on_a_team/",
       "source": "r/ExperiencedDevs",
@@ -128,14 +175,6 @@
       "id": "f08cb536d05b5ee3f580d0d7db066eba"
     },
     {
-      "title": "What the Knicks just did.. im speechless",
-      "link": "https://www.reddit.com/r/nba/comments/1ti92b2/what_the_knicks_just_did_im_speechless/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-20T03:02:25Z",
-      "id": "73cdc1c2e9700e0259df246b497acf77"
-    },
-    {
       "title": "The Cavs were up 93-71 with 7:52 left in the 4th quarter. They were outscored by Jalen Brunson 17-11 the rest of the way",
       "link": "https://www.reddit.com/r/nba/comments/1ti919f/the_cavs_were_up_9371_with_752_left_in_the_4th/",
       "source": "r/nba",
@@ -150,6 +189,14 @@
       "category": "sports",
       "published": "2026-05-20T03:00:10Z",
       "id": "417509f0474f9224e452e32e66fc37b1"
+    },
+    {
+      "title": "[Uthayakumar] NBA teams were 3-747 when down by 20 or more in the 4th quarter of a playoff game over the last 30 years. They are now 4-747. Knicks come back from 22 in the fourth quarter, the second-largest 4th quarter comeback in the playoffs in the play-by-play era (since 1997).",
+      "link": "https://www.reddit.com/r/nba/comments/1ti8zwl/uthayakumar_nba_teams_were_3747_when_down_by_20/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-20T02:59:38Z",
+      "id": "182d686dc5d4fca1ee7bf0fa3f91ba47"
     },
     {
       "title": "James Harden has played some of the worst defense I've ever seen during this Knicks comeback",
@@ -184,12 +231,21 @@
       "id": "71f154324149aa0272ec76e0af52e7af"
     },
     {
-      "title": "[Highlight] Rashee Rice gets into a collision",
-      "link": "https://www.reddit.com/r/nfl/comments/1ti7hah/highlight_rashee_rice_gets_into_a_collision/",
+      "title": "[Highlight] Bruce Gradkowski vs. The Pittsburgh Steelers",
+      "link": "https://www.reddit.com/r/nfl/comments/1ti7kq1/highlight_bruce_gradkowski_vs_the_pittsburgh/",
       "source": "r/nfl",
       "category": "sports",
-      "published": "2026-05-20T01:54:05Z",
-      "id": "345ccace0ebf01edec948fde20384322"
+      "published": "2026-05-20T01:58:07Z",
+      "id": "6665ced616144712c451afee3c45cd53"
+    },
+    {
+      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "link": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-20T01:43:06Z",
+      "id": "c98562ea382dd3408310d90a13194320",
+      "comments": "https://news.ycombinator.com/item?id=48202047"
     },
     {
       "title": "FiveThirtyEight articles on the Internet Archive",
@@ -249,12 +305,12 @@
       "id": "cd471090a2ff273362b41121ee50c04d"
     },
     {
-      "title": "Railway Blocked by Google Cloud",
-      "link": "https://status.railway.com/?date=20260519",
+      "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+      "link": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-20T00:23:54Z",
-      "id": "64233f9059112db32beb23240a17f643",
+      "id": "de184fbf026d3b930dc54f4685e65a66",
       "comments": "https://news.ycombinator.com/item?id=48201484"
     },
     {
@@ -273,15 +329,6 @@
       "published": "2026-05-20T00:01:18Z",
       "id": "46c67b192fb8938592d743058e3f6fd7",
       "comments": "https://news.ycombinator.com/item?id=48201316"
-    },
-    {
-      "title": "HTML-in-Canvas Demos",
-      "link": "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-19T23:49:03Z",
-      "id": "fb363ba096ab18afed74f49d78588afe",
-      "comments": "https://news.ycombinator.com/item?id=48201222"
     },
     {
       "title": "Nico Harrison's famous last words: \"The future 10 years from now, they'll probably bury me and Jason Kidd by then. Or we bury ourselves\". They have now both been buried",
@@ -348,12 +395,12 @@
       "id": "99fceb4a238cdd9ad1fd1297ab292362"
     },
     {
-      "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+      "title": "Remove-AI-Watermarks \u2013 CLI and library for removing AI watermarks from images",
       "link": "https://github.com/wiltodelta/remove-ai-watermarks",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-19T22:30:31Z",
-      "id": "161e77a38b07215ee794fe31b9cf8ac4",
+      "id": "aff01cbef848293fbca43ef25382d746",
       "comments": "https://news.ycombinator.com/item?id=48200569"
     },
     {
@@ -595,6 +642,15 @@
       "id": "b13adee79ef31e2ce2ec4dc5d4f3a3fd"
     },
     {
+      "title": "CopyFail: From Pod to Host",
+      "link": "https://xint.io/blog/copy-fail-pod-to-host",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-19T17:25:33Z",
+      "id": "fab436014738babbc51e0d638692deb1",
+      "comments": "https://news.ycombinator.com/item?id=48196337"
+    },
+    {
       "title": "Who have you seen mocked to us most at 15?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1thtplh/who_have_you_seen_mocked_to_us_most_at_15/",
       "source": "r/chicagobulls",
@@ -790,14 +846,6 @@
       "id": "66d59461e9e4feb4613902b0ca708402"
     },
     {
-      "title": "Steph Castle: \"That was the hardest game I ever played in my life... but it's easy when you've got the best player in the world\" (via @NBA)",
-      "link": "https://www.reddit.com/r/nba/comments/1thm90q/steph_castle_that_was_the_hardest_game_i_ever/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-19T12:59:52Z",
-      "id": "f28c4eeb4bbf079bde4c4bbf5bf8262b"
-    },
-    {
       "title": "[Highlight] Victor Wembanyama striking a pose in front of the Spurs bench",
       "link": "https://www.reddit.com/r/nba/comments/1thm4sq/highlight_victor_wembanyama_striking_a_pose_in/",
       "source": "r/nba",
@@ -944,20 +992,20 @@
       "id": "5b9f01984a10b291a2e5d9d52f1d9588"
     },
     {
-      "title": "Senior/Tech Leads: do you actually have public portfolios/side projects?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1th549f/seniortech_leads_do_you_actually_have_public/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-18T23:25:27Z",
-      "id": "516852d15f5e99f0a6c3f6ec6056a834"
-    },
-    {
       "title": "One of the most famous rants in NFL history",
       "link": "https://www.reddit.com/r/CHIBears/comments/1th549e/one_of_the_most_famous_rants_in_nfl_history/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-05-18T23:25:27Z",
       "id": "41cd1c8e41b69573f51a5b3385a1b7ae"
+    },
+    {
+      "title": "Senior/Tech Leads: do you actually have public portfolios/side projects?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1th549f/seniortech_leads_do_you_actually_have_public/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-18T23:25:27Z",
+      "id": "516852d15f5e99f0a6c3f6ec6056a834"
     },
     {
       "title": "[Armchair Coach Justin] Why NFL Defenses Have No Answer For 3 Tight Ends",
@@ -974,15 +1022,6 @@
       "category": "tech",
       "published": "2026-05-18T21:43:34Z",
       "id": "c3c05c2a5a14e7486f55fe98d9346d66"
-    },
-    {
-      "title": "Skills in Web, iOS, and Android",
-      "link": "https://x.ai/news/grok-skills",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-18T20:15:17Z",
-      "id": "b347c0a33d638eb80edd3a28a4390995",
-      "comments": "https://news.ycombinator.com/item?id=48184941"
     },
     {
       "title": "James Borrego",
@@ -1073,6 +1112,15 @@
       "id": "38d0a89e14cef7a824cd71997efce5ec"
     },
     {
+      "title": "The Invention of Buses",
+      "link": "https://worksinprogress.co/issue/the-invention-of-buses/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-18T14:00:11Z",
+      "id": "867eb765da7f4598528dd9752087719b",
+      "comments": "https://news.ycombinator.com/item?id=48180030"
+    },
+    {
       "title": "How do you deal with non-technical managers?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tgn324/how_do_you_deal_with_nontechnical_managers/",
       "source": "r/ExperiencedDevs",
@@ -1081,12 +1129,22 @@
       "id": "8d2e777d54361da9612081c1412cedc6"
     },
     {
-      "title": "Strategies for replicating data in a cloud environment",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tgmt30/strategies_for_replicating_data_in_a_cloud/",
-      "source": "r/ExperiencedDevs",
+      "title": "RISC-V and Floating-Point",
+      "link": "https://fprox.substack.com/p/risc-v-and-floating-point",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-18T13:33:27Z",
-      "id": "9d3aef54a5e1e695b2d3d4bad51221e3"
+      "published": "2026-05-18T13:24:40Z",
+      "id": "be0bef4ef93e61932c970a5ae7795ba1",
+      "comments": "https://news.ycombinator.com/item?id=48179531"
+    },
+    {
+      "title": "Simulated Evolution on the PICO-8",
+      "link": "https://bumbershootsoft.wordpress.com/2026/05/16/simulated-evolution-on-the-pico-8/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-18T13:12:29Z",
+      "id": "ca238c762301fdee9186280c69f67aaa",
+      "comments": "https://news.ycombinator.com/item?id=48179348"
     },
     {
       "title": "Weekly Discussion Thread - May 18, 2026",
@@ -1147,37 +1205,12 @@
       "comments": "https://news.ycombinator.com/item?id=48176384"
     },
     {
-      "title": "Feeling stuck between \u201creal software engineering\u201d and operational/sales work \u2014 how do I transition properly?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tgdk52/feeling_stuck_between_real_software_engineering/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-18T05:55:47Z",
-      "id": "d7340ccccdc6f5228055038ff7cdfe7d"
-    },
-    {
-      "title": "Spring Physics in my Word Game? An exploration of advanced CSS animations in SvelteJS",
-      "link": "https://www.reddit.com/r/programming/comments/1tgd8qh/spring_physics_in_my_word_game_an_exploration_of/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-18T05:38:57Z",
-      "id": "63828ca925be109172e2839e41fc2f27"
-    },
-    {
       "title": "Which Git branching strategy is better for infrequent releases? Team is split between two approaches.",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tgclbw/which_git_branching_strategy_is_better_for/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-05-18T05:04:46Z",
       "id": "cd34b50d6f6b1489b42a71d038a2452b"
-    },
-    {
-      "title": "The two oldest printing presses",
-      "link": "https://museumplantinmoretus.be/en/worlds-two-oldest-printing-presses",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-18T05:01:19Z",
-      "id": "e283bf78a811dd686d7c0630a5037bff",
-      "comments": "https://news.ycombinator.com/item?id=48175748"
     },
     {
       "title": "How do I upskill for backend if my job restricts it? what do I tell recruiters?",
@@ -1194,15 +1227,6 @@
       "category": "sports",
       "published": "2026-05-18T01:09:01Z",
       "id": "ce73ffcadae0e948ab011856fe7db076"
-    },
-    {
-      "title": "Museum of Imaginary Musical Instruments",
-      "link": "https://imaginaryinstruments.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-18T00:45:52Z",
-      "id": "845d69710aaf06d76954148a8196fb2a",
-      "comments": "https://news.ycombinator.com/item?id=48174516"
     },
     {
       "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
@@ -1246,12 +1270,12 @@
       "id": "090425897cd4f9cbc3f3aa75e76df63e"
     },
     {
-      "title": "Nostalgic Electronics Kits Central",
+      "title": "Nostalgic Kits Central (2024)",
       "link": "https://www.nostalgickitscentral.com/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-17T17:14:25Z",
-      "id": "77efb9692c725a63ee5cc9517d046db4",
+      "id": "213c5127bbc731c03c22129e84a7955a",
       "comments": "https://news.ycombinator.com/item?id=48170855"
     },
     {
@@ -1280,28 +1304,12 @@
       "id": "4ba27c9850dfa46a9c58d63874513c5e"
     },
     {
-      "title": "Feeling like I've thrown away the first 5 years of my career and need advice/reassurance",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tfs8lm/feeling_like_ive_thrown_away_the_first_5_years_of/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-17T15:12:12Z",
-      "id": "307db89bd861df87d8f478237803405e"
-    },
-    {
       "title": "Now you all don't know what to think",
       "link": "https://www.reddit.com/r/CHIBears/comments/1tfs61c/now_you_all_dont_know_what_to_think/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-05-17T15:09:31Z",
       "id": "62b79d379ab16f2be883d9429a8dfaf3"
-    },
-    {
-      "title": "Native all the way, until you need text",
-      "link": "https://www.reddit.com/r/programming/comments/1tfrnp1/native_all_the_way_until_you_need_text/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-17T14:50:37Z",
-      "id": "63c4c55fe23153ae551cc1980e372837"
     },
     {
       "title": "D. Rose is still the youngest MVP in NBA history",
@@ -1318,14 +1326,6 @@
       "category": "sports",
       "published": "2026-05-17T14:41:32Z",
       "id": "20c1690ad2a205069a990d547790d4b2"
-    },
-    {
-      "title": "Was your company bought by private equity? How did it go?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tfqtn2/was_your_company_bought_by_private_equity_how_did/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-17T14:18:17Z",
-      "id": "837b9f764641246ccd5c63b2f5cf483f"
     },
     {
       "title": "33 Years Ago Today:",
