@@ -1,6 +1,75 @@
 {
-  "last_updated": "2026-05-30T06:20:00.749538Z",
+  "last_updated": "2026-05-30T10:45:36.178095Z",
   "items": [
+    {
+      "title": "Pandoc Templates",
+      "link": "https://pandoc-templates.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-30T09:56:42Z",
+      "id": "bede8c265d689a72332513a251765fad",
+      "comments": "https://news.ycombinator.com/item?id=48334515"
+    },
+    {
+      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+      "link": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-30T09:18:49Z",
+      "id": "3d9364755ecb9a3080c2d56629f898e9",
+      "comments": "https://news.ycombinator.com/item?id=48334283"
+    },
+    {
+      "title": "Zig: Build System Reworked",
+      "link": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-30T08:38:28Z",
+      "id": "4b73d38cf0de1c930b4e16d5aceac717",
+      "comments": "https://news.ycombinator.com/item?id=48334048"
+    },
+    {
+      "title": "Iron-rich immune cells help homing pigeons navigate",
+      "link": "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-30T08:04:57Z",
+      "id": "c29d0ed2ffd463fd1dec5211b07ea954",
+      "comments": "https://news.ycombinator.com/item?id=48333844"
+    },
+    {
+      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+      "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-30T08:00:20Z",
+      "id": "90d198055f9efe0265ded7a040f76b45",
+      "comments": "https://news.ycombinator.com/item?id=48333820"
+    },
+    {
+      "title": "As an experienced dev transitioning to business role, how do you define contract conditions for PO/PM roles when working for dev agencies?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1trtn16/as_an_experienced_dev_transitioning_to_business/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-30T07:59:57Z",
+      "id": "4a4330056ba6ea5cf5a85b9b93ddea7e"
+    },
+    {
+      "title": "Tech stack in the current market",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1trsiuz/tech_stack_in_the_current_market/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-30T06:56:21Z",
+      "id": "6db1eb7f972d9c71345d3e5f0fd1b4b4"
+    },
+    {
+      "title": "Minnesota Timberwolves' new rebrand jerseys have been leaked",
+      "link": "https://www.reddit.com/r/nba/comments/1trs242/minnesota_timberwolves_new_rebrand_jerseys_have/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-30T06:30:55Z",
+      "id": "22109d0f3abc4c401d11eafa7467a3be"
+    },
     {
       "title": "Anyone else encountering aggressive down leveling in offers these days?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1trri8t/anyone_else_encountering_aggressive_down_leveling/",
@@ -8,6 +77,23 @@
       "category": "tech",
       "published": "2026-05-30T06:01:00Z",
       "id": "f76b62567344bfcdd3270c34ddf1251d"
+    },
+    {
+      "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+      "link": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-30T06:00:32Z",
+      "id": "c7cd7d288edbfb84e2779835bf944b29",
+      "comments": "https://news.ycombinator.com/item?id=48333096"
+    },
+    {
+      "title": "Game 7 Refs Assignment",
+      "link": "https://www.reddit.com/r/nba/comments/1trreih/game_7_refs_assignment/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-30T05:55:41Z",
+      "id": "4cf29d1c0c9952f2e7ad57ec28a48927"
     },
     {
       "title": "Need a Independent prespective on this situation.",
@@ -59,15 +145,6 @@
       "comments": "https://news.ycombinator.com/item?id=48332151"
     },
     {
-      "title": "Show HN: VT Code \u2013 open-source terminal coding agent in Rust",
-      "link": "https://github.com/vinhnx/VTCode",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-30T03:07:25Z",
-      "id": "4590260af97635de8ceb45690e61d855",
-      "comments": "https://news.ycombinator.com/item?id=48332098"
-    },
-    {
       "title": "how do you deal with being the only person who knows a critical part of the codebase?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1trnxuk/how_do_you_deal_with_being_the_only_person_who/",
       "source": "r/ExperiencedDevs",
@@ -117,15 +194,6 @@
       "id": "526906c938a3c7c71e72263ed6ae1ddb"
     },
     {
-      "title": "WH proposes rules giving political appointees final approval on research grants",
-      "link": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-30T01:39:52Z",
-      "id": "87a04b4d3b43a61ead4ce74bfe1361e2",
-      "comments": "https://news.ycombinator.com/item?id=48331511"
-    },
-    {
       "title": "First Open Vikings OTA Reveals Clear Leader in Quarterback Competition",
       "link": "https://www.reddit.com/r/nfl/comments/1trm3ox/first_open_vikings_ota_reveals_clear_leader_in/",
       "source": "r/nfl",
@@ -172,15 +240,6 @@
       "category": "sports",
       "published": "2026-05-30T00:21:45Z",
       "id": "b7de0014c9cf270e99ecb133dc2baa6f"
-    },
-    {
-      "title": "Ember.js 7.0",
-      "link": "https://blog.emberjs.com/ember-released-7-0/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-29T23:57:45Z",
-      "id": "4922ec2d008dccc165eb218c2dc5ea32",
-      "comments": "https://news.ycombinator.com/item?id=48330902"
     },
     {
       "title": "What Is a Dickover?",
@@ -535,15 +594,6 @@
       "id": "cd2641d61cbbb65ee193cec3014da738"
     },
     {
-      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
-      "link": "https://tvexplorer.live",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-29T16:39:09Z",
-      "id": "46edc8566272bf60256881022f61beaf",
-      "comments": "https://news.ycombinator.com/item?id=48325624"
-    },
-    {
       "title": "Notes from the Mistral AI Now Summit",
       "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "source": "Hacker News",
@@ -568,15 +618,6 @@
       "category": "sports",
       "published": "2026-05-29T16:04:01Z",
       "id": "3ee77a91f06435efede9b6f49128a5e7"
-    },
-    {
-      "title": "You can just say it",
-      "link": "https://noperator.dev/posts/you-can-just-say-it/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-29T15:54:28Z",
-      "id": "f08137da9f7fe9f591c2df98e8736e49",
-      "comments": "https://news.ycombinator.com/item?id=48324853"
     },
     {
       "title": "[Highlight] Titans HC Robert Saleh was asked would he rather have no injuries for an entire season or no turnovers for an entire season: \u201cTurnovers. Turnovers, to me, are the No. 1 indicator of wins and losses in all of football through the history of time.\u201d",
@@ -618,15 +659,6 @@
       "category": "sports",
       "published": "2026-05-29T15:36:56Z",
       "id": "ff3466b6ea55b81fc9ea90de59e625ee"
-    },
-    {
-      "title": "GTA 6 Developers Unionize",
-      "link": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-29T15:32:55Z",
-      "id": "7620d94c675a9f68055d1a29b435b29f",
-      "comments": "https://news.ycombinator.com/item?id=48324499"
     },
     {
       "title": "ESPN does a great game breakdown analysis of SGA foul hunting in WCF Game 6 and contrasts it to Spurs guards playing through contact",
@@ -735,14 +767,6 @@
       "id": "8449407e82a8eaadbe68aceab3340d0c"
     },
     {
-      "title": "[Charania] Mitchell Robinson has undergone surgery on his broken right pinky finger -- and fully plans to play in the New York Knicks' Game 1 of the NBA Finals against OKC or San Antonio next Wednesday while wearing a brace on his hand, sources tell ESPN.",
-      "link": "https://www.reddit.com/r/nba/comments/1tr0ucq/charania_mitchell_robinson_has_undergone_surgery/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-29T12:48:36Z",
-      "id": "bd1c66c89a0f7cf64b1f29db86528a6d"
-    },
-    {
       "title": "The case for Direct I/O - why it matters for high performance storage",
       "link": "https://www.reddit.com/r/programming/comments/1tr09pj/the_case_for_direct_io_why_it_matters_for_high/",
       "source": "r/programming",
@@ -757,15 +781,6 @@
       "category": "sports",
       "published": "2026-05-29T12:12:42Z",
       "id": "e342acbcb94d16a98846cd83ac43a490"
-    },
-    {
-      "title": "We should be more tired than the model",
-      "link": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-29T12:12:16Z",
-      "id": "4428160a622e5299303e0966b368b95d",
-      "comments": "https://news.ycombinator.com/item?id=48322118"
     },
     {
       "title": "Weekly Friday Self-Promotion and Fan Art Thread",
@@ -889,14 +904,6 @@
       "id": "f9fec6bbe555e28b346c4c4703745087"
     },
     {
-      "title": "[Lowlight] Shai flops twice in back to back possessions but doesn't get the whistle",
-      "link": "https://www.reddit.com/r/nba/comments/1tqotwr/lowlight_shai_flops_twice_in_back_to_back/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-29T02:52:32Z",
-      "id": "cdfd0f0859e80ae364c1b4a7cff08895"
-    },
-    {
       "title": "Absurd",
       "link": "https://www.reddit.com/r/CHIBears/comments/1tqolsf/absurd/",
       "source": "r/CHIBears",
@@ -919,15 +926,6 @@
       "category": "sports",
       "published": "2026-05-29T01:28:02Z",
       "id": "662447ea5c97ed25b69a157686418157"
-    },
-    {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-29T00:09:35Z",
-      "id": "38fec1b4e1d71c296d0789b93a5de0f6",
-      "comments": "https://news.ycombinator.com/item?id=48317294"
     },
     {
       "title": "Swift action required \u26a0\ufe0f",
@@ -1106,15 +1104,6 @@
       "id": "5eb2bfa56b2f64f77d595efce3cb1981"
     },
     {
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-28T14:13:00Z",
-      "id": "06c74d773fde37e658f3bc633bf62d2d",
-      "comments": "https://news.ycombinator.com/item?id=48309233"
-    },
-    {
       "title": "Who Makes the Makefiles?",
       "link": "https://www.reddit.com/r/programming/comments/1tq2og7/who_makes_the_makefiles/",
       "source": "r/programming",
@@ -1169,14 +1158,6 @@
       "category": "tech",
       "published": "2026-05-28T04:59:17Z",
       "id": "484e57a2eae3dc521683ba36fb95187b"
-    },
-    {
-      "title": "Anyone else feel like there\u2019s a rise in cybersecurity fear mongering lately?",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tpsbm9/anyone_else_feel_like_theres_a_rise_in/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-28T03:55:24Z",
-      "id": "b3421b97dcf234763381cb64a9f21ec7"
     },
     {
       "title": "The bears media team needs a god damn award.",
@@ -1302,12 +1283,13 @@
       "comments": "https://news.ycombinator.com/item?id=48293119"
     },
     {
-      "title": "AI impacts the quality of my work severely.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1toznia/ai_impacts_the_quality_of_my_work_severely/",
-      "source": "r/ExperiencedDevs",
+      "title": "Quantum dot qubit using High NA EUV lithography",
+      "link": "https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-27T08:44:56Z",
-      "id": "087f1435a0742f1ae13fd503e97fca4c"
+      "published": "2026-05-27T09:15:22Z",
+      "id": "923f8571c5e43733988bddef0599a672",
+      "comments": "https://news.ycombinator.com/item?id=48291648"
     },
     {
       "title": "Today I announced that I won't be reviewing AI generated PRs at company meeting",
@@ -1376,6 +1358,15 @@
       "id": "819f6d46402002fb39b45b47a82f18bc"
     },
     {
+      "title": "Algebraic Effects for the Rest of Us",
+      "link": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-26T17:38:51Z",
+      "id": "1d8a50a67ba4a91949f472527d146d56",
+      "comments": "https://news.ycombinator.com/item?id=48283009"
+    },
+    {
       "title": "Are these second rounders worth it?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1to8xp0/are_these_second_rounders_worth_it/",
       "source": "r/chicagobulls",
@@ -1390,6 +1381,15 @@
       "category": "sports",
       "published": "2026-05-26T14:22:20Z",
       "id": "d397faba2a5e7bae9fa85068c390f944"
+    },
+    {
+      "title": "Floor and Ceil versus Denormals on CPU and GPU",
+      "link": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-26T13:22:13Z",
+      "id": "587b532e1227ef858d282b5d668e9123",
+      "comments": "https://news.ycombinator.com/item?id=48279499"
     },
     {
       "title": "Crafted NBA Big Board currently have Caleb Wilson ranked as the #2 overall prospect",
