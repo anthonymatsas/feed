@@ -1,13 +1,156 @@
 {
-  "last_updated": "2026-05-31T03:24:24.728576Z",
+  "last_updated": "2026-05-31T08:39:43.152859Z",
   "items": [
     {
-      "title": "Origin of Lipsum",
-      "link": "https://www.reddit.com/r/programming/comments/1tsjszx/origin_of_lipsum/",
+      "title": "On Scenarios That Will Not Happen",
+      "link": "https://www.reddit.com/r/programming/comments/1tsoqjf/on_scenarios_that_will_not_happen/",
       "source": "r/programming",
       "category": "tech",
-      "published": "2026-05-31T03:22:41Z",
-      "id": "e17620fa8729b7e1e54929450105f8cd"
+      "published": "2026-05-31T07:42:55Z",
+      "id": "56b63aeed49640eba1d75b953e963fbf"
+    },
+    {
+      "title": "The Website Specification",
+      "link": "https://specification.website/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-31T07:09:50Z",
+      "id": "a7dda3fca7901c88688bec3c8150e13b",
+      "comments": "https://news.ycombinator.com/item?id=48343683"
+    },
+    {
+      "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
+      "link": "https://hi.telli.com/join-us",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-31T07:00:50Z",
+      "id": "3d0829888f5e7f820f9dbe09bd5db8b5",
+      "comments": "https://news.ycombinator.com/item?id=48343635"
+    },
+    {
+      "title": "Avian Visitors",
+      "link": "https://theodore.net/projects/AvianVisitors/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-31T06:13:59Z",
+      "id": "9c52747f39c2b1ada79803c0baf70469",
+      "comments": "https://news.ycombinator.com/item?id=48343424"
+    },
+    {
+      "title": "A pictorial introduction to differential geometry (2017)",
+      "link": "https://arxiv.org/abs/1709.08492",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-31T05:30:18Z",
+      "id": "dfb769a3349d5d79902a32d824666b65",
+      "comments": "https://news.ycombinator.com/item?id=48343287"
+    },
+    {
+      "title": "Show HN: Komi-learn \u2013 continuous memory and self-improvement for coding agents",
+      "link": "https://github.com/kurikomi-labs/komi-learn",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-31T05:11:40Z",
+      "id": "20c45eb1628272260bccf41d69889505",
+      "comments": "https://news.ycombinator.com/item?id=48343216"
+    },
+    {
+      "title": "Bears Stadium Deal Moves to Back Burner on Last Day of Illinois Legislative Session",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1tslv0o/bears_stadium_deal_moves_to_back_burner_on_last/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-05-31T05:05:05Z",
+      "id": "4a20fbc6e593ec33a01b6438a63f8b30"
+    },
+    {
+      "title": "Bears Stadium Deal Moves to Back Burner on Last Day of Illinois Legislative Session",
+      "link": "https://www.reddit.com/r/nfl/comments/1tsls4b/bears_stadium_deal_moves_to_back_burner_on_last/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-05-31T05:00:59Z",
+      "id": "cc9b9d17c474d80bd5f681c5b9903621"
+    },
+    {
+      "title": "if I'm being completely honest, I just hate coding..!",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tslr8g/if_im_being_completely_honest_i_just_hate_coding/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-05-31T04:59:57Z",
+      "id": "2747a2790d420da19cf843094f5cc667"
+    },
+    {
+      "title": "Redis Locks: Working, Failure Modes and Real-World Examples",
+      "link": "https://www.reddit.com/r/programming/comments/1tslj02/redis_locks_working_failure_modes_and_realworld/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-31T04:48:04Z",
+      "id": "1975111b779299b3616917f35fd8f753"
+    },
+    {
+      "title": "Ahoy, DECmate II the little PDP-8 that could",
+      "link": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-31T04:42:14Z",
+      "id": "674fdc660b02c2a042f52f528e74572b",
+      "comments": "https://news.ycombinator.com/item?id=48343078"
+    },
+    {
+      "title": "What were they reasons Bulls signed Felicio a 4-year 32 million dollars contract?",
+      "link": "https://www.reddit.com/r/chicagobulls/comments/1tslcqd/what_were_they_reasons_bulls_signed_felicio_a/",
+      "source": "r/chicagobulls",
+      "category": "sports",
+      "published": "2026-05-31T04:39:07Z",
+      "id": "22e6ac98b24b8a2482041eee7ca5ec9c"
+    },
+    {
+      "title": "Hopefully someone at the NFL offices saw The Killers performance at UEFA Champions League Final.",
+      "link": "https://www.reddit.com/r/nfl/comments/1tsl8ea/hopefully_someone_at_the_nfl_offices_saw_the/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-05-31T04:32:47Z",
+      "id": "d6985dd3fb785e4de10913f77e235199"
+    },
+    {
+      "title": "Victor Wembanyama on Gregg Popovich: \"He goes through some things we can't even imagine. So I need to call him. I need to see him. I need to talk to him.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1tsketz/victor_wembanyama_on_gregg_popovich_he_goes/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-31T03:52:08Z",
+      "id": "ab9762a6332b45fb685f5353d9eb56fd"
+    },
+    {
+      "title": "Give me Wemby\u2019s raw emotion over the \u201cnonchalant superstar\u201d archetype any day.",
+      "link": "https://www.reddit.com/r/nba/comments/1tsjxln/give_me_wembys_raw_emotion_over_the_nonchalant/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-31T03:28:51Z",
+      "id": "97a968c69a5f2fe7aabec87809d06a0e"
+    },
+    {
+      "title": "[Lorenzi] Shai Gilgeous-Alexander on how much input he'll offer on the Thunder's offseason moves: \"I will have zero input. I will let Sam Presti, the greatest GM ever, do his job.\"",
+      "link": "https://www.reddit.com/r/nba/comments/1tsjubf/lorenzi_shai_gilgeousalexander_on_how_much_input/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-31T03:24:22Z",
+      "id": "826af397def945ff7911b5d583d58a2d"
+    },
+    {
+      "title": "Please Do Not Vibe Fuck Up This Software",
+      "link": "https://github.com/RsyncProject/rsync/issues/929",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-31T03:16:48Z",
+      "id": "584e08c7b99aabac8386416b42225315",
+      "comments": "https://news.ycombinator.com/item?id=48342705"
+    },
+    {
+      "title": "[Highlight] Odell Beckham Jr One Hand Catch Compilation",
+      "link": "https://www.reddit.com/r/nfl/comments/1tsjfpo/highlight_odell_beckham_jr_one_hand_catch/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-05-31T03:04:44Z",
+      "id": "bdcd2b6490a23559fed4b802de9c2a92"
     },
     {
       "title": "[All-Access] Victor Wembanyama reacts as the final buzzer sounds in Game 7 of the Western Conference Finals.",
@@ -24,6 +167,14 @@
       "category": "sports",
       "published": "2026-05-31T02:58:59Z",
       "id": "e8400c508ef0f6a8f9a2a3159b254e35"
+    },
+    {
+      "title": "[HoopsHype] Victor Wembanyama: Youngest Conference Finals MVP. Youngest Defensive Player of the Year. Youngest player with both All-NBA 1st Team and All-Defensive 1st Team selections. You could say he's ahead of schedule.",
+      "link": "https://www.reddit.com/r/nba/comments/1tsjb3c/hoopshype_victor_wembanyama_youngest_conference/",
+      "source": "r/nba",
+      "category": "sports",
+      "published": "2026-05-31T02:58:53Z",
+      "id": "b0edb553307976ccf31fa8ae403ab675"
     },
     {
       "title": "If we're fishing for distressed assets - how about Chet",
@@ -74,14 +225,6 @@
       "id": "f349ec869d0b589de1df416f29d8244d"
     },
     {
-      "title": "[Highlight] Wemby becomes emotional as the Spurs are set to return to the NBA Finals",
-      "link": "https://www.reddit.com/r/nba/comments/1tsj5sa/highlight_wemby_becomes_emotional_as_the_spurs/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-31T02:52:00Z",
-      "id": "3b0a69ab71a6ce1747089c1c01e8cdee"
-    },
-    {
       "title": "[Highlight] Wembanyama in tears after game 7 win",
       "link": "https://www.reddit.com/r/nba/comments/1tsj5d8/highlight_wembanyama_in_tears_after_game_7_win/",
       "source": "r/nba",
@@ -112,14 +255,6 @@
       "category": "sports",
       "published": "2026-05-31T02:49:58Z",
       "id": "61c19aa381bb58ad2c70ee30182c08ac"
-    },
-    {
-      "title": "How do you handle a teammate who uses AI to code in a stack they don\u2019t know, and will not take accountability it.",
-      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tsj3yc/how_do_you_handle_a_teammate_who_uses_ai_to_code/",
-      "source": "r/ExperiencedDevs",
-      "category": "tech",
-      "published": "2026-05-31T02:49:40Z",
-      "id": "92013166300dfcd5fe99c074459ce681"
     },
     {
       "title": "OKC Misses & Devin Vassell SLAMS It Down for the Dagger. The Spurs Advance to the NBA Finals!",
@@ -170,14 +305,6 @@
       "id": "7f3b60d04a8b42be18a9fbdbe9ff4aff"
     },
     {
-      "title": "[Highlight] Dylan Harper finds Champagnie wide open for the 3",
-      "link": "https://www.reddit.com/r/nba/comments/1tshwcg/highlight_dylan_harper_finds_champagnie_wide_open/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-31T01:50:35Z",
-      "id": "cf01879c9e16d91ef635d605cf631345"
-    },
-    {
       "title": "[Highlight] Jared McCain with a judo throw on Devin Vassell",
       "link": "https://www.reddit.com/r/nba/comments/1tshvpy/highlight_jared_mccain_with_a_judo_throw_on_devin/",
       "source": "r/nba",
@@ -226,6 +353,15 @@
       "id": "1f6e7575da16ef53e0a0ff207c9db1d4"
     },
     {
+      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
+      "link": "https://mechanical-pencil.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-31T00:25:12Z",
+      "id": "04e318f886ea075b372023c1d3884b72",
+      "comments": "https://news.ycombinator.com/item?id=48341932"
+    },
+    {
       "title": "[Highlight] Wemby throws it down over Chet after the give and go",
       "link": "https://www.reddit.com/r/nba/comments/1tsg1ho/highlight_wemby_throws_it_down_over_chet_after/",
       "source": "r/nba",
@@ -258,12 +394,12 @@
       "id": "02c11125c4191a3f184637dcf0ed1585"
     },
     {
-      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
       "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-30T23:26:13Z",
-      "id": "3cd86ff585957b5f21c4495113952e84",
+      "id": "ea9b9eefce12234b82696cc19589fa1c",
       "comments": "https://news.ycombinator.com/item?id=48341578"
     },
     {
@@ -273,14 +409,6 @@
       "category": "sports",
       "published": "2026-05-30T23:20:12Z",
       "id": "d9d8ed2dc8fbe953f4f183d9463bc7b6"
-    },
-    {
-      "title": "Game Thread: San Antonio Spurs (3-3) vs Oklahoma City Thunder (3-3) Live Score | NBA Playoffs | May 30, 2026",
-      "link": "https://www.reddit.com/r/nba/comments/1tse84m/game_thread_san_antonio_spurs_33_vs_oklahoma_city/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-30T23:00:15Z",
-      "id": "936b6ce3e5031272b4da148ba23c1cda"
     },
     {
       "title": "Cheese Paper: a text editor specifically designed for writing",
@@ -334,38 +462,12 @@
       "id": "b9116f1667eb9f00dd86f8a3203bef96"
     },
     {
-      "title": "Victor Wembanyama Arrives in OKC\u2019s Paycom Center For Game 7",
-      "link": "https://www.reddit.com/r/nba/comments/1tsc7xn/victor_wembanyama_arrives_in_okcs_paycom_center/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-05-30T21:34:31Z",
-      "id": "fa29b5958903db267be0372de5ed95a2"
-    },
-    {
-      "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-      "link": "https://arxiv.org/abs/2605.29135",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-30T21:05:40Z",
-      "id": "217751befcbf49aff9e8e5fa9bcccbdf",
-      "comments": "https://news.ycombinator.com/item?id=48340616"
-    },
-    {
       "title": "What happens when a great lead leaves?",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tsb3h1/what_happens_when_a_great_lead_leaves/",
       "source": "r/ExperiencedDevs",
       "category": "tech",
       "published": "2026-05-30T20:49:17Z",
       "id": "08eb01d396f6bd05fa1dabac760c1d74"
-    },
-    {
-      "title": "Design Engineering Magazine",
-      "link": "https://interfaces.dev/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-30T20:46:54Z",
-      "id": "1fb335e4053d5d08f8e4e7f9a2b0f76a",
-      "comments": "https://news.ycombinator.com/item?id=48340448"
     },
     {
       "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
@@ -402,21 +504,13 @@
       "id": "e039ab2aec22de1454c7f94f7fb21bc1"
     },
     {
-      "title": "Dusklight \u2013 GC Twilight Princess Decompiled",
-      "link": "https://twilitrealm.dev/",
+      "title": "Show HN: Breathe CLI \u2013 Paced resonance breathing in the macOS terminal",
+      "link": "https://github.com/marekkowalczyk/breathe-cli",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-05-30T20:24:26Z",
-      "id": "f884052a031f952510c67c848a30a998",
-      "comments": "https://news.ycombinator.com/item?id=48340262"
-    },
-    {
-      "title": "[Highlight] Kirk Cousins and the Redskins game winning drive after being down 24-0 to the Buccaneers (2015)",
-      "link": "https://www.reddit.com/r/nfl/comments/1tsag05/highlight_kirk_cousins_and_the_redskins_game/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-05-30T20:22:52Z",
-      "id": "740bba732df789cc626c73cb04aff5df"
+      "published": "2026-05-30T20:30:53Z",
+      "id": "44de6f11e974c2e215391e1cd56e8510",
+      "comments": "https://news.ycombinator.com/item?id=48340315"
     },
     {
       "title": "How it feels knowing Caleb Williams is my quarterback",
@@ -618,15 +712,6 @@
       "id": "51de55d6b8e01cfe3532558214a444c7"
     },
     {
-      "title": "Werner Herzog in conversation with Paul Cronin (2014)",
-      "link": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-30T16:13:11Z",
-      "id": "7143571070a8c74a6161015766ca5e64",
-      "comments": "https://news.ycombinator.com/item?id=48337808"
-    },
-    {
       "title": "[Highlight] (2023) Commanders punter Tress Way takes a roughing penalty like a champ. \u201cGolly!\u201d",
       "link": "https://www.reddit.com/r/nfl/comments/1ts3tf5/highlight_2023_commanders_punter_tress_way_takes/",
       "source": "r/nfl",
@@ -749,15 +834,6 @@
       "comments": "https://news.ycombinator.com/item?id=48334854"
     },
     {
-      "title": "Leo's first encyclical attacks technological messianism",
-      "link": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-30T10:30:50Z",
-      "id": "b3cb1df0e7722668b0e6a04432f39ba4",
-      "comments": "https://news.ycombinator.com/item?id=48334710"
-    },
-    {
       "title": "Pandoc Templates",
       "link": "https://pandoc-templates.org/",
       "source": "Hacker News",
@@ -765,15 +841,6 @@
       "published": "2026-05-30T09:56:42Z",
       "id": "bede8c265d689a72332513a251765fad",
       "comments": "https://news.ycombinator.com/item?id=48334515"
-    },
-    {
-      "title": "Zig: Build System Reworked",
-      "link": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-30T08:38:28Z",
-      "id": "4b73d38cf0de1c930b4e16d5aceac717",
-      "comments": "https://news.ycombinator.com/item?id=48334048"
     },
     {
       "title": "As an experienced dev transitioning to business role, how do you define contract conditions for PO/PM roles when working for dev agencies?",
@@ -800,14 +867,6 @@
       "id": "f76b62567344bfcdd3270c34ddf1251d"
     },
     {
-      "title": "Former Patriots HC Jerod Mayo is now a managing director at private equity firm Fifth Down Capital",
-      "link": "https://www.reddit.com/r/nfl/comments/1trpo1p/former_patriots_hc_jerod_mayo_is_now_a_managing/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-05-30T04:26:56Z",
-      "id": "4177f6fb51a8d1c21220e36dd5ca7303"
-    },
-    {
       "title": "The vibes are immaculate \u2728, this duo is 1 of 1, and this team IS special \ud83d\udc3b\u2b07\ufe0f",
       "link": "https://www.reddit.com/r/CHIBears/comments/1tro8s4/the_vibes_are_immaculate_this_duo_is_1_of_1_and/",
       "source": "r/CHIBears",
@@ -822,14 +881,6 @@
       "category": "tech",
       "published": "2026-05-30T03:01:54Z",
       "id": "0887dfbfa1ceedea1aab5ad605ec6e3e"
-    },
-    {
-      "title": "[Highlight] New Orleans news broadcast cuts over to their sports crew with analyst Jim Mora",
-      "link": "https://www.reddit.com/r/nfl/comments/1trml04/highlight_new_orleans_news_broadcast_cuts_over_to/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-05-30T01:59:07Z",
-      "id": "526906c938a3c7c71e72263ed6ae1ddb"
     },
     {
       "title": "[Collier] The Chicago Bulls are casting a wide net for their head coaching search, which includes interest and early conversations with BYU coach Kevin Young, sources told ESPN.",
@@ -992,6 +1043,15 @@
       "id": "8be2ff06d49bb91c2588161ffd86d9f7"
     },
     {
+      "title": "One year of Roto, a compiled scripting language for Rust",
+      "link": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-29T14:07:59Z",
+      "id": "9918a2a0afd070b1fcbf97286e10b481",
+      "comments": "https://news.ycombinator.com/item?id=48323303"
+    },
+    {
       "title": "Experienced Devs: Describe Complete Failures You Have Encountered...",
       "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tr12mm/experienced_devs_describe_complete_failures_you/",
       "source": "r/ExperiencedDevs",
@@ -1048,6 +1108,15 @@
       "id": "a9dc50dd135f543144bec2f4659e4220"
     },
     {
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "link": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-29T03:22:19Z",
+      "id": "1994d38ee10bc79264a45972f3bc0f04",
+      "comments": "https://news.ycombinator.com/item?id=48318624"
+    },
+    {
       "title": "Which vets would you like to see the Bulls sign?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1tqp3oi/which_vets_would_you_like_to_see_the_bulls_sign/",
       "source": "r/chicagobulls",
@@ -1065,11 +1134,11 @@
     },
     {
       "title": "I found a seashell in the middle of the desert",
-      "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-29T02:49:43Z",
-      "id": "368d1371a35cf5e71479539cd24b72a3",
+      "id": "bb3b3d5f10413dde7005bfe31aaeaad2",
       "comments": "https://news.ycombinator.com/item?id=48318402"
     },
     {
@@ -1121,30 +1190,12 @@
       "id": "7a5cd5f76d5fa9c5e1ee6a2930ffc7e5"
     },
     {
-      "title": "Gustav Klimt and Egon Schiele in Conversation (2018)",
-      "link": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-28T22:29:31Z",
-      "id": "43c3dfc8d392ac5b82331e86364a9689",
-      "comments": "https://news.ycombinator.com/item?id=48316424"
-    },
-    {
       "title": "Other Quotes From OTAs Today",
       "link": "https://www.reddit.com/r/CHIBears/comments/1tqgcea/other_quotes_from_otas_today/",
       "source": "r/CHIBears",
       "category": "sports",
       "published": "2026-05-28T21:00:38Z",
       "id": "7a8fc8119c70ba7602989c9e75512422"
-    },
-    {
-      "title": "Show HN: Open Envelope \u2013 an open schema for defining AI agent teams",
-      "link": "https://openenvelope.org/docs/schema/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-28T20:30:20Z",
-      "id": "1f324133ade24d097c13f98ef6794093",
-      "comments": "https://news.ycombinator.com/item?id=48315016"
     },
     {
       "title": "Anyone else realized that 90% of \"architecture\" is just talking to people?",
@@ -1187,12 +1238,13 @@
       "id": "3b45447324bc9498e9064165c837d90a"
     },
     {
-      "title": "Ben and the coaches are emphasizing Completion Percentage",
-      "link": "https://www.reddit.com/r/CHIBears/comments/1tqdapa/ben_and_the_coaches_are_emphasizing_completion/",
-      "source": "r/CHIBears",
-      "category": "sports",
-      "published": "2026-05-28T19:13:25Z",
-      "id": "1867fa6f1de428434b3c16d8e9b4dc7a"
+      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+      "link": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-05-28T19:11:59Z",
+      "id": "89902078e4d656c658cdf5eafa4c95ae",
+      "comments": "https://news.ycombinator.com/item?id=48313952"
     },
     {
       "title": "Networking Fundamentals For Developers, DevOps, and Platform Engineers",
@@ -1217,14 +1269,6 @@
       "category": "sports",
       "published": "2026-05-28T16:58:57Z",
       "id": "e31cba563aef88464d7c4133fff85171"
-    },
-    {
-      "title": "What Happens When You Build a Chat Server on One Thread?",
-      "link": "https://www.reddit.com/r/programming/comments/1tq6jqt/what_happens_when_you_build_a_chat_server_on_one/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-28T15:14:44Z",
-      "id": "022c44fedac00fc8abca2cae71450fec"
     },
     {
       "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
@@ -1275,12 +1319,12 @@
       "id": "ec60f3c1c2252af99e72dba8e2e61b78"
     },
     {
-      "title": "Racket v9.2 is now available",
+      "title": "Racket v9.2",
       "link": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-05-28T09:42:40Z",
-      "id": "ad1bdf7880ae127a9f91665889c81c28",
+      "id": "588de917d5b7564d03e2b96570677f3c",
       "comments": "https://news.ycombinator.com/item?id=48306713"
     },
     {
@@ -1290,15 +1334,6 @@
       "category": "tech",
       "published": "2026-05-28T06:28:32Z",
       "id": "2a556b42c19d3ab94ae7d1f8e01c2776"
-    },
-    {
-      "title": "C++ CLI for folder encryption with AES-256-GCM and USB-based key loading",
-      "link": "https://news.ycombinator.com/item?id=48304365",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-28T04:06:41Z",
-      "id": "315c99a5480a66ffcd2eabe650e5a96c",
-      "comments": "https://news.ycombinator.com/item?id=48304365"
     },
     {
       "title": "WE NEED DP!",
@@ -1333,29 +1368,12 @@
       "id": "c821f4ac2e40ac313973553e31f58977"
     },
     {
-      "title": "90% of the T Distribution",
-      "link": "https://entropicthoughts.com/ninety-percent-of-the-t-distribution",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-27T13:29:40Z",
-      "id": "d1cd8a598c53159a5afa27a9548820a4",
-      "comments": "https://news.ycombinator.com/item?id=48294057"
-    },
-    {
       "title": "[Spears] The Bulls have received permission to interview Cavaliers associate head coach Johnnie Bryant for their head coach job, a source said. The former University of Utah guard has 12 years of NBA assistant coaching experience and has also been an associate head coach with the Knicks.",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1towd2o/spears_the_bulls_have_received_permission_to/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-05-27T05:44:53Z",
       "id": "2d0ee4639d1a5e18dfef1117c2689896"
-    },
-    {
-      "title": "[Miami Heat] \"Keep The Pace Up, KEEP RUNNING\" \ud83d\udde3\ufe0f Coach Quinn Mic'd Up",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1touwii/miami_heat_keep_the_pace_up_keep_running_coach/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-05-27T04:31:49Z",
-      "id": "069c5920e468222e1e4674b29680f557"
     },
     {
       "title": "Matas Buzelis took a LEAP in Year 2",
@@ -1366,30 +1384,12 @@
       "id": "8292603918539a4f92779e1f479860f0"
     },
     {
-      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-      "link": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-26T22:15:28Z",
-      "id": "a14763f4f6c8ddcdcf8e99a34d808e13",
-      "comments": "https://news.ycombinator.com/item?id=48286745"
-    },
-    {
       "title": "Who would you prefer as the next head coach?",
       "link": "https://www.reddit.com/r/chicagobulls/comments/1toec8l/who_would_you_prefer_as_the_next_head_coach/",
       "source": "r/chicagobulls",
       "category": "sports",
       "published": "2026-05-26T17:43:55Z",
       "id": "819f6d46402002fb39b45b47a82f18bc"
-    },
-    {
-      "title": "It takes two neurons to ride a bicycle (2004)",
-      "link": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-05-26T16:51:55Z",
-      "id": "b47275143da8881b2e3989e87319d388",
-      "comments": "https://news.ycombinator.com/item?id=48282335"
     },
     {
       "title": "Options at #15",
