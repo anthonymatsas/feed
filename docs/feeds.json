@@ -1,13 +1,50 @@
 {
-  "last_updated": "2026-06-13T11:11:18.701975Z",
+  "last_updated": "2026-06-13T13:50:46.964696Z",
   "items": [
     {
-      "title": "Analysis of how code duplication changed in recent years (no clear trend)",
-      "link": "https://www.reddit.com/r/programming/comments/1u4nf9j/analysis_of_how_code_duplication_changed_in/",
-      "source": "r/programming",
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-13T10:28:29Z",
-      "id": "f311cfebcb36c3d28318ba355a877344"
+      "published": "2026-06-13T12:20:05Z",
+      "id": "19c73b2d909bf65d9fb751ff3ffa1170",
+      "comments": "https://news.ycombinator.com/item?id=48516573"
+    },
+    {
+      "title": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+      "link": "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-13T12:17:27Z",
+      "id": "c20b0ed402888a370b67c7b6bbb8e69c",
+      "comments": "https://news.ycombinator.com/item?id=48516558"
+    },
+    {
+      "title": "Show HN: 2 Weeks of Hallucinate \u2013 The Photo Gallery",
+      "link": "https://hallucinate.site/gallery",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-13T12:11:35Z",
+      "id": "dee22e80bdfba85235ed7d9025991afd",
+      "comments": "https://news.ycombinator.com/item?id=48516510"
+    },
+    {
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "link": "https://github.com/tensorzero/tensorzero",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-13T12:10:47Z",
+      "id": "b1fefa02a7b3816de992ed5fcc1267f8",
+      "comments": "https://news.ycombinator.com/item?id=48516504"
+    },
+    {
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-13T11:55:30Z",
+      "id": "a08859213036ebb7b77c0ca197f7cb31",
+      "comments": "https://news.ycombinator.com/item?id=48516379"
     },
     {
       "title": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
@@ -37,15 +74,6 @@
       "comments": "https://news.ycombinator.com/item?id=48514560"
     },
     {
-      "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-      "link": "https://github.com/vladignatyev/brain-map-skill",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-13T06:43:42Z",
-      "id": "f6e134f831e3ed64c55ff505931d45ce",
-      "comments": "https://news.ycombinator.com/item?id=48514124"
-    },
-    {
       "title": "Leaving Mozilla",
       "link": "https://blog.unitedheroes.net/5751",
       "source": "Hacker News",
@@ -73,13 +101,12 @@
       "comments": "https://news.ycombinator.com/item?id=48513536"
     },
     {
-      "title": "On CPU Physics and CPU Cycles",
-      "link": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-13T04:37:08Z",
-      "id": "f9eb4a8368d8ce6c5d38a095ed1b29e1",
-      "comments": "https://news.ycombinator.com/item?id=48513222"
+      "title": "Cole Kmet, wtf... \ud83d\ude0e",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u4g2mg/cole_kmet_wtf/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-13T03:28:50Z",
+      "id": "b9461b8ad96008d0eb12227e7ff8250d"
     },
     {
       "title": "Open source AI must win",
@@ -91,20 +118,20 @@
       "comments": "https://news.ycombinator.com/item?id=48511908"
     },
     {
-      "title": "Help with making a Operating system",
-      "link": "https://www.reddit.com/r/programming/comments/1u4dz25/help_with_making_a_operating_system/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-13T01:45:09Z",
-      "id": "8dc41d94809a349d2dd99c3ff6305649"
+      "title": "[Chicago Bears] Rooks took a trip to the South Side \u26be\ufe0f",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u4dfhc/chicago_bears_rooks_took_a_trip_to_the_south_side/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-13T01:18:21Z",
+      "id": "986e71829b76df004271b71cd874abd4"
     },
     {
-      "title": "Why we replaced Node.js with Bun for 5x throughput",
-      "link": "https://www.reddit.com/r/programming/comments/1u4dwrh/why_we_replaced_nodejs_with_bun_for_5x_throughput/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-13T01:41:57Z",
-      "id": "78a74413ddb4c40dfb497fe1f3bb36d7"
+      "title": "Coby after getting his ring",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u4de5b/coby_after_getting_his_ring/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-13T01:16:29Z",
+      "id": "d591cac9966c832592f2ed1dccf8da8c"
     },
     {
       "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
@@ -116,14 +143,6 @@
       "comments": "https://news.ycombinator.com/item?id=48511072"
     },
     {
-      "title": "What Do Engineers Mean When We Say \"Taste\"?",
-      "link": "https://www.reddit.com/r/programming/comments/1u4au1m/what_do_engineers_mean_when_we_say_taste/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-12T23:17:47Z",
-      "id": "b261a093c379e49da1f5a37f4325612e"
-    },
-    {
       "title": "Show HN: Putt.day a daily mini golf game",
       "link": "https://putt.day/",
       "source": "Hacker News",
@@ -131,6 +150,14 @@
       "published": "2026-06-12T22:56:06Z",
       "id": "aea95d4fe3fc116eee6d218a38f0314c",
       "comments": "https://news.ycombinator.com/item?id=48510341"
+    },
+    {
+      "title": "[Dan Bernstein] Per NBC5, Bears have yet to even apply for permits to do anything in Hammond, and are just now learning they can't touch protected areas involved until 2050?! The Kevin Warren clown show, folks.",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u49j7f/dan_bernstein_per_nbc5_bears_have_yet_to_even/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T22:21:54Z",
+      "id": "19c4c62fb4603ccf55b5d9383f9cc578"
     },
     {
       "title": "Twenty One Zero-Days in FFmpeg",
@@ -142,6 +169,14 @@
       "comments": "https://news.ycombinator.com/item?id=48510046"
     },
     {
+      "title": "[Thompson] Chicago Bears legend Brian Urlacher spoke out against Illinois Democrats for giving billions of dollars to illegal immigrants, while the Bears now plan to move to Indiana because Illinois failed to pass a tax relief and stadium incentive bill. \"They just don't care.\"",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u497kk/thompson_chicago_bears_legend_brian_urlacher/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T22:08:33Z",
+      "id": "e1ed1cd3645c1cbd6fd469c82149335a"
+    },
+    {
       "title": "Electric motors with no rare earths",
       "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
       "source": "Hacker News",
@@ -151,12 +186,20 @@
       "comments": "https://news.ycombinator.com/item?id=48510010"
     },
     {
-      "title": "Demystifying C++: Overcome the Fear of Memory Management in Minutes",
-      "link": "https://www.reddit.com/r/programming/comments/1u46or3/demystifying_c_overcome_the_fear_of_memory/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-12T20:28:50Z",
-      "id": "7d7018724b3d2ad9de297df662f996d6"
+      "title": "Kevin Warren on a potential move to Indiana",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u47drl/kevin_warren_on_a_potential_move_to_indiana/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T20:56:18Z",
+      "id": "7c5d47048affd9d291e89438f7c20a23"
+    },
+    {
+      "title": "[Chicago Bears] Burden bomb \ud83d\udca3",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u46xmo/chicago_bears_burden_bomb/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T20:38:31Z",
+      "id": "f2e65a5a210bea6bf9adf2d9ce9fa1bd"
     },
     {
       "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
@@ -195,6 +238,14 @@
       "comments": "https://news.ycombinator.com/item?id=48506545"
     },
     {
+      "title": "[NFL Network] Are all eyes on the Bears this season?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u3yff5/nfl_network_are_all_eyes_on_the_bears_this_season/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T15:25:45Z",
+      "id": "e2f20b4f332df3ab89b1180a11dd4e54"
+    },
+    {
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
       "source": "Hacker News",
@@ -213,61 +264,28 @@
       "comments": "https://news.ycombinator.com/item?id=48504912"
     },
     {
-      "title": "Hunting the 30-Year-Old World of Xeen MT-32 Crash",
-      "link": "https://www.reddit.com/r/programming/comments/1u3vnne/hunting_the_30yearold_world_of_xeen_mt32_crash/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-12T13:42:59Z",
-      "id": "4d22672169c577a12cfe25e77d35fb26"
+      "title": "You\u2019ve Been Lied To",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u3iwrv/youve_been_lied_to/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T02:34:09Z",
+      "id": "c3700d9be2fb7bc91ef1dd4f845570a5"
     },
     {
-      "title": "Building a plugin system for Tolgee using iframes, webhooks, and decorators",
-      "link": "https://www.reddit.com/r/programming/comments/1u3oe0b/building_a_plugin_system_for_tolgee_using_iframes/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-12T07:25:32Z",
-      "id": "978c4ce5609d4fa8a736710881936d76"
+      "title": "Custom made some wall arts! What do you guys think??",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u3h4x9/custom_made_some_wall_arts_what_do_you_guys_think/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T01:08:54Z",
+      "id": "40a2b502424cd423fe2e5c8c33543282"
     },
     {
-      "title": "Ported my C game to WASM, here's everybug that I hit",
-      "link": "https://www.reddit.com/r/programming/comments/1u3lgnf/ported_my_c_game_to_wasm_heres_everybug_that_i_hit/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-12T04:43:26Z",
-      "id": "3cdb900c20eaef32caa9424f80e08e14"
-    },
-    {
-      "title": "What an 8kb Postgres read costs",
-      "link": "https://www.reddit.com/r/programming/comments/1u3ihj3/what_an_8kb_postgres_read_costs/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-12T02:13:36Z",
-      "id": "1df3dcbd344a468b7b837ee3bc8b77f3"
-    },
-    {
-      "title": "Less Is More",
-      "link": "https://www.reddit.com/r/programming/comments/1u3gqaa/less_is_more/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-12T00:50:16Z",
-      "id": "efde7d0558457ed42e54ba1bea75b84d"
-    },
-    {
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "link": "https://tombedor.dev/human-attention-and-human-effort/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-11T23:01:55Z",
-      "id": "f6cff08684be228615e3dc2eb0c37c8b",
-      "comments": "https://news.ycombinator.com/item?id=48497609"
-    },
-    {
-      "title": "Giulio Zausa's MMO-CHIP Makes Reverse Engineering Old Silicon Chips a Multiplayer Game",
-      "link": "https://www.reddit.com/r/programming/comments/1u3bhgy/giulio_zausas_mmochip_makes_reverse_engineering/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-11T21:06:23Z",
-      "id": "452ae8dff9cc18da08e5fdc3040d5dd8"
+      "title": "Caleb and Dillion Thienamen Media Availability + a good easy to read recap of today",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u3ajvu/caleb_and_dillion_thienamen_media_availability_a/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T20:30:42Z",
+      "id": "09e9eb0fd0e390e76704eea95fc1e9b0"
     },
     {
       "title": "Malware developers added nuclear and biological weapons text to to their spyware",
@@ -279,78 +297,52 @@
       "comments": "https://news.ycombinator.com/item?id=48495928"
     },
     {
-      "title": "Drupal SQL Code-Injection Vulnerability - Why does it still exist?",
-      "link": "https://www.reddit.com/r/programming/comments/1u3aab9/drupal_sql_codeinjection_vulnerability_why_does/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-11T20:20:50Z",
-      "id": "19e13798594a9788d66684fa525bf14f"
+      "title": "Former Bear Cassius Marsh officially announces his retirement",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u3a0uw/former_bear_cassius_marsh_officially_announces/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T20:10:43Z",
+      "id": "91ced0bca91d68635fa33c46fffa08e5"
     },
     {
-      "title": "Fudgetown, USA (2024)",
-      "link": "https://tastecooking.com/fudgetown-usa/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-11T19:14:23Z",
-      "id": "b2b77dbd45af8e8067a48e22af128849",
-      "comments": "https://news.ycombinator.com/item?id=48495077"
+      "title": "Day 3 and Final Mini Camp Ben Johnson Presser and Practice Notes 6/11",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u37sws/day_3_and_final_mini_camp_ben_johnson_presser_and/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T18:49:41Z",
+      "id": "2e046ae004058662426bef40b01dbdf2"
     },
     {
-      "title": "Service Bindings: Automated Database Access for Apps",
-      "link": "https://www.reddit.com/r/programming/comments/1u38a2j/service_bindings_automated_database_access_for/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-11T19:06:05Z",
-      "id": "a8449e77a28bef76a3afe982a81db634"
+      "title": "Bears x Peanuts | August 15: Snoopy's coming to Solider Field! | Purchase a BEARS X PEANUTS Ticket and receive an exclusive Snoopy plush keychain charm.",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u36lr4/bears_x_peanuts_august_15_snoopys_coming_to/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T18:06:28Z",
+      "id": "5335943b1721587dd1821e6ed01e54ee"
     },
     {
-      "title": "Why DROP COLUMN breaks rolling deploys, and a CI linter to catch it",
-      "link": "https://www.reddit.com/r/programming/comments/1u388tg/why_drop_column_breaks_rolling_deploys_and_a_ci/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-11T19:04:46Z",
-      "id": "3202fd46afa0e0dd68b9b1403a9eac54"
+      "title": "Rivalries uniforms on Christmas Day?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u32q24/rivalries_uniforms_on_christmas_day/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T15:45:08Z",
+      "id": "eb522109d4268109c16abb4b0e8d8010"
     },
     {
-      "title": "Emacs SVG Benchmark Reveals Gaming-Caliber Frame Rates",
-      "link": "https://www.reddit.com/r/programming/comments/1u32766/emacs_svg_benchmark_reveals_gamingcaliber_frame/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-11T15:25:50Z",
-      "id": "f1cc332f828819e2e79d4af533a03ea9"
+      "title": "How the Knicks were moving",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u2nu7f/how_the_knicks_were_moving/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T03:35:58Z",
+      "id": "3ba5dcf946c0a153ebda8e313521c16c"
     },
     {
-      "title": "7 More Common Mistakes in Architecture Diagrams",
-      "link": "https://www.reddit.com/r/programming/comments/1u30h1w/7_more_common_mistakes_in_architecture_diagrams/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-11T14:21:57Z",
-      "id": "4cdbb6b41b790d518b76d65dadece5d1"
-    },
-    {
-      "title": "To handle performance issues, Integrate Redis with Spring Boot instead of scaling servers",
-      "link": "https://www.reddit.com/r/programming/comments/1u2xzzk/to_handle_performance_issues_integrate_redis_with/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-11T12:43:03Z",
-      "id": "3b8a88fb99af73d7ac974e69c4deddec"
-    },
-    {
-      "title": "JEP 401 being merged into JDK 28?",
-      "link": "https://www.reddit.com/r/programming/comments/1u2mue3/jep_401_being_merged_into_jdk_28/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-11T02:47:30Z",
-      "id": "bc11df93fc6c4a5a227df750016c3366"
-    },
-    {
-      "title": "The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)",
-      "link": "https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-11T00:06:36Z",
-      "id": "1a872f51661e4f665615e37a5eb12045",
-      "comments": "https://news.ycombinator.com/item?id=48484555"
+      "title": "Best Of Bears Media Day Photos",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u2k5le/best_of_bears_media_day_photos/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T00:43:12Z",
+      "id": "a79066ff87dbcdd77c9202277936f3c9"
     },
     {
       "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
@@ -362,12 +354,29 @@
       "comments": "https://news.ycombinator.com/item?id=48484496"
     },
     {
-      "title": "C3 0.8.1 released: Raiding the stdlib for bugs",
-      "link": "https://www.reddit.com/r/programming/comments/1u29255/c3_081_released_raiding_the_stdlib_for_bugs/",
-      "source": "r/programming",
+      "title": "Day Two Mini Camp Practice Notes and Player Media 6/10",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u2dbw5/day_two_mini_camp_practice_notes_and_player_media/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-10T20:06:41Z",
+      "id": "4f2b28031c544e0879be299a924cc968"
+    },
+    {
+      "title": "Ben Johnson 6/10 Day 2 Mini Camp Presser Notes",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u28grq/ben_johnson_610_day_2_mini_camp_presser_notes/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-10T17:14:12Z",
+      "id": "324ec975f6021ce144ed787c8c44c868"
+    },
+    {
+      "title": "The state of building user interfaces in Rust",
+      "link": "https://areweguiyet.com/#ecosystem",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-10T17:34:44Z",
-      "id": "890f7fe8a88c2a39aa98c237a029ea66"
+      "published": "2026-06-10T16:44:23Z",
+      "id": "8e1e9bb2d7f88ff1e4d69803a5e85d92",
+      "comments": "https://news.ycombinator.com/item?id=48479008"
     },
     {
       "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
@@ -388,6 +397,14 @@
       "comments": "https://news.ycombinator.com/item?id=48470152"
     },
     {
+      "title": "Caleb Williams on the pressure of being the face of the franchise",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u1i6uk/caleb_williams_on_the_pressure_of_being_the_face/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-09T21:18:24Z",
+      "id": "ea7dd3b7473b5d097c79728efbde3aff"
+    },
+    {
       "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
       "link": "https://tectonic-typesetting.github.io/en-US/",
       "source": "Hacker News",
@@ -395,6 +412,31 @@
       "published": "2026-06-09T21:00:39Z",
       "id": "b7477d77af06cac4c62378bf323a7bc0",
       "comments": "https://news.ycombinator.com/item?id=48467697"
+    },
+    {
+      "title": "Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires",
+      "link": "https://www.motor1.com/news/798011/route-66-missouri-musical-road/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-09T20:14:42Z",
+      "id": "0fe50375675dde1dbd28bf002003c749",
+      "comments": "https://news.ycombinator.com/item?id=48467028"
+    },
+    {
+      "title": "Mini Camp Day 1 Notes\u2026 Jaylon \ud83d\udc40",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u1f6e3/mini_camp_day_1_notes_jaylon/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-09T19:29:00Z",
+      "id": "5487863f18868de7eac792466f9ffe51"
+    },
+    {
+      "title": "Parsons on Top 100 players of 2026 (extended clip) \"Yeah Iceman...I can\u2019t lie, the celly & everything is super great. I won\u2019t even lie to you. He really sped his clock up, he wasn\u2019t taking as many sacks. He felt confidence in the system.\u201d | Where do you think Iceman will place in Top 100 this year?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u1egqu/parsons_on_top_100_players_of_2026_extended_clip/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-09T19:03:45Z",
+      "id": "3b81df4c4c5db8e64891dd05dc0510f3"
     },
     {
       "title": "Automating Myself Out of Development",
@@ -406,70 +448,28 @@
       "comments": "https://news.ycombinator.com/item?id=48465890"
     },
     {
-      "title": "The Future of wasi-gfx and wasi:webgpu",
-      "link": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-09T18:42:58Z",
-      "id": "c39e7e831e9507b163c34af6bd4eaf18",
-      "comments": "https://news.ycombinator.com/item?id=48465634"
+      "title": "New Illinois bill would keep Chicago Bears in state after Indiana stadium push",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u19lz7/new_illinois_bill_would_keep_chicago_bears_in/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-09T16:13:52Z",
+      "id": "7d99b5039a452a8e75bba28b56bcf17f"
     },
     {
-      "title": "How to read distributed traces when you didn\u2019t write the code",
-      "link": "https://www.reddit.com/r/programming/comments/1u194jv/how_to_read_distributed_traces_when_you_didnt/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-09T15:57:06Z",
-      "id": "f64545f59be0cf4ce41052b577b02834"
+      "title": "Statement from Chairman George H. McCaskey and President & CEO Kevin Warren:",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1txpkm4/statement_from_chairman_george_h_mccaskey_and/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-05T16:17:14Z",
+      "id": "5e6cb0fa66e7198a701ff90dfba8bd72"
     },
     {
-      "title": "Exceptions should not be handled \u2013 they should be aggregated",
-      "link": "https://zenodo.org/records/20492768",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-09T14:09:26Z",
-      "id": "50009ae0dce99fe35483bf48e00861ef",
-      "comments": "https://news.ycombinator.com/item?id=48461365"
-    },
-    {
-      "title": "someone actually leaked the Miasma supply chain attack toolkit source code on github",
-      "link": "https://www.reddit.com/r/programming/comments/1u1512l/someone_actually_leaked_the_miasma_supply_chain/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-09T13:29:08Z",
-      "id": "81e1a31131643b0bdb88150f88fd948d"
-    },
-    {
-      "title": "Catlantean 3D - Making Graphics Like It's 1993",
-      "link": "https://www.reddit.com/r/programming/comments/1u12rbh/catlantean_3d_making_graphics_like_its_1993/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-09T11:51:42Z",
-      "id": "ec738359ed219619675738ef000048ad"
-    },
-    {
-      "title": "SQLite improving performance with pre-sort",
-      "link": "https://www.reddit.com/r/programming/comments/1u10n7z/sqlite_improving_performance_with_presort/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-09T10:01:53Z",
-      "id": "265041ce04e65716587f528fc46ac387"
-    },
-    {
-      "title": "Cache Stampede Prevention: Distributed Locking, Pub/Sub, and Request Coalescing",
-      "link": "https://www.reddit.com/r/programming/comments/1u0vb76/cache_stampede_prevention_distributed_locking/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-09T04:53:09Z",
-      "id": "1c8f3ba387bbcc5679e711f4b5817895"
-    },
-    {
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-23T13:54:37Z",
-      "id": "1038175f7f05de1ed66e3b9035efc120"
+      "title": "[Megathread] Bears 2026 Off-Season Tracker",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1rwbyv5/megathread_bears_2026_offseason_tracker/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-03-17T16:47:19Z",
+      "id": "161f5337e17cb35245f3f4dd4542efd5"
     }
   ]
 }
