@@ -1,6 +1,50 @@
 {
-  "last_updated": "2026-06-13T06:59:04.411619Z",
+  "last_updated": "2026-06-13T11:11:18.701975Z",
   "items": [
+    {
+      "title": "Analysis of how code duplication changed in recent years (no clear trend)",
+      "link": "https://www.reddit.com/r/programming/comments/1u4nf9j/analysis_of_how_code_duplication_changed_in/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-13T10:28:29Z",
+      "id": "f311cfebcb36c3d28318ba355a877344"
+    },
+    {
+      "title": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
+      "link": "https://github.com/Paca-AI/paca",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-13T09:44:25Z",
+      "id": "2f980f565917b0e79e8974cecc4b9e81",
+      "comments": "https://news.ycombinator.com/item?id=48515385"
+    },
+    {
+      "title": "A low-carbon computing platform from your retired phones",
+      "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-13T09:38:32Z",
+      "id": "5f88f8cc0e4aa10c5a3f59516bb820e2",
+      "comments": "https://news.ycombinator.com/item?id=48515336"
+    },
+    {
+      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "link": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-13T07:45:39Z",
+      "id": "777fded64f0c845905d3a3693d1d41ab",
+      "comments": "https://news.ycombinator.com/item?id=48514560"
+    },
+    {
+      "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
+      "link": "https://github.com/vladignatyev/brain-map-skill",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-13T06:43:42Z",
+      "id": "f6e134f831e3ed64c55ff505931d45ce",
+      "comments": "https://news.ycombinator.com/item?id=48514124"
+    },
     {
       "title": "Leaving Mozilla",
       "link": "https://blog.unitedheroes.net/5751",
@@ -38,15 +82,6 @@
       "comments": "https://news.ycombinator.com/item?id=48513222"
     },
     {
-      "title": "A generic dynamic array in C that stores no capacity and needs no struct",
-      "link": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-13T02:50:10Z",
-      "id": "ad4baaf37153050d5c5e93a7185e9ab1",
-      "comments": "https://news.ycombinator.com/item?id=48512286"
-    },
-    {
       "title": "Open source AI must win",
       "link": "https://opensourceaimustwin.com/?share=v2",
       "source": "Hacker News",
@@ -56,13 +91,20 @@
       "comments": "https://news.ycombinator.com/item?id=48511908"
     },
     {
-      "title": "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
-      "link": "https://github.com/vrtnis/tycoon-learning-environment",
-      "source": "Hacker News",
+      "title": "Help with making a Operating system",
+      "link": "https://www.reddit.com/r/programming/comments/1u4dz25/help_with_making_a_operating_system/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2026-06-13T02:02:07Z",
-      "id": "92ae4703ef66e1fdec4e3dcff31ec25a",
-      "comments": "https://news.ycombinator.com/item?id=48511773"
+      "published": "2026-06-13T01:45:09Z",
+      "id": "8dc41d94809a349d2dd99c3ff6305649"
+    },
+    {
+      "title": "Why we replaced Node.js with Bun for 5x throughput",
+      "link": "https://www.reddit.com/r/programming/comments/1u4dwrh/why_we_replaced_nodejs_with_bun_for_5x_throughput/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-13T01:41:57Z",
+      "id": "78a74413ddb4c40dfb497fe1f3bb36d7"
     },
     {
       "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
@@ -72,6 +114,14 @@
       "published": "2026-06-13T00:51:30Z",
       "id": "8d0aa3c1ca9a00e0a4d372d648ceb9e0",
       "comments": "https://news.ycombinator.com/item?id=48511072"
+    },
+    {
+      "title": "What Do Engineers Mean When We Say \"Taste\"?",
+      "link": "https://www.reddit.com/r/programming/comments/1u4au1m/what_do_engineers_mean_when_we_say_taste/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-12T23:17:47Z",
+      "id": "b261a093c379e49da1f5a37f4325612e"
     },
     {
       "title": "Show HN: Putt.day a daily mini golf game",
@@ -101,22 +151,12 @@
       "comments": "https://news.ycombinator.com/item?id=48510010"
     },
     {
-      "title": "SkillSpector",
-      "link": "https://github.com/NVIDIA/SkillSpector",
-      "source": "Hacker News",
+      "title": "Demystifying C++: Overcome the Fear of Memory Management in Minutes",
+      "link": "https://www.reddit.com/r/programming/comments/1u46or3/demystifying_c_overcome_the_fear_of_memory/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2026-06-12T21:49:49Z",
-      "id": "429b64e22818b630aa36f204835aa450",
-      "comments": "https://news.ycombinator.com/item?id=48509844"
-    },
-    {
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "link": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-12T20:39:36Z",
-      "id": "5a08a8cecd396ae7e7c61508f9b07676",
-      "comments": "https://news.ycombinator.com/item?id=48509182"
+      "published": "2026-06-12T20:28:50Z",
+      "id": "7d7018724b3d2ad9de297df662f996d6"
     },
     {
       "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
@@ -126,14 +166,6 @@
       "published": "2026-06-12T19:54:27Z",
       "id": "649fac7d872f87749cf19eab751f8911",
       "comments": "https://news.ycombinator.com/item?id=48508726"
-    },
-    {
-      "title": "Ayo poking some fun at Tre \ud83d\ude02",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u45mfy/ayo_poking_some_fun_at_tre/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-12T19:47:47Z",
-      "id": "40938b0ea45bede60e4b5645af980d23"
     },
     {
       "title": "How to setup a local coding agent on macOS",
@@ -163,15 +195,6 @@
       "comments": "https://news.ycombinator.com/item?id=48506545"
     },
     {
-      "title": "Adaptive PDFs",
-      "link": "https://sgaud.com/texts/pdf",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-12T16:32:50Z",
-      "id": "11a72ee76afdfff3357f96676f972137",
-      "comments": "https://news.ycombinator.com/item?id=48506209"
-    },
-    {
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
       "source": "Hacker News",
@@ -179,15 +202,6 @@
       "published": "2026-06-12T15:15:24Z",
       "id": "5c31fdb1ac597885c145e785a4f66dc7",
       "comments": "https://news.ycombinator.com/item?id=48505231"
-    },
-    {
-      "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
-      "link": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-12T14:50:06Z",
-      "id": "daf305e32b01fcb1b0ad8b1800bdea62",
-      "comments": "https://news.ycombinator.com/item?id=48504929"
     },
     {
       "title": "Slightly reducing the sloppiness of AI generated front end",
@@ -199,36 +213,44 @@
       "comments": "https://news.ycombinator.com/item?id=48504912"
     },
     {
-      "title": "Interesting Giddey interview just dropped",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u3qkhm/interesting_giddey_interview_just_dropped/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-12T09:36:45Z",
-      "id": "1d98c5ceeff70ce613c4f6b13089c7bf"
+      "title": "Hunting the 30-Year-Old World of Xeen MT-32 Crash",
+      "link": "https://www.reddit.com/r/programming/comments/1u3vnne/hunting_the_30yearold_world_of_xeen_mt32_crash/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-12T13:42:59Z",
+      "id": "4d22672169c577a12cfe25e77d35fb26"
     },
     {
-      "title": "Who are you taking at #15?",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u3l61o/who_are_you_taking_at_15/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-12T04:27:59Z",
-      "id": "c88050017b3f4d16a99080d157e929c9"
+      "title": "Building a plugin system for Tolgee using iframes, webhooks, and decorators",
+      "link": "https://www.reddit.com/r/programming/comments/1u3oe0b/building_a_plugin_system_for_tolgee_using_iframes/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-12T07:25:32Z",
+      "id": "978c4ce5609d4fa8a736710881936d76"
     },
     {
-      "title": "Today is the anniversary of the Flu Game. I made a short film about the pizza guys that poisoned MJ.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u3g2xm/today_is_the_anniversary_of_the_flu_game_i_made_a/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-12T00:20:28Z",
-      "id": "07a4e31495434b476710f1975608536e"
+      "title": "Ported my C game to WASM, here's everybug that I hit",
+      "link": "https://www.reddit.com/r/programming/comments/1u3lgnf/ported_my_c_game_to_wasm_heres_everybug_that_i_hit/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-12T04:43:26Z",
+      "id": "3cdb900c20eaef32caa9424f80e08e14"
     },
     {
-      "title": "12 days until the NBA Draft",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u3f3kl/12_days_until_the_nba_draft/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T23:35:44Z",
-      "id": "6471f58e2d231165800d15108a640bb6"
+      "title": "What an 8kb Postgres read costs",
+      "link": "https://www.reddit.com/r/programming/comments/1u3ihj3/what_an_8kb_postgres_read_costs/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-12T02:13:36Z",
+      "id": "1df3dcbd344a468b7b837ee3bc8b77f3"
+    },
+    {
+      "title": "Less Is More",
+      "link": "https://www.reddit.com/r/programming/comments/1u3gqaa/less_is_more/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-12T00:50:16Z",
+      "id": "efde7d0558457ed42e54ba1bea75b84d"
     },
     {
       "title": "If you are asking for human attention, demonstrate human effort",
@@ -240,12 +262,12 @@
       "comments": "https://news.ycombinator.com/item?id=48497609"
     },
     {
-      "title": "What\u2019s your trade up preference of the rumored 3 guards?",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u3d1va/whats_your_trade_up_preference_of_the_rumored_3/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T22:07:29Z",
-      "id": "a8c92d99f6073cc3769fd8bb062d2d92"
+      "title": "Giulio Zausa's MMO-CHIP Makes Reverse Engineering Old Silicon Chips a Multiplayer Game",
+      "link": "https://www.reddit.com/r/programming/comments/1u3bhgy/giulio_zausas_mmochip_makes_reverse_engineering/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-11T21:06:23Z",
+      "id": "452ae8dff9cc18da08e5fdc3040d5dd8"
     },
     {
       "title": "Malware developers added nuclear and biological weapons text to to their spyware",
@@ -257,76 +279,78 @@
       "comments": "https://news.ycombinator.com/item?id=48495928"
     },
     {
-      "title": "[Chicago Bulls] A Tribute to Stacey King | Chicago Bulls",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u3a1sk/chicago_bulls_a_tribute_to_stacey_king_chicago/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T20:11:43Z",
-      "id": "4b6d23e943497b9be58825086f362986"
+      "title": "Drupal SQL Code-Injection Vulnerability - Why does it still exist?",
+      "link": "https://www.reddit.com/r/programming/comments/1u3aab9/drupal_sql_codeinjection_vulnerability_why_does/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-11T20:20:50Z",
+      "id": "19e13798594a9788d66684fa525bf14f"
     },
     {
-      "title": "Bulls fans, what\u2019s the deal?",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u38qpc/bulls_fans_whats_the_deal/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T19:23:11Z",
-      "id": "abe8548c1e8fb434860e8470f3b46155"
+      "title": "Fudgetown, USA (2024)",
+      "link": "https://tastecooking.com/fudgetown-usa/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-11T19:14:23Z",
+      "id": "b2b77dbd45af8e8067a48e22af128849",
+      "comments": "https://news.ycombinator.com/item?id=48495077"
     },
     {
-      "title": "Bulls intro at WC opening game!",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u3841d/bulls_intro_at_wc_opening_game/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T19:00:07Z",
-      "id": "e6f5b590836fad0b61f3ba35d5636428"
+      "title": "Service Bindings: Automated Database Access for Apps",
+      "link": "https://www.reddit.com/r/programming/comments/1u38a2j/service_bindings_automated_database_access_for/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-11T19:06:05Z",
+      "id": "a8449e77a28bef76a3afe982a81db634"
     },
     {
-      "title": "Chicago Bulls Fans Are Sleeping On Noa Essengue And It's A Huge Mistake",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u383dx/chicago_bulls_fans_are_sleeping_on_noa_essengue/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T18:59:30Z",
-      "id": "f218b2b3d1601ebcc4fdea4863465cdd"
+      "title": "Why DROP COLUMN breaks rolling deploys, and a CI linter to catch it",
+      "link": "https://www.reddit.com/r/programming/comments/1u388tg/why_drop_column_breaks_rolling_deploys_and_a_ci/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-11T19:04:46Z",
+      "id": "3202fd46afa0e0dd68b9b1403a9eac54"
     },
     {
-      "title": "[Chicago Sports Network] You're still making us laugh, Stacey",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u374sn/chicago_sports_network_youre_still_making_us/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T18:25:33Z",
-      "id": "afd1d31a1a70b54f8c882337b4e34f96"
+      "title": "Emacs SVG Benchmark Reveals Gaming-Caliber Frame Rates",
+      "link": "https://www.reddit.com/r/programming/comments/1u32766/emacs_svg_benchmark_reveals_gamingcaliber_frame/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-11T15:25:50Z",
+      "id": "f1cc332f828819e2e79d4af533a03ea9"
     },
     {
-      "title": "Does the Knicks team building strategy change your opinion on the Bulls trajectory?",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u34g3n/does_the_knicks_team_building_strategy_change/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T16:48:14Z",
-      "id": "fc594280ce6661ed1be1890e843e9ab5"
+      "title": "7 More Common Mistakes in Architecture Diagrams",
+      "link": "https://www.reddit.com/r/programming/comments/1u30h1w/7_more_common_mistakes_in_architecture_diagrams/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-11T14:21:57Z",
+      "id": "4cdbb6b41b790d518b76d65dadece5d1"
     },
     {
-      "title": "Family Tree Style Visualization showing how the Bulls Assembled their current roster.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u348jd/family_tree_style_visualization_showing_how_the/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T16:40:22Z",
-      "id": "50a402eced56a86ba82c5edbab10d7ad"
+      "title": "To handle performance issues, Integrate Redis with Spring Boot instead of scaling servers",
+      "link": "https://www.reddit.com/r/programming/comments/1u2xzzk/to_handle_performance_issues_integrate_redis_with/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-11T12:43:03Z",
+      "id": "3b8a88fb99af73d7ac974e69c4deddec"
     },
     {
-      "title": "Philon or Carr",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u2x7tk/philon_or_carr/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T12:07:41Z",
-      "id": "d62b72b6d8605d4d1b96fbf2cb263d65"
+      "title": "JEP 401 being merged into JDK 28?",
+      "link": "https://www.reddit.com/r/programming/comments/1u2mue3/jep_401_being_merged_into_jdk_28/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-11T02:47:30Z",
+      "id": "bc11df93fc6c4a5a227df750016c3366"
     },
     {
-      "title": "OG Anunoby is what Patrick Williams was supposed to be",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u2vofn/og_anunoby_is_what_patrick_williams_was_supposed/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-11T10:52:32Z",
-      "id": "a70a74b41940c5ebdeae319e5a6f8290"
+      "title": "The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)",
+      "link": "https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-11T00:06:36Z",
+      "id": "1a872f51661e4f665615e37a5eb12045",
+      "comments": "https://news.ycombinator.com/item?id=48484555"
     },
     {
       "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
@@ -338,37 +362,12 @@
       "comments": "https://news.ycombinator.com/item?id=48484496"
     },
     {
-      "title": "Me next season when its time for the Jeff Vukovich nationwide ad \ud83d\udd4a\ufe0f",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u2e4mj/me_next_season_when_its_time_for_the_jeff/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-10T20:36:07Z",
-      "id": "eb12775b4e0cbfd0e8a0979587c1fbcd"
-    },
-    {
-      "title": "Michael Jordan Painting",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u2db0p/michael_jordan_painting/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-10T20:05:51Z",
-      "id": "e5af8ca75e1e4045548fded80d09a17f"
-    },
-    {
-      "title": "Link to send Stacey King family a tribute video/photo/letter",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u2a8fj/link_to_send_stacey_king_family_a_tribute/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-10T18:15:35Z",
-      "id": "e838eb0caaf1a31014ecbbb3da652681"
-    },
-    {
-      "title": "A key remapping daemon for Linux",
-      "link": "https://github.com/rvaiya/keyd",
-      "source": "Hacker News",
+      "title": "C3 0.8.1 released: Raiding the stdlib for bugs",
+      "link": "https://www.reddit.com/r/programming/comments/1u29255/c3_081_released_raiding_the_stdlib_for_bugs/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2026-06-10T17:27:56Z",
-      "id": "ab6edcf3a8a9054f77561f88a07d3415",
-      "comments": "https://news.ycombinator.com/item?id=48479652"
+      "published": "2026-06-10T17:34:44Z",
+      "id": "890f7fe8a88c2a39aa98c237a029ea66"
     },
     {
       "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
@@ -380,38 +379,6 @@
       "comments": "https://news.ycombinator.com/item?id=48476202"
     },
     {
-      "title": "Bulls needs to raise Stacey Kings to the rafters.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u1y92u/bulls_needs_to_raise_stacey_kings_to_the_rafters/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-10T10:24:49Z",
-      "id": "78767661b074e9c4c9abc5015989e4ad"
-    },
-    {
-      "title": "[Stein/Fischer] Tiago Splitter, Ryan Schmidt, Micah Nori are finalists for the Bulls' head coaching job; the franchise has begun interviews.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u1ubr7/steinfischer_tiago_splitter_ryan_schmidt_micah/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-10T06:38:30Z",
-      "id": "9b9ed2de02cff12413bebebc501a7239"
-    },
-    {
-      "title": "The top comment thread here is amazing",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u1qt7b/the_top_comment_thread_here_is_amazing/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-10T03:32:40Z",
-      "id": "a7db66d77f32370855cd37937343926f"
-    },
-    {
-      "title": "Insane. Can\u2019t wait for draft night.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u1q6u0/insane_cant_wait_for_draft_night/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-10T03:03:11Z",
-      "id": "73731a616a6c140dadfba4442949f736"
-    },
-    {
       "title": "The computer science degree isn\u2019t dead",
       "link": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
       "source": "Hacker News",
@@ -419,14 +386,6 @@
       "published": "2026-06-10T01:33:43Z",
       "id": "96b18f8f37fb3ba6e680e148002ee60a",
       "comments": "https://news.ycombinator.com/item?id=48470152"
-    },
-    {
-      "title": "Drive home to Heaven safely, Mr. King. Beep Beep. \ud83d\udd4a\ufe0f\ud83d\ude4f",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u1jfhv/drive_home_to_heaven_safely_mr_king_beep_beep/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-09T22:05:24Z",
-      "id": "b188ef4bc95bea274296f7061c488f1b"
     },
     {
       "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
@@ -456,20 +415,61 @@
       "comments": "https://news.ycombinator.com/item?id=48465634"
     },
     {
-      "title": "Weekly Discussion Thread - June 08, 2026",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u0785b/weekly_discussion_thread_june_08_2026/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-08T13:00:59Z",
-      "id": "b51078fcd4ba142e70c16d69c70c45dc"
+      "title": "How to read distributed traces when you didn\u2019t write the code",
+      "link": "https://www.reddit.com/r/programming/comments/1u194jv/how_to_read_distributed_traces_when_you_didnt/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-09T15:57:06Z",
+      "id": "f64545f59be0cf4ce41052b577b02834"
     },
     {
-      "title": "2026 Offseason Megathread",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1stmwlp/2026_offseason_megathread/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-04-23T15:59:14Z",
-      "id": "63f4982bbafd93fe202b9406a4ae80f7"
+      "title": "Exceptions should not be handled \u2013 they should be aggregated",
+      "link": "https://zenodo.org/records/20492768",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-09T14:09:26Z",
+      "id": "50009ae0dce99fe35483bf48e00861ef",
+      "comments": "https://news.ycombinator.com/item?id=48461365"
+    },
+    {
+      "title": "someone actually leaked the Miasma supply chain attack toolkit source code on github",
+      "link": "https://www.reddit.com/r/programming/comments/1u1512l/someone_actually_leaked_the_miasma_supply_chain/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-09T13:29:08Z",
+      "id": "81e1a31131643b0bdb88150f88fd948d"
+    },
+    {
+      "title": "Catlantean 3D - Making Graphics Like It's 1993",
+      "link": "https://www.reddit.com/r/programming/comments/1u12rbh/catlantean_3d_making_graphics_like_its_1993/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-09T11:51:42Z",
+      "id": "ec738359ed219619675738ef000048ad"
+    },
+    {
+      "title": "SQLite improving performance with pre-sort",
+      "link": "https://www.reddit.com/r/programming/comments/1u10n7z/sqlite_improving_performance_with_presort/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-09T10:01:53Z",
+      "id": "265041ce04e65716587f528fc46ac387"
+    },
+    {
+      "title": "Cache Stampede Prevention: Distributed Locking, Pub/Sub, and Request Coalescing",
+      "link": "https://www.reddit.com/r/programming/comments/1u0vb76/cache_stampede_prevention_distributed_locking/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-09T04:53:09Z",
+      "id": "1c8f3ba387bbcc5679e711f4b5817895"
+    },
+    {
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-23T13:54:37Z",
+      "id": "1038175f7f05de1ed66e3b9035efc120"
     }
   ]
 }
