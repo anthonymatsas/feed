@@ -1,22 +1,131 @@
 {
-  "last_updated": "2026-06-15T11:55:30.520428Z",
+  "last_updated": "2026-06-15T17:09:31.701032Z",
   "items": [
     {
-      "title": "Belgian politicians would rather risk treason charges than trust engineers",
-      "link": "http://mikhailian.mova.org/node/325",
+      "title": "Launch HN: Drafted (YC P26) \u2013 Models for residential architecture",
+      "link": "https://news.ycombinator.com/item?id=48543908",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-15T11:41:18Z",
-      "id": "f850a173f226b6b30326257c34fb8151",
-      "comments": "https://news.ycombinator.com/item?id=48539859"
+      "published": "2026-06-15T16:47:21Z",
+      "id": "dea6f5e6361ba33a2af4a095455d160a",
+      "comments": "https://news.ycombinator.com/item?id=48543908"
     },
     {
-      "title": "Jalen Brunson's response to critics saying he's not a 1A player",
-      "link": "https://www.reddit.com/r/nba/comments/1u6cv99/jalen_brunsons_response_to_critics_saying_hes_not/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-15T10:37:08Z",
-      "id": "45a3c64ffed7c127f28953872b5e4c8d"
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "link": "https://tinywind.io",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T16:15:53Z",
+      "id": "d22503e4720f5c07afe7c48d25a791ab",
+      "comments": "https://news.ycombinator.com/item?id=48543475"
+    },
+    {
+      "title": "Memory safety CVEs differ between Rust and C/C++",
+      "link": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T16:11:02Z",
+      "id": "b25bdef48fb89559d69571e0366c95db",
+      "comments": "https://news.ycombinator.com/item?id=48543392"
+    },
+    {
+      "title": "Show HN: machine0 \u2013 Persistent NixOS VMs You Control from the CLI",
+      "link": "https://machine0.io",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T16:01:43Z",
+      "id": "b47577228c9417926446c8b65af6b30f",
+      "comments": "https://news.ycombinator.com/item?id=48543245"
+    },
+    {
+      "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
+      "link": "https://v1c.rocks/log/exploiting-slack-video/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T15:43:17Z",
+      "id": "8e785a7fabc51caad618547ab9a391a6",
+      "comments": "https://news.ycombinator.com/item?id=48542970"
+    },
+    {
+      "title": "Iroh 1.0",
+      "link": "https://www.iroh.computer/blog/v1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T15:13:06Z",
+      "id": "b8ed3b93949f341b7c9c82f05192bf94",
+      "comments": "https://news.ycombinator.com/item?id=48542480"
+    },
+    {
+      "title": "My Homelab AI Dev Platform",
+      "link": "https://rsgm.dev/post/ai-dev-platform/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T15:09:40Z",
+      "id": "bc222eaf58c801858de6325c3880f968",
+      "comments": "https://news.ycombinator.com/item?id=48542433"
+    },
+    {
+      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "link": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T14:48:47Z",
+      "id": "b84cc4df731b5541da04416018e6f124",
+      "comments": "https://news.ycombinator.com/item?id=48542132"
+    },
+    {
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "link": "https://news.ycombinator.com/item?id=48542100",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T14:46:53Z",
+      "id": "aafc58a49b086548cdab329af9d131b6",
+      "comments": "https://news.ycombinator.com/item?id=48542100"
+    },
+    {
+      "title": "Google Flight Simulator",
+      "link": "https://developers.google.com/maps/documentation/earth/flight-simulator",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T13:26:08Z",
+      "id": "89cd1d13e5a206ea3613876d400538fa",
+      "comments": "https://news.ycombinator.com/item?id=48540945"
+    },
+    {
+      "title": "CrankGPT",
+      "link": "https://crankgpt.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T13:20:13Z",
+      "id": "a457e8524a7bf03790d2b2ba2423ddea",
+      "comments": "https://news.ycombinator.com/item?id=48540854"
+    },
+    {
+      "title": "Hetzner Price Adjustment",
+      "link": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T13:19:39Z",
+      "id": "e113b0f4ed306db3ca04c456ec22195e",
+      "comments": "https://news.ycombinator.com/item?id=48540844"
+    },
+    {
+      "title": "Fox to buy Roku",
+      "link": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T12:50:03Z",
+      "id": "588acf95f3f8ff7aad6b27855023641d",
+      "comments": "https://news.ycombinator.com/item?id=48540499"
+    },
+    {
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+      "link": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T12:08:59Z",
+      "id": "34c6e46a26c6edd6d019f46c7401ba7e",
+      "comments": "https://news.ycombinator.com/item?id=48540126"
     },
     {
       "title": "Anthropic's Safety Superpower",
@@ -28,14 +137,6 @@
       "comments": "https://news.ycombinator.com/item?id=48539078"
     },
     {
-      "title": "The San Antonio Spurs finish the 2026 season with the Triple Silver Crown",
-      "link": "https://www.reddit.com/r/nba/comments/1u6c3in/the_san_antonio_spurs_finish_the_2026_season_with/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-15T09:55:27Z",
-      "id": "f65242bce9bf2f4dced4ccde3a6dbeed"
-    },
-    {
       "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
       "link": "https://github.com/themartiano/luz",
       "source": "Hacker News",
@@ -43,15 +144,6 @@
       "published": "2026-06-15T09:34:10Z",
       "id": "e03aa3cd4481aa7e7a2e39cadfc713e8",
       "comments": "https://news.ycombinator.com/item?id=48538833"
-    },
-    {
-      "title": "What the Fuck Happened to Nerds",
-      "link": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-15T08:23:52Z",
-      "id": "703be86ba39304a1398bed60df97cb5f",
-      "comments": "https://news.ycombinator.com/item?id=48538229"
     },
     {
       "title": "Openrouter Fusion API",
@@ -72,6 +164,15 @@
       "comments": "https://news.ycombinator.com/item?id=48537556"
     },
     {
+      "title": "Improvement in advanced Alzheimer\u2019s disease following high-dose psilocybin",
+      "link": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T06:52:21Z",
+      "id": "eb920c32d1fe66edf38e5b31dfa20305",
+      "comments": "https://news.ycombinator.com/item?id=48537512"
+    },
+    {
       "title": "Curl will not accept vulnerability reports during July 2026",
       "link": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
       "source": "Hacker News",
@@ -90,36 +191,12 @@
       "comments": "https://news.ycombinator.com/item?id=48536776"
     },
     {
-      "title": "Aerial footage of Rodman Spurs Fan 1v500'ing the entirety of New York",
-      "link": "https://www.reddit.com/r/nba/comments/1u66m48/aerial_footage_of_rodman_spurs_fan_1v500ing_the/",
-      "source": "r/nba",
+      "title": "Shout out Austin Reed for leading the UFL in passing TDs",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u65ek0/shout_out_austin_reed_for_leading_the_ufl_in/",
+      "source": "r/CHIBears",
       "category": "sports",
-      "published": "2026-06-15T04:42:38Z",
-      "id": "ea4c6adb6f839eb5da43c648f98d50f4"
-    },
-    {
-      "title": "Spurs HC Mitch Johnson calling for intentional foul down 3 with 14 seconds on shot clock but 26 seconds on game clock",
-      "link": "https://www.reddit.com/r/nba/comments/1u6693d/spurs_hc_mitch_johnson_calling_for_intentional/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-15T04:23:13Z",
-      "id": "882b0890fef7c8bdfb51f841940f4993"
-    },
-    {
-      "title": "Shots Fired in Times Square After Knicks Won Championship",
-      "link": "https://www.reddit.com/r/nba/comments/1u660nr/shots_fired_in_times_square_after_knicks_won/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-15T04:11:13Z",
-      "id": "d07d4be58c51d4095b19fd3aef464e98"
-    },
-    {
-      "title": "Pretty confident the Spurs would be getting less criticism if they lost in the 2nd round or the WCF.",
-      "link": "https://www.reddit.com/r/nba/comments/1u65hin/pretty_confident_the_spurs_would_be_getting_less/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-15T03:44:39Z",
-      "id": "3041fb2787a191f9c838c94198ae6b39"
+      "published": "2026-06-15T03:40:34Z",
+      "id": "9f8ac7ebd026f068e67fe5828df16d9d"
     },
     {
       "title": "Even more batteries included with Emacs",
@@ -131,47 +208,6 @@
       "comments": "https://news.ycombinator.com/item?id=48535886"
     },
     {
-      "title": "[Discussion] 2026 NBA Draft",
-      "link": "https://www.reddit.com/r/nba/comments/1u613eu/discussion_2026_nba_draft/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-15T00:13:31Z",
-      "id": "56cad86a7adc43f4cd7f49cb1c7cede8"
-    },
-    {
-      "title": "[Katz] They Knicks the one NYC team that runs unopposed in New York. The Yankees have the Mets. The Giants have the Jets. The Rangers have the Islanders. The Knicks have \u2026 no one else.",
-      "link": "https://www.reddit.com/r/nba/comments/1u60z7v/katz_they_knicks_the_one_nyc_team_that_runs/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-15T00:08:01Z",
-      "id": "087cd183d7b9ebed2dd6779403ef8a73"
-    },
-    {
-      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-      "link": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-15T00:07:32Z",
-      "id": "2818bc5006396287bd272e9f4c6b2836",
-      "comments": "https://news.ycombinator.com/item?id=48534628"
-    },
-    {
-      "title": "Knicks radio announcers get emotional calling the end of Game 5",
-      "link": "https://www.reddit.com/r/nba/comments/1u604lt/knicks_radio_announcers_get_emotional_calling_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T23:29:14Z",
-      "id": "bb513ef3f86d58a5288ae43dfd658134"
-    },
-    {
-      "title": "Is this the greatest all-time starting five divorced lineup?",
-      "link": "https://www.reddit.com/r/nba/comments/1u6048p/is_this_the_greatest_alltime_starting_five/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T23:28:47Z",
-      "id": "77346caadd20193ed0e9c145d27a8a61"
-    },
-    {
       "title": "Your ePub Is fine",
       "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
       "source": "Hacker News",
@@ -179,80 +215,6 @@
       "published": "2026-06-14T22:54:55Z",
       "id": "b09bed69680204fa26d4917cb8b525e2",
       "comments": "https://news.ycombinator.com/item?id=48533848"
-    },
-    {
-      "title": "Jalen Brunson walks past Knicks coaches without a second thought to shake Mitch Johnson's hand after the final buzzer",
-      "link": "https://www.reddit.com/r/nba/comments/1u5za25/jalen_brunson_walks_past_knicks_coaches_without_a/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T22:52:02Z",
-      "id": "2fc047119205bc706ac74ee4816fc7fd"
-    },
-    {
-      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-14T21:42:12Z",
-      "id": "9055a73d2cb58df404aff41702c797df",
-      "comments": "https://news.ycombinator.com/item?id=48533101"
-    },
-    {
-      "title": "Jose Alvarado is back in New York in the Puerto Rican Day Parade",
-      "link": "https://www.reddit.com/r/nba/comments/1u5xdeg/jose_alvarado_is_back_in_new_york_in_the_puerto/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T21:30:55Z",
-      "id": "56bbb8804a25b458eb5487c809c0ee67"
-    },
-    {
-      "title": "While reflecting on the championship Patrick Ewing talks about Victor Wembanyama \"I love him, I love him, I think hes special\"",
-      "link": "https://www.reddit.com/r/nba/comments/1u5w4pw/while_reflecting_on_the_championship_patrick/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T20:40:58Z",
-      "id": "9de0d2c75d506c519751fc6e6f41fd83"
-    },
-    {
-      "title": "Jalen Brunson when asked about his feelings for Texas: \u201cI love Texas. I miss the Texas taxes.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1u5vq5s/jalen_brunson_when_asked_about_his_feelings_for/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T20:25:00Z",
-      "id": "2d8832ec9c9ba37ff3df37880d7363fb"
-    },
-    {
-      "title": "Knicks Fan Ben Stiller Gets His Time With Larry O'Brien Championship Trophy",
-      "link": "https://www.reddit.com/r/nba/comments/1u5uvy6/knicks_fan_ben_stiller_gets_his_time_with_larry/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T19:51:34Z",
-      "id": "35120de515d0d851da2704a37866c2cc"
-    },
-    {
-      "title": "Chaosnet (1981)",
-      "link": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-14T19:14:21Z",
-      "id": "1b6fa8de2d3ae76e1ec8e304ebf0f044",
-      "comments": "https://news.ycombinator.com/item?id=48531449"
-    },
-    {
-      "title": "Wemby: \"I'm going to work even harder to keep a fresh mind and maintain control of the game at all times. That's what really stands out about Jalen Brunson. There are too many moments where I'm passive, and it ended up costing us.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1u5rk11/wemby_im_going_to_work_even_harder_to_keep_a/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T17:43:13Z",
-      "id": "30a97c2bc6f08f06b4f9e3cdd4cc9720"
-    },
-    {
-      "title": "[BS Podcast] Lowe: The league is gonna be spared the #1 talking point between games 5 and 6 being 'is Wemby going to be suspended for game 6' because of a flagrant foul...they're spared this whole officiating discussion because the Knicks saved their ass on it. Simmons: He would've gotten suspended.",
-      "link": "https://www.reddit.com/r/nba/comments/1u5r9o2/bs_podcast_lowe_the_league_is_gonna_be_spared_the/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T17:31:53Z",
-      "id": "5084bd1cc2c37146f910b754b0815967"
     },
     {
       "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
@@ -264,131 +226,101 @@
       "comments": "https://news.ycombinator.com/item?id=48529990"
     },
     {
-      "title": "Fox is catching way too much slack and blame for what was a collective team disaster by spurs.",
-      "link": "https://www.reddit.com/r/nba/comments/1u5po94/fox_is_catching_way_too_much_slack_and_blame_for/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T16:29:04Z",
-      "id": "107344af360612788c89c3e13384bf04"
-    },
-    {
-      "title": "[Scotto] Mike Brown: \u201cChris Jent, my associate head coach, I\u2019m surprised he hasn\u2019t gotten an interview. He\u2019s our offensive coordinator. He\u2019s been around for a long time. Somebody needs to give him an interview because he\u2019ll help your team win at the highest level.\u201d",
-      "link": "https://www.reddit.com/r/nba/comments/1u5pnjq/scotto_mike_brown_chris_jent_my_associate_head/",
-      "source": "r/nba",
-      "category": "sports",
-      "published": "2026-06-14T16:28:15Z",
-      "id": "92bb6a687fe103eb2c1d1edd0c0efe65"
-    },
-    {
-      "title": "Ask HN: What are you working on? (June 2026)",
-      "link": "https://news.ycombinator.com/item?id=48528779",
+      "title": "Making glass-to-metal seals for home\u00admade vacuum tubes",
+      "link": "https://maurycyz.com/projects/glass/1/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-14T16:05:28Z",
-      "id": "30f9fbae35946d0f7d29ddd2e9ef6758",
-      "comments": "https://news.ycombinator.com/item?id=48528779"
+      "published": "2026-06-14T15:52:09Z",
+      "id": "596e46ff4620587e497287201c6910fd",
+      "comments": "https://news.ycombinator.com/item?id=48528587"
     },
     {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "link": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-14T15:37:31Z",
-      "id": "7d8c944c9f632b4512e3b9dea7aa7280",
-      "comments": "https://news.ycombinator.com/item?id=48528371"
-    },
-    {
-      "title": "Jalen Brunson when asked if leaving $113M on the table was worth it to win a championship: \"100 percent worth it.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1u5oa2v/jalen_brunson_when_asked_if_leaving_113m_on_the/",
-      "source": "r/nba",
+      "title": "Who\u2019s the Villain? The shocking answer.",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u5ea3u/whos_the_villain_the_shocking_answer/",
+      "source": "r/CHIBears",
       "category": "sports",
-      "published": "2026-06-14T15:34:54Z",
-      "id": "b01b06fc2deca39f2e2cad712d2bd00e"
+      "published": "2026-06-14T07:06:31Z",
+      "id": "8b33ccd990a8bdf59d0c25693a4fdf4c"
     },
     {
-      "title": "Perlisisms (1982)",
-      "link": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-14T14:56:56Z",
-      "id": "28c79eb3e7e03780e5ac5368915d2455",
-      "comments": "https://news.ycombinator.com/item?id=48527820"
-    },
-    {
-      "title": "[ESPN] Anunoby on the upcoming parade: \"It's gonna be amazing ... they gonna be laud, they gonna set cars on fire.\" SVP: \"I hope not.\" Anunoby: \"Oh, yeah, maybe not cars on fire ... please, don't do that.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1u5n72f/espn_anunoby_on_the_upcoming_parade_its_gonna_be/",
-      "source": "r/nba",
+      "title": "[Bearsszn] Caleb Williams, Matas Buzelis, Colston Loveland, Rome Odunze, Kyle Monangai and Dayo Odeyingbo all together at Summer Smash ([presented by Lyrical Lemonade & Cole Bennett - in Chicago]) \ud83d\udc40 Mob rolling deep last night. \ud83d\udd25",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u58t4j/bearsszn_caleb_williams_matas_buzelis_colston/",
+      "source": "r/CHIBears",
       "category": "sports",
-      "published": "2026-06-14T14:52:33Z",
-      "id": "b5f6c3cacf2002b2f5ff4384b15ad642"
+      "published": "2026-06-14T02:18:59Z",
+      "id": "c8a733d482616f54d4375019228a6197"
     },
     {
-      "title": "[Bill Simmons Pod] Bill: \"This was an incredibly disappointing Wemby series. For the future of the league, face of the league, this was a catastrophe for all those storylines.\" Zach: \"Storywise, this is the better outcome for the league.\"",
-      "link": "https://www.reddit.com/r/nba/comments/1u5mq0y/bill_simmons_pod_bill_this_was_an_incredibly/",
-      "source": "r/nba",
+      "title": "Ian Wheeler",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u54k3a/ian_wheeler/",
+      "source": "r/CHIBears",
       "category": "sports",
-      "published": "2026-06-14T14:33:18Z",
-      "id": "0ae0ec29e4d5568377ccb7d419b12184"
+      "published": "2026-06-13T22:52:20Z",
+      "id": "109342f1129d1b1a5f78f6bd9ec3b037"
     },
     {
-      "title": "Mikal Bridges overcome with emotions after the Knicks Finals win.",
-      "link": "https://www.reddit.com/r/nba/comments/1u5mpcj/mikal_bridges_overcome_with_emotions_after_the/",
-      "source": "r/nba",
+      "title": "Jeremy Fowler on Caleb Williams",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u4z5iy/jeremy_fowler_on_caleb_williams/",
+      "source": "r/CHIBears",
       "category": "sports",
-      "published": "2026-06-14T14:32:35Z",
-      "id": "2a9be2fba540bb1ec25b8491f4d208a7"
+      "published": "2026-06-13T19:00:28Z",
+      "id": "0ef4274c9ce9eca9b2927d02a46711d5"
     },
     {
-      "title": "Nike's ad celebrating the Knicks finally winning the title",
-      "link": "https://www.reddit.com/r/nba/comments/1u5kylo/nikes_ad_celebrating_the_knicks_finally_winning/",
-      "source": "r/nba",
+      "title": "Cole Kmet, wtf... \ud83d\ude0e",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u4g2mg/cole_kmet_wtf/",
+      "source": "r/CHIBears",
       "category": "sports",
-      "published": "2026-06-14T13:18:13Z",
-      "id": "ab4378cea340258f4609a229b683c13c"
+      "published": "2026-06-13T03:28:50Z",
+      "id": "b9461b8ad96008d0eb12227e7ff8250d"
     },
     {
-      "title": "Formal methods and the future of programming",
-      "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-14T12:35:27Z",
-      "id": "35d07c983d72fc690b7bdb3d6113ddf0",
-      "comments": "https://news.ycombinator.com/item?id=48526633"
-    },
-    {
-      "title": "[Post Game Thread] The New York Knicks (4-1) become the 2026 NBA Champions by defeating the San Antonio Spurs (1-4) in Game 5, 94-90, behind a legendary 45 point performance by Jalen Brunson",
-      "link": "https://www.reddit.com/r/nba/comments/1u5a7if/post_game_thread_the_new_york_knicks_41_become/",
-      "source": "r/nba",
+      "title": "[Chicago Bears] Rooks took a trip to the South Side \u26be\ufe0f",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u4dfhc/chicago_bears_rooks_took_a_trip_to_the_south_side/",
+      "source": "r/CHIBears",
       "category": "sports",
-      "published": "2026-06-14T03:29:50Z",
-      "id": "61f5ba5c099dfb18a09998c8f11fd54d"
+      "published": "2026-06-13T01:18:21Z",
+      "id": "986e71829b76df004271b71cd874abd4"
     },
     {
-      "title": "Show HN: Trace \u2013 Offline Mac meeting transcripts you can flag mid-call",
-      "link": "https://traceapp.info",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-13T20:41:58Z",
-      "id": "a777125618607df4dff1ef44bb2a239a",
-      "comments": "https://news.ycombinator.com/item?id=48521236"
+      "title": "Coby after getting his ring",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u4de5b/coby_after_getting_his_ring/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-13T01:16:29Z",
+      "id": "d591cac9966c832592f2ed1dccf8da8c"
     },
     {
-      "title": "Why does paper fold so well?",
-      "link": "https://www.bbc.co.uk/programmes/w3ct8k70",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-13T19:31:54Z",
-      "id": "5c0a7d0b41407ac74e4441252ede0685",
-      "comments": "https://news.ycombinator.com/item?id=48520596"
+      "title": "[Dan Bernstein] Per NBC5, Bears have yet to even apply for permits to do anything in Hammond, and are just now learning they can't touch protected areas involved until 2050?! The Kevin Warren clown show, folks.",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u49j7f/dan_bernstein_per_nbc5_bears_have_yet_to_even/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T22:21:54Z",
+      "id": "19c4c62fb4603ccf55b5d9383f9cc578"
     },
     {
-      "title": "Being an old school web-based sports sim dev in the era of vibe coded games",
-      "link": "https://zengm.com/blog/2026/06/vibecoded-games/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-12T18:52:44Z",
-      "id": "8a55aa0047cf52ee6edc4fa0c48b1284",
-      "comments": "https://news.ycombinator.com/item?id=48508021"
+      "title": "[Thompson] Chicago Bears legend Brian Urlacher spoke out against Illinois Democrats for giving billions of dollars to illegal immigrants, while the Bears now plan to move to Indiana because Illinois failed to pass a tax relief and stadium incentive bill. \"They just don't care.\"",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u497kk/thompson_chicago_bears_legend_brian_urlacher/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T22:08:33Z",
+      "id": "e1ed1cd3645c1cbd6fd469c82149335a"
+    },
+    {
+      "title": "Kevin Warren on a potential move to Indiana",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u47drl/kevin_warren_on_a_potential_move_to_indiana/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T20:56:18Z",
+      "id": "7c5d47048affd9d291e89438f7c20a23"
+    },
+    {
+      "title": "[Chicago Bears] Burden bomb \ud83d\udca3",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u46xmo/chicago_bears_burden_bomb/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T20:38:31Z",
+      "id": "f2e65a5a210bea6bf9adf2d9ce9fa1bd"
     },
     {
       "title": "Ported my C game to WASM, here's everybug that I hit",
@@ -400,40 +332,69 @@
       "comments": "https://news.ycombinator.com/item?id=48506980"
     },
     {
-      "title": "Exploring building a tiny FUSE filesystem",
-      "link": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-12T16:38:10Z",
-      "id": "1ddc2bbbe9a36105e2607b0075359740",
-      "comments": "https://news.ycombinator.com/item?id=48506286"
+      "title": "[NFL Network] Are all eyes on the Bears this season?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u3yff5/nfl_network_are_all_eyes_on_the_bears_this_season/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T15:25:45Z",
+      "id": "e2f20b4f332df3ab89b1180a11dd4e54"
     },
     {
-      "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
-      "link": "https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling",
+      "title": "Asciline \u2013 real-time ASCII video rendering engine",
+      "link": "https://github.com/YusufB5/ASCILINE",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-12T04:24:53Z",
-      "id": "90888b476b8a0a2c314fe8c600d71f94",
-      "comments": "https://news.ycombinator.com/item?id=48499898"
+      "published": "2026-06-12T04:39:46Z",
+      "id": "6c50c5d3520116d2bec1a09232d4b36a",
+      "comments": "https://news.ycombinator.com/item?id=48499993"
     },
     {
-      "title": "Bitsy",
-      "link": "https://bitsy.org/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-11T20:56:30Z",
-      "id": "672b424fb3ce03d68208207aeef008a1",
-      "comments": "https://news.ycombinator.com/item?id=48496290"
+      "title": "Custom made some wall arts! What do you guys think??",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u3h4x9/custom_made_some_wall_arts_what_do_you_guys_think/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-12T01:08:54Z",
+      "id": "40a2b502424cd423fe2e5c8c33543282"
     },
     {
-      "title": "The only scalable delete in Postgres is DROP TABLE",
-      "link": "https://planetscale.com/blog/the-only-scalable-delete",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-11T16:48:49Z",
-      "id": "5d05779c0aabbd91f04b43790902b065",
-      "comments": "https://news.ycombinator.com/item?id=48492822"
+      "title": "Caleb and Dillion Thienamen Media Availability + a good easy to read recap of today",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u3ajvu/caleb_and_dillion_thienamen_media_availability_a/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T20:30:42Z",
+      "id": "09e9eb0fd0e390e76704eea95fc1e9b0"
+    },
+    {
+      "title": "Former Bear Cassius Marsh officially announces his retirement",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u3a0uw/former_bear_cassius_marsh_officially_announces/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T20:10:43Z",
+      "id": "91ced0bca91d68635fa33c46fffa08e5"
+    },
+    {
+      "title": "Day 3 and Final Mini Camp Ben Johnson Presser and Practice Notes 6/11",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u37sws/day_3_and_final_mini_camp_ben_johnson_presser_and/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T18:49:41Z",
+      "id": "2e046ae004058662426bef40b01dbdf2"
+    },
+    {
+      "title": "Bears x Peanuts | August 15: Snoopy's coming to Solider Field! | Purchase a BEARS X PEANUTS Ticket and receive an exclusive Snoopy plush keychain charm.",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u36lr4/bears_x_peanuts_august_15_snoopys_coming_to/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T18:06:28Z",
+      "id": "5335943b1721587dd1821e6ed01e54ee"
+    },
+    {
+      "title": "Rivalries uniforms on Christmas Day?",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u32q24/rivalries_uniforms_on_christmas_day/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T15:45:08Z",
+      "id": "eb522109d4268109c16abb4b0e8d8010"
     },
     {
       "title": "There Is(\u018e) \u2013 Such That (\u220b)",
@@ -445,22 +406,45 @@
       "comments": "https://news.ycombinator.com/item?id=48490649"
     },
     {
-      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "link": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-11T00:25:05Z",
-      "id": "eeaa5738772d45556edaf20e354126e3",
-      "comments": "https://news.ycombinator.com/item?id=48484711"
+      "title": "How the Knicks were moving",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u2nu7f/how_the_knicks_were_moving/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T03:35:58Z",
+      "id": "3ba5dcf946c0a153ebda8e313521c16c"
     },
     {
-      "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
-      "link": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
+      "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
+      "link": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-10T14:08:36Z",
-      "id": "0e1b08c75e766b7176e048ff2aa4eb50",
-      "comments": "https://news.ycombinator.com/item?id=48476539"
+      "published": "2026-06-11T02:22:06Z",
+      "id": "4cbf6e0adb602a324a3419b4b1832aaa",
+      "comments": "https://news.ycombinator.com/item?id=48485527"
+    },
+    {
+      "title": "Best Of Bears Media Day Photos",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u2k5le/best_of_bears_media_day_photos/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-11T00:43:12Z",
+      "id": "a79066ff87dbcdd77c9202277936f3c9"
+    },
+    {
+      "title": "Day Two Mini Camp Practice Notes and Player Media 6/10",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u2dbw5/day_two_mini_camp_practice_notes_and_player_media/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-10T20:06:41Z",
+      "id": "4f2b28031c544e0879be299a924cc968"
+    },
+    {
+      "title": "Ben Johnson 6/10 Day 2 Mini Camp Presser Notes",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1u28grq/ben_johnson_610_day_2_mini_camp_presser_notes/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-10T17:14:12Z",
+      "id": "324ec975f6021ce144ed787c8c44c868"
     },
     {
       "title": "Firewood Splitting Simulator",
@@ -470,6 +454,22 @@
       "published": "2026-06-10T05:01:31Z",
       "id": "f0bed2eb42077dd619ada6f5a85099c3",
       "comments": "https://news.ycombinator.com/item?id=48471638"
+    },
+    {
+      "title": "Statement from Chairman George H. McCaskey and President & CEO Kevin Warren:",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1txpkm4/statement_from_chairman_george_h_mccaskey_and/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-06-05T16:17:14Z",
+      "id": "5e6cb0fa66e7198a701ff90dfba8bd72"
+    },
+    {
+      "title": "[Megathread] Bears 2026 Off-Season Tracker",
+      "link": "https://www.reddit.com/r/CHIBears/comments/1rwbyv5/megathread_bears_2026_offseason_tracker/",
+      "source": "r/CHIBears",
+      "category": "sports",
+      "published": "2026-03-17T16:47:19Z",
+      "id": "161f5337e17cb35245f3f4dd4542efd5"
     }
   ]
 }
