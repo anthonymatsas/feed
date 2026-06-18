@@ -1,13 +1,58 @@
 {
-  "last_updated": "2026-06-17T22:43:20.292497Z",
+  "last_updated": "2026-06-18T03:31:15.694273Z",
   "items": [
     {
-      "title": "I don\u2019t want this to happen, but I think we might take Wagler 4th",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u8p227/i_dont_want_this_to_happen_but_i_think_we_might/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-17T22:41:53Z",
-      "id": "c94c873c81a5319848fc22f246c8ed79"
+      "title": "[x86] AI Compute Extensions (ACE) Specification",
+      "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T02:32:01Z",
+      "id": "4118fae0f56ad199df274a725d6bae6f",
+      "comments": "https://news.ycombinator.com/item?id=48579913"
+    },
+    {
+      "title": "Midjourney Medical",
+      "link": "https://www.midjourney.com/medical/blogpost",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T01:59:51Z",
+      "id": "751a4c541c8843e8976eda25984ba191",
+      "comments": "https://news.ycombinator.com/item?id=48579650"
+    },
+    {
+      "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
+      "link": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T00:24:04Z",
+      "id": "881adff7f0c8f1840235aa484388494e",
+      "comments": "https://news.ycombinator.com/item?id=48578894"
+    },
+    {
+      "title": "Fearless Concurrency on the GPU (paper)",
+      "link": "https://www.reddit.com/r/programming/comments/1u8qbul/fearless_concurrency_on_the_gpu_paper/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-17T23:36:33Z",
+      "id": "5e1465d59f6403a5b517c37c21452c2f"
+    },
+    {
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "link": "https://www.horg.com/horg/?page_id=921",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-17T23:20:38Z",
+      "id": "e428f1f61d0f383fc7b6693ba7ffac88",
+      "comments": "https://news.ycombinator.com/item?id=48578388"
+    },
+    {
+      "title": "Clojure Hosted on Go",
+      "link": "https://github.com/glojurelang/glojure",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-17T23:14:49Z",
+      "id": "7e451ee1a5523120b3ec6ace4a83f4f2",
+      "comments": "https://news.ycombinator.com/item?id=48578326"
     },
     {
       "title": "Storied Colors \u2013 a catalogue of named colors",
@@ -19,22 +64,12 @@
       "comments": "https://news.ycombinator.com/item?id=48577374"
     },
     {
-      "title": "Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?",
-      "link": "https://kevin.burke.dev/kevin/walnut-creek-single-stair/",
-      "source": "Hacker News",
+      "title": "Designing TikTok: From a Feed That Scores Everything to a Two-Stage Engine",
+      "link": "https://www.reddit.com/r/programming/comments/1u8n6ls/designing_tiktok_from_a_feed_that_scores/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2026-06-17T21:35:27Z",
-      "id": "3d7d04cd4f5974b42878549274f7b471",
-      "comments": "https://news.ycombinator.com/item?id=48577246"
-    },
-    {
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T21:31:35Z",
-      "id": "d4db45da1cb4460fd50df20e163ef6af",
-      "comments": "https://news.ycombinator.com/item?id=48577208"
+      "published": "2026-06-17T21:27:13Z",
+      "id": "eb852f1810892a6a8f542af72655570d"
     },
     {
       "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
@@ -55,14 +90,6 @@
       "comments": "https://news.ycombinator.com/item?id=48576824"
     },
     {
-      "title": "[Chicago Bulls] Tiago Splitter Introductory Press Conference",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u8lyvr/chicago_bulls_tiago_splitter_introductory_press/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-17T20:40:52Z",
-      "id": "82d92f27532178652bbc7304c6121250"
-    },
-    {
       "title": "Loreline \u2013 Tools for writing interactive fiction",
       "link": "https://loreline.app/en/",
       "source": "Hacker News",
@@ -70,6 +97,23 @@
       "published": "2026-06-17T20:29:15Z",
       "id": "28b3d9becdeb9ab9ae31d4648ead5c53",
       "comments": "https://news.ycombinator.com/item?id=48576395"
+    },
+    {
+      "title": "How Madrid built its metro cheaply",
+      "link": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-17T19:59:27Z",
+      "id": "94cbe72d4ee3fd33c1e97430d0dd9dec",
+      "comments": "https://news.ycombinator.com/item?id=48575997"
+    },
+    {
+      "title": "OpenAI joins The Rust Foundation as a Platinun member and donates funds to support Rust maintenance",
+      "link": "https://www.reddit.com/r/programming/comments/1u8kqxx/openai_joins_the_rust_foundation_as_a_platinun/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-17T19:54:59Z",
+      "id": "e90ec51d8f49a2093675c5090f7a74a9"
     },
     {
       "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout",
@@ -81,32 +125,6 @@
       "comments": "https://news.ycombinator.com/item?id=48575878"
     },
     {
-      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
-      "link": "https://openai.com/index/ai-chemist-improves-reaction/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T17:34:20Z",
-      "id": "d8814963109b1dc30ce2af855e9b27bc",
-      "comments": "https://news.ycombinator.com/item?id=48573757"
-    },
-    {
-      "title": "Caleb Wilson arrived in Chicago yesterday",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u8gf2j/caleb_wilson_arrived_in_chicago_yesterday/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-17T17:18:53Z",
-      "id": "0b089533e2869cc3ea89305f697e5fe9"
-    },
-    {
-      "title": "The Competitive Moat That AI Can't Replicate",
-      "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T17:14:21Z",
-      "id": "7ace3a8893d5ab5a8f0fcbc7d4539a5f",
-      "comments": "https://news.ycombinator.com/item?id=48573435"
-    },
-    {
       "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
       "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
       "source": "Hacker News",
@@ -114,14 +132,6 @@
       "published": "2026-06-17T17:00:02Z",
       "id": "7a4f352859a9f3cb3933b7daff4617fc",
       "comments": "https://news.ycombinator.com/item?id=48573221"
-    },
-    {
-      "title": "The Last Episode: Our Tribute to a dear friend & Bulls Legend.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u8fr6y/the_last_episode_our_tribute_to_a_dear_friend/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-17T16:54:03Z",
-      "id": "8598b049cccb1ae9f706fecd16a6d989"
     },
     {
       "title": "Show HN: An 8-bit live gamecast for baseball",
@@ -142,14 +152,6 @@
       "comments": "https://news.ycombinator.com/item?id=48572553"
     },
     {
-      "title": "[USA TODAY] Chicago Bulls NBA mock draft: latest prediction for No. 4 pick after playoffs",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u8dejn/usa_today_chicago_bulls_nba_mock_draft_latest/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-17T15:29:27Z",
-      "id": "ffe0dbb51429539ea4b937aed1bb3cbe"
-    },
-    {
       "title": "Volkswagen started blocking GrapheneOS users",
       "link": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
       "source": "Hacker News",
@@ -157,6 +159,14 @@
       "published": "2026-06-17T15:04:47Z",
       "id": "f439d415587233a501667415be2a4398",
       "comments": "https://news.ycombinator.com/item?id=48571526"
+    },
+    {
+      "title": "Forest for the trees: An adventure in structured data",
+      "link": "https://www.reddit.com/r/programming/comments/1u8cee1/forest_for_the_trees_an_adventure_in_structured/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-17T14:52:56Z",
+      "id": "c51d5bd81f2808084ee84a43a7046044"
     },
     {
       "title": "Lore \u2013 Open source version control system designed for scalability",
@@ -168,15 +178,6 @@
       "comments": "https://news.ycombinator.com/item?id=48571081"
     },
     {
-      "title": "Want your images back? That'll be $5",
-      "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T13:05:03Z",
-      "id": "37e7b9dea13cebbffcb84f9ab2b5f6ce",
-      "comments": "https://news.ycombinator.com/item?id=48569954"
-    },
-    {
       "title": "Why thinking out loud with someone beats thinking alone",
       "link": "https://www.thesignalist.io/s/the-dialogue-dividend/",
       "source": "Hacker News",
@@ -184,6 +185,22 @@
       "published": "2026-06-17T13:00:38Z",
       "id": "0ee1f3e6c91014e1b26d66be4665e556",
       "comments": "https://news.ycombinator.com/item?id=48569894"
+    },
+    {
+      "title": "Hinton's Forward Forward Algorithm in Python",
+      "link": "https://www.reddit.com/r/programming/comments/1u89gok/hintons_forward_forward_algorithm_in_python/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-17T12:57:23Z",
+      "id": "ae42851547aa2547757865ba86f6adc2"
+    },
+    {
+      "title": "A library for pathfinding, traversal, and transformation of graph structures",
+      "link": "https://www.reddit.com/r/programming/comments/1u891hi/a_library_for_pathfinding_traversal_and/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-17T12:38:41Z",
+      "id": "c5b160b844a7b7b9dcd70394b3506897"
     },
     {
       "title": "MicroUI \u2013 A tiny, portable, immediate-mode UI library written in ANSI C",
@@ -222,47 +239,12 @@
       "comments": "https://news.ycombinator.com/item?id=48567759"
     },
     {
-      "title": "Hacker News but for independent blogs",
-      "link": "https://bubbles.town/",
-      "source": "Hacker News",
+      "title": "RFC 10008: The HTTP QUERY Method",
+      "link": "https://www.reddit.com/r/programming/comments/1u84m2g/rfc_10008_the_http_query_method/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2026-06-17T07:49:44Z",
-      "id": "8e706a9699377dd1b84295f21deeb134",
-      "comments": "https://news.ycombinator.com/item?id=48567155"
-    },
-    {
-      "title": "The founder's playbook: Building an AI-native startup",
-      "link": "https://claude.com/blog/the-founders-playbook",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T07:04:42Z",
-      "id": "c6d3c0c28e305378dae281cff57702f9",
-      "comments": "https://news.ycombinator.com/item?id=48566832"
-    },
-    {
-      "title": "Tiago Splitter to Bulls, Who Benefits?",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u82waj/tiago_splitter_to_bulls_who_benefits/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-17T07:01:11Z",
-      "id": "c467f76bfa51ad168f42228c4c380c2d"
-    },
-    {
-      "title": "Why do commercial spaces sit vacant? (2025)",
-      "link": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T06:59:29Z",
-      "id": "d2634f485859f5f85ef346f160dc12fc",
-      "comments": "https://news.ycombinator.com/item?id=48566791"
-    },
-    {
-      "title": "Would You Take on Jimmy Butler for the No.11 Pick?",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u829xp/would_you_take_on_jimmy_butler_for_the_no11_pick/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-17T06:25:01Z",
-      "id": "0d3067ab7ca34d38129dedaf8652bcb5"
+      "published": "2026-06-17T08:43:41Z",
+      "id": "54ade4f34b9650e22f64ec17586b318e"
     },
     {
       "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
@@ -274,36 +256,61 @@
       "comments": "https://news.ycombinator.com/item?id=48565498"
     },
     {
-      "title": "Looking Back on the Ayo Trade",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u7yggx/looking_back_on_the_ayo_trade/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-17T03:05:29Z",
-      "id": "26ec860fa8c482dcac531c4b68374770"
+      "title": "Nginx explained in plain English",
+      "link": "https://www.reddit.com/r/programming/comments/1u7q8pg/nginx_explained_in_plain_english/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T21:08:49Z",
+      "id": "9a3cd4e27b5e3f21bfb0bb109706c01f"
     },
     {
-      "title": "[Jaynes] Sources tell me that Tiago Splitter's contract with Chicago is for three years, with a fourth year on a team option. It is believed to be at the league average, salary-wise. The average salary for NBA head coaches at this time is just under $7 million per year.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u7m25s/jaynes_sources_tell_me_that_tiago_splitters/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-16T18:36:29Z",
-      "id": "390645bb32860f52072e3a223c1eb33a"
+      "title": "Why is Meta destroying its engineering organization? Great breakdown",
+      "link": "https://www.reddit.com/r/programming/comments/1u7o7s0/why_is_meta_destroying_its_engineering/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T19:53:19Z",
+      "id": "0659bfe9e9885542ffb7ce90c0f69d74"
     },
     {
-      "title": "Wagler",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u7k8gh/wagler/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-16T17:32:01Z",
-      "id": "f2fcedf3bc88deda23a1fd44e0435cfe"
+      "title": "Heterogeneous Pythonic language in your pocket",
+      "link": "https://www.reddit.com/r/programming/comments/1u7m1fa/heterogeneous_pythonic_language_in_your_pocket/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T18:35:44Z",
+      "id": "ff5a9c54877a68c7dfae47a0b5bca58e"
     },
     {
-      "title": "[no context] Buzelis is on a (very slightly) better trajectory via DARKO than his closest size/skillset peers - Avdija, Wagner, McDaniels, and Smith Jr.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u7jn3b/no_context_buzelis_is_on_a_very_slightly_better/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-16T17:11:06Z",
-      "id": "5402d3cf7d4a237bbf2502cafa62240b"
+      "title": "Frontend Minimalism in Action: Do More With Less JavaScript | Peter Kr\u00f6ner | webinale Berlin 2026",
+      "link": "https://www.reddit.com/r/programming/comments/1u7m0co/frontend_minimalism_in_action_do_more_with_less/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T18:34:40Z",
+      "id": "7671cdcd59287b81b8537a0808ae723e"
+    },
+    {
+      "title": "Squaring the Circle: Running Depth-First Chess Search on a Set-Based Language",
+      "link": "https://www.reddit.com/r/programming/comments/1u7jb7t/squaring_the_circle_running_depthfirst_chess/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T17:00:04Z",
+      "id": "4ece60f0b8bc904a1e95db32a54eff65"
+    },
+    {
+      "title": "British Columbia, Time Zones, and Postgres",
+      "link": "https://www.reddit.com/r/programming/comments/1u7i2bj/british_columbia_time_zones_and_postgres/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T16:15:33Z",
+      "id": "1de42c24091e3cf4fc7619a2a194ee47"
+    },
+    {
+      "title": "Show HN: BlitzGraph \u2013 Supabase for graphs, built for LLM agents",
+      "link": "https://blitzgraph.com",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-16T15:41:02Z",
+      "id": "fa0a842ce44afa8ea6c8bd95ba442b0b",
+      "comments": "https://news.ycombinator.com/item?id=48557002"
     },
     {
       "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
@@ -315,44 +322,45 @@
       "comments": "https://news.ycombinator.com/item?id=48556561"
     },
     {
-      "title": "The Ringer Top 100 Players Updated List",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u7g6f9/the_ringer_top_100_players_updated_list/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-16T15:07:17Z",
-      "id": "951965fb9cd99cc5aeae9cb14f53716a"
+      "title": "Polynomial Fitting: a rabbit hole",
+      "link": "https://www.reddit.com/r/programming/comments/1u7d8b6/polynomial_fitting_a_rabbit_hole/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T13:14:46Z",
+      "id": "8d763a0bc8f2ef80ec23a0579c0686d7"
     },
     {
-      "title": "Bright future collection",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u7g0y4/bright_future_collection/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-16T15:01:52Z",
-      "id": "a42d80a001cdb324c53e15cba7cda404"
+      "title": "What makes blqsort faster than almost any other Quicksort around \u2013 with C and C++ interfaces",
+      "link": "https://www.reddit.com/r/programming/comments/1u7c4wb/what_makes_blqsort_faster_than_almost_any_other/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T12:28:34Z",
+      "id": "69680315c4f307db74b1604894a4d02f"
     },
     {
-      "title": "Interesting Tidbit from Joel Lorenzi of the Athletic on The Score yesterday. There\u2019s been internal belief that a star is in the building with Matas",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u7dr16/interesting_tidbit_from_joel_lorenzi_of_the/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-16T13:35:45Z",
-      "id": "ec1daf0d2b0892a8588002b3ee697004"
+      "title": "Show HN: Spin Lab",
+      "link": "https://srijanshukla.com/artifacts/spin-lab/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-16T12:16:11Z",
+      "id": "f24e41848f45d0072b240b6114b11deb",
+      "comments": "https://news.ycombinator.com/item?id=48554044"
     },
     {
-      "title": "Just want to share a few MJ cards I\u2019ve drawn over the years. Hope you like the",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u7ba7y/just_want_to_share_a_few_mj_cards_ive_drawn_over/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-16T11:50:05Z",
-      "id": "c0c1a7ee3c03837eaaddd59245305d1e"
+      "title": "What every coder should know about gamma",
+      "link": "https://www.reddit.com/r/programming/comments/1u79v59/what_every_coder_should_know_about_gamma/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T10:37:18Z",
+      "id": "2f6c6650f09108571fb11ef08ad21939"
     },
     {
-      "title": "With the nba season done",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u78w27/with_the_nba_season_done/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-16T09:44:03Z",
-      "id": "277d38f992402a3a9dad8cfbd7328039"
+      "title": "Don't run SQL migrations in tests: How I sped up the test suite by 2x",
+      "link": "https://www.reddit.com/r/programming/comments/1u77h7h/dont_run_sql_migrations_in_tests_how_i_sped_up/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T08:18:40Z",
+      "id": "b4c82edec72be9125c9a4f429d43dc7b"
     },
     {
       "title": "The Return of Rigorous Full-System Timing Simulation",
@@ -364,68 +372,69 @@
       "comments": "https://news.ycombinator.com/item?id=48551069"
     },
     {
-      "title": "[Ayo IG] Ayo introducing Matas to some sus food",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u71t93/ayo_ig_ayo_introducing_matas_to_some_sus_food/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-16T03:07:37Z",
-      "id": "a476256152d08edf092c8d30f31c165e"
+      "title": "Speed Matters for Google Web Search [2009]",
+      "link": "https://www.reddit.com/r/programming/comments/1u74mab/speed_matters_for_google_web_search_2009/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-16T05:31:39Z",
+      "id": "95c37063a95e675cd3f1b05a2cebdcb7"
     },
     {
-      "title": "[Amick] The Utah Jazz are attempting to leverage restricted free agency against Walker Kessler and he is now strongly considering the prospect of a basketball future outside of Utah.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u6xiik/amick_the_utah_jazz_are_attempting_to_leverage/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-15T23:51:20Z",
-      "id": "1144adf957c837fb03ffec12a0315d2e"
+      "title": "Game Engine White Papers Commander Keen",
+      "link": "https://www.reddit.com/r/programming/comments/1u6xklw/game_engine_white_papers_commander_keen/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-15T23:53:59Z",
+      "id": "f9cf9b4bf17f78bd5ed37dbb94e4795b"
     },
     {
-      "title": "2 Reasons Why the Bulls Hiring Tiago Splitter is a Perfect Fit, Plus One Big Question",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u6usni/2_reasons_why_the_bulls_hiring_tiago_splitter_is/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-15T21:59:20Z",
-      "id": "529dcb12d645a51f85da342bf56bbc9e"
+      "title": "Show HN: We built an 8-bit CPU as 2nd year EE students",
+      "link": "https://github.com/c0rRupT9/STEPLA-1",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-15T20:22:48Z",
+      "id": "5e1f9a7c34cf0cb185fbf959055abb04",
+      "comments": "https://news.ycombinator.com/item?id=48546549"
     },
     {
-      "title": "Fun hypothetical I had with the homies. Who wins a 7 game series between these Bulls teams: The 3 Alphas or DeBallZach",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u6ttzw/fun_hypothetical_i_had_with_the_homies_who_wins_a/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-15T21:22:47Z",
-      "id": "bf7710ac8820bb637b2a9267b494eb59"
+      "title": "American Express: Cell-Based Architecture for Resilient Payment Systems",
+      "link": "https://www.reddit.com/r/programming/comments/1u6omlt/american_express_cellbased_architecture_for/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-15T18:18:04Z",
+      "id": "a2cdb82b172f14224f903a8e298f2e85"
     },
     {
-      "title": "[Noh] Tiago Splitter hire for the Bulls was the safe pick: Pros and cons to Billy Donovan's replacement | Sporting News",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u6mtwd/noh_tiago_splitter_hire_for_the_bulls_was_the/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-15T17:14:24Z",
-      "id": "5036045e2ec02cf41e6a0e2a13e5e8e3"
+      "title": "Cross-Language Data Types",
+      "link": "https://www.reddit.com/r/programming/comments/1u6mjpp/crosslanguage_data_types/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-15T17:04:16Z",
+      "id": "cbe985c412ddcf5be38e38df1586ce70"
     },
     {
-      "title": "[Shams Charania] BREAKING: The Chicago Bulls are finalizing the hire of Portland Trail Blazers interim Tiago Splitter as the franchise's new head coach, sources tell ESPN. Splitter succeeds Billy Donovan as the Bulls' coach after stepping into the head job and excelling in Portland last season.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u6kgan/shams_charania_breaking_the_chicago_bulls_are/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-15T15:50:48Z",
-      "id": "2c69481f1a324c25dc5594886ad06327"
+      "title": "Chebyshev Polynomials and Their Derivatives in C",
+      "link": "https://www.reddit.com/r/programming/comments/1u6hsfh/chebyshev_polynomials_and_their_derivatives_in_c/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-15T14:12:44Z",
+      "id": "ab7cf2d078ceb02d116251ac94074c9a"
     },
     {
-      "title": "Weekly Discussion Thread - June 15, 2026",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u6fyco/weekly_discussion_thread_june_15_2026/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-15T13:01:04Z",
-      "id": "f101a5dd67ed9f80418ff5a56d47cd2d"
+      "title": "Wasp now lets you write your full-stack logic as a spec in TypeScript",
+      "link": "https://www.reddit.com/r/programming/comments/1u6hkye/wasp_now_lets_you_write_your_fullstack_logic_as_a/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-15T14:04:56Z",
+      "id": "6b47a6801efca5a1e4ac706cbf173385"
     },
     {
-      "title": "[Stein] Tonight's story also includes the growing belief in league coaching circles that the Bulls will be announcing their successor to Billy Donovan as early as Monday.",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1u61eyy/stein_tonights_story_also_includes_the_growing/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-06-15T00:28:27Z",
-      "id": "46b7db7b8c5d77b9c1d1dad5353ab431"
+      "title": "SVGs and PDFs can both be interactive",
+      "link": "https://www.reddit.com/r/programming/comments/1u6dz52/svgs_and_pdfs_can_both_be_interactive/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-15T11:33:22Z",
+      "id": "e9fd7efa4dfc63fe05e456774904a54c"
     },
     {
       "title": "Kirkland Roundabouts",
@@ -437,15 +446,6 @@
       "comments": "https://news.ycombinator.com/item?id=48533098"
     },
     {
-      "title": "A World of First Drafts",
-      "link": "https://leejo.github.io/2026/06/14/first_drafts/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-14T18:18:04Z",
-      "id": "349cfee0b96745c43ae5e2174a684e85",
-      "comments": "https://news.ycombinator.com/item?id=48530685"
-    },
-    {
       "title": "Show HN: Inkwash, a watercolor sketching app and explanation",
       "link": "https://johnowhitaker.github.io/inkwash/about",
       "source": "Hacker News",
@@ -455,21 +455,21 @@
       "comments": "https://news.ycombinator.com/item?id=48523534"
     },
     {
-      "title": "Image Compression",
-      "link": "https://www.makingsoftware.com/chapters/image-compression",
+      "title": "Biological evolution and information acquisition",
+      "link": "https://www.construction-physics.com/p/biological-evolution-and-information",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-14T00:26:02Z",
-      "id": "412d22c5009fe3be58c81d2b2e8c219c",
-      "comments": "https://news.ycombinator.com/item?id=48522927"
+      "published": "2026-06-11T23:33:17Z",
+      "id": "521bc3d16945a4a4652bb3f36175dd36",
+      "comments": "https://news.ycombinator.com/item?id=48497873"
     },
     {
-      "title": "2026 Offseason Megathread",
-      "link": "https://www.reddit.com/r/chicagobulls/comments/1stmwlp/2026_offseason_megathread/",
-      "source": "r/chicagobulls",
-      "category": "sports",
-      "published": "2026-04-23T15:59:14Z",
-      "id": "63f4982bbafd93fe202b9406a4ae80f7"
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-05-23T13:54:37Z",
+      "id": "1038175f7f05de1ed66e3b9035efc120"
     }
   ]
 }
