@@ -1,13 +1,110 @@
 {
-  "last_updated": "2026-06-18T03:31:15.694273Z",
+  "last_updated": "2026-06-18T10:14:13.956938Z",
   "items": [
     {
-      "title": "[x86] AI Compute Extensions (ACE) Specification",
+      "title": "Pair programming sessions set up",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u90yub/pair_programming_sessions_set_up/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-18T08:51:46Z",
+      "id": "bf0921e1559213f65d1f7dea9d2e8acb"
+    },
+    {
+      "title": "I need your clothes, your boots, and your motorcycle",
+      "link": "https://rbelmont.mameworld.info/?p=1725",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T08:28:04Z",
+      "id": "68eb895427ca6b9ae783db83f2e3b413",
+      "comments": "https://news.ycombinator.com/item?id=48582464"
+    },
+    {
+      "title": "Looking into ways to distribute internal (CLI) company tools to my colleagues: What to use?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u90emw/looking_into_ways_to_distribute_internal_cli/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-18T08:16:46Z",
+      "id": "4827dd68391dbe4dbb14a065f6726997"
+    },
+    {
+      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T08:08:00Z",
+      "id": "ee89f572cc3dc98269c029a378063f82",
+      "comments": "https://news.ycombinator.com/item?id=48582320"
+    },
+    {
+      "title": "The Forge We Deserve",
+      "link": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T07:46:55Z",
+      "id": "d986849c83cc2f1391aff61c12f50049",
+      "comments": "https://news.ycombinator.com/item?id=48582147"
+    },
+    {
+      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "link": "https://www.acma.gov.au/sms-sender-id-register",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T06:23:24Z",
+      "id": "31f27fefe2ac1851e0eb51834c9aea94",
+      "comments": "https://news.ycombinator.com/item?id=48581489"
+    },
+    {
+      "title": "DeepSeek Introduces Vision",
+      "link": "https://chat.deepseek.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T06:17:40Z",
+      "id": "2d0f16d1c1f15b28c01399de1fd50e3f",
+      "comments": "https://news.ycombinator.com/item?id=48581458"
+    },
+    {
+      "title": "I hate compilers",
+      "link": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T05:10:28Z",
+      "id": "77e92a431250bf7fd5adecc9708a593f",
+      "comments": "https://news.ycombinator.com/item?id=48581070"
+    },
+    {
+      "title": "SteamOS Linux 3.8 released as stable",
+      "link": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T04:05:06Z",
+      "id": "91b50f75c91b84120c4020ee7da9ce36",
+      "comments": "https://news.ycombinator.com/item?id=48580686"
+    },
+    {
+      "title": "Nim Conf 2026 (Online, Sat June 20)",
+      "link": "https://conf.nim-lang.org/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T03:38:31Z",
+      "id": "3cfe27aac6b39cb709b27941742dab95",
+      "comments": "https://news.ycombinator.com/item?id=48580504"
+    },
+    {
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "link": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T03:04:20Z",
+      "id": "4f0954b4769a1e45492cf7255c16de26",
+      "comments": "https://news.ycombinator.com/item?id=48580209"
+    },
+    {
+      "title": "AI Compute Extensions (ACE) Specification",
       "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-06-18T02:32:01Z",
-      "id": "4118fae0f56ad199df274a725d6bae6f",
+      "id": "df450acbc2eb5724ed0d1f96b46a400a",
       "comments": "https://news.ycombinator.com/item?id=48579913"
     },
     {
@@ -18,23 +115,6 @@
       "published": "2026-06-18T01:59:51Z",
       "id": "751a4c541c8843e8976eda25984ba191",
       "comments": "https://news.ycombinator.com/item?id=48579650"
-    },
-    {
-      "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
-      "link": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-18T00:24:04Z",
-      "id": "881adff7f0c8f1840235aa484388494e",
-      "comments": "https://news.ycombinator.com/item?id=48578894"
-    },
-    {
-      "title": "Fearless Concurrency on the GPU (paper)",
-      "link": "https://www.reddit.com/r/programming/comments/1u8qbul/fearless_concurrency_on_the_gpu_paper/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T23:36:33Z",
-      "id": "5e1465d59f6403a5b517c37c21452c2f"
     },
     {
       "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
@@ -55,30 +135,21 @@
       "comments": "https://news.ycombinator.com/item?id=48578326"
     },
     {
-      "title": "Storied Colors \u2013 a catalogue of named colors",
+      "title": "Storied Colors \u2013 A catalogue of named colors",
       "link": "https://storiedcolors.com/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-06-17T21:49:03Z",
-      "id": "c0d2b3f2cacaee85af5351913297a750",
+      "id": "8b5d71c37a8b5f1d16f21a0a2566ab95",
       "comments": "https://news.ycombinator.com/item?id=48577374"
     },
     {
-      "title": "Designing TikTok: From a Feed That Scores Everything to a Two-Stage Engine",
-      "link": "https://www.reddit.com/r/programming/comments/1u8n6ls/designing_tiktok_from_a_feed_that_scores/",
-      "source": "r/programming",
+      "title": "Anyone moved an org from Terraform to Pulumi? How did it go?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u8nh33/anyone_moved_an_org_from_terraform_to_pulumi_how/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-17T21:27:13Z",
-      "id": "eb852f1810892a6a8f542af72655570d"
-    },
-    {
-      "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
-      "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T21:00:53Z",
-      "id": "b079a8b0b4ba921420d56083c8e58918",
-      "comments": "https://news.ycombinator.com/item?id=48576838"
+      "published": "2026-06-17T21:38:12Z",
+      "id": "ad3ea792290bc0161567b1c11e87407e"
     },
     {
       "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
@@ -99,48 +170,45 @@
       "comments": "https://news.ycombinator.com/item?id=48576395"
     },
     {
-      "title": "How Madrid built its metro cheaply",
+      "title": "Patterns for customer-built custom reports?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u8lhnv/patterns_for_customerbuilt_custom_reports/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-17T20:22:46Z",
+      "id": "87886ab7fbec920a7046d4405c630d5c"
+    },
+    {
+      "title": "How Madrid built its metro cheaply (2024)",
       "link": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-06-17T19:59:27Z",
-      "id": "94cbe72d4ee3fd33c1e97430d0dd9dec",
+      "id": "ef4a3f5c1045458d3ce6470869ba2a6f",
       "comments": "https://news.ycombinator.com/item?id=48575997"
     },
     {
-      "title": "OpenAI joins The Rust Foundation as a Platinun member and donates funds to support Rust maintenance",
-      "link": "https://www.reddit.com/r/programming/comments/1u8kqxx/openai_joins_the_rust_foundation_as_a_platinun/",
-      "source": "r/programming",
+      "title": "Simple question: You\u2019re forced to run a company that needs to compete for market share against emerging competition and it\u2019s your money. The consequences of your failure are catastrophic to your life. How much AI do you actually use versus hiring? What practices do you enforce?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u8k9bt/simple_question_youre_forced_to_run_a_company/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-17T19:54:59Z",
-      "id": "e90ec51d8f49a2093675c5090f7a74a9"
+      "published": "2026-06-17T19:37:03Z",
+      "id": "ac510f0c057c57a392c95d11d4b6ae9a"
     },
     {
-      "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout",
-      "link": "https://flickey.site",
-      "source": "Hacker News",
+      "title": "Are highly valuable specializations demanding today\u2019s world?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u8jco5/are_highly_valuable_specializations_demanding/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-17T19:50:11Z",
-      "id": "72316172a2c2b04b310b9a36e03da5ef",
-      "comments": "https://news.ycombinator.com/item?id=48575878"
+      "published": "2026-06-17T19:05:00Z",
+      "id": "4fcdd7ce0834f6953ddcc32b4fff7c63"
     },
     {
-      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
-      "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
-      "source": "Hacker News",
+      "title": "What is COVID overhiring? Do you think this is the reason for many recent layoffs?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u8iodg/what_is_covid_overhiring_do_you_think_this_is_the/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-17T17:00:02Z",
-      "id": "7a4f352859a9f3cb3933b7daff4617fc",
-      "comments": "https://news.ycombinator.com/item?id=48573221"
-    },
-    {
-      "title": "Show HN: An 8-bit live gamecast for baseball",
-      "link": "https://ribbie.tv/watch",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T16:44:15Z",
-      "id": "38e5ca8b52595fbed8b55c349166ed2d",
-      "comments": "https://news.ycombinator.com/item?id=48573012"
+      "published": "2026-06-17T18:40:39Z",
+      "id": "003356afa4d6ae1622f0e43b1d48bbcb"
     },
     {
       "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
@@ -161,14 +229,6 @@
       "comments": "https://news.ycombinator.com/item?id=48571526"
     },
     {
-      "title": "Forest for the trees: An adventure in structured data",
-      "link": "https://www.reddit.com/r/programming/comments/1u8cee1/forest_for_the_trees_an_adventure_in_structured/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T14:52:56Z",
-      "id": "c51d5bd81f2808084ee84a43a7046044"
-    },
-    {
       "title": "Lore \u2013 Open source version control system designed for scalability",
       "link": "https://lore.org/",
       "source": "Hacker News",
@@ -176,6 +236,14 @@
       "published": "2026-06-17T14:30:27Z",
       "id": "54767d5846f925a47070fe83e2a7677c",
       "comments": "https://news.ycombinator.com/item?id=48571081"
+    },
+    {
+      "title": "Dealing with or Exiting a Chaotic Work Environment?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u8awe8/dealing_with_or_exiting_a_chaotic_work_environment/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-17T13:55:42Z",
+      "id": "045af2c26e81ab930a5eaf975d3bcd10"
     },
     {
       "title": "Why thinking out loud with someone beats thinking alone",
@@ -187,31 +255,6 @@
       "comments": "https://news.ycombinator.com/item?id=48569894"
     },
     {
-      "title": "Hinton's Forward Forward Algorithm in Python",
-      "link": "https://www.reddit.com/r/programming/comments/1u89gok/hintons_forward_forward_algorithm_in_python/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T12:57:23Z",
-      "id": "ae42851547aa2547757865ba86f6adc2"
-    },
-    {
-      "title": "A library for pathfinding, traversal, and transformation of graph structures",
-      "link": "https://www.reddit.com/r/programming/comments/1u891hi/a_library_for_pathfinding_traversal_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T12:38:41Z",
-      "id": "c5b160b844a7b7b9dcd70394b3506897"
-    },
-    {
-      "title": "MicroUI \u2013 A tiny, portable, immediate-mode UI library written in ANSI C",
-      "link": "https://github.com/rxi/microui",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T12:04:28Z",
-      "id": "ea625528c4f6bd36340ae20f4160a0aa",
-      "comments": "https://news.ycombinator.com/item?id=48569205"
-    },
-    {
       "title": "RFC 10008: The new HTTP Query Method",
       "link": "https://www.rfc-editor.org/info/rfc10008/",
       "source": "Hacker News",
@@ -221,30 +264,12 @@
       "comments": "https://news.ycombinator.com/item?id=48568502"
     },
     {
-      "title": "U.S. science is in chaos",
-      "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-      "source": "Hacker News",
+      "title": "Gave in for some demo weeks in my company to do AI assisted development",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u82dto/gave_in_for_some_demo_weeks_in_my_company_to_do/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-17T09:54:21Z",
-      "id": "ba107ce5d81f54a2970efa07cedc5846",
-      "comments": "https://news.ycombinator.com/item?id=48568058"
-    },
-    {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-17T09:12:00Z",
-      "id": "c07aa8071a3f9cc5b4d66544819da74d",
-      "comments": "https://news.ycombinator.com/item?id=48567759"
-    },
-    {
-      "title": "RFC 10008: The HTTP QUERY Method",
-      "link": "https://www.reddit.com/r/programming/comments/1u84m2g/rfc_10008_the_http_query_method/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T08:43:41Z",
-      "id": "54ade4f34b9650e22f64ec17586b318e"
+      "published": "2026-06-17T06:31:09Z",
+      "id": "2452e5d5d70d4ba5f4f33e04715d8673"
     },
     {
       "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
@@ -256,61 +281,28 @@
       "comments": "https://news.ycombinator.com/item?id=48565498"
     },
     {
-      "title": "Nginx explained in plain English",
-      "link": "https://www.reddit.com/r/programming/comments/1u7q8pg/nginx_explained_in_plain_english/",
-      "source": "r/programming",
+      "title": "Complexity for the sake of Security",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u7vpf3/complexity_for_the_sake_of_security/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-16T21:08:49Z",
-      "id": "9a3cd4e27b5e3f21bfb0bb109706c01f"
+      "published": "2026-06-17T00:56:13Z",
+      "id": "fee4a672729887f350044f5e3f141588"
     },
     {
-      "title": "Why is Meta destroying its engineering organization? Great breakdown",
-      "link": "https://www.reddit.com/r/programming/comments/1u7o7s0/why_is_meta_destroying_its_engineering/",
-      "source": "r/programming",
+      "title": "How do you deal with a lazy support team?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u7rb2d/how_do_you_deal_with_a_lazy_support_team/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-16T19:53:19Z",
-      "id": "0659bfe9e9885542ffb7ce90c0f69d74"
+      "published": "2026-06-16T21:49:28Z",
+      "id": "6b57eaf68e885997dd74cb9d948ce444"
     },
     {
-      "title": "Heterogeneous Pythonic language in your pocket",
-      "link": "https://www.reddit.com/r/programming/comments/1u7m1fa/heterogeneous_pythonic_language_in_your_pocket/",
-      "source": "r/programming",
+      "title": "20 YoE 'high coupling, low cohesion' led to my current survival mantra: 'income, not outcome'",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u7itpp/20_yoe_high_coupling_low_cohesion_led_to_my/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-16T18:35:44Z",
-      "id": "ff5a9c54877a68c7dfae47a0b5bca58e"
-    },
-    {
-      "title": "Frontend Minimalism in Action: Do More With Less JavaScript | Peter Kr\u00f6ner | webinale Berlin 2026",
-      "link": "https://www.reddit.com/r/programming/comments/1u7m0co/frontend_minimalism_in_action_do_more_with_less/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T18:34:40Z",
-      "id": "7671cdcd59287b81b8537a0808ae723e"
-    },
-    {
-      "title": "Squaring the Circle: Running Depth-First Chess Search on a Set-Based Language",
-      "link": "https://www.reddit.com/r/programming/comments/1u7jb7t/squaring_the_circle_running_depthfirst_chess/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T17:00:04Z",
-      "id": "4ece60f0b8bc904a1e95db32a54eff65"
-    },
-    {
-      "title": "British Columbia, Time Zones, and Postgres",
-      "link": "https://www.reddit.com/r/programming/comments/1u7i2bj/british_columbia_time_zones_and_postgres/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T16:15:33Z",
-      "id": "1de42c24091e3cf4fc7619a2a194ee47"
-    },
-    {
-      "title": "Show HN: BlitzGraph \u2013 Supabase for graphs, built for LLM agents",
-      "link": "https://blitzgraph.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-16T15:41:02Z",
-      "id": "fa0a842ce44afa8ea6c8bd95ba442b0b",
-      "comments": "https://news.ycombinator.com/item?id=48557002"
+      "published": "2026-06-16T16:42:52Z",
+      "id": "f7546321e1df046d75dc1f139f92dcba"
     },
     {
       "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
@@ -322,70 +314,30 @@
       "comments": "https://news.ycombinator.com/item?id=48556561"
     },
     {
-      "title": "Polynomial Fitting: a rabbit hole",
-      "link": "https://www.reddit.com/r/programming/comments/1u7d8b6/polynomial_fitting_a_rabbit_hole/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T13:14:46Z",
-      "id": "8d763a0bc8f2ef80ec23a0579c0686d7"
-    },
-    {
-      "title": "What makes blqsort faster than almost any other Quicksort around \u2013 with C and C++ interfaces",
-      "link": "https://www.reddit.com/r/programming/comments/1u7c4wb/what_makes_blqsort_faster_than_almost_any_other/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T12:28:34Z",
-      "id": "69680315c4f307db74b1604894a4d02f"
-    },
-    {
-      "title": "Show HN: Spin Lab",
-      "link": "https://srijanshukla.com/artifacts/spin-lab/",
+      "title": "The 2-Year Apartment Rule",
+      "link": "https://tadaima.bearblog.dev/the-2-year-apartment-rule/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-16T12:16:11Z",
-      "id": "f24e41848f45d0072b240b6114b11deb",
-      "comments": "https://news.ycombinator.com/item?id=48554044"
+      "published": "2026-06-16T12:00:48Z",
+      "id": "5053e6a920024206dd9e3e173865deae",
+      "comments": "https://news.ycombinator.com/item?id=48553876"
     },
     {
-      "title": "What every coder should know about gamma",
-      "link": "https://www.reddit.com/r/programming/comments/1u79v59/what_every_coder_should_know_about_gamma/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T10:37:18Z",
-      "id": "2f6c6650f09108571fb11ef08ad21939"
-    },
-    {
-      "title": "Don't run SQL migrations in tests: How I sped up the test suite by 2x",
-      "link": "https://www.reddit.com/r/programming/comments/1u77h7h/dont_run_sql_migrations_in_tests_how_i_sped_up/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T08:18:40Z",
-      "id": "b4c82edec72be9125c9a4f429d43dc7b"
-    },
-    {
-      "title": "The Return of Rigorous Full-System Timing Simulation",
-      "link": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
+      "title": "About ASCII art and Jgs font (2023)",
+      "link": "https://velvetyne.fr/news/about-ascii-art-and-jgs-font/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-16T05:49:51Z",
-      "id": "470171c6fc421ce3131a9a349bb98eb4",
-      "comments": "https://news.ycombinator.com/item?id=48551069"
+      "published": "2026-06-16T10:51:14Z",
+      "id": "f404de8bc2bebab2b280a1380fd79c20",
+      "comments": "https://news.ycombinator.com/item?id=48553265"
     },
     {
-      "title": "Speed Matters for Google Web Search [2009]",
-      "link": "https://www.reddit.com/r/programming/comments/1u74mab/speed_matters_for_google_web_search_2009/",
-      "source": "r/programming",
+      "title": "We're relying on Sentry to catch all issues, but it doesn't. So what's being done about silent failures?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u6u51a/were_relying_on_sentry_to_catch_all_issues_but_it/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-16T05:31:39Z",
-      "id": "95c37063a95e675cd3f1b05a2cebdcb7"
-    },
-    {
-      "title": "Game Engine White Papers Commander Keen",
-      "link": "https://www.reddit.com/r/programming/comments/1u6xklw/game_engine_white_papers_commander_keen/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-15T23:53:59Z",
-      "id": "f9cf9b4bf17f78bd5ed37dbb94e4795b"
+      "published": "2026-06-15T21:34:10Z",
+      "id": "917cc7351b080682f72197f8e0fe8bfa"
     },
     {
       "title": "Show HN: We built an 8-bit CPU as 2nd year EE students",
@@ -397,62 +349,110 @@
       "comments": "https://news.ycombinator.com/item?id=48546549"
     },
     {
-      "title": "American Express: Cell-Based Architecture for Resilient Payment Systems",
-      "link": "https://www.reddit.com/r/programming/comments/1u6omlt/american_express_cellbased_architecture_for/",
-      "source": "r/programming",
+      "title": "Changed jobs after 5 years. How do you adjust?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u6r8kf/changed_jobs_after_5_years_how_do_you_adjust/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-06-15T18:18:04Z",
-      "id": "a2cdb82b172f14224f903a8e298f2e85"
+      "published": "2026-06-15T19:48:21Z",
+      "id": "1836ce51c70160633c94435621b5b80d"
     },
     {
-      "title": "Cross-Language Data Types",
-      "link": "https://www.reddit.com/r/programming/comments/1u6mjpp/crosslanguage_data_types/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-15T17:04:16Z",
-      "id": "cbe985c412ddcf5be38e38df1586ce70"
-    },
-    {
-      "title": "Chebyshev Polynomials and Their Derivatives in C",
-      "link": "https://www.reddit.com/r/programming/comments/1u6hsfh/chebyshev_polynomials_and_their_derivatives_in_c/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-15T14:12:44Z",
-      "id": "ab7cf2d078ceb02d116251ac94074c9a"
-    },
-    {
-      "title": "Wasp now lets you write your full-stack logic as a spec in TypeScript",
-      "link": "https://www.reddit.com/r/programming/comments/1u6hkye/wasp_now_lets_you_write_your_fullstack_logic_as_a/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-15T14:04:56Z",
-      "id": "6b47a6801efca5a1e4ac706cbf173385"
-    },
-    {
-      "title": "SVGs and PDFs can both be interactive",
-      "link": "https://www.reddit.com/r/programming/comments/1u6dz52/svgs_and_pdfs_can_both_be_interactive/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-15T11:33:22Z",
-      "id": "e9fd7efa4dfc63fe05e456774904a54c"
-    },
-    {
-      "title": "Kirkland Roundabouts",
-      "link": "https://kirklandroundabouts.com",
+      "title": "Sogen \u2013 High-performance Windows and Linux userspace emulator",
+      "link": "https://sogen.dev/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-14T21:41:56Z",
-      "id": "575fd6ab39172d064c93383a0a29de8f",
-      "comments": "https://news.ycombinator.com/item?id=48533098"
+      "published": "2026-06-15T06:47:54Z",
+      "id": "460f9c9c121f4ac6d1f69686f7a9ba17",
+      "comments": "https://news.ycombinator.com/item?id=48537481"
     },
     {
-      "title": "Show HN: Inkwash, a watercolor sketching app and explanation",
-      "link": "https://johnowhitaker.github.io/inkwash/about",
+      "title": "Do you think some technologies are intentionally gatekept in the industry?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u66szf/do_you_think_some_technologies_are_intentionally/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-15T04:53:08Z",
+      "id": "c6ccddb9e6d6a3b458edb53d6a4a1868"
+    },
+    {
+      "title": "Smashed Toilet Phone Web Server",
+      "link": "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-14T02:14:43Z",
-      "id": "666dba4758099d68b4a7a64b91d95ac4",
-      "comments": "https://news.ycombinator.com/item?id=48523534"
+      "published": "2026-06-15T02:19:48Z",
+      "id": "18b376f263de0ef368ff6845de8c87f7",
+      "comments": "https://news.ycombinator.com/item?id=48535821"
+    },
+    {
+      "title": "What traits have actually correlated with your best hires?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u62pxg/what_traits_have_actually_correlated_with_your/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-15T01:31:15Z",
+      "id": "4cbbc4d1b91501ddc5b2474068cdc630"
+    },
+    {
+      "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u60sss/ask_experienced_devs_weekly_thread_a_weekly/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-15T00:00:18Z",
+      "id": "25f64fdf6629e78d844fbae57ef68e46"
+    },
+    {
+      "title": "Just some lady's opinion",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u5wamn/just_some_ladys_opinion/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-14T20:47:37Z",
+      "id": "73a089447a690df8b7091ea53c58f373"
+    },
+    {
+      "title": "Have you ever intentionally decided to be an ass kisser/boot licker? How did it go?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u5vsvy/have_you_ever_intentionally_decided_to_be_an_ass/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-14T20:28:01Z",
+      "id": "df22ae904a7352a1f19d1b9f9d25fdd3"
+    },
+    {
+      "title": "What is actually going on?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u5ip0e/what_is_actually_going_on/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-14T11:29:21Z",
+      "id": "c4eec9f86392910b1f430967f69a23e1"
+    },
+    {
+      "title": "Has software development shifted from building to last to building to replace?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u5e9we/has_software_development_shifted_from_building_to/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-14T07:06:13Z",
+      "id": "3484a346f4a90cd0c3cc0eacde288977"
+    },
+    {
+      "title": "Strange experience with DDD",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u4viql/strange_experience_with_ddd/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-13T16:36:08Z",
+      "id": "924852c941f872c3e4bc84da9e20640d"
+    },
+    {
+      "title": "What principles do we still hold on to in the year of 2026?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u4uiuf/what_principles_do_we_still_hold_on_to_in_the/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-13T15:56:14Z",
+      "id": "6c3d9c4cb5707f5c8687f3bd896071eb"
+    },
+    {
+      "title": "What do you think about Mythos and Fable?",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1u4skga/what_do_you_think_about_mythos_and_fable/",
+      "source": "r/ExperiencedDevs",
+      "category": "tech",
+      "published": "2026-06-13T14:35:21Z",
+      "id": "d774fe93634a6e2645471fa9158d71fc"
     },
     {
       "title": "Biological evolution and information acquisition",
@@ -464,12 +464,12 @@
       "comments": "https://news.ycombinator.com/item?id=48497873"
     },
     {
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "r/programming",
+      "title": "Ask Experienced Devs Weekly Thread: A weekly thread for inexperienced developers to ask experienced ones",
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1tzs4fk/ask_experienced_devs_weekly_thread_a_weekly/",
+      "source": "r/ExperiencedDevs",
       "category": "tech",
-      "published": "2026-05-23T13:54:37Z",
-      "id": "1038175f7f05de1ed66e3b9035efc120"
+      "published": "2026-06-08T00:00:16Z",
+      "id": "3170ef06784d3a087a3998f01d7776cd"
     }
   ]
 }
