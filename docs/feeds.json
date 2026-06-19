@@ -1,6 +1,73 @@
 {
-  "last_updated": "2026-06-18T22:53:53.087183Z",
+  "last_updated": "2026-06-19T03:53:19.020637Z",
   "items": [
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-19T01:06:27Z",
+      "id": "f7b69762c05ec9528ccb4f45b41eb6f5",
+      "comments": "https://news.ycombinator.com/item?id=48593731"
+    },
+    {
+      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+      "link": "https://www.flexport.com/company/careers/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-19T01:01:13Z",
+      "id": "b27fe42c3780365742de62bdb4b2279e",
+      "comments": "https://news.ycombinator.com/item?id=48593694"
+    },
+    {
+      "title": "Update on Ocean Observatories Initiative",
+      "link": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T23:41:48Z",
+      "id": "bf031a91ffd81d725bff86158639ce2f",
+      "comments": "https://news.ycombinator.com/item?id=48593093"
+    },
+    {
+      "title": "Dallas Cowboys sign UFL and ex-Baylor WR Denzel Mims",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9l5qp/dallas_cowboys_sign_ufl_and_exbaylor_wr_denzel/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T22:57:35Z",
+      "id": "b419a2c719e3863be4ab50e3947c3e94"
+    },
+    {
+      "title": "Pennel had relationship with woman whose body found, people say",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9kt27/pennel_had_relationship_with_woman_whose_body/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T22:42:11Z",
+      "id": "e54196626cbd741dfaa206a3108f5a92"
+    },
+    {
+      "title": "Sean Payton: The UFL is helping develop NFL players",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9kk6u/sean_payton_the_ufl_is_helping_develop_nfl_players/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T22:31:33Z",
+      "id": "98e660a72086b7f862d2eccf92146ea9"
+    },
+    {
+      "title": "[Highlight] RG3\u2019s first career NFL game and the Saints first game since their bounty system was exposed (2012)",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9kgo1/highlight_rg3s_first_career_nfl_game_and_the/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T22:27:31Z",
+      "id": "f0bd84525cddb43b71c78be61345a7a9"
+    },
+    {
+      "title": "Bills sign UFL RB Ian Wheeler",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9keko/bills_sign_ufl_rb_ian_wheeler/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T22:25:01Z",
+      "id": "7d53e80b487bf351d422c5586f0d9600"
+    },
     {
       "title": "Zero-Touch OAuth for MCP",
       "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
@@ -11,13 +78,28 @@
       "comments": "https://news.ycombinator.com/item?id=48592163"
     },
     {
-      "title": "Everything Is BOM: Bill of Materials Encyclopedia",
-      "link": "https://bomwiki.com/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-18T21:03:31Z",
-      "id": "112b902b470d0fe2a8fe7fd7d70d6c82",
-      "comments": "https://news.ycombinator.com/item?id=48591562"
+      "title": "[Highlight] Javon Wims drops an absolute dime from Mitch Trubisky. 2020 NFC Wild Card",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9jgxh/highlight_javon_wims_drops_an_absolute_dime_from/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T21:46:35Z",
+      "id": "3261652ebe7c1f8357f3ac811688d547"
+    },
+    {
+      "title": "[Highlight] Jordan Love nearly gets knocked out of the end zone, tries to avoid the safety and throws a pick six",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9j14h/highlight_jordan_love_nearly_gets_knocked_out_of/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T21:29:17Z",
+      "id": "097dcc808bf8a111d897ecd64397075f"
+    },
+    {
+      "title": "[Highlight] Nelson Agholor drops a touchdown pass",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9j0gg/highlight_nelson_agholor_drops_a_touchdown_pass/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T21:28:33Z",
+      "id": "b049eb6ae3ddf480265157766daa2266"
     },
     {
       "title": "Show HN: Are You in the Weights?",
@@ -38,20 +120,28 @@
       "comments": "https://news.ycombinator.com/item?id=48591066"
     },
     {
-      "title": "Going Beyond the Hyperlink",
-      "link": "https://www.reddit.com/r/programming/comments/1u9geb4/going_beyond_the_hyperlink/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T19:47:55Z",
-      "id": "01fa5d0f2d018a6c3e9e955e60da25d6"
+      "title": "[Mic'd Up] When Cordarrelle Patterson tracked down a ball to gift to a young fan",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9g4wd/micd_up_when_cordarrelle_patterson_tracked_down_a/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T19:37:54Z",
+      "id": "2c37e9ee59b7bc1bfbe8f45f65ec1a36"
     },
     {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "link": "https://www.reddit.com/r/programming/comments/1u9eu8s/project_valhalla_explained_how_a_decade_of_work/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T18:49:23Z",
-      "id": "a333b48f3d4cf8a0a47c88927c8d4c1e"
+      "title": "Colts CB Sauce Gardner says he is 24, not 25",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9fsjj/colts_cb_sauce_gardner_says_he_is_24_not_25/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T19:24:49Z",
+      "id": "ac79422b9808a3668bd7bb9e43638233"
+    },
+    {
+      "title": "Jahmyr Gibbs: Lions are far ahead of where we were last year",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9fow9/jahmyr_gibbs_lions_are_far_ahead_of_where_we_were/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T19:20:56Z",
+      "id": "d1d7e9fe68fadbb391d167d8f66ac879"
     },
     {
       "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop \u20ac1.8M",
@@ -63,12 +153,20 @@
       "comments": "https://news.ycombinator.com/item?id=48589501"
     },
     {
-      "title": "Keeping the Internet fast and secure- introducing Merkle Tree Certificates",
-      "link": "https://www.reddit.com/r/programming/comments/1u9czhg/keeping_the_internet_fast_and_secure_introducing/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T17:41:43Z",
-      "id": "b263d4eed2d55e3b0aeaa4c6ff0c9469"
+      "title": "[Highlight] The Steelers are stopped on 4th and 1 inch after trying a toss play",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9dqg5/highlight_the_steelers_are_stopped_on_4th_and_1/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T18:08:50Z",
+      "id": "8b6f7156c00b7ba327f0843665671bdc"
+    },
+    {
+      "title": "[Thamel] All 32 teams expected to be at Brendan Sorsby\u2018s pro day",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9dift/thamel_all_32_teams_expected_to_be_at_brendan/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T18:00:52Z",
+      "id": "c81a2b6015b5e846e6e549b30eac7618"
     },
     {
       "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
@@ -80,6 +178,22 @@
       "comments": "https://news.ycombinator.com/item?id=48588755"
     },
     {
+      "title": "[Highlight] The Bengals defense attempts to intimidate Joey Porter Sr (Steelers vs Bengals 2015 Wild Card)",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9ctty/highlight_the_bengals_defense_attempts_to/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T17:35:56Z",
+      "id": "5c6a8115df1788614362cb3c5a82cd7e"
+    },
+    {
+      "title": "[highlights] Bailey Zappe attempts a fake spike and throws a baffling interception.",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9c8md/highlights_bailey_zappe_attempts_a_fake_spike_and/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T17:14:22Z",
+      "id": "534be1f3194a3ee4a89244a97d93f03e"
+    },
+    {
       "title": "Migrating from GNU Stow to Chezmoi",
       "link": "https://rednafi.com/misc/chezmoi/",
       "source": "Hacker News",
@@ -89,46 +203,45 @@
       "comments": "https://news.ycombinator.com/item?id=48588413"
     },
     {
-      "title": "The founder of Craigslist has given away half a billion dollars",
-      "link": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "title": "[Highlight] The top 10 runs from the 2025 season",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9c3mq/highlight_the_top_10_runs_from_the_2025_season/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T17:09:15Z",
+      "id": "16e2e8f400b24a72b4ac23a255e571da"
+    },
+    {
+      "title": "[NFL Films] The era of the holder being the quarterback",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9bh3s/nfl_films_the_era_of_the_holder_being_the/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T16:46:17Z",
+      "id": "d6753474f192092a6058ad6af0333c68"
+    },
+    {
+      "title": "Bucs lost OTA day after excessive contact at practice",
+      "link": "https://www.reddit.com/r/nfl/comments/1u99ea6/bucs_lost_ota_day_after_excessive_contact_at/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T15:28:28Z",
+      "id": "58e193fbea5a8d36a27e7e5164a17333"
+    },
+    {
+      "title": "Stefon Diggs to Commanders? Free-agent WR open to playing for hometown team: 'Not ruling it out'",
+      "link": "https://www.reddit.com/r/nfl/comments/1u98nti/stefon_diggs_to_commanders_freeagent_wr_open_to/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T15:01:14Z",
+      "id": "2c99c6c180aff53f9ed15b6780fb5f47"
+    },
+    {
+      "title": "Building a robotics research setup that lives next to my desk",
+      "link": "https://dfdxlabs.com/research/2026/robotics-setup/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-18T16:55:25Z",
-      "id": "66ddcfff98b8a9ac4ce7a6e960deda65",
-      "comments": "https://news.ycombinator.com/item?id=48588216"
-    },
-    {
-      "title": "What's New in Postgres 19: Beta Release Deep Dive",
-      "link": "https://www.reddit.com/r/programming/comments/1u9aktp/whats_new_in_postgres_19_beta_release_deep_dive/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T16:12:58Z",
-      "id": "a3e1c68cb2f3e1fa290a3b8d5ab17890"
-    },
-    {
-      "title": "How Modern Indexing works in PostgreSQL- In depth explanation of how Indexing in PostgreSQL works and what enahncements Postgres has adapted that makes Indexing more faster.",
-      "link": "https://www.reddit.com/r/programming/comments/1u9adv5/how_modern_indexing_works_in_postgresql_in_depth/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T16:05:44Z",
-      "id": "239f7ac4d960b3097fcb1350d8ef3f55"
-    },
-    {
-      "title": "LXM: Better Splittable Pseudorandom Number Generators (and Almost as Fast) - PDF",
-      "link": "https://www.reddit.com/r/programming/comments/1u996ko/lxm_better_splittable_pseudorandom_number/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T15:20:25Z",
-      "id": "0c8373b345d0e3c800976b2cc47bb7db"
-    },
-    {
-      "title": "A website that lists websites to submit your website to",
-      "link": "https://www.submission.directory/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-18T15:12:43Z",
-      "id": "cd770e270f6bba09805905f02f4310c9",
-      "comments": "https://news.ycombinator.com/item?id=48586631"
+      "published": "2026-06-18T14:51:53Z",
+      "id": "a974080faf47f0235eac43b563d36d99",
+      "comments": "https://news.ycombinator.com/item?id=48586329"
     },
     {
       "title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
@@ -140,12 +253,12 @@
       "comments": "https://news.ycombinator.com/item?id=48586299"
     },
     {
-      "title": "Announcing TypeScript 7.0 RC",
-      "link": "https://www.reddit.com/r/programming/comments/1u97we9/announcing_typescript_70_rc/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T14:31:38Z",
-      "id": "ac9d5ea4ca73a1426c67815e84283240"
+      "title": "[Highlight] In 1970, Dolphins fullback Larry Csonka was called for unnecessary roughness as a ball carrier. To this day, it is the first and only time in NFL history that this has ever happened",
+      "link": "https://www.reddit.com/r/nfl/comments/1u984dn/highlight_in_1970_dolphins_fullback_larry_csonka/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T14:40:24Z",
+      "id": "7c811bd3c6f191d3765ec0c4a738adb4"
     },
     {
       "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
@@ -155,6 +268,14 @@
       "published": "2026-06-18T14:24:30Z",
       "id": "8730fe801802c18779e2f6c917985659",
       "comments": "https://news.ycombinator.com/item?id=48585866"
+    },
+    {
+      "title": "ESPN Offically Kills the Booger Mobile",
+      "link": "https://www.reddit.com/r/nfl/comments/1u97oh6/espn_offically_kills_the_booger_mobile/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T14:23:18Z",
+      "id": "3cd69b0e7fbc85ce42645e4ff1d458f8"
     },
     {
       "title": "Swiss parliament lifts ban on new nuclear power plants",
@@ -175,28 +296,37 @@
       "comments": "https://news.ycombinator.com/item?id=48585739"
     },
     {
-      "title": "How I found 10,000 GitHub repositories distributing Trojan malware",
-      "link": "https://www.reddit.com/r/programming/comments/1u96myu/how_i_found_10000_github_repositories/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T13:42:21Z",
-      "id": "07f9c96de5acde8ca1e5ab3637221d70"
+      "title": "Thursday Talk Thread... Yes That's The Thread Name",
+      "link": "https://www.reddit.com/r/nfl/comments/1u9736g/thursday_talk_thread_yes_thats_the_thread_name/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T14:00:29Z",
+      "id": "ca4060425a76263dd115d1274849fed4"
     },
     {
-      "title": "Emacs 31 Is Around the Corner: The Changes I'm Already Daily Driving",
-      "link": "https://www.reddit.com/r/programming/comments/1u96mlc/emacs_31_is_around_the_corner_the_changes_im/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T13:41:55Z",
-      "id": "ae4daee7ddcbc9ca2ffa7bca9a5d2c01"
+      "title": "[Injury] Each of the 3 main members of the Legion of Boom (Chancellor, Sherman, and Thomas) final snap with the Seahawks ended with a career altering or ending injury at State Farm Stadium",
+      "link": "https://www.reddit.com/r/nfl/comments/1u971js/injury_each_of_the_3_main_members_of_the_legion/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T13:58:47Z",
+      "id": "0479c9d64a1973f41029362ea8afeb8e"
     },
     {
-      "title": "The Hidden Elegance of Gradient Noise",
-      "link": "https://www.reddit.com/r/programming/comments/1u968em/the_hidden_elegance_of_gradient_noise/",
-      "source": "r/programming",
+      "title": "[Highlight] Javon wims throws a cheap shot punch against CJ Gardner Johnson, which leads him to getting ejected.",
+      "link": "https://www.reddit.com/r/nfl/comments/1u96f22/highlight_javon_wims_throws_a_cheap_shot_punch/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-18T13:33:14Z",
+      "id": "db0ee5e62c07aecbcb9f77b7f23177b7"
+    },
+    {
+      "title": "Show HN: Talos \u2013 Open-source WASM interpreter for Lean",
+      "link": "https://github.com/cajal-technologies/talos",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-18T13:25:38Z",
-      "id": "9f48c2048156f70e3e5308f7ccf58ed8"
+      "published": "2026-06-18T13:10:44Z",
+      "id": "feb0b1e46872b52a6598c941e27a55c1",
+      "comments": "https://news.ycombinator.com/item?id=48584761"
     },
     {
       "title": "How Alberta Eradicated Rats",
@@ -217,32 +347,6 @@
       "comments": "https://news.ycombinator.com/item?id=48584497"
     },
     {
-      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-18T12:44:09Z",
-      "id": "c6e87aa582c2b70878d40b8befc641ca",
-      "comments": "https://news.ycombinator.com/item?id=48584484"
-    },
-    {
-      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-      "link": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-18T12:19:05Z",
-      "id": "29ae36cca68ec17b99d71ae108f6ebf6",
-      "comments": "https://news.ycombinator.com/item?id=48584207"
-    },
-    {
-      "title": "The C4 Model: Visualizing Software Architecture \u2022 Simon Brown & Susanne Kaiser",
-      "link": "https://www.reddit.com/r/programming/comments/1u94nvo/the_c4_model_visualizing_software_architecture/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T12:17:04Z",
-      "id": "661d5c5f9bc200bc01ae9dabd91d9e7f"
-    },
-    {
       "title": "Emacs 31 is around the corner: The changes I'm daily driving",
       "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
       "source": "Hacker News",
@@ -250,14 +354,6 @@
       "published": "2026-06-18T12:10:53Z",
       "id": "8c661a7bb4cac686214c4c048738ccf1",
       "comments": "https://news.ycombinator.com/item?id=48584135"
-    },
-    {
-      "title": "Java 27 Features: what to expect?",
-      "link": "https://www.reddit.com/r/programming/comments/1u94e1y/java_27_features_what_to_expect/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T12:03:55Z",
-      "id": "0b905e51d31464d2d6e3173095b874c7"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
@@ -287,14 +383,6 @@
       "comments": "https://news.ycombinator.com/item?id=48583606"
     },
     {
-      "title": "Building video games with 20 year old tech",
-      "link": "https://www.reddit.com/r/programming/comments/1u92q7v/building_video_games_with_20_year_old_tech/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T10:36:08Z",
-      "id": "4b74b3840d85b38567c75709e774d7fa"
-    },
-    {
       "title": "Hospitals and universities repurposing drugs at lower cost",
       "link": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
       "source": "Hacker News",
@@ -313,31 +401,6 @@
       "comments": "https://news.ycombinator.com/item?id=48583356"
     },
     {
-      "title": "Ask HN: Is anyone using the A2A protocol?",
-      "link": "https://news.ycombinator.com/item?id=48582679",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-18T08:52:45Z",
-      "id": "dc4968956c9f9fc1b8beed78fd16765e",
-      "comments": "https://news.ycombinator.com/item?id=48582679"
-    },
-    {
-      "title": "Announcing Strictland - new contract testing library for message compatibility",
-      "link": "https://www.reddit.com/r/programming/comments/1u90vnj/announcing_strictland_new_contract_testing/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T08:46:00Z",
-      "id": "49a8106037aee9dd184bd7495e72fcdf"
-    },
-    {
-      "title": "Sandcastle - Microsoft CTP of a Help CHM file generator on the tails of the death of NDoc",
-      "link": "https://www.reddit.com/r/programming/comments/1u8xxwb/sandcastle_microsoft_ctp_of_a_help_chm_file/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-18T05:50:30Z",
-      "id": "09f1d2cb741f019bb3ed708dd20ab566"
-    },
-    {
       "title": "Noam Shazeer Joins OpenAI",
       "link": "https://twitter.com/NoamShazeer/status/2067400851438932297",
       "source": "Hacker News",
@@ -345,22 +408,6 @@
       "published": "2026-06-18T00:26:06Z",
       "id": "56b8c54798269d4f4ba4656ca62c6962",
       "comments": "https://news.ycombinator.com/item?id=48578913"
-    },
-    {
-      "title": "Fearless Concurrency on the GPU (paper)",
-      "link": "https://www.reddit.com/r/programming/comments/1u8qbul/fearless_concurrency_on_the_gpu_paper/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T23:36:33Z",
-      "id": "5e1465d59f6403a5b517c37c21452c2f"
-    },
-    {
-      "title": "OpenAI joins The Rust Foundation as a Platinun member and donates funds to support Rust maintenance",
-      "link": "https://www.reddit.com/r/programming/comments/1u8kqxx/openai_joins_the_rust_foundation_as_a_platinun/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T19:54:59Z",
-      "id": "e90ec51d8f49a2093675c5090f7a74a9"
     },
     {
       "title": "Agentic Resource Discovery Specification",
@@ -372,68 +419,29 @@
       "comments": "https://news.ycombinator.com/item?id=48573268"
     },
     {
-      "title": "Forest for the trees: An adventure in structured data",
-      "link": "https://www.reddit.com/r/programming/comments/1u8cee1/forest_for_the_trees_an_adventure_in_structured/",
-      "source": "r/programming",
+      "title": "How Japan's railways stayed one while splitting apart",
+      "link": "https://arun.is/blog/jr-logo/",
+      "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-17T14:52:56Z",
-      "id": "c51d5bd81f2808084ee84a43a7046044"
+      "published": "2026-06-17T14:03:58Z",
+      "id": "6149ee729c679b59847ff19ae9271872",
+      "comments": "https://news.ycombinator.com/item?id=48570730"
     },
     {
-      "title": "Hinton's Forward Forward Algorithm in Python",
-      "link": "https://www.reddit.com/r/programming/comments/1u89gok/hintons_forward_forward_algorithm_in_python/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T12:57:23Z",
-      "id": "ae42851547aa2547757865ba86f6adc2"
+      "title": "r/NFL Top 100 Players of the 2025 NFL Season - #60-51",
+      "link": "https://www.reddit.com/r/nfl/comments/1u7v178/rnfl_top_100_players_of_the_2025_nfl_season_6051/",
+      "source": "r/nfl",
+      "category": "sports",
+      "published": "2026-06-17T00:25:34Z",
+      "id": "2b2fedf9963c209eb2db9a6249cbeb2b"
     },
     {
-      "title": "A library for pathfinding, traversal, and transformation of graph structures",
-      "link": "https://www.reddit.com/r/programming/comments/1u891hi/a_library_for_pathfinding_traversal_and/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T12:38:41Z",
-      "id": "c5b160b844a7b7b9dcd70394b3506897"
-    },
-    {
-      "title": "RFC 10008: The HTTP QUERY Method",
-      "link": "https://www.reddit.com/r/programming/comments/1u84m2g/rfc_10008_the_http_query_method/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-17T08:43:41Z",
-      "id": "54ade4f34b9650e22f64ec17586b318e"
-    },
-    {
-      "title": "Nginx explained in plain English",
-      "link": "https://www.reddit.com/r/programming/comments/1u7q8pg/nginx_explained_in_plain_english/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T21:08:49Z",
-      "id": "9a3cd4e27b5e3f21bfb0bb109706c01f"
-    },
-    {
-      "title": "Why is Meta destroying its engineering organization? Great breakdown",
-      "link": "https://www.reddit.com/r/programming/comments/1u7o7s0/why_is_meta_destroying_its_engineering/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T19:53:19Z",
-      "id": "0659bfe9e9885542ffb7ce90c0f69d74"
-    },
-    {
-      "title": "British Columbia, Time Zones, and Postgres",
-      "link": "https://www.reddit.com/r/programming/comments/1u7i2bj/british_columbia_time_zones_and_postgres/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-06-16T16:15:33Z",
-      "id": "1de42c24091e3cf4fc7619a2a194ee47"
-    },
-    {
-      "title": "American Express: Cell-Based Architecture for Resilient Payment Systems",
+      "title": "Cell-based architecture for resilient payment systems",
       "link": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-06-15T22:36:33Z",
-      "id": "a3af926a3bc2ba14d588a7339ab73fdd",
+      "id": "646536d70625c72a2808c62ea20958cf",
       "comments": "https://news.ycombinator.com/item?id=48547969"
     },
     {
@@ -446,30 +454,22 @@
       "comments": "https://news.ycombinator.com/item?id=48544429"
     },
     {
-      "title": "Dutch Railways offers unlimited off-peak train travel nationwide for \u20ac49/month",
-      "link": "https://www.ns.nl/en/season-tickets/dal-vrij",
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-15T16:44:54Z",
-      "id": "607fb53a12400eaf78fa0238269bb4da",
-      "comments": "https://news.ycombinator.com/item?id=48543872"
+      "published": "2026-06-15T16:06:22Z",
+      "id": "b1128fa48f8c04e26b6846bf88e9c865",
+      "comments": "https://news.ycombinator.com/item?id=48543311"
     },
     {
-      "title": "Emacs, how it all started for me",
-      "link": "https://xvw.lol/en/articles/emacs-start.html",
+      "title": "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
+      "link": "https://horizons.lambda-combine.net/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-15T15:32:07Z",
-      "id": "3057a5a326e85fbbefa5f21755748ab1",
-      "comments": "https://news.ycombinator.com/item?id=48542784"
-    },
-    {
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "r/programming",
-      "category": "tech",
-      "published": "2026-05-23T13:54:37Z",
-      "id": "1038175f7f05de1ed66e3b9035efc120"
+      "published": "2026-06-15T03:15:41Z",
+      "id": "286ea572bb2e76379c75dad5f64e6eef",
+      "comments": "https://news.ycombinator.com/item?id=48536167"
     }
   ]
 }
