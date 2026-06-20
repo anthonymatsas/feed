@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-06-20T02:55:31.182066Z",
+  "last_updated": "2026-06-20T06:58:55.246639Z",
   "items": [
+    {
+      "title": "Burnout Is Real for Open Source Maintainers: A Conversation with John-David Dalton, Creator of Lodash",
+      "link": "https://www.reddit.com/r/programming/comments/1uaodhr/burnout_is_real_for_open_source_maintainers_a/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-20T05:37:53Z",
+      "id": "cb3ed53fe813a387fac14b51ada7f319"
+    },
+    {
+      "title": "I Stored a Website in a Favicon",
+      "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-20T05:33:59Z",
+      "id": "f4b38c985d02fdf9219a2ca44e5ccc78",
+      "comments": "https://news.ycombinator.com/item?id=48606619"
+    },
+    {
+      "title": "Satellite reveals immense scale of GPS signal tampering",
+      "link": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-20T04:07:03Z",
+      "id": "0b875f7cdaa5efb0e356363c95757acc",
+      "comments": "https://news.ycombinator.com/item?id=48606271"
+    },
+    {
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-20T03:36:49Z",
+      "id": "4afe6a6e943eed470ff61fee9528ed0b",
+      "comments": "https://news.ycombinator.com/item?id=48606140"
+    },
     {
       "title": "How to feed a dictator",
       "link": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
@@ -9,24 +44,6 @@
       "published": "2026-06-20T01:16:56Z",
       "id": "711a9e7a1203f92d078da9f1ddb505fb",
       "comments": "https://news.ycombinator.com/item?id=48605301"
-    },
-    {
-      "title": "I solved my mystery fatigue with AI",
-      "link": "https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-20T00:47:54Z",
-      "id": "66ee5eb0b5a60f29b67a95d17c28d309",
-      "comments": "https://news.ycombinator.com/item?id=48605117"
-    },
-    {
-      "title": "We built a lab to evaluate data agents \u2013 Hex",
-      "link": "https://hex.tech/blog/evaluate-data-agents/",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-20T00:23:08Z",
-      "id": "e189e87cff34613d643db158247ebcec",
-      "comments": "https://news.ycombinator.com/item?id=48604937"
     },
     {
       "title": "Hey, n00b, we didn't hire you to complete tasks",
@@ -38,62 +55,37 @@
       "comments": "https://news.ycombinator.com/item?id=48604851"
     },
     {
-      "title": "Aikido Code Audit",
-      "link": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+      "link": "https://news.ycombinator.com/item?id=48604232",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-19T23:54:54Z",
-      "id": "4e79ba4fd36edbcdc77ac57af07e7923",
-      "comments": "https://news.ycombinator.com/item?id=48604741"
+      "published": "2026-06-19T22:51:09Z",
+      "id": "4729c4dfe4b8ac7a234bd5a4fb81cddd",
+      "comments": "https://news.ycombinator.com/item?id=48604232"
     },
     {
-      "title": "[highlights] tom Brady's best plays as a buccaneer.",
-      "link": "https://www.reddit.com/r/nfl/comments/1uah070/highlights_tom_bradys_best_plays_as_a_buccaneer/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T23:25:40Z",
-      "id": "967c5ef21d03f816ef04565b3e0f5c4c"
-    },
-    {
-      "title": "Saints G Cesar Ruiz wants to \"change the narrative\" after 2025 criticism",
-      "link": "https://www.reddit.com/r/nfl/comments/1uafzvw/saints_g_cesar_ruiz_wants_to_change_the_narrative/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T22:41:09Z",
-      "id": "d2b91e1b64d9500695f4c33c92cf6cf3"
-    },
-    {
-      "title": "[Highlight] Jeffrey Simmons catches a touchdown!",
-      "link": "https://www.reddit.com/r/nfl/comments/1uafjb3/highlight_jeffrey_simmons_catches_a_touchdown/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T22:21:04Z",
-      "id": "31d1578b4629135757fc5939322cb257"
-    },
-    {
-      "title": "[Highlight] Jeffery Simmons sacks CJ Stroud almost as soon as he snaps the ball.",
-      "link": "https://www.reddit.com/r/nfl/comments/1uafco8/highlight_jeffery_simmons_sacks_cj_stroud_almost/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T22:13:05Z",
-      "id": "2dfa34f82758968b1d7c1772f9300653"
-    },
-    {
-      "title": "Zenzizenzizenzic",
-      "link": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
-      "source": "Hacker News",
+      "title": "I Stored a Website in a Favicon",
+      "link": "https://www.reddit.com/r/programming/comments/1uaek5f/i_stored_a_website_in_a_favicon/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2026-06-19T21:49:44Z",
-      "id": "60d6152b74fc10574e54835d31bd5e24",
-      "comments": "https://news.ycombinator.com/item?id=48603664"
+      "published": "2026-06-19T21:39:31Z",
+      "id": "fd3b64db90c910adfe44dbfc09d7becd"
     },
     {
-      "title": "Surprising Economics of Load-Balanced Systems",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "link": "https://www.reddit.com/r/programming/comments/1uacwhu/project_valhalla_explained_how_a_decade_of_work/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T20:31:05Z",
+      "id": "801ff493773eb4446a70430b1aceba13"
+    },
+    {
+      "title": "Surprising economics of load-balanced systems",
       "link": "https://brooker.co.za/blog/2020/08/06/erlang.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-06-19T20:30:59Z",
-      "id": "45fca9be1689c726ea09435c28abc1ca",
+      "id": "19ed9abd83ed06b3a3375fffe5bb8d25",
       "comments": "https://news.ycombinator.com/item?id=48602918"
     },
     {
@@ -106,30 +98,6 @@
       "comments": "https://news.ycombinator.com/item?id=48602817"
     },
     {
-      "title": "[Highlight] DeAndre Hopkins Best Catches",
-      "link": "https://www.reddit.com/r/nfl/comments/1uace5e/highlight_deandre_hopkins_best_catches/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T20:11:14Z",
-      "id": "21834d21c4875601b18337507788a3bd"
-    },
-    {
-      "title": "[Rapoport] This is the first deal that includes $100M guaranteed for a defensive tackle in NFL history.",
-      "link": "https://www.reddit.com/r/nfl/comments/1uacbnj/rapoport_this_is_the_first_deal_that_includes/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T20:08:31Z",
-      "id": "e3545471a730d2dd3c27285efa777d33"
-    },
-    {
-      "title": "[Rapoport] The #Titans and All-Pro Jeff Simmons agreed to a deal making him the highest paid DT in NFL history, per me & @MikeGarafolo. The 3-year, $105.8M extension includes $100M guaranteed and was negotiated by Todd France and A.J. Stevens of @athletesfirst. Confirmed on IG by @toddfrance_",
-      "link": "https://www.reddit.com/r/nfl/comments/1uac5aq/rapoport_the_titans_and_allpro_jeff_simmons/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T20:01:31Z",
-      "id": "f94a4b70db742e08ba416ca1d53a58e3"
-    },
-    {
       "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
       "link": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
       "source": "Hacker News",
@@ -139,20 +107,46 @@
       "comments": "https://news.ycombinator.com/item?id=48602352"
     },
     {
-      "title": "[Highlight] 2003 Week 8 - Dolphins @ Chargers. Patrick Surtain: 2 INT, 2 pass deflections, and 4 tackles",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua9bas/highlight_2003_week_8_dolphins_chargers_patrick/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T18:10:41Z",
-      "id": "1855e27aade41079ffa79d7092b6297e"
+      "title": "I Fixed the Most Annoying Thing in My Smart Home | Zigbee Smart home using Python",
+      "link": "https://www.reddit.com/r/programming/comments/1uaarha/i_fixed_the_most_annoying_thing_in_my_smart_home/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T19:05:52Z",
+      "id": "bcbd4bc92103e723ae3cc644123c1cc3"
     },
     {
-      "title": "[Highlight] Dak and the Cowboys score 24 unanswered to split the series with the Eagles (Week 12, 2025)",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua8yxy/highlight_dak_and_the_cowboys_score_24_unanswered/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T17:58:11Z",
-      "id": "f1b075856aca06cdc26e0dc3084edac9"
+      "title": "Big Banana Car",
+      "link": "https://bigbananacar.com/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-19T18:14:11Z",
+      "id": "e302653093edfd4f1d827f4fbf8b99c5",
+      "comments": "https://news.ycombinator.com/item?id=48601420"
+    },
+    {
+      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+      "link": "https://www.reddit.com/r/programming/comments/1ua96l5/a_practical_guide_to_ssh_tunnels_local_and_remote/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T18:05:50Z",
+      "id": "c20d0ee7084e891105e974ecddb42496"
+    },
+    {
+      "title": "John Jumper to join Anthropic",
+      "link": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-19T17:53:00Z",
+      "id": "91fed967b5b21c0d2f3c59c5f8113dba",
+      "comments": "https://news.ycombinator.com/item?id=48601162"
+    },
+    {
+      "title": "Apple unifies device and simulator management in devicectl, here's what it means for iOS test automation and CI/CD",
+      "link": "https://www.reddit.com/r/programming/comments/1ua8f9k/apple_unifies_device_and_simulator_management_in/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T17:37:10Z",
+      "id": "50d8b1ad956f372ef0c8bd0612aec69c"
     },
     {
       "title": "Court Records Should Be Free",
@@ -164,12 +158,12 @@
       "comments": "https://news.ycombinator.com/item?id=48600946"
     },
     {
-      "title": "r/NFL Top 100 Players of the 2025 NFL Season - #50-41",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua80yj/rnfl_top_100_players_of_the_2025_nfl_season_5041/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T17:22:02Z",
-      "id": "01f87630ec5a5c0bae81a8aab10f8ecb"
+      "title": "I Replaced JSON With a Custom Binary Format. In PHP.",
+      "link": "https://www.reddit.com/r/programming/comments/1ua8b6p/i_replaced_json_with_a_custom_binary_format_in_php/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T17:32:49Z",
+      "id": "e56f773da0cdcad77aca23037b3af36d"
     },
     {
       "title": "AURpocalypse now: a look at the recent AUR attacks",
@@ -181,13 +175,12 @@
       "comments": "https://news.ycombinator.com/item?id=48600593"
     },
     {
-      "title": "Google workspace threatening to block Firefox access",
-      "link": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-      "source": "Hacker News",
+      "title": "Class Level Locking in Java - inspired by Android's Asynctask implementation - serializing multiple threads...",
+      "link": "https://www.reddit.com/r/programming/comments/1ua70a9/class_level_locking_in_java_inspired_by_androids/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2026-06-19T16:30:49Z",
-      "id": "586cb773d2e19650994c659e97cfb9f9",
-      "comments": "https://news.ycombinator.com/item?id=48600345"
+      "published": "2026-06-19T16:43:47Z",
+      "id": "253a315e0f6aa805dd221c5b22279b9c"
     },
     {
       "title": "Hyundai buys Boston Dynamics",
@@ -199,20 +192,13 @@
       "comments": "https://news.ycombinator.com/item?id=48600312"
     },
     {
-      "title": "[Highlight] Keenan Allen on Justin Herbert\u2019s most memorable play from last season: \u201cHe broke his hand. Next week he comes out, game on the line. 3rd or 4th down, we run an option play. He keeps it and with the broken hand he stiff arms a guy\u2026 That\u2019s just how he plays.\u201d",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua69yg/highlight_keenan_allen_on_justin_herberts_most/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T16:16:01Z",
-      "id": "d072737c43379280ccce95d0a81cb859"
-    },
-    {
-      "title": "[Highlight] Darnell Mooney Drops a Game Winning Hail Mary",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua62k8/highlight_darnell_mooney_drops_a_game_winning/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T16:08:02Z",
-      "id": "f4fe7b03a9693808989c76f9f70439c2"
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "link": "https://arrowtsx.dev/bigger-models/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-19T16:11:25Z",
+      "id": "ec860540b985d283d2ed8c852b832a2f",
+      "comments": "https://news.ycombinator.com/item?id=48600167"
     },
     {
       "title": "Norway imposes near ban on AI in elementary school",
@@ -224,28 +210,12 @@
       "comments": "https://news.ycombinator.com/item?id=48600093"
     },
     {
-      "title": "Supplemental draft rules could get Brendan Sorsby drafted higher than expected",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua5xip/supplemental_draft_rules_could_get_brendan_sorsby/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T16:02:34Z",
-      "id": "65416e94a71180ef2e7b5e8a220513bd"
-    },
-    {
-      "title": "[Highlight] In one of the Monday Night Football games of all time, Dolphins Punt gets stuck in mud. Steelers would go on to win 3-0",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua5pu5/highlight_in_one_of_the_monday_night_football/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T15:54:51Z",
-      "id": "4bc7875db0a7827fa2acb5e87e6d1e64"
-    },
-    {
-      "title": "[Highlight] Steelers failed miracle against the Dolphins (2013)",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua5hxe/highlight_steelers_failed_miracle_against_the/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T15:46:15Z",
-      "id": "d79131b0a633485e6bd2c6c7455988d3"
+      "title": "Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes",
+      "link": "https://www.reddit.com/r/programming/comments/1ua4n8l/stop_naming_your_variables_flag_the_art_of/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T15:13:11Z",
+      "id": "c9d5dcc4e5772a1d2f3ef7aadad63b5d"
     },
     {
       "title": "There are no instances in ATProto",
@@ -257,12 +227,12 @@
       "comments": "https://news.ycombinator.com/item?id=48599515"
     },
     {
-      "title": "Friday Free Talk",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua2tqn/friday_free_talk/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T14:01:17Z",
-      "id": "c542d998b8902c3e397d45b471e4cec1"
+      "title": "Old Software Was Fast Because It Had No Choice",
+      "link": "https://www.reddit.com/r/programming/comments/1ua2lxq/old_software_was_fast_because_it_had_no_choice/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T13:52:26Z",
+      "id": "432499788a7a17a55df5089bda26f56b"
     },
     {
       "title": "How many of the 170k English words do you know?",
@@ -274,60 +244,36 @@
       "comments": "https://news.ycombinator.com/item?id=48598586"
     },
     {
-      "title": "Omarion Hampton: Mike McDaniel will be \u201csuper good\u201d for Chargers RBs",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua2j65/omarion_hampton_mike_mcdaniel_will_be_super_good/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T13:49:11Z",
-      "id": "0509f81947bc640d2ea9df63dfe200c1"
+      "title": "Build your own vulnerability harness",
+      "link": "https://www.reddit.com/r/programming/comments/1u9z8i8/build_your_own_vulnerability_harness/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T11:17:17Z",
+      "id": "93f7f11c8d068bc466ae99f5839be93f"
     },
     {
-      "title": "[Highlight] Today marks 82 Days Until The 2026 NFL Season Starts! Let\u2019s remember when Adrian Peterson refused to be tackled onto the Lambeau turf for an 82 yard touchdown run. His longest carry as a Viking!",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua244q/highlight_today_marks_82_days_until_the_2026_nfl/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T13:31:34Z",
-      "id": "e8f13795d7feac75f338444d00e1b4f4"
+      "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+      "link": "https://www.reddit.com/r/programming/comments/1u9yk1j/efficient_c_programming_for_modern_c_cpus_chapter/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T10:40:29Z",
+      "id": "9dada1d081ae15a920c81cbafe554ca0"
     },
     {
-      "title": "[Highlight] There are 82 days until the season starts! Let's remember when #82 Antwaan Randle El threw a touchdown pass in Super Bowl XL!",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua1y76/highlight_there_are_82_days_until_the_season/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T13:24:39Z",
-      "id": "7ec9ab49dbc5ee1da9e94ba9fc920565"
+      "title": "Rethinking modularity in Ruby applications",
+      "link": "https://www.reddit.com/r/programming/comments/1u9x6ur/rethinking_modularity_in_ruby_applications/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T09:21:57Z",
+      "id": "164b2ed9b102242baa962cd404fb680f"
     },
     {
-      "title": "[Highlight] Jake Moody wins it for the Bears",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua1xbi/highlight_jake_moody_wins_it_for_the_bears/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T13:23:39Z",
-      "id": "745e69103f6339ee5ec65c713e04159b"
-    },
-    {
-      "title": "[Fowler] Shedeur Sanders has bridged the gap between him and Deshaun Watson.",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua0eo6/fowler_shedeur_sanders_has_bridged_the_gap/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T12:15:13Z",
-      "id": "fedda7ac1c36cab4b2b5acc114fa5916"
-    },
-    {
-      "title": "[Highlight] George Kittle refusing to go down, sets up win over Saints",
-      "link": "https://www.reddit.com/r/nfl/comments/1ua07fq/highlight_george_kittle_refusing_to_go_down_sets/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T12:05:45Z",
-      "id": "fa36c7f161b77d141ff452c25f6e682a"
-    },
-    {
-      "title": "[Highlight] Jayden Daniels pulls off a game winning Hail Mary",
-      "link": "https://www.reddit.com/r/nfl/comments/1u9zsii/highlight_jayden_daniels_pulls_off_a_game_winning/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-19T11:46:04Z",
-      "id": "1c9fb8a2bea5515732a92dd6215c2cf2"
+      "title": "How to Deadlock a Java ExecutorService",
+      "link": "https://www.reddit.com/r/programming/comments/1u9wq7z/how_to_deadlock_a_java_executorservice/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-19T08:54:26Z",
+      "id": "4ed1e83ed277777af1f88b6dcbfeb009"
     },
     {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
@@ -339,20 +285,36 @@
       "comments": "https://news.ycombinator.com/item?id=48595511"
     },
     {
-      "title": "Pennel had relationship with woman whose body found, people say",
-      "link": "https://www.reddit.com/r/nfl/comments/1u9kt27/pennel_had_relationship_with_woman_whose_body/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-18T22:42:11Z",
-      "id": "e54196626cbd741dfaa206a3108f5a92"
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "link": "https://www.reddit.com/r/programming/comments/1u9eu8s/project_valhalla_explained_how_a_decade_of_work/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-18T18:49:23Z",
+      "id": "a333b48f3d4cf8a0a47c88927c8d4c1e"
     },
     {
-      "title": "Colts CB Sauce Gardner says he is 24, not 25",
-      "link": "https://www.reddit.com/r/nfl/comments/1u9fsjj/colts_cb_sauce_gardner_says_he_is_24_not_25/",
-      "source": "r/nfl",
-      "category": "sports",
-      "published": "2026-06-18T19:24:49Z",
-      "id": "ac79422b9808a3668bd7bb9e43638233"
+      "title": "Keeping the Internet fast and secure- introducing Merkle Tree Certificates",
+      "link": "https://www.reddit.com/r/programming/comments/1u9czhg/keeping_the_internet_fast_and_secure_introducing/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-18T17:41:43Z",
+      "id": "b263d4eed2d55e3b0aeaa4c6ff0c9469"
+    },
+    {
+      "title": "What's New in Postgres 19: Beta Release Deep Dive",
+      "link": "https://www.reddit.com/r/programming/comments/1u9aktp/whats_new_in_postgres_19_beta_release_deep_dive/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-18T16:12:58Z",
+      "id": "a3e1c68cb2f3e1fa290a3b8d5ab17890"
+    },
+    {
+      "title": "How Modern Indexing works in PostgreSQL- In depth explanation of how Indexing in PostgreSQL works and what enahncements Postgres has adapted that makes Indexing more faster.",
+      "link": "https://www.reddit.com/r/programming/comments/1u9adv5/how_modern_indexing_works_in_postgresql_in_depth/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-18T16:05:44Z",
+      "id": "239f7ac4d960b3097fcb1350d8ef3f55"
     },
     {
       "title": "Building a robotics research setup that lives next to my desk",
@@ -364,6 +326,55 @@
       "comments": "https://news.ycombinator.com/item?id=48586329"
     },
     {
+      "title": "Announcing TypeScript 7.0 RC",
+      "link": "https://www.reddit.com/r/programming/comments/1u97we9/announcing_typescript_70_rc/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-18T14:31:38Z",
+      "id": "ac9d5ea4ca73a1426c67815e84283240"
+    },
+    {
+      "title": "How I found 10,000 GitHub repositories distributing Trojan malware",
+      "link": "https://www.reddit.com/r/programming/comments/1u96myu/how_i_found_10000_github_repositories/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-18T13:42:21Z",
+      "id": "07f9c96de5acde8ca1e5ab3637221d70"
+    },
+    {
+      "title": "Emacs 31 Is Around the Corner: The Changes I'm Already Daily Driving",
+      "link": "https://www.reddit.com/r/programming/comments/1u96mlc/emacs_31_is_around_the_corner_the_changes_im/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-18T13:41:55Z",
+      "id": "ae4daee7ddcbc9ca2ffa7bca9a5d2c01"
+    },
+    {
+      "title": "The Hidden Elegance of Gradient Noise",
+      "link": "https://www.reddit.com/r/programming/comments/1u968em/the_hidden_elegance_of_gradient_noise/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-18T13:25:38Z",
+      "id": "9f48c2048156f70e3e5308f7ccf58ed8"
+    },
+    {
+      "title": "The C4 Model: Visualizing Software Architecture \u2022 Simon Brown & Susanne Kaiser",
+      "link": "https://www.reddit.com/r/programming/comments/1u94nvo/the_c4_model_visualizing_software_architecture/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-18T12:17:04Z",
+      "id": "661d5c5f9bc200bc01ae9dabd91d9e7f"
+    },
+    {
+      "title": "Can you see three trees?",
+      "link": "https://www.not-ship.com/can-you-see-three-trees/",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-18T08:16:20Z",
+      "id": "b771dbbc179a8c79a7e1fa7b9ca12a7b",
+      "comments": "https://news.ycombinator.com/item?id=48582374"
+    },
+    {
       "title": "A Perceptron in Age of Empires II",
       "link": "https://adewynter.github.io/notes/aoe2-circuits",
       "source": "Hacker News",
@@ -371,6 +382,23 @@
       "published": "2026-06-18T07:50:12Z",
       "id": "207c4d2e789bbe54e194e93f1062479d",
       "comments": "https://news.ycombinator.com/item?id=48582180"
+    },
+    {
+      "title": "OpenAI joins The Rust Foundation as a Platinun member and donates funds to support Rust maintenance",
+      "link": "https://www.reddit.com/r/programming/comments/1u8kqxx/openai_joins_the_rust_foundation_as_a_platinun/",
+      "source": "r/programming",
+      "category": "tech",
+      "published": "2026-06-17T19:54:59Z",
+      "id": "e90ec51d8f49a2093675c5090f7a74a9"
+    },
+    {
+      "title": "The discovery that changed how scientists think about memory \u2013 IBM",
+      "link": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-06-17T11:09:29Z",
+      "id": "5d83fada720b5413a5119b96eb258945",
+      "comments": "https://news.ycombinator.com/item?id=48568652"
     },
     {
       "title": "Digital Printing of Arabic: explaining the problem",
@@ -382,12 +410,12 @@
       "comments": "https://news.ycombinator.com/item?id=48563047"
     },
     {
-      "title": "Data Compression Explained",
+      "title": "Data Compression Explained (2012)",
       "link": "https://mattmahoney.net/dc/dce.html",
       "source": "Hacker News",
       "category": "tech",
       "published": "2026-06-16T21:51:57Z",
-      "id": "7d0382be2875843b713e963f2d8bf709",
+      "id": "a0ba7c9d268396a29d847d9f821cca7e",
       "comments": "https://news.ycombinator.com/item?id=48562662"
     },
     {
@@ -400,13 +428,13 @@
       "comments": "https://news.ycombinator.com/item?id=48556082"
     },
     {
-      "title": "DuckDB Internals Part 1",
-      "link": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "title": "World Cup 2026: Soccer Arcade Games Through the Years",
+      "link": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
       "source": "Hacker News",
       "category": "tech",
-      "published": "2026-06-16T11:07:08Z",
-      "id": "3acbf6e41ced86636c7aa01d99dba3e5",
-      "comments": "https://news.ycombinator.com/item?id=48553388"
+      "published": "2026-06-16T14:30:12Z",
+      "id": "8b8b252a94b52cfc7d0c42136043cbdf",
+      "comments": "https://news.ycombinator.com/item?id=48555903"
     },
     {
       "title": "Telescope Ranchers",
@@ -436,40 +464,12 @@
       "comments": "https://news.ycombinator.com/item?id=48548612"
     },
     {
-      "title": "Ten years of ClickHouse in open source",
-      "link": "https://clickhouse.com/blog/open-source-10",
-      "source": "Hacker News",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "link": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "r/programming",
       "category": "tech",
-      "published": "2026-06-15T20:51:54Z",
-      "id": "be5c0ae5afa8682e8cc818e513d72e7b",
-      "comments": "https://news.ycombinator.com/item?id=48546890"
-    },
-    {
-      "title": "A 1976 university experiment spun up the U.S. wind industry",
-      "link": "https://spectrum.ieee.org/william-heronemus-wind-energy",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-15T14:25:51Z",
-      "id": "dc5e4afca70b264ff8601d29748f42e0",
-      "comments": "https://news.ycombinator.com/item?id=48541777"
-    },
-    {
-      "title": "RhinoCollab a plugin for real-time editing for Rhino 3D",
-      "link": "https://rhinocollab.com",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-14T20:43:23Z",
-      "id": "2f7580bbea0f1ae6c23c0faa6f9a2e63",
-      "comments": "https://news.ycombinator.com/item?id=48532447"
-    },
-    {
-      "title": "I used sound waves to make espresso. It could cut coffee\u2011brewing energy use by \u00be",
-      "link": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
-      "source": "Hacker News",
-      "category": "tech",
-      "published": "2026-06-13T08:21:45Z",
-      "id": "b1f28beb314b6bad75152ece0b8cb144",
-      "comments": "https://news.ycombinator.com/item?id=48514843"
+      "published": "2026-05-23T13:54:37Z",
+      "id": "1038175f7f05de1ed66e3b9035efc120"
     }
   ]
 }
